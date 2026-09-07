@@ -1,0 +1,48 @@
+---
+layout: post
+title: "Daily News Curation - 2026-09-07"
+date: 2026-09-07
+tags: [highlights]
+categories: [curation, news]
+excerpt: "Today's curated disability rights, accessibility, and social policy news from across Canada."
+---
+
+# Daily News Curation - 2026-09-07
+
+Curated 6 items from disability, accessibility, and social policy sources.
+
+## 🌟 Featured: The Disability Bulletin
+
+### The Disability Bulletin
+Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.
+📍 [Read More](https://linktr.ee/thedisabilitybulletin)
+
+---
+
+## Additional Stories
+
+### 1. Governments of Canada, Manitoba and the Arctic Gateway Group Welcome New Research Confirming Feasibility of Year-Round Shipping from Churchill
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=74918)
+**Score:** 19.00
+
+### 2. Scrabble Players, Gird Your Loins
+A new update to the Canadian English dictionary is underway. First out the gate? The letter Q.
+[Source](https://thetyee.ca/Culture/2026/09/07/Scrabble-Players-Gird-Your-Loins/)
+**Score:** 7.50
+
+### 3. Manitoba Government Invests up to $500,000 in Backup Generator for Minitonas-Bowsman Water Treatment Plant
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75059)
+**Score:** 7.50
+
+### 4. Manitoba Government Invests $1 Million in Municipality of Killarney-Turtle Mountain
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=74919)
+**Score:** 7.50
+
+### 5. The Making of an AI Data Centre Warrior
+Bek MacIntosh helped rally her Alberta town to kill a megaproject. The wider fight, she vows, is ‘just getting started.’
+[Source](https://thetyee.ca/News/2026/09/07/Making-AI-Data-Centre-Warrior/)
+**Score:** 4.00
+
