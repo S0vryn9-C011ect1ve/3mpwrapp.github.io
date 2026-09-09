@@ -1,0 +1,68 @@
+---
+layout: post
+title: "Daily News Curation - 2026-09-09"
+date: 2026-09-09
+tags: [highlights]
+categories: [curation, news]
+excerpt: "Today's curated disability rights, accessibility, and social policy news from across Canada."
+---
+
+# Daily News Curation - 2026-09-09
+
+Curated 10 items from disability, accessibility, and social policy sources.
+
+## 🌟 Featured: The Disability Bulletin
+
+### The Disability Bulletin
+The Disability Bulletin covers disability rights news, advocacy updates, and community stories from across Canada. Visit for the latest issue.
+📍 [Read More](https://linktr.ee/thedisabilitybulletin)
+
+---
+
+## Additional Stories
+
+### 1. Manitoba Government Announces New Manitoba-Canada Defence Alliance
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75218)
+**Score:** 18.00
+
+### 2. Manitoba Government Reopens Emergency Department at Dauphin Regional Health Centre
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75217)
+**Score:** 16.50
+
+### 3. Manitoba Government Announces Emergency Department in Dauphin to Reopen on Labour Day
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75079)
+**Score:** 14.50
+
+### 4. The Americans are very serious about annexing Canada
+Rabble.ca — progressive Canadian news
+[Source](https://rabble.ca/politics/canadian-politics/the-americans-are-very-serious-about-annexing-canada/)
+**Score:** 10.50
+
+### 5. High-Speed Internet Coming to Thousands of Underserviced Manitoba Homes Including Northern Communities
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75220)
+**Score:** 7.50
+
+### 6. Manitoba Government Invests $100,000 to Complete Boissevain-Morton Campground Expansion
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75221)
+**Score:** 7.50
+
+### 7. Manitoba Government Invests up to $73 Million to Create 821 New Homes Across Manitoba
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75219)
+**Score:** 7.50
+
+### 8. Pembina Institute says Alberta data centre could add up to $460 to electricity bills
+Rabble.ca — progressive Canadian news
+[Source](https://rabble.ca/politics/canadian-politics/pembina-institute-says-alberta-data-centre-could-add-up-to-460-to-electricity-bills/)
+**Score:** 4.60
+
+### 9. BC Changed a Law to Keep Gas Royalties Secret
+‘Improved confidentiality’ for oil companies leaves the public without previously available payment data.
+[Source](https://thetyee.ca/News/2026/09/09/BC-Changed-Law-Keep-Gas-Royalties-Secret/)
+**Score:** 4.00
+
