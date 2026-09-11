@@ -5,6 +5,8 @@ date: 2026-05-08 00:00:00 +0000
 author: Lissa Beaulieu (Founder/Creator 3mpwrApp) with GitHub Copilot assistance
 tags: [legal-intelligence, onca, appellate-research]
 categories: [community-updates, research]
+redirect_from:
+  - /blog/2026/05/08/onca-precedent-overview/
 excerpt: "Analysis of 5,034 Ontario Court of Appeal decisions (2020-2026) reveals 20.3% appeal dismissal rate, 11.7% costs decisions, and 58.1% unknown/procedural outcomes. Zero direct workplace injury appeals found, confirming ONCA's role as a precedent layer, not a tribunal success-rate dataset."
 ---
 

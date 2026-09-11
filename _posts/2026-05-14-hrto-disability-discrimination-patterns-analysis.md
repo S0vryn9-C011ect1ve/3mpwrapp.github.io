@@ -5,6 +5,8 @@ date: 2026-05-14
 author: Lissa Beaulieu (Founder/Creator 3mpwrApp) with GitHub Copilot assistance
 categories: [community-updates, research, disability-justice, tribunal-analysis]
 tags: [HRTO, ONHRT, human-rights, disability-discrimination, accessibility-barriers, disability-justice, vulnerable-communities, systemic-exclusion, research, tribunal-analysis]
+redirect_from:
+  - /blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/
 excerpt: "Seven years of Human Rights Tribunal of Ontario decisions reveal how disability discrimination operates across employment, housing, services, and education—with systematic barriers affecting injured workers, people with disabilities, and vulnerable communities seeking justice."
 ---
 
