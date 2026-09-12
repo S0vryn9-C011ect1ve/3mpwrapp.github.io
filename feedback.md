@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Feedback
-description: Thank you for your feedback! We read every response and use your input to improve 3mpwrApp for the disability community.
+description: Thank you for your feedback! We read every response and use your input to improve 3mpwrApp for the disability community. Share ideas, report barriers, or tell us what works — feedback shapes accessibility, features, and the guides we build next.
 permalink: /feedback/
 ---
 

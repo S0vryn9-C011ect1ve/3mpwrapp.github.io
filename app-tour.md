@@ -295,7 +295,7 @@ permalink: /app-tour/
 </style>
 
 <div class="gallery-hero">
-  <h1>🎯 Inside 3mpwrApp</h1>
+  <h1><span aria-hidden="true">🎯</span> Inside 3mpwrApp</h1>
   <p>Take a visual tour of the platform built to empower the disability community, injured workers, their families, supporters, and allies. See our AI-powered advocacy tools, wellness features, and community support in action.</p>
 </div>
 
@@ -331,7 +331,7 @@ permalink: /app-tour/
 ---
 
 <section id="home" class="category-section">
-  <h2>🏠 Home Dashboard</h2>
+  <h2><span aria-hidden="true">🏠</span> Home Dashboard</h2>
   <p class="category-desc">Your personalized command center with AI assistant, quick actions, and real-time updates.</p>
   
   <div class="preview-grid">
@@ -395,7 +395,7 @@ permalink: /app-tour/
 ---
 
 <section id="advocacy" class="category-section">
-  <h2>⚖️ Advocacy Hub</h2>
+  <h2><span aria-hidden="true">⚖️</span> Advocacy Hub</h2>
   <p class="category-desc">AI-powered tools for building your case, managing evidence, finding legal help, and generating professional letters.</p>
   
   <div class="preview-grid">
@@ -465,7 +465,7 @@ permalink: /app-tour/
 ---
 
 <section id="wellness" class="category-section">
-  <h2>💚 Wellness Center</h2>
+  <h2><span aria-hidden="true">💚</span> Wellness Center</h2>
   <p class="category-desc">Comprehensive health tracking, mental wellness support, movement guidance, and crisis resources - 41 tools across 6 categories.</p>
   
   <div class="preview-grid">
@@ -505,7 +505,7 @@ permalink: /app-tour/
 ---
 
 <section id="resources" class="category-section">
-  <h2>📚 Resources Center</h2>
+  <h2><span aria-hidden="true">📚</span> Resources Center</h2>
   <p class="category-desc">Master tracker, appeal center, evidence management, letter templates, and comprehensive guides - 38 powerful tools for your case.</p>
   
   <div class="preview-grid">
@@ -743,7 +743,7 @@ permalink: /app-tour/
 ---
 
 <section id="research" class="category-section">
-  <h2>🔬 Research Library</h2>
+  <h2><span aria-hidden="true">🔬</span> Research Library</h2>
   <p class="category-desc">Access medical research, legal precedents, UNCRPD guides, and evidence-based information for disability rights advocacy.</p>
   
   <div class="preview-grid">
@@ -783,7 +783,7 @@ permalink: /app-tour/
 ---
 
 <section id="campaigns" class="category-section">
-  <h2>📢 Campaigns</h2>
+  <h2><span aria-hidden="true">📢</span> Campaigns</h2>
   <p class="category-desc">Join or create advocacy campaigns for disability rights, workers compensation reform, and collective action.</p>
   
   <div class="preview-grid">
@@ -805,7 +805,7 @@ permalink: /app-tour/
 ---
 
 <section id="events" class="category-section">
-  <h2>📅 Events Calendar</h2>
+  <h2><span aria-hidden="true">📅</span> Events Calendar</h2>
   <p class="category-desc">Stay connected with community events, support group meetings, advocacy actions, and important deadlines.</p>
   
   <div class="preview-grid">
@@ -851,7 +851,7 @@ permalink: /app-tour/
 ---
 
 <section id="community" class="category-section">
-  <h2>👥 Community Hub</h2>
+  <h2><span aria-hidden="true">👥</span> Community Hub</h2>
   <p class="category-desc">Connect with the disability community, injured workers, advocates, and allies - 24 support groups and counting.</p>
   
   <div class="preview-grid">
@@ -891,7 +891,7 @@ permalink: /app-tour/
 ---
 
 <section id="profile" class="category-section">
-  <h2>👤 User Profile</h2>
+  <h2><span aria-hidden="true">👤</span> User Profile</h2>
   <p class="category-desc">Personalize your experience with role selection, wellness preferences, advocacy needs, and accessibility accommodations.</p>
   
   <div class="preview-grid">
@@ -961,7 +961,7 @@ permalink: /app-tour/
 ---
 
 <section id="settings" class="category-section">
-  <h2>⚙️ Settings & Accessibility</h2>
+  <h2><span aria-hidden="true">⚙️</span> Settings & Accessibility</h2>
   <p class="category-desc">Comprehensive accessibility options including cognitive support, neurodivergent features, cultural safety, complexity modes, WCAG AAA compliance, encryption, and privacy controls.</p>
   
   <div class="preview-grid">
@@ -1223,7 +1223,7 @@ permalink: /app-tour/
 ---
 
 <section id="onboarding" class="category-section">
-  <h2>🚪 Onboarding & Terms</h2>
+  <h2><span aria-hidden="true">🚪</span> Onboarding & Terms</h2>
   <p class="category-desc">Welcome experience, guided tutorials, terms of service, privacy policies, and important disclaimers to ensure informed consent and successful onboarding.</p>
   
   <div class="preview-grid">

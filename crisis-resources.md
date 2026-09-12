@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Crisis Resources
-description: Essential crisis support numbers across Canada. Free 24/7 helplines for mental health, suicide prevention, and immediate assistance.
+description: Essential crisis-support numbers across Canada — free 24/7 helplines for mental health, suicide prevention, and immediate assistance. Provincial and territorial resources plus text and chat options for the disability community.
 permalink: /crisis-resources/
 ---
 

@@ -132,8 +132,8 @@ personalized: true
 <section class="value-props" style="margin-bottom: 4rem;">
 
   <!-- AI Interactive Demo -->
-  <section style="max-width: 900px; margin: 2rem auto 2rem; text-align: center; padding: 2rem 1rem; background: var(--demo-gradient, linear-gradient(135deg, #667eea 0%, #764ba2 100%)); border-radius: 12px; box-shadow: 0 4px 16px rgba(102, 126, 234, 0.3);">
-    <h2 style="font-size: 1.4rem; margin-bottom: 1rem; color: var(--text-on-primary, #fff);">🎯 See 3MPWRAPP In Action</h2>
+  <section style="max-width: 900px; margin: 2rem auto 2rem; text-align: center; padding: 2rem 1rem; background: var(--demo-gradient, linear-gradient(135deg, #4a3aa0 0%, #3d2f7a 100%)); border-radius: 12px; box-shadow: 0 4px 16px rgba(102, 126, 234, 0.3);">
+    <h2 style="font-size: 1.4rem; margin-bottom: 1rem; color: var(--text-on-primary, #fff);"><span aria-hidden="true">🎯</span> See 3MPWRAPP In Action</h2>
     <p style="font-size: 1.05rem; margin-bottom: 1.5rem; color: var(--text-on-primary, #fff); opacity: 0.95;">Try our interactive demo! Explore how Evidence Locker, Parse Claim, Deadline Tracker, and Letter Wizard help Canadians organize evidence, decode decisions, and create systemic change.</p>
     <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
       <a href="/demo/" style="display: inline-block; padding: 16px 36px; background: var(--card-bg, #fff); color: var(--demo-button-text, #667eea); border-radius: 8px; font-weight: 600; font-size: 1.1rem; text-decoration: none; transition: all 0.2s; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">

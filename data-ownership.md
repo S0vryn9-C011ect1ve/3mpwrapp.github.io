@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data Ownership Statement
-description: Our unwavering commitment to 100% user data ownership and sovereignty.
+description: 3mpwrApp is built on 100% user data ownership and sovereignty — your documents, health data, and advocacy evidence are encrypted, never sold, and always exportable. Learn exactly what we collect, what we never see, and how you stay in control.
 ---
 
 {%- include status-banner.html -%}

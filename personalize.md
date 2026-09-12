@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Website Personalization - Choose Your Path
-description: Personalize your 3mpwrApp website experience based on your role and needs
+description: Personalize your 3mpwrApp website experience based on your role — injured worker, person with a disability, advocate, or supporter — and your needs, so the most relevant tools, guides, and resources surface first.
 permalink: /personalize/
 ---
 
@@ -118,7 +118,7 @@ permalink: /personalize/
 </style>
 
 <div class="persona-selector">
-  <h1 style="text-align: center; margin-bottom: 1rem;">Welcome to 3mpwrApp™</h1>
+  <p style="text-align: center; font-size: 2rem; font-weight: bold; margin-bottom: 1rem;">Welcome to 3mpwrApp™</p>
   <p style="text-align: center; font-size: 1.1rem; color: #666; max-width: 600px; margin: 0 auto 3rem;">
     Tell us who you are so we can show you the most relevant information first.
   </p>

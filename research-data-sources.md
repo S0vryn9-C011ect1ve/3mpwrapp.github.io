@@ -1,6 +1,6 @@
 ---
 title: "Research Data Sources | 3mpwrApp Tribunal Research"
-description: "Complete directory of Ontario tribunal data sources including WSIAT, HRTO, ONSBT, and WSIB. Official statistics and research databases."
+description: A complete directory of Ontario tribunal and appeals data sources powering 3mpwrApp research — WSIAT, HRTO, ONSBT, and WSIB decisions, plus official statistics and research databases, with links and notes on coverage and reliability.
 keywords: "tribunal data sources, WSIAT data, HRTO statistics, ONSBT data, WSIB data, Ontario tribunals"
 author: "3mpwrApp Research Team"
 date: 2026-04-30

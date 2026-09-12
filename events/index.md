@@ -2,7 +2,7 @@
 layout: default
 title: Events Calendar
 permalink: /events/
-description: "Community events calendar for disability rights and worker justice. Subscribe via ICS feed for automatic updates to your calendar app."
+description: The 3mpwrApp community events calendar for disability rights and worker justice — workshops, support groups, and advocacy meetups. Subscribe via ICS feed for automatic updates to your calendar app, or browse upcoming sessions.
 image: /assets/empwrapp-logo.png
 image_alt: "3mpwrApp Events - Accessible community gatherings and workshops"
 ---
@@ -16,7 +16,7 @@ image_alt: "3mpwrApp Events - Accessible community gatherings and workshops"
 
 📖 **2 minute read** | 🔋 **Energy: Very Light**
 
-<div class="gradient-banner" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 2rem; border-radius: 12px; margin: 2rem 0; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+<div class="gradient-banner" style="background: linear-gradient(135deg, #4a3aa0 0%, #3d2f7a 100%); color: white; padding: 2rem; border-radius: 12px; margin: 2rem 0; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
   <h2 style="margin: 0 0 1rem; font-size: 2rem; color: white;">📅 Real-Time Auto-Sync is LIVE! ✅</h2>
   <p style="font-size: 1.3rem; margin: 0 0 1.5rem; font-weight: 600;">Seamless calendar integration is now active</p>
   <div style="background: rgba(255,255,255,0.2); padding: 1.5rem; border-radius: 8px; margin: 1rem auto; max-width: 600px; backdrop-filter: blur(10px);">
@@ -205,7 +205,7 @@ image_alt: "3mpwrApp Events - Accessible community gatherings and workshops"
 </div>
 
 <div style="margin: 1rem 0; text-align: center;">
-  <button onclick="shareAllEvents()" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; font-weight: bold; font-size: 1rem; cursor: pointer; box-shadow: 0 2px 8px rgba(0,0,0,0.2); transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
+  <button onclick="shareAllEvents()" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #4a3aa0 0%, #3d2f7a 100%); color: white; border: none; border-radius: 8px; font-weight: bold; font-size: 1rem; cursor: pointer; box-shadow: 0 2px 8px rgba(0,0,0,0.2); transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
     📢 Share Events Calendar
   </button>
 </div>

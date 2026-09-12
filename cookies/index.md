@@ -2,7 +2,7 @@
 layout: default
 title: Cookies & Data Retention
 permalink: /cookies/
-description: Cookie consent, analytics, and data retention practices.
+description: How 3mpwrApp uses cookies and analytics — what we store on your device, how cookie consent works, what we measure to improve accessibility, and exactly how long data is retained. No tracking for resale.
 ---
 
 

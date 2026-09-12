@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Interactive Demos
-description: Try 3mpwr App features right in your browser with our interactive demos
+description: Try 3mpwrApp's accessibility-first features right in your browser with interactive demos — explore the Evidence Locker, Letter Wizard, Deadline Tracker, and Appeal Coach before you download the app.
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/interactive-demos.css' | relative_url }}">

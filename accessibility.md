@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Accessibility Statement
-description: Our commitment to inclusive accessible design
+description: How 3mpwrApp meets WCAG 2.2 AAA accessibility standards — light, dark, and high-contrast modes, screen reader support, keyboard navigation, dyslexia-friendly fonts, and text scaling built for the disability community.
 permalink: /accessibility/
 ---
 

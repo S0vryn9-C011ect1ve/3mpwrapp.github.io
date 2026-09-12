@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Data Limitations & Methodology: Transparency in Research"
-description: "Honest explanation of what our WSIAT research can and cannot tell you. Accessibility-focused, plain-language guide to data quality and limitations."
+description: An honest, accessibility-focused, plain-language explanation of what our WSIAT research can and cannot tell you — data quality, coverage gaps, confidence levels, and how to use the evidence responsibly in your Ontario appeal.
 permalink: /data-limitations/
 ---
 

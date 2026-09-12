@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact Us
-description: Get in touch with the 3mpwr team for questions, feedback, or collaboration opportunities.
+description: Get in touch with the 3mpwrApp team for questions, feedback, partnerships, or collaboration opportunities. Find our email, in-app help, community spaces, and accessibility-first contact options.
 permalink: /contact/
 ---
 

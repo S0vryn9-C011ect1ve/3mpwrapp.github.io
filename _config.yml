@@ -11,6 +11,9 @@ theme: minima
 header_pages:
   - about.md
   - demo/index.md
+  - features.md
+  - user-guide.md
+  - beta-testers-guide.md
   - research.md
   - faq.md
   - accessibility.md
@@ -163,5 +166,5 @@ exclude:
   - docs/setup
   - docs/development
   - docs/performance
-  - assets/downloads/3mpwrapp-user-guide-full.md  # Exclude .md, keep .html version
+  # - assets/downloads/3mpwrapp-user-guide-full.md  # retired: real /user-guide/ page now exists
   # Note: docs/ folder IS published (removed from exclude) so WSIB research is accessible

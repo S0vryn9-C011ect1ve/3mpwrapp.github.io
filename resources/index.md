@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resources
-description: Comprehensive guides, rights information, templates, and helpful links to empower your journey.
+description: Comprehensive guides, rights information, appeal templates, and helpful links to empower your workplace-injury and disability journey — plain-language resources built by and for injured workers, persons with disabilities, and advocates.
 ---
 
 

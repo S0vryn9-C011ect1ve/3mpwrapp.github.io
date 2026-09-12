@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Community
-description: "Join an inclusive community of persons with disabilities, injured workers, and allies. Safe peer support, advocacy, and collective action."
+description: Join an inclusive community of persons with disabilities, injured workers, and allies on 3mpwrApp — safe peer support, shared advocacy, and collective action that turns individual evidence into systemic change across Canada.
 image: /assets/empwrapp-logo.png
 image_alt: "3mpwrApp Community - Inclusive peer support and advocacy"
 permalink: /community/

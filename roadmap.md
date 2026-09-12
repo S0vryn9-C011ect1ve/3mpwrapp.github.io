@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Roadmap
-description: Our development roadmap for 3mpwrApp - upcoming features, improvements, and innovations. First demo complete, USA Lite launched!
+description: The 3mpwrApp development roadmap — upcoming features, accessibility improvements, and innovations shaped by beta testers and the disability community. See what's shipped, what's in progress, and what's next for injured-worker advocacy tools.
 permalink: /roadmap/
 lastUpdated: 2025-12-14
 ---

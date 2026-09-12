@@ -2,7 +2,7 @@
 layout: default
 title: Legal Center
 permalink: /legal/
-description: All legal documents, policies, and compliance information for 3mpwrApp.
+description: The complete collection of 3mpwrApp legal documents, policies, and compliance information — privacy, terms of use, disclaimers, accessibility commitments, and data-protection practices for the disability community.
 ---
 
 {%- include status-banner.html -%}

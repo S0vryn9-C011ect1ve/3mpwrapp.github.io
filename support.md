@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Support 3mpwrApp
-description: Help keep 3mpwrApp 100% free forever. Transparent operating costs and donation options.
+description: Help keep 3mpwrApp 100% free forever for injured workers and persons with disabilities. See our transparent operating costs, how donations are used, and the ways you can support the mission without compromising user data ownership.
 permalink: /support
 ---
 
@@ -11,14 +11,14 @@ permalink: /support
 
 # Support 3mpwrApp - Keep It Free Forever
 
-<div class="welcome-banner" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 2rem; border-radius: 12px; margin: 2rem 0;">
-  <h2 style="color: white; margin-top: 0;">💚 100% Free Forever - Because Everyone Deserves Access</h2>
+<div class="welcome-banner" style="background: linear-gradient(135deg, #4a3aa0 0%, #3d2f7a 100%); color: white; padding: 2rem; border-radius: 12px; margin: 2rem 0;">
+  <h2 style="color: white; margin-top: 0;"><span aria-hidden="true">💚</span> 100% Free Forever - Because Everyone Deserves Access</h2>
   <p style="font-size: 1.2rem; opacity: 0.95;">
     3mpwrApp will <strong>never</strong> charge users. No subscriptions, no in-app purchases, no paid tiers. We're community-funded so disabled people and injured workers can access tools without financial barriers.
   </p>
 </div>
 
-## 📊 Complete Financial Transparency
+## <span aria-hidden="true">📊</span> Complete Financial Transparency
 
 ### Current Monthly Operating Costs
 
@@ -40,14 +40,14 @@ permalink: /support
 
 </div>
 
-### 🎯 Sustainability Goal: $150/month
+### <span aria-hidden="true">🎯</span> Sustainability Goal: $150/month
 
 **Why this target?**
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 1.5rem 0;">
 
 <div style="background: white; padding: 1.5rem; border-radius: 8px; border: 2px solid #e0e0e0;">
-  <h4 style="margin-top: 0;">💰 Operating Costs ($50/month)</h4>
+  <h4 style="margin-top: 0;"><span aria-hidden="true">💰</span> Operating Costs ($50/month)</h4>
   <ul style="margin: 0;">
     <li><strong>Domain:</strong> $2/month</li>
     <li><strong>Firebase growth:</strong> $25/month (when we exceed free tier)</li>
@@ -57,7 +57,7 @@ permalink: /support
 </div>
 
 <div style="background: white; padding: 1.5rem; border-radius: 8px; border: 2px solid #e0e0e0;">
-  <h4 style="margin-top: 0;">👨‍💻 Development Support ($75/month)</h4>
+  <h4 style="margin-top: 0;"><span aria-hidden="true">👨‍💻</span> Development Support ($75/month)</h4>
   <ul style="margin: 0;">
     <li><strong>Part-time help:</strong> ~6 hours/month</li>
     <li><strong>Bug fixes & updates</strong></li>
@@ -67,7 +67,7 @@ permalink: /support
 </div>
 
 <div style="background: white; padding: 1.5rem; border-radius: 8px; border: 2px solid #e0e0e0;">
-  <h4 style="margin-top: 0;">🌱 Growth Buffer ($25/month)</h4>
+  <h4 style="margin-top: 0;"><span aria-hidden="true">🌱</span> Growth Buffer ($25/month)</h4>
   <ul style="margin: 0;">
     <li><strong>Emergency funds</strong></li>
     <li><strong>Unexpected costs</strong></li>
@@ -78,7 +78,7 @@ permalink: /support
 
 </div>
 
-### 📈 Impact of Your Support
+### <span aria-hidden="true">📈</span> Impact of Your Support
 
 <div style="background: #e8f5e9; padding: 1.5rem; border-radius: 8px; margin: 1.5rem 0;">
 
@@ -94,7 +94,7 @@ permalink: /support
 
 ---
 
-## 💳 Ways to Support
+## <span aria-hidden="true">💳</span> Ways to Support
 
 ### 1️⃣ One-Time or Monthly Donation
 
@@ -176,7 +176,7 @@ We're seeking mission-aligned institutional support:
 
 <div style="background: #f0f8ff; padding: 1.5rem; border-radius: 8px; margin: 1.5rem 0;">
 
-### ✅ We Will Accept:
+### <span aria-hidden="true">✅</span> We Will Accept:
 - Individual donations (any amount)
 - Community fundraising
 - Mission-aligned grants
@@ -184,7 +184,7 @@ We're seeking mission-aligned institutional support:
 - Accessibility-focused sponsorships
 - Pro-bono services
 
-### ❌ We Will NEVER Accept:
+### <span aria-hidden="true">❌</span> We Will NEVER Accept:
 - Venture capital
 - Insurance company funding
 - Corporate sponsors that exploit workers
@@ -197,7 +197,7 @@ We're seeking mission-aligned institutional support:
 
 ---
 
-## 📜 Accountability & Reporting
+## <span aria-hidden="true">📜</span> Accountability & Reporting
 
 ### Quarterly Financial Reports
 
@@ -218,11 +218,11 @@ We're seeking mission-aligned institutional support:
 
 ---
 
-## 💙 Thank You
+## <span aria-hidden="true">💙</span> Thank You
 
 Every dollar, bug report, code contribution, and word of mouth helps us serve the disability community better.
 
-<div style="text-align: center; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 3rem 2rem; border-radius: 12px; margin: 3rem 0;">
+<div style="text-align: center; background: linear-gradient(135deg, #4a3aa0 0%, #3d2f7a 100%); color: white; padding: 3rem 2rem; border-radius: 12px; margin: 3rem 0;">
   <h2 style="color: white; font-size: 2rem; margin-bottom: 1rem;">Together, We're Building Something Powerful</h2>
   <p style="font-size: 1.2rem; margin-bottom: 2rem; opacity: 0.95;">
     3mpwrApp is living proof that disability-led, community-funded platforms can thrive without corporate control.
@@ -235,7 +235,7 @@ Every dollar, bug report, code contribution, and word of mouth helps us serve th
 
 ---
 
-## 🙏 Current Supporters
+## <span aria-hidden="true">🙏</span> Current Supporters
 
 <div style="text-align: center; padding: 2rem; background: #f8f9fa; border-radius: 8px; margin: 2rem 0;">
   <p style="font-size: 1.1rem; color: #666; margin: 0;">

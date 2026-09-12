@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "How to Use This Data: A Plain-Language Guide for Injured Workers"
-description: "Simple, accessible guide explaining how to use 3mpwrApp's WSIAT research data for your workplace injury appeal in Ontario."
+description: A simple, accessible guide explaining how to use 3mpwrApp's WSIAT research data for your Ontario workplace-injury appeal — find relevant tribunal outcomes, understand success patterns, and apply evidence to strengthen your case.
 permalink: /how-to-use-this-data/
 ---
 

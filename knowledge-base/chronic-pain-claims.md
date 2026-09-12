@@ -1,6 +1,6 @@
 ---
 title: Chronic Pain: Building Your Case
-description: *Based on 186 WSIAT decisions involving chronic pain*
+description: Plain-language guidance for building a chronic pain claim at WSIAT, based on analysis of 186 WSIAT decisions involving chronic pain. Learn what evidence tribunals accept, common denial reasons, and how to strengthen your appeal. *Based on 186 WSIAT decisions involving chronic pain*
 ---
 
 # Chronic Pain: Building Your Case

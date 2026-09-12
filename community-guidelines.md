@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Community Guidelines
-description: Community standards for a safe, respectful, trauma-informed space. Rules for peer support, privacy protection, and inclusive advocacy.
+description: Community standards for a safe, respectful, trauma-informed space. Read the rules for peer support, privacy protection, anti-harassment, and inclusive advocacy that keep 3mpwrApp welcoming for injured workers and persons with disabilities.
 permalink: /code-of-conduct/
 ---
 

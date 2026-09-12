@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-description: Get in touch with 3mpwrApp - we're here to help and listen to your feedback.
+description: Get in touch with the 3mpwrApp team — we're here to help, answer questions, and listen to your feedback. Find email, in-app support, community channels, and accessibility-friendly ways to reach us.
 ---
 
 

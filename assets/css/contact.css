@@ -5,7 +5,7 @@
 
 /* Welcome Banner */
 .welcome-banner {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #4a3aa0 0%, #3d2f7a 100%);
   color: white;
   padding: 3rem 2rem;
   border-radius: 12px;
@@ -231,7 +231,7 @@
 }
 
 .btn-primary {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #4a3aa0 0%, #3d2f7a 100%);
   color: white;
   border: none;
 }

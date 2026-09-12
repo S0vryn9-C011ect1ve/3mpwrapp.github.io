@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Privacy Policy
-description: How 3mpwrApp collects, protects, and respects your data — built on 100% user data ownership.
+description: How 3mpwrApp collects, protects, and respects your data — built on 100% user data ownership. Learn what we encrypt, what we never see, your rights to export or delete data, and our no-sale, no-tracking promise to the disability community.
 permalink: /privacy/
 ---
 

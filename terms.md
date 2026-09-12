@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Terms of Service
-description: Terms of use for 3mpwrApp — free community tools for injured workers and persons with disabilities.
+description: Terms of use for 3mpwrApp — free community advocacy tools for injured workers and persons with disabilities. Read how the service is provided, your responsibilities, disclaimers, and our commitment to keeping the platform accessible and ad-free.
 permalink: /terms/
 ---
 

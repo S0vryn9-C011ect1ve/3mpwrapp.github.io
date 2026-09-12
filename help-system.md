@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contextual Help System
-description: Get help exactly when and where you need it
+description: 3mpwrApp's contextual help system delivers guidance exactly when and where you need it — inline tips, step-by-step walkthroughs, and accessible support that meets you inside every workflow without leaving the page.
 permalink: /help-system/
 ---
 
@@ -63,7 +63,6 @@ permalink: /help-system/
 </style>
 
 <div class="help-guide">
-  <h1>Contextual Help System</h1>
   <p style="font-size: 1.1rem; color: #666;">
     Add intelligent, persona-aware help throughout your 3mpwrApp™ website.
   </p>
