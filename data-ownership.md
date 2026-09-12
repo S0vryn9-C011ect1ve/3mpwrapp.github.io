@@ -1,7 +1,6 @@
 ﻿---
 layout: default
 title: Data Ownership Statement
-permalink: /data-ownership/
 description: Our unwavering commitment to 100% user data ownership and sovereignty.
 ---
 

@@ -1,7 +1,6 @@
 ﻿---
 layout: default
 title: Community Guidelines
-permalink: /community/guidelines/
 description: Community standards for a safe, respectful, trauma-informed space. Rules for peer support, privacy protection, and inclusive advocacy.
 ---
 
