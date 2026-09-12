@@ -303,5 +303,7 @@ For questions about data ownership or to verify these claims:
 
 *This statement represents our core commitment to user data sovereignty. Your privacy and data ownership are not just promises—they're technically guaranteed by our architecture.*
 
+> 📱 **Also available in the app:** The same Data Ownership Statement is accessible anytime from **Settings → About → Legal & Policies** in the 3mpwrApp mobile app ([open the app](https://app.3mpwrapp.ca)).
+
 **Version:** 2.2
 **Effective:** September 11, 2026

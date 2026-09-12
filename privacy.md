@@ -175,3 +175,7 @@ For privacy-related questions, data requests, or security concerns, please conta
 ---
 
 > 🔒 **Privacy Verification:** This policy reflects our actual technical implementation. You can verify our privacy claims through code inspection, network monitoring, and our published verification guides. Your privacy and data ownership are not just promises—they're technically guaranteed by our architecture.
+
+---
+
+> 📱 **Also available in the app:** The same Privacy Policy is accessible anytime from **Settings → About → Legal & Policies** in the 3mpwrApp mobile app ([open the app](https://app.3mpwrapp.ca)).

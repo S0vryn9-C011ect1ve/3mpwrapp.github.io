@@ -253,6 +253,8 @@ We're committed to maintaining a supportive, safe community where everyone feels
 
 ---
 
+> 📱 **Also available in the app:** The same Community Guidelines (Code of Conduct) is accessible anytime from **Settings → About → Legal & Policies** in the 3mpwrApp mobile app ([open the app](https://app.3mpwrapp.ca)).
+
 **© 2026 3mpwrApp. All rights reserved.**
 
 {%- include page-feedback.html -%}

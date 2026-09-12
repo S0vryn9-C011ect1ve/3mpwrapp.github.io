@@ -121,3 +121,5 @@ For questions about these Terms, contact:
 ---
 
 *These Terms reflect our commitment to transparency, accessibility, and 100% user data ownership. We welcome your questions and feedback.*
+
+> 📱 **Also available in the app:** The same Terms of Service is accessible anytime from **Settings → About → Legal & Policies** in the 3mpwrApp mobile app ([open the app](https://app.3mpwrapp.ca)).

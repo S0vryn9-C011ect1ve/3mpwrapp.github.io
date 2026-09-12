@@ -713,3 +713,7 @@ All headings, questions, answers, and links have adequate contrast ratios (WCAG 
 **Version 2.0 | Completely Rewritten May 2026 | Next update: May 2027**
 
 **Thank you for using 3MPWRAPP! 💙**
+
+---
+
+> 📱 **Also in the app:** The same FAQs are built into the 3mpwrApp mobile app — tap **FAQ** in the tab bar, or find it under **Settings → About**. ([open the app](https://app.3mpwrapp.ca))
