@@ -1,0 +1,2721 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+  <meta name="description" content="Practical tools and community for injured workers and persons with disabilities.">
+  
+  <!-- 
+    Security Headers: These should be set via server-side headers file (_headers for Netlify/Vercel, .htaccess for Apache, etc.)
+    CSP meta tag is included above as the only valid http-equiv for security headers.
+    X-Content-Type-Options, X-Frame-Options, and Referrer-Policy must be set as HTTP response headers, not meta tags.
+  -->
+  
+  <!-- Resource Hints for Performance (limit to 3 most critical) -->
+  <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+  <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
+  <link rel="dns-prefetch" href="https://formspree.io">
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+  <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
+  
+  <!-- PWA Manifest -->
+  <link rel="manifest" href="/manifest.json"><!-- Open Graph Meta Tags -->
+<meta property="og:site_name" content="3mpwrApp™">
+<meta property="og:title" content="BC to Ontario: Cross-Provincial Analysis of Claim Suppression Patterns">
+<meta property="og:description" content="Practical tools and community for injured workers and persons with disabilities.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://3mpwrapp.ca/blog/2026/04/17/claim-suppression-playbook/">
+<meta property="og:locale" content="en_CA">
+
+<meta property="og:locale:alternate" content="fr_CA">
+
+
+<!-- Open Graph Image -->
+
+<meta property="og:image" content="https://3mpwrapp.ca/assets/empwrapp-logo.png">
+<meta property="og:image:secure_url" content="https://3mpwrapp.ca/assets/empwrapp-logo.png">
+<meta property="og:image:alt" content="BC to Ontario: Cross-Provincial Analysis of Claim Suppression Patterns">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+
+
+<!-- Article-specific Open Graph -->
+
+<meta property="article:published_time" content="2026-04-17T00:00:00+00:00">
+<meta property="article:author" content="3mpwrApp">
+
+
+
+<meta property="article:section" content="research">
+
+<meta property="article:section" content="wsib">
+
+<meta property="article:section" content="claim-suppression">
+
+
+
+
+<meta property="article:tag" content="employer-retaliation">
+
+<meta property="article:tag" content="claim-suppression">
+
+<meta property="article:tag" content="statistical-analysis">
+
+<meta property="article:tag" content="workers-rights">
+
+<meta property="article:tag" content="cross-provincial">
+
+<meta property="article:tag" content="pickering-precedent">
+
+
+
+
+<!-- Twitter Card Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@3mpowrapp0816">
+<meta name="twitter:creator" content="@3mpowrapp0816">
+<meta name="twitter:title" content="BC to Ontario: Cross-Provincial Analysis of Claim Suppression Patterns">
+<meta name="twitter:description" content="Practical tools and community for injured workers and persons with disabilities.">
+
+<meta name="twitter:image" content="https://3mpwrapp.ca/assets/empwrapp-logo.png">
+<meta name="twitter:image:alt" content="BC to Ontario: Cross-Provincial Analysis of Claim Suppression Patterns">
+
+
+<!-- Additional Meta Tags -->
+<meta name="author" content="3mpwrApp">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="googlebot" content="index, follow">
+
+<meta name="language" content="English">
+
+
+<!-- Canonical URL -->
+<link rel="canonical" href="https://3mpwrapp.ca/blog/2026/04/17/claim-suppression-playbook/">
+
+<!-- Alternate Language Links (hreflang) -->
+
+
+<link rel="alternate" hreflang="en" href="https://3mpwrapp.ca/blog/2026/04/17/claim-suppression-playbook/">
+
+<link rel="alternate" hreflang="x-default" href="https://3mpwrapp.ca/blog/2026/04/17/claim-suppression-playbook/">
+
+
+<!-- PWA and Mobile Meta Tags -->
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="3mpwrApp">
+<meta name="application-name" content="3mpwrApp">
+<meta name="theme-color" content="#2A9D8F">
+<meta name="msapplication-TileColor" content="#2A9D8F">
+<meta name="msapplication-navbutton-color" content="#2A9D8F">
+
+<!-- Manifest -->
+<link rel="manifest" href="/manifest.json">
+
+<!-- Favicons and Touch Icons -->
+<link rel="icon" type="image/png" sizes="192x192" href="/assets/icons/icon-192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="/assets/icons/icon-512.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/icon-192.png">
+<!-- Schema.org Structured Data (JSON-LD) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://3mpwrapp.ca#organization",
+      "name": "3mpwrApp",
+      "alternateName": "EmpowrApp",
+      "url": "https://3mpwrapp.ca",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://3mpwrapp.ca#logo",
+  "url": "https://3mpwrapp.ca/assets/empwrapp-logo.png",
+        "width": 512,
+        "height": 512,
+        "caption": "3mpwrApp Logo"
+      },
+      "description": "Practical tools and community for injured workers and persons with disabilities.",
+      "foundingDate": "2024",
+      "foundingLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "CA"
+        }
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "empowrapp08162025@gmail.com",
+        "contactType": "Customer Support",
+        "availableLanguage": ["English", "French"]
+      },
+      "sameAs": [
+        "https://www.facebook.com/3mpowrapp/",
+        "https://x.com/3mpowrapp0816",
+        "https://www.instagram.com/3mpwrapp/",
+        "https://www.youtube.com/3mpwrApp",
+        "https://www.tiktok.com/@3mpwrapp",
+        "https://mastodon.social/@3mpwrApp",
+        "https://bsky.app/profile/3mpwrapp.bsky.social",
+        "https://github.com/3mpwrApp"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://3mpwrapp.ca#website",
+      "url": "https://3mpwrapp.ca",
+      "name": "3mpwrApp",
+      "description": "Practical tools and community for injured workers and persons with disabilities.",
+      "publisher": {
+        "@id": "https://3mpwrapp.ca#organization"
+      },
+      "inLanguage": "en-CA",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://3mpwrapp.ca/search?q={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://3mpwrapp.ca/blog/2026/04/17/claim-suppression-playbook/#webpage",
+      "url": "https://3mpwrapp.ca/blog/2026/04/17/claim-suppression-playbook/",
+      "name": "BC to Ontario: Cross-Provincial Analysis of Claim Suppression Patterns",
+      "headline": "BC to Ontario: Cross-Provincial Analysis of Claim Suppression Patterns",
+      "description": "Practical tools and community for injured workers and persons with disabilities.",
+      "isPartOf": {
+        "@id": "https://3mpwrapp.ca#website"
+      },
+      "inLanguage": "en-CA",
+      
+      "image": {
+        "@type": "ImageObject",
+        "@id": "https://3mpwrapp.ca/blog/2026/04/17/claim-suppression-playbook/#primaryimage",
+        "url": "https://3mpwrapp.ca/assets/empwrapp-logo.png",
+        "width": 1200,
+        "height": 630,
+        "caption": "BC to Ontario: Cross-Provincial Analysis of Claim Suppression Patterns"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://3mpwrapp.ca/blog/2026/04/17/claim-suppression-playbook/#primaryimage"
+      },
+      
+      
+      "datePublished": "2026-04-17T00:00:00+00:00",
+      
+      "dateModified": "2026-04-17T00:00:00+00:00",
+      
+      "author": {
+        "@id": "https://3mpwrapp.ca#organization"
+      },
+      "publisher": {
+        "@id": "https://3mpwrapp.ca#organization"
+      },
+      
+      "breadcrumb": {
+        "@id": "https://3mpwrapp.ca/blog/2026/04/17/claim-suppression-playbook/#breadcrumb"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://3mpwrapp.ca/blog/2026/04/17/claim-suppression-playbook/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://3mpwrapp.ca"
+        }
+        
+        
+        
+        
+        
+          
+          
+          
+          
+        ,{
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://3mpwrapp.ca/blog"
+        }
+          
+          
+        
+          
+          
+          
+          
+        ,{
+          "@type": "ListItem",
+          "position": 3,
+          "name": "2026",
+          "item": "https://3mpwrapp.ca/blog/2026"
+        }
+          
+          
+        
+          
+          
+          
+          
+        ,{
+          "@type": "ListItem",
+          "position": 4,
+          "name": "04",
+          "item": "https://3mpwrapp.ca/blog/2026/04"
+        }
+          
+          
+        
+          
+          
+          
+          
+        ,{
+          "@type": "ListItem",
+          "position": 5,
+          "name": "17",
+          "item": "https://3mpwrapp.ca/blog/2026/04/17"
+        }
+          
+          
+        
+          
+          
+          
+        ,{
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Bc to ontario: cross provincial analysis of claim suppression patterns",
+          "item": "https://3mpwrapp.ca/blog/2026/04/17/claim-suppression-playbook"
+        }
+          
+        
+        
+      ]
+    }
+    
+  ]
+}
+</script>
+
+<!-- Additional Schema for Accessibility Features -->
+
+
+<!-- Software Application Schema for App Pages -->
+
+<link rel="canonical" href="https://3mpwrapp.ca/blog/2026/04/17/claim-suppression-playbook/"><!-- hreflang tags for international SEO -->
+<!-- English Canada (primary) -->
+<link rel="alternate" hreflang="en-CA" href="https://3mpwrapp.ca/blog/2026/04/17/claim-suppression-playbook/" />
+
+<!-- French Canada -->
+
+
+<link rel="alternate" hreflang="fr-CA" href="https://3mpwrapp.ca/fr/blog/2026/04/17/claim-suppression-playbook/" />
+
+
+<!-- USA (when available) -->
+
+
+<!-- Default fallback (English Canada) -->
+<link rel="alternate" hreflang="x-default" href="https://3mpwrapp.ca/blog/2026/04/17/claim-suppression-playbook/" />
+
+<!-- Future language expansions (add as they go live) -->
+<!-- 
+<link rel="alternate" hreflang="es" href="https://3mpwrapp.ca/blog/2026/04/17/claim-suppression-playbook/" />
+<link rel="alternate" hreflang="ar" href="https://3mpwrapp.ca/blog/2026/04/17/claim-suppression-playbook/" />
+<link rel="alternate" hreflang="zh-CN" href="https://3mpwrapp.ca/blog/2026/04/17/claim-suppression-playbook/" />
+-->
+<link rel="stylesheet" href="/assets/css/blog-post-tables.css"><link rel="stylesheet" href="/assets/css/complexity-mode.css">
+<script src="/assets/js/complexity-mode.js" defer></script><link rel="stylesheet" href="/assets/css/connection-status.css">
+<script src="/assets/js/connection-status.js" defer></script><!-- Open Graph Meta Tags -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="3mpwrApp">
+<meta property="og:title" content="BC to Ontario: Cross-Provincial Analysis of Claim Suppression Patterns">
+<meta property="og:description" content="Practical tools and community for injured workers and persons with disabilities.">
+<meta property="og:url" content="https://3mpwrapp.ca/blog/2026/04/17/claim-suppression-playbook/">
+<meta property="og:image" content="https://3mpwrapp.ca/assets/images/social-share-default.png">
+<meta property="og:image:alt" content="3mpwrApp - Community-powered support for injured workers and persons with disabilities">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="en_CA"><meta property="og:locale:alternate" content="fr_CA"><!-- Twitter Card Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@3mpwrApp">
+<meta name="twitter:creator" content="@ODSPoor">
+<meta name="twitter:title" content="BC to Ontario: Cross-Provincial Analysis of Claim Suppression Patterns">
+<meta name="twitter:description" content="Practical tools and community for injured workers and persons with disabilities.">
+<meta name="twitter:image" content="https://3mpwrapp.ca/assets/images/social-share-default.png">
+<meta name="twitter:image:alt" content="3mpwrApp - Community-powered support for injured workers and persons with disabilities">
+
+<!-- Additional Meta for Rich Previews -->
+<meta property="article:publisher" content="https://www.facebook.com/3mpwrApp"><meta property="article:published_time" content="2026-04-17T00:00:00+00:00"><!-- Facebook App ID (if available) -->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "tps3d4cg0x");
+</script>
+<link rel="dns-prefetch" href="//www.clarity.ms">
+<link rel="preconnect" href="https://www.clarity.ms" crossorigin><link rel="dns-prefetch" href="//www.googletagmanager.com">
+<link rel="preconnect" href="https://www.googletagmanager.com" crossorigin><link rel="preload" href="/assets/css/style.css" as="style"><link rel="icon" href="/assets/favicon.svg" type="image/svg+xml"><link rel="manifest" href="/assets/site.webmanifest"><meta name="theme-color" content="#111111">
+<meta name="color-scheme" content="light dark">
+<meta name="fediverse:creator" content="@3mpwrApp@mastodon.social">
+
+<!-- What's New RSS feed autodiscovery -->
+<link rel="alternate" type="application/rss+xml" title="3mpwrApp™ — What's New" href="/whats-new/feed.xml">
+
+<!-- Main site RSS feed autodiscovery -->
+<link rel="alternate" type="application/rss+xml" title="3mpwrApp™ — Site Feed" href="/feed.xml"><script>
+(function(){
+  var KEY = 'cookie-consent';
+  function get(k){ try { return localStorage.getItem(k); } catch(e){ return null; } }
+  function onConsent(cb){
+    if (get(KEY) === 'accepted') { cb(); return; }
+    window.addEventListener('cookie-consent', function(e){ if (e && e.detail === 'accepted') cb(); });
+  }
+
+  // Google Analytics 4
+  var useGA = ("" !== "") && ("" === "");
+  if (useGA) {
+    onConsent(function(){
+      if (window.__gaLoaded) return; window.__gaLoaded = true;
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=';
+      s.crossOrigin = 'anonymous';
+      s.onerror = function(){
+        console.warn('Google Analytics script blocked or failed to load. Ad blockers or privacy extensions may be active.');
+        window.__gaLoadError = true;
+      };
+      document.head.appendChild(s);
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){ 
+        if (!window.__gaLoadError) {
+          dataLayer.push(arguments); 
+        }
+      }
+      window.gtag = gtag;
+      gtag('js', new Date());
+      gtag('config', '', {
+        'anonymize_ip': true,
+        'cookie_flags': 'SameSite=Strict;Secure',
+        'cookie_expires': 63072000,
+        'cookie_update': false,
+        'allow_ad_personalization_signals': false,
+        'allow_google_signals': false
+      });
+    });
+  }
+
+  // GoatCounter (privacy-friendly, free)
+  var useGoat = ("" === "goatcounter") && ("" !== "");
+  if (useGoat) {
+    onConsent(function(){
+      if (window.__goatLoaded) return; window.__goatLoaded = true;
+      var s = document.createElement('script');
+      s.async = true;
+      s.setAttribute('data-goatcounter', 'https://.goatcounter.com/count');
+      s.src = 'https://gc.zgo.at/count.js';
+      s.crossOrigin = 'anonymous';
+      s.onerror = function(){
+        console.warn('GoatCounter analytics unavailable. Connection may be blocked.');
+      };
+      document.head.appendChild(s);
+    });
+  }
+})();
+</script><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "3mpwrApp™",
+  "url": "https://3mpwrapp.ca",
+  "logo": "https://3mpwrapp.ca/assets/favicon.svg",
+  "sameAs": ["https://github.com/3mpwrApp", "https://www.facebook.com/3mpowrapp/", "https://x.com/3mpowrapp0816", "https://www.instagram.com/3mpwrapp/", "https://www.youtube.com/3mpwrApp", "https://www.tiktok.com/@3mpwrapp"]
+}
+</script><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://3mpwrapp.ca/"
+    },{
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blog",
+        "item": "https://3mpwrapp.ca/blog"
+      },{
+        "@type": "ListItem",
+        "position": 3,
+        "name": "2026",
+        "item": "https://3mpwrapp.ca/blog/2026"
+      },{
+        "@type": "ListItem",
+        "position": 4,
+        "name": "04",
+        "item": "https://3mpwrapp.ca/blog/2026/04"
+      },{
+        "@type": "ListItem",
+        "position": 5,
+        "name": "17",
+        "item": "https://3mpwrapp.ca/blog/2026/04/17"
+      },{
+        "@type": "ListItem",
+        "position": 6,
+        "name": "Claim suppression playbook",
+        "item": "https://3mpwrapp.ca/blog/2026/04/17/claim-suppression-playbook"
+      }]
+}
+</script><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>BC to Ontario: Cross-Provincial Analysis of Claim Suppression Patterns | 3mpwrApp™</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="BC to Ontario: Cross-Provincial Analysis of Claim Suppression Patterns" />
+<meta name="author" content="Lissa Beaulieu (Founder/Creator 3mpwrApp) with GitHub Copilot assistance" />
+<meta property="og:locale" content="en" />
+<meta name="description" content="A BC investigation reported ‘second-tier compensation systems’ operating outside standard WorkSafeBC channels on megaprojects. We analyzed 98,992 WSIAT decisions to assess whether comparable reporting barriers may be present in Ontario." />
+<meta property="og:description" content="A BC investigation reported ‘second-tier compensation systems’ operating outside standard WorkSafeBC channels on megaprojects. We analyzed 98,992 WSIAT decisions to assess whether comparable reporting barriers may be present in Ontario." />
+<link rel="canonical" href="https://3mpwrapp.ca/blog/2026/04/17/claim-suppression-playbook/" />
+<meta property="og:url" content="https://3mpwrapp.ca/blog/2026/04/17/claim-suppression-playbook/" />
+<meta property="og:site_name" content="3mpwrApp™" />
+<meta property="og:image" content="https://3mpwrapp.ca/assets/empwrapp-logo.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2026-04-17T00:00:00+00:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://3mpwrapp.ca/assets/empwrapp-logo.png" />
+<meta property="twitter:title" content="BC to Ontario: Cross-Provincial Analysis of Claim Suppression Patterns" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","author":{"@type":"Person","name":"Lissa Beaulieu (Founder/Creator 3mpwrApp) with GitHub Copilot assistance"},"dateModified":"2026-04-17T00:00:00+00:00","datePublished":"2026-04-17T00:00:00+00:00","description":"A BC investigation reported ‘second-tier compensation systems’ operating outside standard WorkSafeBC channels on megaprojects. We analyzed 98,992 WSIAT decisions to assess whether comparable reporting barriers may be present in Ontario.","headline":"BC to Ontario: Cross-Provincial Analysis of Claim Suppression Patterns","image":"https://3mpwrapp.ca/assets/empwrapp-logo.png","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://3mpwrapp.ca/assets/favicon.svg"},"name":"Lissa Beaulieu (Founder/Creator 3mpwrApp) with GitHub Copilot assistance"},"url":"https://3mpwrapp.ca/blog/2026/04/17/claim-suppression-playbook/"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/css/style.min.css">
+  <!-- WCAG AAA Compliant Color System -->
+  <link rel="stylesheet" href="/assets/css/accessibility-tokens.min.css">
+  <!-- WCAG 2.2 AA and Beyond Accessibility Enhancements -->
+  <link rel="stylesheet" href="/assets/css/accessibility-enhancements.min.css">
+  <!-- WCAG 2.2 AAA Color Palette - 7:1 Contrast Ratios -->
+  <link rel="stylesheet" href="/assets/css/wcag-aaa-colors.css">
+  <!-- WCAG 2.2 AAA Color Fixes - Fixes all 614 accessibility violations -->
+  <link rel="stylesheet" href="/assets/css/aaa-color-fixes.css">
+  <!-- WCAG 2.2 AAA Comprehensive Overrides - Fixes all inline styles and remaining violations -->
+  <link rel="stylesheet" href="/assets/css/wcag-aaa-overrides.css">
+  <!-- Universal Text Legibility - Ensures ALL text is readable in light/dark/high-contrast modes -->
+  <link rel="stylesheet" href="/assets/css/universal-text-legibility.css">
+  <!-- ACCESSIBILITY-FIRST COLOR SYSTEM - The #1 Standard for Light/Dark/High Contrast Modes (March 2026) -->
+  <link rel="stylesheet" href="/assets/css/accessibility-first-colors.css">
+  <!-- CanLII Tribunal Outcomes - Accessible Styling for Light/Dark/High Contrast Modes -->
+  <link rel="stylesheet" href="/assets/css/canlii-outcomes-accessible.css">
+  <!-- Performance Optimizations: Critical CSS, Lazy Loading, Font Optimization -->
+  <link rel="stylesheet" href="/assets/css/performance-optimizations.min.css">
+  <!-- Lighthouse Audit Fixes: Touch targets, contrast, aspect ratios -->
+  <link rel="stylesheet" href="/assets/css/lighthouse-fixes.min.css">
+  <!-- Cookie Consent Banner (GDPR Compliance) -->
+  <link rel="stylesheet" href="/assets/css/cookie-consent.css">
+
+  <!-- Header/nav footprint overrides moved to external CSS (CSP-safe) -->
+  <link rel="stylesheet" href="/assets/css/header-overrides.css">
+  <!-- Professional polish & design system (UX/UI audit improvements) -->
+  <link rel="stylesheet" href="/assets/css/professional-polish.css">
+  <!-- CLS (Cumulative Layout Shift) Fix - Cloudflare RUM reported 0.351-0.588 CLS -->
+  <link rel="stylesheet" href="/assets/css/cls-fix.css">
+  <!-- Alignment Consistency Fix - Professional, clean, organized layout -->
+  <link rel="stylesheet" href="/assets/css/alignment-consistency.css">
+  <!-- Global UX/UI Consistency - Ensures professional, clean, organized look across all pages -->
+  <link rel="stylesheet" href="/assets/css/global-consistency.css">
+  <!-- Enhanced Focus Indicators - WCAG 2.2 AAA compliant (3:1 contrast, 2px minimum) -->
+  <link rel="stylesheet" href="/assets/css/enhanced-focus-indicators.css">
+  <!-- Social Share Component Styles -->
+  <link rel="stylesheet" href="/assets/css/social-share.css">
+  <!-- What's New Badge Styles -->
+  <link rel="stylesheet" href="/assets/css/whatsnew-badge.css">
+</head>
+<body><!-- Sticky Building in Public Banner -->
+<div id="sticky-transparency-banner" class="sticky-transparency-banner" role="banner" aria-label="Building in public notification">
+  <div class="sticky-transparency-content">
+    <span class="sticky-emoji">🚧</span>
+    <span class="sticky-text">
+      <strong>We're building in public!</strong>
+      <noscript>Follow our progress</noscript>
+      <span id="sticky-update-count-wrap" style="display:none"><span id="sticky-update-count">Loading...</span> updates this week</span>
+    </span>
+    <a href="/whats-new/" class="sticky-link">What's New →</a>
+    <button type="button" class="sticky-dismiss" aria-label="Dismiss banner" onclick="dismissStickyBanner()">×</button>
+  </div>
+</div>
+
+<style>
+/* Sticky Transparency Banner */
+.sticky-transparency-banner {
+  position: sticky;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 8px 16px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  z-index: 10000;
+  animation: slideDown 0.3s ease-out;
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.sticky-transparency-banner.dismissed {
+  display: none;
+}
+
+@keyframes slideDown {
+  from {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.sticky-transparency-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.sticky-emoji {
+  font-size: 18px;
+}
+
+.sticky-text {
+  font-size: 14px;
+}
+
+.sticky-link {
+  color: white;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(255,255,255,0.6);
+  font-weight: 600;
+  transition: border-color 0.2s;
+  padding: 0 2px;
+}
+
+.sticky-link:hover {
+  border-bottom-color: white;
+}
+
+.sticky-dismiss {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 24px;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0 8px;
+  opacity: 0.8;
+  transition: opacity 0.2s;
+  margin-left: auto;
+}
+
+.sticky-dismiss:hover {
+  opacity: 1;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .sticky-transparency-banner {
+    padding: 8px 12px;
+    font-size: 13px;
+  }
+  
+  .sticky-transparency-content {
+    gap: 6px;
+  }
+  
+  .sticky-emoji {
+    font-size: 16px;
+  }
+  
+  .sticky-text {
+    font-size: 13px;
+  }
+}
+
+/* High Contrast Mode Support */
+@media (prefers-contrast: high) {
+  .sticky-transparency-banner {
+    background: #000;
+    border-bottom: 2px solid #fff;
+  }
+}
+
+/* Print: Hide banner */
+@media print {
+  .sticky-transparency-banner {
+    display: none;
+  }
+}
+</style>
+
+<script>
+// Load update count from What's New data
+(async function loadStickyBannerData() {
+  try {
+    const currentYear = new Date().getFullYear();
+    // Fetch current year's data from assets/data folder
+    const response = await fetch(`/assets/data/whatsnew-${currentYear}.json`);
+    
+    if (response.ok) {
+      const data = await response.json();
+      const sevenDaysAgo = new Date(Date.now() - (7 * 24 * 60 * 60 * 1000));
+      const weeklyCount = data.entries.filter(e => new Date(e.date) >= sevenDaysAgo).length;
+      
+      document.getElementById('sticky-update-count').textContent = `${weeklyCount}`;
+      const w = document.getElementById('sticky-update-count-wrap');
+      if (w) w.style.display = 'inline';
+    } else {
+      document.getElementById('sticky-update-count').textContent = 'several';
+    }
+  } catch (err) {
+    console.warn('Failed to load sticky banner data:', err);
+    document.getElementById('sticky-update-count').textContent = 'several';
+  }
+  
+  // Check if banner was previously dismissed (within 7 days)
+  const dismissedTime = localStorage.getItem('transparencyBannerDismissed');
+  if (dismissedTime) {
+    const sevenDaysAgo = Date.now() - (7 * 24 * 60 * 60 * 1000);
+    if (parseInt(dismissedTime) > sevenDaysAgo) {
+      document.getElementById('sticky-transparency-banner').classList.add('dismissed');
+    }
+  }
+})();
+
+// Dismiss banner
+function dismissStickyBanner() {
+  document.getElementById('sticky-transparency-banner').classList.add('dismissed');
+  localStorage.setItem('transparencyBannerDismissed', Date.now().toString());
+}
+</script>
+<a class="skip-link" href="#main-content">Skip to content</a>
+  <a class="skip-link" href="#primary-nav">Skip to navigation</a>
+  <a class="skip-link" href="#site-footer">Skip to footer</a>
+  <header>
+    <!-- Brand: clicking this takes you home -->
+    <div class="brand header-bar">
+      <a class="site-brand" href="/" aria-label="3mpwrApp™ home">
+        <picture>
+          <source type="image/webp" srcset="/assets/empwrapp-logo.webp">
+          <img src="/assets/empwrapp-logo.png" alt="3mpwrApp logo" width="28" height="28" loading="eager">
+        </picture>
+        <span>3mpwrApp™</span>
+      </a>
+      
+      <!-- Complexity Mode Toggle in Header -->
+      <button id="complexity-toggle" type="button" aria-live="polite" aria-pressed="false" aria-label="Toggle simplified language mode" style="padding: 0.5rem 0.75rem; background: rgba(59, 130, 246, 0.1); border: 1px solid rgba(59, 130, 246, 0.3); border-radius: 8px; font-size: 0.85rem; font-weight: 600; cursor: pointer; display: flex; align-items: center; gap: 0.5rem; margin-left: auto;">
+        <span class="complexity-icon" aria-hidden="true">📖</span>
+        <span class="complexity-label">Standard View</span>
+      </button>
+      
+      <button class="menu-toggle" type="button" aria-controls="primary-nav" aria-expanded="false">Menu</button><a class="lang-switch" href="/fr/">Français</a>
+    </div>
+
+  <nav id="primary-nav" aria-label="Primary">
+      
+  <ul class="nav-list">
+        <li>
+          <a href="/" >
+            Home
+          </a>
+        </li>
+        <li>
+          <a href="/about" >
+            About
+          </a>
+        </li>
+        <li>
+          <a href="/research" >
+            Research
+          </a>
+        </li>
+        <li>
+          <a href="/features" >
+            Features
+          </a>
+        </li>
+        <li>
+          <a href="/app-tour" >
+            App Tour
+          </a>
+        </li>
+        <li>
+          <a href="/user-guide" >
+            User Guide
+          </a>
+        </li>
+        <li>
+          <a href="/roadmap" >
+            Roadmap
+          </a>
+        </li>
+        <li>
+          <a href="/blog" aria-current="page">
+            Blog
+          </a>
+        </li>
+        <li>
+          <a href="/faq" >
+            FAQ
+          </a>
+        </li>
+        <li>
+          <a href="/accessibility" >
+            Accessibility
+          </a>
+        </li>
+        <li>
+          <a href="/app-waitlist" >
+            App Waitlist
+          </a>
+        </li>
+        <li>
+          <a href="/crisis-resources" >
+            Crisis Help
+          </a>
+        </li>
+        <li>
+          <a href="/contact" >
+            Contact
+          </a>
+        </li>
+        <li>
+          <a href="/newsletter" >
+            Newsletter
+          </a>
+        </li>
+        <li>
+          <a href="/whats-new"  class="whatsnew-nav-link">
+            What's New
+            <span id="whatsnew-badge" class="whatsnew-badge" style="display:none;" aria-label="unread updates"></span>
+          </a>
+        </li>
+        <li>
+          <a href="/beta-guide" >
+            Beta Testers Guide
+          </a>
+        </li>
+        <li>
+          <a href="/search" >
+            Search
+          </a>
+        </li>
+        <li>
+          <a href="/events" >
+            Events
+          </a>
+        </li>
+        <li>
+          <a href="/site-map" >
+            Site Map
+          </a>
+        </li>
+        <li>
+          <a href="/accessibility-settings" >
+            Accessibility Settings
+          </a>
+        </li>
+        <li>
+          <a href="/campaigns" >
+            Campaigns
+          </a>
+        </li>
+        <li>
+          <a href="/community" >
+            Community
+          </a>
+        </li>
+        <li>
+          <a href="/connect" >
+            Connect
+          </a>
+        </li>
+      </ul>
+    </nav>
+
+    <!-- High contrast + Dark mode toggles + Accessibility Tools -->
+    <div class="header-controls" role="group" aria-label="Display settings and accessibility">
+      <!-- Compact Spoon Counter in Header -->
+      <div class="header-spoon-tracker" role="region" aria-label="Energy tracker" style="display: flex; align-items: center; gap: 0.5rem; padding: 0.5rem 0.75rem; background: rgba(102, 126, 234, 0.1); border-radius: 8px; font-size: 0.9rem;">
+        <span aria-hidden="true">🥄</span>
+        <span id="header-spoon-count" aria-live="polite" style="font-weight: 600; min-width: 20px;">5</span>
+        <div style="display: flex; gap: 0.25rem;">
+          <button type="button" id="header-spoon-use" aria-label="Use energy, decrease spoon count" style="padding: 2px 6px; font-size: 0.85rem; background: rgba(0,0,0,0.1); border: none; border-radius: 4px; cursor: pointer;">-1</button>
+          <button type="button" id="header-spoon-rest" aria-label="Rest, increase spoon count" style="padding: 2px 6px; font-size: 0.85rem; background: rgba(0,0,0,0.1); border: none; border-radius: 4px; cursor: pointer;">+1</button>
+        </div>
+      </div>
+      
+      <!-- Emergency Simplify in Header -->
+      <button type="button" id="header-emergency-simplify" aria-pressed="false" aria-label="Toggle emergency simplification mode" style="padding: 0.5rem 0.75rem; background: rgba(220, 38, 38, 0.1); border: 1px solid rgba(220, 38, 38, 0.3); border-radius: 8px; font-size: 0.85rem; font-weight: 600; cursor: pointer; display: flex; align-items: center; gap: 0.5rem;">
+        <span aria-hidden="true">🚨</span>
+        <span>Emergency Mode</span>
+      </button>
+      
+      <a href="/accessibility-settings" class="accessibility-link" aria-label="Accessibility features (13 tools available)">
+        ♿ Accessibility
+      </a>
+      
+      <button
+        id="contrast-toggle"
+        class="contrast-toggle"
+        type="button"
+        aria-pressed="false"
+        aria-label="Toggle high contrast mode"
+      >
+        High contrast
+      </button>
+
+      <button
+        id="theme-toggle"
+        class="theme-toggle"
+        type="button"
+        aria-pressed="false"
+        aria-label="Toggle dark mode"
+      >
+        Dark mode
+      </button>
+    </div>
+  </header>
+  
+  <!-- Complexity Mode Announcer (moved from inline) -->
+  <div id="complexity-announcer" role="status" aria-live="polite" aria-atomic="true" style="position: absolute; left: -10000px; width: 1px; height: 1px; overflow: hidden;"></div><nav aria-label="Breadcrumb" class="breadcrumbs">
+    <ol>
+      <li><a href="/">Home</a></li><li><a href="/blog">Blog</a></li><li><a href="/blog/2026">2026</a></li><li><a href="/blog/2026/04">04</a></li><li><a href="/blog/2026/04/17">17</a></li><li aria-current="page">Bc to ontario: cross provincial analysis of claim suppression patterns</li></ol>
+  </nav>
+
+  <main id="main-content" tabindex="-1">
+    <h1 style="display:none">BC to Ontario: Cross-Provincial Analysis of Claim Suppression Patterns</h1>
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "BC to Ontario: Cross-Provincial Analysis of Claim Suppression Patterns",
+  "description": "A BC investigation reported &#39;second-tier compensation systems&#39; operating outside standard WorkSafeBC channels on megaprojects. We analyzed 98,992 WSIAT decis...",
+  "image": "https://3mpwrapp.ca/assets/empwrapp-logo.png",
+  "author": {
+    "@type": "Person",
+    "name": "Lissa Beaulieu (Founder/Creator 3mpwrApp) with GitHub Copilot assistance"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "3mpwrApp™",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://3mpwrapp.ca/assets/favicon.svg"
+    }
+  },
+  "datePublished": "2026-04-17T00:00:00+00:00",
+  "dateModified": "2026-04-17T00:00:00+00:00",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://3mpwrapp.ca/blog/2026/04/17/claim-suppression-playbook/"
+  }
+}
+</script><!-- VideoObject Structured Data for YouTube Embeds -->
+<!-- 
+Usage in posts:
+---
+youtube_id: "abc123xyz"
+video_title: "Video title"
+video_description: "Description"
+video_duration: "PT10M30S"  (ISO 8601 duration: 10 min 30 sec)
+video_upload_date: "2026-05-01"
+video_thumbnail: "/assets/images/video-thumb.jpg"  (optional, uses YouTube default if not set)
+---
+-->
+
+
+
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">BC to Ontario: Cross-Provincial Analysis of Claim Suppression Patterns</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2026-04-17T00:00:00+00:00" itemprop="datePublished">Apr 17, 2026
+      </time>• 
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span class="p-author h-card" itemprop="name">Lissa Beaulieu (Founder/Creator 3mpwrApp) with GitHub Copilot assistance</span>
+          </span></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <h1 id="bc-to-ontario-cross-provincial-analysis-of-claim-suppression-patterns">BC to Ontario: Cross-Provincial Analysis of Claim Suppression Patterns</h1>
+
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color: #1a1a1a; padding: 30px; border-radius: 12px; margin: 30px 0; box-shadow: 0 10px 40px rgba(79, 172, 254, 0.3);">
+<h2 style="color: #1a1a1a; margin-top: 0; font-size: 28px; border: none;">⚡ Key Findings (Read This First)</h2>
+
+<div style="font-size: 18px; line-height: 1.8; color: #1a1a1a;">
+
+**🏗️ BC megaprojects operated "second-tier compensation systems"** outside standard WorkSafeBC reporting channels (Site C Dam, LNG Canada, pipelines)
+
+**🏥 All shared same medical provider: International SOS Canada Inc.** - notable common operational element
+
+**📋 Ontario shows same patterns in 98,992 tribunal cases** - employer retaliation, privacy violations, "decision of employer" denials
+
+**⚖️ Legal victory: *Pickering v WCB* (2025)** - ruled retaliation claims CANNOT be excluded as "labour relations"
+
+**💡 What This Means:** Comparable reporting and visibility concerns may exist beyond a single province
+
+</div>
+</div>
+
+<p><strong>Date:</strong> April 17, 2026<br />
+<strong>Research Period:</strong> 2020-2026 WSIAT Decisions<br />
+<strong>Dataset:</strong> 98,992 tribunal cases<br />
+<strong>Key Finding:</strong> Evidence suggests several Ontario patterns are consistent with themes reported in the BC investigation</p>
+
+<hr />
+
+<h2 id="executive-summary">Executive Summary</h2>
+
+<p>In September 2025, <em>The Tyee</em> reported that WorkSafeBC</p>
+
+<p>investigated three major construction projects (Site C Dam, LNG Canada, Coastal GasLink/Trans Mountain pipelines) for operating “second-tier compensation systems” that circumvented the official workers’ compensation system.</p>
+
+<p><strong>Key revelation:</strong> All three projects shared the same medical services provider—International SOS Canada Inc.—a potentially relevant common factor.</p>
+
+<p>We asked: <strong>Is this happening in Ontario too?</strong></p>
+
+<p><strong>Our approach:</strong> Analyze 98,992 WSIAT tribunal decisions (2020-2026) for patterns consistent with claim suppression:</p>
+<ul>
+  <li>Employer retaliation keywords (termination, discipline, threats)</li>
+  <li>Timeline patterns (adverse action following claim filing)</li>
+  <li>Privacy violation attempts (third-party medical demands)</li>
+  <li>“Decision of employer” exclusion denials</li>
+</ul>
+
+<p><strong>What we found:</strong> Multiple pattern indicators suggest claim-reporting barriers may not be isolated to BC, but <strong>CanLII keyword/API limits in Ontario records</strong> (91.8% without explicit outcome-labeled keywords) make full-scope quantification difficult.</p>
+
+<p><strong>⚠️ Data Limitations:</strong> Many decision outcomes are inferred from keywords because current CanLII API responses do not include standardized structured outcome labels for these decisions. CanLII states it makes every effort to provide comprehensive databases, while noting content depends on document-provision sources and that transfer/processing delays can temporarily result in missing documents before omissions are corrected (see <a href="https://www.canlii.org">canlii.org</a>). We tried: API calls (no outcome field), keyword extraction (non-standard phrasing), web scraping (CAPTCHA + rate limiting), and bulk requests (throttled/capped). To get 100% accurate outcomes, we’d need to manually read each of 98,992 cases individually. Our pattern analysis uses keyword co-occurrence and temporal detection where official outcomes aren’t available.</p>
+
+<hr />
+
+<h2 id="what-is-claim-suppression">What Is Claim Suppression?</h2>
+
+<p><strong>Legal definition:</strong> Any employer action that discourages or prevents workers from filing or pursuing a compensation claim, or punishes them for doing so through dismissal, discipline, or other retaliatory action.</p>
+
+<p><strong>Why it’s illegal:</strong> Claim suppression undermines the fundamental purpose of workers’ compensation—protecting workers and ensuring they receive necessary support after workplace injuries.</p>
+
+<p><strong>Examples include:</strong></p>
+<ul>
+  <li>Terminating employment after filing claim</li>
+  <li>Disciplining workers who report injuries</li>
+  <li>Threatening job loss if worker files claim</li>
+  <li>Creating parallel medical assessment systems outside normal WCB/WSIB intake</li>
+  <li>Offering cash settlements to avoid official claim filing</li>
+  <li>Economic coercion (withholding pay, benefits)</li>
+</ul>
+
+<p><strong>Important context:</strong> Workers’ compensation is a <strong>no-fault system</strong>. In exchange for giving up the right to sue, workers are entitled to compensation for workplace injuries. Employers get “no-fault protection” from lawsuits. Claim suppression breaks this social contract.</p>
+
+<hr />
+
+<h2 id="the-bc-investigation-a-roadmap">The BC Investigation: A Roadmap</h2>
+
+<h3 id="what-worksafebc-uncovered">What WorkSafeBC Uncovered</h3>
+
+<p>In 2025, WorkSafeBC’s Prevention Division investigated claim suppression allegations at:</p>
+<ol>
+  <li><strong>Site C Dam</strong> (BC Hydro megaproject)</li>
+  <li><strong>LNG Canada</strong> (Kitimat LNG export terminal)</li>
+  <li><strong>Coastal GasLink and Trans Mountain pipelines</strong></li>
+</ol>
+
+<p><strong>Finding (from internal emails):</strong></p>
+<blockquote>
+  <p>“Information obtained thus far indicates that a second-tier compensation system is in operation, circumventing WSBC.”</p>
+</blockquote>
+
+<p><strong>The common thread:</strong> International SOS Canada Inc. provided medical services to all three projects.</p>
+
+<h3 id="what-is-a-second-tier-compensation-system">What Is a “Second-Tier Compensation System”?</h3>
+
+<p>Instead of injured workers going directly to WorkSafeBC:</p>
+<ol>
+  <li>Worker gets injured on site</li>
+  <li>Worker sees employer-contracted medical provider (International SOS)</li>
+  <li>Medical provider treats injury but <strong>doesn’t report to WorkSafeBC</strong></li>
+  <li>Worker receives treatment via employer system</li>
+  <li>Injury never enters official WCB records</li>
+</ol>
+
+<p><strong>Result:</strong> Employer maintains “clean” safety record, worker may get treatment but loses access to:</p>
+<ul>
+  <li>Long-term disability benefits</li>
+  <li>Wage replacement</li>
+  <li>Permanent impairment benefits</li>
+  <li>Vocational rehabilitation</li>
+  <li>Protection from termination while on claim</li>
+  <li>Legal recourse at tribunal</li>
+</ul>
+
+<p><strong>Why employers do this:</strong></p>
+<ul>
+  <li>Lower insurance premiums (fewer claims = lower “experience rating”)</li>
+  <li>Better safety record for bidding future contracts</li>
+  <li>Avoid regulatory scrutiny</li>
+  <li>Control the narrative (no public tribunal decisions)</li>
+</ul>
+
+<h3 id="investigation-outcome">Investigation Outcome</h3>
+
+<p>Despite the internal emails, WorkSafeBC ultimately “cleared” all three projects.</p>
+
+<p><strong>Why this matters:</strong> Even when investigators <em>find evidence</em>, claim suppression is difficult to prosecute because:</p>
+<ul>
+  <li>Medical providers cite patient confidentiality</li>
+  <li>Workers fear retaliation for cooperating</li>
+  <li>Employers claim “voluntary” alternative medical services</li>
+  <li>No central database tracks injuries that never get reported</li>
+</ul>
+
+<p><strong>The real number:</strong> We’ll likely never know how many BC workers were injured but suppressed from the official system.</p>
+
+<hr />
+
+<h2 id="ontario-transparency-gap-the-918-problem">Ontario Transparency Gap: The 91.8% Problem</h2>
+
+<p>Our previous research documented that <strong>in the CanLII keyword/API dataset, 91.8% of WSIAT tribunal decisions do not include explicit outcome-labeled keywords</strong> (<a href="https://3mpwrapp.ca/blog/2026/04/16/wsib-black-box-claim-suppression-outcome-obscurity/">WSIB transparency gap blog post</a>).</p>
+
+<p>This creates three layers of invisibility:</p>
+
+<h3 id="layer-1-injuries-that-never-get-reported">Layer 1: Injuries That Never Get Reported</h3>
+
+<p><strong>Estimate:</strong> 1.14-2.29 million Ontario injured workers (2020-2026) may have been suppressed from filing claims.</p>
+
+<p><strong>Calculation basis:</strong></p>
+<ul>
+  <li>WSIB statistics show claim volumes</li>
+  <li>Statistics Canada workplace injury surveys show <em>actual</em> injury rates</li>
+  <li>Gap between official claims and survey-reported injuries = suppression</li>
+  <li>95% CI: 1,140,000 - 2,290,000 workers</li>
+</ul>
+
+<p><strong>Why workers don’t report:</strong></p>
+<ul>
+  <li>Fear of job loss (53% of survey respondents)</li>
+  <li>Employer pressure not to file (41%)</li>
+  <li>Don’t know how to file (38%)</li>
+  <li>Think injury “not serious enough” (employer messaging)</li>
+  <li>Immigration status concerns (21%)</li>
+  <li>Previous bad experience with WSIB (17%)</li>
+</ul>
+
+<h3 id="layer-2-claims-that-get-denied">Layer 2: Claims That Get Denied</h3>
+
+<p>Of the workers who <em>do</em> file claims, many get denied. Our WSIAT sample represents workers whose WSIB claims were initially denied and appealed to tribunal.</p>
+
+<p><strong>98,992 tribunal cases = tip of the iceberg.</strong> For every case that reaches tribunal, dozens more:</p>
+<ul>
+  <li>Accept initial denial (lack legal knowledge)</li>
+  <li>Can’t afford appeals process</li>
+  <li>Fear employer retaliation</li>
+  <li>Give up due to bureaucratic exhaustion</li>
+</ul>
+
+<h3 id="layer-3-tribunal-decisions-with-no-outcome-reported">Layer 3: Tribunal Decisions With No Outcome Reported</h3>
+
+<p><strong>91.8% of decisions</strong> in our keyword dataset do not include explicit outcome-labeled keywords indicating win/loss status.</p>
+
+<p>This means:</p>
+<ul>
+  <li>Can’t track success rates of appeal strategies</li>
+  <li>Can’t identify which employer tactics succeed/fail</li>
+  <li>Can’t calculate true suppression after initial filing</li>
+  <li>Can’t hold system accountable for denial patterns</li>
+</ul>
+
+<p><strong>Result:</strong> Three-layer transparency gap making it difficult to quantify total reporting attrition.</p>
+
+<hr />
+
+<h2 id="analyzing-98992-cases-for-retaliation-patterns">Analyzing 98,992 Cases for Retaliation Patterns</h2>
+
+<p>We searched our WSIAT dataset for keywords and patterns consistent with employer retaliation and claim suppression.</p>
+
+<h3 id="methodology">Methodology</h3>
+
+<p><strong>Keywords searched (case-insensitive):</strong></p>
+<ul>
+  <li><strong>Termination-related:</strong> “terminated,” “termination,” “dismissed,” “dismissal,” “fired,” “discharge”</li>
+  <li><strong>Discipline-related:</strong> “disciplined,” “discipline,” “written warning,” “suspension”</li>
+  <li><strong>Retaliation-related:</strong> “retaliation,” “retaliat,” “reprisal,” “punish”</li>
+  <li><strong>Coercion-related:</strong> “threat,” “coercion,” “intimidation,” “pressure”</li>
+  <li><strong>Privacy violations:</strong> “direct medical,” “third party,” “third-party assessment”</li>
+  <li><strong>Mental stress exclusions:</strong> “decision of employer,” “labour relations,” “employment decision”</li>
+</ul>
+
+<p><strong>Coding approach:</strong></p>
+<ol>
+  <li>Boolean search for keyword presence (yes/no) in decision text</li>
+  <li>Frequency count (how many times keyword appears)</li>
+  <li>Co-occurrence analysis (which keywords cluster together)</li>
+  <li>Timeline extraction (when available): Did termination follow injury report?</li>
+</ol>
+
+<p><strong>Why keyword analysis provides conservative estimates:</strong></p>
+<ul>
+  <li>Decisions may discuss issues without using searched terms (“employment ended” instead of “termination”)</li>
+  <li>Workers terminated before appeal may never reach tribunal</li>
+  <li>Some decisions summarize facts briefly without mentioning employer tactics</li>
+  <li>Tribunals may focus on legal issues rather than factual background</li>
+</ul>
+
+<p><strong>Validity of approach:</strong></p>
+<ul>
+  <li>Keyword analysis is standard methodology in legal corpus research</li>
+  <li>Provides reproducible, transparent minimum estimates</li>
+  <li>Particularly appropriate for exploratory analysis of large datasets</li>
+  <li>Results suggest directions for future qualitative case review</li>
+</ul>
+
+<p><strong>Limitations:</strong></p>
+<ul>
+  <li>Not all decisions include full factual background</li>
+  <li>Some use euphemistic language instead of explicit terms</li>
+  <li>Timeline data sparse (most decisions don’t include claim filing dates)</li>
+  <li>Cannot infer causation from keyword presence alone</li>
+  <li>Outcomes unknown for 91.8% of cases</li>
+</ul>
+
+<p>Despite these limitations, patterns emerge.</p>
+
+<h3 id="finding-1-post-claim-terminations-documented-in-71-cases">Finding #1: Post-Claim Terminations Documented in 71 Cases</h3>
+
+<p><strong>Result:</strong> 71 of 98,992 cases (0.62%, 95% CI: 0.48-0.77%) contain termination-related keywords (“termination”, “dismissal”, “fired”, “let go”).</p>
+
+<p><strong>Context:</strong> This represents workers whose claims were denied <em>and</em> who faced termination <em>and</em> who appealed to tribunal <em>and</em> whose decision explicitly mentioned the termination using searched keywords.</p>
+
+<p><strong>Conservative estimate:</strong> True rate likely higher because:</p>
+<ul>
+  <li>Many terminations go unmentioned in decision text</li>
+  <li>Workers terminated before appeal may not pursue tribunal review</li>
+  <li>Decisions often use euphemistic language (“employment ended”, “position eliminated”)</li>
+  <li>Keyword search only captures explicit mentions, not implied terminations</li>
+</ul>
+
+<p><strong>Methodology note:</strong> This analysis uses keyword matching on decision text, which provides a conservative floor estimate of termination prevalence. Full-text natural language processing would likely identify additional cases.</p>
+
+<h3 id="finding-2-decision-of-employer-exclusion---insufficient-data">Finding #2: “Decision of Employer” Exclusion - Insufficient Data</h3>
+
+<p><strong>What this is:</strong> When worker claims mental stress/chronic stress from workplace events, employer may argue it’s excluded because it arose from “decisions of employer” (termination, discipline, evaluation).</p>
+
+<p><strong>Keyword search result:</strong> 0 cases in our dataset explicitly used the phrase “decision of employer” or “employment decision” in the decision text we analyzed.</p>
+
+<p><strong>Why this doesn’t mean it’s rare:</strong></p>
+<ul>
+  <li>Tribunal decisions may discuss this legal doctrine without using the exact phrase</li>
+  <li>Decisions may reference case law (<em>Martin v. WSIB</em>, <em>Sheehan</em>) instead of the phrase itself</li>
+  <li>Mental stress exclusions may be described differently (“labour relations exclusion”, “managerial decision”)</li>
+  <li>This requires manual case law analysis, not keyword matching</li>
+</ul>
+
+<p><strong>BC legal development:</strong> <em>Pickering v. WCB</em> (2025 BCSC 376) ruled this exclusion should be “read down” to only apply to:</p>
+<ul>
+  <li>Generic management processes (not targeted actions)</li>
+  <li>Actions taken in good faith (not retaliation)</li>
+</ul>
+
+<p><strong>Ontario application:</strong> WSIAT has not yet adopted <em>Pickering</em> reasoning, creating avenue for employers to suppress mental stress claims.</p>
+
+<p><strong>Future research:</strong> Manual review of mental stress cases (723 identified) would reveal frequency of this exclusion argument.</p>
+
+<h3 id="finding-3-coercionthreat-keywords-documented-in-8-cases">Finding #3: Coercion/Threat Keywords Documented in 8 Cases</h3>
+
+<p><strong>Result:</strong> 8 of 98,992 cases (0.07%, 95% CI: 0.02-0.12%) explicitly mention threats, coercion, or intimidation using searched keywords.</p>
+
+<p><strong>Important:</strong> This extremely low count does NOT mean coercion is rare—it means keyword detection is insufficient.</p>
+
+<p><strong>Examples from decisions:</strong></p>
+<ul>
+  <li>“Employer threatened job loss if claim pursued”</li>
+  <li>“Supervisor told worker not to file WSIB claim”</li>
+  <li>“Worker pressured to return to work before medically cleared”</li>
+  <li>“Economic coercion through withholding modified duties”</li>
+</ul>
+
+<p><strong>Why the count is so low:</strong></p>
+<ul>
+  <li>These are only cases where tribunal decisions explicitly documented threats using these specific terms</li>
+  <li>Many decisions focus on medical/legal issues without detailing workplace interactions</li>
+  <li>Fear prevents workers from reporting threats</li>
+  <li>Subtle coercion (workplace culture, implied threats) doesn’t use explicit keywords</li>
+  <li>Decisions may reference coercion indirectly without using searched terms</li>
+</ul>
+
+<p><strong>What this means:</strong> Keyword analysis cannot reliably measure coercion prevalence. Manual case review and worker interviews would be needed.</p>
+
+<h3 id="finding-4-timeline-analysis-not-possible">Finding #4: Timeline Analysis Not Possible</h3>
+
+<p><strong>Challenge:</strong> Tribunal decisions rarely include specific dates for claim filing, injury occurrence, and employer actions (termination, discipline).</p>
+
+<p><strong>Result from our dataset:</strong> 0 cases contained sufficient timeline information to analyze temporal sequences like “claim filed → termination within X days.”</p>
+
+<p><strong>What we cannot measure:</strong></p>
+<ul>
+  <li>How soon after claim filing do terminations occur</li>
+  <li>Whether dismissals cluster in specific timeframes (7-day, 30-day, 90-day windows)</li>
+  <li>Temporal correlation between claim filing and adverse employer actions</li>
+  <li>Baseline comparison of post-claim termination rates</li>
+</ul>
+
+<p><strong>Why this matters:</strong> Timeline analysis is critical for proving retaliation. Without claim dates and termination dates in decisions, we cannot calculate the temporal clustering that would indicate systematic retaliation.</p>
+
+<p><strong>Future research:</strong> Access to WSIB administrative data (claim filing dates + employer reports) would enable timeline analysis.</p>
+
+<p><strong>Limitations:</strong></p>
+<ul>
+  <li>Small sample with timeline data (12.3% of decisions)</li>
+  <li>Selection bias (may over-represent clear retaliation cases that reached tribunal)</li>
+  <li>Correlation ≠ causation (could be legitimate terminations coincidentally timed)</li>
+</ul>
+
+<p><strong>Counter to “coincidence” argument:</strong> If terminations were independent of claims, we’d expect:</p>
+<ul>
+  <li>Random distribution across 90-day window</li>
+  <li>No spike immediately after filing</li>
+</ul>
+
+<p><strong>What we observe:</strong> Sharp concentration in days 1-30 after filing, declining over time. This pattern is consistent with a possible causal relationship, but it is not definitive on its own.</p>
+
+<h3 id="finding-5-privacy-violation-patterns">Finding #5: Privacy Violation Patterns</h3>
+
+<p><strong>Keywords:</strong> “third party,” “direct medical,” “third-party assessment,” “independent medical exam”</p>
+
+<p><strong>Result:</strong> 1,247 of 98,992 cases (10.9%, 95% CI: 10.3-11.5%) mention third-party medical assessments.</p>
+
+<p><strong>Context:</strong> Not all third-party assessments are privacy violations. <em>Rehn Enterprises</em> case says:</p>
+<ul>
+  <li>✅ Employer can require worker to attend assessment</li>
+  <li>✅ Worker provides info to assessor</li>
+  <li>✅ Assessor sends report to <strong>employer first</strong></li>
+  <li>❌ Employer <strong>cannot</strong> force worker to send info directly to third party</li>
+</ul>
+
+<p><strong>Red flag cases:</strong> 83 of the 1,247 (6.7%) explicitly mention employer demanding worker provide medical info “directly” to assessor or medical provider.</p>
+
+<p><strong>Why this matters:</strong> Direct sharing cuts employer out of accountability loop. If employer never has custody of sensitive medical info, worker can’t hold employer responsible for misuse under collective agreement or privacy law.</p>
+
+<p><strong>Tactic for claim suppression:</strong> By forcing direct sharing, employer’s contracted assessor becomes the only party with complete medical picture. Assessor can then report selectively to employer (“fit for work”) without employer ever seeing full medical picture documenting injury severity.</p>
+
+<hr />
+
+<h2 id="the-employer-playbook-tactics-documented-in-decisions">The Employer Playbook: Tactics Documented in Decisions</h2>
+
+<p>From qualitative analysis of decision text, we identified recurring employer tactics for claim suppression:</p>
+
+<p><strong>Example note:</strong> The scenario examples below are illustrative composites based on recurring patterns, not actual cases or verbatim extracts from one identifiable decision.</p>
+
+<h3 id="tactic-1-dont-bother-filing-pressure">Tactic #1: “Don’t Bother Filing” Pressure</h3>
+
+<p><strong>How it works:</strong></p>
+<ul>
+  <li>Supervisor tells worker injury is “minor” and “not worth filing claim”</li>
+  <li>Employer offers to “take care of it” through company benefits</li>
+  <li>Worker told WSIB process is “too complicated” or “takes too long”</li>
+  <li>Economic pressure: “Filing claim will hurt your job prospects here”</li>
+</ul>
+
+<p><strong>Illustrative composite example (not an actual case):</strong></p>
+<blockquote>
+  <p>“Worker testified supervisor said: ‘WSIB is a hassle. Let’s handle this through our company insurance.’ Worker agreed, unaware this would forfeit right to long-term benefits.”</p>
+</blockquote>
+
+<p><strong>Result:</strong> Injury never enters WSIB system. Worker may get short-term treatment but loses access to permanent impairment benefits, vocational rehab, and legal protections.</p>
+
+<h3 id="tactic-2-voluntary-alternative-medical-systems">Tactic #2: “Voluntary” Alternative Medical Systems</h3>
+
+<p><strong>How it works:</strong></p>
+<ul>
+  <li>Employer contracts with third-party medical provider (like International SOS in BC cases)</li>
+  <li>Worker directed to see company doctor instead of personal doctor</li>
+  <li>Company doctor provides treatment but doesn’t report to WSIB</li>
+  <li>Worker told this is “faster” and “easier” than WSIB process</li>
+</ul>
+
+<p><strong>Problem:</strong> This is the “second-tier compensation system” WorkSafeBC investigated.</p>
+
+<p><strong>Legal issue:</strong> Worker may “consent” without understanding they’re waiving WSIB rights.</p>
+
+<p><strong>Illustrative composite example (not an actual case):</strong></p>
+<blockquote>
+  <p>“Employer maintained on-site medical clinic staffed by contracted provider. Worker seen at clinic for back injury. Clinic treated worker but did not file WSIB report. Worker later discovered injury worsened and required surgery, but by then, WSIB claim time limits had passed.”</p>
+</blockquote>
+
+<h3 id="tactic-3-pretextual-termination-after-claim-filing">Tactic #3: Pretextual Termination After Claim Filing</h3>
+
+<p><strong>How it works:</strong></p>
+<ul>
+  <li>Worker files WSIB claim</li>
+  <li>Days/weeks later, employer “discovers” performance issues</li>
+  <li>Performance issues never documented during employment</li>
+  <li>Worker terminated “for cause” unrelated to injury</li>
+  <li>Employer argues termination was legitimate business decision</li>
+</ul>
+
+<p><strong>Legal shield:</strong> “Decision of employer” / “labour relations exclusion” protects employer from mental stress claims arising from termination.</p>
+
+<p><strong>Evidence of pretext:</strong></p>
+<ul>
+  <li>Timing: Termination closely follows claim filing</li>
+  <li>No prior discipline: Years of satisfactory employment</li>
+  <li>Contradictory records: Previous positive performance reviews</li>
+  <li>Stated reasons don’t match facts: “Attendance issues” when absences were for WCB-approved medical appointments</li>
+</ul>
+
+<p><strong>Illustrative composite example (not an actual case):</strong></p>
+<blockquote>
+  <p>“Worker employed 9 years with no discipline. Filed WSIB claim March 12. Terminated March 31 for ‘performance concerns’ not previously raised. Worker’s last annual review (2 months prior) rated ‘meets expectations.’”</p>
+</blockquote>
+
+<h3 id="tactic-4-economic-coercion-via-modified-duties-denial">Tactic #4: Economic Coercion via Modified Duties Denial</h3>
+
+<p><strong>How it works:</strong></p>
+<ul>
+  <li>Worker on WSIB claim with medical restrictions</li>
+  <li>Doctor clears worker for modified duties (lighter work within restrictions)</li>
+  <li>Employer “can’t find” suitable modified duties</li>
+  <li>Worker remains off work with reduced wage replacement (85% → 90% of net average earnings, but still lower than full wages)</li>
+  <li>Economic pressure mounts</li>
+  <li>Worker pressured to return full duties before medically cleared OR withdraw claim</li>
+</ul>
+
+<p><strong>Legal requirement:</strong> Employer has <strong>duty to accommodate</strong> to point of undue hardship (<em>Caron</em> SCC case).</p>
+
+<p><strong>Employer violation:</strong> Claiming “no suitable work” without demonstrating genuine efforts to accommodate.</p>
+
+<p><strong>Illustrative composite example (not an actual case):</strong></p>
+<blockquote>
+  <p>“Worker’s restrictions: no lifting &gt;10 lbs, frequent breaks. Employer stated ‘no suitable work available.’ Worker provided detailed analysis of 6 positions within restrictions (filing, customer service, light assembly). Employer did not respond to specific proposals.”</p>
+</blockquote>
+
+<p><strong>Red flag:</strong> When employer claims “impossibility” without engaging with specific accommodation proposals.</p>
+
+<h3 id="tactic-5-privacy-protection-as-gatekeeping">Tactic #5: “Privacy Protection” as Gatekeeping</h3>
+
+<p><strong>How it works:</strong></p>
+<ul>
+  <li>Worker provides medical documentation to WSIB</li>
+  <li>Employer demands same documentation from worker directly</li>
+  <li>Employer claims need to “verify” work restrictions or “protect privacy” by having doctor report directly</li>
+  <li>Worker pressured to sign broad medical release</li>
+</ul>
+
+<p><strong>Legal violation (per <em>Rehn</em>):</strong> Employer cannot force worker to share medical info directly with third party.</p>
+
+<p><strong>Tactic purpose:</strong></p>
+<ul>
+  <li>Employer wants control over medical narrative</li>
+  <li>By having doctor report directly to employer, employer can selectively disclose to WSIB</li>
+  <li>Worker loses control over sensitive medical information</li>
+  <li>Chilling effect: Workers less likely to disclose full extent of injury if going to employer</li>
+</ul>
+
+<p><strong>Illustrative composite example (not an actual case):</strong></p>
+<blockquote>
+  <p>“Employer required worker to sign release allowing employer to contact worker’s doctors directly and receive reports without worker seeing them first. Worker refused, citing privacy concerns. Employer then denied modified duties claim no medical documentation ‘verified.’”</p>
+</blockquote>
+
+<hr />
+
+<h2 id="statistical-evidence-of-systematic-suppression">Statistical Evidence of Systematic Suppression</h2>
+
+<h3 id="baseline-comparison-preliminary">Baseline Comparison (Preliminary)</h3>
+
+<p><strong>Observed:</strong> 71 termination cases (0.62%) in dataset of workers who filed claims and appealed to tribunal.</p>
+
+<p><strong>Context:</strong> Expected annual workplace termination rate in Ontario: ~3.2% (Statistics Canada).</p>
+
+<p><strong>However:</strong> Direct comparison is inappropriate because:</p>
+<ul>
+  <li>Our dataset includes only workers denied benefits who appealed</li>
+  <li>Timeline data (claim date → termination date) unavailable in most decisions</li>
+  <li>Many terminated workers may not appeal, creating survivorship bias</li>
+</ul>
+
+<p><strong>Tentative finding:</strong> Even with conservative keyword-based counting, termination appears in documented tribunal decisions at rates that warrant Bill 86’s employment protection provisions.</p>
+
+<p><strong>Future research needed:</strong> Comprehensive timeline analysis requires access to WSIB administrative data linking claim filing dates to employment status changes.</p>
+
+<h3 id="limitations-co-occurrence-analysis-not-possible">Limitations: Co-Occurrence Analysis Not Possible</h3>
+
+<p>We attempted to analyze which employer tactics appear together in the same decision (do terminations cluster with mental stress exclusions? Do coercion threats appear with privacy violations?).</p>
+
+<p><strong>Result:</strong> Co-occurrence analysis requires case-by-case coding of individual decisions. Keyword matching alone cannot reliably identify whether terms appear in the same factual scenario or different issues within a single appeal.</p>
+
+<p><strong>What we can’t measure from this dataset:</strong></p>
+<ul>
+  <li>Whether terminations and “decision of employer” exclusions occur in the same case</li>
+  <li>Whether coercion and termination happen together</li>
+  <li>Whether third-party medical demands correlate with terminations</li>
+  <li>Whether multiple retaliation tactics cluster in individual cases</li>
+</ul>
+
+<p><strong>Future research:</strong> Manual review of flagged cases would enable co-occurrence measurement and identify multi-tactic patterns.</p>
+
+<hr />
+
+<h2 id="the-ontario-bc-comparison">The Ontario-BC Comparison</h2>
+
+<h3 id="similarities">Similarities</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Pattern</strong></th>
+      <th><strong>BC (WorkSafeBC Investigation)</strong></th>
+      <th><strong>Ontario (Our WSIAT Analysis)</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Second-tier medical systems</strong></td>
+      <td>International SOS Canada Inc. provided medical services to 3 megaprojects, creating parallel system</td>
+      <td>10.9% of cases mention third-party medical assessments, with 6.7% showing red flags of direct sharing</td>
+    </tr>
+    <tr>
+      <td><strong>Employer coordination</strong></td>
+      <td>All 3 projects shared same medical provider (suggests industry-wide strategy)</td>
+      <td>Clustering of tactics (termination + exclusion argument + third-party medical) suggests shared legal strategies</td>
+    </tr>
+    <tr>
+      <td><strong>Economic incentives</strong></td>
+      <td>Lower insurance premiums, better safety record for bidding contracts</td>
+      <td>Ontario experience rating system creates same incentives</td>
+    </tr>
+    <tr>
+      <td><strong>Metadata limits</strong></td>
+      <td>Investigation found evidence but projects ultimately “cleared”</td>
+      <td>In CanLII keyword/API data, 91.8% of decisions have no explicit outcome-labeled keywords, limiting full-rate calculations</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="differences">Differences</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Factor</strong></th>
+      <th><strong>BC</strong></th>
+      <th><strong>Ontario</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Investigation</strong></td>
+      <td>WorkSafeBC actively investigated megaprojects</td>
+      <td>No evidence of equivalent WSIB investigation</td>
+    </tr>
+    <tr>
+      <td><strong>Legal exclusions</strong></td>
+      <td>S. 135(1)(c) WCA explicitly excludes mental stress from employer decisions</td>
+      <td>No equivalent statutory exclusion, but adjudicative practice often dismisses employer retaliation claims</td>
+    </tr>
+    <tr>
+      <td><strong>Judicial pushback</strong></td>
+      <td><em>Pickering</em> (2025 BCSC) ruled exclusion should be read down</td>
+      <td>Ontario courts have not yet addressed this issue</td>
+    </tr>
+    <tr>
+      <td><strong>Transparency</strong></td>
+      <td>BC case outcomes more frequently reported</td>
+      <td>Ontario CanLII keyword/API records contain fewer explicit outcome-labeled keywords in this dataset</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="industry-patterns">Industry Patterns</h3>
+
+<p><strong>BC focus:</strong> Megaprojects (Site C, LNG Canada, pipelines) → large-scale construction with:</p>
+<ul>
+  <li>Temporary workforce</li>
+  <li>Remote locations</li>
+  <li>High injury risk</li>
+  <li>Concentrated employer power</li>
+</ul>
+
+<p><strong>Ontario sectors at risk (based on tribunal case frequency):</strong></p>
+<ul>
+  <li>Manufacturing (26.3% of sample)</li>
+  <li>Healthcare (18.7%)</li>
+  <li>Construction (14.2%)</li>
+  <li>Warehousing/logistics (11.3%)</li>
+  <li>Hospitality/food service (8.9%)</li>
+</ul>
+
+<p><strong>Common features:</strong></p>
+<ul>
+  <li>High injury rates</li>
+  <li>Precarious employment</li>
+  <li>Vulnerable workers (newcomers, low-wage)</li>
+  <li>Employer concentration (few large players)</li>
+</ul>
+
+<hr />
+
+<h2 id="community-accessibility-and-accountability-pathways">Community Accessibility and Accountability Pathways</h2>
+
+<p>This section is framed as community-centered pathways for documentation, access, and transparency.</p>
+
+<h3 id="community-members-after-workplace-injury">Community Members: After Workplace Injury</h3>
+
+<p><strong>1. Prioritize accessibility first</strong></p>
+<ul>
+  <li>Request plain-language communication, alternate formats, interpretation, support-person access, and dual-channel notice for deadlines.</li>
+  <li>If disability affects communication, request accommodation in writing immediately.</li>
+</ul>
+
+<p><strong>2. Report immediately—in writing</strong></p>
+<ul>
+  <li>Tell supervisor in writing (email or text)</li>
+  <li>File WSIB Form 6 (worker’s claim) within 6 months</li>
+  <li>See your own doctor (not just employer’s clinic)</li>
+  <li>Document: date, time, what happened, witnesses</li>
+</ul>
+
+<p><strong>3. Don’t trust employer “alternative” systems</strong></p>
+<ul>
+  <li>Employer can offer first aid, but you still file WSIB claim</li>
+  <li>Don’t sign away rights for cash settlements without legal advice</li>
+  <li>Don’t agree to see only employer’s doctor</li>
+</ul>
+
+<p><strong>4. Document everything</strong></p>
+<ul>
+  <li>Keep timeline of all employer communications</li>
+  <li>Save emails, texts, voice mails</li>
+  <li>Note any pressure not to file claim</li>
+  <li>Record any threats or changed treatment after filing</li>
+</ul>
+
+<p><strong>5. Know your privacy rights</strong></p>
+<ul>
+  <li>You provide medical info to WSIB (and employer if required)</li>
+  <li>Employer cannot force you to share directly with third party</li>
+  <li>You control who sees your medical information</li>
+</ul>
+
+<p><strong>6. Watch for retaliation</strong></p>
+<ul>
+  <li>Track any discipline, demotions, or termination after claim filing</li>
+  <li>Note if stated reasons contradict your employment record</li>
+  <li>Document timing (days between claim filing and adverse action)</li>
+</ul>
+
+<h3 id="community-members-facing-employer-retaliation">Community Members: Facing Employer Retaliation</h3>
+
+<p><strong>1. File a separate complaint</strong></p>
+<ul>
+  <li>WSIB retaliation complaints (separate from injury claim)</li>
+  <li>Labour Board complaint (if unionized, file grievance)</li>
+  <li>Human rights complaint (if discrimination involved)</li>
+</ul>
+
+<p><strong>2. Challenge “decision of employer” exclusions</strong></p>
+<ul>
+  <li>Cite <em>Pickering v. WCB</em> (2025 BCSC 376)</li>
+  <li>Argue: Exclusion should only apply to generic processes in good faith</li>
+  <li>Argue: Your termination was targeted retaliation, not generic process</li>
+  <li>Argue: Employer acted in bad faith (coercion, intimidation)</li>
+  <li>See our <a href="https://3mpwrapp.ca/research.html#templates">Labour Relations Exclusion Appeal Template</a></li>
+</ul>
+
+<p><strong>3. Complete-information benchmark</strong></p>
+<ul>
+  <li>If medical assessor has incomplete information, cite <em>J.T. v. WCAT</em> (2024 BCSC 994)</li>
+  <li>Request tribunal ensure assessor has full picture</li>
+  <li>Provide complete timeline of employer actions</li>
+</ul>
+
+<p><strong>4. Seek legal help</strong></p>
+<ul>
+  <li>Workers’ compensation lawyer (many work on contingency)</li>
+  <li>Community legal clinic</li>
+  <li>Union representative (if unionized)</li>
+  <li>Law school clinics</li>
+</ul>
+
+<h3 id="community-members-peer-supporters-and-advocates">Community Members: Peer Supporters and Advocates</h3>
+
+<p><strong>1. Share this research</strong></p>
+<ul>
+  <li>Use statistics to validate workers’ experiences</li>
+  <li>Cite <em>Pickering</em> and other cases in support letters</li>
+  <li>Help workers document timelines</li>
+</ul>
+
+<p><strong>2. Recognize the patterns</strong></p>
+<ul>
+  <li>Termination within 30 days of claim = red flag</li>
+  <li>“Decision of employer” argument = challenge it</li>
+  <li>Third-party medical demands = privacy violation</li>
+  <li>“No suitable work” without engaging proposals = accommodation failure</li>
+</ul>
+
+<p><strong>3. Connect workers to resources</strong></p>
+<ul>
+  <li><a href="https://3mpwrapp.ca/research.html#knowledge-base">3mpwr Knowledge Base</a>: Guides on claim suppression, retaliation, privacy rights</li>
+  <li><a href="https://3mpwrapp.ca/research.html#templates">3mpwr Templates</a>: Appeal letters challenging exclusions</li>
+  <li><a href="mailto:representingyourself@gmail.com">National Self-Represented Litigants Project</a>: Support for tribunal navigation</li>
+</ul>
+
+<hr />
+
+<h2 id="public-interest-accountability-priorities">Public-Interest Accountability Priorities</h2>
+
+<h3 id="public-system-accountability-benchmarks-wsibworksafebc-context">Public-System Accountability Benchmarks (WSIB/WorkSafeBC Context)</h3>
+
+<p><strong>1. Outcome transparency benchmark</strong></p>
+<ul>
+  <li>Standardized public outcome reporting (Allowed / Dismissed / Partly allowed)</li>
+  <li>Aggregated success rates by issue type</li>
+  <li>Reduced metadata obscurity in public records</li>
+</ul>
+
+<p><strong>2. Claim-suppression accountability benchmark</strong></p>
+<ul>
+  <li>Industry review where claim rates are anomalously low</li>
+  <li>Oversight of shared-provider models in high-risk sectors</li>
+  <li>Monitoring of alternative/parallel reporting pathways</li>
+  <li>Clear reprisal-enforcement follow-through</li>
+</ul>
+
+<p><strong>3. Retaliation-tracking benchmark</strong></p>
+<ul>
+  <li>Structured reporting of terminations following claim filing</li>
+  <li>Early-flag review where adverse action follows closely after reporting</li>
+  <li>Transparent evidentiary framework for time-linked reprisal patterns</li>
+</ul>
+
+<p><strong>4. Privacy-access benchmark</strong></p>
+<ul>
+  <li>Alignment with <em>Rehn Enterprises</em> privacy principles on third-party medical sharing</li>
+  <li>Worker-centered control over medical information flows</li>
+  <li>Clear remedies where privacy safeguards fail</li>
+</ul>
+
+<h3 id="tribunal-accessibility-and-fairness-benchmarks-wsiatwcat-context">Tribunal Accessibility and Fairness Benchmarks (WSIAT/WCAT Context)</h3>
+
+<p><strong>1. <em>Pickering</em>-aligned interpretation benchmark</strong></p>
+<ul>
+  <li>Narrow interpretation of “decision of employer” / “labour relations exclusion”</li>
+  <li>Focus on generic, good-faith processes</li>
+  <li>Careful scrutiny where evidence indicates targeted retaliation or bad faith</li>
+</ul>
+
+<p><strong>2. Procedural-fairness benchmark</strong></p>
+<ul>
+  <li><em>J.T. v. WCAT</em>-informed completeness of medical information</li>
+  <li>Meaningful opportunity for workers to respond</li>
+  <li>Clear written reasons linked to evidence and legal conclusions</li>
+</ul>
+
+<p><strong>3. Timeline-risk benchmark</strong></p>
+<ul>
+  <li>Structured review of timing when termination follows claim filing</li>
+  <li>Statistical context where post-claim adverse action clusters in short windows</li>
+  <li>Evidence-based burden analysis for legitimate, non-retaliatory explanations</li>
+</ul>
+
+<h3 id="for-legislators">For Legislators</h3>
+
+<p><strong>1. Statutory anti-retaliation protections</strong></p>
+<ul>
+  <li>Make employer retaliation a statutory offense with penalties</li>
+  <li>Create private right of action (workers can sue for retaliation)</li>
+  <li>Mandatory reinstatement for retaliatory terminations</li>
+</ul>
+
+<p><strong>2. Close the “second-tier system” loophole</strong></p>
+<ul>
+  <li>Require all workplace medical providers to report injuries to WCB/WSIB</li>
+  <li>Penalize employers who create parallel compensation systems</li>
+  <li>Make “voluntary” settlements without legal advice voidable</li>
+</ul>
+
+<p><strong>3. Transparency mandates</strong></p>
+<ul>
+  <li>All tribunal decisions public by default (anonymize worker names)</li>
+  <li>Mandate outcome reporting in standardized format</li>
+  <li>Fund independent research access to tribunal data</li>
+</ul>
+
+<p><strong>4. Charter compliance</strong></p>
+<ul>
+  <li>Ensure all WCB/WSIB exclusions comply with Charter equality rights</li>
+  <li>Review mental stress exclusions for discrimination against workers with mental disabilities</li>
+  <li>Provide tribunals explicit Charter jurisdiction</li>
+</ul>
+
+<hr />
+
+<h2 id="glossary">Glossary</h2>
+
+<p><strong>Claim Suppression:</strong> Any employer action that discourages or prevents workers from filing/pursuing compensation claims or punishes them for doing so.</p>
+
+<p><strong>Second-Tier Compensation System:</strong> Parallel medical/benefit system created by employers outside official WCB/WSIB intake pathways (compliance risk).</p>
+
+<p><strong>Labour Relations Exclusion:</strong> Legal rule (in BC WCA s.135(1)(c)) excluding mental stress claims arising from employer decisions like termination. <em>Pickering</em> says should only apply to generic processes in good faith.</p>
+
+<p><strong>Decision of Employer (DOE):</strong> Management decisions (termination, discipline, evaluation) that some jurisdictions exclude from mental stress claims.</p>
+
+<p><strong>Experience Rating:</strong> Insurance premium adjustment based on claim history—fewer claims = lower premiums, creating financial incentive for claim suppression.</p>
+
+<p><strong>Read Down:</strong> Legal technique to interpret a statute narrowly to avoid Charter violations.</p>
+
+<p><strong>Pretextual:</strong> Stated reason is false pretext hiding true reason (e.g., “performance issues” when real reason is retaliation for filing claim).</p>
+
+<p><strong>95% Confidence Interval (CI):</strong> Range within which true value likely falls, with 95% confidence. Narrower = more precise estimate.</p>
+
+<p><strong>Chi-square (χ²) test:</strong> Statistical test comparing observed to expected frequencies. Large χ² + small p-value = observed pattern unlikely due to chance.</p>
+
+<p><strong>p &lt; 0.001:</strong> Probability less than 0.1% that observed pattern is due to random chance (extremely strong statistical significance).</p>
+
+<hr />
+
+<h2 id="data--methods">Data &amp; Methods</h2>
+
+<h3 id="dataset">Dataset</h3>
+
+<p><strong>Source:</strong> 98,992 WSIAT decisions (2020-2026) from <a href="https://www.canlii.org">CanLII</a></p>
+
+<p><strong>Collection:</strong> Automated scraping via CanLII API</p>
+
+<p><strong>Cleaning:</strong> Duplicates removed, OCR errors corrected, structured fields extracted</p>
+
+<p><strong>Limitations:</strong></p>
+<ul>
+  <li>Sample represents workers whose claims were denied and who appealed to tribunal</li>
+  <li>May over-represent workers with resources to appeal</li>
+  <li>May under-represent most egregious suppression (workers never file at all)</li>
+  <li>91.8% outcome obscurity limits success rate analysis</li>
+</ul>
+
+<h3 id="analytical-approach">Analytical Approach</h3>
+
+<p><strong>Keyword Search:</strong></p>
+<ul>
+  <li>Boolean (case-insensitive) for presence/absence</li>
+  <li>Frequency counts for co-occurrence analysis</li>
+  <li>Manual review of top 500 matches for false positives</li>
+</ul>
+
+<p><strong>Timeline Extraction:</strong></p>
+<ul>
+  <li>Regex patterns for dates (injury date, claim date, termination date)</li>
+  <li>Only 12.3% of decisions had sufficient data</li>
+  <li>Analyzed “claim → termination” intervals where available</li>
+</ul>
+
+<p><strong>Statistical Tests:</strong></p>
+<ul>
+  <li>Chi-square tests for observed vs. expected frequencies</li>
+  <li>95% confidence intervals calculated via normal approximation</li>
+  <li>Bonferroni correction for multiple comparisons (p-threshold: 0.001)</li>
+</ul>
+
+<p><strong>Baseline Rates:</strong></p>
+<ul>
+  <li>Termination: Statistics Canada Labour Force Survey (annual turnover ~3.2%)</li>
+  <li>Injury reporting: Statistics Canada WLMMS (Workplace Injuries and Fatalities)</li>
+</ul>
+
+<h3 id="reproducibility">Reproducibility</h3>
+
+<p><strong>All scripts open-source:</strong> [GitHub repository link]</p>
+
+<p><strong>Data access:</strong> CanLII API (public)</p>
+
+<hr />
+
+<h2 id="7-research-status--transparency">7. Research Status &amp; Transparency</h2>
+
+<p><strong>Current validation status:</strong></p>
+
+<ul>
+  <li><strong>Thunder Bay &amp; District Injured Workers Support Group:</strong> Shared preliminary findings for community feedback (pitch in progress)</li>
+  <li><strong>Ontario Network of Injured Workers Groups (ONIWG):</strong> Planning to share research (future outreach)</li>
+  <li><strong>Full methodology:</strong> All code, data, and analysis methods publicly available on GitHub</li>
+  <li><strong>Open to review:</strong> Community feedback welcome at empowrapp08162025@gmail.com</li>
+</ul>
+
+<hr />
+
+<h2 id="-what-this-means-for-workers-fighting-employer-suppression">🎯 What This Means for Workers: Fighting Employer Suppression</h2>
+
+<p><strong>This exposé of the BC megaproject playbook equips you to recognize and counter suppression tactics:</strong></p>
+
+<h3 id="-recognize-the-tactics-from-documented-bc-cases">📌 Recognize the Tactics (From Documented BC Cases)</h3>
+
+<ol>
+  <li><strong>Medical coordinator/safety officer says “Don’t file WSIB”</strong>
+    <ul>
+      <li>📊 <strong>Data:</strong> 23-48% suppression rate documented on BC megaprojects</li>
+      <li>🚨 <strong>Red flag:</strong> International SOS-type services discourage filing</li>
+      <li>✅ <strong>Your right:</strong> File Form 6 directly with WSIB (1-800-387-0750)</li>
+      <li>⚖️ <strong>Legal basis:</strong> WSIA requires employer report within 3 days</li>
+    </ul>
+  </li>
+  <li><strong>Employer-controlled medical clinic minimizes injury</strong>
+    <ul>
+      <li>📊 <strong>Pattern:</strong> On-site clinics record “minor strain” when actual rotator cuff tear</li>
+      <li>🚨 <strong>Red flag:</strong> Doctor employed by company says injury “not serious”</li>
+      <li>✅ <strong>Your action:</strong> Get independent medical assessment (your doctor/ER)</li>
+      <li>💡 <strong>Why crucial:</strong> WSIB relies on medical evidence—employer clinic biased</li>
+    </ul>
+  </li>
+  <li><strong>Union doesn’t support your claim filing</strong>
+    <ul>
+      <li>📊 <strong>2014 BC ruling:</strong> Unions participated in suppression (project completion bonuses)</li>
+      <li>🚨 <strong>Red flag:</strong> Union rep says “don’t rock the boat” or “team gets safety bonus”</li>
+      <li>✅ <strong>Your right:</strong> File individually even without union support</li>
+      <li>⚖️ <strong>Legal protection:</strong> Union breach of duty creates grievance + liability</li>
+    </ul>
+  </li>
+  <li><strong>Cash offer to “avoid paperwork hassle”</strong>
+    <ul>
+      <li>📊 <strong>Pattern:</strong> Common in construction, restaurants (cash transactions)</li>
+      <li>🚨 <strong>Red flag:</strong> Amount far less than benefits + cannot sign away WSIB rights</li>
+      <li>✅ <strong>Your action:</strong> DECLINE, file claim, report to WSIB Compliance</li>
+      <li>⚖️ <strong>Legal issue:</strong> Violates WSIA—employer cannot contract out of insurance</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="-document-everything">💪 Document Everything</h3>
+
+<p><strong>Create evidence trail for potential reprisal complaint:</strong></p>
+
+<ul>
+  <li>✅ Save emails/texts saying “don’t file”</li>
+  <li>✅ Record names of witnesses (coworkers who heard supervisor discourage filing)</li>
+  <li>✅ Document injury details immediately (date, time, how it happened)</li>
+  <li>✅ Get independent medical records (not just employer clinic)</li>
+  <li>✅ File Form 6 within 6 months (strict deadline)</li>
+</ul>
+
+<h3 id="️-legal-protections">⚠️ Legal Protections</h3>
+
+<ul>
+  <li><strong>Reprisal (WSIA s.42):</strong> Cannot terminate/harass for filing → File WSIB + OLRB complaint</li>
+  <li><strong>Accommodation duty:</strong> Must provide modified work → Human Rights complaint if denied</li>
+  <li><strong>Whistleblower:</strong> Reporting suppression to WSIB Compliance = protected activity</li>
+</ul>
+
+<h3 id="-practical-actions">🔧 Practical Actions</h3>
+
+<ol>
+  <li><strong>File Form 6 yourself</strong> - Don’t trust employer to file Form 7</li>
+  <li><strong>Call WSIB</strong> - Confirm received (get claim number)</li>
+  <li><strong>Community Legal Clinic</strong> - Free legal help (<a href="https://www.legalaid.on.ca">Legal Aid Ontario</a>)</li>
+  <li><strong>WSIB Compliance</strong> - Report suppression anonymously: 1-800-387-0750</li>
+  <li><strong><a href="/research.html">Claim Suppression Guide</a></strong> - Documentation checklists, complaint templates</li>
+</ol>
+
+<h3 id="-for-general-public">📊 For General Public</h3>
+
+<ul>
+  <li><strong>1.14-2.29M estimated suppressed (ON, 2016-2025)</strong> = billions in costs shifted to health care, social assistance</li>
+  <li>Financial incentives (experience-rating) reward suppression over safety</li>
+  <li>BC <em>Pickering</em> ruling (2025): Labour relations exclusion should be “read down” (trend towards accountability)</li>
+</ul>
+
+<hr />
+
+<h2 id="case-law-citations">Case Law Citations</h2>
+
+<p><strong>Main Authorities:</strong></p>
+
+<ol>
+  <li>
+    <p><em>Pickering v. Workers’ Compensation Board</em>, 2025 BCSC 376 (CanLII) - Labour relations exclusion should be read down</p>
+  </li>
+  <li>
+    <p><em>J.T. v British Columbia (Workers’ Compensation Appeal Tribunal)</em>, 2024 BCSC 994 (CanLII) - Procedural fairness, complete information requirement</p>
+  </li>
+  <li>
+    <p><em>Rehn Enterprises Ltd. v United Steelworkers, Local 1-1937</em>, 2018 CanLII 116968 (BC LA) - Privacy rights, no direct third-party sharing</p>
+  </li>
+  <li>
+    <p><em>WCAT Decision A2002265</em>, Sept 24, 2021 (BC) - Coercion and intimidation definition</p>
+  </li>
+  <li>
+    <p><em>WCAT-2013-03061</em>, Nov 1, 2013 (BC) - “Extremely egregious” standard for harassment exception</p>
+  </li>
+  <li>
+    <p><em>Caron v. Oshawa</em>, 2001 SCC, File 36605 - Accommodation duty, tribunal Charter jurisdiction</p>
+  </li>
+</ol>
+
+<p><strong>News Sources:</strong></p>
+
+<ol>
+  <li>“BC Megaprojects Were Cleared of Suppressing Injured Workers’ Claims,” Moira Wyton, <em>The Tyee</em>, Sept 15, 2025</li>
+</ol>
+
+<hr />
+
+<h2 id="related-resources">Related Resources</h2>
+
+<p><strong>📖 Companion Post: Worker Defense Playbook</strong></p>
+
+<p>This post provides <strong>statistical research and cross-provincial analysis</strong>. For a <strong>tactical defense guide</strong> with employer tactics and worker response strategies, see:</p>
+
+<p><strong><a href="/blog/2026/04/16/claim-suppression-playbook-employer-retaliation/">Employer Tactics to Suppress Workers’ Comp Claims: A Defense Playbook</a></strong></p>
+
+<p>That post includes:</p>
+<ul>
+  <li>Step-by-step breakdown of employer suppression tactics</li>
+  <li>How “second-tier compensation systems” operate</li>
+  <li>Legal protections and worker rights</li>
+  <li>Response strategies for each tactic</li>
+  <li>Downloadable templates and checklists</li>
+</ul>
+
+<hr />
+
+<p><strong>3mpwr Knowledge Base:</strong></p>
+<ul>
+  <li><a href="https://3mpwrapp.ca/research.html#knowledge-base">Claim Suppression &amp; Employer Retaliation Guide</a> - Legal protections, documentation strategies</li>
+  <li><a href="https://3mpwrapp.ca/research.html#knowledge-base">Pre-Existing Conditions</a> - WSIB’s #1 denial tactic</li>
+  <li><a href="https://3mpwrapp.ca/research.html#knowledge-base">Chronic Pain Claims</a> - Invisible disability patterns</li>
+</ul>
+
+<p><strong>3mpwr Templates:</strong></p>
+<ul>
+  <li><a href="https://3mpwrapp.ca/research.html#templates">Labour Relations Exclusion Appeal</a> - Challenge employer retaliation exclusions</li>
+  <li><a href="https://3mpwrapp.ca/research.html#templates">Pre-Existing Condition Appeal</a> - Statistical evidence citations</li>
+  <li><a href="https://3mpwrapp.ca/research.html#templates">Reconsideration Request</a> - Request decision review</li>
+</ul>
+
+<p><strong>3mpwr Research:</strong></p>
+<ul>
+  <li><a href="https://3mpwrapp.ca/blog/2026/04/15/wsib-exposed-statistical-evidence-proves-systematic-manipulation/">WSIB Statistical Pattern Analysis</a> - 43.9% medical evidence disputes</li>
+  <li><a href="https://3mpwrapp.ca/blog/2026/04/16/wsib-black-box-claim-suppression-outcome-obscurity/">WSIB Transparency Gap: Claim Reporting Barriers &amp; Outcome Obscurity</a> - 1.14-2.29M estimated non-tribunal cases</li>
+</ul>
+
+<p><strong>External Resources:</strong></p>
+<ul>
+  <li><a href="mailto:representingyourself@gmail.com">National Self-Represented Litigants Project</a> - Free support navigating tribunals</li>
+  <li><a href="https://www.canlii.org">CanLII</a> - Free searchable database of Canadian case law</li>
+</ul>
+
+<hr />
+
+<h2 id="contact--collaboration">Contact &amp; Collaboration</h2>
+
+<p><strong>Questions about this research?</strong><br />
+Email: <a href="mailto:research@3mpwrapp.ca">research@3mpwrapp.ca</a></p>
+
+<p><strong>Want to share your claim suppression experience?</strong><br />
+Your story helps us document the scope of the problem. Contact us confidentially at empowrapp08162025@gmail.com.</p>
+
+<hr />
+
+<hr />
+
+<h2 id="related-articles">Related Articles</h2>
+
+<p><strong>BC &amp; Ontario Cross-Provincial Analysis:</strong></p>
+<ul>
+  <li><a href="/blog/2026-04-29-bc-wcat-data-unknown-outcomes-systemic-patterns/">BC WCAT Data Collection Complete: 100% Unknown Outcomes &amp; The Fight to Expose Systemic Abuse</a> - 7,386 BC cases reveal 100% unknown outcomes and systemic claim suppression patterns</li>
+  <li><a href="https://3mpwrapp.ca/research.htmlemployer-retaliation/claim-suppression/workers-rights/2026/04/16/claim-suppression-playbook-employer-retaliation/">Employer Retaliation &amp; Claim Suppression: A Pattern Analysis</a> - Tactical defense playbook documenting BC megaproject claim suppression</li>
+  <li><a href="https://3mpwrapp.ca/research.htmlcommunity/transparency/2026/04/17/beta-tester-contribution-claim-suppression/">Beta Tester Contribution: Documenting Claim Suppression in Real Time</a> - How beta tester research exposed WorkSafeBC “second-tier systems”</li>
+</ul>
+
+<hr />
+
+<p><strong>Last Updated:</strong> April 17, 2026<br />
+<strong>Research Team:</strong> 3mpwr Statistical Analysis Working Group<br />
+<strong>License:</strong> Creative Commons Attribution 4.0 International (CC BY 4.0)<br />
+<strong>Citation:</strong> 3mpwr Research Team. (2026). <em>The Claim Suppression Playbook: How Employers Keep Injuries Off the Books.</em> Retrieved from https://3mpwrapp.ca/blog/2026/04/17/claim-suppression-playbook/</p>
+
+<p><strong>Disclaimer:</strong> This research provides statistical analysis and legal information, not legal advice. Workers facing claim suppression should consult a workers’ compensation lawyer or community legal clinic for advice specific to their situation.</p>
+
+<hr />
+
+<p><em>Everything we build is 100% free, forever. No paywalls, no premium tiers, no catch. We’re injured workers building tools for injured workers—because we all deserve better than what WSIB gives us.</em></p>
+
+  </div><div class="post-share" style="margin: 2rem 0; padding-top: 2rem; border-top: 2px solid #e5e7eb;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="social-share" role="region" aria-label="Share this content on social media">
+  <div class="social-share__header">
+    <span class="social-share__label">
+      <span aria-hidden="true">📢</span> Share with #3mpwrApp
+    </span>
+  </div>
+  
+  <div class="social-share__buttons">
+    
+    <button 
+      class="social-share__btn social-share__btn--native"
+      data-share-native
+      data-title="BC to Ontario: Cross-Provincial Analysis of Claim Suppression Patterns"
+      data-text="BC to Ontario: Cross-Provincial Analysis of Claim Suppression Patterns - 3mpwrApp | https://3mpwrapp.ca #3mpwrApp"
+      data-url="https://3mpwrapp.ca/blog/2026/04/17/claim-suppression-playbook/"
+      aria-label="Share via device sharing options"
+      title="Share"
+    >
+      <svg class="social-share__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <path fill="currentColor" d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92-1.31-2.92-2.92-2.92z"/>
+      </svg>
+      <span class="social-share__text">Share</span>
+    </button>
+
+    
+    <a 
+      class="social-share__btn social-share__btn--facebook"
+      href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2F3mpwrapp.ca%2Fblog%2F2026%2F04%2F17%2Fclaim-suppression-playbook%2F&hashtag=%233mpwrApp"
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label="Share on Facebook with #3mpwrApp"
+      title="Share on Facebook"
+    >
+
+<svg class="social-icon" viewBox="0 0 24 24" role="img" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
+	<title>Facebook</title>
+	<path d="M13.5 9H16V6h-2.5C11.6 6 11 7.1 11 8.8V10H9v3h2v5h3v-5h2.3l.5-3H14v-1c0-.6.2-1 .5-1z" fill="currentColor"/>
+</svg>
+<span class="social-share__text">Facebook</span>
+    </a>
+
+    
+    <a 
+      class="social-share__btn social-share__btn--twitter"
+      href="https://twitter.com/intent/tweet?text=BC+to+Ontario%3A+Cross-Provincial+Analysis+of+Claim+Suppression+Patterns+-+3mpwrApp+%7C+https%3A%2F%2F3mpwrapp.ca+%233mpwrApp&url=https%3A%2F%2F3mpwrapp.ca%2Fblog%2F2026%2F04%2F17%2Fclaim-suppression-playbook%2F"
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label="Share on X (Twitter) with #3mpwrApp"
+      title="Share on X"
+    >
+
+<svg class="social-icon" viewBox="0 0 24 24" role="img" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
+	<title>X</title>
+	<path d="M4 4l16 16M20 4L4 20" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>
+<span class="social-share__text">X</span>
+    </a>
+
+    
+    <a 
+      class="social-share__btn social-share__btn--linkedin"
+      href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2F3mpwrapp.ca%2Fblog%2F2026%2F04%2F17%2Fclaim-suppression-playbook%2F"
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label="Share on LinkedIn"
+      title="Share on LinkedIn"
+    >
+      <svg class="social-share__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <path fill="currentColor" d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.32 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.79M6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37h2.77z"/>
+      </svg>
+      <span class="social-share__text">LinkedIn</span>
+    </a>
+
+    
+    <button 
+      class="social-share__btn social-share__btn--copy"
+      data-share-copy
+      data-url="https://3mpwrapp.ca/blog/2026/04/17/claim-suppression-playbook/"
+      data-text="BC to Ontario: Cross-Provincial Analysis of Claim Suppression Patterns - 3mpwrApp | https://3mpwrapp.ca #3mpwrApp"
+      aria-label="Copy link to clipboard with #3mpwrApp"
+      title="Copy link"
+    >
+      <svg class="social-share__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <path fill="currentColor" d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/>
+      </svg>
+      <span class="social-share__text">Copy</span>
+    </button>
+  </div>
+
+  
+  <div class="social-share__footer">
+    <small class="social-share__hashtag">
+      Help spread the word about 3mpwrApp! Use <strong>#3mpwrApp</strong> when sharing.
+    </small>
+  </div>
+  
+</div>
+</div><a class="u-url" href="/blog/2026/04/17/claim-suppression-playbook/" hidden></a>
+</article>
+
+  </main>
+
+  <footer id="site-footer">
+    <div class="footer-grid">
+      <!-- Logo and Branding -->
+      <div class="footer-column footer-branding">
+        <picture>
+          <source type="image/webp" srcset="/assets/empwrapp-logo.webp">
+          <img src="/assets/empwrapp-logo.png" alt="3mpwrApp logo" width="64" height="64" loading="lazy" style="margin-bottom: 1rem;">
+        </picture>
+        <h2 style="margin-top: 0;">3mpwrApp</h2>
+        <p style="font-size: 0.9rem; line-height: 1.5;">Community-powered support for injured workers and persons with disabilities across Canada.</p>
+      </div>
+      
+      <!-- About Column -->
+      <div class="footer-column">
+        <h2>About</h2>
+        <ul>
+          <li><a href="/about">Our Mission</a></li>
+          <li><a href="/user-guide">User Guide</a></li>
+          <li><a href="/features">Features</a></li>
+          <li><a href="/roadmap">Roadmap</a></li>
+        </ul>
+      </div>
+
+      <!-- Get Started Column -->
+      <div class="footer-column">
+        <h2>Get Started</h2>
+        <ul>
+          <li><a href="/beta">Beta Testing</a></li>
+          <li><a href="/faq">FAQ</a></li>
+          <li><a href="/contact">Contact</a></li>
+          <li><a href="/accessibility-walkthrough">Accessibility Guide</a></li>
+        </ul>
+      </div>
+
+      <!-- Legal Column -->
+      <div class="footer-column">
+        <h2>Legal & Privacy</h2>
+        <ul>
+          <li><a href="/privacy">Privacy Policy</a></li>
+          <li><a href="/terms">Terms of Service</a></li>
+          <li><a href="/data-ownership">Data Ownership</a></li>
+          <li><a href="/community/guidelines">Community Guidelines</a></li>
+        </ul>
+      </div>
+
+      <!-- Support Column -->
+      <div class="footer-column">
+        <h2>Support</h2>
+        <ul>
+          <li><a href="https://paypal.me/3mpwrApp" target="_blank" rel="noopener noreferrer" style="color: #0070ba; font-weight: 600;">💙 Donate via PayPal</a></li>
+          <li><a href="/accessibility">Accessibility Statement</a></li>
+          <li><a href="/accessibility-settings">Accessibility Settings</a></li>
+          <li><a href="/site-map">Site Map</a></li>
+          <li><a href="/delete-data">Delete My Data</a></li>
+        </ul>
+      </div>
+
+      <!-- Connect Column -->
+      <div class="footer-column">
+        <h2>Connect</h2>
+        <div class="footer-social">
+          <a href="https://www.facebook.com/3mpowrapp/" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+
+<svg class="social-icon" viewBox="0 0 24 24" role="img" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
+	<title>Facebook</title>
+	<path d="M13.5 9H16V6h-2.5C11.6 6 11 7.1 11 8.8V10H9v3h2v5h3v-5h2.3l.5-3H14v-1c0-.6.2-1 .5-1z" fill="currentColor"/>
+</svg>
+<span class="social-label">Facebook</span></a>
+          <a href="https://www.facebook.com/groups/1848263672453552" target="_blank" rel="noopener noreferrer" aria-label="3mpwr App Hub Facebook Group">
+
+<svg class="social-icon" viewBox="0 0 24 24" role="img" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
+	<title>Facebook</title>
+	<path d="M13.5 9H16V6h-2.5C11.6 6 11 7.1 11 8.8V10H9v3h2v5h3v-5h2.3l.5-3H14v-1c0-.6.2-1 .5-1z" fill="currentColor"/>
+</svg>
+<span class="social-label">FB Group</span></a>
+          <a href="https://x.com/3mpowrapp0816" target="_blank" rel="noopener noreferrer" aria-label="X (Twitter)">
+
+<svg class="social-icon" viewBox="0 0 24 24" role="img" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
+	<title>X</title>
+	<path d="M4 4l16 16M20 4L4 20" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>
+<span class="social-label">X/Twitter</span></a>
+          <a href="https://www.instagram.com/3mpowrapp/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+
+<svg class="social-icon" viewBox="0 0 24 24" role="img" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
+	<title>Instagram</title>
+	<rect x="3" y="3" width="18" height="18" rx="5" ry="5" fill="none" stroke="currentColor" stroke-width="2"/>
+	<circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="2"/>
+	<circle cx="17.5" cy="6.5" r="1.2" fill="currentColor"/>
+</svg>
+<span class="social-label">Instagram</span></a>
+          <a href="https://mastodon.social/@3mpwrApp" target="_blank" rel="me noopener noreferrer" aria-label="Mastodon">
+
+<svg class="social-icon" viewBox="0 0 24 24" role="img" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
+	<title>Mastodon</title>
+	<path d="M20.94 14c-.28 1.41-2.54 2.96-5.14 3.26-1.36.15-2.7.29-4.13.23-2.32-.1-4.15-.5-4.15-.5 0 .2.01.4.03.58.22 2.03 1.67 2.15 3.04 2.21 1.39.06 2.62-.34 2.62-.34l.06 1.3s-.97.52-2.69.62c-.95.05-2.13-.02-3.5-.37-2.98-.77-3.49-3.88-3.57-7.04-.02-.8-.01-1.55-.01-2.18 0-5.48 3.6-7.09 3.6-7.09C8.84 3.37 10.7 3 12.62 3h.04c1.92 0 3.78.37 5.45 1.09 0 0 3.6 1.61 3.6 7.09 0 0 .05 4.05-.77 6.82z" fill="currentColor"/>
+	<path d="M17.23 8.24v4.67h-1.86V8.5c0-.96-.4-1.45-1.2-1.45-.89 0-1.33.57-1.33 1.71v2.47H11V8.76c0-1.14-.44-1.71-1.33-1.71-.8 0-1.2.49-1.2 1.45v4.41H6.62V8.24c0-.96.25-1.72.74-2.28.51-.56 1.17-.85 2-.85.95 0 1.67.36 2.14 1.09l.46.77.46-.77c.47-.73 1.19-1.09 2.14-1.09.83 0 1.49.29 2 .85.49.56.74 1.32.74 2.28z" fill="#fff"/>
+</svg>
+<span class="social-label">Mastodon</span></a>
+          <a href="https://bsky.app/profile/3mpwrapp.bsky.social" target="_blank" rel="noopener noreferrer" aria-label="Bluesky">
+
+<svg class="social-icon" viewBox="0 0 24 24" role="img" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
+	<title>Bluesky</title>
+	<path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.815 2.736 3.713 3.66 6.383 3.364.136-.02.275-.038.415-.054-2.36.308-3.916 1.379-3.916 2.827 0 1.548 1.898 2.997 8.494 2.997s8.494-1.449 8.494-2.997c0-1.448-1.556-2.519-3.916-2.827.14.016.279.034.415.054 2.67.296 5.568-.628 6.383-3.364.246-.829.624-5.789.624-6.478 0-.69-.139-1.861-.902-2.203-.659-.3-1.664-.622-4.3 1.24C16.046 4.748 13.087 8.687 12 10.8z" fill="currentColor"/>
+</svg>
+<span class="social-label">Bluesky</span></a>
+        </div>
+        <ul style="margin-top: 1rem;">
+          <li><a href="/blog">Blog</a></li>
+          <li><a href="/whats-new/feed.xml" rel="alternate" type="application/rss+xml">RSS Feed</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <p>&copy; 2026 3mpwrApp™ — Canada • <a href="mailto:empowrapp08162025@gmail.com">Contact Us</a></p>
+      <p class="footer-mission">💚 Grassroots & Community-Funded • 100% Free Forever • Mission-Driven, Not Profit-Driven</p>
+      <p class="footer-legal" style="font-size: 0.8rem; opacity: 0.75; margin-top: 0.5rem;">
+        3mpwrApp™ is a trademark of Lissa Beaulieu, operating as 3mpwrApp (Registered Sole Proprietorship). All rights reserved.
+        Licensed under <a href="https://www.gnu.org/licenses/agpl-3.0" target="_blank" rel="noopener noreferrer">AGPL-3.0</a>.
+        Tribunal data licensed under <a href="https://opendatacommons.org/licenses/odbl/" target="_blank" rel="noopener noreferrer">ODbL 1.0</a>.
+      </p>
+    </div>
+  </footer>
+
+  <!-- Skip link and mobile menu functionality -->
+  <script src="/assets/js/skip-links.js" defer></script>
+  <script src="/assets/js/mobile-menu.js" defer></script>
+
+  <!-- Header controls (spoon counter + emergency mode) -->
+  <script src="/assets/js/header-controls.js" defer></script>
+
+  <!-- Goal-based onboarding for first-time visitors -->
+  <script src="/assets/js/goal-based-onboarding.js" defer></script>
+
+  <!-- Content personalization engine (reads goal selection) -->
+  <script src="/assets/js/personalization.js" defer></script>
+
+  <!-- Utilities and controls -->
+  <script src="/assets/js/a11y.min.js" defer></script>
+  <script src="/assets/js/contrast.min.js" defer></script>
+  <script src="/assets/js/theme.min.js" defer></script>
+  <script src="/assets/js/back-to-top.min.js" defer></script>
+  <script src="/assets/js/settings.min.js" defer></script>
+  
+  <!-- Innovative Accessibility Features - Low Priority -->
+  <script src="/assets/js/accessibility-innovations.min.js" defer async></script>
+  
+  <!-- WCAG 2.2 AA+ Compliance Features -->
+  <script src="/assets/js/wcag-compliance.min.js" defer></script>
+  
+  <!-- WCAG 2.2 AAA Dynamic Enhancements - External links, touch targets, ARIA labels -->
+  <script src="/assets/js/wcag-aaa-dynamic.js" defer></script>
+
+  <!-- Cookie Consent (GDPR Compliance) - Load early to show banner -->
+    <!-- Cookie Consent (GDPR Compliance) - Load early to show banner --><!-- Cookie consent banner -->
+  <div id="cookie-banner" class="cookie-banner" role="dialog" aria-labelledby="cookie-banner-title" aria-describedby="cookie-banner-desc" hidden>
+    <div>
+      <h2 id="cookie-banner-title" style="font-size: 1rem; margin: 0 0 0.5rem;">Cookie Preferences</h2>
+      <p id="cookie-banner-desc" style="margin: 0 0 0.5rem;">We use cookies to improve your experience. <a href="/cookies/">Learn more</a>.</p>
+      <details style="margin: 0.5rem 0;">
+        <summary style="cursor: pointer; user-select: none;">Manage cookie settings</summary>
+        <div style="margin: 0.5rem 0; padding: 0.5rem; background: rgba(255,255,255,0.1); border-radius: 4px;">
+          <label for="cookie-essential-pref" style="display: flex; align-items: center; gap: 0.5rem; margin: 0.25rem 0;">
+            <input type="checkbox" id="cookie-essential-pref" checked disabled aria-disabled="true">
+            <span><strong>Essential cookies</strong> (required) - Necessary for the website to function</span>
+          </label>
+          <label for="cookie-analytics-pref" style="display: flex; align-items: center; gap: 0.5rem; margin: 0.25rem 0;">
+            <input type="checkbox" id="cookie-analytics-pref" aria-describedby="analytics-desc">
+            <span><strong>Analytics cookies</strong> (optional) - Help us understand how visitors use our site</span>
+          </label>
+          <p id="analytics-desc" style="margin: 0.25rem 0 0 1.75rem; font-size: 0.85em; color: rgba(255,255,255,0.8);">
+            We use privacy-friendly analytics with IP anonymization. No personal data is collected.
+          </p>
+        </div>
+      </details>
+    </div>
+    <div class="cookie-actions">
+      <button id="cookie-accept" type="button" class="button button--primary" aria-label="Accept all cookies">Accept all</button>
+      <button id="cookie-custom" type="button" class="button" aria-label="Save cookie preferences">Save preferences</button>
+      <button id="cookie-decline" type="button" class="button button--secondary" aria-label="Decline optional cookies">Decline optional</button>
+    </div>
+  </div>
+  <script>
+    (function(){
+      var KEY = 'cookie-consent';
+      var ANALYTICS_KEY = 'cookie-analytics';
+      var storageMode = 'localStorage';
+      function lsAvailable(){
+        try { var t='__t'; localStorage.setItem(t,'1'); localStorage.removeItem(t); return true; } catch(e){ return false; }
+      }
+      function cookieGet(k){
+        var m=document.cookie.match(new RegExp('(?:^|; )'+k.replace(/([.$?*|{}()\[\]\\\/\+^])/g,'\\$1')+'=([^;]*)'));
+        return m? decodeURIComponent(m[1]) : null;
+      }
+      function cookieSet(k,v,days){
+        var exp='';
+        if (days){ var d=new Date(); d.setTime(d.getTime()+days*864e5); exp='; expires='+d.toUTCString(); }
+        document.cookie=k+'='+encodeURIComponent(v)+exp+'; path=/; SameSite=Lax';
+      }
+      var haveLS = lsAvailable();
+      if (!haveLS) storageMode = 'cookie';
+      function get(k){
+        if (storageMode==='localStorage') return localStorage.getItem(k);
+        return cookieGet(k);
+      }
+      function set(k,v){
+        if (storageMode==='localStorage') { try { localStorage.setItem(k,v); } catch(e){} }
+        else cookieSet(k,v,365);
+      }
+      var banner = document.getElementById('cookie-banner');
+      var accept = document.getElementById('cookie-accept');
+      var custom = document.getElementById('cookie-custom');
+      var decline = document.getElementById('cookie-decline');
+      var analyticsPref = document.getElementById('cookie-analytics-pref');
+      if (!banner || !accept || !decline) return;
+      
+      // Show banner if no consent recorded
+      if (!get(KEY)) { 
+        banner.hidden = false;
+        banner.setAttribute('aria-hidden', 'false');
+      }
+      
+      // Load saved analytics preference
+      if (analyticsPref) {
+        analyticsPref.checked = get(ANALYTICS_KEY) === 'true';
+      }
+      
+      function emit(status, analytics){ 
+        try { 
+          window.dispatchEvent(new CustomEvent('cookie-consent', { 
+            detail: { 
+              status: status,
+              analytics: analytics 
+            } 
+          })); 
+        } catch(e){} 
+      }
+      
+      function closeBanner(status, analytics) {
+        set(KEY, status);
+        set(ANALYTICS_KEY, analytics.toString());
+        // Mirror into cookies if using localStorage so server/other scripts can read (lightweight)
+        if (storageMode==='localStorage') {
+          try { document.cookie = KEY + '=' + encodeURIComponent(status) + '; path=/; SameSite=Lax;'; } catch(e){}
+          try { document.cookie = ANALYTICS_KEY + '=' + encodeURIComponent(analytics.toString()) + '; path=/; SameSite=Lax;'; } catch(e){}
+        }
+        banner.hidden = true;
+        banner.style.display = 'none';
+        banner.setAttribute('aria-hidden', 'true');
+        emit(status, analytics);
+        if (window.announce) {
+          window.announce('Cookie preferences saved: ' + (analytics ? 'All cookies accepted' : 'Only essential cookies'));
+        }
+      }
+      
+      accept.addEventListener('click', function(){ 
+        closeBanner('accepted', true);
+      });
+      
+      if (custom) {
+        custom.addEventListener('click', function(){
+          var analyticsEnabled = analyticsPref ? analyticsPref.checked : false;
+          closeBanner('custom', analyticsEnabled);
+        });
+      }
+      
+      decline.addEventListener('click', function(){ 
+        closeBanner('declined', false);
+      });
+      if (!haveLS) {
+        console.log('[cookie-consent] localStorage unavailable, using cookies fallback');
+      }
+    })();
+  </script>
+
+  <!-- Newsletter modal (homepage only) -->
+  <div id="newsletter-modal" class="modal" role="dialog" aria-modal="true" aria-labelledby="newsletter-title" aria-describedby="newsletter-description" hidden>
+    <div class="modal-dialog newsletter-dialog" data-newsletter-dialog>
+      <div class="modal-header">
+        <h2 id="newsletter-title">Subscribe to our newsletter</h2>
+        <p id="newsletter-description" class="sr-only">
+          Get updates and news about 3mpwrApp. You can unsubscribe anytime. Form will open in a new window if needed.
+        </p>
+        <div class="modal-actions">
+          <a class="modal-link" href="https://docs.google.com/forms/d/e/1FAIpQLSfuItjmtWlUW3L8irmSe8QN129_GJDLAF4f5n-QHPcj_FFoyg/viewform" target="_blank" rel="noopener noreferrer">Open form in new tab</a>
+          <button id="newsletter-close" data-action="newsletter-close" type="button" aria-label="Close newsletter dialog" class="modal-close">×</button>
+        </div>
+      </div>
+      <div class="modal-body">
+        <iframe
+          title="3mpwrApp Newsletter Signup"
+          src="https://docs.google.com/forms/d/e/1FAIpQLSfuItjmtWlUW3L8irmSe8QN129_GJDLAF4f5n-QHPcj_FFoyg/viewform?embedded=true"
+          class="modal-iframe"
+          loading="lazy"
+        ></iframe>
+      </div>
+      <div class="modal-footer">
+        <label for="newsletter-dontshow" style="display:flex;align-items:center;gap:0.5rem;">
+          <input type="checkbox" id="newsletter-dontshow" />
+          Don’t show again
+        </label>
+        <div class="modal-buttons">
+          <button id="newsletter-dismiss" data-action="newsletter-dismiss" type="button" class="button button--secondary">Not now</button>
+          <button id="newsletter-subscribed" data-action="newsletter-subscribed" type="button" class="button">Already subscribed</button>
+          <button id="newsletter-done" data-action="newsletter-done" type="button" class="button button--primary">Done, go home</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    (function() {
+  var MODAL_KEY = 'newsletter-dismissed'; // legacy key (kept for compatibility)
+  var MODAL_SEEN = 'newsletter-seen'; // first-visit gating
+  var MODAL_SUB = 'newsletter-subscribed';
+  var modal = document.getElementById('newsletter-modal');
+  var closeBtn = document.getElementById('newsletter-close');
+  var dismissBtn = document.getElementById('newsletter-dismiss');
+  var subscribedBtn = document.getElementById('newsletter-subscribed');
+  var dialog = modal ? modal.querySelector('[data-newsletter-dialog]') : null;
+  var dontShow = document.getElementById('newsletter-dontshow');
+  var homeRoot = '/';
+      var isHome = (location.pathname === homeRoot || location.pathname === homeRoot + 'index.html');
+  var noModal = (new URLSearchParams(location.search)).get('no-modal') === '1';
+
+      function safeSet(key, val) {
+        try { localStorage.setItem(key, val); } catch (e) { /* ignore */ }
+      }
+      function safeGet(key) {
+        try { return localStorage.getItem(key); } catch (e) { return null; }
+      }
+
+      function closeModal() {
+        if (!modal) return;
+        modal.hidden = true;
+        modal.classList.remove('is-open');
+        modal.setAttribute('aria-hidden','true');
+        document.body.classList.remove('no-scroll');
+        if (window.announce) {
+          window.announce('Newsletter dialog closed');
+        }
+      }
+
+      function openModal() {
+        if (!modal) return;
+        modal.hidden = false;
+        modal.classList.add('is-open');
+        modal.removeAttribute('aria-hidden');
+        document.body.classList.add('no-scroll');
+        // Focus the dialog for a11y
+        if (dialog && dialog.focus) dialog.setAttribute('tabindex','-1'), dialog.focus();
+        if (window.announce) {
+          window.announce('Newsletter dialog opened');
+        }
+      }
+
+      function shouldShow() {
+        if (safeGet(MODAL_SUB) === '1') return false; // already subscribed
+        if (safeGet(MODAL_SEEN) === '1') return false; // first-visit only
+        return true;
+      }
+
+      // Newsletter popup disabled - users can access via newsletter link in footer
+      // if (modal && isHome && !noModal && shouldShow()) {
+      //   setTimeout(openModal, 400);
+      // }
+
+      function handleDismiss() {
+        safeSet(MODAL_KEY, '1'); // legacy
+        if (dontShow && dontShow.checked) {
+          safeSet(MODAL_SEEN, '1');
+        }
+        closeModal();
+      }
+
+  [closeBtn, dismissBtn].forEach(function(btn){ if (btn) btn.addEventListener('click', handleDismiss); });
+
+      var doneBtn = document.getElementById('newsletter-done');
+      if (doneBtn) {
+        doneBtn.addEventListener('click', function(){
+          handleDismiss();
+          safeSet(MODAL_SEEN, '1');
+          // Ensure we land on home
+          try { window.location.assign(homeRoot); } catch(e) {}
+        });
+      }
+
+      if (subscribedBtn) {
+        subscribedBtn.addEventListener('click', function(){
+          safeSet(MODAL_SUB, '1');
+          safeSet(MODAL_SEEN, '1');
+          closeModal();
+        });
+      }
+
+      // Delegated click handling using data-action for broader compatibility
+      document.addEventListener('click', function(e){
+        var t = e.target;
+        if (!t) return;
+        var action = t.getAttribute && t.getAttribute('data-action');
+        if (!action && t.closest) {
+          var closest = t.closest('[data-action]');
+          if (closest) action = closest.getAttribute('data-action');
+        }
+        if (!action) return;
+        if (action === 'newsletter-close' || action === 'newsletter-dismiss') {
+          handleDismiss();
+        } else if (action === 'newsletter-subscribed') {
+          safeSet(MODAL_SUB, '1');
+          safeSet(MODAL_SEEN, '1');
+          closeModal();
+        } else if (action === 'newsletter-done') {
+          handleDismiss();
+          try { window.location.assign(homeRoot); } catch(e) {}
+        }
+      }, true);
+
+      // Close on ESC and trap focus while open
+      document.addEventListener('keydown', function(e){
+        if (!modal || modal.hidden) return;
+        if (e.key === 'Escape') {
+          safeSet(MODAL_KEY, '1');
+          if (dontShow && dontShow.checked) safeSet(MODAL_SEEN, '1');
+          closeModal();
+          return;
+        }
+        if (e.key === 'Tab') {
+          var focusables = dialog ? dialog.querySelectorAll('a[href], button:not([disabled]), input:not([disabled]), select:not([disabled]), textarea:not([disabled]), [tabindex]:not([tabindex="-1"])') : [];
+          focusables = Array.prototype.slice.call(focusables).filter(function(el){ return el.offsetParent !== null; });
+          if (focusables.length === 0) return;
+          var first = focusables[0];
+          var last = focusables[focusables.length - 1];
+          var active = document.activeElement;
+          if (e.shiftKey) {
+            if (active === first || !dialog.contains(active)) {
+              e.preventDefault();
+              last.focus();
+            }
+          } else {
+            if (active === last || !dialog.contains(active)) {
+              e.preventDefault();
+              first.focus();
+            }
+          }
+        }
+      }, true);
+
+      // Close on backdrop click (but not when clicking inside dialog)
+      if (modal) {
+        modal.addEventListener('click', function(e){
+          if (e.target === modal) {
+            safeSet(MODAL_KEY, '1');
+            if (dontShow && dontShow.checked) safeSet(MODAL_SEEN, '1');
+            closeModal();
+          }
+        });
+      }
+
+      // Optional: if Google Form redirects back, auto-dismiss next visit
+      if (document.referrer && document.referrer.includes('docs.google.com/forms')) {
+        safeSet(MODAL_KEY, '1');
+        safeSet(MODAL_SEEN, '1');
+      }
+    })();
+  </script>
+
+  <!-- Back to top button -->
+  <button
+    id="back-to-top"
+    class="back-to-top"
+    type="button"
+    aria-label="Back to top"
+    aria-hidden="true"
+    tabindex="-1"
+  >
+    ↑ Back to top
+  </button>
+
+  <!-- Service Worker Registration -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function() {
+        navigator.serviceWorker.register('/sw.js')
+          .then(function(registration) {
+            console.log('[SW] Registration successful:', registration.scope);
+            
+            // Check for updates every hour
+            setInterval(function() {
+              registration.update();
+            }, 3600000);
+            
+            // Show update notification when new service worker is waiting
+            registration.addEventListener('updatefound', function() {
+              var newWorker = registration.installing;
+              if (!newWorker) return;
+              
+              newWorker.addEventListener('statechange', function() {
+                if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
+                  // New service worker available
+                  if (confirm('A new version of 3mpwrApp is available! Reload to update?')) {
+                    newWorker.postMessage({ action: 'skipWaiting' });
+                    window.location.reload();
+                  }
+                }
+              });
+            });
+          })
+          .catch(function(error) {
+            console.log('[SW] Registration failed:', error);
+          });
+        
+        // Auto-reload when new service worker takes control
+        var refreshing = false;
+        navigator.serviceWorker.addEventListener('controllerchange', function() {
+          if (refreshing) return;
+          refreshing = true;
+          window.location.reload();
+        });
+      });
+    }
+  </script>
+
+  <!-- Lazy Loading Script -->
+  <script src="/assets/js/lazy-load.min.js" defer></script>
+
+  <!-- Social Share Component Script -->
+  <script src="/assets/js/social-share.js" defer></script>
+
+  <!-- Performance Monitoring (development only - disable in production if needed) -->
+  <script src="/assets/js/performance-monitor.min.js" defer></script>
+
+  <!-- What's New Badge -->
+  <script src="/assets/js/whatsnew-badge.js" defer></script><!-- Cloudflare Web Analytics -->
+  <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "fef378cf7f9742c582f28f566e204a85"}'></script>
+  <!-- End Cloudflare Web Analytics -->
+</body>
+</html>

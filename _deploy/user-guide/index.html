@@ -1,0 +1,2642 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+  <meta name="description" content="Step-by-step tutorials for all 3MPWRAPP features for the disability community. Learn accessibility options and common workflows. Built by and for injured workers, persons with disabilities, advocates, and supporters.">
+  
+  <!-- 
+    Security Headers: These should be set via server-side headers file (_headers for Netlify/Vercel, .htaccess for Apache, etc.)
+    CSP meta tag is included above as the only valid http-equiv for security headers.
+    X-Content-Type-Options, X-Frame-Options, and Referrer-Policy must be set as HTTP response headers, not meta tags.
+  -->
+  
+  <!-- Resource Hints for Performance (limit to 3 most critical) -->
+  <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+  <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
+  <link rel="dns-prefetch" href="https://formspree.io">
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+  <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
+  
+  <!-- PWA Manifest -->
+  <link rel="manifest" href="/manifest.json"><!-- Open Graph Meta Tags -->
+<meta property="og:site_name" content="3mpwrApp™">
+<meta property="og:title" content="3MPWRAPP User Guide - Complete Step-by-Step Tutorials">
+<meta property="og:description" content="Step-by-step tutorials for all 3MPWRAPP features for the disability community. Learn accessibility options and common workflows. Built by and for injured workers, persons with disabilities, advocat...">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://3mpwrapp.ca/user-guide/">
+<meta property="og:locale" content="en_CA">
+
+<meta property="og:locale:alternate" content="fr_CA">
+
+
+<!-- Open Graph Image -->
+
+<meta property="og:image" content="https://3mpwrapp.ca/assets/empwrapp-logo.png">
+<meta property="og:image:secure_url" content="https://3mpwrapp.ca/assets/empwrapp-logo.png">
+<meta property="og:image:alt" content="3MPWRAPP User Guide - Complete Step-by-Step Tutorials">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+
+
+<!-- Article-specific Open Graph -->
+
+
+<!-- Twitter Card Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@3mpowrapp0816">
+<meta name="twitter:creator" content="@3mpowrapp0816">
+<meta name="twitter:title" content="3MPWRAPP User Guide - Complete Step-by-Step Tutorials">
+<meta name="twitter:description" content="Step-by-step tutorials for all 3MPWRAPP features for the disability community. Learn accessibility options and common workflows. Built by and for injured workers, persons with disabilities, advocat...">
+
+<meta name="twitter:image" content="https://3mpwrapp.ca/assets/empwrapp-logo.png">
+<meta name="twitter:image:alt" content="3MPWRAPP User Guide - Complete Step-by-Step Tutorials">
+
+
+<!-- Additional Meta Tags -->
+<meta name="author" content="3mpwrApp">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="googlebot" content="index, follow">
+
+<meta name="language" content="English">
+
+
+<!-- Canonical URL -->
+<link rel="canonical" href="https://3mpwrapp.ca/user-guide/">
+
+<!-- Alternate Language Links (hreflang) -->
+
+
+<link rel="alternate" hreflang="en" href="https://3mpwrapp.ca/user-guide/">
+
+<link rel="alternate" hreflang="x-default" href="https://3mpwrapp.ca/user-guide/">
+
+
+<!-- PWA and Mobile Meta Tags -->
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="3mpwrApp">
+<meta name="application-name" content="3mpwrApp">
+<meta name="theme-color" content="#2A9D8F">
+<meta name="msapplication-TileColor" content="#2A9D8F">
+<meta name="msapplication-navbutton-color" content="#2A9D8F">
+
+<!-- Manifest -->
+<link rel="manifest" href="/manifest.json">
+
+<!-- Favicons and Touch Icons -->
+<link rel="icon" type="image/png" sizes="192x192" href="/assets/icons/icon-192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="/assets/icons/icon-512.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/icon-192.png">
+<!-- Schema.org Structured Data (JSON-LD) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://3mpwrapp.ca#organization",
+      "name": "3mpwrApp",
+      "alternateName": "EmpowrApp",
+      "url": "https://3mpwrapp.ca",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://3mpwrapp.ca#logo",
+  "url": "https://3mpwrapp.ca/assets/empwrapp-logo.png",
+        "width": 512,
+        "height": 512,
+        "caption": "3mpwrApp Logo"
+      },
+      "description": "Practical tools and community for injured workers and persons with disabilities.",
+      "foundingDate": "2024",
+      "foundingLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "CA"
+        }
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "empowrapp08162025@gmail.com",
+        "contactType": "Customer Support",
+        "availableLanguage": ["English", "French"]
+      },
+      "sameAs": [
+        "https://www.facebook.com/3mpowrapp/",
+        "https://x.com/3mpowrapp0816",
+        "https://www.instagram.com/3mpwrapp/",
+        "https://www.youtube.com/3mpwrApp",
+        "https://www.tiktok.com/@3mpwrapp",
+        "https://mastodon.social/@3mpwrApp",
+        "https://bsky.app/profile/3mpwrapp.bsky.social",
+        "https://github.com/3mpwrApp"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://3mpwrapp.ca#website",
+      "url": "https://3mpwrapp.ca",
+      "name": "3mpwrApp",
+      "description": "Practical tools and community for injured workers and persons with disabilities.",
+      "publisher": {
+        "@id": "https://3mpwrapp.ca#organization"
+      },
+      "inLanguage": "en-CA",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://3mpwrapp.ca/search?q={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://3mpwrapp.ca/user-guide/#webpage",
+      "url": "https://3mpwrapp.ca/user-guide/",
+      "name": "3MPWRAPP User Guide - Complete Step-by-Step Tutorials",
+      "headline": "3MPWRAPP User Guide - Complete Step-by-Step Tutorials",
+      "description": "Step-by-step tutorials for all 3MPWRAPP features for the disability community. Learn accessibility options and common workflows. Built by and for injured workers, persons with disabilities, advocat...",
+      "isPartOf": {
+        "@id": "https://3mpwrapp.ca#website"
+      },
+      "inLanguage": "en-CA",
+      
+      "image": {
+        "@type": "ImageObject",
+        "@id": "https://3mpwrapp.ca/user-guide/#primaryimage",
+        "url": "https://3mpwrapp.ca/assets/empwrapp-logo.png",
+        "width": 1200,
+        "height": 630,
+        "caption": "3MPWRAPP User Guide - Complete Step-by-Step Tutorials"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://3mpwrapp.ca/user-guide/#primaryimage"
+      },
+      
+      
+      "breadcrumb": {
+        "@id": "https://3mpwrapp.ca/user-guide/#breadcrumb"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://3mpwrapp.ca/user-guide/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://3mpwrapp.ca"
+        }
+        
+        
+        
+        
+        
+          
+          
+          
+        ,{
+          "@type": "ListItem",
+          "position": 2,
+          "name": "3mpwrapp user guide   complete step by step tutorials",
+          "item": "https://3mpwrapp.ca/user-guide"
+        }
+          
+        
+        
+      ]
+    }
+    
+  ]
+}
+</script>
+
+<!-- Additional Schema for Accessibility Features -->
+
+
+<!-- Software Application Schema for App Pages -->
+
+<link rel="canonical" href="https://3mpwrapp.ca/user-guide/"><!-- hreflang tags for international SEO -->
+<!-- English Canada (primary) -->
+<link rel="alternate" hreflang="en-CA" href="https://3mpwrapp.ca/user-guide/" />
+
+<!-- French Canada -->
+
+
+<link rel="alternate" hreflang="fr-CA" href="https://3mpwrapp.ca/fr/user-guide/" />
+
+
+<!-- USA (when available) -->
+
+
+<!-- Default fallback (English Canada) -->
+<link rel="alternate" hreflang="x-default" href="https://3mpwrapp.ca/user-guide/" />
+
+<!-- Future language expansions (add as they go live) -->
+<!-- 
+<link rel="alternate" hreflang="es" href="https://3mpwrapp.ca/user-guide/" />
+<link rel="alternate" hreflang="ar" href="https://3mpwrapp.ca/user-guide/" />
+<link rel="alternate" hreflang="zh-CN" href="https://3mpwrapp.ca/user-guide/" />
+-->
+<link rel="stylesheet" href="/assets/css/blog-post-tables.css"><link rel="stylesheet" href="/assets/css/complexity-mode.css">
+<script src="/assets/js/complexity-mode.js" defer></script><link rel="stylesheet" href="/assets/css/connection-status.css">
+<script src="/assets/js/connection-status.js" defer></script><!-- Open Graph Meta Tags -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="3mpwrApp">
+<meta property="og:title" content="3MPWRAPP User Guide - Complete Step-by-Step Tutorials">
+<meta property="og:description" content="Step-by-step tutorials for all 3MPWRAPP features for the disability community. Learn accessibility options and common workflows. Built by and for injured workers, persons with disabilities, advocates, and supporters.">
+<meta property="og:url" content="https://3mpwrapp.ca/user-guide/">
+<meta property="og:image" content="https://3mpwrapp.ca/assets/images/social-share-default.png">
+<meta property="og:image:alt" content="3mpwrApp - Community-powered support for injured workers and persons with disabilities">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="en_CA"><meta property="og:locale:alternate" content="fr_CA"><!-- Twitter Card Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@3mpwrApp">
+<meta name="twitter:creator" content="@ODSPoor">
+<meta name="twitter:title" content="3MPWRAPP User Guide - Complete Step-by-Step Tutorials">
+<meta name="twitter:description" content="Step-by-step tutorials for all 3MPWRAPP features for the disability community. Learn accessibility options and common workflows. Built by and for injured workers, persons with disabilities, advocates, and supporters.">
+<meta name="twitter:image" content="https://3mpwrapp.ca/assets/images/social-share-default.png">
+<meta name="twitter:image:alt" content="3mpwrApp - Community-powered support for injured workers and persons with disabilities">
+
+<!-- Additional Meta for Rich Previews -->
+<meta property="article:publisher" content="https://www.facebook.com/3mpwrApp"><!-- Facebook App ID (if available) -->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "tps3d4cg0x");
+</script>
+<link rel="dns-prefetch" href="//www.clarity.ms">
+<link rel="preconnect" href="https://www.clarity.ms" crossorigin><link rel="dns-prefetch" href="//www.googletagmanager.com">
+<link rel="preconnect" href="https://www.googletagmanager.com" crossorigin><link rel="preload" href="/assets/css/style.css" as="style"><link rel="icon" href="/assets/favicon.svg" type="image/svg+xml"><link rel="manifest" href="/assets/site.webmanifest"><meta name="theme-color" content="#111111">
+<meta name="color-scheme" content="light dark">
+<meta name="fediverse:creator" content="@3mpwrApp@mastodon.social">
+
+<!-- What's New RSS feed autodiscovery -->
+<link rel="alternate" type="application/rss+xml" title="3mpwrApp™ — What's New" href="/whats-new/feed.xml">
+
+<!-- Main site RSS feed autodiscovery -->
+<link rel="alternate" type="application/rss+xml" title="3mpwrApp™ — Site Feed" href="/feed.xml"><link rel="alternate" hreflang="en" href="https://3mpwrapp.ca/user-guide/">
+  <link rel="alternate" hreflang="fr" href="https://3mpwrapp.ca/fr/user-guide/"><script>
+(function(){
+  var KEY = 'cookie-consent';
+  function get(k){ try { return localStorage.getItem(k); } catch(e){ return null; } }
+  function onConsent(cb){
+    if (get(KEY) === 'accepted') { cb(); return; }
+    window.addEventListener('cookie-consent', function(e){ if (e && e.detail === 'accepted') cb(); });
+  }
+
+  // Google Analytics 4
+  var useGA = ("" !== "") && ("" === "");
+  if (useGA) {
+    onConsent(function(){
+      if (window.__gaLoaded) return; window.__gaLoaded = true;
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=';
+      s.crossOrigin = 'anonymous';
+      s.onerror = function(){
+        console.warn('Google Analytics script blocked or failed to load. Ad blockers or privacy extensions may be active.');
+        window.__gaLoadError = true;
+      };
+      document.head.appendChild(s);
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){ 
+        if (!window.__gaLoadError) {
+          dataLayer.push(arguments); 
+        }
+      }
+      window.gtag = gtag;
+      gtag('js', new Date());
+      gtag('config', '', {
+        'anonymize_ip': true,
+        'cookie_flags': 'SameSite=Strict;Secure',
+        'cookie_expires': 63072000,
+        'cookie_update': false,
+        'allow_ad_personalization_signals': false,
+        'allow_google_signals': false
+      });
+    });
+  }
+
+  // GoatCounter (privacy-friendly, free)
+  var useGoat = ("" === "goatcounter") && ("" !== "");
+  if (useGoat) {
+    onConsent(function(){
+      if (window.__goatLoaded) return; window.__goatLoaded = true;
+      var s = document.createElement('script');
+      s.async = true;
+      s.setAttribute('data-goatcounter', 'https://.goatcounter.com/count');
+      s.src = 'https://gc.zgo.at/count.js';
+      s.crossOrigin = 'anonymous';
+      s.onerror = function(){
+        console.warn('GoatCounter analytics unavailable. Connection may be blocked.');
+      };
+      document.head.appendChild(s);
+    });
+  }
+})();
+</script><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "3mpwrApp™",
+  "url": "https://3mpwrapp.ca",
+  "logo": "https://3mpwrapp.ca/assets/favicon.svg",
+  "sameAs": ["https://github.com/3mpwrApp", "https://www.facebook.com/3mpowrapp/", "https://x.com/3mpowrapp0816", "https://www.instagram.com/3mpwrapp/", "https://www.youtube.com/3mpwrApp", "https://www.tiktok.com/@3mpwrapp"]
+}
+</script><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://3mpwrapp.ca/"
+    },{
+        "@type": "ListItem",
+        "position": 2,
+        "name": "User guide",
+        "item": "https://3mpwrapp.ca/user-guide"
+      }]
+}
+</script><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>3MPWRAPP User Guide - Complete Step-by-Step Tutorials | 3mpwrApp™</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="3MPWRAPP User Guide - Complete Step-by-Step Tutorials" />
+<meta name="author" content="3mpwr App" />
+<meta property="og:locale" content="en" />
+<meta name="description" content="Step-by-step tutorials for all 3MPWRAPP features for the disability community. Learn accessibility options and common workflows. Built by and for injured workers, persons with disabilities, advocates, and supporters." />
+<meta property="og:description" content="Step-by-step tutorials for all 3MPWRAPP features for the disability community. Learn accessibility options and common workflows. Built by and for injured workers, persons with disabilities, advocates, and supporters." />
+<link rel="canonical" href="https://3mpwrapp.ca/user-guide/" />
+<meta property="og:url" content="https://3mpwrapp.ca/user-guide/" />
+<meta property="og:site_name" content="3mpwrApp™" />
+<meta property="og:image" content="https://3mpwrapp.ca/assets/empwrapp-logo.png" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://3mpwrapp.ca/assets/empwrapp-logo.png" />
+<meta property="twitter:title" content="3MPWRAPP User Guide - Complete Step-by-Step Tutorials" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","author":{"@type":"Person","name":"3mpwr App"},"description":"Step-by-step tutorials for all 3MPWRAPP features for the disability community. Learn accessibility options and common workflows. Built by and for injured workers, persons with disabilities, advocates, and supporters.","headline":"3MPWRAPP User Guide - Complete Step-by-Step Tutorials","image":"https://3mpwrapp.ca/assets/empwrapp-logo.png","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://3mpwrapp.ca/assets/favicon.svg"},"name":"3mpwr App"},"url":"https://3mpwrapp.ca/user-guide/"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/css/style.min.css">
+  <!-- WCAG AAA Compliant Color System -->
+  <link rel="stylesheet" href="/assets/css/accessibility-tokens.min.css">
+  <!-- WCAG 2.2 AA and Beyond Accessibility Enhancements -->
+  <link rel="stylesheet" href="/assets/css/accessibility-enhancements.min.css">
+  <!-- WCAG 2.2 AAA Color Palette - 7:1 Contrast Ratios -->
+  <link rel="stylesheet" href="/assets/css/wcag-aaa-colors.css">
+  <!-- WCAG 2.2 AAA Color Fixes - Fixes all 614 accessibility violations -->
+  <link rel="stylesheet" href="/assets/css/aaa-color-fixes.css">
+  <!-- WCAG 2.2 AAA Comprehensive Overrides - Fixes all inline styles and remaining violations -->
+  <link rel="stylesheet" href="/assets/css/wcag-aaa-overrides.css">
+  <!-- Universal Text Legibility - Ensures ALL text is readable in light/dark/high-contrast modes -->
+  <link rel="stylesheet" href="/assets/css/universal-text-legibility.css">
+  <!-- ACCESSIBILITY-FIRST COLOR SYSTEM - The #1 Standard for Light/Dark/High Contrast Modes (March 2026) -->
+  <link rel="stylesheet" href="/assets/css/accessibility-first-colors.css">
+  <!-- CanLII Tribunal Outcomes - Accessible Styling for Light/Dark/High Contrast Modes -->
+  <link rel="stylesheet" href="/assets/css/canlii-outcomes-accessible.css">
+  <!-- Performance Optimizations: Critical CSS, Lazy Loading, Font Optimization -->
+  <link rel="stylesheet" href="/assets/css/performance-optimizations.min.css">
+  <!-- Lighthouse Audit Fixes: Touch targets, contrast, aspect ratios -->
+  <link rel="stylesheet" href="/assets/css/lighthouse-fixes.min.css">
+  <!-- Cookie Consent Banner (GDPR Compliance) -->
+  <link rel="stylesheet" href="/assets/css/cookie-consent.css">
+
+  <!-- Header/nav footprint overrides moved to external CSS (CSP-safe) -->
+  <link rel="stylesheet" href="/assets/css/header-overrides.css">
+  <!-- Professional polish & design system (UX/UI audit improvements) -->
+  <link rel="stylesheet" href="/assets/css/professional-polish.css">
+  <!-- CLS (Cumulative Layout Shift) Fix - Cloudflare RUM reported 0.351-0.588 CLS -->
+  <link rel="stylesheet" href="/assets/css/cls-fix.css">
+  <!-- Alignment Consistency Fix - Professional, clean, organized layout -->
+  <link rel="stylesheet" href="/assets/css/alignment-consistency.css">
+  <!-- Global UX/UI Consistency - Ensures professional, clean, organized look across all pages -->
+  <link rel="stylesheet" href="/assets/css/global-consistency.css">
+  <!-- Enhanced Focus Indicators - WCAG 2.2 AAA compliant (3:1 contrast, 2px minimum) -->
+  <link rel="stylesheet" href="/assets/css/enhanced-focus-indicators.css">
+  <!-- Social Share Component Styles -->
+  <link rel="stylesheet" href="/assets/css/social-share.css">
+  <!-- What's New Badge Styles -->
+  <link rel="stylesheet" href="/assets/css/whatsnew-badge.css">
+</head>
+<body><!-- Sticky Building in Public Banner -->
+<div id="sticky-transparency-banner" class="sticky-transparency-banner" role="banner" aria-label="Building in public notification">
+  <div class="sticky-transparency-content">
+    <span class="sticky-emoji">🚧</span>
+    <span class="sticky-text">
+      <strong>We're building in public!</strong>
+      <noscript>Follow our progress</noscript>
+      <span id="sticky-update-count-wrap" style="display:none"><span id="sticky-update-count">Loading...</span> updates this week</span>
+    </span>
+    <a href="/whats-new/" class="sticky-link">What's New →</a>
+    <button type="button" class="sticky-dismiss" aria-label="Dismiss banner" onclick="dismissStickyBanner()">×</button>
+  </div>
+</div>
+
+<style>
+/* Sticky Transparency Banner */
+.sticky-transparency-banner {
+  position: sticky;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 8px 16px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  z-index: 10000;
+  animation: slideDown 0.3s ease-out;
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.sticky-transparency-banner.dismissed {
+  display: none;
+}
+
+@keyframes slideDown {
+  from {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.sticky-transparency-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.sticky-emoji {
+  font-size: 18px;
+}
+
+.sticky-text {
+  font-size: 14px;
+}
+
+.sticky-link {
+  color: white;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(255,255,255,0.6);
+  font-weight: 600;
+  transition: border-color 0.2s;
+  padding: 0 2px;
+}
+
+.sticky-link:hover {
+  border-bottom-color: white;
+}
+
+.sticky-dismiss {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 24px;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0 8px;
+  opacity: 0.8;
+  transition: opacity 0.2s;
+  margin-left: auto;
+}
+
+.sticky-dismiss:hover {
+  opacity: 1;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .sticky-transparency-banner {
+    padding: 8px 12px;
+    font-size: 13px;
+  }
+  
+  .sticky-transparency-content {
+    gap: 6px;
+  }
+  
+  .sticky-emoji {
+    font-size: 16px;
+  }
+  
+  .sticky-text {
+    font-size: 13px;
+  }
+}
+
+/* High Contrast Mode Support */
+@media (prefers-contrast: high) {
+  .sticky-transparency-banner {
+    background: #000;
+    border-bottom: 2px solid #fff;
+  }
+}
+
+/* Print: Hide banner */
+@media print {
+  .sticky-transparency-banner {
+    display: none;
+  }
+}
+</style>
+
+<script>
+// Load update count from What's New data
+(async function loadStickyBannerData() {
+  try {
+    const currentYear = new Date().getFullYear();
+    // Fetch current year's data from assets/data folder
+    const response = await fetch(`/assets/data/whatsnew-${currentYear}.json`);
+    
+    if (response.ok) {
+      const data = await response.json();
+      const sevenDaysAgo = new Date(Date.now() - (7 * 24 * 60 * 60 * 1000));
+      const weeklyCount = data.entries.filter(e => new Date(e.date) >= sevenDaysAgo).length;
+      
+      document.getElementById('sticky-update-count').textContent = `${weeklyCount}`;
+      const w = document.getElementById('sticky-update-count-wrap');
+      if (w) w.style.display = 'inline';
+    } else {
+      document.getElementById('sticky-update-count').textContent = 'several';
+    }
+  } catch (err) {
+    console.warn('Failed to load sticky banner data:', err);
+    document.getElementById('sticky-update-count').textContent = 'several';
+  }
+  
+  // Check if banner was previously dismissed (within 7 days)
+  const dismissedTime = localStorage.getItem('transparencyBannerDismissed');
+  if (dismissedTime) {
+    const sevenDaysAgo = Date.now() - (7 * 24 * 60 * 60 * 1000);
+    if (parseInt(dismissedTime) > sevenDaysAgo) {
+      document.getElementById('sticky-transparency-banner').classList.add('dismissed');
+    }
+  }
+})();
+
+// Dismiss banner
+function dismissStickyBanner() {
+  document.getElementById('sticky-transparency-banner').classList.add('dismissed');
+  localStorage.setItem('transparencyBannerDismissed', Date.now().toString());
+}
+</script>
+<a class="skip-link" href="#main-content">Skip to content</a>
+  <a class="skip-link" href="#primary-nav">Skip to navigation</a>
+  <a class="skip-link" href="#site-footer">Skip to footer</a>
+  <header>
+    <!-- Brand: clicking this takes you home -->
+    <div class="brand header-bar">
+      <a class="site-brand" href="/" aria-label="3mpwrApp™ home">
+        <picture>
+          <source type="image/webp" srcset="/assets/empwrapp-logo.webp">
+          <img src="/assets/empwrapp-logo.png" alt="3mpwrApp logo" width="28" height="28" loading="eager">
+        </picture>
+        <span>3mpwrApp™</span>
+      </a>
+      
+      <!-- Complexity Mode Toggle in Header -->
+      <button id="complexity-toggle" type="button" aria-live="polite" aria-pressed="false" aria-label="Toggle simplified language mode" style="padding: 0.5rem 0.75rem; background: rgba(59, 130, 246, 0.1); border: 1px solid rgba(59, 130, 246, 0.3); border-radius: 8px; font-size: 0.85rem; font-weight: 600; cursor: pointer; display: flex; align-items: center; gap: 0.5rem; margin-left: auto;">
+        <span class="complexity-icon" aria-hidden="true">📖</span>
+        <span class="complexity-label">Standard View</span>
+      </button>
+      
+      <button class="menu-toggle" type="button" aria-controls="primary-nav" aria-expanded="false">Menu</button><a class="lang-switch" href="/fr/user-guide/">Français</a>
+    </div>
+
+  <nav id="primary-nav" aria-label="Primary">
+      
+  <ul class="nav-list">
+        <li>
+          <a href="/" >
+            Home
+          </a>
+        </li>
+        <li>
+          <a href="/about" >
+            About
+          </a>
+        </li>
+        <li>
+          <a href="/research" >
+            Research
+          </a>
+        </li>
+        <li>
+          <a href="/features" >
+            Features
+          </a>
+        </li>
+        <li>
+          <a href="/app-tour" >
+            App Tour
+          </a>
+        </li>
+        <li>
+          <a href="/user-guide" aria-current="page">
+            User Guide
+          </a>
+        </li>
+        <li>
+          <a href="/roadmap" >
+            Roadmap
+          </a>
+        </li>
+        <li>
+          <a href="/blog" >
+            Blog
+          </a>
+        </li>
+        <li>
+          <a href="/faq" >
+            FAQ
+          </a>
+        </li>
+        <li>
+          <a href="/accessibility" >
+            Accessibility
+          </a>
+        </li>
+        <li>
+          <a href="/app-waitlist" >
+            App Waitlist
+          </a>
+        </li>
+        <li>
+          <a href="/crisis-resources" >
+            Crisis Help
+          </a>
+        </li>
+        <li>
+          <a href="/contact" >
+            Contact
+          </a>
+        </li>
+        <li>
+          <a href="/newsletter" >
+            Newsletter
+          </a>
+        </li>
+        <li>
+          <a href="/whats-new"  class="whatsnew-nav-link">
+            What's New
+            <span id="whatsnew-badge" class="whatsnew-badge" style="display:none;" aria-label="unread updates"></span>
+          </a>
+        </li>
+        <li>
+          <a href="/beta-guide" >
+            Beta Testers Guide
+          </a>
+        </li>
+        <li>
+          <a href="/search" >
+            Search
+          </a>
+        </li>
+        <li>
+          <a href="/events" >
+            Events
+          </a>
+        </li>
+        <li>
+          <a href="/site-map" >
+            Site Map
+          </a>
+        </li>
+        <li>
+          <a href="/accessibility-settings" >
+            Accessibility Settings
+          </a>
+        </li>
+        <li>
+          <a href="/campaigns" >
+            Campaigns
+          </a>
+        </li>
+        <li>
+          <a href="/community" >
+            Community
+          </a>
+        </li>
+        <li>
+          <a href="/connect" >
+            Connect
+          </a>
+        </li>
+      </ul>
+    </nav>
+
+    <!-- High contrast + Dark mode toggles + Accessibility Tools -->
+    <div class="header-controls" role="group" aria-label="Display settings and accessibility">
+      <!-- Compact Spoon Counter in Header -->
+      <div class="header-spoon-tracker" role="region" aria-label="Energy tracker" style="display: flex; align-items: center; gap: 0.5rem; padding: 0.5rem 0.75rem; background: rgba(102, 126, 234, 0.1); border-radius: 8px; font-size: 0.9rem;">
+        <span aria-hidden="true">🥄</span>
+        <span id="header-spoon-count" aria-live="polite" style="font-weight: 600; min-width: 20px;">5</span>
+        <div style="display: flex; gap: 0.25rem;">
+          <button type="button" id="header-spoon-use" aria-label="Use energy, decrease spoon count" style="padding: 2px 6px; font-size: 0.85rem; background: rgba(0,0,0,0.1); border: none; border-radius: 4px; cursor: pointer;">-1</button>
+          <button type="button" id="header-spoon-rest" aria-label="Rest, increase spoon count" style="padding: 2px 6px; font-size: 0.85rem; background: rgba(0,0,0,0.1); border: none; border-radius: 4px; cursor: pointer;">+1</button>
+        </div>
+      </div>
+      
+      <!-- Emergency Simplify in Header -->
+      <button type="button" id="header-emergency-simplify" aria-pressed="false" aria-label="Toggle emergency simplification mode" style="padding: 0.5rem 0.75rem; background: rgba(220, 38, 38, 0.1); border: 1px solid rgba(220, 38, 38, 0.3); border-radius: 8px; font-size: 0.85rem; font-weight: 600; cursor: pointer; display: flex; align-items: center; gap: 0.5rem;">
+        <span aria-hidden="true">🚨</span>
+        <span>Emergency Mode</span>
+      </button>
+      
+      <a href="/accessibility-settings" class="accessibility-link" aria-label="Accessibility features (13 tools available)">
+        ♿ Accessibility
+      </a>
+      
+      <button
+        id="contrast-toggle"
+        class="contrast-toggle"
+        type="button"
+        aria-pressed="false"
+        aria-label="Toggle high contrast mode"
+      >
+        High contrast
+      </button>
+
+      <button
+        id="theme-toggle"
+        class="theme-toggle"
+        type="button"
+        aria-pressed="false"
+        aria-label="Toggle dark mode"
+      >
+        Dark mode
+      </button>
+    </div>
+  </header>
+  
+  <!-- Complexity Mode Announcer (moved from inline) -->
+  <div id="complexity-announcer" role="status" aria-live="polite" aria-atomic="true" style="position: absolute; left: -10000px; width: 1px; height: 1px; overflow: hidden;"></div><nav aria-label="Breadcrumb" class="breadcrumbs">
+    <ol>
+      <li><a href="/">Home</a></li><li aria-current="page">3mpwrapp user guide   complete step by step tutorials</li></ol>
+  </nav>
+
+  <main id="main-content" tabindex="-1">
+    <h1 style="display:none">3MPWRAPP User Guide - Complete Step-by-Step Tutorials</h1>
+    <!-- Status Banner - Consistent across all pages -->
+<div class="status-banner" role="status" aria-live="polite">
+  <span class="status-indicator" aria-hidden="true">🚀</span>
+  <strong>App Status:</strong> Production Ready - 721 Tests Passing | <strong>Phase 1:</strong> Closed Internal Testing NOW ACTIVE (Slow Release) | <strong>NEW:</strong> Available Canada-wide (Coast to Coast to Coast) + USA Lite 🇨🇦🇺🇸
+</div>
+<h1 id="3mpwrapp-user-guide">3MPWRAPP User Guide</h1>
+
+<table>
+  <tbody>
+    <tr>
+      <td>**Step-by-Step Tutorials for Canadians Across the Disability Community</td>
+      <td>May 2026**</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>This guide explains how to use every feature in 3MPWRAPP. Start with “Getting Started” or jump to the feature you need help with.</p>
+
+<p><em>Built by and for injured workers, persons with disabilities, advocates, supporters, and vulnerable Canadians across every province and territory.</em></p>
+
+<hr />
+
+<h2 id="quick-navigation">Quick Navigation</h2>
+
+<p><strong>Just getting started?</strong></p>
+<ul>
+  <li><a href="#first-time">First Time Using 3MPWRAPP?</a></li>
+  <li><a href="#account-setup">Account Setup</a></li>
+  <li><a href="#complexity-mode">Understanding Complexity Mode</a></li>
+</ul>
+
+<p><strong>Looking for help with a feature?</strong></p>
+<ul>
+  <li><a href="#evidence-section">Evidence &amp; Documents</a></li>
+  <li><a href="#advocacy-section">Advocacy &amp; Legal</a></li>
+  <li><a href="#wellness-section">Wellness &amp; Health</a></li>
+  <li><a href="#community-section">Community</a></li>
+</ul>
+
+<p><strong>Need accessibility help?</strong></p>
+<ul>
+  <li><a href="#accessibility-section">Accessibility Options</a></li>
+  <li><a href="#keyboard-nav">Keyboard Navigation</a></li>
+  <li><a href="#screen-reader">Screen Reader Support</a></li>
+</ul>
+
+<p><strong>Something not working?</strong></p>
+<ul>
+  <li><a href="#troubleshooting">Troubleshooting</a></li>
+  <li><a href="#bug-reporting">Report a Problem</a></li>
+  <li><a href="#contact-support">Contact Support</a></li>
+</ul>
+
+<hr />
+
+<h2 id="how-3mpwrapp-creates-collective-power">How 3MPWRAPP Creates Collective Power</h2>
+
+<h3 id="the-3-flywheels-of-change">The 3 Flywheels of Change</h3>
+
+<p>Your individual actions create exponential impact through these flywheels:</p>
+
+<p><strong>🔄 Flywheel 1: Evidence Flywheel</strong></p>
+<ul>
+  <li>When you win, your evidence becomes a template</li>
+  <li>Other users learn from your victory</li>
+  <li>Success strategies spread through the community</li>
+</ul>
+
+<p><strong>🔄 Flywheel 2: Pattern Detection Flywheel</strong></p>
+<ul>
+  <li>We analyze tribunal decisions across Canada (CanLII data)</li>
+  <li>Patterns reveal systemic discrimination and barriers</li>
+  <li>Reports and visualizations drive policy change</li>
+</ul>
+
+<p><strong>🔄 Flywheel 3: Collective Action Flywheel</strong></p>
+<ul>
+  <li>Communities coordinate around shared issues</li>
+  <li>Collective evidence supports institutional change</li>
+  <li>Individual struggles become systemic victories</li>
+</ul>
+
+<p><strong>You’re not just managing your case — you’re part of changing Canada’s system.</strong></p>
+
+<hr />
+
+<p><a name="first-time"></a></p>
+<h2 id="getting-started-your-first-5-minutes">Getting Started: Your First 5 Minutes</h2>
+
+<h3 id="step-1-install--open-the-app">Step 1: Install &amp; Open the App</h3>
+
+<p><strong>3MPWRAPP is ready for all devices</strong> — iPhone, iPad, Android phones/tablets, and computers.</p>
+
+<p><strong>Currently in closed beta:</strong> We’re doing stress testing before submitting to app stores.</p>
+
+<p><strong>To get early access:</strong></p>
+<ol>
+  <li><a href="https://3mpwrapp.ca/beta-signup">Sign up for beta testing →</a></li>
+  <li>We’ll send you download instructions for your device:
+    <ul>
+      <li><strong>iPhone/iPad:</strong> TestFlight</li>
+      <li><strong>Android phones/tablets:</strong> Google Play Beta</li>
+      <li><strong>Windows/Mac:</strong> Web app link</li>
+    </ul>
+  </li>
+  <li>Install and open the app</li>
+</ol>
+
+<p><strong>Questions about beta access?</strong> Email: empowrapp08162025@gmail.com</p>
+
+<h3 id="step-2-create-an-account">Step 2: Create an Account</h3>
+
+<p><strong>Option A: Email &amp; Password (Recommended)</strong></p>
+<ol>
+  <li>Tap “Sign Up”</li>
+  <li>Enter your email address</li>
+  <li>Create a secure password (8+ characters, mix of letters and numbers)</li>
+  <li>Re-enter password</li>
+  <li>Tap “Create Account”</li>
+  <li>Check your email for verification link (check spam folder)</li>
+  <li>Click verification link</li>
+  <li>Return to app</li>
+  <li>Log in with email and password</li>
+</ol>
+
+<p><strong>Option B: Google Account</strong></p>
+<ol>
+  <li>Tap “Sign Up”</li>
+  <li>Tap “Continue with Google”</li>
+  <li>Select your Google account</li>
+  <li>Tap “Allow” to let 3MPWRAPP access basic info</li>
+  <li>Done!</li>
+</ol>
+
+<p><strong>Option C: Continue as Guest</strong></p>
+<ol>
+  <li>Tap “Continue as Guest”</li>
+  <li>Start using the app immediately</li>
+  <li>Note: Guest mode doesn’t save data between sessions</li>
+</ol>
+
+<p><strong>Recommended:</strong> Use email/password or Google so your data is saved.</p>
+
+<p><strong>Privacy:</strong> 3MPWRAPP never sells your data. <a href="/privacy/">Read our Privacy Policy →</a></p>
+
+<h3 id="step-3-choose-your-complexity-mode">Step 3: Choose Your Complexity Mode</h3>
+
+<ol>
+  <li>Complete sign up</li>
+  <li>You’ll be asked: “How many features do you want to see?”</li>
+  <li>Choose:
+    <ul>
+      <li><strong>🔋 Simple Mode</strong> (5 essential tools — for crisis, brain fog, bad days)</li>
+      <li><strong>📊 Standard Mode</strong> (20 important tools — for most users, most of the time)</li>
+      <li><strong>🚀 Power User</strong> (All 74 features — for advanced users)</li>
+    </ul>
+  </li>
+  <li>Tap your choice</li>
+  <li>App redesigns instantly</li>
+</ol>
+
+<p><strong>Can you change later?</strong> YES! Go to Settings → Complexity Mode anytime.</p>
+
+<p><strong>Which should you choose?</strong></p>
+<ul>
+  <li>First time? Try <strong>Standard Mode</strong></li>
+  <li>Bad pain day? Switch to <strong>Simple Mode</strong></li>
+  <li>Want to explore everything? Use <strong>Power User</strong> mode</li>
+</ul>
+
+<h3 id="step-4-set-up-your-profile-optional-but-recommended">Step 4: Set Up Your Profile (Optional but Recommended)</h3>
+
+<ol>
+  <li>Tap the Profile tab (usually bottom right)</li>
+  <li>Tap “Edit Profile”</li>
+  <li>Add information (optional):
+    <ul>
+      <li>Your role: Person with disability, Supporter, Ally, Advocate, Family</li>
+      <li>Disabilities/conditions (for personalized recommendations)</li>
+      <li>Symptoms you track</li>
+      <li>What you’re working on</li>
+    </ul>
+  </li>
+  <li>Tap “Save”</li>
+  <li>You’re done!</li>
+</ol>
+
+<p><strong>Privacy:</strong> This info stays on your device. It’s not shared unless you choose to sync.</p>
+
+<h3 id="step-5-take-the-quick-tutorial">Step 5: Take the Quick Tutorial</h3>
+
+<ol>
+  <li>You’ll see a “New to 3MPWRAPP?” popup</li>
+  <li>Tap “Take the Tour” (5-minute walkthrough)</li>
+  <li>Follow along</li>
+  <li>Tap “Skip” anytime if you want to start using the app</li>
+</ol>
+
+<p><strong>You can always retake the tutorial:</strong> Settings → Help → Tutorial</p>
+
+<hr />
+
+<p><a name="account-setup"></a></p>
+<h2 id="account-setup--security">Account Setup &amp; Security</h2>
+
+<h3 id="change-your-password">Change Your Password</h3>
+
+<ol>
+  <li>Open Settings (gear icon, usually bottom right)</li>
+  <li>Tap “Account Settings”</li>
+  <li>Tap “Change Password”</li>
+  <li>Enter your current password</li>
+  <li>Enter new password (8+ characters)</li>
+  <li>Re-enter new password</li>
+  <li>Tap “Change Password”</li>
+</ol>
+
+<h3 id="enable-two-factor-authentication-extra-security">Enable Two-Factor Authentication (Extra Security)</h3>
+
+<p>Two-factor authentication means someone needs both your password AND your phone to access your account.</p>
+
+<ol>
+  <li>Open Settings</li>
+  <li>Tap “Account Settings”</li>
+  <li>Tap “Two-Factor Authentication”</li>
+  <li>Tap “Enable”</li>
+  <li>Scan the QR code with an authenticator app (Google Authenticator, Microsoft Authenticator, or Authy)</li>
+  <li>Enter the code shown in your authenticator</li>
+  <li>Save backup codes (keep somewhere safe!)</li>
+</ol>
+
+<h3 id="sync-your-data-to-the-cloud">Sync Your Data to the Cloud</h3>
+
+<p><strong>What is syncing?</strong> Copying your data to Google Drive or our servers so it’s backed up.</p>
+
+<ol>
+  <li>Open Settings</li>
+  <li>Tap “Data &amp; Privacy”</li>
+  <li>Tap “Cloud Sync”</li>
+  <li>Choose:
+    <ul>
+      <li><strong>No sync</strong> (data stays on your phone only)</li>
+      <li><strong>Google Drive</strong> (your data syncs to your Google Drive)</li>
+      <li><strong>3MPWRAPP Backup</strong> (your data syncs to our secure servers)</li>
+    </ul>
+  </li>
+  <li>Follow prompts</li>
+  <li>Done!</li>
+</ol>
+
+<p><strong>Privacy:</strong> Data is encrypted. We can’t see it.</p>
+
+<h3 id="privacy-settings">Privacy Settings</h3>
+
+<ol>
+  <li>Open Settings</li>
+  <li>Tap “Data &amp; Privacy”</li>
+  <li>Choose what you’re comfortable with:
+    <ul>
+      <li><strong>Analytics</strong> (helps us improve the app)</li>
+      <li><strong>Crash reports</strong> (helps us fix bugs)</li>
+      <li><strong>Personalization</strong> (app learns your preferences)</li>
+    </ul>
+  </li>
+  <li>Your choices are saved immediately</li>
+</ol>
+
+<hr />
+
+<p><a name="complexity-mode"></a></p>
+<h2 id="understanding-complexity-mode">Understanding Complexity Mode</h2>
+
+<p><strong>Complexity Mode is the most important feature to understand.</strong></p>
+
+<h3 id="why-three-modes">Why Three Modes?</h3>
+
+<p>Disability + fatigue + pain + stress = overwhelming. Complexity Mode fixes this by showing only the tools you need right now.</p>
+
+<h3 id="simple-mode-5-essential-tools">Simple Mode: 5 Essential Tools</h3>
+
+<p><strong>For:</strong> Crisis, flare-ups, brain fog, bad days<br />
+<strong>Tools:</strong></p>
+<ol>
+  <li>Evidence Locker — save documents fast</li>
+  <li>Letter Wizard — write appeals fast</li>
+  <li>Pacing Partner — manage energy</li>
+  <li>Support Groups — find community</li>
+  <li>Crisis Resources — emergency help</li>
+</ol>
+
+<p><strong>Use Simple Mode when:</strong></p>
+<ul>
+  <li>You’re having a flare-up</li>
+  <li>You have brain fog</li>
+  <li>You’re in crisis</li>
+  <li>You’re exhausted</li>
+  <li>You just need to survive today</li>
+</ul>
+
+<h3 id="standard-mode-20-important-tools">Standard Mode: 20 Important Tools</h3>
+
+<p><strong>For:</strong> Most users, most of the time<br />
+<strong>Tools:</strong> All Simple Mode tools PLUS:</p>
+<ul>
+  <li>Deadline Tracker</li>
+  <li>Case Timeline</li>
+  <li>Health Tracker</li>
+  <li>Wellness Check-in</li>
+  <li>Symptom Tracker</li>
+  <li>Community Hub</li>
+  <li>Campaigns</li>
+  <li>Support Directory</li>
+  <li>And more…</li>
+</ul>
+
+<p><strong>Use Standard Mode when:</strong></p>
+<ul>
+  <li>You feel OK</li>
+  <li>You want a balanced experience</li>
+  <li>You want to use multiple tools</li>
+  <li>You’re building your case over time</li>
+</ul>
+
+<h3 id="power-user-mode-all-74-features">Power User Mode: All 74 Features</h3>
+
+<p><strong>For:</strong> Advanced users who want everything<br />
+<strong>Tools:</strong> Every feature, all 74 tools unlocked</p>
+
+<p><strong>Use Power User Mode when:</strong></p>
+<ul>
+  <li>You’re comfortable with the app</li>
+  <li>You want to explore</li>
+  <li>You’re working on complex cases</li>
+  <li>You have the energy</li>
+</ul>
+
+<h3 id="how-to-change-your-mode">How to Change Your Mode</h3>
+
+<ol>
+  <li>Open Settings (usually bottom right)</li>
+  <li>Tap “Complexity Mode”</li>
+  <li>Choose your mode</li>
+  <li>App redesigns instantly</li>
+  <li>Your Home screen now shows different tools</li>
+</ol>
+
+<p><strong>You can change modes multiple times per day.</strong> No judgment. Do what you need.</p>
+
+<hr />
+
+<p><a name="evidence-section"></a></p>
+<h2 id="evidence--document-management">Evidence &amp; Document Management</h2>
+
+<h3 id="uploading-documents-to-evidence-locker">Uploading Documents to Evidence Locker</h3>
+
+<p><strong>What you’ll need:</strong></p>
+<ul>
+  <li>Your phone and a document to upload (PDF, photo, image, file)</li>
+  <li>5 minutes</li>
+</ul>
+
+<p><strong>Step-by-step:</strong></p>
+<ol>
+  <li>From Home screen, tap “Evidence Locker” or tap the Resources tab → Evidence</li>
+  <li>Tap “Add Document” or “+” button</li>
+  <li>Choose source:
+    <ul>
+      <li><strong>Camera</strong> — take a photo of a document right now</li>
+      <li><strong>Photo Library</strong> — select a photo already on your phone</li>
+      <li><strong>Files</strong> — upload a PDF or file from your phone</li>
+    </ul>
+  </li>
+  <li>Select/take your document</li>
+  <li>Confirm the image is clear and readable</li>
+  <li>Tap “Next”</li>
+  <li>Add a title: “Denial Letter - May 15 2026” (be specific, include dates)</li>
+  <li>Add tags (optional): “decision”, “medical”, “letter”, “evidence”</li>
+  <li>Add notes (optional): “For WSIB claim”</li>
+  <li>Review that it’s encrypted (lock icon should be visible)</li>
+  <li>Tap “Save”</li>
+  <li>Document is now encrypted and stored</li>
+</ol>
+
+<p><strong>Tips:</strong></p>
+<ul>
+  <li>Use good lighting when photographing documents</li>
+  <li>Photograph all pages of multi-page documents</li>
+  <li>Use consistent tags for easy searching</li>
+  <li>Include dates in titles</li>
+  <li>Check encryption status (lock = encrypted)</li>
+</ul>
+
+<h3 id="organizing-evidence-with-tags">Organizing Evidence with Tags</h3>
+
+<p><strong>Tags help you find documents fast.</strong></p>
+
+<p><strong>How to add tags:</strong></p>
+<ol>
+  <li>When uploading, tap “Tags” field</li>
+  <li>Type a tag (e.g., “medical”)</li>
+  <li>Press Enter</li>
+  <li>Add more tags</li>
+  <li>Save document</li>
+</ol>
+
+<p><strong>Recommended tag system:</strong></p>
+<ul>
+  <li>By type: “decision”, “medical”, “letter”, “photo”, “email”, “government”</li>
+  <li>By case: “WSIB”, “HRTO”, “CPP”, “disability-appeal”</li>
+  <li>By date: “2026-march”, “2026-april”</li>
+</ul>
+
+<p><strong>Searching by tag:</strong></p>
+<ol>
+  <li>Open Evidence Locker</li>
+  <li>Tap the search/filter button</li>
+  <li>Choose a tag</li>
+  <li>See only documents with that tag</li>
+</ol>
+
+<h3 id="using-evidence-timeline">Using Evidence Timeline</h3>
+
+<p>The Timeline shows all your documents in order (oldest to newest).</p>
+
+<p><strong>How to use it:</strong></p>
+<ol>
+  <li>Open Evidence Locker</li>
+  <li>Tap “Timeline” view</li>
+  <li>Scroll to see documents chronologically</li>
+  <li>Tap any document to view full details</li>
+  <li>Look for gaps (periods with no documents)</li>
+</ol>
+
+<p><strong>Why this matters:</strong></p>
+<ul>
+  <li>Shows your case story over time</li>
+  <li>Helps you spot missing evidence</li>
+  <li>Useful when preparing for hearings</li>
+</ul>
+
+<h3 id="viewing--downloading-documents">Viewing &amp; Downloading Documents</h3>
+
+<p><strong>To view a document:</strong></p>
+<ol>
+  <li>Open Evidence Locker</li>
+  <li>Find the document</li>
+  <li>Tap it</li>
+  <li>Document opens in viewer</li>
+</ol>
+
+<p><strong>To download/share a document:</strong></p>
+<ol>
+  <li>Open the document</li>
+  <li>Tap the “Share” button (usually top right)</li>
+  <li>Choose how to share:
+    <ul>
+      <li>Email</li>
+      <li>Messages</li>
+      <li>Save to files</li>
+    </ul>
+  </li>
+  <li>Follow prompts</li>
+</ol>
+
+<p><strong>Important:</strong> Make sure you trust the person you’re sharing with. Documents may contain sensitive information.</p>
+
+<h3 id="deleting-documents">Deleting Documents</h3>
+
+<p><strong>To delete a document:</strong></p>
+<ol>
+  <li>Open Evidence Locker</li>
+  <li>Find the document</li>
+  <li>Tap and hold (long press)</li>
+  <li>Tap “Delete”</li>
+  <li>Confirm you want to delete</li>
+</ol>
+
+<p><strong>Caution:</strong> Deleted documents cannot be recovered. Make sure you’re deleting the right thing.</p>
+
+<hr />
+
+<h3 id="using-evidence-command-center">Using Evidence Command Center</h3>
+
+<p><strong>Evidence Command Center shows you ALL your evidence in one place.</strong></p>
+
+<p><strong>How to open it:</strong></p>
+<ol>
+  <li>From Home, tap “Evidence Command Center”</li>
+  <li>You’ll see 4 tabs: Upload, Timeline, Tags, Analytics</li>
+</ol>
+
+<p><strong>Understanding each tab:</strong></p>
+
+<p><strong>1. Upload Tab</strong></p>
+<ul>
+  <li>Quick upload button</li>
+  <li>Recent uploads shown</li>
+  <li>Current upload status</li>
+</ul>
+
+<p><strong>2. Timeline Tab</strong></p>
+<ul>
+  <li>All documents in chronological order</li>
+  <li>See patterns over time</li>
+  <li>Identify gaps</li>
+</ul>
+
+<p><strong>3. Tags Tab</strong></p>
+<ul>
+  <li>All documents grouped by tag</li>
+  <li>See what categories of evidence you have</li>
+  <li>Find documents quickly</li>
+</ul>
+
+<p><strong>4. Analytics Tab</strong></p>
+<ul>
+  <li>Statistics about your evidence</li>
+  <li>How many medical documents?</li>
+  <li>How many decision letters?</li>
+  <li>What’s your evidence distribution?</li>
+</ul>
+
+<p><strong>How to use Analytics:</strong></p>
+<ol>
+  <li>Tap “Analytics” tab</li>
+  <li>See charts showing:
+    <ul>
+      <li>Documents by type</li>
+      <li>Documents over time</li>
+      <li>Most-used tags</li>
+    </ul>
+  </li>
+  <li>Use this info to identify what you need to gather next</li>
+</ol>
+
+<p><strong>Example:</strong> You see 5 medical documents and 2 decision letters. You need more workplace evidence. Now you know what to focus on gathering.</p>
+
+<hr />
+
+<h3 id="troubleshooting-evidence-locker">Troubleshooting Evidence Locker</h3>
+
+<p><strong>“Upload failed” error</strong></p>
+<ul>
+  <li>Check file size (max 50 MB per document)</li>
+  <li>Try a different file format</li>
+  <li>Check internet connection</li>
+  <li>Try uploading again</li>
+</ul>
+
+<p><strong>“Can’t find a document I uploaded”</strong></p>
+<ul>
+  <li>Use search bar (magnifying glass icon)</li>
+  <li>Try different tags</li>
+  <li>Scroll through all documents</li>
+  <li>Check if you accidentally deleted it</li>
+</ul>
+
+<p><strong>“Photo is blurry/unreadable”</strong></p>
+<ul>
+  <li>Delete it (tap and hold, then delete)</li>
+  <li>Retake photo with better lighting</li>
+  <li>Hold document flat</li>
+  <li>Stand closer so text is large</li>
+</ul>
+
+<hr />
+
+<p><a name="advocacy-section"></a></p>
+<h2 id="advocacy--legal-tools">Advocacy &amp; Legal Tools</h2>
+
+<h3 id="understanding-your-decision-letter-parse-claim">Understanding Your Decision Letter: Parse Claim</h3>
+
+<p><strong>Parse Claim helps you understand confusing decision letters.</strong></p>
+
+<p><strong>What you need:</strong></p>
+<ul>
+  <li>Your decision letter (email, PDF, or physical copy)</li>
+  <li>3 minutes</li>
+</ul>
+
+<p><strong>Step-by-step:</strong></p>
+<ol>
+  <li>Photograph or save your decision letter as PDF</li>
+  <li>From Home, tap “Parse Claim” (under Advocacy section)</li>
+  <li>Tap “Upload Decision Letter”</li>
+  <li>Choose source:
+    <ul>
+      <li>Camera — take a photo now</li>
+      <li>Library — select from your phone</li>
+      <li>Files — upload a PDF</li>
+    </ul>
+  </li>
+  <li>Select/take your document</li>
+  <li>Make sure it’s readable (clear text, all pages)</li>
+  <li>Tap “Next”</li>
+  <li>Wait for app to analyze (30 seconds to 2 minutes)</li>
+  <li>Read the results</li>
+</ol>
+
+<p><strong>You’ll see:</strong></p>
+<ul>
+  <li><strong>Decision Summary</strong> — What they decided (approved, denied, partial)</li>
+  <li><strong>Plain-Language Explanation</strong> — What it means in simple terms</li>
+  <li><strong>Key Facts</strong> — What they considered</li>
+  <li><strong>Your Deadlines</strong> — When you need to act</li>
+  <li><strong>Your Options</strong> — What you can do next (appeal, review, reconsideration)</li>
+</ul>
+
+<p><strong>Tips:</strong></p>
+<ul>
+  <li>Use high-quality photos</li>
+  <li>Make sure all text is readable</li>
+  <li>If it didn’t work, try a better photo</li>
+  <li>Always verify deadlines with official tribunal websites</li>
+</ul>
+
+<h3 id="setting-up-deadline-tracker">Setting Up Deadline Tracker</h3>
+
+<p><strong>Deadline Tracker keeps track of all important dates.</strong></p>
+
+<p><strong>Adding a deadline:</strong></p>
+<ol>
+  <li>Open Deadline Tracker</li>
+  <li>Tap “Add Deadline” or “+” button</li>
+  <li>Enter:
+    <ul>
+      <li>Date (use the calendar picker)</li>
+      <li>Deadline type: Appeal, Document Due, Hearing, Filing, Other</li>
+      <li>Description: “Appeal WSIB decision”</li>
+      <li>Notes (optional): “File appeal letter”</li>
+    </ul>
+  </li>
+  <li>Tap “Create Deadline”</li>
+  <li>Deadline now appears on your calendar</li>
+</ol>
+
+<p><strong>Importing from Parse Claim:</strong></p>
+<ol>
+  <li>After using Parse Claim</li>
+  <li>You’ll see “Add deadlines to Tracker”</li>
+  <li>Tap “Add All” or select individual deadlines</li>
+  <li>They’re automatically added</li>
+</ol>
+
+<p><strong>Understanding the countdown:</strong></p>
+<ul>
+  <li>Green: More than 7 days left</li>
+  <li>Yellow: 7 days to 24 hours left</li>
+  <li>Red: Less than 24 hours left</li>
+</ul>
+
+<p><strong>Notifications:</strong></p>
+<ul>
+  <li>7 days before: Reminder notification</li>
+  <li>1 day before: Urgent reminder</li>
+  <li>On the day: Final reminder</li>
+</ul>
+
+<h3 id="using-case-timeline">Using Case Timeline</h3>
+
+<p><strong>Case Timeline shows your entire case in chronological order.</strong></p>
+
+<p><strong>What it shows:</strong></p>
+<ul>
+  <li>When you filed your claim</li>
+  <li>Decision dates</li>
+  <li>Appeal dates</li>
+  <li>Hearing dates</li>
+  <li>Any other important events</li>
+</ul>
+
+<p><strong>How to use it:</strong></p>
+<ol>
+  <li>Open Case Timeline from Advocacy tab</li>
+  <li>Scroll to see your entire case history</li>
+  <li>Tap any event for details</li>
+  <li>Add events manually:
+    <ul>
+      <li>Tap “Add Event”</li>
+      <li>Enter date and description</li>
+      <li>Tap “Save”</li>
+    </ul>
+  </li>
+</ol>
+
+<p><strong>Tips:</strong></p>
+<ul>
+  <li>Keep your timeline updated</li>
+  <li>Use it to tell your case story</li>
+  <li>Print and show to your lawyer</li>
+  <li>Reference it in appeals</li>
+</ul>
+
+<hr />
+
+<h3 id="drafting-an-appeal-with-letter-wizard">Drafting an Appeal with Letter Wizard</h3>
+
+<p><strong>Letter Wizard helps you write professional appeal letters.</strong></p>
+
+<p><strong>What you need:</strong></p>
+<ul>
+  <li>15-30 minutes</li>
+  <li>Information about what you’re appealing</li>
+  <li>Evidence to reference (optional)</li>
+</ul>
+
+<p><strong>Step-by-step:</strong></p>
+<ol>
+  <li>From Home, tap “Letter Wizard”</li>
+  <li>Choose letter type:
+    <ul>
+      <li>Appeal Letter</li>
+      <li>Accommodation Request</li>
+      <li>Formal Complaint</li>
+      <li>Demand Letter</li>
+      <li>Other</li>
+    </ul>
+  </li>
+  <li>Tap your choice</li>
+  <li>Answer questions (they vary by letter type)</li>
+  <li>For Appeal Letter, answer:
+    <ul>
+      <li>What are you appealing?</li>
+      <li>Why do you disagree?</li>
+      <li>What evidence supports your appeal?</li>
+      <li>What outcome do you want?</li>
+    </ul>
+  </li>
+  <li>Answer each question honestly and completely</li>
+  <li>Tap “Next” to proceed</li>
+  <li>Review the draft letter</li>
+  <li>Make any edits (all text is editable)</li>
+  <li>Save, export as PDF, or send</li>
+</ol>
+
+<p><strong>Tips:</strong></p>
+<ul>
+  <li>Answer questions in full sentences</li>
+  <li>Be honest about your situation</li>
+  <li>Reference specific evidence</li>
+  <li>Keep copies of everything</li>
+  <li>Have a friend or advocate review before sending</li>
+</ul>
+
+<h3 id="using-appeal-coach">Using Appeal Coach</h3>
+
+<p><strong>Appeal Coach provides personalized guidance for your appeal.</strong></p>
+
+<p><strong>How to use it:</strong></p>
+<ol>
+  <li>From Advocacy tab, tap “Appeal Coach”</li>
+  <li>Describe your situation briefly</li>
+  <li>Ask a specific question, for example:
+    <ul>
+      <li>“Should I appeal this decision?”</li>
+      <li>“What evidence do I need for an appeal?”</li>
+      <li>“What are my chances of winning?”</li>
+    </ul>
+  </li>
+  <li>Coach provides a response</li>
+  <li>Ask follow-up questions</li>
+  <li>Save responses for later</li>
+</ol>
+
+<p><strong>Important:</strong></p>
+<ul>
+  <li>Coach is NOT a lawyer</li>
+  <li>Verify information with official sources</li>
+  <li>Consider consulting a lawyer for complex cases</li>
+  <li>Coach is your brainstorming partner, not legal advice</li>
+</ul>
+
+<hr />
+
+<p><a name="wellness-section"></a></p>
+<h2 id="wellness--health-tracking">Wellness &amp; Health Tracking</h2>
+
+<h3 id="setting-up-pacing-partner">Setting Up Pacing Partner</h3>
+
+<p><strong>Pacing Partner helps you do more without triggering flare-ups.</strong></p>
+
+<p><strong>Step 1: Establish Your Baseline</strong></p>
+<ol>
+  <li>From Wellness tab, open Pacing Partner</li>
+  <li>Tap “Set Up Baseline”</li>
+  <li>The app asks: “What’s your normal activity level?”</li>
+  <li>Rate it 1-10 (1 = bedridden, 10 = fully active)</li>
+  <li>Enter your average activity level</li>
+  <li>This becomes your baseline</li>
+</ol>
+
+<p><strong>Step 2: Use the 50% Rule</strong></p>
+<ul>
+  <li>Do 50% of your baseline today</li>
+  <li>Rest/recover tomorrow</li>
+  <li>This prevents flare-ups</li>
+</ul>
+
+<p><strong>Example:</strong></p>
+<ul>
+  <li>Your baseline = 6/10</li>
+  <li>Safe activity today = 3/10</li>
+  <li>Tomorrow = rest at 2/10</li>
+  <li>Pattern: 3, 2, 3, 2, 3, 2</li>
+</ul>
+
+<p><strong>Step 3: Log Daily Activities</strong></p>
+<ol>
+  <li>Each morning, tap “Plan Today”</li>
+  <li>List planned activities:
+    <ul>
+      <li>Work: 4 hours</li>
+      <li>Errand: 30 minutes</li>
+      <li>Hearing: 2 hours</li>
+    </ul>
+  </li>
+  <li>Pacing Partner calculates your activity level</li>
+  <li>Shows if you’re in your safe zone</li>
+  <li>Suggests adjustments if needed</li>
+</ol>
+
+<p><strong>Step 4: Track How You Felt</strong></p>
+<ol>
+  <li>At end of day, tap “How did you do?”</li>
+  <li>Log:
+    <ul>
+      <li>Pain level</li>
+      <li>Energy level</li>
+      <li>Symptoms</li>
+      <li>How you felt overall</li>
+    </ul>
+  </li>
+  <li>Over time, the app learns your patterns</li>
+</ol>
+
+<p><strong>Tips:</strong></p>
+<ul>
+  <li>Estimate conservatively (better to underestimate)</li>
+  <li>Include everything (work, thinking, socializing, cleaning)</li>
+  <li>Log even on bad days</li>
+  <li>Review weekly patterns</li>
+</ul>
+
+<h3 id="using-wellness-hub-tools">Using Wellness Hub Tools</h3>
+
+<p><strong>Wellness Hub has 41+ health tools. Start with one or two.</strong></p>
+
+<p><strong>Popular tools to start with:</strong></p>
+<ol>
+  <li><strong>Symptom Tracker</strong> — log pain, fatigue, symptoms</li>
+  <li><strong>Health Tracker</strong> — track multiple conditions</li>
+  <li><strong>Mood Journal</strong> — track emotions</li>
+  <li><strong>Sleep Tracker</strong> — track sleep quality</li>
+</ol>
+
+<p><strong>How to use Symptom Tracker:</strong></p>
+<ol>
+  <li>Open Wellness Hub</li>
+  <li>Tap “Symptom Tracker”</li>
+  <li>Tap “Log Symptom”</li>
+  <li>Choose your symptom (pain, fatigue, brain fog, etc.)</li>
+  <li>Rate severity 1-10</li>
+  <li>Add notes (what triggered it, what helped)</li>
+  <li>Save entry</li>
+  <li>View patterns over time</li>
+</ol>
+
+<p><strong>Tips:</strong></p>
+<ul>
+  <li>Track consistently (same time daily)</li>
+  <li>Look for patterns (what makes it worse, what helps)</li>
+  <li>Use data in medical appointments</li>
+  <li>Print data for legal cases</li>
+</ul>
+
+<h3 id="connecting-wellness-data-to-your-case">Connecting Wellness Data to Your Case</h3>
+
+<p><strong>Your health data is evidence.</strong></p>
+
+<p><strong>How to use it:</strong></p>
+<ol>
+  <li>Log wellness data consistently</li>
+  <li>Every week or month, review your entries</li>
+  <li>Look for patterns</li>
+  <li>When preparing for hearings:
+    <ul>
+      <li>Print month/year of wellness logs</li>
+      <li>Attach to evidence package</li>
+      <li>Reference in appeal letters</li>
+      <li>Show to your lawyer</li>
+    </ul>
+  </li>
+</ol>
+
+<p><strong>Example:</strong>
+You’ve been tracking pain 7+ out of 10 for 6 months straight. Print and attach to WSIB appeal. It proves your pain is consistent and ongoing.</p>
+
+<hr />
+
+<p><a name="community-section"></a></p>
+<h2 id="community--connection">Community &amp; Connection</h2>
+
+<h3 id="joining-a-support-group">Joining a Support Group</h3>
+
+<p><strong>Support groups connect you with others who understand.</strong></p>
+
+<p><strong>Finding a group:</strong></p>
+<ol>
+  <li>From Community tab, tap “Support Groups”</li>
+  <li>Browse available groups</li>
+  <li>Filter by:
+    <ul>
+      <li>Disability/condition</li>
+      <li>Format (text, audio, video)</li>
+      <li>Language</li>
+    </ul>
+  </li>
+  <li>Read group description</li>
+  <li>Tap “Join Group”</li>
+</ol>
+
+<p><strong>Introducing yourself:</strong></p>
+<ol>
+  <li>After joining, you’ll be asked to introduce yourself</li>
+  <li>Share what’s comfortable:
+    <ul>
+      <li>Your condition/disability</li>
+      <li>What you’re working on</li>
+      <li>What you’re looking for in the group</li>
+    </ul>
+  </li>
+  <li>Hit “Introduce”</li>
+  <li>Welcome to the group!</li>
+</ol>
+
+<p><strong>Participating:</strong></p>
+<ul>
+  <li><strong>Lurking first is OK</strong> — Just listen before speaking</li>
+  <li><strong>Go at your pace</strong> — No pressure to participate</li>
+  <li><strong>Text groups</strong> — Great for low-energy days</li>
+  <li><strong>Audio groups</strong> — More personal, live interaction</li>
+  <li><strong>Video groups</strong> — Video if you feel up to it</li>
+</ul>
+
+<p><strong>Tips:</strong></p>
+<ul>
+  <li>Read group guidelines</li>
+  <li>Be respectful of others</li>
+  <li>Share what feels safe</li>
+  <li>Don’t share medical advice</li>
+  <li>Report harmful behavior to moderators</li>
+</ul>
+
+<h3 id="joining-campaigns">Joining Campaigns</h3>
+
+<p><strong>Campaigns are collective action on shared goals.</strong></p>
+
+<p><strong>Finding a campaign:</strong></p>
+<ol>
+  <li>From Community tab, tap “Campaigns”</li>
+  <li>Browse current campaigns</li>
+  <li>Read campaign description and goals</li>
+  <li>Tap “Join Campaign”</li>
+  <li>You’re now part of the effort!</li>
+</ol>
+
+<p><strong>Contributing to campaigns:</strong></p>
+<ul>
+  <li>Some ask for: stories, data, time, money, signatures</li>
+  <li>Each task takes 5-30 minutes</li>
+  <li>Contribute what you can, when you can</li>
+  <li>No minimum requirement</li>
+</ul>
+
+<p><strong>Example contributions:</strong></p>
+<ul>
+  <li>Share your story (2 sentences)</li>
+  <li>Answer a survey (10 minutes)</li>
+  <li>Sign a petition (1 minute)</li>
+  <li>Attend a meeting (optional)</li>
+  <li>Donate if you can</li>
+</ul>
+
+<p><strong>Impact:</strong></p>
+<ul>
+  <li>Individual contributions add up</li>
+  <li>Collective voice is powerful</li>
+  <li>Your participation matters</li>
+</ul>
+
+<hr />
+
+<p><a name="accessibility-section"></a></p>
+<h2 id="accessibility-options">Accessibility Options</h2>
+
+<h3 id="high-contrast-mode">High Contrast Mode</h3>
+
+<p><strong>For people with low vision, color blindness, or light sensitivity.</strong></p>
+
+<p><strong>How to enable:</strong></p>
+<ol>
+  <li>Open Settings (gear icon)</li>
+  <li>Tap “Accessibility”</li>
+  <li>Toggle “High Contrast Mode”</li>
+  <li>The app instantly changes to maximum contrast</li>
+  <li>All colors become bold and clear</li>
+</ol>
+
+<p><strong>What changes:</strong></p>
+<ul>
+  <li>Text becomes bolder</li>
+  <li>Colors become more vivid</li>
+  <li>Background becomes pure white or pure black</li>
+  <li>Focus indicators become more visible</li>
+</ul>
+
+<p><strong>When to use:</strong></p>
+<ul>
+  <li>You have low vision</li>
+  <li>You get eye strain easily</li>
+  <li>You have color blindness</li>
+  <li>You’re sensitive to regular colors</li>
+</ul>
+
+<h3 id="dark-mode">Dark Mode</h3>
+
+<p><strong>Reduces eye strain and helps in low-light situations.</strong></p>
+
+<p><strong>How to enable:</strong></p>
+<ol>
+  <li>Open Settings</li>
+  <li>Tap “Display”</li>
+  <li>Toggle “Dark Mode”</li>
+  <li>The app switches to dark theme</li>
+</ol>
+
+<p><strong>Schedules:</strong></p>
+<ul>
+  <li>Off: Always use light mode</li>
+  <li>On: Always use dark mode</li>
+  <li>Automatic: Switch with device settings</li>
+</ul>
+
+<h3 id="dyslexia-friendly-font">Dyslexia-Friendly Font</h3>
+
+<p><strong>For people with dyslexia or reading difficulties.</strong></p>
+
+<p><strong>How to enable:</strong></p>
+<ol>
+  <li>Open Settings</li>
+  <li>Tap “Accessibility”</li>
+  <li>Toggle “Dyslexia-Friendly Font”</li>
+  <li>Font changes to OpenDyslexic immediately</li>
+</ol>
+
+<p><strong>What changes:</strong></p>
+<ul>
+  <li>Letters become larger and more distinct</li>
+  <li>Serifs become more unique</li>
+  <li>Spacing improves</li>
+  <li>Reading becomes easier</li>
+</ul>
+
+<h3 id="text-scaling">Text Scaling</h3>
+
+<p><strong>Make text bigger or smaller.</strong></p>
+
+<p><strong>How to change:</strong></p>
+<ol>
+  <li>Open Settings</li>
+  <li>Tap “Display”</li>
+  <li>Tap “Text Size”</li>
+  <li>Choose:
+    <ul>
+      <li>Small (for good eyesight)</li>
+      <li>Default (medium)</li>
+      <li>Large (easier to read)</li>
+      <li>Extra Large (maximum size)</li>
+    </ul>
+  </li>
+  <li>Changes apply immediately</li>
+</ol>
+
+<p><strong>Remember:</strong> You can also use your phone’s built-in text scaling in System Settings for the entire phone.</p>
+
+<hr />
+
+<p><a name="keyboard-nav"></a></p>
+<h2 id="keyboard-navigation">Keyboard Navigation</h2>
+
+<p><strong>Use the app entirely with keyboard (no touch needed).</strong></p>
+
+<p><strong>Basic keys:</strong></p>
+<ul>
+  <li><strong>Tab</strong> → Move to next button/field</li>
+  <li><strong>Shift+Tab</strong> → Move to previous button/field</li>
+  <li><strong>Enter</strong> → Activate button</li>
+  <li><strong>Space</strong> → Activate toggle/checkbox</li>
+  <li><strong>Arrow Keys</strong> → Navigate lists/menus</li>
+  <li><strong>Escape</strong> → Close menus/dialogs</li>
+</ul>
+
+<p><strong>Navigation examples:</strong></p>
+<ol>
+  <li><strong>Tab through buttons:</strong> Press Tab repeatedly to move between buttons</li>
+  <li><strong>Activate a button:</strong> Press Tab until button is focused (you’ll see focus ring), then press Enter</li>
+  <li><strong>Select from a list:</strong> Use Arrow Keys up/down to highlight, then press Enter</li>
+  <li><strong>Close a menu:</strong> Press Escape</li>
+</ol>
+
+<p><strong>Screen readers often add more shortcuts</strong> — Ask your screen reader documentation.</p>
+
+<hr />
+
+<p><a name="screen-reader"></a></p>
+<h2 id="screen-reader-support-voiceover--talkback">Screen Reader Support (VoiceOver / TalkBack)</h2>
+
+<p><strong>For people who are blind or have low vision.</strong></p>
+
+<p><strong>iOS (VoiceOver):</strong></p>
+<ol>
+  <li>Settings → Accessibility → VoiceOver</li>
+  <li>Toggle VoiceOver On</li>
+  <li>Triple-tap to read the entire screen</li>
+  <li>Two-finger Z to undo</li>
+  <li>Two-finger U to read notifications</li>
+</ol>
+
+<p><strong>Android (TalkBack):</strong></p>
+<ol>
+  <li>Settings → Accessibility → TalkBack</li>
+  <li>Toggle TalkBack On</li>
+  <li>Two-finger swipe down to read all text on screen</li>
+  <li>Two-finger swipe up to jump to next item</li>
+  <li>Swipe right to activate button</li>
+</ol>
+
+<p><strong>3MPWRAPP features:</strong></p>
+<ul>
+  <li>All buttons labeled for screen readers</li>
+  <li>All images have descriptions</li>
+  <li>All form fields labeled clearly</li>
+  <li>Proper heading hierarchy</li>
+  <li>Lists read in order</li>
+</ul>
+
+<hr />
+
+<p><a name="troubleshooting"></a></p>
+<h2 id="troubleshooting">Troubleshooting</h2>
+
+<h3 id="app-keeps-crashing">“App keeps crashing”</h3>
+<ol>
+  <li>Close the app completely (swipe it away from recent apps)</li>
+  <li>Restart your phone</li>
+  <li>Open app again</li>
+  <li>If still crashing:
+    <ul>
+      <li>Force close the app</li>
+      <li>Uninstall</li>
+      <li>Restart phone</li>
+      <li>Reinstall from App Store/Play Store</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="cant-log-in">“Can’t log in”</h3>
+<ol>
+  <li>Check email is spelled correctly</li>
+  <li>Check Caps Lock is off</li>
+  <li>Use “Forgot Password” to reset</li>
+  <li>If still stuck, tap “Contact Support”</li>
+</ol>
+
+<h3 id="document-wont-upload">“Document won’t upload”</h3>
+<ol>
+  <li>Check file size (max 50 MB)</li>
+  <li>Try different file type</li>
+  <li>Check internet connection</li>
+  <li>Try again</li>
+</ol>
+
+<h3 id="deadline-notifications-not-working">“Deadline notifications not working”</h3>
+<ol>
+  <li>Open Settings → Notifications</li>
+  <li>Check 3MPWRAPP notifications are enabled</li>
+  <li>Check volume is on</li>
+  <li>Try restarting the app</li>
+</ol>
+
+<h3 id="app-is-slow">“App is slow”</h3>
+<ol>
+  <li>Close other apps running</li>
+  <li>Restart your phone</li>
+  <li>Clear the app cache (Settings → Apps → 3MPWRAPP → Storage → Clear Cache)</li>
+  <li>If still slow, reinstall</li>
+</ol>
+
+<h3 id="lost-my-data">“Lost my data”</h3>
+<ol>
+  <li>If you synced to cloud:
+    <ul>
+      <li>Open app</li>
+      <li>Log in</li>
+      <li>Data will sync back</li>
+    </ul>
+  </li>
+  <li>If you didn’t sync:
+    <ul>
+      <li>Contact Support (data may be recoverable from backup)</li>
+    </ul>
+  </li>
+</ol>
+
+<hr />
+
+<p><a name="bug-reporting"></a></p>
+<h2 id="reporting-bugs--giving-feedback">Reporting Bugs &amp; Giving Feedback</h2>
+
+<p><strong>Help us improve 3MPWRAPP.</strong></p>
+
+<p><strong>How to report a bug:</strong></p>
+<ol>
+  <li>Open Settings</li>
+  <li>Tap “Help &amp; Support”</li>
+  <li>Tap “Report a Problem”</li>
+  <li>Describe what happened:
+    <ul>
+      <li>What were you trying to do?</li>
+      <li>What went wrong?</li>
+      <li>What did you expect to happen?</li>
+    </ul>
+  </li>
+  <li>Include:
+    <ul>
+      <li>Device type (iPhone, Android)</li>
+      <li>App version (visible in Settings)</li>
+      <li>When it happened</li>
+      <li>Screenshots if helpful</li>
+    </ul>
+  </li>
+  <li>Tap “Send”</li>
+</ol>
+
+<p><strong>Severity levels:</strong></p>
+<ul>
+  <li><strong>Critical:</strong> App crashed, data lost</li>
+  <li><strong>High:</strong> Feature doesn’t work</li>
+  <li><strong>Medium:</strong> Something is confusing</li>
+  <li><strong>Low:</strong> Nice-to-have improvement</li>
+</ul>
+
+<p><strong>Response time:</strong> Most bugs get a response within 48 hours.</p>
+
+<hr />
+
+<p><a name="contact-support"></a></p>
+<h2 id="contact-support">Contact Support</h2>
+
+<p><strong>Need help we didn’t cover?</strong></p>
+
+<p><strong>Ways to reach us:</strong></p>
+<ul>
+  <li><strong>Email:</strong> empowrapp08162025@gmail.com</li>
+  <li><strong>In-app:</strong> Settings → Help &amp; Support → Contact Us</li>
+  <li><strong>Community:</strong> Join Support Groups to ask others</li>
+  <li><strong>FAQ:</strong> Check the <a href="/faq/">FAQ →</a> for common questions</li>
+</ul>
+
+<p><strong>Response time:</strong> 24-48 hours typically</p>
+
+<p><strong>What to include in support emails:</strong></p>
+<ul>
+  <li>Your situation/problem</li>
+  <li>What you’ve already tried</li>
+  <li>Device type and app version</li>
+  <li>Screenshots if helpful</li>
+</ul>
+
+<hr />
+
+<h2 id="accessibility">Accessibility</h2>
+
+<p>This User Guide is fully readable and accessible in:</p>
+<ul>
+  <li>✅ <strong>Light Mode</strong> — Dark text on white background</li>
+  <li>✅ <strong>Dark Mode</strong> — Light text on dark background</li>
+  <li>✅ <strong>High Contrast Mode</strong> — Maximum contrast, bold text</li>
+</ul>
+
+<p>All headings, sections, lists, and links have adequate contrast ratios (WCAG 2.2 AAA).</p>
+
+<hr />
+
+<table>
+  <tbody>
+    <tr>
+      <td>**Version 3.0</td>
+      <td>Completely Rewritten May 2026</td>
+      <td>Next update: May 2027**</td>
+    </tr>
+  </tbody>
+</table>
+
+  </main>
+
+  <footer id="site-footer">
+    <div class="footer-grid">
+      <!-- Logo and Branding -->
+      <div class="footer-column footer-branding">
+        <picture>
+          <source type="image/webp" srcset="/assets/empwrapp-logo.webp">
+          <img src="/assets/empwrapp-logo.png" alt="3mpwrApp logo" width="64" height="64" loading="lazy" style="margin-bottom: 1rem;">
+        </picture>
+        <h2 style="margin-top: 0;">3mpwrApp</h2>
+        <p style="font-size: 0.9rem; line-height: 1.5;">Community-powered support for injured workers and persons with disabilities across Canada.</p>
+      </div>
+      
+      <!-- About Column -->
+      <div class="footer-column">
+        <h2>About</h2>
+        <ul>
+          <li><a href="/about">Our Mission</a></li>
+          <li><a href="/user-guide">User Guide</a></li>
+          <li><a href="/features">Features</a></li>
+          <li><a href="/roadmap">Roadmap</a></li>
+        </ul>
+      </div>
+
+      <!-- Get Started Column -->
+      <div class="footer-column">
+        <h2>Get Started</h2>
+        <ul>
+          <li><a href="/beta">Beta Testing</a></li>
+          <li><a href="/faq">FAQ</a></li>
+          <li><a href="/contact">Contact</a></li>
+          <li><a href="/accessibility-walkthrough">Accessibility Guide</a></li>
+        </ul>
+      </div>
+
+      <!-- Legal Column -->
+      <div class="footer-column">
+        <h2>Legal & Privacy</h2>
+        <ul>
+          <li><a href="/privacy">Privacy Policy</a></li>
+          <li><a href="/terms">Terms of Service</a></li>
+          <li><a href="/data-ownership">Data Ownership</a></li>
+          <li><a href="/community/guidelines">Community Guidelines</a></li>
+        </ul>
+      </div>
+
+      <!-- Support Column -->
+      <div class="footer-column">
+        <h2>Support</h2>
+        <ul>
+          <li><a href="https://paypal.me/3mpwrApp" target="_blank" rel="noopener noreferrer" style="color: #0070ba; font-weight: 600;">💙 Donate via PayPal</a></li>
+          <li><a href="/accessibility">Accessibility Statement</a></li>
+          <li><a href="/accessibility-settings">Accessibility Settings</a></li>
+          <li><a href="/site-map">Site Map</a></li>
+          <li><a href="/delete-data">Delete My Data</a></li>
+        </ul>
+      </div>
+
+      <!-- Connect Column -->
+      <div class="footer-column">
+        <h2>Connect</h2>
+        <div class="footer-social">
+          <a href="https://www.facebook.com/3mpowrapp/" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+
+<svg class="social-icon" viewBox="0 0 24 24" role="img" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
+	<title>Facebook</title>
+	<path d="M13.5 9H16V6h-2.5C11.6 6 11 7.1 11 8.8V10H9v3h2v5h3v-5h2.3l.5-3H14v-1c0-.6.2-1 .5-1z" fill="currentColor"/>
+</svg>
+<span class="social-label">Facebook</span></a>
+          <a href="https://www.facebook.com/groups/1848263672453552" target="_blank" rel="noopener noreferrer" aria-label="3mpwr App Hub Facebook Group">
+
+<svg class="social-icon" viewBox="0 0 24 24" role="img" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
+	<title>Facebook</title>
+	<path d="M13.5 9H16V6h-2.5C11.6 6 11 7.1 11 8.8V10H9v3h2v5h3v-5h2.3l.5-3H14v-1c0-.6.2-1 .5-1z" fill="currentColor"/>
+</svg>
+<span class="social-label">FB Group</span></a>
+          <a href="https://x.com/3mpowrapp0816" target="_blank" rel="noopener noreferrer" aria-label="X (Twitter)">
+
+<svg class="social-icon" viewBox="0 0 24 24" role="img" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
+	<title>X</title>
+	<path d="M4 4l16 16M20 4L4 20" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>
+<span class="social-label">X/Twitter</span></a>
+          <a href="https://www.instagram.com/3mpowrapp/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+
+<svg class="social-icon" viewBox="0 0 24 24" role="img" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
+	<title>Instagram</title>
+	<rect x="3" y="3" width="18" height="18" rx="5" ry="5" fill="none" stroke="currentColor" stroke-width="2"/>
+	<circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="2"/>
+	<circle cx="17.5" cy="6.5" r="1.2" fill="currentColor"/>
+</svg>
+<span class="social-label">Instagram</span></a>
+          <a href="https://mastodon.social/@3mpwrApp" target="_blank" rel="me noopener noreferrer" aria-label="Mastodon">
+
+<svg class="social-icon" viewBox="0 0 24 24" role="img" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
+	<title>Mastodon</title>
+	<path d="M20.94 14c-.28 1.41-2.54 2.96-5.14 3.26-1.36.15-2.7.29-4.13.23-2.32-.1-4.15-.5-4.15-.5 0 .2.01.4.03.58.22 2.03 1.67 2.15 3.04 2.21 1.39.06 2.62-.34 2.62-.34l.06 1.3s-.97.52-2.69.62c-.95.05-2.13-.02-3.5-.37-2.98-.77-3.49-3.88-3.57-7.04-.02-.8-.01-1.55-.01-2.18 0-5.48 3.6-7.09 3.6-7.09C8.84 3.37 10.7 3 12.62 3h.04c1.92 0 3.78.37 5.45 1.09 0 0 3.6 1.61 3.6 7.09 0 0 .05 4.05-.77 6.82z" fill="currentColor"/>
+	<path d="M17.23 8.24v4.67h-1.86V8.5c0-.96-.4-1.45-1.2-1.45-.89 0-1.33.57-1.33 1.71v2.47H11V8.76c0-1.14-.44-1.71-1.33-1.71-.8 0-1.2.49-1.2 1.45v4.41H6.62V8.24c0-.96.25-1.72.74-2.28.51-.56 1.17-.85 2-.85.95 0 1.67.36 2.14 1.09l.46.77.46-.77c.47-.73 1.19-1.09 2.14-1.09.83 0 1.49.29 2 .85.49.56.74 1.32.74 2.28z" fill="#fff"/>
+</svg>
+<span class="social-label">Mastodon</span></a>
+          <a href="https://bsky.app/profile/3mpwrapp.bsky.social" target="_blank" rel="noopener noreferrer" aria-label="Bluesky">
+
+<svg class="social-icon" viewBox="0 0 24 24" role="img" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
+	<title>Bluesky</title>
+	<path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.815 2.736 3.713 3.66 6.383 3.364.136-.02.275-.038.415-.054-2.36.308-3.916 1.379-3.916 2.827 0 1.548 1.898 2.997 8.494 2.997s8.494-1.449 8.494-2.997c0-1.448-1.556-2.519-3.916-2.827.14.016.279.034.415.054 2.67.296 5.568-.628 6.383-3.364.246-.829.624-5.789.624-6.478 0-.69-.139-1.861-.902-2.203-.659-.3-1.664-.622-4.3 1.24C16.046 4.748 13.087 8.687 12 10.8z" fill="currentColor"/>
+</svg>
+<span class="social-label">Bluesky</span></a>
+        </div>
+        <ul style="margin-top: 1rem;">
+          <li><a href="/blog">Blog</a></li>
+          <li><a href="/whats-new/feed.xml" rel="alternate" type="application/rss+xml">RSS Feed</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <p>&copy; 2026 3mpwrApp™ — Canada • <a href="mailto:empowrapp08162025@gmail.com">Contact Us</a></p>
+      <p class="footer-mission">💚 Grassroots & Community-Funded • 100% Free Forever • Mission-Driven, Not Profit-Driven</p>
+      <p class="footer-legal" style="font-size: 0.8rem; opacity: 0.75; margin-top: 0.5rem;">
+        3mpwrApp™ is a trademark of Lissa Beaulieu, operating as 3mpwrApp (Registered Sole Proprietorship). All rights reserved.
+        Licensed under <a href="https://www.gnu.org/licenses/agpl-3.0" target="_blank" rel="noopener noreferrer">AGPL-3.0</a>.
+        Tribunal data licensed under <a href="https://opendatacommons.org/licenses/odbl/" target="_blank" rel="noopener noreferrer">ODbL 1.0</a>.
+      </p>
+    </div>
+  </footer>
+
+  <!-- Skip link and mobile menu functionality -->
+  <script src="/assets/js/skip-links.js" defer></script>
+  <script src="/assets/js/mobile-menu.js" defer></script>
+
+  <!-- Header controls (spoon counter + emergency mode) -->
+  <script src="/assets/js/header-controls.js" defer></script>
+
+  <!-- Goal-based onboarding for first-time visitors -->
+  <script src="/assets/js/goal-based-onboarding.js" defer></script>
+
+  <!-- Content personalization engine (reads goal selection) -->
+  <script src="/assets/js/personalization.js" defer></script>
+
+  <!-- Utilities and controls -->
+  <script src="/assets/js/a11y.min.js" defer></script>
+  <script src="/assets/js/contrast.min.js" defer></script>
+  <script src="/assets/js/theme.min.js" defer></script>
+  <script src="/assets/js/back-to-top.min.js" defer></script>
+  <script src="/assets/js/settings.min.js" defer></script>
+  
+  <!-- Innovative Accessibility Features - Low Priority -->
+  <script src="/assets/js/accessibility-innovations.min.js" defer async></script>
+  
+  <!-- WCAG 2.2 AA+ Compliance Features -->
+  <script src="/assets/js/wcag-compliance.min.js" defer></script>
+  
+  <!-- WCAG 2.2 AAA Dynamic Enhancements - External links, touch targets, ARIA labels -->
+  <script src="/assets/js/wcag-aaa-dynamic.js" defer></script>
+
+  <!-- Cookie Consent (GDPR Compliance) - Load early to show banner -->
+    <!-- Cookie Consent (GDPR Compliance) - Load early to show banner --><!-- Cookie consent banner -->
+  <div id="cookie-banner" class="cookie-banner" role="dialog" aria-labelledby="cookie-banner-title" aria-describedby="cookie-banner-desc" hidden>
+    <div>
+      <h2 id="cookie-banner-title" style="font-size: 1rem; margin: 0 0 0.5rem;">Cookie Preferences</h2>
+      <p id="cookie-banner-desc" style="margin: 0 0 0.5rem;">We use cookies to improve your experience. <a href="/cookies/">Learn more</a>.</p>
+      <details style="margin: 0.5rem 0;">
+        <summary style="cursor: pointer; user-select: none;">Manage cookie settings</summary>
+        <div style="margin: 0.5rem 0; padding: 0.5rem; background: rgba(255,255,255,0.1); border-radius: 4px;">
+          <label for="cookie-essential-pref" style="display: flex; align-items: center; gap: 0.5rem; margin: 0.25rem 0;">
+            <input type="checkbox" id="cookie-essential-pref" checked disabled aria-disabled="true">
+            <span><strong>Essential cookies</strong> (required) - Necessary for the website to function</span>
+          </label>
+          <label for="cookie-analytics-pref" style="display: flex; align-items: center; gap: 0.5rem; margin: 0.25rem 0;">
+            <input type="checkbox" id="cookie-analytics-pref" aria-describedby="analytics-desc">
+            <span><strong>Analytics cookies</strong> (optional) - Help us understand how visitors use our site</span>
+          </label>
+          <p id="analytics-desc" style="margin: 0.25rem 0 0 1.75rem; font-size: 0.85em; color: rgba(255,255,255,0.8);">
+            We use privacy-friendly analytics with IP anonymization. No personal data is collected.
+          </p>
+        </div>
+      </details>
+    </div>
+    <div class="cookie-actions">
+      <button id="cookie-accept" type="button" class="button button--primary" aria-label="Accept all cookies">Accept all</button>
+      <button id="cookie-custom" type="button" class="button" aria-label="Save cookie preferences">Save preferences</button>
+      <button id="cookie-decline" type="button" class="button button--secondary" aria-label="Decline optional cookies">Decline optional</button>
+    </div>
+  </div>
+  <script>
+    (function(){
+      var KEY = 'cookie-consent';
+      var ANALYTICS_KEY = 'cookie-analytics';
+      var storageMode = 'localStorage';
+      function lsAvailable(){
+        try { var t='__t'; localStorage.setItem(t,'1'); localStorage.removeItem(t); return true; } catch(e){ return false; }
+      }
+      function cookieGet(k){
+        var m=document.cookie.match(new RegExp('(?:^|; )'+k.replace(/([.$?*|{}()\[\]\\\/\+^])/g,'\\$1')+'=([^;]*)'));
+        return m? decodeURIComponent(m[1]) : null;
+      }
+      function cookieSet(k,v,days){
+        var exp='';
+        if (days){ var d=new Date(); d.setTime(d.getTime()+days*864e5); exp='; expires='+d.toUTCString(); }
+        document.cookie=k+'='+encodeURIComponent(v)+exp+'; path=/; SameSite=Lax';
+      }
+      var haveLS = lsAvailable();
+      if (!haveLS) storageMode = 'cookie';
+      function get(k){
+        if (storageMode==='localStorage') return localStorage.getItem(k);
+        return cookieGet(k);
+      }
+      function set(k,v){
+        if (storageMode==='localStorage') { try { localStorage.setItem(k,v); } catch(e){} }
+        else cookieSet(k,v,365);
+      }
+      var banner = document.getElementById('cookie-banner');
+      var accept = document.getElementById('cookie-accept');
+      var custom = document.getElementById('cookie-custom');
+      var decline = document.getElementById('cookie-decline');
+      var analyticsPref = document.getElementById('cookie-analytics-pref');
+      if (!banner || !accept || !decline) return;
+      
+      // Show banner if no consent recorded
+      if (!get(KEY)) { 
+        banner.hidden = false;
+        banner.setAttribute('aria-hidden', 'false');
+      }
+      
+      // Load saved analytics preference
+      if (analyticsPref) {
+        analyticsPref.checked = get(ANALYTICS_KEY) === 'true';
+      }
+      
+      function emit(status, analytics){ 
+        try { 
+          window.dispatchEvent(new CustomEvent('cookie-consent', { 
+            detail: { 
+              status: status,
+              analytics: analytics 
+            } 
+          })); 
+        } catch(e){} 
+      }
+      
+      function closeBanner(status, analytics) {
+        set(KEY, status);
+        set(ANALYTICS_KEY, analytics.toString());
+        // Mirror into cookies if using localStorage so server/other scripts can read (lightweight)
+        if (storageMode==='localStorage') {
+          try { document.cookie = KEY + '=' + encodeURIComponent(status) + '; path=/; SameSite=Lax;'; } catch(e){}
+          try { document.cookie = ANALYTICS_KEY + '=' + encodeURIComponent(analytics.toString()) + '; path=/; SameSite=Lax;'; } catch(e){}
+        }
+        banner.hidden = true;
+        banner.style.display = 'none';
+        banner.setAttribute('aria-hidden', 'true');
+        emit(status, analytics);
+        if (window.announce) {
+          window.announce('Cookie preferences saved: ' + (analytics ? 'All cookies accepted' : 'Only essential cookies'));
+        }
+      }
+      
+      accept.addEventListener('click', function(){ 
+        closeBanner('accepted', true);
+      });
+      
+      if (custom) {
+        custom.addEventListener('click', function(){
+          var analyticsEnabled = analyticsPref ? analyticsPref.checked : false;
+          closeBanner('custom', analyticsEnabled);
+        });
+      }
+      
+      decline.addEventListener('click', function(){ 
+        closeBanner('declined', false);
+      });
+      if (!haveLS) {
+        console.log('[cookie-consent] localStorage unavailable, using cookies fallback');
+      }
+    })();
+  </script>
+
+  <!-- Newsletter modal (homepage only) -->
+  <div id="newsletter-modal" class="modal" role="dialog" aria-modal="true" aria-labelledby="newsletter-title" aria-describedby="newsletter-description" hidden>
+    <div class="modal-dialog newsletter-dialog" data-newsletter-dialog>
+      <div class="modal-header">
+        <h2 id="newsletter-title">Subscribe to our newsletter</h2>
+        <p id="newsletter-description" class="sr-only">
+          Get updates and news about 3mpwrApp. You can unsubscribe anytime. Form will open in a new window if needed.
+        </p>
+        <div class="modal-actions">
+          <a class="modal-link" href="https://docs.google.com/forms/d/e/1FAIpQLSfuItjmtWlUW3L8irmSe8QN129_GJDLAF4f5n-QHPcj_FFoyg/viewform" target="_blank" rel="noopener noreferrer">Open form in new tab</a>
+          <button id="newsletter-close" data-action="newsletter-close" type="button" aria-label="Close newsletter dialog" class="modal-close">×</button>
+        </div>
+      </div>
+      <div class="modal-body">
+        <iframe
+          title="3mpwrApp Newsletter Signup"
+          src="https://docs.google.com/forms/d/e/1FAIpQLSfuItjmtWlUW3L8irmSe8QN129_GJDLAF4f5n-QHPcj_FFoyg/viewform?embedded=true"
+          class="modal-iframe"
+          loading="lazy"
+        ></iframe>
+      </div>
+      <div class="modal-footer">
+        <label for="newsletter-dontshow" style="display:flex;align-items:center;gap:0.5rem;">
+          <input type="checkbox" id="newsletter-dontshow" />
+          Don’t show again
+        </label>
+        <div class="modal-buttons">
+          <button id="newsletter-dismiss" data-action="newsletter-dismiss" type="button" class="button button--secondary">Not now</button>
+          <button id="newsletter-subscribed" data-action="newsletter-subscribed" type="button" class="button">Already subscribed</button>
+          <button id="newsletter-done" data-action="newsletter-done" type="button" class="button button--primary">Done, go home</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    (function() {
+  var MODAL_KEY = 'newsletter-dismissed'; // legacy key (kept for compatibility)
+  var MODAL_SEEN = 'newsletter-seen'; // first-visit gating
+  var MODAL_SUB = 'newsletter-subscribed';
+  var modal = document.getElementById('newsletter-modal');
+  var closeBtn = document.getElementById('newsletter-close');
+  var dismissBtn = document.getElementById('newsletter-dismiss');
+  var subscribedBtn = document.getElementById('newsletter-subscribed');
+  var dialog = modal ? modal.querySelector('[data-newsletter-dialog]') : null;
+  var dontShow = document.getElementById('newsletter-dontshow');
+  var homeRoot = '/';
+      var isHome = (location.pathname === homeRoot || location.pathname === homeRoot + 'index.html');
+  var noModal = (new URLSearchParams(location.search)).get('no-modal') === '1';
+
+      function safeSet(key, val) {
+        try { localStorage.setItem(key, val); } catch (e) { /* ignore */ }
+      }
+      function safeGet(key) {
+        try { return localStorage.getItem(key); } catch (e) { return null; }
+      }
+
+      function closeModal() {
+        if (!modal) return;
+        modal.hidden = true;
+        modal.classList.remove('is-open');
+        modal.setAttribute('aria-hidden','true');
+        document.body.classList.remove('no-scroll');
+        if (window.announce) {
+          window.announce('Newsletter dialog closed');
+        }
+      }
+
+      function openModal() {
+        if (!modal) return;
+        modal.hidden = false;
+        modal.classList.add('is-open');
+        modal.removeAttribute('aria-hidden');
+        document.body.classList.add('no-scroll');
+        // Focus the dialog for a11y
+        if (dialog && dialog.focus) dialog.setAttribute('tabindex','-1'), dialog.focus();
+        if (window.announce) {
+          window.announce('Newsletter dialog opened');
+        }
+      }
+
+      function shouldShow() {
+        if (safeGet(MODAL_SUB) === '1') return false; // already subscribed
+        if (safeGet(MODAL_SEEN) === '1') return false; // first-visit only
+        return true;
+      }
+
+      // Newsletter popup disabled - users can access via newsletter link in footer
+      // if (modal && isHome && !noModal && shouldShow()) {
+      //   setTimeout(openModal, 400);
+      // }
+
+      function handleDismiss() {
+        safeSet(MODAL_KEY, '1'); // legacy
+        if (dontShow && dontShow.checked) {
+          safeSet(MODAL_SEEN, '1');
+        }
+        closeModal();
+      }
+
+  [closeBtn, dismissBtn].forEach(function(btn){ if (btn) btn.addEventListener('click', handleDismiss); });
+
+      var doneBtn = document.getElementById('newsletter-done');
+      if (doneBtn) {
+        doneBtn.addEventListener('click', function(){
+          handleDismiss();
+          safeSet(MODAL_SEEN, '1');
+          // Ensure we land on home
+          try { window.location.assign(homeRoot); } catch(e) {}
+        });
+      }
+
+      if (subscribedBtn) {
+        subscribedBtn.addEventListener('click', function(){
+          safeSet(MODAL_SUB, '1');
+          safeSet(MODAL_SEEN, '1');
+          closeModal();
+        });
+      }
+
+      // Delegated click handling using data-action for broader compatibility
+      document.addEventListener('click', function(e){
+        var t = e.target;
+        if (!t) return;
+        var action = t.getAttribute && t.getAttribute('data-action');
+        if (!action && t.closest) {
+          var closest = t.closest('[data-action]');
+          if (closest) action = closest.getAttribute('data-action');
+        }
+        if (!action) return;
+        if (action === 'newsletter-close' || action === 'newsletter-dismiss') {
+          handleDismiss();
+        } else if (action === 'newsletter-subscribed') {
+          safeSet(MODAL_SUB, '1');
+          safeSet(MODAL_SEEN, '1');
+          closeModal();
+        } else if (action === 'newsletter-done') {
+          handleDismiss();
+          try { window.location.assign(homeRoot); } catch(e) {}
+        }
+      }, true);
+
+      // Close on ESC and trap focus while open
+      document.addEventListener('keydown', function(e){
+        if (!modal || modal.hidden) return;
+        if (e.key === 'Escape') {
+          safeSet(MODAL_KEY, '1');
+          if (dontShow && dontShow.checked) safeSet(MODAL_SEEN, '1');
+          closeModal();
+          return;
+        }
+        if (e.key === 'Tab') {
+          var focusables = dialog ? dialog.querySelectorAll('a[href], button:not([disabled]), input:not([disabled]), select:not([disabled]), textarea:not([disabled]), [tabindex]:not([tabindex="-1"])') : [];
+          focusables = Array.prototype.slice.call(focusables).filter(function(el){ return el.offsetParent !== null; });
+          if (focusables.length === 0) return;
+          var first = focusables[0];
+          var last = focusables[focusables.length - 1];
+          var active = document.activeElement;
+          if (e.shiftKey) {
+            if (active === first || !dialog.contains(active)) {
+              e.preventDefault();
+              last.focus();
+            }
+          } else {
+            if (active === last || !dialog.contains(active)) {
+              e.preventDefault();
+              first.focus();
+            }
+          }
+        }
+      }, true);
+
+      // Close on backdrop click (but not when clicking inside dialog)
+      if (modal) {
+        modal.addEventListener('click', function(e){
+          if (e.target === modal) {
+            safeSet(MODAL_KEY, '1');
+            if (dontShow && dontShow.checked) safeSet(MODAL_SEEN, '1');
+            closeModal();
+          }
+        });
+      }
+
+      // Optional: if Google Form redirects back, auto-dismiss next visit
+      if (document.referrer && document.referrer.includes('docs.google.com/forms')) {
+        safeSet(MODAL_KEY, '1');
+        safeSet(MODAL_SEEN, '1');
+      }
+    })();
+  </script>
+
+  <!-- Back to top button -->
+  <button
+    id="back-to-top"
+    class="back-to-top"
+    type="button"
+    aria-label="Back to top"
+    aria-hidden="true"
+    tabindex="-1"
+  >
+    ↑ Back to top
+  </button>
+
+  <!-- Service Worker Registration -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function() {
+        navigator.serviceWorker.register('/sw.js')
+          .then(function(registration) {
+            console.log('[SW] Registration successful:', registration.scope);
+            
+            // Check for updates every hour
+            setInterval(function() {
+              registration.update();
+            }, 3600000);
+            
+            // Show update notification when new service worker is waiting
+            registration.addEventListener('updatefound', function() {
+              var newWorker = registration.installing;
+              if (!newWorker) return;
+              
+              newWorker.addEventListener('statechange', function() {
+                if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
+                  // New service worker available
+                  if (confirm('A new version of 3mpwrApp is available! Reload to update?')) {
+                    newWorker.postMessage({ action: 'skipWaiting' });
+                    window.location.reload();
+                  }
+                }
+              });
+            });
+          })
+          .catch(function(error) {
+            console.log('[SW] Registration failed:', error);
+          });
+        
+        // Auto-reload when new service worker takes control
+        var refreshing = false;
+        navigator.serviceWorker.addEventListener('controllerchange', function() {
+          if (refreshing) return;
+          refreshing = true;
+          window.location.reload();
+        });
+      });
+    }
+  </script>
+
+  <!-- Lazy Loading Script -->
+  <script src="/assets/js/lazy-load.min.js" defer></script>
+
+  <!-- Social Share Component Script -->
+  <script src="/assets/js/social-share.js" defer></script>
+
+  <!-- Performance Monitoring (development only - disable in production if needed) -->
+  <script src="/assets/js/performance-monitor.min.js" defer></script>
+
+  <!-- What's New Badge -->
+  <script src="/assets/js/whatsnew-badge.js" defer></script><!-- Cloudflare Web Analytics -->
+  <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "fef378cf7f9742c582f28f566e204a85"}'></script>
+  <!-- End Cloudflare Web Analytics -->
+</body>
+</html>

@@ -7,6 +7,7 @@ excerpt: Plain-language guide to understanding tribunal decision outcomes—Allo
 date: 2026-04-28
 last_updated: 2026-04-28
 description: When you read a tribunal decision, the outcome tells you **who won**. But tribunal language can be confusing. Here's what each outcome means in plain Engli
+---
 
 
 # Understanding Tribunal Outcomes: What Do They Mean?

@@ -1,0 +1,6 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+Sitemap: https://3mpwrapp.ca/sitemap.xml
+Sitemap: https://3mpwrapp.ca/image-sitemap.xml

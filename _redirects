@@ -35,3 +35,10 @@ https://www.3mpwrapp.ca/* https://3mpwrapp.ca/:splat 301!
 
 # SPA fallback for remaining routes (lower priority)
 /* /index.html 200
+
+# Newly-unexcluded public pages (audit fix 2026-09-12)
+/knowledge-base /knowledge-base/ 200
+/app-tour /app-tour/ 200
+/app-waitlist /app-waitlist/ 200
+/roadmap /roadmap/ 200
+/how-to-use-this-data /how-to-use-this-data/ 200

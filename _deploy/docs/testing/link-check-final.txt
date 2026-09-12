@@ -1,0 +1,189 @@
+npx : =É≈ËG«ÏG÷Èn+≈ crawling https://3mpwrapp.ca
+At line:1 char:1
++ npx linkinator https://3mpwrapp.ca --recurse --timeout 10000 - ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (=É≈ËG«ÏG÷Èn+≈ c...wrapp.pages 
+   .dev:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+[200] https://3mpwrapp.ca/
+[200] https://3mpwrapp.ca/
+[200] https://3mpwrapp.ca/assets/css/style.min.css
+[200] https://3mpwrapp.ca/assets/empwrapp-logo.png
+[200] https://3mpwrapp.ca/assets/css/design-system.min.css
+[200] https://3mpwrapp.ca/assets/css/style.css
+[200] https://3mpwrapp.ca/assets/icons/icon-512.png
+[200] https://3mpwrapp.ca/manifest.json
+[200] https://3mpwrapp.ca/assets/icons/icon-192.png
+[200] https://3mpwrapp.ca/whats-new/feed.xml
+[200] https://3mpwrapp.ca/assets/favicon.svg
+[200] https://3mpwrapp.ca/assets/css/accessibility-tokens.min.css
+[200] https://3mpwrapp.ca/assets/site.webmanifest
+[200] https://3mpwrapp.ca/assets/css/accessibility-enhancements.min.css
+[200] https://3mpwrapp.ca/assets/css/performance-optimizations.min.css
+[200] https://3mpwrapp.ca/assets/css/lighthouse-fixes.min.css
+[200] https://3mpwrapp.ca/assets/empwrapp-logo.webp
+[200] https://3mpwrapp.ca/assets/css/header-overrides.css
+[200] https://3mpwrapp.ca/assets/css/cookie-consent.css
+[200] https://3mpwrapp.ca/fr/
+[200] https://3mpwrapp.ca/contact
+[200] https://3mpwrapp.ca/curation/news/2025/10/26/daily-curation/
+[200] https://3mpwrapp.ca/feed.xml
+[200] https://3mpwrapp.ca/blog/
+[404] https://3mpwrapp.ca/%20width=
+[200] https://3mpwrapp.ca/curation/news/2025/10/25/daily-curation/
+[200] https://3mpwrapp.ca/curation/news/2025/10/27/daily-curation/
+[200] https://3mpwrapp.ca/assets/downloads/3mpwrapp-user-guide-full.pdf
+[200] https://3mpwrapp.ca/privacy/
+[200] https://3mpwrapp.ca/terms/
+[200] https://3mpwrapp.ca/community/guidelines/
+[200] https://3mpwrapp.ca/features/2025/10/27/feature-spotlight-campaign-coordination/
+[200] https://3mpwrapp.ca/updates/2025/10/21/weekly-update-week-43/
+[200] https://3mpwrapp.ca/updates/2025/10/27/weekly-update-week-44/
+[200] https://3mpwrapp.ca/legal/disclaimers/
+[200] https://3mpwrapp.ca/assets/css/homepage-animations.css
+[200] https://3mpwrapp.ca/assets/css/design-system.css
+[200] https://www.tiktok.com/@3mpwrapp
+[200] https://3mpwrapp.ca/data-ownership/
+[200] https://3mpwrapp.ca/assets/js/homepage-features.js
+[200] https://3mpwrapp.ca/assets/js/accessibility-toolbar.js
+[200] https://3mpwrapp.ca/privacy-controls/
+[200] https://3mpwrapp.ca/cookies/
+[200] https://3mpwrapp.ca/faq/
+[200] https://3mpwrapp.ca/feature-deep-dive/accessibility/chronic-pain/2025/10/28/pain-flare-mode-deep-dive/
+[200] https://3mpwrapp.ca/features/
+[200] https://3mpwrapp.ca/roadmap/
+[200] https://3mpwrapp.ca/user-guide/
+[200] https://3mpwrapp.ca/accessibility-walkthrough/
+[200] https://3mpwrapp.ca/delete-data/
+[200] https://3mpwrapp.ca/assets/js/contrast.min.js
+[200] https://3mpwrapp.ca/delete-account
+[200] https://3mpwrapp.ca/accessibility-settings/
+[200] https://3mpwrapp.ca/site-map/
+[200] https://3mpwrapp.ca/assets/js/skip-links.js
+[200] https://3mpwrapp.ca/assets/js/a11y.min.js
+[200] https://3mpwrapp.ca/assets/js/mobile-menu.js
+[200] https://mastodon.social/@3mpwrApp
+[200] https://3mpwrapp.ca/user-guide
+[200] https://docs.google.com/forms/d/e/1FAIpQLScY599ZYJtpRakd421ADGZumejk2WjmbVvpUknw2uHAzTNx9A/viewform?usp=header
+[200] https://docs.google.com/forms/d/e/1FAIpQLSfuItjmtWlUW3L8irmSe8QN129_GJDLAF4f5n-QHPcj_FFoyg/viewform?embedded=true
+[200] https://docs.google.com/forms/d/e/1FAIpQLSfuItjmtWlUW3L8irmSe8QN129_GJDLAF4f5n-QHPcj_FFoyg/viewform
+[200] https://3mpwrapp.ca/assets/js/back-to-top.min.js
+[200] https://3mpwrapp.ca/contact/
+[200] https://3mpwrapp.ca/assets/js/theme.min.js
+[200] https://3mpwrapp.ca/assets/js/settings.min.js
+[200] https://3mpwrapp.ca/assets/js/accessibility-innovations.min.js
+[200] https://3mpwrapp.ca/assets/js/lazy-load.min.js
+[200] https://static.cloudflareinsights.com/beacon.min.js
+[200] https://3mpwrapp.ca/assets/js/performance-monitor.min.js
+[200] https://3mpwrapp.ca/assets/js/wcag-compliance.min.js
+[200] https://3mpwrapp.ca/features
+[200] https://3mpwrapp.ca/roadmap
+[200] https://3mpwrapp.ca/crisis-resources
+[200] https://3mpwrapp.ca/blog
+[200] https://3mpwrapp.ca/about
+[200] https://3mpwrapp.ca/faq
+[200] https://3mpwrapp.ca/events
+[200] https://3mpwrapp.ca/beta-guide
+[200] https://3mpwrapp.ca/newsletter
+[200] https://3mpwrapp.ca/search
+[200] https://3mpwrapp.ca/accessibility
+[200] https://3mpwrapp.ca/accessibility-settings
+[200] https://3mpwrapp.ca/site-map
+[200] https://3mpwrapp.ca/app-waitlist
+[200] https://3mpwrapp.ca/whats-new
+[200] https://3mpwrapp.ca/community-spotlight
+[200] https://3mpwrapp.ca/campaigns
+[200] https://3mpwrapp.ca/connect
+[200] https://3mpwrapp.ca/feedback?page=home&helpful=no
+[200] https://3mpwrapp.ca/feedback?page=home
+[200] https://bsky.app/profile/3mpwrapp.bsky.social
+[200] https://3mpwrapp.ca/feedback?page=home&helpful=yes
+[200] https://3mpwrapp.ca/beta
+[200] https://x.com/3mpowrapp0816
+[200] https://x.com/3mpowrApp0816
+[200] https://forms.gle/46yVp37vfitfitLT9
+[200] https://3mpwrapp.ca/delete-data
+[200] https://3mpwrapp.ca/privacy
+[200] https://3mpwrapp.ca/privacy-controls
+[200] https://3mpwrapp.ca/fr/contact
+[200] https://3mpwrapp.ca/fr/faq
+[200] https://3mpwrapp.ca/fr/campaigns
+[200] https://3mpwrapp.ca/fr/community-spotlight
+[200] https://3mpwrapp.ca/fr/accessibility-settings
+[200] https://3mpwrapp.ca/fr/whats-new
+[200] https://3mpwrapp.ca/fr/about
+[200] https://3mpwrapp.ca/fr/blog
+[200] https://3mpwrapp.ca/fr/newsletter
+[200] https://3mpwrapp.ca/fr/features
+[200] https://3mpwrapp.ca/robots.txt
+[200] https://3mpwrapp.ca/fr/connect
+[200] https://3mpwrapp.ca/404.html
+[200] https://3mpwrapp.ca/sitemap.xml
+[200] https://3mpwrapp.ca/fr/search
+[200] https://3mpwrapp.ca/assets/js/settings.js
+[200] https://3mpwrapp.ca/community
+[200] https://3mpwrapp.ca/terms
+[200] https://3mpwrapp.ca/accessibility-walkthrough
+[200] https://3mpwrapp.ca/data-ownership
+[200] https://3mpwrapp.ca/cookies
+[200] https://3mpwrapp.ca/assets/css/contact.css
+[200] https://3mpwrapp.ca/assets/css/page-enhancements.css
+[200] https://3mpwrapp.ca/assets/js/contact.js
+[404] https://3mpwrapp.ca/features/2025
+[404] https://3mpwrapp.ca/features/2025/10
+[404] https://3mpwrapp.ca/features/2025/10/27
+[200] https://3mpwrapp.ca/beta/
+[200] https://3mpwrapp.ca/newsletter/
+[200] https://3mpwrapp.ca/events/
+[200] https://3mpwrapp.ca/accessibility/
+[404] https://3mpwrapp.ca/updates
+[404] https://3mpwrapp.ca/updates/2025
+[404] https://3mpwrapp.ca/updates/2025/10
+[404] https://3mpwrapp.ca/updates/2025/10/21
+[200] https://3mpwrapp.ca/whats-new/
+[200] https://3mpwrapp.ca/fr/user-guide
+[404] https://3mpwrapp.ca/updates/2025/10/27
+[200] https://3mpwrapp.ca/curation/news/2025/10/22/daily-curation/
+[200] https://3mpwrapp.ca/curation/news/2025/10/24/daily-curation/
+[200] https://3mpwrapp.ca/curation/news/2025/10/21/daily-curation/
+[200] https://3mpwrapp.ca/features/2025/10/25/feature-spotlight-legal-workflow-automation/
+[200] https://3mpwrapp.ca/features/2025/10/24/feature-spotlight-evidence-locker/
+[200] https://3mpwrapp.ca/features/2025/10/23/feature-spotlight-master-letter-generator/
+[200] https://3mpwrapp.ca/curation/news/2025/10/23/daily-curation/
+[200] https://3mpwrapp.ca/features/2025/10/22/feature-spotlight-disability-wizard/
+[200] https://3mpwrapp.ca/features/2025/10/21/feature-spotlight-energy-forecast-smart-scheduling/
+[200] https://3mpwrapp.ca/features/2025/10/26/feature-spotlight-indigenous-language-support/
+[200] https://3mpwrapp.ca/features/2025/10/20/3mpwrapp-feature/
+[200] https://3mpwrapp.ca/community/news/2025/10/17/weekly-recap/
+[200] https://3mpwrapp.ca/accessibility/innovation/website-features/2025/10/25/groundbreaking-website-accessibility-features/
+[200] https://3mpwrapp.ca/news/2025/10/03/welcome-to-3mpowr/
+[200] https://3mpwrapp.ca/curation/news/2025/10/18/daily-curation/
+[200] https://3mpwrapp.ca/curation/news/2025/10/17/comprehensive-daily-digest/
+[404] https://3mpwrapp.ca/curation/news
+[404] https://3mpwrapp.ca/curation/news/2025
+[200] https://3mpwrapp.ca/curation/news/2025/10/17/daily-curation/
+[404] https://3mpwrapp.ca/curation
+[404] https://3mpwrapp.ca/curation/news/2025/10
+[404] https://3mpwrapp.ca/curation/news/2025/10/27
+[200] https://3mpwrapp.ca/feature-spotlight/accessibility/energy-management/2025/10/26/spoon-theory-meets-web-design/
+[200] https://3mpwrapp.ca/platform-comparison/features/2025/10/27/app-vs-website-comparison/
+[404] https://3mpwrapp.ca/feature-deep-dive
+
+node:events:502
+      throw er; // Unhandled 'error' event
+      ^
+DOMException [TimeoutError]: The operation was aborted due to timeout
+    at new DOMException (node:internal/per_context/domexception:53:5)
+    at Timeout._onTimeout (node:internal/abort_controller:129:9)
+    at listOnTimeout (node:internal/timers:581:17)
+    at process.processTimers (node:internal/timers:519:7)
+Emitted 'error' event on Readable instance at:
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at listOnTimeout (node:internal/timers:545:9)
+    at process.processTimers (node:internal/timers:519:7)
+
+Node.js v20.19.4

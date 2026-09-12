@@ -1,0 +1,59 @@
+[
+  {
+    "id": "rights-dont-retire",
+    "title": "Rights Don't Retire",
+    "slug": "rights-dont-retire",
+    "description": "Join the grassroots campaign demanding justice for injured workers over 65. Take 1 minute to write the Minister of Labour and your MPP about this urgent issue using our easy advocacy tool.",
+    "category": "workers-rights",
+    "status": "active",
+    "startDate": "2024-11-01",
+    "endDate": null,
+    "goalType": "signatures",
+    "goalTarget": 10000,
+    "currentProgress": 0,
+    "actionUrl": "https://injuredworkersonline.org/rightsdontretire/",
+    "hashtags": ["#RightsDontRetire", "#WorkersRights", "#DisabilityJustice"],
+    "links": {
+      "campaign": "https://injuredworkersonline.org/rightsdontretire/",
+      "action": "https://injuredworkersonline.org/rightsdontretire/",
+      "report": "https://injuredworkersonline.org/wp-content/uploads/2025/11/Rights-Dont-Retire-Report.pdf",
+      "reportRelease": "https://iwclc.org/rights-dont-retire-report-release/"
+    },
+    "organizers": [
+      {
+        "name": "3mpwrApp Community",
+        "type": "grassroots"
+      }
+    ],
+    "visibility": "public",
+    "featured": true
+  },
+  {
+    "id": "bill-105",
+    "title": "Bill 105 — WSIB Injured Workers Lock-In",
+    "slug": "bill-105",
+    "description": "Bill 86 was defeated. Bill 105 has been introduced to replace it — and it would lock injured workers into the current WSIB system. Demand closer scrutiny and stronger worker protections in Ontario. Use the lobby kit to take action now.",
+    "category": "legislation",
+    "status": "active",
+    "startDate": "2026-09-01",
+    "endDate": null,
+    "goalType": "signatures",
+    "goalTarget": 5000,
+    "currentProgress": 0,
+    "actionUrl": "https://injuredworkersonline.org/bill-105-lobby-kit/",
+    "hashtags": ["#Bill105", "#WorkersRights", "#Ontario", "#WSIB"],
+    "links": {
+      "campaign": "https://injuredworkersonline.org/a-call-for-closer-scrutiny-of-bill-105s-changes-to-workers-compensation/",
+      "news": "https://www.cbc.ca/news/canada/toronto/bill-105-wsib-injured-workers-lock-in-9.7337854",
+      "lobbyKit": "https://injuredworkersonline.org/bill-105-lobby-kit/"
+    },
+    "organizers": [
+      {
+        "name": "Injured Workers Community",
+        "type": "coalition"
+      }
+    ],
+    "visibility": "public",
+    "featured": true
+  }
+]

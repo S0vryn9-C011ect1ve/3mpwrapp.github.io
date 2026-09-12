@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "generatedAt": "2026-05-08T19:37:58.564Z",
+    "tribunals": [
+      "ONSBT",
+      "ONWSIB"
+    ],
+    "totalDecisions": 14761,
+    "description": "Classification results for Ontario Social Benefits Tribunal (ONSBT) and Ontario WSIB Internal Review (ONWSIB) decisions"
+  },
+  "onsbt": {
+    "overallStats": {
+      "total": 14298,
+      "dateRange": "2020-2026",
+      "clearOutcomes": 8071,
+      "workerWins": 7983,
+      "winRate": 98.9,
+      "unclearRate": 34.3
+    },
+    "outcomeDistribution": [
+      {
+        "outcome": "allowed",
+        "count": 7983,
+        "percentage": 55.8
+      },
+      {
+        "outcome": "unclear",
+        "count": 4906,
+        "percentage": 34.3
+      },
+      {
+        "outcome": "other",
+        "count": 1321,
+        "percentage": 9.2
+      },
+      {
+        "outcome": "denied",
+        "count": 88,
+        "percentage": 0.6
+      }
+    ],
+    "confidenceDistribution": {
+      "high": 9392,
+      "medium": 1321,
+      "low": 3585
+    }
+  },
+  "onwsib": {
+    "overallStats": {
+      "total": 463,
+      "dateRange": "2020-2026",
+      "clearOutcomes": 20,
+      "workerWins": 17,
+      "winRate": 89.5,
+      "winRateNote": "Classified-only rate from a very small visible subset; not reliable as a system-wide ONWSIB success rate.",
+      "unclearRate": 95.7
+    },
+    "outcomeDistribution": [
+      {
+        "outcome": "unclear",
+        "count": 443,
+        "percentage": 95.7
+      },
+      {
+        "outcome": "granted",
+        "count": 17,
+        "percentage": 3.7
+      },
+      {
+        "outcome": "denied",
+        "count": 2,
+        "percentage": 0.4
+      },
+      {
+        "outcome": "other",
+        "count": 1,
+        "percentage": 0.2
+      }
+    ],
+    "confidenceDistribution": {
+      "high": 1,
+      "medium": 19,
+      "low": 443
+    }
+  },
+  "crossTribunalComparison": {
+    "tribunals": [
+      {
+        "name": "WSIAT",
+        "total": 11430,
+        "clearOutcomes": 393,
+        "clearRate": 3.4,
+        "winRate": 89.1,
+        "unclearRate": 77
+      },
+      {
+        "name": "ONSBT",
+        "total": 14298,
+        "clearOutcomes": 8071,
+        "clearRate": 56.4,
+        "winRate": 98.9,
+        "unclearRate": 34.3
+      },
+      {
+        "name": "ONWSIB",
+        "total": 463,
+        "clearOutcomes": 20,
+        "clearRate": 4.3,
+        "winRate": 89.5,
+        "winRateNote": "Classified-only subset",
+        "unclearRate": 95.7
+      }
+    ]
+  },
+  "visualizationSuggestions": [
+    {
+      "type": "comparison-bar",
+      "title": "Ontario Tribunals: Clear Outcome Rates",
+      "description": "Compare WSIAT (3.4%), ONSBT (56.4%), and ONWSIB (4.3%) clear outcome rates",
+      "chartType": "horizontal-bar",
+      "dataSource": "crossTribunalComparison.tribunals[].clearRate"
+    },
+    {
+      "type": "pie-chart",
+      "title": "ONSBT Outcome Distribution (14,298 decisions)",
+      "description": "Breakdown showing 55.8% allowed, 34.3% unclear, 9.2% other, 0.6% denied",
+      "chartType": "pie",
+      "dataSource": "onsbt.outcomeDistribution"
+    },
+    {
+      "type": "stacked-bar",
+      "title": "Classified Outcome Snapshot: WSIAT vs ONSBT vs ONWSIB",
+      "description": "Use caution when comparing ONWSIB win rates because 95.7% of public outcomes remain unresolved",
+      "chartType": "stacked-bar",
+      "dataSource": "crossTribunalComparison.tribunals[].winRate"
+    },
+    {
+      "type": "donut-chart",
+      "title": "ONWSIB Internal Review Outcomes (463 decisions)",
+      "description": "95.7% unresolved outcomes highlight the lack of explicit public outcome language in internal reviews",
+      "chartType": "donut",
+      "dataSource": "onwsib.outcomeDistribution"
+    }
+  ],
+  "keyFindings": [
+    "ONSBT has far higher clear-outcome visibility than ONWSIB and WSIAT.",
+    "ONSBT shows 98.9% worker success rate from clear outcomes - highest among the compared Ontario tribunals.",
+    "ONWSIB internal reviews remain 95.7% unresolved in public records, preventing a reliable system-wide success-rate claim.",
+    "Social benefits eligibility determinations are more explicit than workplace injury decisions.",
+    "The reconciled ONWSIB archive now aligns fully with observed CanLII browse counts for 2020-2026."
+  ]
+}

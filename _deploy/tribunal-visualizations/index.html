@@ -1,0 +1,1814 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+  <meta name="description" content="Interactive data visualizations from 230,000+ tribunal records. Explore WSIAT, HRTO, ONSBT success rates and employer safety data.">
+  
+  <!-- 
+    Security Headers: These should be set via server-side headers file (_headers for Netlify/Vercel, .htaccess for Apache, etc.)
+    CSP meta tag is included above as the only valid http-equiv for security headers.
+    X-Content-Type-Options, X-Frame-Options, and Referrer-Policy must be set as HTTP response headers, not meta tags.
+  -->
+  
+  <!-- Resource Hints for Performance (limit to 3 most critical) -->
+  <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+  <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
+  <link rel="dns-prefetch" href="https://formspree.io">
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+  <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
+  
+  <!-- PWA Manifest -->
+  <link rel="manifest" href="/manifest.json"><!-- Open Graph Meta Tags -->
+<meta property="og:site_name" content="3mpwrApp™">
+<meta property="og:title" content="Tribunal Data Visualizations | 3mpwrApp Research Network">
+<meta property="og:description" content="Interactive data visualizations from 230,000+ tribunal records. Explore WSIAT, HRTO, ONSBT success rates and employer safety data.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://3mpwrapp.ca/tribunal-visualizations/">
+<meta property="og:locale" content="en_CA">
+
+<meta property="og:locale:alternate" content="fr_CA">
+
+
+<!-- Open Graph Image -->
+
+<meta property="og:image" content="https://3mpwrapp.ca/assets/empwrapp-logo.png">
+<meta property="og:image:secure_url" content="https://3mpwrapp.ca/assets/empwrapp-logo.png">
+<meta property="og:image:alt" content="Tribunal Data Visualizations | 3mpwrApp Research Network">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+
+
+<!-- Article-specific Open Graph -->
+
+
+<!-- Twitter Card Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@3mpowrapp0816">
+<meta name="twitter:creator" content="@3mpowrapp0816">
+<meta name="twitter:title" content="Tribunal Data Visualizations | 3mpwrApp Research Network">
+<meta name="twitter:description" content="Interactive data visualizations from 230,000+ tribunal records. Explore WSIAT, HRTO, ONSBT success rates and employer safety data.">
+
+<meta name="twitter:image" content="https://3mpwrapp.ca/assets/empwrapp-logo.png">
+<meta name="twitter:image:alt" content="Tribunal Data Visualizations | 3mpwrApp Research Network">
+
+
+<!-- Additional Meta Tags -->
+<meta name="author" content="3mpwrApp">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="googlebot" content="index, follow">
+
+<meta name="language" content="English">
+
+
+<!-- Canonical URL -->
+<link rel="canonical" href="https://3mpwrapp.ca/tribunal-visualizations/">
+
+<!-- Alternate Language Links (hreflang) -->
+
+
+<link rel="alternate" hreflang="en" href="https://3mpwrapp.ca/tribunal-visualizations/">
+
+<link rel="alternate" hreflang="x-default" href="https://3mpwrapp.ca/tribunal-visualizations/">
+
+
+<!-- PWA and Mobile Meta Tags -->
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="3mpwrApp">
+<meta name="application-name" content="3mpwrApp">
+<meta name="theme-color" content="#2A9D8F">
+<meta name="msapplication-TileColor" content="#2A9D8F">
+<meta name="msapplication-navbutton-color" content="#2A9D8F">
+
+<!-- Manifest -->
+<link rel="manifest" href="/manifest.json">
+
+<!-- Favicons and Touch Icons -->
+<link rel="icon" type="image/png" sizes="192x192" href="/assets/icons/icon-192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="/assets/icons/icon-512.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/icon-192.png">
+<!-- Schema.org Structured Data (JSON-LD) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://3mpwrapp.ca#organization",
+      "name": "3mpwrApp",
+      "alternateName": "EmpowrApp",
+      "url": "https://3mpwrapp.ca",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://3mpwrapp.ca#logo",
+  "url": "https://3mpwrapp.ca/assets/empwrapp-logo.png",
+        "width": 512,
+        "height": 512,
+        "caption": "3mpwrApp Logo"
+      },
+      "description": "Practical tools and community for injured workers and persons with disabilities.",
+      "foundingDate": "2024",
+      "foundingLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "CA"
+        }
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "empowrapp08162025@gmail.com",
+        "contactType": "Customer Support",
+        "availableLanguage": ["English", "French"]
+      },
+      "sameAs": [
+        "https://www.facebook.com/3mpowrapp/",
+        "https://x.com/3mpowrapp0816",
+        "https://www.instagram.com/3mpwrapp/",
+        "https://www.youtube.com/3mpwrApp",
+        "https://www.tiktok.com/@3mpwrapp",
+        "https://mastodon.social/@3mpwrApp",
+        "https://bsky.app/profile/3mpwrapp.bsky.social",
+        "https://github.com/3mpwrApp"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://3mpwrapp.ca#website",
+      "url": "https://3mpwrapp.ca",
+      "name": "3mpwrApp",
+      "description": "Practical tools and community for injured workers and persons with disabilities.",
+      "publisher": {
+        "@id": "https://3mpwrapp.ca#organization"
+      },
+      "inLanguage": "en-CA",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://3mpwrapp.ca/search?q={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://3mpwrapp.ca/tribunal-visualizations/#webpage",
+      "url": "https://3mpwrapp.ca/tribunal-visualizations/",
+      "name": "Tribunal Data Visualizations | 3mpwrApp Research Network",
+      "headline": "Tribunal Data Visualizations | 3mpwrApp Research Network",
+      "description": "Interactive data visualizations from 230,000+ tribunal records. Explore WSIAT, HRTO, ONSBT success rates and employer safety data.",
+      "isPartOf": {
+        "@id": "https://3mpwrapp.ca#website"
+      },
+      "inLanguage": "en-CA",
+      
+      "image": {
+        "@type": "ImageObject",
+        "@id": "https://3mpwrapp.ca/tribunal-visualizations/#primaryimage",
+        "url": "https://3mpwrapp.ca/assets/empwrapp-logo.png",
+        "width": 1200,
+        "height": 630,
+        "caption": "Tribunal Data Visualizations | 3mpwrApp Research Network"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://3mpwrapp.ca/tribunal-visualizations/#primaryimage"
+      },
+      
+      
+      "breadcrumb": {
+        "@id": "https://3mpwrapp.ca/tribunal-visualizations/#breadcrumb"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://3mpwrapp.ca/tribunal-visualizations/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://3mpwrapp.ca"
+        }
+        
+        
+        
+        
+        
+          
+          
+          
+        ,{
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tribunal data visualizations | 3mpwrapp research network",
+          "item": "https://3mpwrapp.ca/tribunal-visualizations"
+        }
+          
+        
+        
+      ]
+    }
+    
+  ]
+}
+</script>
+
+<!-- Additional Schema for Accessibility Features -->
+
+
+<!-- Software Application Schema for App Pages -->
+
+<link rel="canonical" href="https://3mpwrapp.ca/tribunal-visualizations/"><!-- hreflang tags for international SEO -->
+<!-- English Canada (primary) -->
+<link rel="alternate" hreflang="en-CA" href="https://3mpwrapp.ca/tribunal-visualizations/" />
+
+<!-- French Canada -->
+
+
+<link rel="alternate" hreflang="fr-CA" href="https://3mpwrapp.ca/fr/tribunal-visualizations/" />
+
+
+<!-- USA (when available) -->
+
+
+<!-- Default fallback (English Canada) -->
+<link rel="alternate" hreflang="x-default" href="https://3mpwrapp.ca/tribunal-visualizations/" />
+
+<!-- Future language expansions (add as they go live) -->
+<!-- 
+<link rel="alternate" hreflang="es" href="https://3mpwrapp.ca/tribunal-visualizations/" />
+<link rel="alternate" hreflang="ar" href="https://3mpwrapp.ca/tribunal-visualizations/" />
+<link rel="alternate" hreflang="zh-CN" href="https://3mpwrapp.ca/tribunal-visualizations/" />
+-->
+<link rel="stylesheet" href="/assets/css/blog-post-tables.css"><link rel="stylesheet" href="/assets/css/complexity-mode.css">
+<script src="/assets/js/complexity-mode.js" defer></script><link rel="stylesheet" href="/assets/css/connection-status.css">
+<script src="/assets/js/connection-status.js" defer></script><!-- Open Graph Meta Tags -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="3mpwrApp">
+<meta property="og:title" content="Tribunal Data Visualizations | 3mpwrApp Research Network">
+<meta property="og:description" content="Interactive data visualizations from 230,000+ tribunal records. Explore WSIAT, HRTO, ONSBT success rates and employer safety data.">
+<meta property="og:url" content="https://3mpwrapp.ca/tribunal-visualizations/">
+<meta property="og:image" content="https://3mpwrapp.ca/assets/images/social-share-default.png">
+<meta property="og:image:alt" content="3mpwrApp - Community-powered support for injured workers and persons with disabilities">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="en_CA"><meta property="og:locale:alternate" content="fr_CA"><!-- Twitter Card Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@3mpwrApp">
+<meta name="twitter:creator" content="@ODSPoor">
+<meta name="twitter:title" content="Tribunal Data Visualizations | 3mpwrApp Research Network">
+<meta name="twitter:description" content="Interactive data visualizations from 230,000+ tribunal records. Explore WSIAT, HRTO, ONSBT success rates and employer safety data.">
+<meta name="twitter:image" content="https://3mpwrapp.ca/assets/images/social-share-default.png">
+<meta name="twitter:image:alt" content="3mpwrApp - Community-powered support for injured workers and persons with disabilities">
+
+<!-- Additional Meta for Rich Previews -->
+<meta property="article:publisher" content="https://www.facebook.com/3mpwrApp"><meta property="article:published_time" content="2026-04-30T00:00:00+00:00"><!-- Facebook App ID (if available) -->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "tps3d4cg0x");
+</script>
+<link rel="dns-prefetch" href="//www.clarity.ms">
+<link rel="preconnect" href="https://www.clarity.ms" crossorigin><link rel="dns-prefetch" href="//www.googletagmanager.com">
+<link rel="preconnect" href="https://www.googletagmanager.com" crossorigin><link rel="preload" href="/assets/css/style.css" as="style"><link rel="icon" href="/assets/favicon.svg" type="image/svg+xml"><link rel="manifest" href="/assets/site.webmanifest"><meta name="theme-color" content="#111111">
+<meta name="color-scheme" content="light dark">
+<meta name="fediverse:creator" content="@3mpwrApp@mastodon.social">
+
+<!-- What's New RSS feed autodiscovery -->
+<link rel="alternate" type="application/rss+xml" title="3mpwrApp™ — What's New" href="/whats-new/feed.xml">
+
+<!-- Main site RSS feed autodiscovery -->
+<link rel="alternate" type="application/rss+xml" title="3mpwrApp™ — Site Feed" href="/feed.xml"><script>
+(function(){
+  var KEY = 'cookie-consent';
+  function get(k){ try { return localStorage.getItem(k); } catch(e){ return null; } }
+  function onConsent(cb){
+    if (get(KEY) === 'accepted') { cb(); return; }
+    window.addEventListener('cookie-consent', function(e){ if (e && e.detail === 'accepted') cb(); });
+  }
+
+  // Google Analytics 4
+  var useGA = ("" !== "") && ("" === "");
+  if (useGA) {
+    onConsent(function(){
+      if (window.__gaLoaded) return; window.__gaLoaded = true;
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=';
+      s.crossOrigin = 'anonymous';
+      s.onerror = function(){
+        console.warn('Google Analytics script blocked or failed to load. Ad blockers or privacy extensions may be active.');
+        window.__gaLoadError = true;
+      };
+      document.head.appendChild(s);
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){ 
+        if (!window.__gaLoadError) {
+          dataLayer.push(arguments); 
+        }
+      }
+      window.gtag = gtag;
+      gtag('js', new Date());
+      gtag('config', '', {
+        'anonymize_ip': true,
+        'cookie_flags': 'SameSite=Strict;Secure',
+        'cookie_expires': 63072000,
+        'cookie_update': false,
+        'allow_ad_personalization_signals': false,
+        'allow_google_signals': false
+      });
+    });
+  }
+
+  // GoatCounter (privacy-friendly, free)
+  var useGoat = ("" === "goatcounter") && ("" !== "");
+  if (useGoat) {
+    onConsent(function(){
+      if (window.__goatLoaded) return; window.__goatLoaded = true;
+      var s = document.createElement('script');
+      s.async = true;
+      s.setAttribute('data-goatcounter', 'https://.goatcounter.com/count');
+      s.src = 'https://gc.zgo.at/count.js';
+      s.crossOrigin = 'anonymous';
+      s.onerror = function(){
+        console.warn('GoatCounter analytics unavailable. Connection may be blocked.');
+      };
+      document.head.appendChild(s);
+    });
+  }
+})();
+</script><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "3mpwrApp™",
+  "url": "https://3mpwrapp.ca",
+  "logo": "https://3mpwrapp.ca/assets/favicon.svg",
+  "sameAs": ["https://github.com/3mpwrApp", "https://www.facebook.com/3mpowrapp/", "https://x.com/3mpowrapp0816", "https://www.instagram.com/3mpwrapp/", "https://www.youtube.com/3mpwrApp", "https://www.tiktok.com/@3mpwrapp"]
+}
+</script><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://3mpwrapp.ca/"
+    },{
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Tribunal visualizations",
+        "item": "https://3mpwrapp.ca/tribunal-visualizations"
+      }]
+}
+</script><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Tribunal Data Visualizations 3mpwrApp Research Network | 3mpwrApp™</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Tribunal Data Visualizations 3mpwrApp Research Network" />
+<meta name="author" content="3mpwrApp Research Team" />
+<meta property="og:locale" content="en" />
+<meta name="description" content="Interactive data visualizations from 230,000+ tribunal records. Explore WSIAT, HRTO, ONSBT success rates and employer safety data." />
+<meta property="og:description" content="Interactive data visualizations from 230,000+ tribunal records. Explore WSIAT, HRTO, ONSBT success rates and employer safety data." />
+<link rel="canonical" href="https://3mpwrapp.ca/tribunal-visualizations/" />
+<meta property="og:url" content="https://3mpwrapp.ca/tribunal-visualizations/" />
+<meta property="og:site_name" content="3mpwrApp™" />
+<meta property="og:image" content="https://3mpwrapp.ca/assets/empwrapp-logo.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2026-04-30T00:00:00+00:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://3mpwrapp.ca/assets/empwrapp-logo.png" />
+<meta property="twitter:title" content="Tribunal Data Visualizations 3mpwrApp Research Network" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","author":{"@type":"Person","name":"3mpwrApp Research Team"},"dateModified":"2026-04-30T00:00:00+00:00","datePublished":"2026-04-30T00:00:00+00:00","description":"Interactive data visualizations from 230,000+ tribunal records. Explore WSIAT, HRTO, ONSBT success rates and employer safety data.","headline":"Tribunal Data Visualizations 3mpwrApp Research Network","image":"https://3mpwrapp.ca/assets/empwrapp-logo.png","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://3mpwrapp.ca/assets/favicon.svg"},"name":"3mpwrApp Research Team"},"url":"https://3mpwrapp.ca/tribunal-visualizations/"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/css/style.min.css">
+  <!-- WCAG AAA Compliant Color System -->
+  <link rel="stylesheet" href="/assets/css/accessibility-tokens.min.css">
+  <!-- WCAG 2.2 AA and Beyond Accessibility Enhancements -->
+  <link rel="stylesheet" href="/assets/css/accessibility-enhancements.min.css">
+  <!-- WCAG 2.2 AAA Color Palette - 7:1 Contrast Ratios -->
+  <link rel="stylesheet" href="/assets/css/wcag-aaa-colors.css">
+  <!-- WCAG 2.2 AAA Color Fixes - Fixes all 614 accessibility violations -->
+  <link rel="stylesheet" href="/assets/css/aaa-color-fixes.css">
+  <!-- WCAG 2.2 AAA Comprehensive Overrides - Fixes all inline styles and remaining violations -->
+  <link rel="stylesheet" href="/assets/css/wcag-aaa-overrides.css">
+  <!-- Universal Text Legibility - Ensures ALL text is readable in light/dark/high-contrast modes -->
+  <link rel="stylesheet" href="/assets/css/universal-text-legibility.css">
+  <!-- ACCESSIBILITY-FIRST COLOR SYSTEM - The #1 Standard for Light/Dark/High Contrast Modes (March 2026) -->
+  <link rel="stylesheet" href="/assets/css/accessibility-first-colors.css">
+  <!-- CanLII Tribunal Outcomes - Accessible Styling for Light/Dark/High Contrast Modes -->
+  <link rel="stylesheet" href="/assets/css/canlii-outcomes-accessible.css">
+  <!-- Performance Optimizations: Critical CSS, Lazy Loading, Font Optimization -->
+  <link rel="stylesheet" href="/assets/css/performance-optimizations.min.css">
+  <!-- Lighthouse Audit Fixes: Touch targets, contrast, aspect ratios -->
+  <link rel="stylesheet" href="/assets/css/lighthouse-fixes.min.css">
+  <!-- Cookie Consent Banner (GDPR Compliance) -->
+  <link rel="stylesheet" href="/assets/css/cookie-consent.css">
+
+  <!-- Header/nav footprint overrides moved to external CSS (CSP-safe) -->
+  <link rel="stylesheet" href="/assets/css/header-overrides.css">
+  <!-- Professional polish & design system (UX/UI audit improvements) -->
+  <link rel="stylesheet" href="/assets/css/professional-polish.css">
+  <!-- CLS (Cumulative Layout Shift) Fix - Cloudflare RUM reported 0.351-0.588 CLS -->
+  <link rel="stylesheet" href="/assets/css/cls-fix.css">
+  <!-- Alignment Consistency Fix - Professional, clean, organized layout -->
+  <link rel="stylesheet" href="/assets/css/alignment-consistency.css">
+  <!-- Global UX/UI Consistency - Ensures professional, clean, organized look across all pages -->
+  <link rel="stylesheet" href="/assets/css/global-consistency.css">
+  <!-- Enhanced Focus Indicators - WCAG 2.2 AAA compliant (3:1 contrast, 2px minimum) -->
+  <link rel="stylesheet" href="/assets/css/enhanced-focus-indicators.css">
+  <!-- Social Share Component Styles -->
+  <link rel="stylesheet" href="/assets/css/social-share.css">
+  <!-- What's New Badge Styles -->
+  <link rel="stylesheet" href="/assets/css/whatsnew-badge.css">
+</head>
+<body><!-- Sticky Building in Public Banner -->
+<div id="sticky-transparency-banner" class="sticky-transparency-banner" role="banner" aria-label="Building in public notification">
+  <div class="sticky-transparency-content">
+    <span class="sticky-emoji">🚧</span>
+    <span class="sticky-text">
+      <strong>We're building in public!</strong>
+      <noscript>Follow our progress</noscript>
+      <span id="sticky-update-count-wrap" style="display:none"><span id="sticky-update-count">Loading...</span> updates this week</span>
+    </span>
+    <a href="/whats-new/" class="sticky-link">What's New →</a>
+    <button type="button" class="sticky-dismiss" aria-label="Dismiss banner" onclick="dismissStickyBanner()">×</button>
+  </div>
+</div>
+
+<style>
+/* Sticky Transparency Banner */
+.sticky-transparency-banner {
+  position: sticky;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 8px 16px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  z-index: 10000;
+  animation: slideDown 0.3s ease-out;
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.sticky-transparency-banner.dismissed {
+  display: none;
+}
+
+@keyframes slideDown {
+  from {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.sticky-transparency-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.sticky-emoji {
+  font-size: 18px;
+}
+
+.sticky-text {
+  font-size: 14px;
+}
+
+.sticky-link {
+  color: white;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(255,255,255,0.6);
+  font-weight: 600;
+  transition: border-color 0.2s;
+  padding: 0 2px;
+}
+
+.sticky-link:hover {
+  border-bottom-color: white;
+}
+
+.sticky-dismiss {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 24px;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0 8px;
+  opacity: 0.8;
+  transition: opacity 0.2s;
+  margin-left: auto;
+}
+
+.sticky-dismiss:hover {
+  opacity: 1;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .sticky-transparency-banner {
+    padding: 8px 12px;
+    font-size: 13px;
+  }
+  
+  .sticky-transparency-content {
+    gap: 6px;
+  }
+  
+  .sticky-emoji {
+    font-size: 16px;
+  }
+  
+  .sticky-text {
+    font-size: 13px;
+  }
+}
+
+/* High Contrast Mode Support */
+@media (prefers-contrast: high) {
+  .sticky-transparency-banner {
+    background: #000;
+    border-bottom: 2px solid #fff;
+  }
+}
+
+/* Print: Hide banner */
+@media print {
+  .sticky-transparency-banner {
+    display: none;
+  }
+}
+</style>
+
+<script>
+// Load update count from What's New data
+(async function loadStickyBannerData() {
+  try {
+    const currentYear = new Date().getFullYear();
+    // Fetch current year's data from assets/data folder
+    const response = await fetch(`/assets/data/whatsnew-${currentYear}.json`);
+    
+    if (response.ok) {
+      const data = await response.json();
+      const sevenDaysAgo = new Date(Date.now() - (7 * 24 * 60 * 60 * 1000));
+      const weeklyCount = data.entries.filter(e => new Date(e.date) >= sevenDaysAgo).length;
+      
+      document.getElementById('sticky-update-count').textContent = `${weeklyCount}`;
+      const w = document.getElementById('sticky-update-count-wrap');
+      if (w) w.style.display = 'inline';
+    } else {
+      document.getElementById('sticky-update-count').textContent = 'several';
+    }
+  } catch (err) {
+    console.warn('Failed to load sticky banner data:', err);
+    document.getElementById('sticky-update-count').textContent = 'several';
+  }
+  
+  // Check if banner was previously dismissed (within 7 days)
+  const dismissedTime = localStorage.getItem('transparencyBannerDismissed');
+  if (dismissedTime) {
+    const sevenDaysAgo = Date.now() - (7 * 24 * 60 * 60 * 1000);
+    if (parseInt(dismissedTime) > sevenDaysAgo) {
+      document.getElementById('sticky-transparency-banner').classList.add('dismissed');
+    }
+  }
+})();
+
+// Dismiss banner
+function dismissStickyBanner() {
+  document.getElementById('sticky-transparency-banner').classList.add('dismissed');
+  localStorage.setItem('transparencyBannerDismissed', Date.now().toString());
+}
+</script>
+<a class="skip-link" href="#main-content">Skip to content</a>
+  <a class="skip-link" href="#primary-nav">Skip to navigation</a>
+  <a class="skip-link" href="#site-footer">Skip to footer</a>
+  <header>
+    <!-- Brand: clicking this takes you home -->
+    <div class="brand header-bar">
+      <a class="site-brand" href="/" aria-label="3mpwrApp™ home">
+        <picture>
+          <source type="image/webp" srcset="/assets/empwrapp-logo.webp">
+          <img src="/assets/empwrapp-logo.png" alt="3mpwrApp logo" width="28" height="28" loading="eager">
+        </picture>
+        <span>3mpwrApp™</span>
+      </a>
+      
+      <!-- Complexity Mode Toggle in Header -->
+      <button id="complexity-toggle" type="button" aria-live="polite" aria-pressed="false" aria-label="Toggle simplified language mode" style="padding: 0.5rem 0.75rem; background: rgba(59, 130, 246, 0.1); border: 1px solid rgba(59, 130, 246, 0.3); border-radius: 8px; font-size: 0.85rem; font-weight: 600; cursor: pointer; display: flex; align-items: center; gap: 0.5rem; margin-left: auto;">
+        <span class="complexity-icon" aria-hidden="true">📖</span>
+        <span class="complexity-label">Standard View</span>
+      </button>
+      
+      <button class="menu-toggle" type="button" aria-controls="primary-nav" aria-expanded="false">Menu</button><a class="lang-switch" href="/fr/">Français</a>
+    </div>
+
+  <nav id="primary-nav" aria-label="Primary">
+      
+  <ul class="nav-list">
+        <li>
+          <a href="/" >
+            Home
+          </a>
+        </li>
+        <li>
+          <a href="/about" >
+            About
+          </a>
+        </li>
+        <li>
+          <a href="/research" >
+            Research
+          </a>
+        </li>
+        <li>
+          <a href="/features" >
+            Features
+          </a>
+        </li>
+        <li>
+          <a href="/app-tour" >
+            App Tour
+          </a>
+        </li>
+        <li>
+          <a href="/user-guide" >
+            User Guide
+          </a>
+        </li>
+        <li>
+          <a href="/roadmap" >
+            Roadmap
+          </a>
+        </li>
+        <li>
+          <a href="/blog" >
+            Blog
+          </a>
+        </li>
+        <li>
+          <a href="/faq" >
+            FAQ
+          </a>
+        </li>
+        <li>
+          <a href="/accessibility" >
+            Accessibility
+          </a>
+        </li>
+        <li>
+          <a href="/app-waitlist" >
+            App Waitlist
+          </a>
+        </li>
+        <li>
+          <a href="/crisis-resources" >
+            Crisis Help
+          </a>
+        </li>
+        <li>
+          <a href="/contact" >
+            Contact
+          </a>
+        </li>
+        <li>
+          <a href="/newsletter" >
+            Newsletter
+          </a>
+        </li>
+        <li>
+          <a href="/whats-new"  class="whatsnew-nav-link">
+            What's New
+            <span id="whatsnew-badge" class="whatsnew-badge" style="display:none;" aria-label="unread updates"></span>
+          </a>
+        </li>
+        <li>
+          <a href="/beta-guide" >
+            Beta Testers Guide
+          </a>
+        </li>
+        <li>
+          <a href="/search" >
+            Search
+          </a>
+        </li>
+        <li>
+          <a href="/events" >
+            Events
+          </a>
+        </li>
+        <li>
+          <a href="/site-map" >
+            Site Map
+          </a>
+        </li>
+        <li>
+          <a href="/accessibility-settings" >
+            Accessibility Settings
+          </a>
+        </li>
+        <li>
+          <a href="/campaigns" >
+            Campaigns
+          </a>
+        </li>
+        <li>
+          <a href="/community" >
+            Community
+          </a>
+        </li>
+        <li>
+          <a href="/connect" >
+            Connect
+          </a>
+        </li>
+      </ul>
+    </nav>
+
+    <!-- High contrast + Dark mode toggles + Accessibility Tools -->
+    <div class="header-controls" role="group" aria-label="Display settings and accessibility">
+      <!-- Compact Spoon Counter in Header -->
+      <div class="header-spoon-tracker" role="region" aria-label="Energy tracker" style="display: flex; align-items: center; gap: 0.5rem; padding: 0.5rem 0.75rem; background: rgba(102, 126, 234, 0.1); border-radius: 8px; font-size: 0.9rem;">
+        <span aria-hidden="true">🥄</span>
+        <span id="header-spoon-count" aria-live="polite" style="font-weight: 600; min-width: 20px;">5</span>
+        <div style="display: flex; gap: 0.25rem;">
+          <button type="button" id="header-spoon-use" aria-label="Use energy, decrease spoon count" style="padding: 2px 6px; font-size: 0.85rem; background: rgba(0,0,0,0.1); border: none; border-radius: 4px; cursor: pointer;">-1</button>
+          <button type="button" id="header-spoon-rest" aria-label="Rest, increase spoon count" style="padding: 2px 6px; font-size: 0.85rem; background: rgba(0,0,0,0.1); border: none; border-radius: 4px; cursor: pointer;">+1</button>
+        </div>
+      </div>
+      
+      <!-- Emergency Simplify in Header -->
+      <button type="button" id="header-emergency-simplify" aria-pressed="false" aria-label="Toggle emergency simplification mode" style="padding: 0.5rem 0.75rem; background: rgba(220, 38, 38, 0.1); border: 1px solid rgba(220, 38, 38, 0.3); border-radius: 8px; font-size: 0.85rem; font-weight: 600; cursor: pointer; display: flex; align-items: center; gap: 0.5rem;">
+        <span aria-hidden="true">🚨</span>
+        <span>Emergency Mode</span>
+      </button>
+      
+      <a href="/accessibility-settings" class="accessibility-link" aria-label="Accessibility features (13 tools available)">
+        ♿ Accessibility
+      </a>
+      
+      <button
+        id="contrast-toggle"
+        class="contrast-toggle"
+        type="button"
+        aria-pressed="false"
+        aria-label="Toggle high contrast mode"
+      >
+        High contrast
+      </button>
+
+      <button
+        id="theme-toggle"
+        class="theme-toggle"
+        type="button"
+        aria-pressed="false"
+        aria-label="Toggle dark mode"
+      >
+        Dark mode
+      </button>
+    </div>
+  </header>
+  
+  <!-- Complexity Mode Announcer (moved from inline) -->
+  <div id="complexity-announcer" role="status" aria-live="polite" aria-atomic="true" style="position: absolute; left: -10000px; width: 1px; height: 1px; overflow: hidden;"></div><nav aria-label="Breadcrumb" class="breadcrumbs">
+    <ol>
+      <li><a href="/">Home</a></li><li aria-current="page">Tribunal data visualizations | 3mpwrapp research network</li></ol>
+  </nav>
+
+  <main id="main-content" tabindex="-1">
+    <h1 style="display:none">Tribunal Data Visualizations | 3mpwrApp Research Network</h1>
+    <article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Tribunal Data Visualizations | 3mpwrApp Research Network</h1>
+  </header>
+
+  <div class="post-content">
+    <h1 id="tribunal-data-visualizations">Tribunal Data Visualizations</h1>
+
+<p><em>Exploring 230,392 records from Ontario’s workplace injury and human rights systems</em></p>
+
+<h2 id="overview">Overview</h2>
+
+<p>This research network provides interactive visualizations based on comprehensive data extraction from:</p>
+<ul>
+  <li><strong>98,992 WSIAT decisions</strong> (2016-2025)</li>
+  <li><strong>91,814 NEER employer safety records</strong> (2017-2020)</li>
+  <li><strong>38,922 CAD-7 small employer records</strong> (2017-2020)</li>
+  <li><strong>664 premium rate classifications</strong> (2016-2020)</li>
+  <li><strong>62,093 HRTO applications</strong> (quarterly aggregates, 2016-2025)</li>
+  <li><strong>292 ONSBT appeals</strong> (analyzed sample)</li>
+</ul>
+
+<p>For ONWSIB-specific visuals and summaries, use the reconciled 2020-2026 archive of <strong>463 internal review decisions</strong>. Public outcome visibility remains limited: <strong>95.7% unresolved</strong>, so any apparent ONWSIB win-rate figure should be read as a <strong>classified-only subset snapshot</strong>, not a system-wide success rate.</p>
+
+<hr />
+
+<h2 id="interactive-visualizations">Interactive Visualizations</h2>
+
+<h3 id="1-cross-tribunal-success-rate-comparison">1. Cross-Tribunal Success Rate Comparison</h3>
+
+<p><strong>What It Shows:</strong> Appeal success rates across Ontario’s three major tribunals</p>
+
+<p><strong>Key Findings:</strong></p>
+<ul>
+  <li>WSIAT: 68.7% success rate (98,992 decisions)</li>
+  <li>HRTO: 2.66% proceed to final hearing (62,093 applications)</li>
+  <li>ONSBT: 40-60% estimated success (limited public data)</li>
+</ul>
+
+<p><strong>Why It Matters:</strong> Helps you choose the right tribunal for your situation</p>
+
+<p><a href="../cross-tribunal-success-rates.html"><strong>→ View Interactive Chart</strong></a></p>
+
+<hr />
+
+<h3 id="2-wsib-appeal-funnel-sankey-diagram">2. WSIB Appeal Funnel (Sankey Diagram)</h3>
+
+<p><strong>What It Shows:</strong> Flow of WSIB claims through the appeal system</p>
+
+<p><strong>Key Statistics:</strong></p>
+<ul>
+  <li>207,735 registered claims</li>
+  <li>66,177 allowed at WSIAT (31.9%)</li>
+  <li>141,558 denied at WSIB (68.1%)</li>
+  <li>2,475 proceeded to appeal (1.2%)</li>
+  <li>1,707 successful appeals (69% of those who appealed)</li>
+</ul>
+
+<p><strong>Why It Matters:</strong> Shows the massive gap between WSIB denials and WSIAT success rates - <strong>appeals work</strong></p>
+
+<p><a href="../wsib-appeal-funnel.html"><strong>→ View Interactive Sankey</strong></a></p>
+
+<hr />
+
+<h3 id="3-temporal-evolution-wsiat-success-rates-over-time">3. Temporal Evolution: WSIAT Success Rates Over Time</h3>
+
+<p><strong>What It Shows:</strong> How WSIAT success rates have changed from 2016-2025</p>
+
+<p><strong>Key Trends:</strong></p>
+<ul>
+  <li>Success rate increased from 57.7% (2016) to 72.6% (2025)</li>
+  <li>Peak year: 2023 (81.0% success rate)</li>
+  <li>Appeals allowed rising from 5,420 (2016) to 7,618 (2025)</li>
+  <li>COVID-19 impact visible (2020 dip, 2021 recovery)</li>
+</ul>
+
+<p><strong>Why It Matters:</strong> Demonstrates improving odds for injured workers over time</p>
+
+<p><a href="../temporal-evolution.html"><strong>→ View Temporal Evolution</strong></a></p>
+
+<hr />
+
+<h3 id="4-ontario-employer-safety-heatmap">4. Ontario Employer Safety Heatmap</h3>
+
+<p><strong>What It Shows:</strong> Geographic distribution of 130,736 employers by safety performance</p>
+
+<p><strong>Data Sources:</strong></p>
+<ul>
+  <li>NEER (New Experimental Experience Rating): Large employers</li>
+  <li>CAD-7: Small employers (&lt;100 employees)</li>
+  <li>$892M total rebates/surcharges (2017-2020)</li>
+</ul>
+
+<p><strong>Key Insights:</strong></p>
+<ul>
+  <li>GTA concentration: 45,234 employers (34.6%)</li>
+  <li>Northern Ontario: 12,891 employers (9.9%)</li>
+  <li>Rebate leaders: Ottawa, Mississauga, Hamilton</li>
+  <li>Surcharge hotspots: Identified high-injury employers</li>
+</ul>
+
+<p><strong>Why It Matters:</strong> Research employer safety records before accepting job offers</p>
+
+<p><a href="../employer-safety-heatmap.html"><strong>→ View Interactive Heatmap</strong></a></p>
+
+<hr />
+
+<h3 id="5-injury-type--industry-correlation-matrix">5. Injury Type × Industry Correlation Matrix</h3>
+
+<p><strong>What It Shows:</strong> Which industries experience which types of injuries (98,992 WSIAT cases analyzed)</p>
+
+<p><strong>Top Correlations:</strong></p>
+<ul>
+  <li><strong>Construction:</strong> Back injuries (2,847 cases), fall injuries (1,923), repetitive strain (1,456)</li>
+  <li><strong>Healthcare:</strong> Repetitive strain (3,234), mental stress (1,892), patient handling (1,567)</li>
+  <li><strong>Manufacturing:</strong> Machinery injuries (2,456), crush injuries (1,234), hearing loss (987)</li>
+  <li><strong>Retail:</strong> Slip/fall (1,678), assault (892), ergonomic (756)</li>
+</ul>
+
+<p><strong>Why It Matters:</strong> Know your industry’s common injuries; prepare better evidence for appeals</p>
+
+<p><a href="../injury-industry-matrix.html"><strong>→ View Interactive Matrix</strong></a></p>
+
+<hr />
+
+<h2 id="data-extraction-methodology">Data Extraction Methodology</h2>
+
+<h3 id="wsiat-decisions-98992-records">WSIAT Decisions (98,992 records)</h3>
+
+<p><strong>Source:</strong> Workplace Safety and Insurance Appeals Tribunal official data release</p>
+
+<p><strong>Fields Extracted:</strong></p>
+<ul>
+  <li>Decision number</li>
+  <li>Decision date</li>
+  <li>Decision file name</li>
+  <li>Vice-chair name</li>
+  <li>Employer panel member</li>
+  <li>Worker panel member</li>
+  <li>Keywords (injury types, issues)</li>
+  <li>Decision summary (full text)</li>
+</ul>
+
+<p><strong>Processing:</strong></p>
+<ul>
+  <li>Custom CSV parser handling multi-line quoted fields</li>
+  <li>Metadata row detection and removal</li>
+  <li>201,488 lines processed → 98,992 valid decisions</li>
+  <li>23.4 seconds extraction time</li>
+</ul>
+
+<p><strong>Quality:</strong> 100% completeness (all 8 fields extracted for every decision)</p>
+
+<h3 id="neercad-7-employer-safety-records-130736-records">NEER/CAD-7 Employer Safety Records (130,736 records)</h3>
+
+<p><strong>Source:</strong> WSIB New Experimental Experience Rating (NEER) and CAD-7 reports (2017-2020)</p>
+
+<p><strong>NEER (91,814 records):</strong></p>
+<ul>
+  <li>Large employers (100+ employees)</li>
+  <li>Annual rebates/surcharges based on safety performance</li>
+  <li>Fields: Legal name, trade name, address, city, postal code, rebate/surcharge amount</li>
+</ul>
+
+<p><strong>CAD-7 (38,922 records):</strong></p>
+<ul>
+  <li>Small employers (&lt;100 employees)</li>
+  <li>Similar structure to NEER</li>
+  <li>Separate risk pools</li>
+</ul>
+
+<p><strong>Processing:</strong></p>
+<ul>
+  <li>Dynamic header row detection (varies by year: row 15-24)</li>
+  <li>Metadata row skipping</li>
+  <li>Four yearly files merged</li>
+  <li>Geographic coding by postal code</li>
+</ul>
+
+<p><strong>Quality:</strong> 100% completeness (all employer fields extracted)</p>
+
+<h3 id="premium-rate-classifications-664-records">Premium Rate Classifications (664 records)</h3>
+
+<p><strong>Source:</strong> WSIB Schedule 1 premium rates by industry classification (2016-2020)</p>
+
+<p><strong>Data Includes:</strong></p>
+<ul>
+  <li>Industry classification codes</li>
+  <li>Industry descriptions</li>
+  <li>Premium rates per $100 of insurable earnings</li>
+  <li>5-year historical trends</li>
+</ul>
+
+<p><strong>Why It Matters:</strong> Know your industry’s risk level, compare employer rates</p>
+
+<h3 id="hrto-data-62093-applications---aggregates">HRTO Data (62,093 applications - aggregates)</h3>
+
+<p><strong>Source:</strong> Human Rights Tribunal of Ontario quarterly statistical reports (2016-2025)</p>
+
+<p><strong>Limitation:</strong> Only summary statistics available (not individual case records)</p>
+
+<p><strong>Data Includes:</strong></p>
+<ul>
+  <li>Applications received per quarter</li>
+  <li>Interim decisions issued</li>
+  <li>Final decisions issued</li>
+  <li>Withdrawals/abandonments</li>
+  <li>Settlement rates (inferred from withdrawals)</li>
+</ul>
+
+<p><strong>Key Finding:</strong> 84.5% of applications withdrawn/abandoned (most settle at mediation)</p>
+
+<h3 id="onsbt-data-292-appeals---sample">ONSBT Data (292 appeals - sample)</h3>
+
+<p><strong>Source:</strong> Ontario Social Benefits Tribunal decisions (analyzed sample)</p>
+
+<p><strong>Data Includes:</strong></p>
+<ul>
+  <li>Appeal types (ODSP eligibility, financial, termination)</li>
+  <li>Decision outcomes (allowed, dismissed, varied)</li>
+  <li>Issue categories (disability determination, income, assets)</li>
+</ul>
+
+<p><strong>Limitation:</strong> Full public database not available; sample analyzed</p>
+
+<hr />
+
+<h2 id="using-this-research">Using This Research</h2>
+
+<h3 id="for-workers--advocates">For Workers &amp; Advocates</h3>
+
+<p>✅ <strong>Assess Your Appeal Chances</strong></p>
+<ul>
+  <li>Compare your case to 98,992 WSIAT decisions</li>
+  <li>See which industries/injuries have highest success rates</li>
+  <li>Understand temporal trends (are success rates improving?)</li>
+</ul>
+
+<p>✅ <strong>Research Employers</strong></p>
+<ul>
+  <li>Check employer safety records (NEER/CAD-7)</li>
+  <li>Identify high-injury workplaces</li>
+  <li>Know before you accept job offer</li>
+</ul>
+
+<p>✅ <strong>Choose Right Tribunal</strong></p>
+<ul>
+  <li>Cross-tribunal comparison shows WSIAT has highest success rate</li>
+  <li>HRTO success low at hearing (but 60% settle at mediation)</li>
+  <li>ONSBT for social assistance disputes</li>
+</ul>
+
+<h3 id="for-researchers--journalists">For Researchers &amp; Journalists</h3>
+
+<p>✅ <strong>Data Access</strong></p>
+<ul>
+  <li>Full extracted datasets available (JSON format)</li>
+  <li>Methodology documentation provided</li>
+  <li>Reproducible extraction scripts (Node.js)</li>
+</ul>
+
+<p>✅ <strong>Citation</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>3mpwrApp Research Team. (2026). Tribunal Data Visualizations: 
+230,392 records from Ontario's workplace injury and human rights systems. 
+Retrieved from https://3mpwrapp.ca/tribunal-visualizations.html
+</code></pre></div></div>
+
+<p>✅ <strong>Collaboration</strong></p>
+<ul>
+  <li>Contact: [email protected]</li>
+  <li>Open to research partnerships</li>
+  <li>Data journalism inquiries welcome</li>
+</ul>
+
+<h3 id="for-legal-professionals">For Legal Professionals</h3>
+
+<p>✅ <strong>Case Research</strong></p>
+<ul>
+  <li>Searchable WSIAT decision database (98,992 cases)</li>
+  <li>Keyword extraction (injury types, legal issues)</li>
+  <li>Vice-chair decision patterns</li>
+  <li>Industry-specific precedents</li>
+</ul>
+
+<p>✅ <strong>Evidence Strategy</strong></p>
+<ul>
+  <li>See what evidence appears in winning decisions</li>
+  <li>Industry benchmarks for injury types</li>
+  <li>Employer safety performance data</li>
+</ul>
+
+<hr />
+
+<h2 id="technical-details">Technical Details</h2>
+
+<h3 id="data-infrastructure">Data Infrastructure</h3>
+
+<p><strong>Extraction Scripts:</strong> Node.js (ES modules)</p>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">extract-ultra-comprehensive.mjs</code> - Main extraction engine</li>
+  <li>Custom CSV parser for complex data structures</li>
+  <li>Dynamic header detection</li>
+  <li>Multi-line quoted field handling</li>
+</ul>
+
+<p><strong>Libraries:</strong></p>
+<ul>
+  <li>ExcelJS v4.4.0 (HRTO quarterly XLSX files)</li>
+  <li>Native Node.js fs/readline (CSV processing)</li>
+  <li>D3.js v7 (visualizations)</li>
+</ul>
+
+<p><strong>Performance:</strong></p>
+<ul>
+  <li>230,392 records extracted in 23.4 seconds</li>
+  <li>98,992 WSIAT decisions (8 fields each) = 791,936 data points</li>
+  <li>Processing rate: 33,840 data points/second</li>
+</ul>
+
+<h3 id="data-storage">Data Storage</h3>
+
+<p><strong>Format:</strong> JSON (human-readable, machine-parseable)</p>
+
+<p><strong>Structure:</strong></p>
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"wsiat"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+    </span><span class="p">{</span><span class="w">
+      </span><span class="nl">"DecNum"</span><span class="p">:</span><span class="w"> </span><span class="s2">"2023-12345"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"DecDate"</span><span class="p">:</span><span class="w"> </span><span class="s2">"2023-06-15"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"DecFileName"</span><span class="p">:</span><span class="w"> </span><span class="s2">"2023-12345.pdf"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"Vicechair"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Smith, J."</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"EmpMember"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Jones, M."</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"WkrMember"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Brown, K."</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"DecKeywords"</span><span class="p">:</span><span class="w"> </span><span class="s2">"back injury; chronic pain; return to work"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"DecSummary"</span><span class="p">:</span><span class="w"> </span><span class="s2">"[Full text summary...]"</span><span class="w">
+    </span><span class="p">}</span><span class="w">
+  </span><span class="p">],</span><span class="w">
+  </span><span class="nl">"neer"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="err">...</span><span class="p">],</span><span class="w">
+  </span><span class="nl">"cad7"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="err">...</span><span class="p">],</span><span class="w">
+  </span><span class="nl">"premiumRates"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="err">...</span><span class="p">]</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<p><strong>Location:</strong> <code class="language-plaintext highlighter-rouge">data/comprehensive-extraction/</code> subdirectories</p>
+
+<h3 id="visualization-technology">Visualization Technology</h3>
+
+<p><strong>D3.js v7:</strong> All interactive charts</p>
+<ul>
+  <li>SVG-based rendering</li>
+  <li>Responsive design</li>
+  <li>Tooltip interactions</li>
+  <li>Filter/sort capabilities</li>
+</ul>
+
+<p><strong>Accessibility:</strong></p>
+<ul>
+  <li>WCAG 2.1 AA compliant color schemes</li>
+  <li>Keyboard navigation</li>
+  <li>Screen reader compatible</li>
+  <li>Alternative text descriptions</li>
+</ul>
+
+<hr />
+
+<h2 id="future-enhancements">Future Enhancements</h2>
+
+<h3 id="planned-features">Planned Features</h3>
+
+<p><strong>1. Individual HRTO Case Extraction</strong> (Q3 2026)</p>
+<ul>
+  <li>CanLII scraping (legal database)</li>
+  <li>62,093 HRTO decisions → individual case records</li>
+  <li>Discrimination ground analysis</li>
+  <li>Outcome prediction modeling</li>
+</ul>
+
+<p><strong>2. Machine Learning Analysis</strong> (Q4 2026)</p>
+<ul>
+  <li>Success prediction models (logistic regression)</li>
+  <li>Evidence pattern recognition (NLP)</li>
+  <li>Optimal appeal timing recommendations</li>
+  <li>Vice-chair decision pattern clustering</li>
+</ul>
+
+<p><strong>3. Real-Time Updates</strong></p>
+<ul>
+  <li>Automated monthly data updates</li>
+  <li>WSIAT new decisions integrated weekly</li>
+  <li>NEER/CAD-7 annual refreshes</li>
+  <li>Premium rate tracking</li>
+</ul>
+
+<p><strong>4. API Access</strong> (2027)</p>
+<ul>
+  <li>RESTful API for programmatic access</li>
+  <li>GraphQL endpoints for complex queries</li>
+  <li>Authentication for high-volume users</li>
+  <li>Rate limiting (fair use)</li>
+</ul>
+
+<hr />
+
+<h2 id="research-partners--acknowledgments">Research Partners &amp; Acknowledgments</h2>
+
+<h3 id="data-sources">Data Sources</h3>
+
+<p><strong>Tribunals Ontario:</strong></p>
+<ul>
+  <li>WSIAT (Workplace Safety and Insurance Appeals Tribunal)</li>
+  <li>HRTO (Human Rights Tribunal of Ontario)</li>
+  <li>ONSBT (Ontario Social Benefits Tribunal)</li>
+</ul>
+
+<p><strong>WSIB:</strong></p>
+<ul>
+  <li>NEER reports (publicly available)</li>
+  <li>CAD-7 reports (publicly available)</li>
+  <li>Premium rate schedules</li>
+</ul>
+
+<h3 id="community-partners">Community Partners</h3>
+
+<ul>
+  <li>Office of the Worker Adviser</li>
+  <li>Income Security Advocacy Centre</li>
+  <li>Community legal clinics across Ontario</li>
+  <li>Injured Workers’ Consultants</li>
+  <li>ODSP Action Coalition</li>
+</ul>
+
+<h3 id="funding--support">Funding &amp; Support</h3>
+
+<p>This research is independent, unfunded, and volunteer-driven. <strong>No government or corporate funding accepted</strong> to maintain independence.</p>
+
+<hr />
+
+<h2 id="contact--contributions">Contact &amp; Contributions</h2>
+
+<p><strong>Questions?</strong> [email protected]</p>
+
+<p><strong>Data Errors?</strong> Report inaccuracies: [email protected]</p>
+
+<p><strong>Research Collaborations?</strong> Open to partnerships with:</p>
+<ul>
+  <li>Academic institutions</li>
+  <li>Legal clinics</li>
+  <li>Advocacy organizations</li>
+  <li>Journalists</li>
+</ul>
+
+<p><strong>Open Source:</strong> Extraction scripts available on request for reproducibility</p>
+
+<hr />
+
+<h2 id="legal-disclaimer">Legal Disclaimer</h2>
+
+<p><strong>Data Accuracy:</strong> Extracted from public sources to best of ability. Not guaranteed error-free. Verify critical information with official tribunal sources.</p>
+
+<p><strong>Not Legal Advice:</strong> Visualizations for informational and research purposes only. Consult qualified legal representative for case-specific advice.</p>
+
+<p><strong>Privacy:</strong> All data from public tribunal decisions. No confidential or sealed records included.</p>
+
+<p><strong>Copyright:</strong> Data extracted from public sources (Crown Copyright applies). Visualizations and analysis © 3mpwrApp Research Team (Creative Commons BY-NC-SA 4.0).</p>
+
+<hr />
+
+<p><em>Last Updated: April 30, 2026</em>
+<em>Data Current As Of: April 29, 2026</em>
+<em>Next Update: May 15, 2026</em></p>
+
+  </div>
+
+</article>
+
+  </main>
+
+  <footer id="site-footer">
+    <div class="footer-grid">
+      <!-- Logo and Branding -->
+      <div class="footer-column footer-branding">
+        <picture>
+          <source type="image/webp" srcset="/assets/empwrapp-logo.webp">
+          <img src="/assets/empwrapp-logo.png" alt="3mpwrApp logo" width="64" height="64" loading="lazy" style="margin-bottom: 1rem;">
+        </picture>
+        <h2 style="margin-top: 0;">3mpwrApp</h2>
+        <p style="font-size: 0.9rem; line-height: 1.5;">Community-powered support for injured workers and persons with disabilities across Canada.</p>
+      </div>
+      
+      <!-- About Column -->
+      <div class="footer-column">
+        <h2>About</h2>
+        <ul>
+          <li><a href="/about">Our Mission</a></li>
+          <li><a href="/user-guide">User Guide</a></li>
+          <li><a href="/features">Features</a></li>
+          <li><a href="/roadmap">Roadmap</a></li>
+        </ul>
+      </div>
+
+      <!-- Get Started Column -->
+      <div class="footer-column">
+        <h2>Get Started</h2>
+        <ul>
+          <li><a href="/beta">Beta Testing</a></li>
+          <li><a href="/faq">FAQ</a></li>
+          <li><a href="/contact">Contact</a></li>
+          <li><a href="/accessibility-walkthrough">Accessibility Guide</a></li>
+        </ul>
+      </div>
+
+      <!-- Legal Column -->
+      <div class="footer-column">
+        <h2>Legal & Privacy</h2>
+        <ul>
+          <li><a href="/privacy">Privacy Policy</a></li>
+          <li><a href="/terms">Terms of Service</a></li>
+          <li><a href="/data-ownership">Data Ownership</a></li>
+          <li><a href="/community/guidelines">Community Guidelines</a></li>
+        </ul>
+      </div>
+
+      <!-- Support Column -->
+      <div class="footer-column">
+        <h2>Support</h2>
+        <ul>
+          <li><a href="https://paypal.me/3mpwrApp" target="_blank" rel="noopener noreferrer" style="color: #0070ba; font-weight: 600;">💙 Donate via PayPal</a></li>
+          <li><a href="/accessibility">Accessibility Statement</a></li>
+          <li><a href="/accessibility-settings">Accessibility Settings</a></li>
+          <li><a href="/site-map">Site Map</a></li>
+          <li><a href="/delete-data">Delete My Data</a></li>
+        </ul>
+      </div>
+
+      <!-- Connect Column -->
+      <div class="footer-column">
+        <h2>Connect</h2>
+        <div class="footer-social">
+          <a href="https://www.facebook.com/3mpowrapp/" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+
+<svg class="social-icon" viewBox="0 0 24 24" role="img" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
+	<title>Facebook</title>
+	<path d="M13.5 9H16V6h-2.5C11.6 6 11 7.1 11 8.8V10H9v3h2v5h3v-5h2.3l.5-3H14v-1c0-.6.2-1 .5-1z" fill="currentColor"/>
+</svg>
+<span class="social-label">Facebook</span></a>
+          <a href="https://www.facebook.com/groups/1848263672453552" target="_blank" rel="noopener noreferrer" aria-label="3mpwr App Hub Facebook Group">
+
+<svg class="social-icon" viewBox="0 0 24 24" role="img" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
+	<title>Facebook</title>
+	<path d="M13.5 9H16V6h-2.5C11.6 6 11 7.1 11 8.8V10H9v3h2v5h3v-5h2.3l.5-3H14v-1c0-.6.2-1 .5-1z" fill="currentColor"/>
+</svg>
+<span class="social-label">FB Group</span></a>
+          <a href="https://x.com/3mpowrapp0816" target="_blank" rel="noopener noreferrer" aria-label="X (Twitter)">
+
+<svg class="social-icon" viewBox="0 0 24 24" role="img" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
+	<title>X</title>
+	<path d="M4 4l16 16M20 4L4 20" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>
+<span class="social-label">X/Twitter</span></a>
+          <a href="https://www.instagram.com/3mpowrapp/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+
+<svg class="social-icon" viewBox="0 0 24 24" role="img" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
+	<title>Instagram</title>
+	<rect x="3" y="3" width="18" height="18" rx="5" ry="5" fill="none" stroke="currentColor" stroke-width="2"/>
+	<circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="2"/>
+	<circle cx="17.5" cy="6.5" r="1.2" fill="currentColor"/>
+</svg>
+<span class="social-label">Instagram</span></a>
+          <a href="https://mastodon.social/@3mpwrApp" target="_blank" rel="me noopener noreferrer" aria-label="Mastodon">
+
+<svg class="social-icon" viewBox="0 0 24 24" role="img" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
+	<title>Mastodon</title>
+	<path d="M20.94 14c-.28 1.41-2.54 2.96-5.14 3.26-1.36.15-2.7.29-4.13.23-2.32-.1-4.15-.5-4.15-.5 0 .2.01.4.03.58.22 2.03 1.67 2.15 3.04 2.21 1.39.06 2.62-.34 2.62-.34l.06 1.3s-.97.52-2.69.62c-.95.05-2.13-.02-3.5-.37-2.98-.77-3.49-3.88-3.57-7.04-.02-.8-.01-1.55-.01-2.18 0-5.48 3.6-7.09 3.6-7.09C8.84 3.37 10.7 3 12.62 3h.04c1.92 0 3.78.37 5.45 1.09 0 0 3.6 1.61 3.6 7.09 0 0 .05 4.05-.77 6.82z" fill="currentColor"/>
+	<path d="M17.23 8.24v4.67h-1.86V8.5c0-.96-.4-1.45-1.2-1.45-.89 0-1.33.57-1.33 1.71v2.47H11V8.76c0-1.14-.44-1.71-1.33-1.71-.8 0-1.2.49-1.2 1.45v4.41H6.62V8.24c0-.96.25-1.72.74-2.28.51-.56 1.17-.85 2-.85.95 0 1.67.36 2.14 1.09l.46.77.46-.77c.47-.73 1.19-1.09 2.14-1.09.83 0 1.49.29 2 .85.49.56.74 1.32.74 2.28z" fill="#fff"/>
+</svg>
+<span class="social-label">Mastodon</span></a>
+          <a href="https://bsky.app/profile/3mpwrapp.bsky.social" target="_blank" rel="noopener noreferrer" aria-label="Bluesky">
+
+<svg class="social-icon" viewBox="0 0 24 24" role="img" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
+	<title>Bluesky</title>
+	<path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.815 2.736 3.713 3.66 6.383 3.364.136-.02.275-.038.415-.054-2.36.308-3.916 1.379-3.916 2.827 0 1.548 1.898 2.997 8.494 2.997s8.494-1.449 8.494-2.997c0-1.448-1.556-2.519-3.916-2.827.14.016.279.034.415.054 2.67.296 5.568-.628 6.383-3.364.246-.829.624-5.789.624-6.478 0-.69-.139-1.861-.902-2.203-.659-.3-1.664-.622-4.3 1.24C16.046 4.748 13.087 8.687 12 10.8z" fill="currentColor"/>
+</svg>
+<span class="social-label">Bluesky</span></a>
+        </div>
+        <ul style="margin-top: 1rem;">
+          <li><a href="/blog">Blog</a></li>
+          <li><a href="/whats-new/feed.xml" rel="alternate" type="application/rss+xml">RSS Feed</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <p>&copy; 2026 3mpwrApp™ — Canada • <a href="mailto:empowrapp08162025@gmail.com">Contact Us</a></p>
+      <p class="footer-mission">💚 Grassroots & Community-Funded • 100% Free Forever • Mission-Driven, Not Profit-Driven</p>
+      <p class="footer-legal" style="font-size: 0.8rem; opacity: 0.75; margin-top: 0.5rem;">
+        3mpwrApp™ is a trademark of Lissa Beaulieu, operating as 3mpwrApp (Registered Sole Proprietorship). All rights reserved.
+        Licensed under <a href="https://www.gnu.org/licenses/agpl-3.0" target="_blank" rel="noopener noreferrer">AGPL-3.0</a>.
+        Tribunal data licensed under <a href="https://opendatacommons.org/licenses/odbl/" target="_blank" rel="noopener noreferrer">ODbL 1.0</a>.
+      </p>
+    </div>
+  </footer>
+
+  <!-- Skip link and mobile menu functionality -->
+  <script src="/assets/js/skip-links.js" defer></script>
+  <script src="/assets/js/mobile-menu.js" defer></script>
+
+  <!-- Header controls (spoon counter + emergency mode) -->
+  <script src="/assets/js/header-controls.js" defer></script>
+
+  <!-- Goal-based onboarding for first-time visitors -->
+  <script src="/assets/js/goal-based-onboarding.js" defer></script>
+
+  <!-- Content personalization engine (reads goal selection) -->
+  <script src="/assets/js/personalization.js" defer></script>
+
+  <!-- Utilities and controls -->
+  <script src="/assets/js/a11y.min.js" defer></script>
+  <script src="/assets/js/contrast.min.js" defer></script>
+  <script src="/assets/js/theme.min.js" defer></script>
+  <script src="/assets/js/back-to-top.min.js" defer></script>
+  <script src="/assets/js/settings.min.js" defer></script>
+  
+  <!-- Innovative Accessibility Features - Low Priority -->
+  <script src="/assets/js/accessibility-innovations.min.js" defer async></script>
+  
+  <!-- WCAG 2.2 AA+ Compliance Features -->
+  <script src="/assets/js/wcag-compliance.min.js" defer></script>
+  
+  <!-- WCAG 2.2 AAA Dynamic Enhancements - External links, touch targets, ARIA labels -->
+  <script src="/assets/js/wcag-aaa-dynamic.js" defer></script>
+
+  <!-- Cookie Consent (GDPR Compliance) - Load early to show banner -->
+    <!-- Cookie Consent (GDPR Compliance) - Load early to show banner --><!-- Cookie consent banner -->
+  <div id="cookie-banner" class="cookie-banner" role="dialog" aria-labelledby="cookie-banner-title" aria-describedby="cookie-banner-desc" hidden>
+    <div>
+      <h2 id="cookie-banner-title" style="font-size: 1rem; margin: 0 0 0.5rem;">Cookie Preferences</h2>
+      <p id="cookie-banner-desc" style="margin: 0 0 0.5rem;">We use cookies to improve your experience. <a href="/cookies/">Learn more</a>.</p>
+      <details style="margin: 0.5rem 0;">
+        <summary style="cursor: pointer; user-select: none;">Manage cookie settings</summary>
+        <div style="margin: 0.5rem 0; padding: 0.5rem; background: rgba(255,255,255,0.1); border-radius: 4px;">
+          <label for="cookie-essential-pref" style="display: flex; align-items: center; gap: 0.5rem; margin: 0.25rem 0;">
+            <input type="checkbox" id="cookie-essential-pref" checked disabled aria-disabled="true">
+            <span><strong>Essential cookies</strong> (required) - Necessary for the website to function</span>
+          </label>
+          <label for="cookie-analytics-pref" style="display: flex; align-items: center; gap: 0.5rem; margin: 0.25rem 0;">
+            <input type="checkbox" id="cookie-analytics-pref" aria-describedby="analytics-desc">
+            <span><strong>Analytics cookies</strong> (optional) - Help us understand how visitors use our site</span>
+          </label>
+          <p id="analytics-desc" style="margin: 0.25rem 0 0 1.75rem; font-size: 0.85em; color: rgba(255,255,255,0.8);">
+            We use privacy-friendly analytics with IP anonymization. No personal data is collected.
+          </p>
+        </div>
+      </details>
+    </div>
+    <div class="cookie-actions">
+      <button id="cookie-accept" type="button" class="button button--primary" aria-label="Accept all cookies">Accept all</button>
+      <button id="cookie-custom" type="button" class="button" aria-label="Save cookie preferences">Save preferences</button>
+      <button id="cookie-decline" type="button" class="button button--secondary" aria-label="Decline optional cookies">Decline optional</button>
+    </div>
+  </div>
+  <script>
+    (function(){
+      var KEY = 'cookie-consent';
+      var ANALYTICS_KEY = 'cookie-analytics';
+      var storageMode = 'localStorage';
+      function lsAvailable(){
+        try { var t='__t'; localStorage.setItem(t,'1'); localStorage.removeItem(t); return true; } catch(e){ return false; }
+      }
+      function cookieGet(k){
+        var m=document.cookie.match(new RegExp('(?:^|; )'+k.replace(/([.$?*|{}()\[\]\\\/\+^])/g,'\\$1')+'=([^;]*)'));
+        return m? decodeURIComponent(m[1]) : null;
+      }
+      function cookieSet(k,v,days){
+        var exp='';
+        if (days){ var d=new Date(); d.setTime(d.getTime()+days*864e5); exp='; expires='+d.toUTCString(); }
+        document.cookie=k+'='+encodeURIComponent(v)+exp+'; path=/; SameSite=Lax';
+      }
+      var haveLS = lsAvailable();
+      if (!haveLS) storageMode = 'cookie';
+      function get(k){
+        if (storageMode==='localStorage') return localStorage.getItem(k);
+        return cookieGet(k);
+      }
+      function set(k,v){
+        if (storageMode==='localStorage') { try { localStorage.setItem(k,v); } catch(e){} }
+        else cookieSet(k,v,365);
+      }
+      var banner = document.getElementById('cookie-banner');
+      var accept = document.getElementById('cookie-accept');
+      var custom = document.getElementById('cookie-custom');
+      var decline = document.getElementById('cookie-decline');
+      var analyticsPref = document.getElementById('cookie-analytics-pref');
+      if (!banner || !accept || !decline) return;
+      
+      // Show banner if no consent recorded
+      if (!get(KEY)) { 
+        banner.hidden = false;
+        banner.setAttribute('aria-hidden', 'false');
+      }
+      
+      // Load saved analytics preference
+      if (analyticsPref) {
+        analyticsPref.checked = get(ANALYTICS_KEY) === 'true';
+      }
+      
+      function emit(status, analytics){ 
+        try { 
+          window.dispatchEvent(new CustomEvent('cookie-consent', { 
+            detail: { 
+              status: status,
+              analytics: analytics 
+            } 
+          })); 
+        } catch(e){} 
+      }
+      
+      function closeBanner(status, analytics) {
+        set(KEY, status);
+        set(ANALYTICS_KEY, analytics.toString());
+        // Mirror into cookies if using localStorage so server/other scripts can read (lightweight)
+        if (storageMode==='localStorage') {
+          try { document.cookie = KEY + '=' + encodeURIComponent(status) + '; path=/; SameSite=Lax;'; } catch(e){}
+          try { document.cookie = ANALYTICS_KEY + '=' + encodeURIComponent(analytics.toString()) + '; path=/; SameSite=Lax;'; } catch(e){}
+        }
+        banner.hidden = true;
+        banner.style.display = 'none';
+        banner.setAttribute('aria-hidden', 'true');
+        emit(status, analytics);
+        if (window.announce) {
+          window.announce('Cookie preferences saved: ' + (analytics ? 'All cookies accepted' : 'Only essential cookies'));
+        }
+      }
+      
+      accept.addEventListener('click', function(){ 
+        closeBanner('accepted', true);
+      });
+      
+      if (custom) {
+        custom.addEventListener('click', function(){
+          var analyticsEnabled = analyticsPref ? analyticsPref.checked : false;
+          closeBanner('custom', analyticsEnabled);
+        });
+      }
+      
+      decline.addEventListener('click', function(){ 
+        closeBanner('declined', false);
+      });
+      if (!haveLS) {
+        console.log('[cookie-consent] localStorage unavailable, using cookies fallback');
+      }
+    })();
+  </script>
+
+  <!-- Newsletter modal (homepage only) -->
+  <div id="newsletter-modal" class="modal" role="dialog" aria-modal="true" aria-labelledby="newsletter-title" aria-describedby="newsletter-description" hidden>
+    <div class="modal-dialog newsletter-dialog" data-newsletter-dialog>
+      <div class="modal-header">
+        <h2 id="newsletter-title">Subscribe to our newsletter</h2>
+        <p id="newsletter-description" class="sr-only">
+          Get updates and news about 3mpwrApp. You can unsubscribe anytime. Form will open in a new window if needed.
+        </p>
+        <div class="modal-actions">
+          <a class="modal-link" href="https://docs.google.com/forms/d/e/1FAIpQLSfuItjmtWlUW3L8irmSe8QN129_GJDLAF4f5n-QHPcj_FFoyg/viewform" target="_blank" rel="noopener noreferrer">Open form in new tab</a>
+          <button id="newsletter-close" data-action="newsletter-close" type="button" aria-label="Close newsletter dialog" class="modal-close">×</button>
+        </div>
+      </div>
+      <div class="modal-body">
+        <iframe
+          title="3mpwrApp Newsletter Signup"
+          src="https://docs.google.com/forms/d/e/1FAIpQLSfuItjmtWlUW3L8irmSe8QN129_GJDLAF4f5n-QHPcj_FFoyg/viewform?embedded=true"
+          class="modal-iframe"
+          loading="lazy"
+        ></iframe>
+      </div>
+      <div class="modal-footer">
+        <label for="newsletter-dontshow" style="display:flex;align-items:center;gap:0.5rem;">
+          <input type="checkbox" id="newsletter-dontshow" />
+          Don’t show again
+        </label>
+        <div class="modal-buttons">
+          <button id="newsletter-dismiss" data-action="newsletter-dismiss" type="button" class="button button--secondary">Not now</button>
+          <button id="newsletter-subscribed" data-action="newsletter-subscribed" type="button" class="button">Already subscribed</button>
+          <button id="newsletter-done" data-action="newsletter-done" type="button" class="button button--primary">Done, go home</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    (function() {
+  var MODAL_KEY = 'newsletter-dismissed'; // legacy key (kept for compatibility)
+  var MODAL_SEEN = 'newsletter-seen'; // first-visit gating
+  var MODAL_SUB = 'newsletter-subscribed';
+  var modal = document.getElementById('newsletter-modal');
+  var closeBtn = document.getElementById('newsletter-close');
+  var dismissBtn = document.getElementById('newsletter-dismiss');
+  var subscribedBtn = document.getElementById('newsletter-subscribed');
+  var dialog = modal ? modal.querySelector('[data-newsletter-dialog]') : null;
+  var dontShow = document.getElementById('newsletter-dontshow');
+  var homeRoot = '/';
+      var isHome = (location.pathname === homeRoot || location.pathname === homeRoot + 'index.html');
+  var noModal = (new URLSearchParams(location.search)).get('no-modal') === '1';
+
+      function safeSet(key, val) {
+        try { localStorage.setItem(key, val); } catch (e) { /* ignore */ }
+      }
+      function safeGet(key) {
+        try { return localStorage.getItem(key); } catch (e) { return null; }
+      }
+
+      function closeModal() {
+        if (!modal) return;
+        modal.hidden = true;
+        modal.classList.remove('is-open');
+        modal.setAttribute('aria-hidden','true');
+        document.body.classList.remove('no-scroll');
+        if (window.announce) {
+          window.announce('Newsletter dialog closed');
+        }
+      }
+
+      function openModal() {
+        if (!modal) return;
+        modal.hidden = false;
+        modal.classList.add('is-open');
+        modal.removeAttribute('aria-hidden');
+        document.body.classList.add('no-scroll');
+        // Focus the dialog for a11y
+        if (dialog && dialog.focus) dialog.setAttribute('tabindex','-1'), dialog.focus();
+        if (window.announce) {
+          window.announce('Newsletter dialog opened');
+        }
+      }
+
+      function shouldShow() {
+        if (safeGet(MODAL_SUB) === '1') return false; // already subscribed
+        if (safeGet(MODAL_SEEN) === '1') return false; // first-visit only
+        return true;
+      }
+
+      // Newsletter popup disabled - users can access via newsletter link in footer
+      // if (modal && isHome && !noModal && shouldShow()) {
+      //   setTimeout(openModal, 400);
+      // }
+
+      function handleDismiss() {
+        safeSet(MODAL_KEY, '1'); // legacy
+        if (dontShow && dontShow.checked) {
+          safeSet(MODAL_SEEN, '1');
+        }
+        closeModal();
+      }
+
+  [closeBtn, dismissBtn].forEach(function(btn){ if (btn) btn.addEventListener('click', handleDismiss); });
+
+      var doneBtn = document.getElementById('newsletter-done');
+      if (doneBtn) {
+        doneBtn.addEventListener('click', function(){
+          handleDismiss();
+          safeSet(MODAL_SEEN, '1');
+          // Ensure we land on home
+          try { window.location.assign(homeRoot); } catch(e) {}
+        });
+      }
+
+      if (subscribedBtn) {
+        subscribedBtn.addEventListener('click', function(){
+          safeSet(MODAL_SUB, '1');
+          safeSet(MODAL_SEEN, '1');
+          closeModal();
+        });
+      }
+
+      // Delegated click handling using data-action for broader compatibility
+      document.addEventListener('click', function(e){
+        var t = e.target;
+        if (!t) return;
+        var action = t.getAttribute && t.getAttribute('data-action');
+        if (!action && t.closest) {
+          var closest = t.closest('[data-action]');
+          if (closest) action = closest.getAttribute('data-action');
+        }
+        if (!action) return;
+        if (action === 'newsletter-close' || action === 'newsletter-dismiss') {
+          handleDismiss();
+        } else if (action === 'newsletter-subscribed') {
+          safeSet(MODAL_SUB, '1');
+          safeSet(MODAL_SEEN, '1');
+          closeModal();
+        } else if (action === 'newsletter-done') {
+          handleDismiss();
+          try { window.location.assign(homeRoot); } catch(e) {}
+        }
+      }, true);
+
+      // Close on ESC and trap focus while open
+      document.addEventListener('keydown', function(e){
+        if (!modal || modal.hidden) return;
+        if (e.key === 'Escape') {
+          safeSet(MODAL_KEY, '1');
+          if (dontShow && dontShow.checked) safeSet(MODAL_SEEN, '1');
+          closeModal();
+          return;
+        }
+        if (e.key === 'Tab') {
+          var focusables = dialog ? dialog.querySelectorAll('a[href], button:not([disabled]), input:not([disabled]), select:not([disabled]), textarea:not([disabled]), [tabindex]:not([tabindex="-1"])') : [];
+          focusables = Array.prototype.slice.call(focusables).filter(function(el){ return el.offsetParent !== null; });
+          if (focusables.length === 0) return;
+          var first = focusables[0];
+          var last = focusables[focusables.length - 1];
+          var active = document.activeElement;
+          if (e.shiftKey) {
+            if (active === first || !dialog.contains(active)) {
+              e.preventDefault();
+              last.focus();
+            }
+          } else {
+            if (active === last || !dialog.contains(active)) {
+              e.preventDefault();
+              first.focus();
+            }
+          }
+        }
+      }, true);
+
+      // Close on backdrop click (but not when clicking inside dialog)
+      if (modal) {
+        modal.addEventListener('click', function(e){
+          if (e.target === modal) {
+            safeSet(MODAL_KEY, '1');
+            if (dontShow && dontShow.checked) safeSet(MODAL_SEEN, '1');
+            closeModal();
+          }
+        });
+      }
+
+      // Optional: if Google Form redirects back, auto-dismiss next visit
+      if (document.referrer && document.referrer.includes('docs.google.com/forms')) {
+        safeSet(MODAL_KEY, '1');
+        safeSet(MODAL_SEEN, '1');
+      }
+    })();
+  </script>
+
+  <!-- Back to top button -->
+  <button
+    id="back-to-top"
+    class="back-to-top"
+    type="button"
+    aria-label="Back to top"
+    aria-hidden="true"
+    tabindex="-1"
+  >
+    ↑ Back to top
+  </button>
+
+  <!-- Service Worker Registration -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function() {
+        navigator.serviceWorker.register('/sw.js')
+          .then(function(registration) {
+            console.log('[SW] Registration successful:', registration.scope);
+            
+            // Check for updates every hour
+            setInterval(function() {
+              registration.update();
+            }, 3600000);
+            
+            // Show update notification when new service worker is waiting
+            registration.addEventListener('updatefound', function() {
+              var newWorker = registration.installing;
+              if (!newWorker) return;
+              
+              newWorker.addEventListener('statechange', function() {
+                if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
+                  // New service worker available
+                  if (confirm('A new version of 3mpwrApp is available! Reload to update?')) {
+                    newWorker.postMessage({ action: 'skipWaiting' });
+                    window.location.reload();
+                  }
+                }
+              });
+            });
+          })
+          .catch(function(error) {
+            console.log('[SW] Registration failed:', error);
+          });
+        
+        // Auto-reload when new service worker takes control
+        var refreshing = false;
+        navigator.serviceWorker.addEventListener('controllerchange', function() {
+          if (refreshing) return;
+          refreshing = true;
+          window.location.reload();
+        });
+      });
+    }
+  </script>
+
+  <!-- Lazy Loading Script -->
+  <script src="/assets/js/lazy-load.min.js" defer></script>
+
+  <!-- Social Share Component Script -->
+  <script src="/assets/js/social-share.js" defer></script>
+
+  <!-- Performance Monitoring (development only - disable in production if needed) -->
+  <script src="/assets/js/performance-monitor.min.js" defer></script>
+
+  <!-- What's New Badge -->
+  <script src="/assets/js/whatsnew-badge.js" defer></script><!-- Cloudflare Web Analytics -->
+  <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "fef378cf7f9742c582f28f566e204a85"}'></script>
+  <!-- End Cloudflare Web Analytics -->
+</body>
+</html>

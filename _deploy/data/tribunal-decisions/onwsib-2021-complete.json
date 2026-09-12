@@ -1,0 +1,1516 @@
+[
+  {
+    "case_id": "2021canlii140787",
+    "title": "20220005 (Re)",
+    "citation": "2021 CanLII 140787 (ON WSIB)",
+    "decision_date": "2021-12-30",
+    "docket_number": "20220005",
+    "url": "https://canlii.ca/t/jm0l0",
+    "keywords_api": [
+      "worker — asbestosis — pulmonary — entitlement to an asbestos-related injury — diagnosis"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Allowed",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:45:57.172Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": true,
+      "has_legislation": false
+    },
+    "classification_method": "pattern_match",
+    "classification_confidence": 0.8,
+    "classified_at": "2026-05-15T01:14:54.378Z",
+    "pattern_match_count": 1
+  },
+  {
+    "case_id": "2021canlii140868",
+    "title": "20220008 (Re)",
+    "citation": "2021 CanLII 140868 (ON WSIB)",
+    "decision_date": "2021-12-23",
+    "docket_number": "20220008",
+    "url": "https://canlii.ca/t/jm1f9",
+    "keywords_api": [
+      "colon cancer — aromatic amines — exposures — solvents — exposure to nitrosamines"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Unknown",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:46:12.306Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    }
+  },
+  {
+    "case_id": "2021canlii140789",
+    "title": "20220006 (Re)",
+    "citation": "2021 CanLII 140789 (ON WSIB)",
+    "decision_date": "2021-12-14",
+    "docket_number": "20220006",
+    "url": "https://canlii.ca/t/jm0l1",
+    "keywords_api": [
+      "worker — employer — coffee — personal work-related injury — premises"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Allowed",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:46:27.502Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": true,
+      "has_legislation": false
+    },
+    "classification_method": "similarity_match_cross_db",
+    "classification_confidence": 0.5954545454545455,
+    "classified_at": "2026-05-15T07:00:07.752Z",
+    "matched_case": "2021canlii133937",
+    "source_database": "onwsib"
+  },
+  {
+    "case_id": "2021canlii140780",
+    "title": "20220001 (Re)",
+    "citation": "2021 CanLII 140780 (ON WSIB)",
+    "decision_date": "2021-12-14",
+    "docket_number": "20220001",
+    "url": "https://canlii.ca/t/jm0kv",
+    "keywords_api": [
+      "courthouse — stool — worker stated — deterioration — work"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Unknown",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:46:42.682Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    }
+  },
+  {
+    "case_id": "2021canlii153856",
+    "title": "20230002 (Re)",
+    "citation": "2021 CanLII 153856 (ON WSIB)",
+    "decision_date": "2021-12-10",
+    "docket_number": "20230002",
+    "url": "https://canlii.ca/t/jv6mj",
+    "keywords_api": [
+      "worker representative — return to work plan — retail — closure — earnings"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Allowed",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:46:57.852Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": true,
+      "has_legislation": false
+    },
+    "classification_method": "similarity_match_cross_db",
+    "classification_confidence": 0.6083333333333334,
+    "classified_at": "2026-05-15T22:48:54.000Z",
+    "matched_case": "2022canlii44786",
+    "source_database": "onwsib"
+  },
+  {
+    "case_id": "2021canlii140790",
+    "title": "20220002 (Re)",
+    "citation": "2021 CanLII 140790 (ON WSIB)",
+    "decision_date": "2021-12-03",
+    "docket_number": "20220002",
+    "url": "https://canlii.ca/t/jm0kw",
+    "keywords_api": [
+      "worker — subcapital fracture — x-ray — modified duties — occult"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Unknown",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:47:12.988Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    }
+  },
+  {
+    "case_id": "2021canlii140783",
+    "title": "20220004 (Re)",
+    "citation": "2021 CanLII 140783 (ON WSIB)",
+    "decision_date": "2021-12-02",
+    "docket_number": "20220004",
+    "url": "https://canlii.ca/t/jm0kz",
+    "keywords_api": [
+      "worker — tested positive — exposure — employer — symptoms"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Allowed",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:47:28.136Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": true,
+      "has_legislation": false
+    },
+    "classification_method": "similarity_match_same_db",
+    "classification_confidence": 0.69375,
+    "classified_at": "2026-05-15T07:00:11.057Z",
+    "matched_case": "2021canlii76827"
+  },
+  {
+    "case_id": "2021canlii140867",
+    "title": "20220007 (Re)",
+    "citation": "2021 CanLII 140867 (ON WSIB)",
+    "decision_date": "2021-12-01",
+    "docket_number": "20220007",
+    "url": "https://canlii.ca/t/jm1f8",
+    "keywords_api": [
+      "exposures — firefighting — worker — asbestos — peer-reviewed databases"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Reconsideration",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:47:43.269Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    },
+    "ml_classification": {
+      "confidence": 70,
+      "classified_at": "2026-05-14T20:04:06.027Z",
+      "method": "pattern_based_ml"
+    }
+  },
+  {
+    "case_id": "2021canlii145417",
+    "title": "20220014 (Re)",
+    "citation": "2021 CanLII 145417 (ON WSIB)",
+    "decision_date": "2021-11-19",
+    "docket_number": "20220014",
+    "url": "https://canlii.ca/t/jn8pf",
+    "keywords_api": [
+      "worker — breached their re-employment obligations — work-related injury — employer — re-employment obligations when they terminated"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Allowed",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:47:58.462Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": true,
+      "has_legislation": false
+    },
+    "classification_method": "similarity_match_cross_db",
+    "classification_confidence": 0.5966666666666667,
+    "classified_at": "2026-05-15T22:48:56.014Z",
+    "matched_case": "2023canlii89201",
+    "source_database": "onwsib"
+  },
+  {
+    "case_id": "2021canlii133779",
+    "title": "20210029 (Re)",
+    "citation": "2021 CanLII 133779 (ON WSIB)",
+    "decision_date": "2021-11-17",
+    "docket_number": "20210029",
+    "url": "https://canlii.ca/t/jlh88",
+    "keywords_api": [
+      "vaccination immunization — worker — reaction — compulsory — employer"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Unknown",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:48:13.591Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    }
+  },
+  {
+    "case_id": "2021canlii126669",
+    "title": "20210037 (Re)",
+    "citation": "2021 CanLII 126669 (ON WSIB)",
+    "decision_date": "2021-11-16",
+    "docket_number": "20210037",
+    "url": "https://canlii.ca/t/jl6bm",
+    "keywords_api": [
+      "pandemic — worker — non-work-related change — hospital — virus"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Unknown",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:48:28.760Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    }
+  },
+  {
+    "case_id": "2021canlii140782",
+    "title": "20210038 (Re)",
+    "citation": "2021 CanLII 140782 (ON WSIB)",
+    "decision_date": "2021-11-05",
+    "docket_number": "20210038",
+    "url": "https://canlii.ca/t/jm0ks",
+    "keywords_api": [
+      "worker — bilateral wrist tenosynovitis — injury — repetitive typing — gradual onset"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Unknown",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:48:43.876Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    }
+  },
+  {
+    "case_id": "2021canlii140788",
+    "title": "20210039 (Re)",
+    "citation": "2021 CanLII 140788 (ON WSIB)",
+    "decision_date": "2021-11-04",
+    "docket_number": "20210039",
+    "url": "https://canlii.ca/t/jm0kt",
+    "keywords_api": [
+      "worker — work-related injury — work — concussion injury — physiotherapist"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Allowed - Full",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:48:59.118Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": true,
+      "has_legislation": false
+    },
+    "classification_method": "similarity_match_cross_db",
+    "classification_confidence": 0.5954545454545455,
+    "classified_at": "2026-05-15T07:00:15.939Z",
+    "matched_case": "2025canlii111678",
+    "source_database": "onwsib"
+  },
+  {
+    "case_id": "2021canlii126674",
+    "title": "20210036 (Re)",
+    "citation": "2021 CanLII 126674 (ON WSIB)",
+    "decision_date": "2021-10-28",
+    "docket_number": "20210036",
+    "url": "https://canlii.ca/t/jl6bl",
+    "keywords_api": [
+      "worker — spinal cord stimulator — psychological — somatic symptom disorder with predominant — pain"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Unknown",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:49:14.240Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    }
+  },
+  {
+    "case_id": "2021canlii126675",
+    "title": "20210033 (Re)",
+    "citation": "2021 CanLII 126675 (ON WSIB)",
+    "decision_date": "2021-10-27",
+    "docket_number": "20210033",
+    "url": "https://canlii.ca/t/jl6bh",
+    "keywords_api": [
+      "worker — six-month deadline — disablement — lower back injury — limits to claim for benefits"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Unknown",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:49:29.441Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    }
+  },
+  {
+    "case_id": "2021canlii126667",
+    "title": "20210035 (Re)",
+    "citation": "2021 CanLII 126667 (ON WSIB)",
+    "decision_date": "2021-10-27",
+    "docket_number": "20210035",
+    "url": "https://canlii.ca/t/jl6bk",
+    "keywords_api": [
+      "worker — exposure to mineral oil — skin cancer — forehead — epitheliomatous"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Unknown",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:49:44.564Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    }
+  },
+  {
+    "case_id": "2021canlii133789",
+    "title": "20210028 (Re)",
+    "citation": "2021 CanLII 133789 (ON WSIB)",
+    "decision_date": "2021-10-26",
+    "docket_number": "20210028",
+    "url": "https://canlii.ca/t/jlh87",
+    "keywords_api": [
+      "worker — return to work — hours — restrictions — employer"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Allowed - Full",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:49:59.722Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": true,
+      "has_legislation": false
+    },
+    "classification_method": "similarity_match_cross_db",
+    "classification_confidence": 0.5954545454545455,
+    "classified_at": "2026-05-15T07:00:20.794Z",
+    "matched_case": "2022canlii89426",
+    "source_database": "onwsib"
+  },
+  {
+    "case_id": "2021canlii133806",
+    "title": "20210030 (Re)",
+    "citation": "2021 CanLII 133806 (ON WSIB)",
+    "decision_date": "2021-10-20",
+    "docket_number": "20210030",
+    "url": "https://canlii.ca/t/jlh89",
+    "keywords_api": [
+      "worker — virus — contracted — infected — employer"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Unknown",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:50:14.847Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    }
+  },
+  {
+    "case_id": "2021canlii126672",
+    "title": "20210034 (Re)",
+    "citation": "2021 CanLII 126672 (ON WSIB)",
+    "decision_date": "2021-10-06",
+    "docket_number": "20210034",
+    "url": "https://canlii.ca/t/jl6bj",
+    "keywords_api": [
+      "worker — permanent impairment — impairment for their narcotic dependence — ankle — opioid"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Unknown",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:50:29.974Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    }
+  },
+  {
+    "case_id": "2021canlii133778",
+    "title": "20210031 (Re)",
+    "citation": "2021 CanLII 133778 (ON WSIB)",
+    "decision_date": "2021-10-05",
+    "docket_number": "20210031",
+    "url": "https://canlii.ca/t/jlh8b",
+    "keywords_api": [
+      "audiogram — worker — noise exposure — basic eligibility criteria — loss"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Unknown",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:50:45.091Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    }
+  },
+  {
+    "case_id": "2021canlii133810",
+    "title": "20210019 (Re)",
+    "citation": "2021 CanLII 133810 (ON WSIB)",
+    "decision_date": "2021-09-24",
+    "docket_number": "20210019",
+    "url": "https://canlii.ca/t/jlh7x",
+    "keywords_api": [
+      "layoff — worker — work-related injuries — benefits — employer"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Unknown",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:51:00.345Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    }
+  },
+  {
+    "case_id": "2021canlii133822",
+    "title": "20210018 (Re)",
+    "citation": "2021 CanLII 133822 (ON WSIB)",
+    "decision_date": "2021-09-21",
+    "docket_number": "20210018",
+    "url": "https://canlii.ca/t/jlh7w",
+    "keywords_api": [
+      "employer — worker indicated — work-related injury — lower — shoulder"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Allowed",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:51:15.465Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": true,
+      "has_legislation": false
+    },
+    "classification_method": "similarity_match_cross_db",
+    "classification_confidence": 0.5954545454545455,
+    "classified_at": "2026-05-15T07:00:25.516Z",
+    "matched_case": "2021canlii133937",
+    "source_database": "onwsib"
+  },
+  {
+    "case_id": "2021canlii133807",
+    "title": "20210020 (Re)",
+    "citation": "2021 CanLII 133807 (ON WSIB)",
+    "decision_date": "2021-09-07",
+    "docket_number": "20210020",
+    "url": "https://canlii.ca/t/jlh7z",
+    "keywords_api": [
+      "area — worker — fifth floor — accident — carpet"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Unknown",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:51:30.610Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    }
+  },
+  {
+    "case_id": "2021canlii133802",
+    "title": "20210027 (Re)",
+    "citation": "2021 CanLII 133802 (ON WSIB)",
+    "decision_date": "2021-08-30",
+    "docket_number": "20210027",
+    "url": "https://canlii.ca/t/jlh86",
+    "keywords_api": [
+      "positive co-worker — worker — infection — virus — interactions"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Unknown",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:51:45.734Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    }
+  },
+  {
+    "case_id": "2021canlii133833",
+    "title": "20210032 (Re)",
+    "citation": "2021 CanLII 133833 (ON WSIB)",
+    "decision_date": "2021-08-24",
+    "docket_number": "20210032",
+    "url": "https://canlii.ca/t/jlh8c",
+    "keywords_api": [
+      "employer — fatal claim premium adjustment — loader — worker — policy"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Unknown",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:52:00.883Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    }
+  },
+  {
+    "case_id": "2021canlii133805",
+    "title": "20210021 (Re)",
+    "citation": "2021 CanLII 133805 (ON WSIB)",
+    "decision_date": "2021-08-12",
+    "docket_number": "20210021",
+    "url": "https://canlii.ca/t/jlh80",
+    "keywords_api": [
+      "worker — substantial work-related stressor — mid — harassment — incident"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Unknown",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:52:16.006Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    }
+  },
+  {
+    "case_id": "2021canlii133784",
+    "title": "20210026 (Re)",
+    "citation": "2021 CanLII 133784 (ON WSIB)",
+    "decision_date": "2021-08-11",
+    "docket_number": "20210026",
+    "url": "https://canlii.ca/t/jlh85",
+    "keywords_api": [
+      "worker — hip — shoulder — major depressive disorder — earnings"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Unknown",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:52:31.144Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    }
+  },
+  {
+    "case_id": "2021canlii97498",
+    "title": "20210014 (Re)",
+    "citation": "2021 CanLII 97498 (ON WSIB)",
+    "decision_date": "2021-08-06",
+    "docket_number": "20210014",
+    "url": "https://canlii.ca/t/jjkd8",
+    "keywords_api": [
+      "worker — chronic pain disability — pre-injury earnings — permanent work disruption — work-related injury"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Interim Decision",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:52:46.271Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": true,
+      "has_legislation": false
+    },
+    "classification_method": "similarity_match_cross_db",
+    "classification_confidence": 0.5970588235294119,
+    "classified_at": "2026-05-15T01:15:50.106Z",
+    "matched_case": "2022canlii68190",
+    "source_database": "onwsib"
+  },
+  {
+    "case_id": "2021canlii97488",
+    "title": "20210017 (Re)",
+    "citation": "2021 CanLII 97488 (ON WSIB)",
+    "decision_date": "2021-07-30",
+    "docket_number": "20210017",
+    "url": "https://canlii.ca/t/jjkdc",
+    "keywords_api": [
+      "worker — stepmom — cardiac — acute emotional stress — chest"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Unknown",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:53:01.464Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    }
+  },
+  {
+    "case_id": "2021canlii97485",
+    "title": "20210015 (Re)",
+    "citation": "2021 CanLII 97485 (ON WSIB)",
+    "decision_date": "2021-07-24",
+    "docket_number": "20210015",
+    "url": "https://canlii.ca/t/jjkd9",
+    "keywords_api": [
+      "Workplace health and safety — Occupational disease — COVID‑19 entitlement — Workplace Safety and Insurance Act, s. 2(1), s. 15 — Policy 11‑01‑01, Schedules 3 and 4 — Whether employment in a long‑term care home significantly contributed to COVID‑19 — Multiple positive tests and identified resident exposure — Adjudicative Approach Document considered — Balance of probabilities met — Initial entitlement allowed | Workplace health and safety — Benefits — Loss of earnings (LOE) — Policy 18‑03‑02 — Whether worker entitled to ongoing LOE benefits as of July 20, 2020 — Partial impairment found and suitable modified duties available at own pace — Medical evidence showed improving symptoms and capacity for walking with rests — Compatibility with modified work established — Ongoing LOE benefits denied"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [
+      "Workplace Safety and Insurance Act, s. 2"
+    ],
+    "legislation_count": 1,
+    "outcome": "Mixed / Partially Allowed",
+    "outcome_confidence": "medium",
+    "outcome_evidence": "/entitlement\\s+allowed/i + /benefits\\s+denied/i",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:53:16.621Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": true,
+      "has_legislation": true
+    }
+  },
+  {
+    "case_id": "2021canlii156034",
+    "title": "20260013 (Re)",
+    "citation": "2021 CanLII 156034 (ON WSIB)",
+    "decision_date": "2021-07-08",
+    "docket_number": "20260013",
+    "url": "https://canlii.ca/t/kksdw",
+    "keywords_api": [
+      "Labour and employment — Workers’ compensation entitlement — Initial entitlement — Whether the worker was in the course of his employment when fatally injured while felling a tree — Five point check system applied to accident, employer, worker and diagnosis — Chance event found during regular business hours on development site — Initial entitlement allowed | Labour and employment — Statutory presumption — Workplace Safety and Insurance Act, s. 13(2) — Does the presumption that an accident in the course of employment arises out of employment apply and is it rebutted? — Accident accepted as chance event — No contrary evidence shown — Presumption engaged and not rebutted — Initial entitlement allowed | Labour and employment — Coverage — Partnership and Bill 119 — Did partnership status and mandatory coverage establish the worker as a covered worker? — Partner in a partnership with coverage confirmed by WSIB account information — Property acquired and developed as a business endeavour of the partnership — Activities performed for the company — Coverage established — Initial entitlement allowed"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [
+      "Workplace Safety and Insurance Act, s. 13"
+    ],
+    "legislation_count": 1,
+    "outcome": "Allowed - Full",
+    "outcome_confidence": "high",
+    "outcome_evidence": "/entitlement\\s+allowed/i",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:53:31.764Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": true,
+      "has_legislation": true
+    }
+  },
+  {
+    "case_id": "2021canlii97495",
+    "title": "20210016 (Re)",
+    "citation": "2021 CanLII 97495 (ON WSIB)",
+    "decision_date": "2021-07-08",
+    "docket_number": "20210016",
+    "url": "https://canlii.ca/t/jjkdb",
+    "keywords_api": [
+      "worker — accident — property — partnership — work-related injury"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Unknown",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:53:46.886Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    }
+  },
+  {
+    "case_id": "2021canlii133787",
+    "title": "20210023 (Re)",
+    "citation": "2021 CanLII 133787 (ON WSIB)",
+    "decision_date": "2021-06-24",
+    "docket_number": "20210023",
+    "url": "https://canlii.ca/t/jlh82",
+    "keywords_api": [
+      "pre-existing condition — worker — work-related permanent impairment — work-related injury disease — shoulder"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Allowed",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:54:02.047Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": true,
+      "has_legislation": false
+    },
+    "classification_method": "similarity_match_cross_db",
+    "classification_confidence": 0.6038461538461539,
+    "classified_at": "2026-05-15T22:49:13.882Z",
+    "matched_case": "2023canlii89201",
+    "source_database": "onwsib"
+  },
+  {
+    "case_id": "2021canlii76828",
+    "title": "20210006 (Re)",
+    "citation": "2021 CanLII 76828 (ON WSIB)",
+    "decision_date": "2021-06-21",
+    "docket_number": "20210006",
+    "url": "https://canlii.ca/t/jhn22",
+    "keywords_api": [
+      "worker — tested positive — representative — kitchen — initial entitlement"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Allowed",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:54:17.172Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": true,
+      "has_legislation": false
+    },
+    "classification_method": "pattern_match",
+    "classification_confidence": 0.8,
+    "classified_at": "2026-05-15T01:15:56.292Z",
+    "pattern_match_count": 1
+  },
+  {
+    "case_id": "2021canlii76827",
+    "title": "20210007 (Re)",
+    "citation": "2021 CanLII 76827 (ON WSIB)",
+    "decision_date": "2021-06-21",
+    "docket_number": "20210007",
+    "url": "https://canlii.ca/t/jhn23",
+    "keywords_api": [
+      "worker — employer — symptoms — positive — entitlement"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Allowed",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:54:32.300Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": true,
+      "has_legislation": false
+    },
+    "classification_method": "pattern_match",
+    "classification_confidence": 0.8,
+    "classified_at": "2026-05-15T01:15:56.292Z",
+    "pattern_match_count": 1
+  },
+  {
+    "case_id": "2021canlii76826",
+    "title": "20210012 (Re)",
+    "citation": "2021 CanLII 76826 (ON WSIB)",
+    "decision_date": "2021-06-21",
+    "docket_number": "20210012",
+    "url": "https://canlii.ca/t/jhn27",
+    "keywords_api": [
+      "ophthalmologist — eye — worker — fiberglass — foreign bodies"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Unknown",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:54:47.425Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    }
+  },
+  {
+    "case_id": "2021canlii97496",
+    "title": "20210013 (Re)",
+    "citation": "2021 CanLII 97496 (ON WSIB)",
+    "decision_date": "2021-06-14",
+    "docket_number": "20210013",
+    "url": "https://canlii.ca/t/jjkd7",
+    "keywords_api": [
+      "worker — earnings — hours — work — partial loss"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Unknown",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:55:02.718Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    }
+  },
+  {
+    "case_id": "2021canlii133938",
+    "title": "20210025 (Re)",
+    "citation": "2021 CanLII 133938 (ON WSIB)",
+    "decision_date": "2021-05-11",
+    "docket_number": "20210025",
+    "url": "https://canlii.ca/t/jlh84",
+    "keywords_api": [
+      "worker — knee — meniscus — pre-existing condition — tear"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Allowed",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:55:17.861Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": true,
+      "has_legislation": false
+    },
+    "classification_method": "similarity_match_cross_db",
+    "classification_confidence": 0.5954545454545455,
+    "classified_at": "2026-05-15T07:00:35.551Z",
+    "matched_case": "2022canlii132548",
+    "source_database": "onwsib"
+  },
+  {
+    "case_id": "2021canlii133939",
+    "title": "20210024 (Re)",
+    "citation": "2021 CanLII 133939 (ON WSIB)",
+    "decision_date": "2021-05-05",
+    "docket_number": "20210024",
+    "url": "https://canlii.ca/t/jlh83",
+    "keywords_api": [
+      "worker — paramedic services — mental stress — traumatic events — responder"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Allowed",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:55:32.979Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": true,
+      "has_legislation": false
+    },
+    "classification_method": "similarity_match_cross_db",
+    "classification_confidence": 0.6000000000000001,
+    "classified_at": "2026-05-15T22:49:16.867Z",
+    "matched_case": "2023onwsiat1734",
+    "source_database": "unknown"
+  },
+  {
+    "case_id": "2021canlii76570",
+    "title": "20210011 (Re)",
+    "citation": "2021 CanLII 76570 (ON WSIB)",
+    "decision_date": "2021-05-04",
+    "docket_number": "20210011",
+    "url": "https://canlii.ca/t/jhn26",
+    "keywords_api": [
+      "worker — cirrhosis — liver disease — neck — pain"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Unknown",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:55:48.180Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    }
+  },
+  {
+    "case_id": "2021canlii76825",
+    "title": "20210008 (Re)",
+    "citation": "2021 CanLII 76825 (ON WSIB)",
+    "decision_date": "2021-05-01",
+    "docket_number": "20210008",
+    "url": "https://canlii.ca/t/jhn24",
+    "keywords_api": [
+      "peroneus brevis — longitudinal split tear — foot — worker — ankle"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Unknown",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:56:03.424Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    }
+  },
+  {
+    "case_id": "2021canlii76573",
+    "title": "20210010 (Re)",
+    "citation": "2021 CanLII 76573 (ON WSIB)",
+    "decision_date": "2021-04-28",
+    "docket_number": "20210010",
+    "url": "https://canlii.ca/t/jhn25",
+    "keywords_api": [
+      "worker — re-employment obligation — employer — work — injury"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Allowed",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:56:18.550Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": true,
+      "has_legislation": false
+    },
+    "classification_method": "similarity_match_same_db",
+    "classification_confidence": 0.7,
+    "classified_at": "2026-05-15T07:00:38.484Z",
+    "matched_case": "2021canlii133937"
+  },
+  {
+    "case_id": "2021canlii133937",
+    "title": "20210022 (Re)",
+    "citation": "2021 CanLII 133937 (ON WSIB)",
+    "decision_date": "2021-04-23",
+    "docket_number": "20210022",
+    "url": "https://canlii.ca/t/jlh81",
+    "keywords_api": [
+      "worker — re-employment obligation — employer — work-related injury — entitlement"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Allowed",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:56:33.673Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": true,
+      "has_legislation": false
+    },
+    "classification_method": "pattern_match",
+    "classification_confidence": 0.8,
+    "classified_at": "2026-05-15T01:16:05.900Z",
+    "pattern_match_count": 1
+  },
+  {
+    "case_id": "2021canlii151083",
+    "title": "20220056 (Re)",
+    "citation": "2021 CanLII 151083 (ON WSIB)",
+    "decision_date": "2021-04-06",
+    "docket_number": "20220056",
+    "url": "https://canlii.ca/t/jpz5k",
+    "keywords_api": [
+      "worker — shoulder — develop avascular necrosis — injury — arthroplasty"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Unknown",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:56:48.831Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    }
+  },
+  {
+    "case_id": "2021canlii65132",
+    "title": "20210005 (Re)",
+    "citation": "2021 CanLII 65132 (ON WSIB)",
+    "decision_date": "2021-03-19",
+    "docket_number": "20210005",
+    "url": "https://canlii.ca/t/jh5qh",
+    "keywords_api": [
+      "squamous cell carcinoma — cancer — worker — cells — tongue"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Unknown",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:57:04.063Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    }
+  },
+  {
+    "case_id": "2021canlii65265",
+    "title": "20210004 (Re)",
+    "citation": "2021 CanLII 65265 (ON WSIB)",
+    "decision_date": "2021-02-25",
+    "docket_number": "20210004",
+    "url": "https://canlii.ca/t/jh5qg",
+    "keywords_api": [
+      "worker — psychological — symptoms — return to work — clinical"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Allowed - Full",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:57:19.213Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": true,
+      "has_legislation": false
+    },
+    "classification_method": "similarity_match_cross_db",
+    "classification_confidence": 0.6083333333333334,
+    "classified_at": "2026-05-15T07:00:41.286Z",
+    "matched_case": "2023canlii100645",
+    "source_database": "onwsib"
+  },
+  {
+    "case_id": "2021canlii65124",
+    "title": "20210002 (Re)",
+    "citation": "2021 CanLII 65124 (ON WSIB)",
+    "decision_date": "2021-02-24",
+    "docket_number": "20210002",
+    "url": "https://canlii.ca/t/jh5qd",
+    "keywords_api": [
+      "psychotraumatic disability — masks — worker — mental health — work-related injury"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Allowed",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:57:34.465Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": true,
+      "has_legislation": false
+    },
+    "classification_method": "similarity_match_cross_db",
+    "classification_confidence": 0.6000000000000001,
+    "classified_at": "2026-05-15T07:00:42.199Z",
+    "matched_case": "2024canlii64305",
+    "source_database": "onwsib"
+  },
+  {
+    "case_id": "2021canlii65118",
+    "title": "20210003 (Re)",
+    "citation": "2021 CanLII 65118 (ON WSIB)",
+    "decision_date": "2021-02-12",
+    "docket_number": "20210003",
+    "url": "https://canlii.ca/t/jh5qf",
+    "keywords_api": [
+      "worker — post-concussion syndrome — sleep apnea — work-related impairment — symptoms"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Unknown",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:57:49.598Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    }
+  },
+  {
+    "case_id": "2021canlii65112",
+    "title": "20210001 (Re)",
+    "citation": "2021 CanLII 65112 (ON WSIB)",
+    "decision_date": "2021-01-26",
+    "docket_number": "20210001",
+    "url": "https://canlii.ca/t/jh5qc",
+    "keywords_api": [
+      "worker — co-worker — substantial work-related stressor — incident — physical violence"
+    ],
+    "keywords_extracted": [],
+    "legislation_cited": [],
+    "legislation_count": 0,
+    "outcome": "Unknown",
+    "outcome_confidence": "low",
+    "outcome_evidence": "no-pattern-match",
+    "has_disability_ground": false,
+    "full_text_html": "",
+    "full_text_length": 0,
+    "tribunal": "Ontario Workplace Safety and Insurance Board",
+    "database": "onwsib",
+    "scraped_at": "2026-05-08T17:58:04.731Z",
+    "data_quality": {
+      "has_full_text": false,
+      "has_keywords": false,
+      "has_outcome": false,
+      "has_legislation": false
+    }
+  }
+]
