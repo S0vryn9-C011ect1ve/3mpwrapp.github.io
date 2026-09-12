@@ -1,3 +1,8 @@
+---
+title: Neck Injuries and Whiplash Claims: Navigating WSIB's "Soft Tissue" Trap
+description: > **⚠️ STATISTICAL ALERT:** Neck injuries (whiplash, cervical strain, herniated discs) represent **485 cases (4.2%)** of all WSIB tribunal decisions (2020-
+---
+
 # Neck Injuries and Whiplash Claims: Navigating WSIB's "Soft Tissue" Trap
 
 > **⚠️ STATISTICAL ALERT:** Neck injuries (whiplash, cervical strain, herniated discs) represent **485 cases (4.2%)** of all WSIB tribunal decisions (2020-2026). WSIB systematically denies these claims as "soft tissue injuries with no objective findings" despite MRI evidence and widespread occupational causation.
@@ -628,10 +633,10 @@ From our analysis of 98,992 tribunal decisions (2020-2026):
 ## Related Resources
 
 **3mpwrApp Knowledge Base:**
-- [Shoulder Injuries](shoulder-rotator-cuff-claims.md) - Similar soft tissue denial patterns
-- [Chronic Pain Claims](chronic-pain-claims.md) - If neck injury leads to chronic pain
-- [Pre-Existing Conditions](pre-existing-conditions.md) - Countering degeneration denials
-- [Permanent Impairment Ratings](permanent-impairment-rating.md) - NEL benefits
+- [Shoulder Injuries](/knowledge-base/shoulder-rotator-cuff-claims/) - Similar soft tissue denial patterns
+- [Chronic Pain Claims](/knowledge-base/chronic-pain-claims/) - If neck injury leads to chronic pain
+- [Pre-Existing Conditions](/knowledge-base/pre-existing-conditions/) - Countering degeneration denials
+- [Permanent Impairment Ratings](/knowledge-base/permanent-impairment-rating/) - NEL benefits
 
 **3mpwrApp Templates:**
 - Neck Injury Appeal Template (coming soon)
@@ -658,6 +663,6 @@ From our analysis of 98,992 tribunal decisions (2020-2026):
 ---
 
 **Questions? Need help?**
-📧 empowrapp08162025@gmail.com
+📧 privacy@3mpwrapp.ca
 
 *Last updated: April 15, 2026 | Based on 98,992 ONWSIAT decisions (2020-2026)*

@@ -1,3 +1,8 @@
+---
+title: Claim Suppression & Employer Retaliation
+description: This guide helps injured workers recognize and challenge claim suppression tactics—when employers discourage, prevent, or punish workers for filing or purs
+---
+
 # Claim Suppression & Employer Retaliation
 
 ## 📋 What This Guide Covers
@@ -337,7 +342,7 @@ If employer requires medical assessment:
 - Practical resources for navigating tribunals
 - Research on access to justice issues
 
-**Contact:** representingyourself@gmail.com
+**Contact:** privacy@3mpwrapp.ca
 
 **How they can help:**
 - Understanding tribunal procedures
@@ -401,7 +406,7 @@ If employer requires medical assessment:
 
 - **National Self-Represented Litigants Project (NSRLP)**  
   University of Windsor Faculty of Law  
-  Email: representingyourself@gmail.com
+  Email: privacy@3mpwrapp.ca
 
 - **WorkSafeBC** (BC claim suppression enforcement)
 
@@ -438,9 +443,9 @@ If employer requires medical assessment:
 ## 🛠️ Related Resources
 
 **3mpwr Knowledge Base:**
-- [Pre-Existing Conditions](../data/knowledge-base/pre-existing-conditions.md) - Denial tactic patterns
-- [Chronic Pain Claims](../data/knowledge-base/chronic-pain-claims.md) - Invisible disability denials
-- [Fibromyalgia Claims](../data/knowledge-base/fibromyalgia-claims.md) - Mental health stigma
+- [Pre-Existing Conditions](/knowledge-base/pre-existing-conditions/) - Denial tactic patterns
+- [Chronic Pain Claims](/knowledge-base/chronic-pain-claims/) - Invisible disability denials
+- [Fibromyalgia Claims](/knowledge-base/fibromyalgia-claims/) - Mental health stigma
 
 **3mpwr Templates:**
 - [Labour Relations Exclusion Appeal](../data/templates/labour-relations-exclusion-appeal.md) - Challenge employer retaliation exclusions

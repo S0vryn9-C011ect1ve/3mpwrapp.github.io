@@ -1,3 +1,8 @@
+---
+title: Occupational Hearing Loss & Tinnitus: Breaking WSIB's "Age-Related Presbycusis" Denial
+description: > **⚠️ STATISTICAL ALERT:** Occupational hearing loss cases represent only **38 documented cases (0.3%)** of all WSIB tribunal decisions (2020-2026). This 
+---
+
 # Occupational Hearing Loss & Tinnitus: Breaking WSIB's "Age-Related Presbycusis" Denial
 
 > **⚠️ STATISTICAL ALERT:** Occupational hearing loss cases represent only **38 documented cases (0.3%)** of all WSIB tribunal decisions (2020-2026). This DRAMATIC UNDERREPRESENTATION reveals systematic suppression of occupational disease claims despite thousands of Ontario workers exposed to hazardous noise levels daily.
@@ -389,8 +394,8 @@ Questions to ask:
 ## Related Resources
 
 **3mpwrApp Knowledge Base:**
-- [Psychotraumatic Disability](psychotraumatic-disability.md) - Secondary depression/anxiety from tinnitus
-- [Permanent Impairment Ratings](permanent-impairment-rating.md) - Hearing loss & tinnitus ratings
+- [Psychotraumatic Disability](/knowledge-base/psychotraumatic-disability/) - Secondary depression/anxiety from tinnitus
+- [Permanent Impairment Ratings](/knowledge-base/permanent-impairment-rating/) - Hearing loss & tinnitus ratings
 
 **Research:**
 - [WSIB Exposed: 8 Smoking Guns](https://3mpwrapp.ca/blog/2026/04/15/wsib-exposed-statistical-evidence-proves-systematic-manipulation/)
@@ -425,6 +430,6 @@ Questions to ask:
 ---
 
 **Questions? Need help?**
-📧 empowrapp08162025@gmail.com
+📧 privacy@3mpwrapp.ca
 
 *Last updated: April 15, 2026 | Based on 98,992 ONWSIAT decisions (2020-2026)*

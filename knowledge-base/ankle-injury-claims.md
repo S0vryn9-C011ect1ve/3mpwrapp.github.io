@@ -1,3 +1,8 @@
+---
+title: Ankle Injuries: Breaking WSIB's "Minor Sprain, MRI Normal" Denial
+description: > **⚠️ STATISTICAL ALERT:** Ankle injuries (sprains, fractures, Achilles tendinitis, chronic instability) represent **272 cases (2.4%)** of all WSIB tribun
+---
+
 # Ankle Injuries: Breaking WSIB's "Minor Sprain, MRI Normal" Denial
 
 > **⚠️ STATISTICAL ALERT:** Ankle injuries (sprains, fractures, Achilles tendinitis, chronic instability) represent **272 cases (2.4%)** of all WSIB tribunal decisions (2020-2026). WSIB systematically denies ankle claims as "minor sprains, healed" despite chronic instability and long-term complications.
@@ -485,9 +490,9 @@ From our analysis of 98,992 tribunal decisions (2020-2026):
 ## Related Resources
 
 **3mpwrApp Knowledge Base:**
-- [Chronic Pain Claims](chronic-pain-claims.md) - If ankle injury leads to CRPS
-- [Knee Injuries](knee-injury-claims.md) - Similar post-traumatic arthritis issues
-- [Permanent Impairment Ratings](permanent-impairment-rating.md) - Ankle arthritis rated unfairly low
+- [Chronic Pain Claims](/knowledge-base/chronic-pain-claims/) - If ankle injury leads to CRPS
+- [Knee Injuries](/knowledge-base/knee-injury-claims/) - Similar post-traumatic arthritis issues
+- [Permanent Impairment Ratings](/knowledge-base/permanent-impairment-rating/) - Ankle arthritis rated unfairly low
 
 **Research:**
 - [WSIB Exposed: 8 Smoking Guns](https://3mpwrapp.ca/blog/2026/04/15/wsib-exposed-statistical-evidence-proves-systematic-manipulation/)
@@ -516,6 +521,6 @@ From our analysis of 98,992 tribunal decisions (2020-2026):
 ---
 
 **Questions? Need help?**
-📧 empowrapp08162025@gmail.com
+📧 privacy@3mpwrapp.ca
 
 *Last updated: April 15, 2026 | Based on 98,992 ONWSIAT decisions (2020-2026)*

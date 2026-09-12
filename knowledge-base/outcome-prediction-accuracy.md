@@ -6,7 +6,9 @@ tags: [ai-predictions, accuracy, tribunal-outcomes, methodology]
 excerpt: Understand how we achieve 79% accuracy predicting tribunal outcomes—and when you should trust vs. question the predictions.
 date: 2026-04-28
 last_updated: 2026-04-28
+description: **Short answer:** Our AI model correctly predicts tribunal outcomes **79.0% of the time** when tested on cases it's never seen before.
 ---
+
 
 # How Accurate Are Outcome Predictions?
 
@@ -159,11 +161,11 @@ last_updated: 2026-04-28
 ## Related Resources
 
 - **[Understanding Tribunal Outcomes](/knowledge-base/understanding-tribunal-outcomes/)** - What "Allowed," "Dismissed," etc. mean
-- **[What Affects Your Appeal Outcome?](/knowledge-base/what-affects-appeal-outcome/)** - Evidence factors that predict success
+- **[What Affects Your Appeal Outcome?](/knowledge-base/understanding-tribunal-outcomes/)** - Evidence factors that predict success
 - **[All Outcome Statistics →](/research.html#ai-powered-outcome-predictions)** - Full research methodology
 
 ---
 
-**📧 Email:** empowrapp08162025@gmail.com  
+**📧 Email:** privacy@3mpwrapp.ca  
 **🔗 Mastodon:** [@3mpwrApp@mastodon.social](https://mastodon.social/@3mpwrApp)  
 **🔗 Bluesky:** [@3mpwrapp.bsky.social](https://bsky.app/profile/3mpwrapp.bsky.social)

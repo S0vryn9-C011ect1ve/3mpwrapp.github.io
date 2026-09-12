@@ -1,0 +1,509 @@
+{
+  "generated_at": "2026-04-05T16:53:46.450Z",
+  "total_decisions": 13296,
+  "date_range": "2000-01-01 to 2026-04-04",
+  "outcomes": {
+    "Unknown": 12888,
+    "Allowed": 248,
+    "Dismissed": 160
+  },
+  "conditions": {
+    "chronic fatigue": {
+      "total": 4914,
+      "allowed": 81,
+      "dismissed": 66,
+      "denied": 0
+    },
+    "ms": {
+      "total": 185,
+      "allowed": 4,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "disc": {
+      "total": 531,
+      "allowed": 4,
+      "dismissed": 6,
+      "denied": 0
+    },
+    "hip": {
+      "total": 357,
+      "allowed": 2,
+      "dismissed": 6,
+      "denied": 0
+    },
+    "disability": {
+      "total": 1108,
+      "allowed": 14,
+      "dismissed": 21,
+      "denied": 0
+    },
+    "hearing loss": {
+      "total": 150,
+      "allowed": 4,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "chronic pain": {
+      "total": 189,
+      "allowed": 2,
+      "dismissed": 3,
+      "denied": 0
+    },
+    "mental health": {
+      "total": 599,
+      "allowed": 14,
+      "dismissed": 9,
+      "denied": 0
+    },
+    "impairment": {
+      "total": 1279,
+      "allowed": 15,
+      "dismissed": 21,
+      "denied": 0
+    },
+    "neck": {
+      "total": 560,
+      "allowed": 8,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "nerve damage": {
+      "total": 191,
+      "allowed": 3,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "shoulder": {
+      "total": 1416,
+      "allowed": 31,
+      "dismissed": 27,
+      "denied": 0
+    },
+    "injury": {
+      "total": 2224,
+      "allowed": 35,
+      "dismissed": 39,
+      "denied": 0
+    },
+    "knee": {
+      "total": 891,
+      "allowed": 26,
+      "dismissed": 15,
+      "denied": 0
+    },
+    "labral tear": {
+      "total": 38,
+      "allowed": 0,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "tear": {
+      "total": 509,
+      "allowed": 11,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "back injury": {
+      "total": 621,
+      "allowed": 13,
+      "dismissed": 9,
+      "denied": 0
+    },
+    "strain": {
+      "total": 288,
+      "allowed": 6,
+      "dismissed": 3,
+      "denied": 0
+    },
+    "depression": {
+      "total": 134,
+      "allowed": 4,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "ankle": {
+      "total": 300,
+      "allowed": 7,
+      "dismissed": 3,
+      "denied": 0
+    },
+    "foot": {
+      "total": 115,
+      "allowed": 3,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "arm": {
+      "total": 87,
+      "allowed": 4,
+      "dismissed": 3,
+      "denied": 0
+    },
+    "rotator cuff": {
+      "total": 349,
+      "allowed": 5,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "sprain": {
+      "total": 122,
+      "allowed": 2,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "stress": {
+      "total": 230,
+      "allowed": 2,
+      "dismissed": 7,
+      "denied": 0
+    },
+    "hand": {
+      "total": 256,
+      "allowed": 1,
+      "dismissed": 3,
+      "denied": 0
+    },
+    "carpal tunnel": {
+      "total": 82,
+      "allowed": 1,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "concussion": {
+      "total": 301,
+      "allowed": 5,
+      "dismissed": 3,
+      "denied": 0
+    },
+    "PTSD": {
+      "total": 48,
+      "allowed": 1,
+      "dismissed": 7,
+      "denied": 0
+    },
+    "elbow": {
+      "total": 184,
+      "allowed": 0,
+      "dismissed": 3,
+      "denied": 0
+    },
+    "wrist": {
+      "total": 421,
+      "allowed": 10,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "anxiety": {
+      "total": 218,
+      "allowed": 0,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "arthritis": {
+      "total": 198,
+      "allowed": 5,
+      "dismissed": 6,
+      "denied": 0
+    },
+    "osteoarthritis": {
+      "total": 156,
+      "allowed": 5,
+      "dismissed": 3,
+      "denied": 0
+    },
+    "fracture": {
+      "total": 108,
+      "allowed": 1,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "leg": {
+      "total": 126,
+      "allowed": 0,
+      "dismissed": 3,
+      "denied": 0
+    },
+    "headache": {
+      "total": 120,
+      "allowed": 4,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "cancer": {
+      "total": 149,
+      "allowed": 3,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "respiratory": {
+      "total": 130,
+      "allowed": 2,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "tendinitis": {
+      "total": 114,
+      "allowed": 1,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "neuropathy": {
+      "total": 39,
+      "allowed": 1,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "bursitis": {
+      "total": 30,
+      "allowed": 0,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "fibromyalgia": {
+      "total": 66,
+      "allowed": 3,
+      "dismissed": 3,
+      "denied": 0
+    },
+    "dermatitis": {
+      "total": 37,
+      "allowed": 1,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "sciatica": {
+      "total": 16,
+      "allowed": 0,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "vision loss": {
+      "total": 78,
+      "allowed": 0,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "MS": {
+      "total": 2,
+      "allowed": 0,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "rheumatoid arthritis": {
+      "total": 10,
+      "allowed": 0,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "occupational disease": {
+      "total": 5,
+      "allowed": 0,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "sinus tarsi syndrome": {
+      "total": 2,
+      "allowed": 0,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "spine": {
+      "total": 76,
+      "allowed": 1,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "cervical": {
+      "total": 58,
+      "allowed": 1,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "post-traumatic stress": {
+      "total": 10,
+      "allowed": 1,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "disc herniation": {
+      "total": 44,
+      "allowed": 1,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "low back": {
+      "total": 132,
+      "allowed": 3,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "tendinosis": {
+      "total": 27,
+      "allowed": 1,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "lumbar": {
+      "total": 53,
+      "allowed": 1,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "meniscus": {
+      "total": 17,
+      "allowed": 1,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "brain injury": {
+      "total": 13,
+      "allowed": 1,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "herniated disc": {
+      "total": 2,
+      "allowed": 1,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "multiple sclerosis": {
+      "total": 1,
+      "allowed": 0,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "tbi": {
+      "total": 1,
+      "allowed": 0,
+      "dismissed": 0,
+      "denied": 0
+    }
+  },
+  "evidence": {
+    "IME": {
+      "total": 1108,
+      "in_wins": 10,
+      "in_losses": 6
+    },
+    "Employment records": {
+      "total": 12,
+      "in_wins": 0,
+      "in_losses": 0
+    },
+    "Witness testimony": {
+      "total": 8,
+      "in_wins": 0,
+      "in_losses": 0
+    },
+    "Timeline/history": {
+      "total": 2,
+      "in_wins": 0,
+      "in_losses": 0
+    },
+    "Medical records": {
+      "total": 34,
+      "in_wins": 3,
+      "in_losses": 0
+    },
+    "Family physician report": {
+      "total": 51,
+      "in_wins": 0,
+      "in_losses": 0
+    },
+    "Medical imaging": {
+      "total": 18,
+      "in_wins": 0,
+      "in_losses": 0
+    },
+    "Vocational assessment": {
+      "total": 33,
+      "in_wins": 1,
+      "in_losses": 6
+    },
+    "Medical literature": {
+      "total": 3,
+      "in_wins": 0,
+      "in_losses": 0
+    }
+  },
+  "key_factors": {
+    "Credible testimony": {
+      "total": 12,
+      "in_wins": 0,
+      "in_losses": 0,
+      "success_factor_count": 12
+    },
+    "Insufficient evidence": {
+      "total": 8,
+      "in_wins": 0,
+      "in_losses": 0,
+      "success_factor_count": 0
+    },
+    "Credibility issues": {
+      "total": 4,
+      "in_wins": 0,
+      "in_losses": 0,
+      "success_factor_count": 0
+    },
+    "Pre-existing condition noted": {
+      "total": 1480,
+      "in_wins": 1,
+      "in_losses": 3,
+      "success_factor_count": 0
+    }
+  },
+  "tribunals": {
+    "Ontario Court of Appeal": {
+      "total": 400,
+      "allowed": 0,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "Human Rights Tribunal of Ontario": {
+      "total": 100,
+      "allowed": 0,
+      "dismissed": 0,
+      "denied": 0
+    },
+    "Workplace Safety & Insurance Appeals Tribunal (Ontario)": {
+      "total": 12796,
+      "allowed": 248,
+      "dismissed": 160,
+      "denied": 0
+    }
+  },
+  "recommendations": [
+    {
+      "type": "evidence",
+      "recommendation": "Submit IME",
+      "win_rate": "62.5",
+      "sample_size": 1108
+    },
+    {
+      "type": "evidence",
+      "recommendation": "Submit Employment records",
+      "win_rate": "NaN",
+      "sample_size": 12
+    },
+    {
+      "type": "evidence",
+      "recommendation": "Submit Medical records",
+      "win_rate": "100.0",
+      "sample_size": 34
+    },
+    {
+      "type": "evidence",
+      "recommendation": "Submit Family physician report",
+      "win_rate": "NaN",
+      "sample_size": 51
+    },
+    {
+      "type": "evidence",
+      "recommendation": "Submit Medical imaging",
+      "win_rate": "NaN",
+      "sample_size": 18
+    }
+  ]
+}

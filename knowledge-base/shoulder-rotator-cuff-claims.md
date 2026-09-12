@@ -1,3 +1,8 @@
+---
+title: Shoulder Injuries and Rotator Cuff Claims: The Hidden Epidemic
+description: > **⚠️ STATISTICAL ALERT:** Shoulder injuries represent **1,391 cases (12.2%)** of ALL WSIB tribunal decisions (2020-2026)—making shoulder injuries the **#
+---
+
 # Shoulder Injuries and Rotator Cuff Claims: The Hidden Epidemic
 
 > **⚠️ STATISTICAL ALERT:** Shoulder injuries represent **1,391 cases (12.2%)** of ALL WSIB tribunal decisions (2020-2026)—making shoulder injuries the **#1 litigated body part** in Ontario's workers' compensation system. This is an **occupational disease epidemic being systematically denied.**
@@ -611,10 +616,10 @@ A: **Limited options:**
 ## Related Resources
 
 **3mpwrApp Knowledge Base:**
-- [Pre-Existing Conditions: What You Need to Know](pre-existing-conditions.md) - archive frequency, legal test, and evidence strategy
-- [Chronic Pain Claims: Proving Subjective Conditions](chronic-pain-claims.md) - If shoulder injury leads to chronic pain
-- [Permanent Impairment Ratings: Maximizing NEL Benefits](permanent-impairment-rating.md) - If left with permanent disability
-- [Low Back Pain Claims](low-back-pain-claims.md) - Similar occupational disease strategies
+- [Pre-Existing Conditions: What You Need to Know](/knowledge-base/pre-existing-conditions/) - archive frequency, legal test, and evidence strategy
+- [Chronic Pain Claims: Proving Subjective Conditions](/knowledge-base/chronic-pain-claims/) - If shoulder injury leads to chronic pain
+- [Permanent Impairment Ratings: Maximizing NEL Benefits](/knowledge-base/permanent-impairment-rating/) - If left with permanent disability
+- [Low Back Pain Claims](/knowledge-base/low-back-pain-claims/) - Similar occupational disease strategies
 
 **3mpwrApp Appeal Templates:**
 - [Shoulder Injury Appeal Template](../templates/shoulder-injury-appeal.md) - Fill-in-blank letter
@@ -640,6 +645,6 @@ A: **Limited options:**
 ---
 
 **Questions? Need help?**
-📧 empowrapp08162025@gmail.com
+📧 privacy@3mpwrapp.ca
 
 *Last updated: April 15, 2026 | Based on 98,992 ONWSIAT decisions (2020-2026)*

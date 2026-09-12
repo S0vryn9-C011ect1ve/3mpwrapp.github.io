@@ -1,3 +1,8 @@
+---
+title: Wrist Injuries and Carpal Tunnel Claims: Breaking WSIB's "Gradual Onset" Denial
+description: > **⚠️ STATISTICAL ALERT:** Wrist injuries (carpal tunnel syndrome, wrist fractures, de Quervain's tenosynovitis, TFCC tears) represent **376 cases (3.3%)*
+---
+
 # Wrist Injuries and Carpal Tunnel Claims: Breaking WSIB's "Gradual Onset" Denial
 
 > **⚠️ STATISTICAL ALERT:** Wrist injuries (carpal tunnel syndrome, wrist fractures, de Quervain's tenosynovitis, TFCC tears) represent **376 cases (3.3%)** of all WSIB tribunal decisions (2020-2026). WSIB systematically denies these claims as "gradual onset, not workplace accidents" despite clear occupational causation.
@@ -467,10 +472,10 @@ Document ALL repetitive wrist activities:
 ## Related Resources
 
 **3mpwrApp Knowledge Base:**
-- [Shoulder Injuries](shoulder-rotator-cuff-claims.md) - Similar repetitive strain patterns
-- [Elbow Injuries](elbow-epicondylitis-claims.md) - Tennis/golfer's elbow (repetitive strain)
-- [Hand Injuries](hand-finger-claims.md) - Trigger finger, tendinitis
-- [Chronic Pain Claims](chronic-pain-claims.md) - If wrist injury leads to CRPS
+- [Shoulder Injuries](/knowledge-base/shoulder-rotator-cuff-claims/) - Similar repetitive strain patterns
+- [Elbow Injuries](/knowledge-base/elbow-epicondylitis-claims/) - Tennis/golfer's elbow (repetitive strain)
+- [Hand Injuries](/knowledge-base/hand-finger-claims/) - Trigger finger, tendinitis
+- [Chronic Pain Claims](/knowledge-base/chronic-pain-claims/) - If wrist injury leads to CRPS
 
 **Research:**
 - [WSIB Exposed: 8 Smoking Guns](https://3mpwrapp.ca/blog/2026/04/15/wsib-exposed-statistical-evidence-proves-systematic-manipulation/)
@@ -502,6 +507,6 @@ Document ALL repetitive wrist activities:
 ---
 
 **Questions? Need help?**
-📧 empowrapp08162025@gmail.com
+📧 privacy@3mpwrapp.ca
 
 *Last updated: April 15, 2026 | Based on 98,992 ONWSIAT decisions (2020-2026)*

@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://3mpwrapp.ca/feed/whats_new.xml" rel="self" type="application/atom+xml" /><link href="https://3mpwrapp.ca/" rel="alternate" type="text/html" /><updated>2026-09-12T05:22:19+00:00</updated><id>https://3mpwrapp.ca/feed/whats_new.xml</id><title type="html">3mpwrApp™ | Whats_new</title><subtitle>Practical tools and community for injured workers and persons with disabilities.</subtitle><author><name>3mpwr App</name></author><entry xml:lang="en"><title type="html">Week 19 Updates (2026)</title><link href="https://3mpwrapp.ca/whats-new/2026-05-04-week-19-updates/" rel="alternate" type="text/html" title="Week 19 Updates (2026)" /><published>2026-05-04T00:00:00+00:00</published><updated>2026-05-04T00:00:00+00:00</updated><id>https://3mpwrapp.ca/whats-new/week-19-updates</id><content type="html" xml:base="https://3mpwrapp.ca/whats-new/2026-05-04-week-19-updates/"><![CDATA[<h2 id="this-week-in-brief">This Week in Brief</h2>
+
+<p>This week focused on data accuracy corrections, research page restructuring, readability fixes, and link reliability.</p>
+
+<h2 id="new-features">New Features</h2>
+
+<ul>
+  <li>Added Ontario tribunal classification data and related processing support.</li>
+  <li>Added Injured Workers Day 2026 rally event automation updates.</li>
+  <li>Completed phase-based implementation for templates, guides, and visualizations using extracted data.</li>
+</ul>
+
+<h2 id="improvements">Improvements</h2>
+
+<ul>
+  <li>Refactored the research page toward an outcome-first structure.</li>
+  <li>Improved language quality and readability across research content.</li>
+  <li>Improved dark mode and high contrast support in guides and research pages.</li>
+</ul>
+
+<h2 id="fixes">Fixes</h2>
+
+<ul>
+  <li>Corrected data values across multiple tribunal blog posts after full audits.</li>
+  <li>Fixed broken links by removing invalid underscore-based references.</li>
+  <li>Fixed social URL generation behavior for spotlight posts.</li>
+  <li>Fixed Liquid syntax issues in blog index templates.</li>
+  <li>Fixed caching behavior and data refresh consistency for research pages.</li>
+</ul>
+
+<h2 id="system-operations">System Operations</h2>
+
+<ul>
+  <li>Continued campaign state updates, trend updates, analytics updates, and daily content runs.</li>
+</ul>
+
+<h2 id="why-it-matters">Why It Matters</h2>
+
+<p>For injured workers and persons with disabilities, this improves accuracy and readability in high-stakes information. For families, advocates, and the public, this makes links dependable and weekly change tracking more trustworthy.</p>
+
+<h2 id="links">Links</h2>
+
+<ul>
+  <li>Live feed: <a href="/whats-new/">/whats-new/</a></li>
+  <li>Weekly recaps: <a href="/blog/#weekly-recaps">/blog/#weekly-recaps</a></li>
+</ul>]]></content><author><name>3mpwr App</name></author><summary type="html"><![CDATA[This Week in Brief]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://3mpwrapp.ca/assets/empwrapp-logo.png" /><media:content medium="image" url="https://3mpwrapp.ca/assets/empwrapp-logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Week 18 Updates (2026)</title><link href="https://3mpwrapp.ca/whats-new/2026-04-27-week-18-updates/" rel="alternate" type="text/html" title="Week 18 Updates (2026)" /><published>2026-04-27T00:00:00+00:00</published><updated>2026-04-27T00:00:00+00:00</updated><id>https://3mpwrapp.ca/whats-new/week-18-updates</id><content type="html" xml:base="https://3mpwrapp.ca/whats-new/2026-04-27-week-18-updates/"><![CDATA[<h2 id="this-week-in-brief">This Week in Brief</h2>
+
+<p>This week focused on Ontario and national tribunal data integration, visualization improvements, content structure cleanup, and deployment reliability.</p>
+
+<h2 id="new-features">New Features</h2>
+
+<ul>
+  <li>Added major enhancements to keyword network visualizations, including tribunal-specific views and zoom controls.</li>
+  <li>Added Ontario tribunal scope updates across WSIAT, HRTO, ONSBT, and ONWSIB datasets.</li>
+  <li>Added dark mode and high contrast support in additional analysis surfaces.</li>
+  <li>Added Tier C enrichment pipeline and direct tribunal scraper support for unresolved cases.</li>
+  <li>Added comprehensive CanLII tribunal data integration work.</li>
+</ul>
+
+<h2 id="fixes">Fixes</h2>
+
+<ul>
+  <li>Fixed UTF-8 and encoding issues affecting content rendering.</li>
+  <li>Fixed category formatting for Jekyll consistency.</li>
+  <li>Fixed threshold behavior in visualization views to display expected keyword ranges.</li>
+  <li>Fixed contact and metadata placement in selected blog entries.</li>
+</ul>
+
+<h2 id="documentation">Documentation</h2>
+
+<ul>
+  <li>Added language clarifications for abandonment-rate context and detection framing.</li>
+  <li>Added updates to research heading and scope wording for clarity.</li>
+</ul>
+
+<h2 id="system-operations">System Operations</h2>
+
+<ul>
+  <li>Continued campaign and event automation, trend updates, and analytics data refresh.</li>
+  <li>Continued daily content and summary generation runs.</li>
+</ul>
+
+<h2 id="why-it-matters">Why It Matters</h2>
+
+<p>For injured workers and persons with disabilities, this improves access to understandable legal trend data. For families, advocates, and the general public, this improves trust through clearer context and stronger data transparency.</p>
+
+<h2 id="links">Links</h2>
+
+<ul>
+  <li>Live feed: <a href="/whats-new/">/whats-new/</a></li>
+  <li>Weekly recaps: <a href="/blog/#weekly-recaps">/blog/#weekly-recaps</a></li>
+</ul>]]></content><author><name>3mpwr App</name></author><summary type="html"><![CDATA[This Week in Brief]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://3mpwrapp.ca/assets/empwrapp-logo.png" /><media:content medium="image" url="https://3mpwrapp.ca/assets/empwrapp-logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Week 17 Updates (2026)</title><link href="https://3mpwrapp.ca/whats-new/2026-04-20-week-17-updates/" rel="alternate" type="text/html" title="Week 17 Updates (2026)" /><published>2026-04-20T00:00:00+00:00</published><updated>2026-04-20T00:00:00+00:00</updated><id>https://3mpwrapp.ca/whats-new/week-17-updates</id><content type="html" xml:base="https://3mpwrapp.ca/whats-new/2026-04-20-week-17-updates/"><![CDATA[<h2 id="this-week-in-brief">This Week in Brief</h2>
+
+<p>This week focused on research hub consolidation, readability and accessibility improvements, HRTO data collection progress, and stronger publishing stability.</p>
+
+<h2 id="new-features">New Features</h2>
+
+<ul>
+  <li>Expanded ONWSIAT analysis and related research outputs.</li>
+  <li>Added and expanded appeal templates and knowledge base coverage.</li>
+  <li>Added research navigation improvements and research hub linking.</li>
+  <li>Added statistical glossary and confidence interval explanations in plain language.</li>
+  <li>Completed HRTO 2025 to 2026 collection improvements and scraper updates.</li>
+</ul>
+
+<h2 id="fixes">Fixes</h2>
+
+<ul>
+  <li>Fixed multiple blog and research link formats to valid paths.</li>
+  <li>Fixed workflow schedule checks and YAML-related failures.</li>
+  <li>Fixed readability issues across dark mode and high contrast contexts.</li>
+  <li>Fixed research page navigation naming and display behavior.</li>
+  <li>Fixed knowledge base collection front matter and index behavior.</li>
+</ul>
+
+<h2 id="documentation">Documentation</h2>
+
+<ul>
+  <li>Added plain-language security clarifications.</li>
+  <li>Added coverage audit and research status standardization updates.</li>
+</ul>
+
+<h2 id="system-operations">System Operations</h2>
+
+<ul>
+  <li>Continued daily curation, trend refresh, campaign state updates, and analytics tasks.</li>
+</ul>
+
+<h2 id="why-it-matters">Why It Matters</h2>
+
+<p>For injured workers and persons with disabilities, this means easier reading and clearer legal-resource navigation. For families, advocates, and the public, this means stronger transparency and fewer dead ends.</p>
+
+<h2 id="links">Links</h2>
+
+<ul>
+  <li>Live feed: <a href="/whats-new/">/whats-new/</a></li>
+  <li>Weekly recaps: <a href="/blog/#weekly-recaps">/blog/#weekly-recaps</a></li>
+</ul>]]></content><author><name>3mpwr App</name></author><summary type="html"><![CDATA[This Week in Brief]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://3mpwrapp.ca/assets/empwrapp-logo.png" /><media:content medium="image" url="https://3mpwrapp.ca/assets/empwrapp-logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Week 16 Updates (2026)</title><link href="https://3mpwrapp.ca/whats-new/2026-04-13-week-16-updates/" rel="alternate" type="text/html" title="Week 16 Updates (2026)" /><published>2026-04-13T00:00:00+00:00</published><updated>2026-04-13T00:00:00+00:00</updated><id>https://3mpwrapp.ca/whats-new/week-16-updates</id><content type="html" xml:base="https://3mpwrapp.ca/whats-new/2026-04-13-week-16-updates/"><![CDATA[<h2 id="this-week-in-brief">This Week in Brief</h2>
+
+<p>This week included major work on the What is New system, campaign automation setup, and link and deployment reliability.</p>
+
+<h2 id="new-features">New Features</h2>
+
+<ul>
+  <li>Added ONWSIAT data collection for 2020 to 2026 with 9,165 cases.</li>
+  <li>Added campaign automation setup with dotenv support and state tracking.</li>
+  <li>Added transparency banners and unified What is New data integration.</li>
+  <li>Added WSIB and ONIWG event content and related campaign support.</li>
+</ul>
+
+<h2 id="fixes">Fixes</h2>
+
+<ul>
+  <li>Completed the unified What is New page implementation.</li>
+  <li>Fixed deployment script string handling issues.</li>
+  <li>Moved data files into Jekyll-safe locations for stable publishing.</li>
+  <li>Corrected link formats in blog content to reduce broken paths.</li>
+  <li>Updated workflow ordering and trigger definitions for better reliability.</li>
+</ul>
+
+<h2 id="documentation">Documentation</h2>
+
+<ul>
+  <li>Added plain-language and security clarification updates.</li>
+  <li>Expanded content quality and workflow notes for consistent publishing.</li>
+</ul>
+
+<h2 id="system-operations">System Operations</h2>
+
+<ul>
+  <li>Continued daily curation automation and trend refresh operations.</li>
+  <li>Continued scheduled campaign state updates and analytics refresh tasks.</li>
+</ul>
+
+<h2 id="why-it-matters">Why It Matters</h2>
+
+<p>For injured workers, persons with disabilities, families, advocates, and the general public, these updates improve reliability, reduce broken links, and make weekly progress easier to follow.</p>
+
+<h2 id="links">Links</h2>
+
+<ul>
+  <li>Live feed: <a href="/whats-new/">/whats-new/</a></li>
+  <li>Weekly recaps: <a href="/blog/#weekly-recaps">/blog/#weekly-recaps</a></li>
+</ul>]]></content><author><name>3mpwr App</name></author><summary type="html"><![CDATA[This Week in Brief]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://3mpwrapp.ca/assets/empwrapp-logo.png" /><media:content medium="image" url="https://3mpwrapp.ca/assets/empwrapp-logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Week 15 Updates (2026)</title><link href="https://3mpwrapp.ca/whats-new/2026-04-06-week-15-updates/" rel="alternate" type="text/html" title="Week 15 Updates (2026)" /><published>2026-04-06T00:00:00+00:00</published><updated>2026-04-06T00:00:00+00:00</updated><id>https://3mpwrapp.ca/whats-new/week-15-updates</id><content type="html" xml:base="https://3mpwrapp.ca/whats-new/2026-04-06-week-15-updates/"><![CDATA[<h2 id="this-weeks-journey">This Week’s Journey</h2>
+
+<p>I’m building 3mpwrApp in public—showing you every step, every decision, every improvement as they happen. This is Phase 1 of beta testing, where you’re getting familiar with what I’m creating for our community.</p>
+
+<p>Here’s what I shipped this week and why it matters to you:</p>
+
+<h2 id="-new-features">✨ New Features</h2>
+
+<p><strong>149 templates for injured workers - Mission Critical</strong></p>
+
+<p>Why I built this: This makes 3mpwrApp more powerful for disability advocates, injured workers, and their families.</p>
+
+<p><strong>Priority-based Ontario refetch system</strong></p>
+
+<p>Why I built this: This makes 3mpwrApp more powerful for disability advocates, injured workers, and their families.</p>
+
+<p><strong>CanLII Scraper v5.0-Enhanced - Production Ready for 8 PM ET</strong></p>
+
+<p>Why I built this: This makes 3mpwrApp more powerful for disability advocates, injured workers, and their families.</p>
+
+<p><strong>Ontario pattern analysis complete + Flywheels Week 1 update</strong></p>
+
+<p>Why I built this: This makes 3mpwrApp more powerful for disability advocates, injured workers, and their families.</p>
+
+<p><strong>Complete Canada-Wide Legal Database - ALL Provinces, Maximum Extraction</strong></p>
+
+<p>Why I built this: This makes 3mpwrApp more powerful for disability advocates, injured workers, and their families.</p>
+
+<p><strong>Add flywheels diagram image (renamed from 3mpwrAppFlywheels-diagram.png)</strong></p>
+
+<p>Why I built this: This makes 3mpwrApp more powerful for disability advocates, injured workers, and their families.</p>
+
+<p><strong>Add flywheels diagram to homepage top, move song below See App in Action</strong></p>
+
+<p>Why I built this: This makes 3mpwrApp more powerful for disability advocates, injured workers, and their families.</p>
+
+<p><strong>Make flywheels article universal to ALL injured workers and persons with disabilities</strong></p>
+
+<p>Why I built this: This makes 3mpwrApp more powerful for disability advocates, injured workers, and their families.</p>
+
+<p><strong>Enhanced flywheels article with mission, privacy, founder quote, and data power message</strong></p>
+
+<p>Why I built this: This makes 3mpwrApp more powerful for disability advocates, injured workers, and their families.</p>
+
+<p><strong>Rewrite flywheels blog as educational introduction (not partnership announcement)</strong></p>
+
+<p>Why I built this: This makes 3mpwrApp more powerful for disability advocates, injured workers, and their families.</p>
+
+<p><strong>Integrate flywheels into social automation + PDF proposal</strong></p>
+
+<p>Why I built this: This makes 3mpwrApp more powerful for disability advocates, injured workers, and their families.</p>
+
+<p><strong>Launch 3 Flywheels Thunder Bay Pilot</strong></p>
+
+<p>Why I built this: This makes 3mpwrApp more powerful for disability advocates, injured workers, and their families.</p>
+
+<p><strong>Add Security to main navigation</strong></p>
+
+<p>Why I built this: This makes 3mpwrApp more powerful for disability advocates, injured workers, and their families.</p>
+
+<p><strong>Update SECURITY.md with comprehensive 8-layer defense documentation</strong></p>
+
+<p>Why I built this: You deserve to know how everything works. Clear documentation means no guessing, no frustration.</p>
+
+<h2 id="-fixes">🐛 Fixes</h2>
+
+<p>I fixed these issues because they were getting in your way:</p>
+
+<ul>
+  <li>YAML syntax error in blog post excerpt</li>
+  <li>Add layout and proper frontmatter to blog post</li>
+  <li>CanLII scraper now extracts full decision HTML (not just metadata)</li>
+  <li>Blog index now shows all community posts including March 31 articles</li>
+  <li>Remove profanity from flywheels blog post + add content guidelines</li>
+  <li>Resolve Jekyll build failures blocking Cloudflare deployments</li>
+  <li>Update proposal - clarify cost, add TBDIWSG history, expand to 3-phase plan</li>
+  <li>Update flywheels blog URL (April 1 → March 31)</li>
+  <li>Move flywheels blog post to March 31 (actual presentation date)</li>
+  <li>Make flywheels posts educational/concept-focused + Add WCB data collection guide</li>
+  <li>Exclude screenshots from Jekyll build + add Cloudflare/GitHub security docs</li>
+  <li>Add –future flag to Jekyll build to enable 2026-dated posts</li>
+  <li>Correct malformed YAML title in axios blog post (remove extra quote/space)</li>
+  <li>Add x86_64-linux platform to Gemfile.lock for GitHub Actions compatibility</li>
+  <li>Disable Dependabot + force LF line endings for Jekyll Linux compatibility</li>
+  <li>Disable Dependabot during axios supply chain attack</li>
+  <li>Convert blog posts to LF line endings and exclude entire docs/ directory from Jekyll</li>
+  <li>Exclude docs folders with missing Liquid includes (monitoring.html, webp-picture.html, etc.)</li>
+  <li>Jekyll build failures - UTF-8 BOM removal, exclude docs/deployment, remove private repo links</li>
+  <li>Replace content — with * * * in SECURITY.md</li>
+  <li>Replace content — with * * * in all 200 blog posts to fix YAML parsing</li>
+  <li>Correct emoji encoding in blog posts and remove BOM from SECURITY.md</li>
+  <li>Replace content — horizontal rules with * * * to avoid YAML parser confusion</li>
+  <li>Re-encode blog posts and security page with UTF-8 BOM for proper emoji rendering</li>
+  <li>Correct Liquid filter syntax in webp-picture.html (append only takes 1 arg)</li>
+  <li>Escape all Liquid tags in docs/archives markdown files</li>
+  <li>Escape Liquid tags in archived docs + fix beta/index.md UTF-16 encoding</li>
+  <li>Replace ‘or’ logic in Liquid where_exp filters with concat</li>
+  <li>Exclude vendor directory from Jekyll processing</li>
+  <li>Remove invalid ‘end’ statement from Gemfile - syntax error</li>
+  <li>Minimal Gemfile - github-pages gem includes all plugins</li>
+  <li>Remove group specification from github-pages gem</li>
+  <li>Use github-pages gem for Cloudflare Pages Jekyll 3.10 compatibility</li>
+  <li>Allow Jekyll blog posts to render by fixing _redirects catch-all + add security page</li>
+  <li>Disable problematic AI workflows temporarily to fix build</li>
+  <li>Add front matter to axios blog post and fix YAML syntax in workflow</li>
+  <li>Correct blog URLs from /blog/axios-attack to actual Jekyll permalink</li>
+  <li>Force visibility of campaigns section with CSS overrides</li>
+  <li>Campaigns page JavaScript + add Day of Mourning event</li>
+</ul>
+
+<h2 id="-documentation">📚 Documentation</h2>
+
+<p>Making 3mpwrApp easier to understand:</p>
+
+<ul>
+  <li>Ontario priority refetch ready guide</li>
+  <li>8 PM ET launch checklist for v5.0-enhanced scraper</li>
+  <li>Add BYOC and data sovereignty section to .npmrc blog post</li>
+  <li>Add community-driven .npmrc supply chain protection blog post</li>
+  <li>Add comprehensive flywheels implementation guide</li>
+  <li>Add Security Runbook blog post for beta testers and public</li>
+  <li>Add Firebase crash notification to axios security communications</li>
+  <li>Add March 31st Thunder Bay presentation script - 60min comprehensive guide for TBDIWSG event</li>
+</ul>
+
+<h2 id="-behind-the-scenes">🤖 Behind the Scenes</h2>
+
+<p>These automation improvements make development faster so I can ship features to you sooner:</p>
+
+<ul>
+  <li>Sync all work-in-progress files before push</li>
+  <li>Disable automated CanLII workflow for manual control</li>
+  <li>Update TBDIWSG promo state - automated post</li>
+  <li>Trigger Cloudflare rebuild with –future flag</li>
+  <li>Update campaign promo state - automated post</li>
+  <li>Update TBDIWSG promo state - automated post</li>
+</ul>
+
+<hr />
+
+<h2 id="whats-next">What’s Next</h2>
+
+<p>I’m listening. If you’re testing 3mpwrApp and something doesn’t work, tell me. If you have ideas, share them. This app exists because I fell through the cracks—I’m building it so you don’t have to.</p>
+
+<p>📬 <a href="/newsletter/">Get updates in your inbox</a></p>
+
+<p>🔍 <a href="/whats-new/">See all weekly updates</a></p>
+
+<p>💬 <a href="https://3mpwrapp.ca/beta/">Join the beta testing community</a></p>]]></content><author><name>3mpwr App</name></author><summary type="html"><![CDATA[This Week’s Journey]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://3mpwrapp.ca/assets/empwrapp-logo.png" /><media:content medium="image" url="https://3mpwrapp.ca/assets/empwrapp-logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Week 14 Updates (2026)</title><link href="https://3mpwrapp.ca/whats-new/2026-03-30-week-14-updates/" rel="alternate" type="text/html" title="Week 14 Updates (2026)" /><published>2026-03-30T00:00:00+00:00</published><updated>2026-03-30T00:00:00+00:00</updated><id>https://3mpwrapp.ca/whats-new/week-14-updates</id><content type="html" xml:base="https://3mpwrapp.ca/whats-new/2026-03-30-week-14-updates/"><![CDATA[<h2 id="this-weeks-journey">This Week’s Journey</h2>
+
+<p>I’m building 3mpwrApp in public—showing you every step, every decision, every improvement as they happen. This is Phase 1 of beta testing, where you’re getting familiar with what I’m creating for our community.</p>
+
+<p>Here’s what I shipped this week and why it matters to you:</p>
+
+<h2 id="-new-features">✨ New Features</h2>
+
+<p><strong>Add force_campaign option to manually select campaign</strong></p>
+
+<p>Why I built this: This makes 3mpwrApp more powerful for disability advocates, injured workers, and their families.</p>
+
+<p><strong>Add campaign promotion automation (Tuesday/Friday)</strong></p>
+
+<p>Why I built this: This makes 3mpwrApp more powerful for disability advocates, injured workers, and their families.</p>
+
+<p><strong>Add campaigns API + fix homepage/campaigns display</strong></p>
+
+<p>Why I built this: When something breaks, it breaks your trust. I fix things fast because reliability matters.</p>
+
+<p><strong>Add manual posting for March 31st Double Feature event</strong></p>
+
+<p>Why I built this: This makes 3mpwrApp more powerful for disability advocates, injured workers, and their families.</p>
+
+<p><strong>Remove duplicate Lakehead event, keep March 31st Double Feature</strong></p>
+
+<p>Why I built this: When something breaks, it breaks your trust. I fix things fast because reliability matters.</p>
+
+<p><strong>Add automated TBDIWSG Tuesday promotion system</strong></p>
+
+<p>Why I built this: This makes 3mpwrApp more powerful for disability advocates, injured workers, and their families.</p>
+
+<p><strong>Add 14 TBDIWSG events to website: March 31st double feature + 13 weekly Tuesday sessions (April-June 2026)</strong></p>
+
+<p>Why I built this: This makes 3mpwrApp more powerful for disability advocates, injured workers, and their families.</p>
+
+<h2 id="-fixes">🐛 Fixes</h2>
+
+<p>I fixed these issues because they were getting in your way:</p>
+
+<ul>
+  <li>Campaigns share buttons use campaign.description field</li>
+  <li>Events page now loads from JSON API + includes support/educational events</li>
+</ul>
+
+<h2 id="-documentation">📚 Documentation</h2>
+
+<p>Making 3mpwrApp easier to understand:</p>
+
+<ul>
+  <li>Reorganize workspace - move 150+ docs to categorized folders</li>
+</ul>
+
+<h2 id="-behind-the-scenes">🤖 Behind the Scenes</h2>
+
+<p>These automation improvements make development faster so I can ship features to you sooner:</p>
+
+<ul>
+  <li>Update campaign promo state - automated post</li>
+  <li>Add local campaign promo state file</li>
+  <li>Update campaign promo state - automated post</li>
+  <li>Update campaign promo state - automated post</li>
+  <li>Update TBDIWSG promo state - automated post</li>
+</ul>
+
+<hr />
+
+<h2 id="whats-next">What’s Next</h2>
+
+<p>I’m listening. If you’re testing 3mpwrApp and something doesn’t work, tell me. If you have ideas, share them. This app exists because I fell through the cracks—I’m building it so you don’t have to.</p>
+
+<p>📬 <a href="/newsletter/">Get updates in your inbox</a></p>
+
+<p>🔍 <a href="/whats-new/">See all weekly updates</a></p>
+
+<p>💬 <a href="https://3mpwrapp.ca/beta/">Join the beta testing community</a></p>]]></content><author><name>3mpwr App</name></author><summary type="html"><![CDATA[This Week’s Journey]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://3mpwrapp.ca/assets/empwrapp-logo.png" /><media:content medium="image" url="https://3mpwrapp.ca/assets/empwrapp-logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Week 13 Updates (2026)</title><link href="https://3mpwrapp.ca/whats-new/2026-03-23-week-13-updates/" rel="alternate" type="text/html" title="Week 13 Updates (2026)" /><published>2026-03-23T00:00:00+00:00</published><updated>2026-03-23T00:00:00+00:00</updated><id>https://3mpwrapp.ca/whats-new/week-13-updates</id><content type="html" xml:base="https://3mpwrapp.ca/whats-new/2026-03-23-week-13-updates/"><![CDATA[<h2 id="this-weeks-journey">This Week’s Journey</h2>
+
+<p>I’m building 3mpwrApp in public—showing you every step, every decision, every improvement as they happen. This is Phase 1 of beta testing, where you’re getting familiar with what I’m creating for our community.</p>
+
+<p>Here’s what I shipped this week and why it matters to you:</p>
+
+<h2 id="-new-features">✨ New Features</h2>
+
+<p><strong>100% accessibility compliance - ALL pages legible in Light/Dark/High Contrast</strong></p>
+
+<p>Why I built this: Because disability tech should work for EVERYONE. If you’re using a screen reader or need high contrast, this app should serve you as well as anyone else.</p>
+
+<p><strong>Accessibility-first color system - complete legibility in Light/Dark/High Contrast modes</strong></p>
+
+<p>Why I built this: Because disability tech should work for EVERYONE. If you’re using a screen reader or need high contrast, this app should serve you as well as anyone else.</p>
+
+<p><strong>Add Option 1 as official theme song winner on homepage</strong></p>
+
+<p>Why I built this: This makes 3mpwrApp more powerful for disability advocates, injured workers, and their families.</p>
+
+<p><strong>Update homepage - show Option 1 as community vote winner, replace ‘See the App in Action’ screenshots with latest app tour images</strong></p>
+
+<p>Why I built this: I’m building this to last. More tests mean fewer bugs, which means you can rely on this when it matters most.</p>
+
+<p><strong>Complete visual refresh with 172 new screenshots</strong></p>
+
+<p>Why I built this: This makes 3mpwrApp more powerful for disability advocates, injured workers, and their families.</p>
+
+<h2 id="-fixes">🐛 Fixes</h2>
+
+<p>I fixed these issues because they were getting in your way:</p>
+
+<ul>
+  <li>Remove game background images (Ascendant Continuum)</li>
+  <li>Update URLs from backup domain (github.io) to primary domain (pages.dev)</li>
+</ul>
+
+<h2 id="-documentation">📚 Documentation</h2>
+
+<p>Making 3mpwrApp easier to understand:</p>
+
+<ul>
+  <li>Complete accessibility mission report - 100% compliance achieved</li>
+</ul>
+
+<h2 id="-behind-the-scenes">🤖 Behind the Scenes</h2>
+
+<p>These automation improvements make development faster so I can ship features to you sooner:</p>
+
+<ul>
+  <li>Trigger Cloudflare Pages rebuild</li>
+</ul>
+
+<hr />
+
+<h2 id="whats-next">What’s Next</h2>
+
+<p>I’m listening. If you’re testing 3mpwrApp and something doesn’t work, tell me. If you have ideas, share them. This app exists because I fell through the cracks—I’m building it so you don’t have to.</p>
+
+<p>📬 <a href="/newsletter/">Get updates in your inbox</a></p>
+
+<p>🔍 <a href="/whats-new/">See all weekly updates</a></p>
+
+<p>💬 <a href="https://3mpwrapp.ca/beta/">Join the beta testing community</a></p>]]></content><author><name>3mpwr App</name></author><summary type="html"><![CDATA[This Week’s Journey]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://3mpwrapp.ca/assets/empwrapp-logo.png" /><media:content medium="image" url="https://3mpwrapp.ca/assets/empwrapp-logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Week 12 Updates (2026)</title><link href="https://3mpwrapp.ca/whats-new/2026-03-16-week-12-updates/" rel="alternate" type="text/html" title="Week 12 Updates (2026)" /><published>2026-03-16T00:00:00+00:00</published><updated>2026-03-16T00:00:00+00:00</updated><id>https://3mpwrapp.ca/whats-new/week-12-updates</id><content type="html" xml:base="https://3mpwrapp.ca/whats-new/2026-03-16-week-12-updates/"><![CDATA[<h2 id="this-weeks-journey">This Week’s Journey</h2>
+
+<p>I’m building 3mpwrApp in public—showing you every step, every decision, every improvement as they happen. This is Phase 1 of beta testing, where you’re getting familiar with what I’m creating for our community.</p>
+
+<p>Here’s what I shipped this week and why it matters to you:</p>
+
+<h2 id="-new-features">✨ New Features</h2>
+
+<p><strong>Merge pull request #29 from S0vryn9-C011ect1ve/fix/feature-rotation-exhausted</strong></p>
+
+<p>Why I built this: When something breaks, it breaks your trust. I fix things fast because reliability matters.</p>
+
+<p><strong>Reset feature rotation when pool exhausted + clear stale used-features</strong></p>
+
+<p>Why I built this: When something breaks, it breaks your trust. I fix things fast because reliability matters.</p>
+
+<p><strong>Add Discord #app-announcements to daily feature posts</strong></p>
+
+<p>Why I built this: This makes 3mpwrApp more powerful for disability advocates, injured workers, and their families.</p>
+
+<h2 id="-fixes">🐛 Fixes</h2>
+
+<p>I fixed these issues because they were getting in your way:</p>
+
+<ul>
+  <li>Mastodon smart post builder + production article date + social JSON for 721-tests spotlight</li>
+</ul>
+
+<hr />
+
+<h2 id="whats-next">What’s Next</h2>
+
+<p>I’m listening. If you’re testing 3mpwrApp and something doesn’t work, tell me. If you have ideas, share them. This app exists because I fell through the cracks—I’m building it so you don’t have to.</p>
+
+<p>📬 <a href="/newsletter/">Get updates in your inbox</a></p>
+
+<p>🔍 <a href="/whats-new/">See all weekly updates</a></p>
+
+<p>💬 <a href="https://3mpwrapp.ca/beta/">Join the beta testing community</a></p>]]></content><author><name>3mpwr App</name></author><summary type="html"><![CDATA[This Week’s Journey]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://3mpwrapp.ca/assets/empwrapp-logo.png" /><media:content medium="image" url="https://3mpwrapp.ca/assets/empwrapp-logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Documentation Sync Complete (EN + FR + Legal)</title><link href="https://3mpwrapp.ca/whats-new/2026-02-24-documentation-sync-en-fr-legal/" rel="alternate" type="text/html" title="Documentation Sync Complete (EN + FR + Legal)" /><published>2026-02-24T00:00:00+00:00</published><updated>2026-02-24T00:00:00+00:00</updated><id>https://3mpwrapp.ca/whats-new/documentation-sync-en-fr-legal</id><content type="html" xml:base="https://3mpwrapp.ca/whats-new/2026-02-24-documentation-sync-en-fr-legal/"><![CDATA[<p>We completed a full documentation synchronization across app and website, including English and French user-facing pages, legal/policy consistency, beta guides, and downloadable user guides.</p>
+
+<h2 id="-what-was-updated">✅ What Was Updated</h2>
+
+<h3 id="core-user-docs-en">Core user docs (English)</h3>
+<ul>
+  <li><a href="/user-guide/">User Guide</a></li>
+  <li><a href="/features/">Features</a></li>
+  <li><a href="/faq/">FAQ</a></li>
+  <li><a href="/whats-new/">What’s New index</a></li>
+  <li><a href="/beta-guide/">Beta Guide</a></li>
+  <li><a href="/beta/">Beta redirect page</a></li>
+</ul>
+
+<h3 id="legal-policy-en">Legal &amp; policy (English)</h3>
+<ul>
+  <li><a href="/terms/">Terms of Service</a></li>
+  <li><a href="/privacy/">Privacy Policy</a></li>
+  <li><a href="/community/guidelines/">Community Guidelines</a></li>
+</ul>
+
+<h3 id="core-user-docs-fr">Core user docs (French)</h3>
+<ul>
+  <li><a href="/fr/user-guide/">Guide d’utilisation</a></li>
+  <li><a href="/fr/features/">Fonctionnalités</a></li>
+  <li><a href="/fr/faq/">FAQ</a></li>
+  <li><a href="/fr/whats-new/">Quoi de neuf</a></li>
+  <li><a href="/fr/beta/">Programme bêta</a></li>
+</ul>
+
+<h3 id="legal-policy-fr">Legal &amp; policy (French)</h3>
+<ul>
+  <li><a href="/fr/terms/">Conditions d’utilisation</a></li>
+  <li><a href="/fr/privacy/">Politique de confidentialité</a></li>
+  <li><a href="/fr/cookies/">Politique relative aux témoins</a></li>
+</ul>
+
+<h3 id="additional-fr-pages">Additional French public pages aligned</h3>
+<ul>
+  <li><a href="/fr/">Accueil</a></li>
+  <li><a href="/fr/about">À propos</a></li>
+  <li><a href="/fr/contact/">Contact</a></li>
+  <li><a href="/fr/accessibility-settings/">Paramètres d’accessibilité</a></li>
+  <li><a href="/fr/search/">Recherche</a></li>
+  <li><a href="/fr/newsletter/">Infolettre</a></li>
+  <li><a href="/fr/events/">Événements</a></li>
+  <li><a href="/fr/connect/">Connectez avec nous</a></li>
+  <li><a href="/fr/blog/">Blog</a></li>
+  <li><a href="/fr/campaigns/">Campagnes et événements</a></li>
+  <li><a href="/fr/community-spotlight/">Projecteur communautaire</a></li>
+</ul>
+
+<h3 id="downloadable-docs">Downloadable docs</h3>
+<ul>
+  <li><a href="/assets/downloads/3mpwrapp-user-guide-full.md">Complete User Guide (Download)</a></li>
+</ul>
+
+<h2 id="-organization-update">📌 Organization Update</h2>
+
+<ul>
+  <li>What’s New remains the canonical changelog page for public documentation updates.</li>
+  <li>This entry acts as the Feb 24, 2026 master rollout index so all linked updates are discoverable from one place.</li>
+</ul>
+
+<hr />
+
+<p>📬 Want updates in your inbox? <a href="/newsletter/">Subscribe to our newsletter</a></p>
+
+<p>🔍 See all updates: <a href="/whats-new/">What’s New</a></p>]]></content><author><name>3mpwr App</name></author><summary type="html"><![CDATA[We completed a full documentation synchronization across app and website, including English and French user-facing pages, legal/policy consistency, beta guides, and downloadable user guides.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://3mpwrapp.ca/assets/empwrapp-logo.png" /><media:content medium="image" url="https://3mpwrapp.ca/assets/empwrapp-logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Week 9 Updates (2026)</title><link href="https://3mpwrapp.ca/whats-new/2026-02-23-week-9-updates/" rel="alternate" type="text/html" title="Week 9 Updates (2026)" /><published>2026-02-23T00:00:00+00:00</published><updated>2026-02-23T00:00:00+00:00</updated><id>https://3mpwrapp.ca/whats-new/week-9-updates</id><content type="html" xml:base="https://3mpwrapp.ca/whats-new/2026-02-23-week-9-updates/"><![CDATA[<hr />
+
+<p>📬 Want updates in your inbox? <a href="/newsletter/">Subscribe to our newsletter</a></p>
+
+<p>🔍 See all updates: <a href="/whats-new/">What’s New</a></p>]]></content><author><name>3mpwr App</name></author><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://3mpwrapp.ca/assets/empwrapp-logo.png" /><media:content medium="image" url="https://3mpwrapp.ca/assets/empwrapp-logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

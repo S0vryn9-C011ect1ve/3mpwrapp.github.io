@@ -1,3 +1,8 @@
+---
+title: Concussion & Traumatic Brain Injury (TBI): Breaking WSIB's "Subjective Symptoms" Denial
+description: > **⚠️ STATISTICAL ALERT:** Concussion and traumatic brain injury (TBI) cases represent **183 cases (1.6%)** of all WSIB tribunal decisions (2020-2026). WS
+---
+
 # Concussion & Traumatic Brain Injury (TBI): Breaking WSIB's "Subjective Symptoms" Denial
 
 > **⚠️ STATISTICAL ALERT:** Concussion and traumatic brain injury (TBI) cases represent **183 cases (1.6%)** of all WSIB tribunal decisions (2020-2026). WSIB systematically denies these claims as "subjective symptoms, no objective evidence" and conflates concussion with "psychological injury" to avoid covering brain injuries.
@@ -418,9 +423,9 @@ From our analysis of 98,992 tribunal decisions (2020-2026):
 ## Related Resources
 
 **3mpwrApp Knowledge Base:**
-- [Neck/Whiplash Injuries](neck-whiplash-claims.md) - Whiplash can cause concussion
-- [Psychotraumatic Disability](psychotraumatic-disability.md) - WSIB conflates concussion with psychological injury
-- [Chronic Pain Claims](chronic-pain-claims.md) - Post-concussion headaches
+- [Neck/Whiplash Injuries](/knowledge-base/neck-whiplash-claims/) - Whiplash can cause concussion
+- [Psychotraumatic Disability](/knowledge-base/psychotraumatic-disability/) - WSIB conflates concussion with psychological injury
+- [Chronic Pain Claims](/knowledge-base/chronic-pain-claims/) - Post-concussion headaches
 
 **Research:**
 - [WSIB Exposed: 8 Smoking Guns](https://3mpwrapp.ca/blog/2026/04/15/wsib-exposed-statistical-evidence-proves-systematic-manipulation/)
@@ -450,6 +455,6 @@ From our analysis of 98,992 tribunal decisions (2020-2026):
 ---
 
 **Questions? Need help?**
-📧 empowrapp08162025@gmail.com
+📧 privacy@3mpwrapp.ca
 
 *Last updated: April 15, 2026 | Based on 98,992 ONWSIAT decisions (2020-2026)*

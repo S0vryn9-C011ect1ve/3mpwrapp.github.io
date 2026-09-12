@@ -1,0 +1,204 @@
+<h1 id="beta-testing-resumes-security-complete-firebase-next">Beta Testing Resumes: Security Complete, Firebase Next</h1>
+
+<p>Hey beta testers,</p>
+
+<p><strong>Short version:</strong> Security fortress is complete (24 vulnerabilities eliminated), I’m fixing Firebase and Sentry integrations today, and we’re back on track for production stress testing this week.</p>
+
+<hr />
+
+<h2 id="what-just-happened">What Just Happened</h2>
+
+<p><strong>Last 2 weeks:</strong></p>
+<ul>
+  <li>March 31: axios supply chain attack (we were safe)</li>
+  <li>April 1: Added .npmrc protection layer</li>
+  <li>April 3: Last known npm attacks</li>
+  <li>April 14 (today): Comprehensive security audit + fixes</li>
+</ul>
+
+<p><strong>Results:</strong></p>
+<ul>
+  <li>✅ 24 vulnerabilities eliminated (2 critical, 9 high-severity)</li>
+  <li>✅ GitHub Dependabot alerts: 30 → 1 (97% reduction)</li>
+  <li>✅ Found and fixed critical duplicate overrides bug in package.json</li>
+  <li>✅ All protection layers verified active</li>
+</ul>
+
+<p>Full transparency blog post: <a href="https://3mpwrapp.ca/blog/2026/04/14/security-fortress-complete-24-vulnerabilities-eliminated/">https://3mpwrapp.ca/blog/2026/04/14/security-fortress-complete-24-vulnerabilities-eliminated/</a></p>
+
+<hr />
+
+<h2 id="whats-next-this-week">What’s Next (This Week)</h2>
+
+<p><strong>Today (April 14):</strong></p>
+<ul>
+  <li>Fix Firebase integration (dependency conflicts from security updates)</li>
+  <li>Set up Sentry error monitoring (production-grade logging)</li>
+</ul>
+
+<p><strong>Tomorrow (April 15-16):</strong></p>
+<ul>
+  <li>Run full regression testing</li>
+  <li>Fix any remaining test failures</li>
+  <li>Final pre-production smoke tests</li>
+</ul>
+
+<p><strong>April 17 (Deadline - Still On):</strong></p>
+<ul>
+  <li>Beta testing deadline as previously announced</li>
+  <li>Training sessions schedule released</li>
+</ul>
+
+<p><strong>April 20 - May 31 (Estimated):</strong></p>
+<ul>
+  <li>Production stress testing phase</li>
+  <li>Real-world usage with beta testers</li>
+  <li>Performance monitoring, bug fixes, iteration</li>
+</ul>
+
+<hr />
+
+<h2 id="why-the-delay-was-worth-it">Why the Delay Was Worth It</h2>
+
+<p><strong>We could have rushed.</strong> We chose not to.</p>
+
+<p>After axios supply chain attack (March 27-31), we waited 11 days before running npm operations. That conservative waiting period meant:</p>
+
+<ol>
+  <li><strong>No panic fixes</strong> - Everything was resolved with automated <code class="language-plaintext highlighter-rouge">npm audit fix</code></li>
+  <li><strong>No new attacks</strong> - Ecosystem stabilized, no new compromises</li>
+  <li><strong>Found critical bugs</strong> - Discovered duplicate overrides configuration issue</li>
+  <li><strong>Stronger foundation</strong> - 7 protection layers now verified working</li>
+</ol>
+
+<p>We don’t cut corners on security, even when it delays beta testing.</p>
+
+<hr />
+
+<h2 id="training-sessions">Training Sessions</h2>
+
+<p><strong>What:</strong> Zoom/Discord sessions to walk through 3mpwrApp features<br />
+<strong>Why:</strong> Zero responses to previous beta emails = we need to meet you where you are<br />
+<strong>When:</strong> Schedule coming April 15-16 (you’ll get a separate email)<br />
+<strong>Mandatory?</strong> Yes, at least one session (recorded if you can’t attend live)</p>
+
+<p><strong>Topics:</strong></p>
+<ul>
+  <li>Evidence Locker: How to organize medical records securely</li>
+  <li>Letter Generator: Creating appeal letters that actually work</li>
+  <li>Benefits Navigator: Understanding what you’re entitled to</li>
+  <li>Community Features: Forums, peer support, mutual aid</li>
+</ul>
+
+<p><strong>Duration:</strong> 30-45 minutes per session, multiple time slots offered</p>
+
+<hr />
+
+<h2 id="what-you-can-do-right-now">What You Can Do Right Now</h2>
+
+<p><strong>1. Check the blog post</strong> (link above) - Full transparency on what we fixed</p>
+
+<p><strong>2. Confirm you’re still in</strong> - Reply to this email with “IN” if you’re still interested in beta testing</p>
+
+<p><strong>3. Mark your calendar</strong> - April 17 deadline, training sessions soon</p>
+
+<p><strong>4. Ask questions</strong> - Reply to this email, DM me on Discord, or email directly</p>
+
+<p><strong>Zero questions is not normal.</strong> If something’s unclear, ASK. This is your app, built for your needs.</p>
+
+<hr />
+
+<h2 id="why-firebase-and-sentry-matter">Why Firebase and Sentry Matter</h2>
+
+<p><strong>Firebase:</strong> Real-time data sync, cloud backups (optional - BYOC is default)<br />
+<strong>Sentry:</strong> Error monitoring so I know when something breaks before you tell me</p>
+
+<p><strong>Both broke</strong> after npm security updates (dependency version conflicts). Not a security issue, just need reintegration.</p>
+
+<p><strong>Priority:</strong> Get these working, then resume beta testing. No compromises.</p>
+
+<hr />
+
+<h2 id="transparency-promise">Transparency Promise</h2>
+
+<p><strong>You’ll always know:</strong></p>
+<ul>
+  <li>What we’re fixing (like today’s 24 vulnerabilities)</li>
+  <li>Why it’s taking time (like 11-day axios waiting period)</li>
+  <li>What’s next (Firebase/Sentry, then production prep)</li>
+  <li>When things go wrong (duplicate overrides bug we found)</li>
+</ul>
+
+<p><strong>No marketing spin. No hiding problems. No “everything’s fine” when it’s not.</strong></p>
+
+<p>If I find a bug, you’ll read about it in the blog. If a deadline slips, you’ll know why. If a security issue happens, you’ll get the full technical breakdown.</p>
+
+<p><strong>That’s the deal.</strong></p>
+
+<hr />
+
+<h2 id="april-17-deadline-still-stands">April 17 Deadline Still Stands</h2>
+
+<p><strong>Commitment deadline:</strong> April 17, 2026<br />
+<strong>What it means:</strong> Confirm you’re ready for production stress testing (April 20-May 31 estimated)<br />
+<strong>What happens if you miss it:</strong> You’ll be moved to next beta cohort (June onwards)</p>
+
+<p><strong>Why the deadline matters:</strong></p>
+<ul>
+  <li>Training sessions need confirmed attendees</li>
+  <li>Production stress testing needs active participants</li>
+  <li>Firebase/Sentry capacity planning needs accurate numbers</li>
+  <li>Requirement to get app listed on app stores</li>
+</ul>
+
+<hr />
+
+<h2 id="questions-im-expecting">Questions I’m Expecting</h2>
+
+<p><strong>Q: Is the app safe now?</strong><br />
+A: Yes. 0 critical/high vulnerabilities, 7 protection layers active, BYOC architecture means most data never touches our servers.</p>
+
+<p><strong>Q: Will training be recorded?</strong><br />
+A: Yes. Live Zoom sessions recorded and posted to Discord for anyone who can’t attend.</p>
+
+<p><strong>Q: Can I still back out?</strong><br />
+A: Absolutely. Reply “OUT” and I’ll move you to next cohort, zero hard feelings.</p>
+
+<p><strong>Q: When’s actual production launch?</strong><br />
+A: June 2026 estimated, after successful stress testing phase. No fixed date - it’s ready when it’s ready.</p>
+
+<p><strong>Q: What if I find bugs during testing?</strong><br />
+A: <strong>PLEASE report them.</strong> That’s what beta testing is for. Email, Discord, GitHub issues - whatever works for you.</p>
+
+<hr />
+
+<h2 id="final-thought">Final Thought</h2>
+
+<p><strong>Thank you for your patience.</strong></p>
+
+<p>I know you signed up for beta testing months ago and are still waiting. The axios attack + conservative security response added 2 weeks to the timeline.</p>
+
+<p><strong>Worth it?</strong> Yes. the app is too important to rush.</p>
+
+<p><strong>Next update:</strong> (April 17) with training session schedule.</p>
+
+<p><strong>Questions?</strong> Reply to this email or DM me anytime.</p>
+
+<p>Let’s build this thing right.</p>
+
+<p><strong>—Lissa</strong></p>
+
+<p>Lissa Beaulieu<br />
+Founder, 3mpwrApp<br />
+<a href="mailto:empowrapp08162025@gmail.com">empowrapp08162025@gmail.com</a><br />
+Discord: @LissaBeaulieu<br />
+Mastodon: <a href="https://mastodon.social/@3mpwrApp">@3mpwrApp@mastodon.social</a><br />
+Bluesky: <a href="https://bsky.app/profile/3mpwrapp.bsky.social">@3mpwrapp.bsky.social</a></p>
+
+<hr />
+
+<p><strong>P.S.</strong> If you haven’t responded to ANY previous beta emails, please reply to this one. Even just “got it” helps me know you’re still receiving these. Zero responses makes me worried emails are going to spam.</p>
+
+<p><strong>P.P.S.</strong> If you know someone else who’d be a good beta tester (injured worker, person with disability, community advocate), forward this and have them email empowrapp08162025@gmail.com. We’re aiming for 30 active testers.</p>
+
+<p><strong>P.P.P.S.</strong> All security fixes are documented publicly on GitHub. If you’re technical and want to audit the code, <a href="https://github.com/S0vryn9-C011ect1ve/empowrapp-main">here’s the repo</a>. Pull requests welcome.</p>

@@ -1,3 +1,8 @@
+---
+title: Elbow Injuries (Tennis Elbow, Golfer's Elbow, Bursitis): Breaking WSIB's "Degenerative, Not Work-Related" Denial
+description: > **⚠️ STATISTICAL ALERT:** Elbow injuries (lateral epicondylitis/tennis elbow, medial epicondylitis/golfer's elbow, olecranon bursitis, biceps tendon tear
+---
+
 # Elbow Injuries (Tennis Elbow, Golfer's Elbow, Bursitis): Breaking WSIB's "Degenerative, Not Work-Related" Denial
 
 > **⚠️ STATISTICAL ALERT:** Elbow injuries (lateral epicondylitis/tennis elbow, medial epicondylitis/golfer's elbow, olecranon bursitis, biceps tendon tears) represent **219 cases (1.9%)** of all WSIB tribunal decisions (2020-2026). WSIB systematically denies these claims as "degenerative tendinopathy, gradual onset, not workplace accidents."
@@ -460,9 +465,9 @@ Document repetitive motions:
 ## Related Resources
 
 **3mpwrApp Knowledge Base:**
-- [Shoulder Injuries](shoulder-rotator-cuff-claims.md) - Similar tendinopathy denials
-- [Wrist/Carpal Tunnel](wrist-carpal-tunnel-claims.md) - Repetitive strain injuries
-- [Chronic Pain Claims](chronic-pain-claims.md) - If elbow injury leads to CRPS
+- [Shoulder Injuries](/knowledge-base/shoulder-rotator-cuff-claims/) - Similar tendinopathy denials
+- [Wrist/Carpal Tunnel](/knowledge-base/wrist-carpal-tunnel-claims/) - Repetitive strain injuries
+- [Chronic Pain Claims](/knowledge-base/chronic-pain-claims/) - If elbow injury leads to CRPS
 
 **Research:**
 - [WSIB Exposed: 8 Smoking Guns](https://3mpwrapp.ca/blog/2026/04/15/wsib-exposed-statistical-evidence-proves-systematic-manipulation/)
@@ -491,6 +496,6 @@ Document repetitive motions:
 ---
 
 **Questions? Need help?**
-📧 empowrapp08162025@gmail.com
+📧 privacy@3mpwrapp.ca
 
 *Last updated: April 15, 2026 | Based on 98,992 ONWSIAT decisions (2020-2026)*

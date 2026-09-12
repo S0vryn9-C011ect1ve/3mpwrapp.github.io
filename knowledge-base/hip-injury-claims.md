@@ -1,3 +1,8 @@
+---
+title: Hip Injuries: Breaking WSIB's "Age-Related Arthritis" Denial
+description: > **⚠️ STATISTICAL ALERT:** Hip injuries (hip osteoarthritis, labral tears, bursitis, fractures, tendinitis) represent **124 cases (1.1%)** of all WSIB tri
+---
+
 # Hip Injuries: Breaking WSIB's "Age-Related Arthritis" Denial
 
 > **⚠️ STATISTICAL ALERT:** Hip injuries (hip osteoarthritis, labral tears, bursitis, fractures, tendinitis) represent **124 cases (1.1%)** of all WSIB tribunal decisions (2020-2026). WSIB systematically denies these claims as "age-related degeneration, not work-related" despite clear occupational causation from prolonged standing, heavy lifting, and repetitive climbing.
@@ -401,9 +406,9 @@ From our analysis of 98,992 tribunal decisions (2020-2026):
 ## Related Resources
 
 **3mpwrApp Knowledge Base:**
-- [Low Back Pain Claims](low-back-pain-claims.md) - Similar arthritis/degeneration denials
-- [Knee Injuries](knee-injury-claims.md) - Similar pre-existing arthritis arguments
-- [Chronic Pain Claims](chronic-pain-claims.md) - Post-surgical chronic pain
+- [Low Back Pain Claims](/knowledge-base/low-back-pain-claims/) - Similar arthritis/degeneration denials
+- [Knee Injuries](/knowledge-base/knee-injury-claims/) - Similar pre-existing arthritis arguments
+- [Chronic Pain Claims](/knowledge-base/chronic-pain-claims/) - Post-surgical chronic pain
 
 **Research:**
 - [WSIB Exposed: 8 Smoking Guns](https://3mpwrapp.ca/blog/2026/04/15/wsib-exposed-statistical-evidence-proves-systematic-manipulation/)
@@ -432,6 +437,6 @@ From our analysis of 98,992 tribunal decisions (2020-2026):
 ---
 
 **Questions? Need help?**
-📧 empowrapp08162025@gmail.com
+📧 privacy@3mpwrapp.ca
 
 *Last updated: April 15, 2026 | Based on 98,992 ONWSIAT decisions (2020-2026)*

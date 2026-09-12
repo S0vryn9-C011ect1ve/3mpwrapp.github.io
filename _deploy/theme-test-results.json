@@ -1,0 +1,370 @@
+{
+  "totalTests": 60,
+  "passedTests": 60,
+  "failedTests": 0,
+  "totalViolations": 0,
+  "timestamp": "2025-10-29T03:40:02.371Z",
+  "baseUrl": "https://3mpwrapp.ca",
+  "results": [
+    {
+      "url": "/",
+      "mode": "Light Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/about",
+      "mode": "Light Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/features",
+      "mode": "Light Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/user-guide",
+      "mode": "Light Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/blog",
+      "mode": "Light Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/contact",
+      "mode": "Light Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/privacy",
+      "mode": "Light Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/terms",
+      "mode": "Light Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/accessibility",
+      "mode": "Light Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/faq",
+      "mode": "Light Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/roadmap",
+      "mode": "Light Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/beta",
+      "mode": "Light Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/crisis-resources",
+      "mode": "Light Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/accessibility-settings",
+      "mode": "Light Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/app-waitlist",
+      "mode": "Light Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/",
+      "mode": "Dark Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/about",
+      "mode": "Dark Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/features",
+      "mode": "Dark Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/user-guide",
+      "mode": "Dark Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/blog",
+      "mode": "Dark Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/contact",
+      "mode": "Dark Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/privacy",
+      "mode": "Dark Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/terms",
+      "mode": "Dark Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/accessibility",
+      "mode": "Dark Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/faq",
+      "mode": "Dark Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/roadmap",
+      "mode": "Dark Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/beta",
+      "mode": "Dark Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/crisis-resources",
+      "mode": "Dark Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/accessibility-settings",
+      "mode": "Dark Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/app-waitlist",
+      "mode": "Dark Mode",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/",
+      "mode": "Light + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/about",
+      "mode": "Light + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/features",
+      "mode": "Light + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/user-guide",
+      "mode": "Light + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/blog",
+      "mode": "Light + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/contact",
+      "mode": "Light + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/privacy",
+      "mode": "Light + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/terms",
+      "mode": "Light + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/accessibility",
+      "mode": "Light + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/faq",
+      "mode": "Light + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/roadmap",
+      "mode": "Light + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/beta",
+      "mode": "Light + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/crisis-resources",
+      "mode": "Light + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/accessibility-settings",
+      "mode": "Light + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/app-waitlist",
+      "mode": "Light + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/",
+      "mode": "Dark + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/about",
+      "mode": "Dark + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/features",
+      "mode": "Dark + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/user-guide",
+      "mode": "Dark + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/blog",
+      "mode": "Dark + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/contact",
+      "mode": "Dark + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/privacy",
+      "mode": "Dark + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/terms",
+      "mode": "Dark + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/accessibility",
+      "mode": "Dark + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/faq",
+      "mode": "Dark + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/roadmap",
+      "mode": "Dark + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/beta",
+      "mode": "Dark + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/crisis-resources",
+      "mode": "Dark + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/accessibility-settings",
+      "mode": "Dark + High Contrast",
+      "violations": 0,
+      "issues": []
+    },
+    {
+      "url": "/app-waitlist",
+      "mode": "Dark + High Contrast",
+      "violations": 0,
+      "issues": []
+    }
+  ]
+}

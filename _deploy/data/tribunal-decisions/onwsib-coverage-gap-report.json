@@ -1,0 +1,60 @@
+{
+  "generated_at": "2026-05-08T18:44:33.711Z",
+  "mode": "coverage-audit",
+  "totals": {
+    "local_total": 463,
+    "observed_total": 463,
+    "net_gap": 0
+  },
+  "by_year": [
+    {
+      "year": 2020,
+      "local_count": 0,
+      "observed_canlii_count": 0,
+      "gap": 0,
+      "status": "aligned"
+    },
+    {
+      "year": 2021,
+      "local_count": 49,
+      "observed_canlii_count": 49,
+      "gap": 0,
+      "status": "aligned"
+    },
+    {
+      "year": 2022,
+      "local_count": 149,
+      "observed_canlii_count": 149,
+      "gap": 0,
+      "status": "aligned"
+    },
+    {
+      "year": 2023,
+      "local_count": 120,
+      "observed_canlii_count": 120,
+      "gap": 0,
+      "status": "aligned"
+    },
+    {
+      "year": 2024,
+      "local_count": 73,
+      "observed_canlii_count": 73,
+      "gap": 0,
+      "status": "aligned"
+    },
+    {
+      "year": 2025,
+      "local_count": 64,
+      "observed_canlii_count": 64,
+      "gap": 0,
+      "status": "aligned"
+    },
+    {
+      "year": 2026,
+      "local_count": 8,
+      "observed_canlii_count": 8,
+      "gap": 0,
+      "status": "aligned"
+    }
+  ]
+}

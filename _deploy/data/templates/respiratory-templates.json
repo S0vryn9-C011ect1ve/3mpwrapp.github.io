@@ -1,0 +1,69 @@
+[
+  {
+    "template_id": "TBD-2024onwsiat989",
+    "source_case_id": "2024onwsiat989",
+    "tribunal": "Workplace Safety & Insurance Appeals Tribunal (Ontario)",
+    "condition": "chronic fatigue, respiratory",
+    "outcome": "Allowed",
+    "date": "2024-06-20",
+    "quality_score": 66,
+    "winning_arguments": [],
+    "medical_evidence_used": {
+      "reports": [
+        "Medical records"
+      ],
+      "tests": [],
+      "specialists": [],
+      "has_ime": false
+    },
+    "cited_case_law": [],
+    "judge_reasoning": [],
+    "key_factors": [],
+    "geographic_info": {
+      "province_territory": "ON",
+      "cities": [],
+      "regions": []
+    },
+    "url": "https://canlii.ca/t/k6msr",
+    "citation": "2024 ONWSIAT 989 (CanLII)",
+    "usage_notes": [
+      "This template is for chronic fatigue, respiratory cases.",
+      "Medical evidence included: Medical records.",
+      "⚖️ Appeal Success Context: Our keyword analysis detected 12.0% success rate (limited to 6.1% of decisions with outcome keywords). Independent advocacy groups report 60-70% success rates for represented appellants. The key message: appeals work - 98.25% of denied workers never appeal despite available remedies.",
+      "📚 Data Source: Statistics derived from 98,992 WSIAT decisions (1987-2026). See data/comprehensive-extraction/aggregated-statistics.json for full methodology."
+    ],
+    "applicability_score": 63
+  },
+  {
+    "template_id": "TBD-2025onwsiat491",
+    "source_case_id": "2025onwsiat491",
+    "tribunal": "Workplace Safety & Insurance Appeals Tribunal (Ontario)",
+    "condition": "chronic fatigue, respiratory, cancer",
+    "outcome": "Allowed",
+    "date": "2025-05-01",
+    "quality_score": 61,
+    "winning_arguments": [],
+    "medical_evidence_used": {
+      "reports": [],
+      "tests": [],
+      "specialists": [],
+      "has_ime": false
+    },
+    "cited_case_law": [],
+    "judge_reasoning": [],
+    "key_factors": [],
+    "geographic_info": {
+      "province_territory": "ON",
+      "cities": [],
+      "regions": []
+    },
+    "url": "https://canlii.ca/t/kcwks",
+    "citation": "2025 ONWSIAT 491 (CanLII)",
+    "usage_notes": [
+      "This template is for chronic fatigue, respiratory, cancer cases.",
+      "⚖️ Appeal Success Context: Our keyword analysis detected 12.0% success rate (limited to 6.1% of decisions with outcome keywords). Independent advocacy groups report 60-70% success rates for represented appellants. The key message: appeals work - 98.25% of denied workers never appeal despite available remedies.",
+      "📚 Data Source: Statistics derived from 98,992 WSIAT decisions (1987-2026). See data/comprehensive-extraction/aggregated-statistics.json for full methodology."
+    ],
+    "applicability_score": 56
+  }
+]

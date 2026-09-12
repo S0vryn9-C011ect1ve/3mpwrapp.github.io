@@ -1,3 +1,8 @@
+---
+title: Hand & Finger Injuries: Breaking WSIB's "Minor Laceration, Healed" Denial
+description: > **⚠️ STATISTICAL ALERT:** Hand and finger injuries (lacerations, fractures, amputations, trigger finger, nerve injuries, crush injuries) represent **186 
+---
+
 # Hand & Finger Injuries: Breaking WSIB's "Minor Laceration, Healed" Denial
 
 > **⚠️ STATISTICAL ALERT:** Hand and finger injuries (lacerations, fractures, amputations, trigger finger, nerve injuries, crush injuries) represent **186 cases (1.6%)** of all WSIB tribunal decisions (2020-2026). WSIB systematically denies these claims as "minor injuries, healed" despite permanent functional loss and disfigurement.
@@ -434,9 +439,9 @@ From our analysis of 98,992 tribunal decisions (2020-2026):
 ## Related Resources
 
 **3mpwrApp Knowledge Base:**
-- [Wrist/Carpal Tunnel Claims](wrist-carpal-tunnel-claims.md) - Hand nerve injuries
-- [Chronic Pain Claims](chronic-pain-claims.md) - If hand injury leads to CRPS
-- [Permanent Impairment Ratings](permanent-impairment-rating.md) - Finger amputation undervalued
+- [Wrist/Carpal Tunnel Claims](/knowledge-base/wrist-carpal-tunnel-claims/) - Hand nerve injuries
+- [Chronic Pain Claims](/knowledge-base/chronic-pain-claims/) - If hand injury leads to CRPS
+- [Permanent Impairment Ratings](/knowledge-base/permanent-impairment-rating/) - Finger amputation undervalued
 
 **Research:**
 - [WSIB Exposed: 8 Smoking Guns](https://3mpwrapp.ca/blog/2026/04/15/wsib-exposed-statistical-evidence-proves-systematic-manipulation/)
@@ -465,6 +470,6 @@ From our analysis of 98,992 tribunal decisions (2020-2026):
 ---
 
 **Questions? Need help?**
-📧 empowrapp08162025@gmail.com
+📧 privacy@3mpwrapp.ca
 
 *Last updated: April 15, 2026 | Based on 98,992 ONWSIAT decisions (2020-2026)*

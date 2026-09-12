@@ -1,0 +1,159 @@
+{
+  "generatedAt": "2026-04-15T17:14:34.462Z",
+  "totalCases": 11430,
+  "yearRange": "2020-2026",
+  "yearlyBreakdown": {
+    "2020": 2077,
+    "2021": 2052,
+    "2022": 2091,
+    "2023": 1571,
+    "2024": 1971,
+    "2025": 1522,
+    "2026": 146
+  },
+  "topKeywords": [
+    {
+      "keyword": "worker",
+      "count": 9592
+    },
+    {
+      "keyword": "pre-existing condition",
+      "count": 1168
+    },
+    {
+      "keyword": "pain",
+      "count": 1165
+    },
+    {
+      "keyword": "employer",
+      "count": 1159
+    },
+    {
+      "keyword": "injury",
+      "count": 1149
+    },
+    {
+      "keyword": "shoulder",
+      "count": 1059
+    },
+    {
+      "keyword": "work",
+      "count": 1000
+    },
+    {
+      "keyword": "benefits",
+      "count": 889
+    },
+    {
+      "keyword": "accident",
+      "count": 842
+    },
+    {
+      "keyword": "impairment",
+      "count": 818
+    },
+    {
+      "keyword": "psychotraumatic disability",
+      "count": 611
+    },
+    {
+      "keyword": "knee",
+      "count": 592
+    },
+    {
+      "keyword": "entitlement",
+      "count": 504
+    },
+    {
+      "keyword": "work-related injury",
+      "count": 468
+    },
+    {
+      "keyword": "earnings",
+      "count": 393
+    },
+    {
+      "keyword": "reconsideration",
+      "count": 389
+    },
+    {
+      "keyword": "neck",
+      "count": 388
+    },
+    {
+      "keyword": "return to work",
+      "count": 329
+    },
+    {
+      "keyword": "labour market re-entry",
+      "count": 307
+    },
+    {
+      "keyword": "wrist",
+      "count": 292
+    }
+  ],
+  "commonInjuries": [
+    {
+      "type": "shoulder",
+      "count": 1391
+    },
+    {
+      "type": "knee",
+      "count": 845
+    },
+    {
+      "type": "neck",
+      "count": 485
+    },
+    {
+      "type": "back",
+      "count": 390
+    },
+    {
+      "type": "wrist",
+      "count": 376
+    },
+    {
+      "type": "ankle",
+      "count": 272
+    },
+    {
+      "type": "concussion",
+      "count": 183
+    },
+    {
+      "type": "chronic pain",
+      "count": 172
+    },
+    {
+      "type": "mental stress",
+      "count": 117
+    },
+    {
+      "type": "carpal tunnel",
+      "count": 90
+    },
+    {
+      "type": "hearing loss",
+      "count": 38
+    },
+    {
+      "type": "ptsd",
+      "count": 5
+    }
+  ],
+  "outcomes": {
+    "allowed": 93,
+    "dismissed": 28,
+    "varied": 161,
+    "reconsideration": 522,
+    "appeal": 135,
+    "partial": 0,
+    "denied": 0
+  },
+  "dataQuality": {
+    "total": 11430,
+    "completeness": 100
+  }
+}

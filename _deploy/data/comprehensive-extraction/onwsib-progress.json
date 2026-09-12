@@ -1,0 +1,23 @@
+{
+  "totalDecisions": 463,
+  "classified": 463,
+  "lastBatchNumber": 5,
+  "batches": [
+    {
+      "batchNumber": 1
+    },
+    {
+      "batchNumber": 2
+    },
+    {
+      "batchNumber": 3
+    },
+    {
+      "batchNumber": 4
+    },
+    {
+      "batchNumber": 5
+    }
+  ],
+  "startedAt": "2026-05-08T19:37:58.564Z"
+}
