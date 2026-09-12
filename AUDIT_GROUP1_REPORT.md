@@ -17,8 +17,8 @@
 - **[HIGH] Branding inconsistency — three names used across the same pages.**
   - Domain/title brand: **3mpwrApp** (site.title) — used 407× in source.
   - Lowercase domain string **3mpwrapp** — 44× (e.g. email `empowrapp08162025@gmail.com`, `empowrapp0816`, repo URLs `3mpowrApp/3mpwrapp.github.io`).
-  - **empowrapp** — 22× (footer copyright "© 2026 3mpwrApp" is fine, but `https://empowr.app` appears as the "Website" in Privacy & Terms contact blocks: privacy.md:171, terms.md:121).
-  - The legal contact blocks even point "Website" to `https://empowr.app` (a different domain) while the site is `3mpwrapp.ca`. **Fix:** Pick one brand (3mpwrApp) and one web domain (3mpwrapp.ca); replace `empowr.app` references in privacy/terms contact blocks.
+  - **empowrapp** — 22× (footer copyright "© 2026 3mpwrApp" is fine, but `https://3mpwrapp.ca` appears as the "Website" in Privacy & Terms contact blocks: privacy.md:171, terms.md:121).
+  - The legal contact blocks even point "Website" to `https://3mpwrapp.ca` (a different domain) while the site is `3mpwrapp.ca`. **Fix:** Pick one brand (3mpwrApp) and one web domain (3mpwrapp.ca); replace `3mpwrapp.ca` references in privacy/terms contact blocks.
 - **[MED] Redundant/dead "building in public" banners stacked at top of every page.** Every page renders BOTH the sticky transparency banner AND the hero banner. The hero (`building-public-hero.html`) claims "**4,600+** updates" + sub-line "**Many** improvements this week," while the sticky banner (`sticky-transparency-banner.html`) JS currently injects "**0 updates this week**" (fetched `whatsnew-2026.json` is empty) — a visible contradiction on the same screen. **Fix:** Keep one banner; make the weekly count fall back to "several" (already coded in the sticky script) instead of "0," and reconcile the "4,600+" vs weekly figure.
 - **[MED] Gradient hero sections fail AAA and partially fail AA for body-size white text (contrary to the site's AAA claims).** Computed ratios on the actual `#667eea→#764ba2` gradient:
   - White on `#667eea` = **3.66:1** → only AA-large, **fails AA normal text and AAA** (used for the building-public hero text, support.md welcome banner heading `color:white` on that gradient).
@@ -37,12 +37,12 @@
 
 ### `/privacy/`
 - **[LOW] SEO good:** unique title (26) + description (92), OG/Twitter/JSON-LD present. Duplicate-h1 issue applies (site-wide HIGH).
-- **[LOW] `https://empowr.app` listed as "Website" in the Privacy contact block (privacy.md:171)** — brand/domain mismatch (site-wide HIGH).
+- **[LOW] `https://3mpwrapp.ca` listed as "Website" in the Privacy contact block (privacy.md:171)** — brand/domain mismatch (site-wide HIGH).
 - **[LOW] Readability:** strong, plain-language, scannable with emoji bullets. Long but appropriate for a legal page.
 
 ### `/terms/`
 - **[LOW] SEO good** (title 28, desc 99). Duplicate-h1 applies.
-- **[LOW]** Footer contact block also points to `empowr.app` (terms.md:121) — same brand bug.
+- **[LOW]** Footer contact block also points to `3mpwrapp.ca` (terms.md:121) — same brand bug.
 - **[LOW]** "Also available in the app (app.3mpwrapp.ca)" link — fine; app domain is consistent with brand.
 
 ### `/code-of-conduct/` (Community Guidelines)
@@ -78,7 +78,7 @@
 1. **[HIGH] Fix duplicate `<h1>` on all pages** — edit `_layouts/default.html` so the title h1 is `display:none` (not `visually-hidden`). WCAG 2.2 A, affects every page.
 2. **[HIGH] Repair `/accessibility` and `/contact` 308 redirect loops** — align `permalink` (trailing slash) with `_redirects`; currently both top-nav pages are dead.
 3. **[HIGH] Restore `/app-tour/` (404)** — remove `app-tour.md` from `_config.yml` `exclude:`.
-4. **[HIGH] Unify brand & domain** — consistently use **3mpwrApp** / **3mpwrapp.ca**; replace `empowr.app` in Privacy/Terms contact blocks and fix org-name mismatches in GitHub links.
+4. **[HIGH] Unify brand & domain** — consistently use **3mpwrApp** / **3mpwrapp.ca**; replace `3mpwrapp.ca` in Privacy/Terms contact blocks and fix org-name mismatches in GitHub links.
 5. **[MED] Fix gradient hero contrast** — white text on `#667eea` is 3.66:1 (fails AA normal / AAA). Darken gradient or add scrim; applies to home, support, building-public banners.
 6. **[MED] Resolve dead/redirecting links** — `/beta-signup` (404), `/beta-guide/`, `/user-guide/`, `/community/`, `/crisis-resources/`, `/reports/` (coming-soon). Add redirects or fix targets; affects FAQ, code-of-conduct, support, contact.
 7. **[MED] De-duplicate the two "building in public" banners** and fix the "0 updates this week" vs "4,600+ updates" contradiction (sticky JS is injecting 0 from empty 2026 JSON).
