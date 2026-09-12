@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Dev Diary: Simple Mode: Designing for the Worst Day"
 date: 2026-04-08 00:00:00 +0000

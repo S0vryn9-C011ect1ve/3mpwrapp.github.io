@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: Motor Accessibility Features"
 date: 2026-04-01 00:00:00 +0000

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: Legal Workflow Automation"
 date: 2026-03-22 00:00:00 +0000

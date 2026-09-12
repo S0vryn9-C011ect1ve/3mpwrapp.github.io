@@ -1,4 +1,4 @@
-﻿# File Organization Guide
+# File Organization Guide
 **Where does every new file go?**
 
 ## 🎯 Quick Decision Tree

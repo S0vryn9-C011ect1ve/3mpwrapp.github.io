@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Understanding Tribunal Outcomes: What Do They Mean?"
 category: Legal Basics

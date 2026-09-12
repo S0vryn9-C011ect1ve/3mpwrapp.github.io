@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Inside 3mpwrApp - Visual Tour
 description: Take a visual tour inside 3mpwrApp. See how our platform empowers the disability community, injured workers, their families, supporters, and allies with AI advocacy tools, wellness tracking, evidence management, research resources, and community support.

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: Indigenous Language Support"
 date: 2026-03-24 00:00:00 +0000

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Blog
 description: Nouvelles, mises à jour et histoires de la communauté 3mpwrApp.

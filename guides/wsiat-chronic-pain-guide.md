@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: "Chronic Pain Guide - WSIAT Appeals Strategy"
 description: "Complete guide to chronic pain claims at WSIAT. Based on analysis of 7,502 decisions (1987-2026) showing chronic pain is 3rd most common appeal issue at 7.6%."

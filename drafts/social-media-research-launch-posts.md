@@ -1,4 +1,4 @@
-﻿# Social Media Launch Posts: WSIAT Research (2020-2026)
+# Social Media Launch Posts: WSIAT Research (2020-2026)
 
 ## Platform-Specific Variants
 

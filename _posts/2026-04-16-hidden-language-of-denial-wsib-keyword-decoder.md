@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "The Hidden Language of Denial: WSIB Keyword Patterns Revealed in 98,992 Cases"
 date: 2026-04-16

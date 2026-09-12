@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Interactive Demos
 description: Try 3mpwr App features right in your browser with our interactive demos

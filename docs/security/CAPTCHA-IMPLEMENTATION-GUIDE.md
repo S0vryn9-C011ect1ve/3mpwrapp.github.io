@@ -1,4 +1,4 @@
-﻿# Cloudflare Turnstile CAPTCHA Implementation Guide
+# Cloudflare Turnstile CAPTCHA Implementation Guide
 
 ## Overview
 This guide explains how to add Cloudflare Turnstile (privacy-friendly CAPTCHA) to your contact forms to prevent spam and automated abuse.

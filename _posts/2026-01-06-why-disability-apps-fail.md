@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "The Power of 3mpwrApp: How We're Building Different"
 subtitle: "Why compounding community knowledge is our superpower and how the flywheel approach drives systemic change"

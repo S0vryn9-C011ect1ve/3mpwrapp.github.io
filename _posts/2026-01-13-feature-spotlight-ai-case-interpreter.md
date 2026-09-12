@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: AI Case Interpreter"
 date: 2026-01-13 09:00:00 +0000

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Six Months, Endless Rebuilds, and Zero Half Measures â€” I Built This App for You"
 date: 2026-02-02

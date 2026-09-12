@@ -1,4 +1,4 @@
-﻿# Translation Status Report
+# Translation Status Report
 
 ## 📊 Current Status of French Translations
 

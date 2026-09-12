@@ -1,4 +1,4 @@
-﻿# ✅ Changes Complete - Facebook Group & Axe DevTools
+# ✅ Changes Complete - Facebook Group & Axe DevTools
 
 ## 📋 Summary
 

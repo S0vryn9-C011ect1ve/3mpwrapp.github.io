@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: "WSIAT Appeal Guides - Knowledge Base"
 description: "Evidence-based guides for WSIAT appeals. Based on analysis of 98,992 decisions (1987-2026). NEL, LOE, chronic pain, and more."

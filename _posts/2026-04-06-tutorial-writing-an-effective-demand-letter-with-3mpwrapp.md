@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Writing an Effective Demand Letter with 3mpwrApp"
 date: 2026-04-06 00:00:00 +0000

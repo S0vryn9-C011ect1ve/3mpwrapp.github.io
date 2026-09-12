@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Spoon Theory and the Design Language We Built Around It"
 date: 2026-04-18 00:00:00 +0000

@@ -1,4 +1,4 @@
-﻿# Roadmap Page & Logo Update - Complete Summary
+# Roadmap Page & Logo Update - Complete Summary
 
 **Date**: October 18, 2025  
 **Commit**: e891fe1  

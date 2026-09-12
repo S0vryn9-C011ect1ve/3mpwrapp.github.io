@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Building in Public: Why Transparency Is Non-Negotiable for Us"
 date: 2026-04-26 00:00:00 +0000

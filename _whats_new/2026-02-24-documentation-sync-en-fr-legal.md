@@ -1,4 +1,4 @@
-﻿---
+---
 layout: whats_new
 title: Documentation Sync Complete (EN + FR + Legal)
 date: 2026-02-24

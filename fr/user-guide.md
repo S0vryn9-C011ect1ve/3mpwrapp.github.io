@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Guide d'utilisation
 lang: fr

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "ONWSIB 2020-2026: Outcome Gap Audit and Evidence Limits"
 subtitle: "463 decisions collected quickly, but full-text and disposition fields remain mostly unresolved"

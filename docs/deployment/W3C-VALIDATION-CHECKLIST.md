@@ -1,4 +1,4 @@
-﻿# W3C HTML5 Validation Checklist - Post-Fix Verification
+# W3C HTML5 Validation Checklist - Post-Fix Verification
 
 ## ✅ Fixes Applied and Verified
 

@@ -1,4 +1,4 @@
-﻿# Cloudflare Pages Deployment Guide
+# Cloudflare Pages Deployment Guide
 
 ## Step-by-Step Setup (You Already Have Account ✅)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Ontario Legal Intelligence System v3.0 Complete: 85.1% Classification Achieved"
 date: 2026-05-15 21:30:00 +0000

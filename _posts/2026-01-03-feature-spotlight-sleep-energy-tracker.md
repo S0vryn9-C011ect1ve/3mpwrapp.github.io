@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: Sleep & Energy Tracker"
 date: 2026-01-03 09:00:00 +0000

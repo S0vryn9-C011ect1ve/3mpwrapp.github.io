@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: Resilience Points (Gamified Wellness)"
 date: 2026-04-29 00:00:00 +0000

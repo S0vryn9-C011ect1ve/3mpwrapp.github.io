@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Your First Benefits Application: A Complete Walkthrough"
 date: 2026-03-29 00:00:00 +0000

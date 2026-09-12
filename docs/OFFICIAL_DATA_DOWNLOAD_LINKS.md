@@ -1,4 +1,4 @@
-﻿# Official Data Sources Download Report
+# Official Data Sources Download Report
 **Date:** April 27, 2026  
 **Status:** Ready for Download
 

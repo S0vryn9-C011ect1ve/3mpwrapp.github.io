@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Dev Diary: Why 3mpwrApp Will Always Be Free"
 date: 2026-05-07 00:00:00 +0000

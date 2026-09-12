@@ -1,4 +1,4 @@
-﻿# Beta Testers Email: April 2026 Update
+# Beta Testers Email: April 2026 Update
 
 **To:** 3mpwr Beta Testers  
 **From:** 3mpwr Research Team  

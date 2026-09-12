@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Ontario's Workers' Compensation Black Box: Where 1.14-2.29 Million Injured Workers Disappear"
 date: 2026-04-16

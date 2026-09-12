@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "BC WCAT Data Collection Interrupted: 100% Unknown Outcomes & The Fight to Expose Systemic Abuse (laptop failure 2026-07)"
 date: 2026-04-29

@@ -1,4 +1,4 @@
-﻿---
+---
 
 ## 📊 Methodology & Evidence Standards: How We Know This
 

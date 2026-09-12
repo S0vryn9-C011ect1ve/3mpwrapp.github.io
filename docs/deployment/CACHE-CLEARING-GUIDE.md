@@ -1,4 +1,4 @@
-﻿# Site Still Bare - Cache Clearing Guide
+# Site Still Bare - Cache Clearing Guide
 
 ## The Issue: Cloudflare CDN Cache
 

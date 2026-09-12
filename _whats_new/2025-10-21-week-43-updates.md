@@ -1,4 +1,4 @@
-﻿---
+---
 layout: whats_new
 title: Week 43 Updates (2025)
 date: 2025-10-21

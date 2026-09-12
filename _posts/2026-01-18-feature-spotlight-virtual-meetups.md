@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: Virtual Meetups"
 date: 2026-01-18 09:00:00 +0000

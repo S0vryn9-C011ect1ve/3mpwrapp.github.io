@@ -1,4 +1,4 @@
-﻿Subject: Join Me March 31st + Production App Commitment Deadline Extended to April 3rd
+Subject: Join Me March 31st + Production App Commitment Deadline Extended to April 3rd
 
 Hi Beta Testers,
 

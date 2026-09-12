@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: Benefits Navigator"
 date: 2026-04-03 00:00:00 +0000

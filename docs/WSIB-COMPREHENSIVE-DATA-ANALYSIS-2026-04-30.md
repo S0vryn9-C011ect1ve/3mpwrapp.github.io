@@ -1,4 +1,4 @@
-﻿# WSIB Comprehensive Data Analysis - April 30, 2026
+# WSIB Comprehensive Data Analysis - April 30, 2026
 
 ## 🎯 Overview: The Complete Picture
 

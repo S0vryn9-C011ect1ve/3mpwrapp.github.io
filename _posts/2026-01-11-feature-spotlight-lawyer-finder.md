@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: Lawyer Finder"
 date: 2026-01-11 09:00:00 +0000

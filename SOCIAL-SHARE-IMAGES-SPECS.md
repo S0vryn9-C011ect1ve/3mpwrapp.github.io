@@ -1,4 +1,4 @@
-﻿# Social Share Images - Implementation Guide
+# Social Share Images - Implementation Guide
 
 **Created:** January 15, 2026  
 **Status:** Ready for Design  

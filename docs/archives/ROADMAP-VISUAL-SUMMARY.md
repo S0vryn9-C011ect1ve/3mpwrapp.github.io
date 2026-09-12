@@ -1,4 +1,4 @@
-﻿# 🚀 Roadmap Enhancement - Quick Visual Summary
+# 🚀 Roadmap Enhancement - Quick Visual Summary
 
 ## What We Added to the Roadmap
 

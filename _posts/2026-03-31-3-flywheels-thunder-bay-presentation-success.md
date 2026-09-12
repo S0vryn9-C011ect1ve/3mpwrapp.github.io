@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "The 3 Flywheels of Change: How Collective Action Compounds Over Time"
 date: 2026-03-31 18:00:00 -0400

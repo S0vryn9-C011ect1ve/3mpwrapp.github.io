@@ -1,4 +1,4 @@
-﻿# WCAG 2.2 AAA Fixes Applied - November 5, 2025
+# WCAG 2.2 AAA Fixes Applied - November 5, 2025
 
 ## Overview
 This document tracks all accessibility improvements made to achieve WCAG 2.2 Level AAA compliance.

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Dev Diary: Bank-Level Encryption for a Disability App: The Why"
 date: 2026-03-31 00:00:00 +0000

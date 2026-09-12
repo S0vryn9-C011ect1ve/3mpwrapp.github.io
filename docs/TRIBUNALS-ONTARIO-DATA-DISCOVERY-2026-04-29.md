@@ -1,4 +1,4 @@
-﻿# Tribunals Ontario Data Discovery - April 29, 2026
+# Tribunals Ontario Data Discovery - April 29, 2026
 
 ## 🎯 Overview
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "ONCA Leave to Appeal Application Template"
 description: "Professional template for seeking leave to appeal to Ontario Court of Appeal from tribunal decisions. Based on 5,034 ONCA decisions (2020-2026)."

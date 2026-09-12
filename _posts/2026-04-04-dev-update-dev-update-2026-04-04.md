@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Dev Diary Update: What's Been Happening in 3mpwrApp"
 date: 2026-04-04 00:00:00 +0000

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Stop Guessing What to Write - 22 Professional Letter Templates That Say Exactly What Needs to Be Said"
 date: 2025-10-23 09:00:00 +0000

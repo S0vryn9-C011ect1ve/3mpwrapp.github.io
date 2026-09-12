@@ -1,4 +1,4 @@
-﻿# 📋 PRE-LAUNCH TESTING EXECUTION PLAN
+# 📋 PRE-LAUNCH TESTING EXECUTION PLAN
 
 **Current Date:** October 18, 2025  
 **Launch Date:** October 24, 2025 (6 days away)  

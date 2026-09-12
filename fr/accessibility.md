@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Déclaration d'accessibilité
 description: Notre engagement envers la conception accessible et inclusive

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: Spoon Theory & Energy Management"
 date: 2026-04-17 00:00:00 +0000

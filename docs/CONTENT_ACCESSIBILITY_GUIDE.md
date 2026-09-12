@@ -1,4 +1,4 @@
-﻿# Content Accessibility Guidelines for 3mpwr
+# Content Accessibility Guidelines for 3mpwr
 
 **Version:** 1.0  
 **Last Updated:** May 11, 2026  

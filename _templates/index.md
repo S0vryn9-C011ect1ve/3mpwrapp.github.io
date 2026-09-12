@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Appeal Letter Templates
 description: Fill-in-the-blank WSIB appeal templates built from public Ontario workers' compensation decisions.

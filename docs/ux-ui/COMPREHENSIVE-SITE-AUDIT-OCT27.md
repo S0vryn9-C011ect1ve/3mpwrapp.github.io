@@ -1,4 +1,4 @@
-﻿# Comprehensive Site-Wide Accessibility & Clarity Audit
+# Comprehensive Site-Wide Accessibility & Clarity Audit
 ## Final Enhancement Report - October 27, 2025
 
 ### 🎯 Mission: Crystal Clear & Accessible Across Every Page

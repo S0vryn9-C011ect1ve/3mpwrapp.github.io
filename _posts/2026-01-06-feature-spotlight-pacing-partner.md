@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: Pacing Partner"
 date: 2026-01-06 09:00:00 +0000

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: "NEL Benefits Guide - Non-Economic Loss at WSIAT"
 description: "Complete guide to Non-Economic Loss (NEL) benefits in Ontario workers' compensation. Based on analysis of 20,680 WSIAT decisions (1987-2026)."

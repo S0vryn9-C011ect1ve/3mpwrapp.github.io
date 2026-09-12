@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: 3mpwrApp — Complete User Guide
 description: A comprehensive guide to using 3mpwrApp's tools and community features. Written by/for the disability community.

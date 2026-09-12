@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: Return to Work Accommodation Letter"
 date: 2026-04-27 00:00:00 +0000

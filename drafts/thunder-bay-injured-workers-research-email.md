@@ -1,4 +1,4 @@
-﻿# Email: Thunder Bay & District Injured Workers Support Group
+# Email: Thunder Bay & District Injured Workers Support Group
 
 **To:** Thunder Bay and District Injured Workers Support Group  
 **From:** 3mpwr Research Team  

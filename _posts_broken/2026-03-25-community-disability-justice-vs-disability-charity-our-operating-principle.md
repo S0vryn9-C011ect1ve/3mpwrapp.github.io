@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Disability Justice vs Disability Charity: Our Operating Principle"
 date: 2026-03-25 00:00:00 +0000

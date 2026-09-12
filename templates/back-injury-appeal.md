@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Back Injury Appeal Template - WSIB/WSIAT"
 description: "Professional fill-in-the-blank appeal letter for back injury denials. Based on 15,177 back/spine injury cases with 89.1% success rate at WSIAT."

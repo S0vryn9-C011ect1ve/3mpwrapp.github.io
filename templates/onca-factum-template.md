@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "ONCA Factum Template"
 description: "Professional template for drafting factums (legal argument briefs) for Ontario Court of Appeal. Based on 5,034 ONCA decisions (2020-2026)."

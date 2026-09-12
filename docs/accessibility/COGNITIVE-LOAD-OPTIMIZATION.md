@@ -1,4 +1,4 @@
-﻿# Cognitive Load Optimization Plan
+# Cognitive Load Optimization Plan
 ## 3mpwr App Website Accessibility Analysis
 
 **Date:** January 15, 2026  

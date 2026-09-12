@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Legal Center
 permalink: /legal/

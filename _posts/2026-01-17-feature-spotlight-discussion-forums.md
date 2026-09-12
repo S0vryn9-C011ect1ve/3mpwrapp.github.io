@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: Discussion Forums"
 date: 2026-01-17 09:00:00 +0000

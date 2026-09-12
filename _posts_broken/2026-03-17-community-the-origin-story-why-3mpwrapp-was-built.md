@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "The Origin Story: Why 3mpwrApp Was Built"
 date: 2026-03-17 00:00:00 +0000

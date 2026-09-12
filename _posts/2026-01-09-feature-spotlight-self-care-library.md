@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: Self-Care Library"
 date: 2026-01-09 09:00:00 +0000

@@ -1,4 +1,4 @@
-﻿# Official Data Sources - Breakthrough Discovery
+# Official Data Sources - Breakthrough Discovery
 
 ## Summary
 Discovered official government/tribunal data sources that bypass CanLII DataDome entirely!

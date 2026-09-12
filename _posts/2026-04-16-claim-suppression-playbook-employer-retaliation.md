@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Employer Tactics to Suppress Workers' Comp Claims: A Defense Playbook"
 date: 2026-04-16 14:00:00 -0400

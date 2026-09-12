@@ -1,4 +1,4 @@
-﻿# ✅ COMPLETE: Roadmap Enhancement - Canada-First to Global Revolution
+# ✅ COMPLETE: Roadmap Enhancement - Canada-First to Global Revolution
 
 **Date**: October 18, 2025  
 **Commits**: 5361968, 7bcd447  

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Collective Advocacy: Why Individual Coping Is Not Enough"
 date: 2026-05-04 00:00:00 +0000

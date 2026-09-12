@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Tracking Symptoms for Doctors and Legal Appointments"
 date: 2026-04-14 00:00:00 +0000

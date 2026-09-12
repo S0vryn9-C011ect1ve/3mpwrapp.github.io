@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: Reflections Calendar"
 date: 2026-01-10 09:00:00 +0000

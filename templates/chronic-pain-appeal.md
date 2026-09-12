@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Chronic Pain Appeal Template - WSIB/WSIAT"
 description: "Professional fill-in-the-blank appeal letter for chronic pain denials. Based on 7,502 chronic pain cases with 89.1% success rate at WSIAT."

@@ -1,4 +1,4 @@
-﻿# ✅ Accessibility-First Color System — COMPLETE
+# ✅ Accessibility-First Color System — COMPLETE
 
 **Date:** March 18, 2026  
 **Goal:** Make 3mpwrApp website the #1 standard for accessibility  

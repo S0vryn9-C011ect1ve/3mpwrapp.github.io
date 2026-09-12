@@ -1,4 +1,4 @@
-﻿Subject: Partnership Request: Improving Tribunal Outcome Metadata for Vulnerable Communities
+Subject: Partnership Request: Improving Tribunal Outcome Metadata for Vulnerable Communities
 
 To: feedback@canlii.org
 CC: info@canlii.org

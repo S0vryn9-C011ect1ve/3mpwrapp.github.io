@@ -1,4 +1,4 @@
-﻿# Ontario Data Quality & Knowledge Base Expansion Plan
+# Ontario Data Quality & Knowledge Base Expansion Plan
 **3mpwrApp CanLII Intelligence System — Complete Verification & Enhancement**
 
 **Plan Created:** May 13, 2026  

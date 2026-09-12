@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: Disability Wizard"
 date: 2026-03-16 00:00:00 +0000

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Understanding ONCA Appeals for Workers"
 description: "Complete guide to Ontario Court of Appeal (ONCA) for workplace injury cases. Based on analysis of 5,034 ONCA decisions (2020-2026)."

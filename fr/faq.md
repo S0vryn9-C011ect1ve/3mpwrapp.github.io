@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: FAQ - Foire aux questions
 permalink: /fr/faq/

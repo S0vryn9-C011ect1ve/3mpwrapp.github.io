@@ -1,4 +1,4 @@
-﻿# NSRLP Partnership Outreach Email
+# NSRLP Partnership Outreach Email
 
 **To:** representingyourself@gmail.com  
 **From:** [Your contact email]  

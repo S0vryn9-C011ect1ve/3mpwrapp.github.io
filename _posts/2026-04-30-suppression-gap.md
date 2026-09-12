@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "WSIB Appeal Gap Analysis: 139,000 Ontario Workers Per Year Do Not Appeal Denials"
 date: 2026-04-30

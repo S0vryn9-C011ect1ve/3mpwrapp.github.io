@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Weekly Update - Week 43 (2025)
 date: 2025-10-21 09:00:00 +0000

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: Mood Tracker"
 date: 2026-04-21 00:00:00 +0000

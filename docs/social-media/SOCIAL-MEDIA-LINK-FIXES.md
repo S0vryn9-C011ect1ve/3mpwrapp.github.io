@@ -1,4 +1,4 @@
-﻿# Social Media Link Fixes - Resolved 404 Issues
+# Social Media Link Fixes - Resolved 404 Issues
 
 **Date**: October 28, 2024  
 **Issue**: Social media automated posts were generating invalid 404 links  

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: Wellness Hub"
 date: 2026-03-28 00:00:00 +0000

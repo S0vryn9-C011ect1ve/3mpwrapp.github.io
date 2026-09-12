@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Accessibility Walkthrough & Quick Start
 description: A practical guide to using 3mpwrApp's accessibility features - what's available now and how to enable each feature.

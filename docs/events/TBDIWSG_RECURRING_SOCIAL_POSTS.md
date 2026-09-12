@@ -1,4 +1,4 @@
-﻿# Recurring Social Media Posts - TBDIWSG Tuesday Sessions
+# Recurring Social Media Posts - TBDIWSG Tuesday Sessions
 **April - June 2026**  
 **Every Tuesday 10:00 AM - 12:00 PM EST**
 

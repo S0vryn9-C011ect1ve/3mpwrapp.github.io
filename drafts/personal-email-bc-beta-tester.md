@@ -1,4 +1,4 @@
-﻿# Personal Email: BC Beta Tester Thank You
+# Personal Email: BC Beta Tester Thank You
 
 **To:** [BC Beta Tester Email]  
 **From:** 3mpwr Research Team  

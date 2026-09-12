@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Chronic Pain"
 permalink: /knowledge-base/chronic-pain-claims/

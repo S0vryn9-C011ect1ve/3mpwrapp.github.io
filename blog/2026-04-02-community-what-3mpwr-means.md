@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "What 3mpwr Means: The Philosophy Behind Our Name"
 date: 2026-04-02

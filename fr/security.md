@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: Politique de sécurité
 permalink: /fr/security/

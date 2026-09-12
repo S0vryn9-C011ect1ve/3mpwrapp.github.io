@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: Multilingual Support (English & French)"
 date: 2026-04-11 00:00:00 +0000

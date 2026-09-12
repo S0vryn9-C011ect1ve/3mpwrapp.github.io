@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Intersectionality and Disability: Building for the Full Reality"
 date: 2026-05-09 00:00:00 +0000

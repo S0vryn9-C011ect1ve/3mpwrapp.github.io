@@ -1,4 +1,4 @@
-﻿# Content Optimization Templates
+# Content Optimization Templates
 
 **Purpose:** Create variety in social media posts to test what resonates, optimize for platform-specific strengths, and avoid repetitive content fatigue.
 

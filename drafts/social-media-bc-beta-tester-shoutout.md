@@ -1,4 +1,4 @@
-﻿# Social Media Shout Out: BC Beta Tester Contribution
+# Social Media Shout Out: BC Beta Tester Contribution
 
 **Date:** April 17, 2026  
 **Campaign:** Thank BC Beta Tester + Promote Claim Suppression Resources  

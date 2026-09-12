@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Getting Crisis Support Through 3mpwrApp"
 date: 2026-05-04 00:00:00 +0000

@@ -1,4 +1,4 @@
-﻿# CanLII Outcome Data Deployment - COMPLETE ✅
+# CanLII Outcome Data Deployment - COMPLETE ✅
 
 **Date:** April 28, 2026  
 **Status:** ALL TASKS COMPLETE  

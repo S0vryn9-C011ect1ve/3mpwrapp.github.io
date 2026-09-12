@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: 3MPWRAPP Features - Complete Feature Guide
 description: Explore all 74 features in 3MPWRAPP for the disability community. Learn what each feature does, why it matters, how to use it, and who it helps - for injured workers, persons with disabilities, advocates, and vulnerable Canadians.

@@ -1,4 +1,4 @@
-﻿# Chronic Pain: Building Your Case
+# Chronic Pain: Building Your Case
 
 *Based on 186 WSIAT decisions involving chronic pain*
 

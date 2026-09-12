@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "WSIAT Pattern Analysis: 63% Worker Victory Rate in Detected Outcomes and a 91.8% Metadata Gap"
 subtitle: "Advanced Pattern Analysis of 2,000 WSIAT Cases Detected 651 Outcomes | Worker Victory Rate: 63.1% in Detected Outcomes"

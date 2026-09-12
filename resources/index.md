@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Resources
 description: Comprehensive guides, rights information, templates, and helpful links to empower your journey.

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: "LOE Benefits Guide - Loss of Earnings at WSIAT"
 description: "Complete guide to Loss of Earnings (LOE) benefits in Ontario workers' compensation. Based on analysis of 10,838 WSIAT decisions (1987-2026)."

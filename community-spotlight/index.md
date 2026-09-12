@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Community Spotlight
 description: Celebrating our community members, advocates, activists, and allies making a difference for disability rights and injured workers across Canada.

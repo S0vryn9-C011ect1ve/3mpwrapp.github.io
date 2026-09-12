@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Ontario Court of Appeal (ONCA) Precedent Overview: 5,034 Decisions Analyzed"
 date: 2026-05-08 00:00:00 +0000

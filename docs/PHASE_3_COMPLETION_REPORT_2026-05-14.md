@@ -1,4 +1,4 @@
-﻿# Phase 3 Completion Report — Ontario Data Quality Plan
+# Phase 3 Completion Report — Ontario Data Quality Plan
 **Completed: May 14, 2026, 12:15 AM**
 
 ---

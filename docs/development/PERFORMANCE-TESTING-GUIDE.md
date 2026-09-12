@@ -1,4 +1,4 @@
-﻿# ⚡ PERFORMANCE TESTING GUIDE
+# ⚡ PERFORMANCE TESTING GUIDE
 
 **Testing Date:** October 20, 2025  
 **Target:** 3mpwrapp.pages.dev  

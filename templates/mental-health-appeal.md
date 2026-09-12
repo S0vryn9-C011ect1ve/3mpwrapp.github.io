@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Mental Health Injury WSIAT Appeal Template"
 permalink: /templates/mental-health-appeal/

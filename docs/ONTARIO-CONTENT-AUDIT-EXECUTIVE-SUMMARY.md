@@ -1,4 +1,4 @@
-﻿# Ontario Tribunal Content Audit - Executive Summary
+# Ontario Tribunal Content Audit - Executive Summary
 **Date:** May 2, 2026  
 **Scope:** WSIAT, ONWSIB, ONSBT, HRTO consistency across all site content
 

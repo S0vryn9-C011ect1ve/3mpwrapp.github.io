@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "How Accurate Are Outcome Predictions? (79% AI Accuracy Explained)"
 category: Legal Basics

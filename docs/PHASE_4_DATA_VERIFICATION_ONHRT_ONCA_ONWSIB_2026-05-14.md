@@ -1,4 +1,4 @@
-﻿# Phase 4 Data Verification Report — ONHRT, ONCA, ONWSIB
+# Phase 4 Data Verification Report — ONHRT, ONCA, ONWSIB
 **Completed: May 14, 2026, 12:45 AM**
 
 ---

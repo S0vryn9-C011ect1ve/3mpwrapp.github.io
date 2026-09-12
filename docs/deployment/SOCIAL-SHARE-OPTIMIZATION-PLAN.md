@@ -1,4 +1,4 @@
-﻿# Social Share Optimization Plan
+# Social Share Optimization Plan
 **3mpwr App Website - Open Graph & Social Media Strategy**
 
 **Created:** January 15, 2026  

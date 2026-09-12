@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: Accessible Document Generation"
 date: 2026-04-19 00:00:00 +0000

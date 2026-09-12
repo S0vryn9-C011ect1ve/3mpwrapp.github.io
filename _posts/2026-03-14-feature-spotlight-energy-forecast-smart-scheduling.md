@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: Energy Forecast & Smart Scheduling"
 date: 2026-03-14 00:00:00 +0000

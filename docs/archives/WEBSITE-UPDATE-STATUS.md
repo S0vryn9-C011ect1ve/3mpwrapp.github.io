@@ -1,4 +1,4 @@
-﻿# Website Update Status - Three Issues Addressed
+# Website Update Status - Three Issues Addressed
 
 **Date**: October 18, 2025  
 **Status**: 2/3 Complete, 1 Requires Logo File

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Data Ownership Statement
 description: Our unwavering commitment to 100% user data ownership and sovereignty.

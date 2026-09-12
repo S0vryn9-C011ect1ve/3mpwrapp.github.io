@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Community
 description: "Join an inclusive community of persons with disabilities, injured workers, and allies. Safe peer support, advocacy, and collective action."

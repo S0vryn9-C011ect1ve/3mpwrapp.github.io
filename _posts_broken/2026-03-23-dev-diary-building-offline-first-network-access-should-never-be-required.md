@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Dev Diary: Building Offline-First: Network Access Should Never Be Required"
 date: 2026-03-23 00:00:00 +0000

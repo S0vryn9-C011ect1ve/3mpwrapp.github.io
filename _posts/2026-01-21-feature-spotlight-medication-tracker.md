@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: Medication Tracker"
 date: 2026-01-21 09:00:00 +0000

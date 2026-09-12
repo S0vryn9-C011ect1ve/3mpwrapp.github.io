@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Legal Compliance & Requirements
 permalink: /legal/requirements/

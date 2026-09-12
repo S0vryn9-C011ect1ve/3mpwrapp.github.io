@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Recherche
 description: Trouvez rapidement des informations avec des résultats sur la page et un repli DuckDuckGo, limité au site 3mpwrApp.

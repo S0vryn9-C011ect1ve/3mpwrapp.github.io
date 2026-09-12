@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Setting Up Accessibility for Your Needs"
 date: 2026-05-21 00:00:00 +0000

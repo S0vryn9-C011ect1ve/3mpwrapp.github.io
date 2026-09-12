@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: Resource Directory"
 date: 2026-04-05 00:00:00 +0000

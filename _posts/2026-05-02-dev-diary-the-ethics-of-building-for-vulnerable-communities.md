@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Dev Diary: The Ethics of Building for Vulnerable Communities"
 date: 2026-05-02 00:00:00 +0000

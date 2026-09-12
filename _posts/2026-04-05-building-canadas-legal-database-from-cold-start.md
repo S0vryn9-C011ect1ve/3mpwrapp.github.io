@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Building Canada's Legal Database for Injured Workers and Persons with Disabilities: The Journey from Cold Start to 1,500+ Templates"
 date: 2026-04-05 00:00:00 +0000

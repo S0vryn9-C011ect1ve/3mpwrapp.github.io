@@ -1,4 +1,4 @@
-﻿## 🎯 WSIAT Classification Results: 98,992 Decisions Analyzed
+## 🎯 WSIAT Classification Results: 98,992 Decisions Analyzed
 
 **📅 UPDATE: May 1, 2026** - We've completed keyword-based classification of all 98,992 WSIAT tribunal decisions (2020-2026). Here's what the outcomes reveal:
 

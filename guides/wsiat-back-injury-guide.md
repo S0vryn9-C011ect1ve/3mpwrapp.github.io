@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: "Back Injury Appeals Guide - WSIAT"
 description: "Complete guide to back injury appeals at WSIAT. Based on 15,177 back injury decisions (15.3% of all appeals) - the #1 most common injury type."

@@ -1,4 +1,4 @@
-﻿# Full Website Audit Remediation Plan
+# Full Website Audit Remediation Plan
 **Created:** May 22, 2026  
 **Status:** In Progress  
 **Completion Target:** 2-3 weeks

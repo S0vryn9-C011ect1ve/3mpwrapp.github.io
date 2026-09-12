@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Accessibility Statement
 description: Our commitment to inclusive accessible design

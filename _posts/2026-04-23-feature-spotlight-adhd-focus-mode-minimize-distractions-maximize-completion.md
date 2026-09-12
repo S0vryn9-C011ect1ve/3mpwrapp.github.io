@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: ADHD Focus Mode: Minimize Distractions, Maximize Completion"
 date: 2026-04-23 00:00:00 +0000

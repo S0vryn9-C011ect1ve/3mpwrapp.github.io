@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: "NEL + Chronic Pain Combined Strategy - WSIAT"
 description: "Complete guide to appealing NEL denials when chronic pain is involved. Based on 2,101 decisions where both issues appear together (2.12% of all appeals)."

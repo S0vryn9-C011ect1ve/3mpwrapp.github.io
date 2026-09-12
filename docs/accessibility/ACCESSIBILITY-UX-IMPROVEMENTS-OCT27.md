@@ -1,4 +1,4 @@
-﻿# Accessibility & UX Improvements - October 27, 2025
+# Accessibility & UX Improvements - October 27, 2025
 
 ## Overview
 Comprehensive site-wide improvements to enhance readability, accessibility, and user experience while maintaining the modern, calm visual style.

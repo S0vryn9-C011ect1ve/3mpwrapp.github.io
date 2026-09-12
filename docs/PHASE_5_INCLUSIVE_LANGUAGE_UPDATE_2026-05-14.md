@@ -1,4 +1,4 @@
-﻿# Phase 5 Completion Report — Inclusive Language & Disability Justice Framing
+# Phase 5 Completion Report — Inclusive Language & Disability Justice Framing
 **Completed: May 14, 2026, 1:30 AM**
 
 ---

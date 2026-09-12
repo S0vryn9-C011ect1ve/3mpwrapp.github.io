@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Site Map
 description: Human-readable overview of pages available on the site.

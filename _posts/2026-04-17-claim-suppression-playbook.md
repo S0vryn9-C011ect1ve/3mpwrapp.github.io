@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "BC to Ontario: Cross-Provincial Analysis of Claim Suppression Patterns"
 date: 2026-04-17

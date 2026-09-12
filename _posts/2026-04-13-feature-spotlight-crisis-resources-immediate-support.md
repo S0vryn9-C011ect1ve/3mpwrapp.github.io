@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: Crisis Resources & Immediate Support"
 date: 2026-04-13 00:00:00 +0000

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Stop Scrambling for Your Medical Records - Evidence Locker Keeps Everything Organized When You Need It Most"
 date: 2025-10-24 09:00:00 +0000

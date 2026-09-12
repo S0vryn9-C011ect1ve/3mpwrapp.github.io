@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: Multi-Device Sync: Access Anywhere (Optional)"
 date: 2026-05-01 00:00:00 +0000

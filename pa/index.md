@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: ਮੁੱਖ ਸਫ਼ਾ
 lang: pa

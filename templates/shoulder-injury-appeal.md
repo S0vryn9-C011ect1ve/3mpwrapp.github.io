@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Shoulder Injury WSIAT Appeal Template"
 permalink: /templates/shoulder-injury-appeal/

@@ -1,4 +1,4 @@
-﻿# 3mpwrApp Presentation - Promotional Blurb
+# 3mpwrApp Presentation - Promotional Blurb
 **Thunder Bay & District Injured Workers Support Group**  
 **Tuesday Information Session - March 31st, 2026**
 

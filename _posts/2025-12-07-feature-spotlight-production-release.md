@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "AA A12a Feature Spotlight: 3mpwrApp Production Release - 721 Tests Passing!"
 date: 2025-12-07 10:00:00 +0000

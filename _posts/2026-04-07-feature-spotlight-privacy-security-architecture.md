@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: Privacy & Security Architecture"
 date: 2026-04-07 00:00:00 +0000

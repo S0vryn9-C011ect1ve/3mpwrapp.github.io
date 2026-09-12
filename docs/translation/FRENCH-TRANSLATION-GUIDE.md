@@ -1,4 +1,4 @@
-﻿# French Translation Guide - DeepL API
+# French Translation Guide - DeepL API
 
 This guide explains how to translate the entire 3mpwr App website from English to French using the DeepL API.
 

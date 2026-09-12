@@ -1,4 +1,4 @@
-﻿# TBDIWSG Events Import Summary
+# TBDIWSG Events Import Summary
 
 **Date:** March 25, 2026  
 **Author:** Lissa Beaulieu / Copilot Agent  

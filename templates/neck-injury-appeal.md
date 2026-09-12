@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Neck Injury WSIAT Appeal Template"
 permalink: /templates/neck-injury-appeal/

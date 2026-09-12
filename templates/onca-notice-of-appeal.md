@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "ONCA Notice of Appeal Template"
 description: "Official form for initiating an appeal to Ontario Court of Appeal after leave has been granted. Based on 5,034 ONCA decisions (2020-2026)."

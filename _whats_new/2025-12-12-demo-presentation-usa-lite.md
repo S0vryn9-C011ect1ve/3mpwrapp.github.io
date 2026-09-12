@@ -1,4 +1,4 @@
-﻿---
+---
 layout: whats_new
 title: 🎉 First Demo Presentation Success & USA Lite Launch!
 date: 2025-12-12

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: About
 description: Empowering Canada's disability and injured worker community with 100% free advocacy tools, resources, and connection.

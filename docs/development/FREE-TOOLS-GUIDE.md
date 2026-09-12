@@ -1,4 +1,4 @@
-﻿# Free Testing & Monitoring Tools for Zero-Budget Excellence
+# Free Testing & Monitoring Tools for Zero-Budget Excellence
 
 **Total Cost:** $0 (All tools have generous free tiers or are completely free)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Pre-Existing Condition Appeal Template - WSIB/WSIAT"
 description: "Professional fill-in-the-blank appeal letter for pre-existing condition denials. Counter WSIB's most common denial tactic with evidence-based arguments."

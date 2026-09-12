@@ -1,4 +1,4 @@
-﻿# Cloudflare Pages Troubleshooting - Bare Site
+# Cloudflare Pages Troubleshooting - Bare Site
 
 ## Issue: Site loads but appears blank/bare
 

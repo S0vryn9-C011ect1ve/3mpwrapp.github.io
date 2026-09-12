@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Welcome to the 3mpowr App site"
 date: 2025-10-03

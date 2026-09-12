@@ -1,4 +1,4 @@
-﻿# Ontario Tribunal Content Audit Report
+# Ontario Tribunal Content Audit Report
 **Generated:** 2026-05-02T01:31:51.491Z
 
 ## Executive Summary

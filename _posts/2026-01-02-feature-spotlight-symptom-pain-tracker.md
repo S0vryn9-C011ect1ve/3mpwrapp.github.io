@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: Symptom & Pain Tracker"
 date: 2026-01-02 09:00:00 +0000

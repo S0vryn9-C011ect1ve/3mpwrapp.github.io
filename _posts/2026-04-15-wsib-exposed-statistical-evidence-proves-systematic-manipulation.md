@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "What 98,992 Tribunal Decisions Reveal About WSIB Outcomes"
 date: 2026-04-15

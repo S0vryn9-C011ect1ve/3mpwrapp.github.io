@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "How One Beta Tester Helped Surface Claim Reporting Barriers Across Canada"
 date: 2026-04-17

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "How to Use the Evidence Locker Effectively"
 date: 2026-03-14 00:00:00 +0000

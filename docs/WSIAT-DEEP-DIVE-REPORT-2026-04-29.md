@@ -1,4 +1,4 @@
-﻿# WSIAT Deep Dive Analysis Report
+# WSIAT Deep Dive Analysis Report
 ## Super Detective Mode 🕵️ - 98,992 Decisions
 
 **Generated:** 2026-04-30  

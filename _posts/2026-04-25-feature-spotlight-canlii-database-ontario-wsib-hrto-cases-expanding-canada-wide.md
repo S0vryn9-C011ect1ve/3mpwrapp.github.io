@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Feature Spotlight: CanLII Database: Ontario WSIB & HRTO Cases (Expanding Canada-Wide)"
 date: 2026-04-25 00:00:00 +0000

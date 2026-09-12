@@ -1,4 +1,4 @@
-﻿# WCAG 2.2 AAA Comprehensive Accessibility Audit
+# WCAG 2.2 AAA Comprehensive Accessibility Audit
 **3mpwr App Website** | Conducted: February 2, 2026
 
 ---

@@ -1,4 +1,4 @@
-﻿# Workspace Organization Plan
+# Workspace Organization Plan
 **Created:** March 25, 2026
 **Purpose:** Clean up both empowrapp-site and empowrapp-new repositories + establish ongoing file organization standards
 

@@ -1,4 +1,4 @@
-﻿# Accessibility Page Fixed - Complete Summary
+# Accessibility Page Fixed - Complete Summary
 
 **Date**: October 18, 2025  
 **Commit**: db95e95  

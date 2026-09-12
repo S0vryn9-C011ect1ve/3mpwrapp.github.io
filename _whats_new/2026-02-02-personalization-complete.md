@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Comprehensive Personalization System Live!"
 date: 2026-02-02

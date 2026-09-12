@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Privacy as a Human Right: Not a Feature We Added Later"
 date: 2026-04-10 00:00:00 +0000

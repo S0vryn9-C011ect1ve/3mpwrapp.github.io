@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Protecting Your Privacy: Local-First Architecture Explained"
 date: 2026-04-30 00:00:00 +0000

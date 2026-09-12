@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Démonstration interactive de 3MPWRAPP
 description: Explorez les fonctionnalités les plus importantes de 3MPWRAPP avec des démonstrations interactives. Voyez comment l'application aide les travailleurs blessés, les personnes handicapées, les défenseurs et les communautés à organiser les preuves, comprendre les décisions et créer un changement systémique.

@@ -1,4 +1,4 @@
-﻿# Website Organization Plan
+# Website Organization Plan
 **Date:** October 26, 2025  
 **Purpose:** Better organize all pages across the entire 3mpwrApp website for improved navigation and maintainability
 

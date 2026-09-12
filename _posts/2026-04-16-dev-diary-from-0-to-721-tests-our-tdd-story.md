@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Dev Diary: From 0 to 721 Tests: Our TDD Story"
 date: 2026-04-16 00:00:00 +0000

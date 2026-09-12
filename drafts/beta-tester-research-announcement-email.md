@@ -1,4 +1,4 @@
-﻿# Beta Tester Email: Research Launch Announcement
+# Beta Tester Email: Research Launch Announcement
 
 **Subject Line Options:**
 1. 🔬 We analyzed 98,992 WSIAT cases—here's what we found (and what you can use)
