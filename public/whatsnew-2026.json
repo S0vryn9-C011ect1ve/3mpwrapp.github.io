@@ -1,12 +1,12 @@
 {
   "year": 2026,
   "version": "1.0",
-  "lastUpdated": "2026-09-12T06:58:28.000Z",
+  "lastUpdated": "2026-09-12T07:15:40.000Z",
   "entries": [
     {
-      "id": "wn-draft-1c54fcf4",
-      "title": "# Founder's What's New Notes",
-      "summary": "# Founder's What's New Notes\n#\n# Write plain-language updates here. One block per note, separated by a blank line.\n# Hermes runs the generator and adds these to the public What's New feed.\n# Keep it simple — short sentences, no jargon.\n#\n# Format (DATE is optional — leave it off to use today):\n# - D",
+      "id": "wn-draft-7f341aae",
+      "title": "The app and website are now easier to read, with cleaner legal pages and a knowledge base that explains your rights in p",
+      "summary": "The app and website are now easier to read, with cleaner legal pages and a knowledge base that explains your rights in plain language.",
       "date": "2026-09-12T12:00:00.000Z",
       "category": "feature",
       "repo": "website",
@@ -15,8 +15,8 @@
     },
     {
       "id": "wn-2026-09-12-eb9c95",
-      "title": "remove leaked/placeholder references from audit report doc",
-      "summary": "remove leaked/placeholder references from audit report doc",
+      "title": "remove leaked/ references from audit report doc",
+      "summary": "remove leaked/ references from audit report doc",
       "date": "2026-09-12T02:33:40-04:00",
       "category": "content",
       "repo": "website",
@@ -115,7 +115,7 @@
     },
     {
       "id": "wn-2026-09-12-449f76",
-      "title": "remove stale privacy/index.md + terms/index.md that shadowed root .md files (caused old update blocks to appear on live ",
+      "title": "remove stale privacy/index.md + terms/index.md that shadowed root .md files (caused old update blocks to appear on live",
       "summary": "remove stale privacy/index.md + terms/index.md that shadowed root .md files (caused old update blocks to appear on live site)",
       "date": "2026-09-12T00:08:48-04:00",
       "category": "fix",
@@ -1865,8 +1865,8 @@
     },
     {
       "id": "wn-2026-02-27-a5a7f9",
-      "title": "⚡ Remediate npm audit findings and sanitize token placeholder.",
-      "summary": "Remediate npm audit findings and sanitize token placeholder.",
+      "title": "⚡ Remediate npm audit findings and sanitize token .",
+      "summary": "Remediate npm audit findings and sanitize token .",
       "date": "2026-02-27T23:43:03.000Z",
       "category": "improvement",
       "repo": "app",
@@ -1875,8 +1875,8 @@
     },
     {
       "id": "wn-2026-02-27-007b1d",
-      "title": "⚡ Remediate npm audit findings and sanitize token placeholder.",
-      "summary": "Remediate npm audit findings and sanitize token placeholder.",
+      "title": "⚡ Remediate npm audit findings and sanitize token .",
+      "summary": "Remediate npm audit findings and sanitize token .",
       "date": "2026-02-27T23:43:03.000Z",
       "category": "improvement",
       "repo": "app",
@@ -5595,8 +5595,8 @@
     },
     {
       "id": "wn-2026-01-21-184fe0",
-      "title": "✨ Add Unifor campaign and 8 new events (J4MW Jan 20-22, TBIWSG Feb-June sessions).",
-      "summary": "Add Unifor campaign and 8 new events (J4MW Jan 20-22, TBIWSG Feb-June sessions).",
+      "title": "✨ Add Unifor campaign and 8 new events (J4MW Jan 20-22, community events Feb-June sessions).",
+      "summary": "Add Unifor campaign and 8 new events (J4MW Jan 20-22, community events Feb-June sessions).",
       "date": "2026-01-21T21:44:13.000Z",
       "category": "feature",
       "repo": "app",
@@ -5605,8 +5605,8 @@
     },
     {
       "id": "wn-2026-01-21-3c5b15",
-      "title": "✨ Add Unifor campaign and 8 new events (J4MW Jan 20-22, TBIWSG Feb-June sessions).",
-      "summary": "Add Unifor campaign and 8 new events (J4MW Jan 20-22, TBIWSG Feb-June sessions).",
+      "title": "✨ Add Unifor campaign and 8 new events (J4MW Jan 20-22, community events Feb-June sessions).",
+      "summary": "Add Unifor campaign and 8 new events (J4MW Jan 20-22, community events Feb-June sessions).",
       "date": "2026-01-21T21:44:13.000Z",
       "category": "feature",
       "repo": "app",
@@ -6685,8 +6685,8 @@
     },
     {
       "id": "wn-2026-01-16-6d0f57",
-      "title": "✨ Fix Sentry gradle script execution and add SENTRY_AUTH_TOKEN placeholder.",
-      "summary": "Fix Sentry gradle script execution and add SENTRY_AUTH_TOKEN placeholder.",
+      "title": "✨ Fix Sentry gradle script execution and add SENTRY_AUTH_TOKEN .",
+      "summary": "Fix Sentry gradle script execution and add SENTRY_AUTH_TOKEN .",
       "date": "2026-01-16T18:05:48.000Z",
       "category": "feature",
       "repo": "app",
@@ -6695,8 +6695,8 @@
     },
     {
       "id": "wn-2026-01-16-bded13",
-      "title": "✨ Fix Sentry gradle script execution and add SENTRY_AUTH_TOKEN placeholder.",
-      "summary": "Fix Sentry gradle script execution and add SENTRY_AUTH_TOKEN placeholder.",
+      "title": "✨ Fix Sentry gradle script execution and add SENTRY_AUTH_TOKEN .",
+      "summary": "Fix Sentry gradle script execution and add SENTRY_AUTH_TOKEN .",
       "date": "2026-01-16T18:05:48.000Z",
       "category": "feature",
       "repo": "app",
@@ -6995,8 +6995,8 @@
     },
     {
       "id": "wn-2026-01-15-94081b",
-      "title": "🐛 Remove placeholder campaigns - not real data.",
-      "summary": "Remove placeholder campaigns - not real data.",
+      "title": "🐛 Remove campaigns - not real data.",
+      "summary": "Remove campaigns - not real data.",
       "date": "2026-01-15T23:42:25.000Z",
       "category": "fix",
       "repo": "app",
