@@ -73,7 +73,7 @@ Thank you for beta testing! Your feedback makes 3MPWRAPP better for every Canadi
 
 #### Windows & Mac (Web App)
 
-**You'll receive an email with a link to:** Web app
+**You'll receive an email with a link to:** Web app (https://app.3mpwrapp.ca)
 
 1. Click the link in the approval email
 2. The web app opens in your browser
@@ -239,7 +239,7 @@ Beta versions often have:
 
 **What to test:**
 1. Open app
-2. Go to Advocacy Hub
+2. Go to My Case
 3. Tap "Parse Claim"
 4. Upload a decision letter (photo or PDF)
 5. Wait for analysis (should be <2 minutes)

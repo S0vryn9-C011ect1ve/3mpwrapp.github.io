@@ -123,8 +123,8 @@ Your individual actions create exponential impact through these flywheels:
 2. You'll be asked: "How many features do you want to see?"
 3. Choose:
    - **🔋 Simple Mode** (5 essential tools — for crisis, brain fog, bad days)
-   - **📊 Standard Mode** (20 important tools — for most users, most of the time)
-   - **🚀 Power User** (All 74 features — for advanced users)
+   - **📊 Standard Mode** (17 important tools — for most users, most of the time)
+   - **🚀 Power User** (All 31 features — for advanced users)
 4. Tap your choice
 5. App redesigns instantly
 
@@ -137,7 +137,7 @@ Your individual actions create exponential impact through these flywheels:
 
 ### Step 4: Set Up Your Profile (Optional but Recommended)
 
-1. Tap the Profile tab (usually bottom right)
+1. Tap the Your Next Step / Profile tab (bottom right)
 2. Tap "Edit Profile"
 3. Add information (optional):
    - Your role: Person with disability, Supporter, Ally, Advocate, Family
@@ -156,7 +156,7 @@ Your individual actions create exponential impact through these flywheels:
 3. Follow along
 4. Tap "Skip" anytime if you want to start using the app
 
-**You can always retake the tutorial:** Settings → Help → Tutorial
+**You can always retake a screen tutorial:** most screens show a "?" help button, or use Settings → Help & Support → Troubleshooting & Help.
 
 ---
 
@@ -165,7 +165,7 @@ Your individual actions create exponential impact through these flywheels:
 
 ### Change Your Password
 
-1. Open Settings (gear icon, usually bottom right)
+1. Open Settings (gear icon)
 2. Tap "Account Settings"
 3. Tap "Change Password"
 4. Enter your current password
@@ -173,43 +173,7 @@ Your individual actions create exponential impact through these flywheels:
 6. Re-enter new password
 7. Tap "Change Password"
 
-### Enable Two-Factor Authentication (Extra Security)
-
-Two-factor authentication means someone needs both your password AND your phone to access your account.
-
-1. Open Settings
-2. Tap "Account Settings"
-3. Tap "Two-Factor Authentication"
-4. Tap "Enable"
-5. Scan the QR code with an authenticator app (Google Authenticator, Microsoft Authenticator, or Authy)
-6. Enter the code shown in your authenticator
-7. Save backup codes (keep somewhere safe!)
-
-### Sync Your Data to the Cloud
-
-**What is syncing?** Copying your data to Google Drive or our servers so it's backed up.
-
-1. Open Settings
-2. Tap "Data & Privacy"
-3. Tap "Cloud Sync"
-4. Choose:
-   - **No sync** (data stays on your phone only)
-   - **Google Drive** (your data syncs to your Google Drive)
-   - **3MPWRAPP Backup** (your data syncs to our secure servers)
-5. Follow prompts
-6. Done!
-
-**Privacy:** Data is encrypted. We can't see it.
-
-### Privacy Settings
-
-1. Open Settings
-2. Tap "Data & Privacy"
-3. Choose what you're comfortable with:
-   - **Analytics** (helps us improve the app)
-   - **Crash reports** (helps us fix bugs)
-   - **Personalization** (app learns your preferences)
-4. Your choices are saved immediately
+> Note: Password change is available when you sign in with email/password. Some builds use Firebase auth; the exact menu label may read "Security" or "Account" depending on your version.
 
 ---
 
@@ -239,7 +203,7 @@ Disability + fatigue + pain + stress = overwhelming. Complexity Mode fixes this 
 - You're exhausted
 - You just need to survive today
 
-### Standard Mode: 20 Important Tools
+### Standard Mode: 17 Important Tools
 
 **For:** Most users, most of the time  
 **Tools:** All Simple Mode tools PLUS:
@@ -259,10 +223,10 @@ Disability + fatigue + pain + stress = overwhelming. Complexity Mode fixes this 
 - You want to use multiple tools
 - You're building your case over time
 
-### Power User Mode: All 74 Features
+### Power User Mode: All 31 Features
 
 **For:** Advanced users who want everything  
-**Tools:** Every feature, all 74 tools unlocked
+**Tools:** Every feature, all 31 tools unlocked
 
 **Use Power User Mode when:**
 - You're comfortable with the app
@@ -660,7 +624,7 @@ The Timeline shows all your documents in order (oldest to newest).
 
 ### Using Wellness Hub Tools
 
-**Wellness Hub has 41+ health tools. Start with one or two.**
+**Wellness Hub has many health tools. Start with one or two.**
 
 **Popular tools to start with:**
 1. **Symptom Tracker** — log pain, fatigue, symptoms
@@ -806,7 +770,7 @@ You've been tracking pain 7+ out of 10 for 6 months straight. Print and attach t
 
 **How to enable:**
 1. Open Settings
-2. Tap "Display"
+2. Tap "Accessibility" (theme controls live under Accessibility / Appearance)
 3. Toggle "Dark Mode"
 4. The app switches to dark theme
 
@@ -837,8 +801,8 @@ You've been tracking pain 7+ out of 10 for 6 months straight. Print and attach t
 
 **How to change:**
 1. Open Settings
-2. Tap "Display"
-3. Tap "Text Size"
+2. Tap "Accessibility" (or "Dyslexia Settings")
+3. Tap "Text Size" (Text Scaling)
 4. Choose:
    - Small (for good eyesight)
    - Default (medium)
@@ -955,8 +919,8 @@ You've been tracking pain 7+ out of 10 for 6 months straight. Print and attach t
 
 **How to report a bug:**
 1. Open Settings
-2. Tap "Help & Support"
-3. Tap "Report a Problem"
+2. Scroll to "Help & Support"
+3. Tap "Report a Bug"
 4. Describe what happened:
    - What were you trying to do?
    - What went wrong?

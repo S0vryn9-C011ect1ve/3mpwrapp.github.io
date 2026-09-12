@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3MPWRAPP Features - Complete Feature Guide
-description: Explore all 74 features in 3MPWRAPP for the disability community. Learn what each feature does, why it matters, how to use it, and who it helps - for injured workers, persons with disabilities, advocates, and vulnerable Canadians.
+description: Explore all 31 features in 3MPWRAPP for the disability community. Learn what each feature does, why it matters, how to use it, and who it helps - for injured workers, persons with disabilities, advocates, and vulnerable Canadians.
 version: 2.0 (Complete Rewrite - May 2026)
 lastUpdated: 2026-09-12
 accessibility: WCAG 2.2 AAA - fully readable in light, dark, and high contrast modes
@@ -11,7 +11,7 @@ accessibility: WCAG 2.2 AAA - fully readable in light, dark, and high contrast m
 
 # 3MPWRAPP Features
 
-**Canadian Platform for the Disability Community, Advocates, and Vulnerable Canadians | 74 Features | Coast-to-Coast-to-Coast**
+**Canadian Platform for the Disability Community, Advocates, and Vulnerable Canadians | 31 Features | Coast-to-Coast-to-Coast**
 
 This page explains every tool in 3MPWRAPP. Each feature shows:
 - What it does
@@ -43,7 +43,7 @@ This page explains every tool in 3MPWRAPP. Each feature shows:
 
 | **Simple Mode** | **Standard Mode** | **Power User Mode** |
 |---|---|---|
-| **5 essential tools** | **20 important tools** | **All 74 features** |
+| **5 essential tools** | **17 important tools** | **All 31 features** |
 | For crisis, brain fog, bad days | For ongoing advocacy | For full power |
 | [See what's in Simple Mode](#simple-features) | [See what's in Standard Mode](#standard-features) | [All features shown below](#all-features) |
 
@@ -436,7 +436,7 @@ Your safe activity level is 50% of normal. You plan to: work 4 hours, go to a he
 
 ---
 
-### Wellness Hub: 41+ Health Tools
+### Wellness Hub: Many Health Tools
 
 **What it does:** Access tools for mental health (anxiety, depression, grief), pain management, sleep, exercise, nutrition, medication tracking, and more.
 
@@ -500,7 +500,7 @@ You don't have to do this alone. These features connect you with people who unde
 
 ### Support Groups: Find Your Community
 
-**What it does:** Access 24+ support groups organized by disability type, condition, intersection, and meeting format (audio, text, video).
+**What it does:** Access support groups organized by disability type, condition, intersection, and meeting format (audio, text, video).
 
 **Why it matters:** Support groups reduce isolation and help you learn from others' experiences. You can find groups for your specific condition or intersection.
 
@@ -701,8 +701,8 @@ You don't understand "burden of proof". You search Knowledge Base and read: "The
 
 **What it does:** Choose your experience level:
 - **Simple Mode (5 tools)** — for crisis, brain fog, bad days
-- **Standard Mode (20 tools)** — most users, most of the time
-- **Power User Mode (150+ tools)** — everything unlocked
+- **Standard Mode (17 tools)** — most users, most of the time
+- **Power User Mode (31 tools)** — every feature unlocked
 
 **Why it matters:** Too many choices is overwhelming. Complexity Mode shows only what you need right now.
 
@@ -719,7 +719,7 @@ You don't understand "burden of proof". You search Knowledge Base and read: "The
 - Anyone managing energy
 
 **Real-world example:**
-Today is a really bad flare day. You switch to Simple Mode. Now the app only shows: Evidence Locker, Letters, Pacing Partner, Support Groups, Crisis Resources. Overwhelm gone.
+Today is a really bad flare day. You switch to Simple Mode. Now the app only shows: Evidence Locker, Crisis Resources, Mood Tracker, Letter Wizard, Community Support. Overwhelm gone.
 
 **Tips:**
 - It's OK to switch modes multiple times per day
