@@ -6,7 +6,8 @@ tags: [tribunal-outcomes, legal-terms, appeals, WSIB, HRTO]
 excerpt: Plain-language guide to understanding tribunal decision outcomes—Allowed, Dismissed, Granted, Abandoned, and more.
 date: 2026-04-28
 last_updated: 2026-04-28
----
+description: When you read a tribunal decision, the outcome tells you **who won**. But tribunal language can be confusing. Here's what each outcome means in plain Engli
+
 
 # Understanding Tribunal Outcomes: What Do They Mean?
 
@@ -174,8 +175,8 @@ Based on our analysis of **137,252 tribunal decisions** (2020-2026):
 ## Related Resources
 
 - **[How Accurate Are Outcome Predictions?](/knowledge-base/outcome-prediction-accuracy/)** - 79% AI accuracy explained
-- **[What Affects Your Appeal Outcome?](/knowledge-base/what-affects-appeal-outcome/)** - Evidence factors that predict success
-- **[Interpreting Your Case's Outcome Prediction](/knowledge-base/interpreting-outcome-prediction/)** - How to use AI predictions
+- **[What Affects Your Appeal Outcome?](/knowledge-base/understanding-tribunal-outcomes/)** - Evidence factors that predict success
+- **[Interpreting Your Case's Outcome Prediction](/knowledge-base/outcome-prediction-accuracy/)** - How to use AI predictions
 - **[All Tribunal Outcome Statistics →](/research.html#ai-powered-outcome-predictions)** - Full research data
 
 ---

@@ -1,3 +1,8 @@
+---
+title: Pre-Existing Conditions: What You Need to Know
+description: *Updated May 8, 2026 - uses the 2020-2026 WSIAT appeal archive and the reconciled ONWSIB internal-review archive*
+---
+
 # Pre-Existing Conditions: What You Need to Know
 
 *Updated May 8, 2026 - uses the 2020-2026 WSIAT appeal archive and the reconciled ONWSIB internal-review archive*

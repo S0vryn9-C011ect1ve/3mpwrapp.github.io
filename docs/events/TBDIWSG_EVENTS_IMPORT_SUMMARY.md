@@ -77,7 +77,7 @@ Successfully added 14 events to 3mpwr App events database for Thunder Bay presen
 - **Time:** Every Tuesday, 10:00 AM - 12:00 PM EST
 - **Format:** Virtual Zoom
 - **Organizer:** Thunder Bay & District Injured Workers Support Group
-- **Contact:** tbiwsg@gmail.com
+- **Contact:** [contact via site form]
 
 **Description (Generic):**
 Connect with other injured workers, share experiences, get support navigating WSIB/CPP-D/ODSP, learn about advocacy tools like 3mpwr App, and build community. All injured workers, disabled people, and allies welcome.
@@ -156,13 +156,13 @@ Special description highlighting celebration, next steps planning, and community
 ### Event Detail Tests
 - [ ] March 31st event page:
   - [ ] Description matches promotional blurb (3 Flywheels, live demo, presenter)
-  - [ ] Contact email `tbiwsg@gmail.com` present
+  - [ ] Contact email `[contact via site form]` present
   - [ ] Virtual link points to `https://thunderbayinjuredworkers.com/tuesday-events/`
   - [ ] Accessibility notes show (captions, ASL with 48hr notice)
 - [ ] Recurring event pages (any Tuesday):
   - [ ] Generic description appropriate ("Connect with other injured workers...")
   - [ ] Time shows correctly (10am-12pm EST)
-  - [ ] Contact `tbiwsg@gmail.com` present
+  - [ ] Contact `[contact via site form]` present
 - [ ] June 30th final session:
   - [ ] "FINAL SESSION" in title
   - [ ] Special description mentions celebration, next steps

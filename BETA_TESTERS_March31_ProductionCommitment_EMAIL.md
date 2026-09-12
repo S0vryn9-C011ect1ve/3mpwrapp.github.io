@@ -20,7 +20,7 @@ This is a "double feature" event where I'll spend an hour walking through:
 - **Date:** Tuesday, March 31st, 2026
 - **Time:** 10:00 AM - 12:00 PM ET (I present 10-11am, Jaribu Hill presents 11am-12pm)
 - **Platform:** Zoom
-- **RSVP:** Email tbiwsg@gmail.com for the Zoom link
+- **RSVP:** Email [contact via site form] for the Zoom link
 - **More Info:** https://thunderbayinjuredworkers.com/
 
 ---

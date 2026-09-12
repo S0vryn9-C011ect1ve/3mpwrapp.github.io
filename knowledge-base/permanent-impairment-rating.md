@@ -1,3 +1,8 @@
+---
+title: Understanding Permanent Impairment Ratings
+description: > **⚠️ STATISTICAL ALERT:** Permanent impairment disputes represent **818 cases (7.2%)** of all WSIB tribunal decisions (2020-2026). This is a **1,006% inc
+---
+
 # Understanding Permanent Impairment Ratings
 
 > **⚠️ STATISTICAL ALERT:** Permanent impairment disputes represent **818 cases (7.2%)** of all WSIB tribunal decisions (2020-2026). This is a **1,006% increase** from previous analysis (74→818 cases), revealing how WSIB systematically minimizes impairment ratings to reduce benefit payouts.

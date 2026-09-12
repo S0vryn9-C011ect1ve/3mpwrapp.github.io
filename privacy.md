@@ -168,7 +168,7 @@ We may update this policy to reflect changes to our practices, new features, leg
 - **Email:** empowrapp08162025@gmail.com
 - **Organization:** 3mpwr App
 - **Location:** Toronto, ON, Canada
-- **Website:** https://empowr.app
+- **Website:** https://3mpwrapp.ca
 
 For privacy-related questions, data requests, or security concerns, please contact us using the email above. We respond to all privacy inquiries within 48 hours and data rights requests within 30 days (or as required by applicable law).
 

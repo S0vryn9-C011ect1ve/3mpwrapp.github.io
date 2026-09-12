@@ -1,3 +1,8 @@
+---
+title: Bill 86: Meredith Act (Fair Compensation for Injured Workers), 2025
+description: Bill 86 was a Private Member's Bill that would have completely overhauled Ontario's workers' compensation system by repealing the Workplace Safety and Insu
+---
+
 # Bill 86: Meredith Act (Fair Compensation for Injured Workers), 2025
 
 ## 📋 What This Guide Covers
@@ -374,7 +379,7 @@ Even though Bill 86 didn't pass, you can cite it to show:
 ## 📖 Related Resources
 
 ### **Knowledge Base Guides:**
-- [Claim Suppression & Employer Retaliation](./claim-suppression-retaliation.md) - How to recognize and challenge retaliation
+- [Claim Suppression & Employer Retaliation](/knowledge-base/claim-suppression-retaliation/) - How to recognize and challenge retaliation
 - [Labour Relations Exclusion Appeals](./labour-relations-exclusion-appeal.md) - Template for mental stress claims
 
 ### **Legal Cases:**
@@ -413,7 +418,7 @@ Even though Bill 86 didn't pass, you can cite it to show:
 - Workers' Health & Safety Legal Clinic: 1-877-832-6090
 
 **For advocacy:**
-- Thunder Bay Injured Workers Support Group: tbiwsg@gmail.com
+- Thunder Bay Injured Workers Support Group: [contact via site form]
 - 3mpwrApp Community: empowrapp08162025@gmail.com
 
 **For mental health support:**

@@ -1,3 +1,8 @@
+---
+title: Chronic Pain: Building Your Case
+description: *Based on 186 WSIAT decisions involving chronic pain*
+---
+
 # Chronic Pain: Building Your Case
 
 *Based on 186 WSIAT decisions involving chronic pain*

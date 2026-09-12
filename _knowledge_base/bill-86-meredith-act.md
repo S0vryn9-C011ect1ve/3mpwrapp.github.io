@@ -419,7 +419,7 @@ Even though Bill 86 didn't pass, you can cite it to show:
 - Workers' Health & Safety Legal Clinic: 1-877-832-6090
 
 **For advocacy:**
-- Thunder Bay Injured Workers Support Group: tbiwsg@gmail.com
+- Thunder Bay Injured Workers Support Group: [contact via site form]
 - 3mpwrApp Community: empowrapp08162025@gmail.com
 
 **For mental health support:**

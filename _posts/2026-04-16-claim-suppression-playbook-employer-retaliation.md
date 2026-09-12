@@ -479,7 +479,7 @@ If YES to any of these → **Cite *Pickering* in your appeal and argue exclusion
 **Legal:**
 - Community legal clinics (Ontario: legalaid.on.ca)
 - Access Pro Bono (BC: accessprobono.ca)
-- National Self-Represented Litigants Project (NSRLP): representingyourself@gmail.com
+- National Self-Represented Litigants Project (NSRLP): [contact via site form]
 
 **Worker advocacy:**
 - Workers' Action Centre (Ontario): workersactioncentre.org

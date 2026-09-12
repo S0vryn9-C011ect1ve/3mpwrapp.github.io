@@ -467,7 +467,7 @@ Include full citations for cases cited in your submission:
 - [Reconsideration Request](../templates/reconsideration-request.md)
 
 **External Resources:**
-- National Self-Represented Litigants Project: representingyourself@gmail.com
+- National Self-Represented Litigants Project: [contact via site form]
 - CanLII (free case law database): https://www.canlii.org
 
 ---

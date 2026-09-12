@@ -566,7 +566,7 @@ This section is framed as community-centered pathways for documentation, access,
 **3. Connect workers to resources**
 - [3mpwr Knowledge Base](https://3mpwrapp.ca/research.html#knowledge-base): Guides on claim suppression, retaliation, privacy rights
 - [3mpwr Templates](https://3mpwrapp.ca/research.html#templates): Appeal letters challenging exclusions
-- [National Self-Represented Litigants Project](mailto:representingyourself@gmail.com): Support for tribunal navigation
+- [National Self-Represented Litigants Project](mailto:[contact via site form]): Support for tribunal navigation
 
 ---
 
@@ -832,7 +832,7 @@ That post includes:
 - [WSIB Transparency Gap: Claim Reporting Barriers & Outcome Obscurity](https://3mpwrapp.ca/blog/2026/04/16/wsib-black-box-claim-suppression-outcome-obscurity/) - 1.14-2.29M estimated non-tribunal cases
 
 **External Resources:**
-- [National Self-Represented Litigants Project](mailto:representingyourself@gmail.com) - Free support navigating tribunals
+- [National Self-Represented Litigants Project](mailto:[contact via site form]) - Free support navigating tribunals
 - [CanLII](https://www.canlii.org) - Free searchable database of Canadian case law
 
 ---

@@ -28,7 +28,7 @@
 
 Connect with other injured workers navigating WSIB, CPP-D, ODSP. Share experiences in a safe, supportive space. Learn about advocacy tools. Get answers to your questions.
 
-📧 Email tbiwsg@gmail.com for Zoom link
+📧 Email [contact via site form] for Zoom link
 🏠 https://thunderbayinjuredworkers.com/tuesday/events/
 
 Everyone welcome: injured workers, disabled people, allies. Virtual event with live captions.
@@ -42,7 +42,7 @@ Tomorrow 10am EST: TBDIWSG Tuesday session!
 
 Safe space for injured workers to connect, share, get support navigating systems.
 
-Email tbiwsg@gmail.com for Zoom link.
+Email [contact via site form] for Zoom link.
 
 Every Tuesday through June!
 
@@ -57,7 +57,7 @@ Connect with injured workers
 Get WSIB/CPP-D support
 Learn advocacy tools
 
-📧 tbiwsg@gmail.com for Zoom
+📧 [contact via site form] for Zoom
 
 Every Tuesday! 🤝
 
@@ -74,7 +74,7 @@ Every Tuesday! 🤝
 
 TBDIWSG Tuesday Session covers advocacy resources like 3mpwrApp (Evidence Command Center, AI Denial Decoder), legal clinics, peer support networks, and more.
 
-📧 tbiwsg@gmail.com for Zoom link
+📧 [contact via site form] for Zoom link
 🗓️ Every Tuesday 10am-12pm through June
 
 Accessible: Live captions, ASL available on request
@@ -88,7 +88,7 @@ Tomorrow 10am: TBDIWSG Tuesday!
 
 This week: Advocacy tools that help you win your case (3mpwrApp demo, legal resources, peer strategies)
 
-tbiwsg@gmail.com for Zoom
+[contact via site form] for Zoom
 
 #InjuredWorkers #DisabilityTools
 `
@@ -101,7 +101,7 @@ Tomorrow 10am: Advocacy tools session!
 ⚖️ Legal resources  
 🤝 Peer strategies
 
-tbiwsg@gmail.com
+[contact via site form]
 
 Recurring Tuesdays!
 
@@ -118,7 +118,7 @@ Recurring Tuesdays!
 
 TBDIWSG Tuesday Session brings together injured workers from across Northern Ontario. Share your story, hear others, build connections that last beyond the session.
 
-📧 tbiwsg@gmail.com for Zoom link
+📧 [contact via site form] for Zoom link
 🌐 https://thunderbayinjuredworkers.com/tuesday/events/
 
 "I thought I was the only one dealing with this. Turns out there are dozens of us with the same denials." – Session participant
@@ -132,7 +132,7 @@ Tomorrow 10am: Community check-in!
 
 TBDIWSG Tuesday = safe space to share your story & hear you're not alone.
 
-tbiwsg@gmail.com for Zoom
+[contact via site form] for Zoom
 
 Northern Ontario injured workers: this is for YOU! 💪
 
@@ -147,7 +147,7 @@ TBDIWSG Tuesday = Community
 Share your story
 Build connections
 
-tbiwsg@gmail.com
+[contact via site form]
 
 Every Tuesday! 💬
 
@@ -166,7 +166,7 @@ This week we're discussing [appeal strategies / denial patterns / accommodation 
 
 Bring your questions. Share your experiences. Learn from others who've been there.
 
-📧 tbiwsg@gmail.com for Zoom link
+📧 [contact via site form] for Zoom link
 
 #InjuredWorkers #ThunderBay #[RelevantHashtag]
 `
@@ -177,7 +177,7 @@ Tomorrow 10am: TBDIWSG Tuesday discusses [TOPIC]!
 
 [Appeal strategies / WSIB denials / CPP-D tips / wellness tools / organizing together]
 
-tbiwsg@gmail.com for Zoom
+[contact via site form] for Zoom
 
 #InjuredWorkers #ThunderBay
 `
@@ -188,7 +188,7 @@ Tomorrow 10am: [TOPIC] focus!
 
 TBDIWSG Tuesday Session
 
-📧 tbiwsg@gmail.com
+📧 [contact via site form]
 
 Bring your questions! 💬
 
@@ -261,7 +261,7 @@ What happens:
 ✅ Share experiences in safe space
 ✅ Build community that lasts
 
-📧 Email tbiwsg@gmail.com anytime to join future sessions
+📧 Email [contact via site form] anytime to join future sessions
 🌐 https://thunderbayinjuredworkers.com/tuesday/events/
 
 You don't have to register in advance—just email for that week's Zoom link!
@@ -277,7 +277,7 @@ Reminder: TBDIWSG Tuesdays = EVERY TUESDAY through June!
 
 Connect, get support, learn tools, build community.
 
-Email tbiwsg@gmail.com anytime to join.
+Email [contact via site form] anytime to join.
 
 Drop in any week! 🤝
 
@@ -294,7 +294,7 @@ Connect w/ injured workers
 Learn advocacy tools
 Get support
 
-📧 tbiwsg@gmail.com
+📧 [contact via site form]
 
 Drop in anytime! 🙌
 
@@ -313,7 +313,7 @@ We've connected 40+ injured workers, shared 100+ strategies, built a community t
 
 **Next sessions**: Every Tuesday through June 24
 **Time**: 10am-12pm EST (Zoom)
-**How to join**: tbiwsg@gmail.com
+**How to join**: [contact via site form]
 
 Recent topics:
 - Evidence organization (3mpwrApp Command Center)
@@ -334,7 +334,7 @@ Halfway through TBDIWSG Tuesday series! 🎉
 
 Every Tuesday through June 24, 10am EST
 
-tbiwsg@gmail.com to join
+[contact via site form] to join
 
 New members welcome anytime!
 
@@ -351,7 +351,7 @@ Community organizing
 
 Every Tuesday through June
 
-📧 tbiwsg@gmail.com
+📧 [contact via site form]
 
 Join us! 💪
 
@@ -375,7 +375,7 @@ We've built something special these past 3 months:
 
 **Remaining sessions**: June 17 & June 24 (final)
 **Time**: 10am-12pm EST
-**Zoom link**: tbiwsg@gmail.com
+**Zoom link**: [contact via site form]
 
 June 24 final session = Celebration + Planning Next Steps.
 
@@ -394,7 +394,7 @@ Final 2 weeks of TBDIWSG Tuesdays!
 
 June 17 & 24 (final): 10am EST
 
-tbiwsg@gmail.com for Zoom
+[contact via site form] for Zoom
 
 See you there! 🙌
 
@@ -410,7 +410,7 @@ June 17 & 24 (final)
 
 3 months of community building. What's next? YOU decide!
 
-📧 tbiwsg@gmail.com
+📧 [contact via site form]
 
 #InjuredWorkers #ThunderBay
 `
@@ -454,7 +454,7 @@ Rotate these topics across the 4 weeks using Set D:
 - Impressions per post
 - Engagement rate (likes, shares, comments)
 - Click-throughs to thunderbayinjuredworkers.com
-- Emails received at tbiwsg@gmail.com per week
+- Emails received at [contact via site form] per week
 - Session attendance (how many joined vs. past weeks)
 - Which template sets (A/B/C/D) perform best
 
@@ -490,7 +490,7 @@ Before posting each week:
 - [ ] Confirm Tuesday session is still scheduled (check with TBDIWSG)
 - [ ] Rotate template set (A → B → C → D)
 - [ ] Update date references ("Tomorrow" vs. specific date)
-- [ ] Verify Zoom link process hasn't changed (still tbiwsg@gmail.com?)
+- [ ] Verify Zoom link process hasn't changed (still [contact via site form]?)
 - [ ] Check character counts: Mastodon ≤500, Bluesky ≤300, Twitter ≤280
 - [ ] Include relevant hashtags (2-4 per post)
 - [ ] Schedule mid-month highlights (3rd week of each month)

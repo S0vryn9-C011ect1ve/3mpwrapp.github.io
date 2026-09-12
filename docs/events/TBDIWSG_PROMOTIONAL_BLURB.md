@@ -23,7 +23,7 @@ Join Lissa Beaulieu, creator of 3mpwrApp, for an interactive presentation explor
 
 Whether you're fighting a denial right now or have already won your case and want to help others, this session will show you practical tools AND a bigger vision for collective empowerment.
 
-**To Join:** Email **tbiwsg@gmail.com** to receive the Zoom link.
+**To Join:** Email **[contact via site form]** to receive the Zoom link.
 
 **Can't make March 31st?** We have recurring Tuesday sessions every week through June 2026 (10am-12pm EST). Same contact for those too.
 
@@ -54,7 +54,7 @@ Discover how 3mpwrApp is transforming injured workers' struggles into collective
 
 **Accessibility:** Virtual event with live captions. ASL interpretation available upon request (48hr notice).
 
-**RSVP:** Email **tbiwsg@gmail.com** for Zoom link.
+**RSVP:** Email **[contact via site form]** for Zoom link.
 
 **Recurring Sessions:** Join us every Tuesday 10am-12pm EST through June 2026.  
 Website: **https://thunderbayinjuredworkers.com/tuesday/events/**
@@ -75,7 +75,7 @@ Learn how the "3 Flywheels"turn isolated struggles into collective power:
 Live demo of encrypted Evidence Vault, AI Denial Decoder & campaign tools.
 
 📅 March 31, 10am-12pm EST (Zoom)
-📧 tbiwsg@gmail.com for link
+📧 [contact via site form] for link
 🔁 Recurring every Tuesday through June!
 
 #DisabilityRights #InjuredWorkers #ThunderBay
@@ -88,7 +88,7 @@ March 31, 10am EST: Discover how 3mpwrApp's "3 Flywheels" transform individual s
 
 Live demo: AI Denial Decoder, Evidence Vault, peer matching, campaigns.
 
-Email tbiwsg@gmail.com for Zoom link.
+Email [contact via site form] for Zoom link.
 Recurring Tuesdays through June!
 
 #InjuredWorkers #DisabilityJustice
@@ -105,7 +105,7 @@ March 31, 10am EST: 3mpwrApp presentation @TBDIWSG!
 🧠 Learn faster together
 
 Live demo + Q&A
-Email: tbiwsg@gmail.com
+Email: [contact via site form]
 
 Every Tuesday through June!
 
@@ -125,7 +125,7 @@ Every Tuesday through June!
 
 4. **Why**: From individual survival tools → collective organizing → systems change
 
-5. **How to Join**: Email **tbiwsg@gmail.com** for Zoom link
+5. **How to Join**: Email **[contact via site form]** for Zoom link
 
 6. **Bonus**: Recurring every Tuesday 10am-12pm EST through June 2026
 
@@ -135,7 +135,7 @@ Every Tuesday through June!
 - Virtual Zoom event
 - Live captions enabled
 - ASL interpretation available upon request (48hr notice)
-- Contact: tbiwsg@gmail.com
+- Contact: [contact via site form]
 
 **App Highlights (pick 2-3 per post):**
 - Evidence Command Center: Encrypted document storage with timeline view
@@ -147,7 +147,7 @@ Every Tuesday through June!
 - WCAG AAA: Highest accessibility standard, Bad Day Mode, cognitive support
 
 **Call-to-Action Options:**
-- "Email tbiwsg@gmail.com to join!"
+- "Email [contact via site form] to join!"
 - "Can't make March 31st? We're here every Tuesday!"
 - "Northern Ontario injured workers: This is for YOU!"
 - "From surviving to thriving to transforming—join us!"
@@ -217,10 +217,10 @@ Every Tuesday through June!
 **For Promoting Ongoing Tuesday Sessions (use April-June):**
 
 **Short Version (Social Media):**
-"Every Tuesday, 10am-12pm EST: Thunder Bay & District Injured Workers Support Group hosts open information sessions via Zoom. Connect with other injured workers, get support navigating WSIB/CPP-D, learn about advocacy tools like 3mpwrApp. Email tbiwsg@gmail.com to join! 🤝 #InjuredWorkers #ThunderBay"
+"Every Tuesday, 10am-12pm EST: Thunder Bay & District Injured Workers Support Group hosts open information sessions via Zoom. Connect with other injured workers, get support navigating WSIB/CPP-D, learn about advocacy tools like 3mpwrApp. Email [contact via site form] to join! 🤝 #InjuredWorkers #ThunderBay"
 
 **Medium Version (Website/Email):**
-"Join Thunder Bay & District Injured Workers Support Group for our weekly Tuesday Information Session every Tuesday from 10:00 AM - 12:00 PM EST via Zoom. These recurring sessions provide a safe space to connect with other injured workers, share experiences, get support navigating WSIB/CPP-D/ODSP systems, and learn about advocacy tools like 3mpwrApp. All injured workers, disabled people, and allies welcome. Email tbiwsg@gmail.com to receive the weekly Zoom link. Running through June 2026."
+"Join Thunder Bay & District Injured Workers Support Group for our weekly Tuesday Information Session every Tuesday from 10:00 AM - 12:00 PM EST via Zoom. These recurring sessions provide a safe space to connect with other injured workers, share experiences, get support navigating WSIB/CPP-D/ODSP systems, and learn about advocacy tools like 3mpwrApp. All injured workers, disabled people, and allies welcome. Email [contact via site form] to receive the weekly Zoom link. Running through June 2026."
 
 ---
 

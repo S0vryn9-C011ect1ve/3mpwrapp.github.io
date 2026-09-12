@@ -1,3 +1,8 @@
+---
+title: Knee Injury Claims: Exposing the 20% Pre-Existing Denial Bias
+description: > **⚠️ STATISTICAL ALERT:** Knee injuries represent **845 cases (7.4%)** of ALL WSIB tribunal decisions (2020-2026), with a documented **20% (95% CI: 17.3-
+---
+
 # Knee Injury Claims: Exposing the 20% Pre-Existing Denial Bias
 
 > **⚠️ STATISTICAL ALERT:** Knee injuries represent **845 cases (7.4%)** of ALL WSIB tribunal decisions (2020-2026), with a documented **20% (95% CI: 17.3-22.7%) systematic denial rate using "pre-existing osteoarthritis" arguments.** This is the **#2 most biased injury type** after shoulder injuries, affecting thousands of workers.
@@ -624,10 +629,10 @@ A: **NO.** Employer can dispute, but WSIB makes the decision (not employer). Emp
 ## Related Resources
 
 **3mpwrApp Knowledge Base:**
-- [Shoulder Injuries: The Hidden Epidemic](shoulder-rotator-cuff-claims.md) - #1 litigated body part (1,391 cases)
-- [Pre-Existing Conditions: What You Need to Know](pre-existing-conditions.md) - archive frequency, legal test, and evidence strategy
-- [Chronic Pain Claims](chronic-pain-claims.md) - If knee injury leads to chronic pain
-- [Permanent Impairment Ratings](permanent-impairment-rating.md) - Maximizing NEL benefits
+- [Shoulder Injuries: The Hidden Epidemic](/knowledge-base/shoulder-rotator-cuff-claims/) - #1 litigated body part (1,391 cases)
+- [Pre-Existing Conditions: What You Need to Know](/knowledge-base/pre-existing-conditions/) - archive frequency, legal test, and evidence strategy
+- [Chronic Pain Claims](/knowledge-base/chronic-pain-claims/) - If knee injury leads to chronic pain
+- [Permanent Impairment Ratings](/knowledge-base/permanent-impairment-rating/) - Maximizing NEL benefits
 
 **3mpwrApp Appeal Templates:**
 - [Knee Injury Appeal Template](../templates/knee-injury-appeal.md) - Fill-in-blank letter

@@ -1,6 +1,6 @@
 # NSRLP Partnership Outreach Email
 
-**To:** representingyourself@gmail.com  
+**To:** [contact via site form]  
 **From:** [Your contact email]  
 **Subject:** Partnership Opportunity: Workers' Compensation Research & SRL Resources
 
