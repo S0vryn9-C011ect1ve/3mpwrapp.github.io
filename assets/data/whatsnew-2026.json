@@ -1,7 +1,7 @@
 {
   "year": 2026,
   "version": "1.0",
-  "lastUpdated": "2026-09-12T07:15:40.000Z",
+  "lastUpdated": "2026-09-12T07:36:32.000Z",
   "entries": [
     {
       "id": "wn-draft-7f341aae",
@@ -11,36 +11,6 @@
       "category": "feature",
       "repo": "website",
       "commitSha": "",
-      "archived": false
-    },
-    {
-      "id": "wn-2026-09-12-eb9c95",
-      "title": "remove leaked/ references from audit report doc",
-      "summary": "remove leaked/ references from audit report doc",
-      "date": "2026-09-12T02:33:40-04:00",
-      "category": "content",
-      "repo": "website",
-      "commitSha": "eb9c95532b9f627e3400df0eeb0f0dcc96b50035",
-      "archived": false
-    },
-    {
-      "id": "wn-2026-09-12-1695bf",
-      "title": "AUDIT FIXES pt4+pt5 (email-safe, clean): KB frontmatter+links+dead-link fixes, privacy brand unify, remove 3rd-party lea",
-      "summary": "AUDIT FIXES pt4+pt5 (email-safe, clean): KB frontmatter+links+dead-link fixes, privacy brand unify, remove 3rd-party leaked emails (founder email preserved), ad",
-      "date": "2026-09-12T02:16:42-04:00",
-      "category": "feature",
-      "repo": "website",
-      "commitSha": "1695bf9249ca3c32c73c4dbbf95bb231e2e154a9",
-      "archived": false
-    },
-    {
-      "id": "wn-2026-09-12-242d1c",
-      "title": "AUDIT FIXES pt4: KB content — add title/description to all 22 articles, strip leaked emails, fix 45 internal links; unif",
-      "summary": "AUDIT FIXES pt4: KB content — add title/description to all 22 articles, strip leaked emails, fix 45 internal links; unify brand 3mpwrapp.ca->3mpwrapp.ca in priva",
-      "date": "2026-09-12T01:49:29-04:00",
-      "category": "feature",
-      "repo": "website",
-      "commitSha": "242d1c7b23fbd64259210f5ae04511b63a3e57c0",
       "archived": false
     },
     {
