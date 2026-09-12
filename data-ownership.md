@@ -8,41 +8,8 @@ description: Our unwavering commitment to 100% user data ownership and sovereign
 
 # 3mpwrApp — Data Ownership and Security Statement
 
-**Last updated:** December 14, 2025  
-**Version: 2.1 (December 2025 USA Lite Expansion)**
-
-## 🆕 **December 2025 Updates**
-
-USA Lite expansion follows the same privacy-first principles - 721 tests passing, production ready:
-
-- **🇺🇸 USA Lite Expansion:** 13 US jurisdictions (Federal + 12 states) with same data ownership protections
-- **📍 USA Lite Jurisdiction Data:** Workers' comp, civil rights, and disability program information for 13 US jurisdictions stored locally within the app bundle (read-only reference data)
-- **🔒 User-Selected Jurisdiction:** Your jurisdiction preference stored locally on your device only
-- **📍 No Location Tracking:** Jurisdiction selection is manual—we don't track your location
-- **🏠 Local Processing:** All jurisdiction-related features process data locally
-- **🔒 Security Verified:** AES-256-GCM encryption confirmed across all sensitive data storage
-- **📴 Offline-First Verified:** Complete offline functionality with AsyncStorage persistence
-- **✅ Zero Security Issues:** XSS and SQL injection prevention verified across all inputs
-- **🧪 Comprehensive Testing:** 721 tests covering auth, security, offline, features, and accessibility
-
-**USA Lite users have 100% data ownership.** All data ownership protections from previous versions remain in full effect.
-
----
-
-## 🆕 **November 2025 Updates**
-
-Our commitment to 100% user data ownership extends to all new November 2025 features:
-- **Master Tracker Hub:** All 6 tracking tools (Symptom, Mood, Medication, Appointment, Activity, Energy) store data locally on your device
-- **Appeal Command Center:** All legal case data, deadlines, and timelines remain on your device - no external transmission
-- **4 Wellness Hubs:** Energy & Mood Hub, Mental Wellness Toolkit, Physical Wellness Hub, Pacing Partner AI - all data local-first
-- **Offline Queue:** Queued actions stored locally, processed only when you're online and ready
-- **Profile Data:** Bio, location, pronouns, accessibility needs - all optional and stored in your cloud or locally only
-- **Campaign Submissions:** You explicitly choose what to submit to 3mpwr - nothing shared without your consent
-- **Complexity Mode:** Your experience level and Bad Day Mode preferences stored locally only
-
-**Privacy-First Architecture Maintained:** All November 2025 features follow the same local-first, user-owned data model.
-
----
+**Last updated:** September 11, 2026  
+**Version: 2.2 (September 2026)**
 
 📖 **8 minute read** | ⚡ Quick summary below
 
@@ -336,5 +303,5 @@ For questions about data ownership or to verify these claims:
 
 *This statement represents our core commitment to user data sovereignty. Your privacy and data ownership are not just promises—they're technically guaranteed by our architecture.*
 
-**Version:** 2.1
-**Effective:** December 14, 2025
+**Version:** 2.2
+**Effective:** September 11, 2026

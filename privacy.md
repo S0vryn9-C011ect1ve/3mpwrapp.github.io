@@ -5,16 +5,13 @@ description: How 3mpwrApp collects, protects, and respects your data — built o
 permalink: /privacy
 ---
 
-<!-- Complexity Mode Toggle -->
-{%- include complexity-toggle.html -%}
-
 {%- include status-banner.html -%}
 
 <link rel="stylesheet" href="{{ '/assets/css/page-enhancements.css' | relative_url }}">
 
 # 🔐 Privacy Policy
 
-**Last updated: October 12, 2025**
+**Last updated: September 11, 2026**
 
 This policy describes how 3mpwr App ("we", "us", "our") collects, uses, and protects information in the 3mpwr App mobile application and web experience. By using the app, you agree to these practices.
 

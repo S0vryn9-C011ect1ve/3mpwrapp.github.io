@@ -5,30 +5,12 @@ description: Community standards for a safe, respectful, trauma-informed space. 
 permalink: /community-guidelines/
 ---
 
-
 {%- include status-banner.html -%}
 
 # 3mpwrApp — Community Guidelines
 
-**Last Updated: February 24, 2026**  
-**Version: 2.1 (February 2026 - Documentation Sync)**
-
-**What's New Reference:** [Documentation Sync Complete → Legal & policy (English)](/whats-new/2026-02-24-documentation-sync-en-fr-legal/#legal-policy-en)
-
-*Editorial update for consistency across app + website policy pages.*
-
-## 🆕 **November 2025 Updates**
-
-New community features now covered by these guidelines:
-- **Campaign Submissions:** Submit to 3mpwr feature for sharing advocacy campaigns
-- **Profile & Personalization:** Enhanced user profiles with bio, location, accessibility needs
-- **Community Chat:** Real-time community conversations and support
-- **Evidence Locker Sharing:** Optional sharing of case documentation (privacy-protected)
-- **Master Tracker Hub Insights:** Optional sharing of health/wellness patterns for community support
-
-All existing community guidelines apply to these new features.
-
----
+**Last Updated: September 11, 2026**  
+**Version: 2.2 (September 2026)**
 
 ## Our Community Values
 
