@@ -5,6 +5,8 @@ description: Take a visual tour inside 3mpwrApp. See how our platform empowers t
 permalink: /app-tour/
 ---
 
+# Inside 3mpwrApp — Visual Tour
+
 <link rel="stylesheet" href="{{ '/assets/css/page-enhancements.css' | relative_url }}">
 
 <style>

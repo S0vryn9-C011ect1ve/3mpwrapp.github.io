@@ -5,6 +5,8 @@ description: Get help exactly when and where you need it
 permalink: /help-system/
 ---
 
+# Contextual Help System
+
 <style>
 .help-guide {
   max-width: 900px;
