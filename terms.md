@@ -2,7 +2,7 @@
 layout: default
 title: Terms of Service
 description: Terms of use for 3mpwrApp — free community tools for injured workers and persons with disabilities.
-permalink: /terms
+permalink: /terms/
 ---
 
 {%- include status-banner.html -%}

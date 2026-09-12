@@ -2,7 +2,7 @@
 layout: default
 title: Privacy Policy
 description: How 3mpwrApp collects, protects, and respects your data — built on 100% user data ownership.
-permalink: /privacy
+permalink: /privacy/
 ---
 
 {%- include status-banner.html -%}
