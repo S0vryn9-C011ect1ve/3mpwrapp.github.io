@@ -90,8 +90,19 @@
 
 # HTML pages - prefer fresh to avoid UI getting stuck
 # IMPORTANT: Do NOT force Content-Type here, or CSS/JS will be served as text/html and blocked by browsers (nosniff).
-/*
+/* 
   Cache-Control: no-cache, no-store, must-revalidate
+  Pragma: no-cache
+  Expires: 0
+
+# Legal pages - force edge revalidation every request (no stale cache)
+/community/guidelines/
+  Cache-Control: max-age=0, must-revalidate, no-cache, no-store
+  Pragma: no-cache
+  Expires: 0
+
+/community/guidelines
+  Cache-Control: max-age=0, must-revalidate, no-cache, no-store
   Pragma: no-cache
   Expires: 0
 

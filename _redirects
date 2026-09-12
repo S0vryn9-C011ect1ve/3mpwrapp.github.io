@@ -14,7 +14,7 @@ https://www.3mpwrapp.ca/* https://3mpwrapp.ca/:splat 301!
 /blog/2026/05/14/hrto-disability-discrimination-patterns-analysis /community-updates/research/2026/05/14/hrto-disability-discrimination-patterns-analysis/ 301
 /blog/2026/05/08/onca-precedent-overview /community-updates/research/2026/05/08/onca-precedent-overview/ 301
 /20*/* 200!
-# Static pages (Jekyll pretty URLs generate as directories)
+# Legal pages (Jekyll pretty URLs generate as directories)
 /about /about/ 200
 /research /research/ 200
 /privacy /privacy/ 200
@@ -22,6 +22,10 @@ https://www.3mpwrapp.ca/* https://3mpwrapp.ca/:splat 301!
 /contact /contact/ 200
 /faq /faq/ 200
 /accessibility /accessibility/ 200
+/code-of-conduct /code-of-conduct/ 200
+# Old community-guidelines path → new code-of-conduct (cache-bust redirect)
+/community/guidelines /code-of-conduct/ 301
+/community/guidelines/ /code-of-conduct/ 301
 
 # SPA fallback for remaining routes (lower priority)
 /* /index.html 200

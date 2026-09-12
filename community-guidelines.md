@@ -2,10 +2,12 @@
 layout: default
 title: Community Guidelines
 description: Community standards for a safe, respectful, trauma-informed space. Rules for peer support, privacy protection, and inclusive advocacy.
-permalink: /community-guidelines/
+permalink: /code-of-conduct/
 ---
 
 {%- include status-banner.html -%}
+
+<!-- cache-bust: 2026-09-12T04:30Z -->
 
 # 3mpwrApp — Community Guidelines
 
