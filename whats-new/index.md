@@ -301,11 +301,10 @@ permalink: /whats-new/
   const currentYear = new Date().getFullYear();
   const lastYear = currentYear - 1;
   
-  // Function to load JSON from app repo
+  // Function to load JSON from the same-origin assets folder (CORS-safe, no external dependency)
   async function loadWhatsNewYear(year) {
     try {
-      // Try to fetch from GitHub raw content (update with actual repo)
-      const response = await fetch(`https://raw.githubusercontent.com/YOUR-ORG/empowrapp-new/main/public/whatsnew-${year}.json`);
+      const response = await fetch(`/assets/data/whatsnew-${year}.json`);
       if (!response.ok) throw new Error('Not found');
       return await response.json();
     } catch (err) {

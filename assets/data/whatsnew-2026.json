@@ -1,8 +1,1088 @@
 {
   "year": 2026,
   "version": "1.0",
-  "lastUpdated": "2026-04-27T01:16:45.605Z",
+  "lastUpdated": "2026-09-12T06:58:28.000Z",
   "entries": [
+    {
+      "id": "wn-draft-1c54fcf4",
+      "title": "# Founder's What's New Notes",
+      "summary": "# Founder's What's New Notes\n#\n# Write plain-language updates here. One block per note, separated by a blank line.\n# Hermes runs the generator and adds these to the public What's New feed.\n# Keep it simple — short sentences, no jargon.\n#\n# Format (DATE is optional — leave it off to use today):\n# - D",
+      "date": "2026-09-12T12:00:00.000Z",
+      "category": "feature",
+      "repo": "website",
+      "commitSha": "",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-12-eb9c95",
+      "title": "remove leaked/placeholder references from audit report doc",
+      "summary": "remove leaked/placeholder references from audit report doc",
+      "date": "2026-09-12T02:33:40-04:00",
+      "category": "content",
+      "repo": "website",
+      "commitSha": "eb9c95532b9f627e3400df0eeb0f0dcc96b50035",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-12-1695bf",
+      "title": "AUDIT FIXES pt4+pt5 (email-safe, clean): KB frontmatter+links+dead-link fixes, privacy brand unify, remove 3rd-party lea",
+      "summary": "AUDIT FIXES pt4+pt5 (email-safe, clean): KB frontmatter+links+dead-link fixes, privacy brand unify, remove 3rd-party leaked emails (founder email preserved), ad",
+      "date": "2026-09-12T02:16:42-04:00",
+      "category": "feature",
+      "repo": "website",
+      "commitSha": "1695bf9249ca3c32c73c4dbbf95bb231e2e154a9",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-12-242d1c",
+      "title": "AUDIT FIXES pt4: KB content — add title/description to all 22 articles, strip leaked emails, fix 45 internal links; unif",
+      "summary": "AUDIT FIXES pt4: KB content — add title/description to all 22 articles, strip leaked emails, fix 45 internal links; unify brand 3mpwrapp.ca->3mpwrapp.ca in priva",
+      "date": "2026-09-12T01:49:29-04:00",
+      "category": "feature",
+      "repo": "website",
+      "commitSha": "242d1c7b23fbd64259210f5ae04511b63a3e57c0",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-12-cb12aa",
+      "title": "AUDIT FIXES pt3: contact trailing-slash permalink, revert app-tour injected h1 (body already has one)",
+      "summary": "AUDIT FIXES pt3: contact trailing-slash permalink, revert app-tour injected h1 (body already has one)",
+      "date": "2026-09-12T01:33:48-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "cb12aa6fc6149e2af631c4fed1ba30fb349f3c93",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-12-96a5cb",
+      "title": "AUDIT FIXES pt2: single-H1 (remove layout h1, add # to 3 pages), trailing-slash permalinks for app-waitlist/roadmap",
+      "summary": "AUDIT FIXES pt2: single-H1 (remove layout h1, add # to 3 pages), trailing-slash permalinks for app-waitlist/roadmap",
+      "date": "2026-09-12T01:26:24-04:00",
+      "category": "feature",
+      "repo": "website",
+      "commitSha": "96a5cbc6ff0850657375d64b42f23e0f5af431af",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-12-b37c9e",
+      "title": "AUDIT FIXES pt1: remove dup title/H1, un-exclude public pages, fix accessibility double-frontmatter + KB landing",
+      "summary": "AUDIT FIXES pt1: remove dup title/H1, un-exclude public pages, fix accessibility double-frontmatter + KB landing",
+      "date": "2026-09-12T01:19:13-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "b37c9e3265c2629de53b182096e58d09d7c3cf71",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-12-67e1ba",
+      "title": "add app cross-links to legal/FAQ pages (privacy, terms, data-ownership, code-of-conduct, faq) pointing to in-app Legal &",
+      "summary": "add app cross-links to legal/FAQ pages (privacy, terms, data-ownership, code-of-conduct, faq) pointing to in-app Legal & Policies",
+      "date": "2026-09-12T00:56:40-04:00",
+      "category": "feature",
+      "repo": "website",
+      "commitSha": "67e1bae29d7af9be766b25eb3adfd713b791ab2a",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-12-163cca",
+      "title": "align in-app legal summaries with website (dates, remove TODO stubs, fix about.tsx legal links to /code-of-conduct/ + FA",
+      "summary": "align in-app legal summaries with website (dates, remove TODO stubs, fix about.tsx legal links to /code-of-conduct/ + FAQ, fix double-https website link)",
+      "date": "2026-09-12T00:54:06-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "163cca8c9b6b0fe3b9ab2c6362419a8a240517a7",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-12-191c35",
+      "title": "relocate Community Guidelines to /code-of-conduct/ (cache-bust), add 301 redirect from old /community/guidelines/, add e",
+      "summary": "relocate Community Guidelines to /code-of-conduct/ (cache-bust), add 301 redirect from old /community/guidelines/, add explicit no-cache headers for legal pages",
+      "date": "2026-09-12T00:45:33-04:00",
+      "category": "feature",
+      "repo": "website",
+      "commitSha": "191c356218f2823de65e74416cbefa22549dee92",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-12-4f1319",
+      "title": "privacy.md + terms.md permalinks to trailing slash (/privacy/ /terms/) so clean versions serve at correct URL path",
+      "summary": "privacy.md + terms.md permalinks to trailing slash (/privacy/ /terms/) so clean versions serve at correct URL path",
+      "date": "2026-09-12T00:13:07-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "4f1319a772640fb16b2b8190e6dcf81f6e7c8e83",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-12-449f76",
+      "title": "remove stale privacy/index.md + terms/index.md that shadowed root .md files (caused old update blocks to appear on live ",
+      "summary": "remove stale privacy/index.md + terms/index.md that shadowed root .md files (caused old update blocks to appear on live site)",
+      "date": "2026-09-12T00:08:48-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "449f764204962399fd0bfbfb441f1a9af9f1d976",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-11-67a88d",
+      "title": "clean legal pages - remove monthly update blocks, update dates to 2026-09-11, keep status banner",
+      "summary": "clean legal pages - remove monthly update blocks, update dates to 2026-09-11, keep status banner",
+      "date": "2026-09-11T23:48:13-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "67a88d31d4ddd774a848267bb4e746acd564f92f",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-11-73395c",
+      "title": "strip BOM from 245 .md files (root cause of 404s); add permalink to community-guidelines",
+      "summary": "strip BOM from 245 .md files (root cause of 404s); add permalink to community-guidelines",
+      "date": "2026-09-11T23:26:33-04:00",
+      "category": "feature",
+      "repo": "website",
+      "commitSha": "73395cbc17fdb19bdacfd2827b75cd26fe2e0f49",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-11-79d472",
+      "title": "remove explicit permalink so Cloudflare Jekyll builds these pages",
+      "summary": "remove explicit permalink so Cloudflare Jekyll builds these pages",
+      "date": "2026-09-11T22:12:12-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "79d472b4a21e9c5f0c5df3273aa4fa1bb9b7a5e3",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-11-da155b",
+      "title": "move data-ownership + community-guidelines to root pages; remove tracked _site_temp build artifact",
+      "summary": "move data-ownership + community-guidelines to root pages; remove tracked _site_temp build artifact",
+      "date": "2026-09-11T21:40:08-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "da155b590334be8e74ba430a6a723a0846270cd0",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-11-d17e2d",
+      "title": "feat(curator): Daily curation 2026-09-11 - automated content aggregation",
+      "summary": "feat(curator): Daily curation 2026-09-11 - automated content aggregation",
+      "date": "2026-09-11T16:04:32Z",
+      "category": "feature",
+      "repo": "website",
+      "commitSha": "d17e2d16e672e91cb422a7f16c5992b1b72b0336",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-11-eb6962",
+      "title": "add TBDIWSG public meeting Sep 14 2026 (OPSEU Hall)",
+      "summary": "add TBDIWSG public meeting Sep 14 2026 (OPSEU Hall)",
+      "date": "2026-09-11T15:43:29-04:00",
+      "category": "feature",
+      "repo": "website",
+      "commitSha": "eb6962e96f943857d9e224d7c31304fde00f8ca0",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-11-42e449",
+      "title": "fix(web): add unsafe-eval to CSP script-src — resolves Expo web black-screen/eval block on app.3mpwrapp.ca",
+      "summary": "fix(web): add unsafe-eval to CSP script-src — resolves Expo web black-screen/eval block on app.3mpwrapp.ca",
+      "date": "2026-09-11T15:27:39-04:00",
+      "category": "feature",
+      "repo": "app",
+      "commitSha": "42e4491ffd282749f11981aeca6cd04dc4e3fd2f",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-11-739591",
+      "title": "build(android): wire googleServicesFile for EAS (file gitignored, local-only)",
+      "summary": "build(android): wire googleServicesFile for EAS (file gitignored, local-only)",
+      "date": "2026-09-11T14:43:51-04:00",
+      "category": "improvement",
+      "repo": "app",
+      "commitSha": "73959155c138431d96073d4d37da5d37fd248a95",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-11-1c3b8f",
+      "title": "fix(deps): reinstall react-native-pager-view@6.9.1 (SDK55 compat) — resolves material-top-tabs Android bundling error",
+      "summary": "fix(deps): reinstall react-native-pager-view@6.9.1 (SDK55 compat) — resolves material-top-tabs Android bundling error",
+      "date": "2026-09-11T14:40:10-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "1c3b8f7aa96952df64e7731d558d55fa2473cecd",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-11-c3a272",
+      "title": "add CF _redirects for blog 404s",
+      "summary": "add CF _redirects for blog 404s",
+      "date": "2026-09-11T13:29:31-04:00",
+      "category": "feature",
+      "repo": "website",
+      "commitSha": "c3a27259187f37f33f1b11d92e409e31415d6c46",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-11-a5264e",
+      "title": "Enable jekyll-redirect-from for blog 404 fixes",
+      "summary": "Enable jekyll-redirect-from for blog 404 fixes",
+      "date": "2026-09-11T13:24:19-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "a5264ec109d1d31c091b73a32a7ef41e26708430",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-11-0e76ef",
+      "title": "Themis compliance fixes: HRTO 3,186→9,269 classified; blog 404 redirects; footer date",
+      "summary": "Themis compliance fixes: HRTO 3,186→9,269 classified; blog 404 redirects; footer date",
+      "date": "2026-09-11T13:20:27-04:00",
+      "category": "security",
+      "repo": "website",
+      "commitSha": "0e76ef1397d531cf8fa7a8901f24c1ed339a1c17",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-10-5b8ee4",
+      "title": "white-screen fix + firebase 12.19 + react 19.3 (expo 57 deferred to post-launch)",
+      "summary": "white-screen fix + firebase 12.19 + react 19.3 (expo 57 deferred to post-launch)",
+      "date": "2026-09-10T22:07:27-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "5b8ee4266917e85d59a637a7a9f09fa87aa8dbf6",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-10-3b2555",
+      "title": "commit pending route-shim removal + _styles relocation (white-screen fix)",
+      "summary": "commit pending route-shim removal + _styles relocation (white-screen fix)",
+      "date": "2026-09-10T22:06:57-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "3b25558c549f37792fae8554e67aae785ed7754c",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-10-9a4409",
+      "title": "Pass C ROLLED BACK - expo 57 breaks (SDK56 drops react-navigation compat); stays on 55. Pass A (firebase 12.19) + B (rea",
+      "summary": "Pass C ROLLED BACK - expo 57 breaks (SDK56 drops react-navigation compat); stays on 55. Pass A (firebase 12.19) + B (react 19.3) applied.",
+      "date": "2026-09-10T21:53:54-04:00",
+      "category": "improvement",
+      "repo": "app",
+      "commitSha": "9a440948bf663d33a55d8b0fc189b2a9472941c2",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-10-aedf5f",
+      "title": "Pass B - react 19.3 minor bump (build green)",
+      "summary": "Pass B - react 19.3 minor bump (build green)",
+      "date": "2026-09-10T21:43:10-04:00",
+      "category": "improvement",
+      "repo": "app",
+      "commitSha": "aedf5f20ccfe618e7980e3e5958008709cc302b7",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-10-aed590",
+      "title": "Pass A - firebase 12.19 patch bump (build green)",
+      "summary": "Pass A - firebase 12.19 patch bump (build green)",
+      "date": "2026-09-10T21:40:47-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "aed590b14db3f53144bc121a59ef61439adbfb31",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-10-f01c6f",
+      "title": "route shim removal + _styles import path (baseline green web build)",
+      "summary": "route shim removal + _styles import path (baseline green web build)",
+      "date": "2026-09-10T21:36:36-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "f01c6f6774bd097f2699c14558518dc7a5b182c1",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-08-f08b69",
+      "title": "Fix react-native-worklets version (0.12.1) for reanimated compatibility",
+      "summary": "Fix react-native-worklets version (0.12.1) for reanimated compatibility",
+      "date": "2026-09-08T03:15:33-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "f08b692ab66a6b43eb6ee288c2315035ceec2d31",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-07-9f3dab",
+      "title": "Fix TS errors, import paths, and code quality issues",
+      "summary": "Fix TS errors, import paths, and code quality issues",
+      "date": "2026-09-07T20:04:42-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "9f3dab9def446c921041b89d9d70247abfab0d7f",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-07-a616a9",
+      "title": "Agent cleanup: TS fixes, import paths, file structure",
+      "summary": "Agent cleanup: TS fixes, import paths, file structure",
+      "date": "2026-09-07T17:31:27-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "a616a9f916bd39a712972ba1e5bfdbe9d36af2b0",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-06-8f28f3",
+      "title": "npm audit fix (metro vulns remain — cannot bump without breaking Expo)",
+      "summary": "npm audit fix (metro vulns remain — cannot bump without breaking Expo)",
+      "date": "2026-09-06T17:22:32-04:00",
+      "category": "security",
+      "repo": "app",
+      "commitSha": "8f28f372dfc1f8088d97ed0805b213c0080e58b8",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-06-47763f",
+      "title": "axe-core CI path, app.json rename, about.tsx https bug, sentry config",
+      "summary": "axe-core CI path, app.json rename, about.tsx https bug, sentry config",
+      "date": "2026-09-06T17:16:21-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "47763f0999fa76208b424f617e1d24f53caf7956",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-04-b8db01",
+      "title": "add axe-core accessibility audit to CI pipeline",
+      "summary": "add axe-core accessibility audit to CI pipeline",
+      "date": "2026-09-04T00:14:57-04:00",
+      "category": "feature",
+      "repo": "app",
+      "commitSha": "b8db019b2dbfde4475f7aa5bc8291e9e72cacbdb",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-04-538107",
+      "title": "add Cloudflare Web Analytics to 3mpwrapp + Ascendant web builds",
+      "summary": "add Cloudflare Web Analytics to 3mpwrapp + Ascendant web builds",
+      "date": "2026-09-04T00:01:31-04:00",
+      "category": "feature",
+      "repo": "app",
+      "commitSha": "538107290b3cb51379a332d472135bd90dde6ab4",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-03-92c444",
+      "title": "add Open Graph, Twitter cards, JSON-LD, sitemaps for 3mpwrapp + Ascendant",
+      "summary": "add Open Graph, Twitter cards, JSON-LD, sitemaps for 3mpwrapp + Ascendant",
+      "date": "2026-09-03T23:59:05-04:00",
+      "category": "feature",
+      "repo": "app",
+      "commitSha": "92c4442dc53606637bb84d81db3b0e74c1a870f0",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-03-eff713",
+      "title": "show loading screen instead of white screen during auth init",
+      "summary": "show loading screen instead of white screen during auth init",
+      "date": "2026-09-03T23:02:37-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "eff71393576f05ba1c3c66235ab0553c7d9ac08e",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-03-e21e46",
+      "title": "add Firebase config files (google-services.json + GoogleService-Info.plist)",
+      "summary": "add Firebase config files (google-services.json + GoogleService-Info.plist)",
+      "date": "2026-09-03T00:22:50-04:00",
+      "category": "feature",
+      "repo": "app",
+      "commitSha": "e21e464108b5e866446a82f8e0a6b2f3385f1d6f",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-02-b95fbd",
+      "title": "fix(ios): remove deprecated expo-av (incompatible with SDK 55)",
+      "summary": "fix(ios): remove deprecated expo-av (incompatible with SDK 55)",
+      "date": "2026-09-02T19:27:15-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "b95fbdeed1d9f1efab7e757c3933ed0289262b80",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-02-15060c",
+      "title": "fix(ios): add use_modular_headers! for Firebase Swift pod compat",
+      "summary": "fix(ios): add use_modular_headers! for Firebase Swift pod compat",
+      "date": "2026-09-02T19:13:01-04:00",
+      "category": "feature",
+      "repo": "app",
+      "commitSha": "15060c4d3e7b9c8acd734b5efb9ea89531942882",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-02-d2e400",
+      "title": "fix(ios): use dynamic frameworks for Firebase Swift pods compat",
+      "summary": "fix(ios): use dynamic frameworks for Firebase Swift pods compat",
+      "date": "2026-09-02T19:01:37-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "d2e40097aae128a32be634aca68df0cd605a5fac",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-02-f8c3dd",
+      "title": "fix(ios): disable non-modular include warning for RNFBApp static framework",
+      "summary": "fix(ios): disable non-modular include warning for RNFBApp static framework",
+      "date": "2026-09-02T18:47:38-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "f8c3dd8edd7e7e9165abd4d4317206143aea62aa",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-02-cc5aeb",
+      "title": "fix(ios): add useFrameworks static for Firebase Swift pods",
+      "summary": "fix(ios): add useFrameworks static for Firebase Swift pods",
+      "date": "2026-09-02T18:35:45-04:00",
+      "category": "feature",
+      "repo": "app",
+      "commitSha": "cc5aeb3ccfc238ba466030bea553603fc20a1f6f",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-02-3a2084",
+      "title": "fix(ios): downgrade @xmldom/xmldom 0.9→0.8 to fix parseFromString mimeType crash",
+      "summary": "fix(ios): downgrade @xmldom/xmldom 0.9→0.8 to fix parseFromString mimeType crash",
+      "date": "2026-09-02T18:25:29-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "3a2084611b85409e91e0244c140fef79103f0de2",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-02-83a693",
+      "title": "add fix-xmldom.sh postinstall script for EAS Build",
+      "summary": "add fix-xmldom.sh postinstall script for EAS Build",
+      "date": "2026-09-02T18:24:10-04:00",
+      "category": "feature",
+      "repo": "app",
+      "commitSha": "83a693067a9ce3e0864e460d0d7d092112591e27",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-02-215bda",
+      "title": "fix(ios): add patch-package for @expo/plist xmldom mimeType fix",
+      "summary": "fix(ios): add patch-package for @expo/plist xmldom mimeType fix",
+      "date": "2026-09-02T18:15:39-04:00",
+      "category": "feature",
+      "repo": "app",
+      "commitSha": "215bdae27944c9f0eb0db1b4900b222937e46543",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-02-3b207d",
+      "title": "fix(ios): patch @expo/plist parseFromString mimeType for xmldom 0.9 compat",
+      "summary": "fix(ios): patch @expo/plist parseFromString mimeType for xmldom 0.9 compat",
+      "date": "2026-09-02T18:13:48-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "3b207d9efce6403fe760af20f9a243a6c4c46d44",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-02-1ece27",
+      "title": "remove babel-plugin-transform-import-meta for iOS compat",
+      "summary": "remove babel-plugin-transform-import-meta for iOS compat",
+      "date": "2026-09-02T17:54:18-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "1ece2752cd4aee385f81360f3ede8aea5e3511a9",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-02-84a056",
+      "title": "uncomment android/ in gitignore for EAS prebuild",
+      "summary": "uncomment android/ in gitignore for EAS prebuild",
+      "date": "2026-09-02T17:43:52-04:00",
+      "category": "improvement",
+      "repo": "app",
+      "commitSha": "84a056676a3cc74046c04f1eed54271d0103ef09",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-02-842b8c",
+      "title": "fix(ios): version 1.0.0-beta.1 → 1.0.0 for App Store compliance",
+      "summary": "fix(ios): version 1.0.0-beta.1 → 1.0.0 for App Store compliance",
+      "date": "2026-09-02T17:08:06-04:00",
+      "category": "security",
+      "repo": "app",
+      "commitSha": "842b8c9bff99224ec1d4e69195a8ac94cc6f83af",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-02-c724d0",
+      "title": "fix(android): reanimated 4.2.1 → 4.3.4 + worklets 0.8.3 — compatible with SDK 55",
+      "summary": "fix(android): reanimated 4.2.1 → 4.3.4 + worklets 0.8.3 — compatible with SDK 55",
+      "date": "2026-09-02T11:36:01-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "c724d0c73ded06b64163906eaa0efea10451de35",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-02-a31144",
+      "title": "fix(android): downgrade react-native-worklets 0.12.1 → 0.8.3 — SDK 55 compat",
+      "summary": "fix(android): downgrade react-native-worklets 0.12.1 → 0.8.3 — SDK 55 compat",
+      "date": "2026-09-02T02:22:24-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "a3114435e89afad6f0492175ff9c6038ee6ca89e",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-02-9ee1e1",
+      "title": "fix(android): upgrade react-native-worklets 0.7.4 → 0.12.1 for SDK 55 compat",
+      "summary": "fix(android): upgrade react-native-worklets 0.7.4 → 0.12.1 for SDK 55 compat",
+      "date": "2026-09-02T02:06:47-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "9ee1e129832d78e1a59213fba0b286f68f4d7189",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-02-3d9a2e",
+      "title": "fix(android): remove newArchEnabled=false — unsupported in SDK 55, was causing EAS failure",
+      "summary": "fix(android): remove newArchEnabled=false — unsupported in SDK 55, was causing EAS failure",
+      "date": "2026-09-02T01:53:39-04:00",
+      "category": "feature",
+      "repo": "app",
+      "commitSha": "3d9a2e86a55f0344662a1acb45457461c7bad685",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-02-3f9761",
+      "title": "fix(android): build fixes for local + EAS — pager-view 9.x, newArch off, sentry upload disabled",
+      "summary": "fix(android): build fixes for local + EAS — pager-view 9.x, newArch off, sentry upload disabled",
+      "date": "2026-09-02T01:02:10-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "3f97614b3a2b8037a42129576c6474de17f2a461",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-01-79c8b4",
+      "title": "fix(android): keep pdfjs out of native bundle",
+      "summary": "fix(android): keep pdfjs out of native bundle",
+      "date": "2026-09-01T21:20:30-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "79c8b4ec03cca17d918865c94082824958e1819d",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-01-215c85",
+      "title": "remove Firebase plugins/config for EAS build",
+      "summary": "remove Firebase plugins/config for EAS build",
+      "date": "2026-09-01T20:39:15-04:00",
+      "category": "improvement",
+      "repo": "app",
+      "commitSha": "215c851ec9645d1cea1ef5a4fc5a4c6d8b778701",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-01-4fbe42",
+      "title": "ignore google-services, audit ignore, babel polyfill, deps",
+      "summary": "ignore google-services, audit ignore, babel polyfill, deps",
+      "date": "2026-09-01T20:32:54-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "4fbe42ff56e93b29bb6dc9ada74547642ead6b8a",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-01-f8cba9",
+      "title": "package main, audit ignore, google-services for EAS",
+      "summary": "package main, audit ignore, google-services for EAS",
+      "date": "2026-09-01T20:26:36-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "f8cba94ce8af0dd300bcf358dc3e8c2a24d23d60",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-01-35bf71",
+      "title": "move puppeteer to devDep, audit fix",
+      "summary": "move puppeteer to devDep, audit fix",
+      "date": "2026-09-01T20:25:05-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "35bf71e4deeac460fb59cb1af642447732649934",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-01-724560",
+      "title": "restore google-services.json for EAS build",
+      "summary": "restore google-services.json for EAS build",
+      "date": "2026-09-01T20:20:39-04:00",
+      "category": "improvement",
+      "repo": "app",
+      "commitSha": "724560bb163b3eebe01a719f9c1a05d838d42e9b",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-01-51c70c",
+      "title": "remove stale android/ for EAS managed build",
+      "summary": "remove stale android/ for EAS managed build",
+      "date": "2026-09-01T20:01:36-04:00",
+      "category": "improvement",
+      "repo": "app",
+      "commitSha": "51c70c399ba752befed5a9ca7ea90ad5dce38958",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-01-8c0b48",
+      "title": "add babel-plugin-transform-import-meta",
+      "summary": "add babel-plugin-transform-import-meta",
+      "date": "2026-09-01T19:45:22-04:00",
+      "category": "feature",
+      "repo": "app",
+      "commitSha": "8c0b48ae469c34ea5e972565837bd31cc68d6784",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-01-cfe67e",
+      "title": "PWA + babel polyfill for EAS",
+      "summary": "PWA + babel polyfill for EAS",
+      "date": "2026-09-01T17:28:17-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "cfe67edd3b0162351e478b81480d6d87ce388432",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-01-3cd770",
+      "title": "polyfill import.meta for pdfjs-dist on Hermes",
+      "summary": "polyfill import.meta for pdfjs-dist on Hermes",
+      "date": "2026-09-01T17:20:09-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "3cd770a4a3a13345c65abbf97ff45c6383e23a8d",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-01-44a206",
+      "title": "deps + remove Node crypto fallback",
+      "summary": "deps + remove Node crypto fallback",
+      "date": "2026-09-01T16:41:40-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "44a206fa0500df021a14b9f8a8b576ed7f63f84a",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-01-c639ad",
+      "title": "sync lockfile for EAS build",
+      "summary": "sync lockfile for EAS build",
+      "date": "2026-09-01T16:07:27-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "c639ad1559f49403bcf82510dafa27a74b367e03",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-30-9642af",
+      "title": "resolve white-screen on home load + TermsGate router",
+      "summary": "resolve white-screen on home load + TermsGate router",
+      "date": "2026-08-30T01:35:58-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "9642af58b418255ba4b9671b897ea868e4a36849",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-29-2ea196",
+      "title": "Switch Expo project owner to s0vryn9-c011ect1ve",
+      "summary": "Switch Expo project owner to s0vryn9-c011ect1ve",
+      "date": "2026-08-29T21:37:05-04:00",
+      "category": "improvement",
+      "repo": "app",
+      "commitSha": "2ea1965f88e994e02618c148992912b4fd038046",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-29-6fad43",
+      "title": "Fix malformed API base URLs in app.config.js defaults",
+      "summary": "Fix malformed API base URLs in app.config.js defaults",
+      "date": "2026-08-29T21:20:42-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "6fad4396a801ed975d87ef808e2c9308ac41bfc1",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-29-b1e60e",
+      "title": "Remove Node crypto fallback in encryptionEnhanced; align jest-expo",
+      "summary": "Remove Node crypto fallback in encryptionEnhanced; align jest-expo",
+      "date": "2026-08-29T20:42:30-04:00",
+      "category": "improvement",
+      "repo": "app",
+      "commitSha": "b1e60edc741789d0e78e7ef7b40b0c225e7e4b75",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-29-d4a529",
+      "title": "Remove Node crypto fallback from evidenceCrypto",
+      "summary": "Remove Node crypto fallback from evidenceCrypto",
+      "date": "2026-08-29T15:23:54-04:00",
+      "category": "improvement",
+      "repo": "app",
+      "commitSha": "d4a529eba2c1c6d9ad13113cbcdba4654e6fe2de",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-29-6dfaee",
+      "title": "Fix remaining Expo SDK 55 patch mismatches",
+      "summary": "Fix remaining Expo SDK 55 patch mismatches",
+      "date": "2026-08-29T14:43:17-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "6dfaee86802a3731ee5a2edf6e4ae85f03390e74",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-29-b913cd",
+      "title": "Bump Expo SDK deps to ~55.0.x matching",
+      "summary": "Bump Expo SDK deps to ~55.0.x matching",
+      "date": "2026-08-29T14:22:15-04:00",
+      "category": "improvement",
+      "repo": "app",
+      "commitSha": "b913cdd3f3ea22e1d9d117000af47403d22a3ce6",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-29-cb4d15",
+      "title": "Allow home route without terms acceptance",
+      "summary": "Allow home route without terms acceptance",
+      "date": "2026-08-29T12:46:33-04:00",
+      "category": "content",
+      "repo": "app",
+      "commitSha": "cb4d15572babd32a738ae2b7020b63d2b62dc9d0",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-29-25df14",
+      "title": "Fix terms gate post-accept redirect on web",
+      "summary": "Fix terms gate post-accept redirect on web",
+      "date": "2026-08-29T11:45:59-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "25df14e6f554607431a526939ec20b10794d8c8c",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-29-b390d6",
+      "title": "Prepare EAS Android production build",
+      "summary": "Prepare EAS Android production build",
+      "date": "2026-08-29T11:14:26-04:00",
+      "category": "improvement",
+      "repo": "app",
+      "commitSha": "b390d63ac48614d1213a2afc0cdd29819b9fee90",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-29-77a64f",
+      "title": "Update events ICS and snapshot script",
+      "summary": "Update events ICS and snapshot script",
+      "date": "2026-08-29T11:09:30-04:00",
+      "category": "improvement",
+      "repo": "app",
+      "commitSha": "77a64f174352ab02526b6763bc9d3452e2a1fbf3",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-27-8a4d75",
+      "title": "use consistent brand name 3mpwrapp in docs/scripts",
+      "summary": "use consistent brand name 3mpwrapp in docs/scripts",
+      "date": "2026-08-27T19:47:35-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "8a4d75cc891fcc13f90cb5bca48877e5bcf677c6",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-27-63baea",
+      "title": "add beta orientation guide",
+      "summary": "add beta orientation guide",
+      "date": "2026-08-27T19:22:34-04:00",
+      "category": "feature",
+      "repo": "app",
+      "commitSha": "63baeae8ba18237a71df9f2a22ef41821a638197",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-27-da0dc0",
+      "title": "export contradictions report from claim folder analysis",
+      "summary": "export contradictions report from claim folder analysis",
+      "date": "2026-08-27T18:11:42-04:00",
+      "category": "feature",
+      "repo": "app",
+      "commitSha": "da0dc0ba192b1cf93dbecef4122e527e8e44ce23",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-27-e5f354",
+      "title": "claim folder analysis step in case reconstruction wizard",
+      "summary": "claim folder analysis step in case reconstruction wizard",
+      "date": "2026-08-27T18:02:41-04:00",
+      "category": "feature",
+      "repo": "app",
+      "commitSha": "e5f35410dcddaea1a3e4c29ada63a7fbd1430a08",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-27-65812e",
+      "title": "lint-clean claim-folder-analysis imports",
+      "summary": "lint-clean claim-folder-analysis imports",
+      "date": "2026-08-27T17:49:43-04:00",
+      "category": "improvement",
+      "repo": "app",
+      "commitSha": "65812ece4b2a4bcdcad03805a33500caf6ed3a04",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-27-c17b30",
+      "title": "claim folder batch analysis + quality-of-life report",
+      "summary": "claim folder batch analysis + quality-of-life report",
+      "date": "2026-08-27T17:43:43-04:00",
+      "category": "feature",
+      "repo": "app",
+      "commitSha": "c17b3010a809a2990a2a08e6e147c50b789e483c",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-27-e8c601",
+      "title": "lint-clean pre-injury narrative step",
+      "summary": "lint-clean pre-injury narrative step",
+      "date": "2026-08-27T17:16:54-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "e8c6010e53acb9929c4e9bd640127f9dadb3a534",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-27-97f75c",
+      "title": "eliminate all lint errors and warnings from app code",
+      "summary": "eliminate all lint errors and warnings from app code",
+      "date": "2026-08-27T17:10:19-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "97f75c835d99c074bda5e758184eedda044f68bd",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-27-b0c461",
+      "title": "pre-injury narrative step + narrativeInput style",
+      "summary": "pre-injury narrative step + narrativeInput style",
+      "date": "2026-08-27T16:51:33-04:00",
+      "category": "feature",
+      "repo": "app",
+      "commitSha": "b0c4613b48af2a37ca2e2975a85b60663995bcab",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-27-fc0f59",
+      "title": "offline retry UI + pre-injury narrative step",
+      "summary": "offline retry UI + pre-injury narrative step",
+      "date": "2026-08-27T16:45:22-04:00",
+      "category": "feature",
+      "repo": "app",
+      "commitSha": "fc0f59b15eb7f49408e417d9f389e8417517bc57",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-27-8442c2",
+      "title": "OCR preview + full data export",
+      "summary": "OCR preview + full data export",
+      "date": "2026-08-27T16:43:03-04:00",
+      "category": "feature",
+      "repo": "app",
+      "commitSha": "8442c262f26f7226bedcf8a17996f73eb3905063",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-27-26175c",
+      "title": "lower flywheel threshold for beta",
+      "summary": "lower flywheel threshold for beta",
+      "date": "2026-08-27T16:34:06-04:00",
+      "category": "feature",
+      "repo": "app",
+      "commitSha": "26175c624358c760bd915df39b75941e3237b87f",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-27-8861d4",
+      "title": "pre-production TS/JSX blockers",
+      "summary": "pre-production TS/JSX blockers",
+      "date": "2026-08-27T16:26:16-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "8861d472bcf11c4fc34a4bcfad04b5142d83e088",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-27-ee6c66",
+      "title": "province-aware eligibility screening",
+      "summary": "province-aware eligibility screening",
+      "date": "2026-08-27T15:48:25-04:00",
+      "category": "feature",
+      "repo": "app",
+      "commitSha": "ee6c6625c4171a516609b1cb853caeb6da769fdb",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-27-430343",
+      "title": "appeal package export + anonymized win sharing",
+      "summary": "appeal package export + anonymized win sharing",
+      "date": "2026-08-27T15:43:36-04:00",
+      "category": "feature",
+      "repo": "app",
+      "commitSha": "4303438ebc5b834006a86868f0604f42c46b7431",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-26-30367e",
+      "title": "renumber sleep-fatigue + grounding-dbt to 16/17 for sequential numbering",
+      "summary": "renumber sleep-fatigue + grounding-dbt to 16/17 for sequential numbering",
+      "date": "2026-08-26T23:04:47-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "30367ecc7b2e29a7fcca6adf23a527a19f64d529",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-26-f60915",
+      "title": "21 script guide rewrite + pain-mood + energy-pacing + sleep-fatigue + grounding-dbt + advanced toolkit",
+      "summary": "21 script guide rewrite + pain-mood + energy-pacing + sleep-fatigue + grounding-dbt + advanced toolkit",
+      "date": "2026-08-26T22:57:46-04:00",
+      "category": "improvement",
+      "repo": "app",
+      "commitSha": "f60915cf88189f79a63002c80db0de8b36c90795",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-26-93ffbf",
+      "title": "5 more YouTube scripts: pathways + resource library + settings + notifications + guest mode",
+      "summary": "5 more YouTube scripts: pathways + resource library + settings + notifications + guest mode",
+      "date": "2026-08-26T22:56:08-04:00",
+      "category": "improvement",
+      "repo": "app",
+      "commitSha": "93ffbfddd36e001b49573f286ec24408d1b6b917",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-26-7b0011",
+      "title": "5 more YouTube scripts: appeals tracker + form filler + privacy + offline + accessibility",
+      "summary": "5 more YouTube scripts: appeals tracker + form filler + privacy + offline + accessibility",
+      "date": "2026-08-26T22:55:20-04:00",
+      "category": "content",
+      "repo": "app",
+      "commitSha": "7b0011263cb9dc71d6a5940a575f45182292d6d5",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-26-b50b6d",
+      "title": "4 more YouTube scripts: document vault + AI navigator + community hub + timeline builder",
+      "summary": "4 more YouTube scripts: document vault + AI navigator + community hub + timeline builder",
+      "date": "2026-08-26T22:54:02-04:00",
+      "category": "content",
+      "repo": "app",
+      "commitSha": "b50b6d2c50e457603f0f622620c23ec932958492",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-26-deac15",
+      "title": "4 updated YouTube scripts: intro + evidence locker + letter wizard + crisis management",
+      "summary": "4 updated YouTube scripts: intro + evidence locker + letter wizard + crisis management",
+      "date": "2026-08-26T22:50:28-04:00",
+      "category": "improvement",
+      "repo": "app",
+      "commitSha": "deac15ce135096296aa7d59d661d7b82e9647a1c",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-26-c29654",
+      "title": "add intro video script + Letter Wizard tutorial script; youtube-scripts dir created",
+      "summary": "add intro video script + Letter Wizard tutorial script; youtube-scripts dir created",
+      "date": "2026-08-26T22:44:41-04:00",
+      "category": "feature",
+      "repo": "app",
+      "commitSha": "c29654e2e3996130bda098b4929c6cb934627af1",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-26-c6b48e",
+      "title": "useSignedIn listens to Firebase onAuthStateChanged so post-login redirect works immediately",
+      "summary": "useSignedIn listens to Firebase onAuthStateChanged so post-login redirect works immediately",
+      "date": "2026-08-26T18:41:49-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "c6b48e594ccc04ec594ade7efef691f0f15f75a0",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-26-d7d028",
+      "title": "hardening 1-8: firebase gate, app check fails-closed, privacy note, encryption throw, docs fallback, a11y gate, canonica",
+      "summary": "hardening 1-8: firebase gate, app check fails-closed, privacy note, encryption throw, docs fallback, a11y gate, canonical date",
+      "date": "2026-08-26T18:37:52-04:00",
+      "category": "content",
+      "repo": "app",
+      "commitSha": "d7d02812b422f30a5ebc963ad28cec207651cf73",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-26-30b3dc",
+      "title": "post-login redirect to home tab + expand public path set",
+      "summary": "post-login redirect to home tab + expand public path set",
+      "date": "2026-08-26T15:19:43-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "30b3dcf5c26c4a7306ab04c55672e9a9f2ff6286",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-25-9d3d6e",
+      "title": "clean sitemap — remove 148 dev/junk/raw-html URLs",
+      "summary": "clean sitemap — remove 148 dev/junk/raw-html URLs",
+      "date": "2026-08-25T20:43:05-04:00",
+      "category": "improvement",
+      "repo": "app",
+      "commitSha": "9d3d6ee24508a8aecdcd87560d795973d0c639a4",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-25-5fda2e",
+      "title": "Fix white screen: add missing usePathname import in TermsGate",
+      "summary": "Fix white screen: add missing usePathname import in TermsGate",
+      "date": "2026-08-25T20:30:19-04:00",
+      "category": "feature",
+      "repo": "app",
+      "commitSha": "5fda2e1b031d62f45dff03ecb632747a696329fc",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-08-19-50bd59",
+      "title": "cache-bust JS headers for Pages",
+      "summary": "cache-bust JS headers for Pages",
+      "date": "2026-08-19T14:50:12-04:00",
+      "category": "improvement",
+      "repo": "app",
+      "commitSha": "50bd59881e82494396fcc423832f98ba483a5a82",
+      "archived": false
+    },
     {
       "id": "wn-2026-04-27-582935",
       "title": "🐛 Bill 105 campaign - change to 1x daily until April 28.",

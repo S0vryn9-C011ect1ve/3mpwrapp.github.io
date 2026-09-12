@@ -138,12 +138,28 @@
     
     if (response.ok) {
       const data = await response.json();
-      const sevenDaysAgo = new Date(Date.now() - (7 * 24 * 60 * 60 * 1000));
+      const now = Date.now();
+      const sevenDaysAgo = new Date(now - (7 * 24 * 60 * 60 * 1000));
+      const thirtyDaysAgo = new Date(now - (30 * 24 * 60 * 60 * 1000));
       const weeklyCount = data.entries.filter(e => new Date(e.date) >= sevenDaysAgo).length;
-      
-      document.getElementById('sticky-update-count').textContent = `${weeklyCount}`;
-      const w = document.getElementById('sticky-update-count-wrap');
-      if (w) w.style.display = 'inline';
+      const monthlyCount = data.entries.filter(e => new Date(e.date) >= thirtyDaysAgo).length;
+
+      // Never show a contradictory "0" during a naturally quiet week.
+      // Prefer this week; fall back to last-30-days; link to full history.
+      const countEl = document.getElementById('sticky-update-count');
+      const wrap = document.getElementById('sticky-update-count-wrap');
+      if (weeklyCount > 0) {
+        countEl.textContent = `${weeklyCount}`;
+        wrap.style.display = 'inline';
+      } else if (monthlyCount > 0) {
+        countEl.textContent = `${monthlyCount}`;
+        document.getElementById('sticky-text').innerHTML =
+          '<strong>We\'re building in public!</strong> <span id="sticky-update-count-wrap" style="display:inline"><span id="sticky-update-count">' + monthlyCount + '</span> updates in the last 30 days</span>';
+      } else {
+        // Genuinely quiet — honest, non-contradictory messaging.
+        document.getElementById('sticky-text').innerHTML =
+          '<strong>We\'re building in public!</strong> See our full progress history.';
+      }
     } else {
       document.getElementById('sticky-update-count').textContent = 'several';
     }
