@@ -430,6 +430,6 @@ Questions to ask:
 ---
 
 **Questions? Need help?**
-📧 privacy@3mpwrapp.ca
+📧 empowrapp08162025@gmail.com
 
 *Last updated: April 15, 2026 | Based on 98,992 ONWSIAT decisions (2020-2026)*

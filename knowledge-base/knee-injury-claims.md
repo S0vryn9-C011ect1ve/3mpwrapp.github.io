@@ -658,6 +658,6 @@ A: **NO.** Employer can dispute, but WSIB makes the decision (not employer). Emp
 ---
 
 **Questions? Need help?**
-📧 privacy@3mpwrapp.ca
+📧 empowrapp08162025@gmail.com
 
 *Last updated: April 15, 2026 | Based on 98,992 ONWSIAT decisions (2020-2026)*

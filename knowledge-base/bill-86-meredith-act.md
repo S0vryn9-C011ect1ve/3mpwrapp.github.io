@@ -418,8 +418,8 @@ Even though Bill 86 didn't pass, you can cite it to show:
 - Workers' Health & Safety Legal Clinic: 1-877-832-6090
 
 **For advocacy:**
-- Thunder Bay Injured Workers Support Group: privacy@3mpwrapp.ca
-- 3mpwrApp Community: privacy@3mpwrapp.ca
+- Thunder Bay Injured Workers Support Group: empowrapp08162025@gmail.com
+- 3mpwrApp Community: empowrapp08162025@gmail.com
 
 **For mental health support:**
 - Ontario Injured Workers' Helpline: 1-800-661-2347

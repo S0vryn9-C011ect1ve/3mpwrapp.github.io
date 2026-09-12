@@ -184,6 +184,6 @@ Based on our analysis of **137,252 tribunal decisions** (2020-2026):
 
 ## Questions?
 
-**📧 Email:** privacy@3mpwrapp.ca  
+**📧 Email:** empowrapp08162025@gmail.com  
 **🔗 Mastodon:** [@3mpwrApp@mastodon.social](https://mastodon.social/@3mpwrApp)  
 **🔗 Bluesky:** [@3mpwrapp.bsky.social](https://bsky.app/profile/3mpwrapp.bsky.social)

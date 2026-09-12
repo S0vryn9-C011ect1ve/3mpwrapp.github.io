@@ -342,7 +342,7 @@ If employer requires medical assessment:
 - Practical resources for navigating tribunals
 - Research on access to justice issues
 
-**Contact:** privacy@3mpwrapp.ca
+**Contact:** empowrapp08162025@gmail.com
 
 **How they can help:**
 - Understanding tribunal procedures
@@ -406,7 +406,7 @@ If employer requires medical assessment:
 
 - **National Self-Represented Litigants Project (NSRLP)**  
   University of Windsor Faculty of Law  
-  Email: privacy@3mpwrapp.ca
+  Email: empowrapp08162025@gmail.com
 
 - **WorkSafeBC** (BC claim suppression enforcement)
 
