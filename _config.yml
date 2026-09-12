@@ -11,9 +11,9 @@ theme: minima
 header_pages:
   - about.md
   - demo/index.md
-  - features.md
-  - user-guide.md
-  - beta-testers-guide.md
+  - features/index.md
+  - user-guide/index.md
+  - beta-guide/index.md
   - research.md
   - faq.md
   - accessibility.md

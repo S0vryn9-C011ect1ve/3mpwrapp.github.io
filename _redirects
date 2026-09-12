@@ -35,15 +35,13 @@ https://www.3mpwrapp.ca/* https://3mpwrapp.ca/:splat 301!
 # New feature / user-guide / beta pages (2026-09-12)
 /features /features/ 200
 /user-guide /user-guide/ 200
-/beta-testers-guide /beta-testers-guide/ 200
+/beta-testers-guide /beta-guide/ 200
 
 # Dead-link fixes (audit 2026-09-12)
 /beta-signup /app-waitlist/ 200
 /beta-signup/ /app-waitlist/ 200
 /reports /support/ 200
 /reports/ /support/ 200
-/beta-guide /user-guide/ 200
-/beta-guide/ /user-guide/ 200
 
 # Old community-guidelines path → new code-of-conduct (cache-bust redirect)
 /community/guidelines /code-of-conduct/ 301

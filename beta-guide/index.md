@@ -3,7 +3,7 @@ layout: default
 title: 3MPWRAPP Beta Testers Guide - Test & Report Issues
 description: Complete guide for beta testing 3MPWRAPP by the disability community. Learn what to test, how to report bugs, accessibility testing, and feature evaluation. Help shape Canada's platform for injured workers, persons with disabilities, and advocates.
 version: 2.0 (Complete Rewrite - May 2026)
-lastUpdated: 2026-05-20
+lastUpdated: 2026-09-12
 accessibility: WCAG 2.2 AAA - fully readable in light, dark, and high contrast modes
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: 3MPWRAPP User Guide - Complete Step-by-Step Tutorials
 description: Step-by-step tutorials for all 3MPWRAPP features for the disability community. Learn accessibility options and common workflows. Built by and for injured workers, persons with disabilities, advocates, and supporters.
 version: 3.0 (Complete Rewrite - May 2026)
-lastUpdated: 2026-05-20
+lastUpdated: 2026-09-12
 accessibility: WCAG 2.2 AAA - fully readable in light, dark, and high contrast modes
 ---
 
