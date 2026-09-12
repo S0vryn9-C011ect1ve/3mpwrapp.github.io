@@ -2,16 +2,9 @@
 layout: default
 title: Accessibility Statement
 description: Our commitment to inclusive accessible design
-permalink: /accessibility
+permalink: /accessibility/
 ---
 
-
----
-layout: default
-title: Accessibility Statement
-description: Our commitment to inclusive accessible design
-permalink: /accessibility
----
 
 <!-- Complexity Mode Toggle -->
 {%- include complexity-toggle.html -%}

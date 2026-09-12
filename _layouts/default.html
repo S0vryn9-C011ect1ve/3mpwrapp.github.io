@@ -2,7 +2,6 @@
 <html lang="{{ page.lang | default: 'en' }}"{% if page.lang == 'ar' %} dir="rtl"{% endif %}>
 <head>
   <meta charset="UTF-8">
-  <title>{{ page.title }} | {{ site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
   <meta name="description" content="{{ page.description | default: site.description }}">
   
@@ -297,7 +296,7 @@
   </nav>
 
   <main id="main-content" tabindex="-1">
-    <h1 class="visually-hidden">{{ page.title | default: site.title }}</h1>
+    <h1 style="display:none">{{ page.title | default: site.title }}</h1>
     {{ content }}
   </main>
 

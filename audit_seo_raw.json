@@ -1,0 +1,137 @@
+{
+  "https://3mpwrapp.ca/": {
+    "len": 88917,
+    "title": "3mpwrApp - Community Support for Injured Workers & Persons with Disabilities | 3mpwrApp\u2122",
+    "titleLen": 88,
+    "desc": "Free community-powered platform connecting injured workers, persons with disabilities, and allies. Tools, resources, and support for disability rights and advocacy.",
+    "descLen": 164,
+    "og": 30,
+    "tw": 18,
+    "jsonld": 4,
+    "h1": 2,
+    "h1txt": [
+      "3mpwrApp - Community Support for Injured Workers & Persons with Disabilities",
+      "Tools, Support &amp; Community \u2014 All in One Place"
+    ],
+    "h2": 19,
+    "imgs": 4,
+    "noalt": 0
+  },
+  "https://3mpwrapp.ca/privacy/": {
+    "len": 52226,
+    "title": "Privacy Policy | 3mpwrApp\u2122",
+    "titleLen": 26,
+    "desc": "How 3mpwrApp collects, protects, and respects your data \u2014 built on 100% user data ownership.",
+    "descLen": 92,
+    "og": 30,
+    "tw": 18,
+    "jsonld": 4,
+    "h1": 2,
+    "h1txt": [
+      "Privacy Policy",
+      "\ud83d\udd10 Privacy Policy"
+    ],
+    "h2": 17,
+    "imgs": 2,
+    "noalt": 0
+  },
+  "https://3mpwrapp.ca/terms/": {
+    "len": 47515,
+    "title": "Terms of Service | 3mpwrApp\u2122",
+    "titleLen": 28,
+    "desc": "Terms of use for 3mpwrApp \u2014 free community tools for injured workers and persons with disabilities.",
+    "descLen": 99,
+    "og": 30,
+    "tw": 18,
+    "jsonld": 4,
+    "h1": 2,
+    "h1txt": [
+      "Terms of Service",
+      "\ud83d\udcdc Terms of Service"
+    ],
+    "h2": 19,
+    "imgs": 2,
+    "noalt": 0
+  },
+  "https://3mpwrapp.ca/code-of-conduct/": {
+    "len": 54939,
+    "title": "Community Guidelines | 3mpwrApp\u2122",
+    "titleLen": 32,
+    "desc": "Community standards for a safe, respectful, trauma-informed space. Rules for peer support, privacy protection, and inclusive advocacy.",
+    "descLen": 134,
+    "og": 30,
+    "tw": 18,
+    "jsonld": 4,
+    "h1": 2,
+    "h1txt": [
+      "Community Guidelines",
+      "3mpwrApp \u2014 Community Guidelines"
+    ],
+    "h2": 19,
+    "imgs": 2,
+    "noalt": 0
+  },
+  "https://3mpwrapp.ca/data-ownership/": {
+    "len": 57769,
+    "title": "Data Ownership Statement | 3mpwrApp\u2122",
+    "titleLen": 36,
+    "desc": "Our unwavering commitment to 100% user data ownership and sovereignty.",
+    "descLen": 70,
+    "og": 30,
+    "tw": 18,
+    "jsonld": 4,
+    "h1": 2,
+    "h1txt": [
+      "Data Ownership Statement",
+      "3mpwrApp \u2014 Data Ownership and Security Statement"
+    ],
+    "h2": 18,
+    "imgs": 2,
+    "noalt": 0
+  },
+  "https://3mpwrapp.ca/faq/": {
+    "len": 67177,
+    "title": "3MPWRAPP FAQ - Frequently Asked Questions | 3mpwrApp\u2122",
+    "titleLen": 53,
+    "desc": "Answers to common questions about 3MPWRAPP for the disability community. Learn about accessibility, privacy, troubleshooting, features, and beta testing. Built for injured workers, persons with disabilities, advocates, a",
+    "descLen": 234,
+    "og": 30,
+    "tw": 18,
+    "jsonld": 4,
+    "h1": 2,
+    "h1txt": [
+      "3MPWRAPP FAQ - Frequently Asked Questions",
+      "3MPWRAPP FAQ"
+    ],
+    "h2": 17,
+    "imgs": 2,
+    "noalt": 0
+  },
+  "https://3mpwrapp.ca/accessibility": {
+    "error": "HTTP Error 308: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nPermanent Redirect"
+  },
+  "https://3mpwrapp.ca/app-tour/": {
+    "error": "HTTP Error 404: Not Found"
+  },
+  "https://3mpwrapp.ca/contact": {
+    "error": "HTTP Error 308: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nPermanent Redirect"
+  },
+  "https://3mpwrapp.ca/support": {
+    "len": 51027,
+    "title": "Support 3mpwrApp | 3mpwrApp\u2122",
+    "titleLen": 28,
+    "desc": "Help keep 3mpwrApp 100% free forever. Transparent operating costs and donation options.",
+    "descLen": 87,
+    "og": 30,
+    "tw": 18,
+    "jsonld": 4,
+    "h1": 2,
+    "h1txt": [
+      "Support 3mpwrApp",
+      "Support 3mpwrApp - Keep It Free Forever"
+    ],
+    "h2": 14,
+    "imgs": 2,
+    "noalt": 0
+  }
+}
