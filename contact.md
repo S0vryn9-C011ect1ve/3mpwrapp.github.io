@@ -2,7 +2,7 @@
 layout: default
 title: Contact Us
 description: Get in touch with the 3mpwr team for questions, feedback, or collaboration opportunities.
-permalink: /contact
+permalink: /contact/
 ---
 
 
