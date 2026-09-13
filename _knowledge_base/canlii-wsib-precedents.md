@@ -19,11 +19,14 @@ Key tribunal decisions from CanLII that shape workers' compensation rights in On
 - **Why it matters:** Major precedent limiting WSIB overreach; affirms recovery-from-injury is not a criminal act
 - **Source:** injuredworkersonline.org/appeal-court-stops-wsib-criminalization-of-injured-workers-recovery-from-injury/
 
-### 2. WSIAT 2026 ONWSIAT 345 — Redetermination Powers
-- **Holding:** WSIAT *can* redetermine benefit entitlement on review
+### 2. WSIAT 2026 ONWSIAT 345 — "Competitively Unemployable" Gap + Redetermination
+- **Citation:** Decision No. 152/26, 2026 ONWSIAT 345 (CanLII) — M. Lai (Vice-Chair), G. Burkett, M. Ferrari; dated 2026-03-27
+- **Holding:** WSIAT *can* redetermine benefit entitlement on review, and granted the worker **full LOE benefits from the effective date of the final LOE review to age 65**
+- **⚠️ Key gap:** The phrase **"competitively unemployable"** appears in WSIAT decisions but is **NOT defined or addressed in the WSIA or in WSIB policy**. The Panel still accepted, on the balance of probabilities, that the worker was unlikely to find suitable employment given her physical limitations, diminished psychological functioning, and other vocational factors.
+- **Why it matters:** Workers (and adjudicators) cannot point to a statutory or policy definition of "competitively unemployable" — the outcome turns on Panel discretion and the evidence on file, not a fixed test. Document vocational factors explicitly.
 - **Caveat:** The **6-month appeal deadline is strict** and evidence quality decides the outcome
 - **Source:** https://www.canlii.org/en/on/onwsiat/doc/2026/2026onwsiat345/2026onwsiat345.html
-- **Action tip:** File within 6 months; submit complete medical evidence (per *J.T. v WCAT, 2024* — tribunals rely on incomplete assessments when docs are missing)
+- **Action tip:** File within 6 months; submit complete medical + vocational evidence (per *J.T. v WCAT, 2024* — tribunals rely on incomplete assessments when docs are missing)
 
 ### 3. WSIB Lock-In & Bill 105
 - See [Bill 105 Knowledge Base article](/knowledge-base/bill-105-wsib-lockin/) — removal of the 72-month protection is the active fight
