@@ -1,8 +1,28 @@
 {
   "year": 2026,
   "version": "1.0",
-  "lastUpdated": "2026-09-12T07:36:32.000Z",
+  "lastUpdated": "2026-09-13T05:45:09.000Z",
   "entries": [
+    {
+      "id": "wn-post-2026-09-13-bill-86-meredith-act",
+      "title": "New KB Article — Bill 86 (Meredith Act)",
+      "summary": "We added a new knowledge base article on Bill 86 (the Meredith Act) — Ontario's 2023 attempted comprehensive worker-comp reform that was shu",
+      "date": "2026-09-13T13:10:00-04:00",
+      "category": "system",
+      "repo": "website",
+      "commitSha": "eee0536",
+      "archived": false
+    },
+    {
+      "id": "wn-post-2026-09-13-bill-105-kb-sources",
+      "title": "Bill 105 KB Updated with 10 Advocacy Sources",
+      "summary": "We expanded the Bill 105 (WSIB lock-in removal) knowledge base to surface the key concern from each advocacy source — CBC, OPSEU, Ontario ND",
+      "date": "2026-09-13T12:45:00-04:00",
+      "category": "system",
+      "repo": "website",
+      "commitSha": "9a784c6",
+      "archived": false
+    },
     {
       "id": "wn-draft-7f341aae",
       "title": "The app and website are now easier to read, with cleaner legal pages and a knowledge base that explains your rights in p",
@@ -134,16 +154,6 @@
       "archived": false
     },
     {
-      "id": "wn-2026-09-11-d17e2d",
-      "title": "feat(curator): Daily curation 2026-09-11 - automated content aggregation",
-      "summary": "feat(curator): Daily curation 2026-09-11 - automated content aggregation",
-      "date": "2026-09-11T16:04:32Z",
-      "category": "feature",
-      "repo": "website",
-      "commitSha": "d17e2d16e672e91cb422a7f16c5992b1b72b0336",
-      "archived": false
-    },
-    {
       "id": "wn-2026-09-11-eb6962",
       "title": "add TBDIWSG public meeting Sep 14 2026 (OPSEU Hall)",
       "summary": "add TBDIWSG public meeting Sep 14 2026 (OPSEU Hall)",
@@ -211,6 +221,16 @@
       "category": "security",
       "repo": "website",
       "commitSha": "0e76ef1397d531cf8fa7a8901f24c1ed339a1c17",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-11-d17e2d",
+      "title": "feat(curator): Daily curation 2026-09-11 - automated content aggregation",
+      "summary": "feat(curator): Daily curation 2026-09-11 - automated content aggregation",
+      "date": "2026-09-11T16:04:32Z",
+      "category": "feature",
+      "repo": "website",
+      "commitSha": "d17e2d16e672e91cb422a7f16c5992b1b72b0336",
       "archived": false
     },
     {
