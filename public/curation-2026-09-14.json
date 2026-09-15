@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-14",
+  "timestamp": "2026-09-14T17:53:45.057Z",
+  "count": 4,
+  "minScore": 3.5,
+  "items": [
+    {
+      "title": "The Disability Bulletin",
+      "link": "https://linktr.ee/thedisabilitybulletin",
+      "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
+      "score": 10,
+      "pubDate": "2026-09-14T17:53:45.054Z"
+    },
+    {
+      "title": "Cory Doctorow Headlines BC Policy Solutions Gala",
+      "link": "https://thetyee.ca/Presents/2026/09/14/Cory-Doctorow-BC-Policy-Solutions-Gala/",
+      "description": "‘Breaking free from the US tech grip’: The bestselling author and activist keynotes the organization’s first-ever fundraiser Nov. 12 in Vancouver.",
+      "score": 7,
+      "pubDate": "Mon, 14 Sep 2026 07:30:00 +0000"
+    },
+    {
+      "title": "Manitoba Government Champions Major Agricultural Projects",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75299",
+      "description": "",
+      "score": 7.5,
+      "pubDate": "Mon, 14 Sep 2026 12:19:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Announces Tax Exemption on Major Capital Investments to Build Port of Churchill Plus",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75298",
+      "description": "",
+      "score": 7.5,
+      "pubDate": "Mon, 14 Sep 2026 10:24:00 CDT"
+    }
+  ]
+}

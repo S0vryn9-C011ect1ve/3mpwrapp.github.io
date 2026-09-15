@@ -1,0 +1,78 @@
+{
+  "date": "2026-09-13",
+  "timestamp": "2026-09-13T15:48:24.352Z",
+  "count": 10,
+  "minScore": 3.5,
+  "items": [
+    {
+      "title": "The Disability Bulletin",
+      "link": "https://linktr.ee/thedisabilitybulletin",
+      "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
+      "score": 10,
+      "pubDate": "2026-09-13T15:48:24.349Z"
+    },
+    {
+      "title": "Manitoba Government Appoints New India Trade Representative, Announces Export Supports for Manitoba Businesses",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75177",
+      "description": "",
+      "score": 11.5,
+      "pubDate": "Fri, 04 Sep 2026 12:34:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Supporting Livestock Producers with Lower Costs, Stronger Protections",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75017",
+      "description": "",
+      "score": 11.5,
+      "pubDate": "Wed, 26 Aug 2026 15:14:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Provides $50,000 to Support Nepal Flood Relief",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75198",
+      "description": "",
+      "score": 9.5,
+      "pubDate": "Fri, 04 Sep 2026 15:05:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Invests $205,000 to Support Food Security for Seniors",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75058",
+      "description": "",
+      "score": 9.5,
+      "pubDate": "Fri, 28 Aug 2026 14:50:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Announces More Than $100 Million in Tariff Supports",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75057",
+      "description": "",
+      "score": 9.5,
+      "pubDate": "Fri, 28 Aug 2026 14:15:00 CDT"
+    },
+    {
+      "title": "Province Rolls Out New Health and Physical Education Curriculum to Make Manitoba Kids Healthier",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75037",
+      "description": "",
+      "score": 8.5,
+      "pubDate": "Thu, 27 Aug 2026 13:22:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Announces New Provincial Park Licence Plate Will Feature Iconic Loon",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75199",
+      "description": "",
+      "score": 7.5,
+      "pubDate": "Fri, 04 Sep 2026 16:15:00 CDT"
+    },
+    {
+      "title": "Manitoba Government and City of Winnipeg Unite Behind Development of Provincewide Economic Development Agency",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75018",
+      "description": "",
+      "score": 7.5,
+      "pubDate": "Thu, 27 Aug 2026 09:10:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Invests $100,000 in Winnipeg Pickleball Courts",
+      "link": "https://news.gov.mb.ca/news/index.html?item=74997",
+      "description": "",
+      "score": 7.5,
+      "pubDate": "Wed, 26 Aug 2026 16:15:00 CDT"
+    }
+  ]
+}
