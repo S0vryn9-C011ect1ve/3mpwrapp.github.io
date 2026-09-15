@@ -7,8 +7,10 @@ tags: [legal-intelligence, onca, appellate-research]
 categories: [community-updates, research]
 redirect_from:
   - /blog/2026/05/08/onca-precedent-overview/
-excerpt: "Analysis of 5,034 Ontario Court of Appeal decisions (2020-2026) reveals 20.3% appeal dismissal rate, 11.7% costs decisions, and 58.1% unknown/procedural outcomes. Zero direct workplace injury appeals found, confirming ONCA's role as a precedent layer, not a tribunal success-rate dataset."
+excerpt: "Analysis of 5,034 Ontario Court of Appeal decisions (2020-2026) reveals 20.3% appeal dismissal rate, 11.7% costs decisions, and 16.5% unknown/procedural outcomes (residual bucket; actual outcome field: Unknown 11.1% / Procedural 5.3%). Zero direct workplace injury appeals found, confirming ONCA's role as a precedent layer, not a tribunal success-rate dataset."
 ---
+
+> **📋 ACCURACY AUDIT — 2026-09-15.** Outcome classification re-verified against committed `data/tribunal-decisions/onca-YYYY-complete.json` (5,034 records, 2020–2026). The original "58.1% unknown/procedural" headline figure is a **computed residual**, not a measured class: real `outcome` values are Unknown=560 (11.1%) + Procedural=269 (5.3%) → **16.5% combined**. The 2,926 "Unknown/Procedural" row in the table below is the catch-all residual bucket (5,034 − all named outcome rows). Verified against `references/onca-verification.md`.
 
 # Ontario Court of Appeal (ONCA) Precedent Overview: 5,034 Decisions Analyzed
 
@@ -60,7 +62,7 @@ The Ontario Court of Appeal is **not** a tribunal success-rate dataset. It's a *
 
 | Outcome Type | Cases | % of Total | What It Means |
 |--------------|-------|------------|---------------|
-| **Unknown/Procedural** | 2,926 | 58.1% | Other/unspecified outcomes — residual bucket (not a measured "unknown" classification; actual outcome field: Unknown 560 / Procedural 269) |
+| **Unknown/Procedural** | 829 | 16.5% | Residual catch-all bucket (not a measured "unknown" classification; actual outcome field: Unknown 560 = 11.1% + Procedural 269 = 5.3%) |
 | **Appeal Dismissed** | 1,023 | 20.3% | Lower court/tribunal decision upheld |
 | **Costs Decision** | 590 | 11.7% | Decisions about who pays legal fees |
 | **Appeal Allowed** | 156 | 3.1% | Lower court/tribunal decision overturned |
@@ -367,7 +369,7 @@ ONCA precedents become useful when:
 - Unknown category includes decisions without clear outcome classification
 
 **Limitations:**
-- 58.1% of decisions have unknown/unclassified outcomes
+- 16.5% of decisions have unknown/procedural outcomes (residual bucket; actual outcome field: Unknown 560 + Procedural 269)
 - Only captures publicly available decisions on CanLII
 - Not all ONCA decisions may be published online
 

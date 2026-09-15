@@ -8,6 +8,8 @@ tags: [ONSBT, disability-rights, access-to-justice, ODSP, vulnerable-communities
 excerpt: "Comprehensive analysis of 13,798 ONSBT tribunal decisions over seven years reveals systemic patterns in disability eligibility determination, data accessibility gaps, and structural barriers to justice for marginalized populations."
 ---
 
+> **📋 ACCURACY AUDIT — 2026-09-15.** The claim "95%+ of ONSBT decisions have outcome fields marked 'Unknown'" is **FALSE** against committed data: only **734 of 13,798 = 5.3%** are Unknown. The remaining 94.7% are classified (Reconsideration 7,601 · Application Deficiency 2,668 · Costs Decision 1,089 · Procedural 983 · Allowed 381 · Dismissed 263 · …). The "95% Unknown" figure contradicted the JSON it references and has been corrected. Outcome fields are keyword/similarity-inferred — see `references/onsbt-verification.md`.
+
 ## See Also
 
 **ONSBT Resources:**
@@ -105,7 +107,7 @@ ONSBT jurisprudence identifies these as *typically* meeting the substantial impa
 
 ### The Core Methodological Problem
 
-**95%+ of ONSBT decisions have outcome fields marked "Unknown."**
+**5.3% of ONSBT decisions have outcome fields marked "Unknown"** (734 of 13,798 — corrected 2026-09-15; prior "95%+" claim contradicted the committed JSON and was a documentation error).
 
 What the data **does not contain**:
 - Whether appeals were granted, dismissed, or partially allowed
