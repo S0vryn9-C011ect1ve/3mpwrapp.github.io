@@ -8,7 +8,7 @@
 
 ## What's Blocked?
 
-### Task 8: Run NLP Classification on All 98,992 WSIAT Decisions
+### Task 8: Run NLP Classification on All 99,036 WSIAT Decisions
 **Script:** `scripts/classify-wsiat-outcomes.mjs` (ready to run)  
 **Purpose:** Use GPT-4 Turbo to classify ALL decision outcomes (allowed/denied/partial/remitted/other/unclear)  
 **Current Problem:** Only 6.1% of decisions have detectable outcomes via keyword matching  
@@ -29,7 +29,7 @@
 ## Cost Breakdown
 
 ```
-Total Decisions:        98,992
+Total Decisions:        99,036
 Cost per Decision:      $0.0075 (GPT-4 Turbo)
 Total Cost:             $742.44
 ```
@@ -79,7 +79,7 @@ node scripts/classify-wsiat-outcomes.mjs --sample
 
 **If accuracy <90%:** Stop, review prompts, adjust temperature, retry
 
-### Step 3: Run Full Classification (98,992 decisions)
+### Step 3: Run Full Classification (99,036 decisions)
 
 ```bash
 node scripts/classify-wsiat-outcomes.mjs --full
@@ -124,13 +124,13 @@ npx wrangler pages deploy _site --project-name=3mpwrapp --branch=main --commit-d
 ## What Changes After NLP?
 
 ### Current State (Keyword Matching - 6.1% coverage):
-- ✅ "We analyzed 98,992 WSIAT decisions"
+- ✅ "We analyzed 99,036 WSIAT decisions"
 - ⚠️ "Only 12.0% detected success rate (limited by keyword coverage)"
 - ⚠️ "93.9% of decisions lack clear outcome keywords"
 - ⚠️ "True rate likely 40-70% per advocacy groups"
 
 ### After NLP (100% coverage):
-- ✅ "We analyzed 98,992 WSIAT decisions with AI classification"
+- ✅ "We analyzed 99,036 WSIAT decisions with AI classification"
 - ✅ "True success rate: 45.3%" (or whatever NLP reveals)
 - ✅ "Success rates by year: 2016: 42.1%, 2021: 48.7%, 2025: 43.9%"
 - ✅ "Chronic pain appeals: 38.2% success vs back injuries: 51.4%"
@@ -211,7 +211,7 @@ npx wrangler pages deploy _site --project-name=3mpwrapp --branch=main --commit-d
 
 | Metric | Current (6.1%) | After NLP (100%) | Improvement |
 |--------|----------------|------------------|-------------|
-| **Coverage** | 6,040 decisions | 98,992 decisions | 16.4× more data |
+| **Coverage** | 6,040 decisions | 99,036 decisions | 16.4× more data |
 | **Success Rate** | 12.0% (detected) | 45.3% (true) | 3.8× higher |
 | **Yearly Trends** | Unreliable | Statistically significant | Policy shift detection |
 | **Injury Patterns** | Counts only | Success rate by injury | Actionable insights |

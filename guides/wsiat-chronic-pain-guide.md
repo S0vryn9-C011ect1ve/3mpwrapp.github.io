@@ -7,7 +7,7 @@ permalink: /guides/wsiat-chronic-pain-claims/
 
 # Chronic Pain Guide: WSIAT Appeals Strategy
 
-**Based on 98,992 WSIAT decisions (2020-2026) with v3.0 ML classification - Updated May 15, 2026**
+**Based on 99,036 WSIAT decisions (2020-2026) with v3.0 ML classification - Updated May 15, 2026**
 
 > **📊 Data Update:** v3.0 classification complete. 83.4% of WSIAT cases now classified (16.6% unknown). Chronic pain patterns identified through cross-tribunal similarity matching.
 
@@ -327,7 +327,7 @@ Based on our 6,876 chronic pain decision analysis:
 
 This guide is based on:
 - 6,876 WSIAT decisions mentioning chronic pain (1987-2026)
-- 98,992 total WSIAT decisions analyzed
+- 99,036 total WSIAT decisions analyzed
 - Official WSIAT CSV export from [WSIAT Open Data Portal](https://www.wsiat.ca/en/home/opendata_decisions.html)
 - Pattern analysis generated April 2026
 - Deep-dive co-occurrence analysis: Chronic Pain + NEL (2,101 cases, 2.12%)

@@ -46,7 +46,7 @@ layout: page
 
 ### WSIAT Decisions Bulk Data (3mpwrApp Extraction)
 
-**Dataset:** 98,992 decisions (2016-2025)
+**Dataset:** 99,036 decisions (2016-2025)
 
 **Format:** JSON, CSV available
 
@@ -366,7 +366,7 @@ layout: page
 **Total Records:** 230,392
 
 **Breakdown:**
-- **WSIAT:** 98,992 decisions (2016-2025)
+- **WSIAT:** 99,036 decisions (2016-2025)
 - **NEER:** 91,814 employer records (2017-2020)
 - **CAD-7:** 38,922 employer records (2017-2020)
 - **Premium Rates:** 664 classifications (2016-2020)
@@ -386,7 +386,7 @@ layout: page
 **Data Visualization:** [Cross-Tribunal Success Rates Chart](../cross-tribunal-success-rates.html)
 
 **Key Statistics:**
-- **WSIAT:** 68.7% success rate (98,992 decisions)
+- **WSIAT:** 68.7% success rate (99,036 decisions)
 - **HRTO:** 2.66% final hearing rate (60% settle at mediation)
 - **ONSBT:** 40-60% estimated (limited public data)
 
@@ -424,7 +424,7 @@ layout: page
 - **Purpose:** Extract all 230,392 records from source files
 - **Language:** Node.js (ES modules)
 - **Dependencies:** ExcelJS v4.4.0
-- **Runtime:** 23.4 seconds (98,992 WSIAT + 130,736 employer records)
+- **Runtime:** 23.4 seconds (99,036 WSIAT + 130,736 employer records)
 
 **Key Features:**
 - Dynamic header detection (handles varying CSV structures)
@@ -531,7 +531,7 @@ function validateRecord(record, schema) {
 ### WSIAT Data Quality
 
 ✅ **Strengths:**
-- Complete dataset (98,992 decisions, 100% coverage 2016-2025)
+- Complete dataset (99,036 decisions, 100% coverage 2016-2025)
 - All 8 fields extracted
 - Full decision summaries (text analysis possible)
 - Consistent structure across years

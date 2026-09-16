@@ -25,6 +25,7 @@ Key tribunal decisions from CanLII that shape workers' compensation rights in On
 - **⚠️ Key gap:** The phrase **"competitively unemployable"** appears in WSIAT decisions but is **NOT defined or addressed in the WSIA or in WSIB policy**. The Panel still accepted, on the balance of probabilities, that the worker was unlikely to find suitable employment given her physical limitations, diminished psychological functioning, and other vocational factors.
 - **Why it matters:** Workers (and adjudicators) cannot point to a statutory or policy definition of "competitively unemployable" — the outcome turns on Panel discretion and the evidence on file, not a fixed test. Document vocational factors explicitly.
 - **Caveat:** The **6-month appeal deadline is strict** and evidence quality decides the outcome
+- **[[status: needs-verification]]** (2026-09-16): This citation (2026 ONWSIAT 345, dated 2026-03-27) **could not be verified against the committed WSIAT 2026 corpus**, which holds only 118 records through 2026-03-31. The holding is reported from the original source (injuredworkersonline.org); treat as unverified until cross-checked against the full CanLII WSIAT dataset.
 - **Source:** https://www.canlii.org/en/on/onwsiat/doc/2026/2026onwsiat345/2026onwsiat345.html
 - **Action tip:** File within 6 months; submit complete medical + vocational evidence (per *J.T. v WCAT, 2024* — tribunals rely on incomplete assessments when docs are missing)
 
@@ -64,7 +65,7 @@ The book **_Insurance Bad Faith_ by Gordon G. Hilliker (LexisNexis)** documents 
 
 ## 📊 Pattern Data (3mpwrApp CanLII Corpus)
 
-From **98,992 WSIAT decisions (2020–2026)**:
+From **99,036 WSIAT decisions (2020–2026)**:
 
 | Pattern | Signal | Source |
 |---------|--------|--------|

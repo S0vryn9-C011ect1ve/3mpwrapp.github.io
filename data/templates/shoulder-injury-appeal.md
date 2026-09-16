@@ -19,7 +19,7 @@ This template addresses the most common denial patterns for shoulder injuries:
 - ✅ "Insufficient objective evidence" → Functional baseline + medical opinion
 - ✅ "Degenerative changes on imaging" → Work-accelerated degeneration
 
-**Co-occurring issues (from 98,992 WSIAT decisions):**
+**Co-occurring issues (from 99,036 WSIAT decisions):**
 - NEL + Permanent Impairment: 11,516 cases (expect impairment rating disputes)
 - Pre-existing + SIEF: 3,281 cases (if degeneration argument raised)
 - LOE + Loss of Earnings: 9,167 cases (wage loss often disputed)

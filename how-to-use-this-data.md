@@ -7,7 +7,9 @@ permalink: /how-to-use-this-data/
 
 # How to Use This Data: A Guide for Injured Workers
 
-**You deserve to understand this research.** We analyzed 98,992 workplace injury appeal decisions to help YOU fight for your rights. Here's how to use it.
+**You deserve to understand this research.** We analyzed 99,036 workplace injury appeal decisions to help YOU fight for your rights. Here's how to use it.
+
+> **📊 Data-source note (2026-09-16):** Our working total of **99,036 WSIAT decisions (1987–2026)** is the **CanLII scrape committed to this repo**. A separate **WSIAT Open Data Portal** export reports **98,992** decisions — a 44-record difference (`wsiat-2025.json`'s 44 records are in the CanLII scrape but not the Portal export's bucket). Both describe the same tribunal; we use the CanLII-committed 99,036.
 
 ---
 
@@ -70,7 +72,7 @@ We counted how often each injury type appears in appeals. **If your injury is he
 
 ### What Our Computer Found
 
-Our computer searched 98,992 decisions for words like "allowed" and "denied."
+Our computer searched 99,036 decisions for words like "allowed" and "denied."
 
 **Result: 12.0% success rate**
 
@@ -237,7 +239,7 @@ We wrote detailed guides for common situations.
 
 ### What We Know For Sure
 
-✅ **We analyzed 98,992 real WSIAT decisions** (1987-2026)
+✅ **We analyzed 99,036 real WSIAT decisions** (1987-2026)
 ✅ **We counted 130,736 Ontario employers** in safety programs
 ✅ **We found 10 injury types** and how common each is
 ✅ **We created templates** from real winning cases
@@ -315,4 +317,4 @@ We wrote detailed guides for common situations.
 
 ---
 
-*Last updated: April 30, 2026 | Data source: 98,992 WSIAT decisions (1987-2026)*
+*Last updated: April 30, 2026 | Data source: 99,036 WSIAT decisions (1987-2026)*

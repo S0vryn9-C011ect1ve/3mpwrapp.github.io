@@ -56,19 +56,19 @@ Once I have these 2 CSVs:
 Registered Claims: X
 Allowed Claims: Y
 Denied Claims: X - Y
-WSIAT Appeals: 98,992 (known)
-Appeal Rate: 98,992 / (X - Y) = Z%
-Suppression Gap: (X - Y) - 98,992 = MISSING WORKERS
+WSIAT Appeals: 99,036 (known)
+Appeal Rate: 99,036 / (X - Y) = Z%
+Suppression Gap: (X - Y) - 99,036 = MISSING WORKERS
 ```
 
 **Example:**
 - If 300,000 registered and 200,000 allowed:
   - Denied: 100,000
-  - Appeal Rate: 98,992 / 100,000 = **99%** (almost everyone appeals - unlikely)
+  - Appeal Rate: 99,036 / 100,000 = **99%** (almost everyone appeals - unlikely)
   
 - If 500,000 registered and 300,000 allowed:
   - Denied: 200,000
-  - WSIAT: 98,992 over 40 years = ~2,475/year
+  - WSIAT: 99,036 over 40 years = ~2,475/year
   - Appeal Rate: 2,475 / 200,000 = **1.2%**
   - Suppression Gap: **197,525 workers/year gave up**
 

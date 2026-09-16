@@ -1,7 +1,7 @@
 # WSIAT Data Audit - Verified Statistics (2020-2026)
 
 **Date:** April 16, 2026  
-**Dataset:** 98,992 ONWSIAT decisions  
+**Dataset:** 99,036 ONWSIAT decisions  
 **Source:** `data/analysis/retaliation-patterns-analysis.json`  
 **Method:** Keyword-based analysis of tribunal decision text
 
@@ -10,7 +10,7 @@
 ## ✅ VERIFIED ACCURATE STATISTICS
 
 ### Total Cases
-- **98,992 decisions** analyzed from ONWSIAT (2020-2026)
+- **99,036 decisions** analyzed from ONWSIAT (2020-2026)
 - All publicly available decisions from CanLII
 - Keywords-only analysis (summary text from CanLII API)
 
@@ -200,7 +200,7 @@
 ## ✅ INTEGRITY STATEMENT
 
 **What we have:**
-- 98,992 tribunal decisions analyzed via keyword matching
+- 99,036 tribunal decisions analyzed via keyword matching
 - Conservative minimum estimates of documented issues
 - Transparent methodology with clear limitations
 
@@ -223,7 +223,7 @@
 ```
 data/analysis/retaliation-patterns-analysis.json
 Generated: 2026-04-16T21:23:05.342Z
-Total Cases: 98,992
+Total Cases: 99,036
 ```
 
 **CSV Export:**

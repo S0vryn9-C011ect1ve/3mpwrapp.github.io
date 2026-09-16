@@ -14,7 +14,7 @@ toc: true
 
 # WSIAT Pattern Analysis: Workers Win 63% of Detected Appeals Outcomes
 
-**📅 UPDATED: April 29, 2026** - Enhanced with comprehensive analysis of full WSIAT dataset (98,992 decisions, 1987-2026) from [WSIAT Open Data Portal](https://www.wsiat.ca/en/home/opendata_decisions.html). See [Deep-Dive Report](/docs/WSIAT-DEEP-DIVE-REPORT-2026-04-29) for body part patterns (Back 13,407 cases, Shoulder 5,295), co-occurrence analysis (NEL+Permanent Impairment 11,516), temporal trends, and vice-chair specialization.
+**📅 UPDATED: April 29, 2026** - Enhanced with comprehensive analysis of full WSIAT dataset (99,036 decisions, 1987-2026) from [WSIAT Open Data Portal](https://www.wsiat.ca/en/home/opendata_decisions.html). See [Deep-Dive Report](/docs/WSIAT-DEEP-DIVE-REPORT-2026-04-29) for body part patterns (Back 13,407 cases, Shoulder 5,295), co-occurrence analysis (NEL+Permanent Impairment 11,516), temporal trends, and vice-chair specialization.
 
 ---
 
@@ -34,13 +34,13 @@ toc: true
 - Partial/varied: 17 cases (2.6%)
 - Yet **67.5% (1,349 cases) remain undetected from keywords alone** due to vague/non-outcome keyword labels
 
-✅ **Original baseline: in the CanLII keyword/API dataset, 91.8% of 98,992 tribunal decisions lacked explicit outcome-labeled keywords**  
+✅ **Original baseline: in the CanLII keyword/API dataset, 91.8% of 99,036 tribunal decisions lacked explicit outcome-labeled keywords**  
 - Only 939 cases (8.2%) had clear outcome keywords in original scan  
 - Advanced pattern matching improved detection from 8.2% → 32.5%
 - **In the public materials used for this analysis, we did not find standardized annual outcome-rate tables aligned to CanLII keyword records**
 
 ✅ **1,905 tribunal decisions per year (average)**  
-- Calculated from 98,992 total decisions ÷ 6 years  
+- Calculated from 99,036 total decisions ÷ 6 years  
 - Represents 95%+ of publicly available tribunal decisions  
 - Data source: CanLII database (Canada's Legal Information Institute)
 
@@ -296,7 +296,7 @@ IWH documents 15-50% of eligible injuries go unreported. We apply **conservative
 
 ## Part 4: Vulnerability Patterns (ESTIMATES FROM RESEARCH)
 
-**Note:** The following percentages are ESTIMATES extrapolated from IWH research and Statistics Canada data. They are NOT directly measured from our 98,992-case dataset.
+**Note:** The following percentages are ESTIMATES extrapolated from IWH research and Statistics Canada data. They are NOT directly measured from our 99,036-case dataset.
 
 ### By Employment Type (IWH Research)
 
@@ -427,7 +427,7 @@ This section focuses on community pathways and transparency participation, not d
 ### Data Sources
 
 **Primary data:**
-- 98,992 WSIAT/WSEIB decisions from CanLII (2020-2026)
+- 99,036 WSIAT/WSEIB decisions from CanLII (2020-2026)
 - Analysis scripts: [GitHub repository](https://github.com/S0vryn9-C011ect1ve/3mpwrapp.github.io/tree/main/scripts)
 - Raw data: [GitHub: tribunal-decisions/](https://github.com/S0vryn9-C011ect1ve/3mpwrapp.github.io/tree/main/data/tribunal-decisions)
 
@@ -451,7 +451,7 @@ This section focuses on community pathways and transparency participation, not d
 - Vulnerability patterns (IWH research extrapolated to Ontario demographics)
 
 **Strength of evidence hierarchy:**
-1. **Strongest:** Measured from 98,992 decisions (outcome obscurity, tribunal volumes)
+1. **Strongest:** Measured from 99,036 decisions (outcome obscurity, tribunal volumes)
 2. **Strong:** Peer-reviewed research (IWH suppression meta-analysis)
 3. **Moderate:** Government surveillance (Public Health Ontario injury rates)
 4. **Weaker:** Extrapolation to Ontario (applying Canada-wide research)
@@ -475,7 +475,7 @@ This section focuses on community pathways and transparency participation, not d
 ## Related Research
 
 **Previous 3mpwrApp Analysis:**
-- [WSIB Pattern Analysis: Statistical Evidence](https://3mpwrapp.ca/blog/2026/04/15/wsib-exposed-statistical-evidence-proves-systematic-manipulation/) - Analysis of 98,992 cases
+- [WSIB Pattern Analysis: Statistical Evidence](https://3mpwrapp.ca/blog/2026/04/15/wsib-exposed-statistical-evidence-proves-systematic-manipulation/) - Analysis of 99,036 cases
 - [Hidden Language of Denial: Keyword Decoder](https://3mpwrapp.ca/blog/2026/04/22/hidden-language-of-denial-wsib-keyword-decoder/) - Decode denial letters
 - [Research Hub: Guides & Templates](https://3mpwrapp.ca/research.html) - 16 injury guides, 50+ appeal templates
 

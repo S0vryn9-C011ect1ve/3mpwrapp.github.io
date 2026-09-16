@@ -48,7 +48,7 @@
 
 **Key Statistics:**
 - **Total Rows:** 73
-- **WSIAT Comparison:** 471 mental health cases (PTSD 159 + Psychotraumatic 312 = 0.48% of 98,992 decisions)
+- **WSIAT Comparison:** 471 mental health cases (PTSD 159 + Psychotraumatic 312 = 0.48% of 99,036 decisions)
 
 **Analysis:** Mental health claims severely underrepresented at WSIAT, suggesting massive suppression at WSIB initial decision stage.
 
@@ -148,7 +148,7 @@ Registered Claims (filed with WSIB)
 - Allowed Claims (approved by WSIB)
 = Denied Claims
 
-WSIAT Appeals (98,992 over 40 years = ~2,475/year)
+WSIAT Appeals (99,036 over 40 years = ~2,475/year)
 / Denied Claims
 = Appeal Rate (hypothesized 1-3%)
 
@@ -172,7 +172,7 @@ Denied Claims - WSIAT Appeals
 **Summary:**
 | Tribunal | Total Decisions | Success Rate | Abandonment Rate | Data Quality |
 |----------|----------------|--------------|------------------|--------------|
-| WSIAT | 98,992 | 65-73% | 0.5% | Excellent - Full text |
+| WSIAT | 99,036 | 65-73% | 0.5% | Excellent - Full text |
 | HRTO | 62,093 final | 2.66% | Unknown | Good - Quarterly reports |
 | ONSBT | 292 extracted | Unknown | Unknown | Fair - Formula issues |
 | WSIB | Pending Registered/Allowed | N/A | Pending | Good - Open Data |

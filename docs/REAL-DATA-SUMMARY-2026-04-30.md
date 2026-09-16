@@ -6,7 +6,7 @@
 
 ## 📊 Key Statistics for Guides & Templates
 
-### WSIAT Appeals (98,992 Decisions, 1987-2026)
+### WSIAT Appeals (99,036 Decisions, 1987-2026)
 
 **Success Rate - IMPORTANT CAVEAT:**
 - **Detected Success Rate:** 12.0% (726 allowed / 6,040 with detectable outcomes)
@@ -27,9 +27,9 @@
 | 2023 | 1,994 | 13 | 24 | 17 | 0.7% |
 | 2024 | 1,981 | 19 | 47 | 19 | 1.0% |
 | 2025 | 1,559 | 8 | 60 | 9 | 0.5% |
-| **TOTAL** | **98,992** | **726** | **5,314** | **213** | **12.0%** |
+| **TOTAL** | **99,036** | **726** | **5,314** | **213** | **12.0%** |
 
-### Injury Pattern Analysis (From 98,992 WSIAT Decisions)
+### Injury Pattern Analysis (From 99,036 WSIAT Decisions)
 
 **Top 10 Injury Types (Keyword Matching in Summaries):**
 
@@ -79,7 +79,7 @@
 
 ### When Citing Success Rates:
 ❌ **Don't say:** "68.7% success rate at WSIAT"  
-✅ **Do say:** "Keyword analysis of 98,992 WSIAT decisions detected 12.0% success rate, but 94.9% of decisions lack clear outcome keywords. Independent research suggests actual success rates 60-70%. Real rate unknown due to data limitations."
+✅ **Do say:** "Keyword analysis of 99,036 WSIAT decisions detected 12.0% success rate, but 94.9% of decisions lack clear outcome keywords. Independent research suggests actual success rates 60-70%. Real rate unknown due to data limitations."
 
 ### When Citing Injury Patterns:
 ✅ **Do say:** "Back/spine injuries represent 15.3% of WSIAT appeals (15,177 cases analyzed), making them the most common injury type. Chronic pain (7,502 cases, 7.6%) and mental stress (1,481 cases, 1.5%) often overlap with physical injuries."
@@ -94,7 +94,7 @@
 
 Use these badges in visualizations and guides:
 
-- ✅ **Complete:** 98,992 WSIAT decisions extracted (metadata: DecNum, Date, Keywords, Summary, Vicechair, Members)
+- ✅ **Complete:** 99,036 WSIAT decisions extracted (metadata: DecNum, Date, Keywords, Summary, Vicechair, Members)
 - ⚠️ **Limited:** Success rates based on keyword matching (6.1% coverage)
 - 📊 **Calculated:** Injury patterns derived from keyword frequency analysis
 - 🔄 **Updating:** Data refreshed quarterly from WSIAT Open Data Portal
@@ -129,7 +129,7 @@ Use these badges in visualizations and guides:
 ## 🔍 Known Data Limitations
 
 ### What We DON'T Have:
-1. ❌ True WSIAT success rates (need full-text analysis of all 98,992 decisions)
+1. ❌ True WSIAT success rates (need full-text analysis of all 99,036 decisions)
 2. ❌ Employer rebate/surcharge amounts (field parsing issue)
 3. ❌ Individual HRTO case data (only quarterly aggregates available)
 4. ❌ ONSBT decision data (limited public availability)
@@ -144,7 +144,7 @@ Use these badges in visualizations and guides:
 ## 📊 Source Files Reference
 
 - **Raw Extracted Data:**
-  - `data/comprehensive-extraction/wsiat/wsiat-ultra-complete.json` (98,992 decisions)
+  - `data/comprehensive-extraction/wsiat/wsiat-ultra-complete.json` (99,036 decisions)
   - `data/comprehensive-extraction/neer/neer-ultra-complete.json` (91,814 employers)
   - `data/comprehensive-extraction/cad7/cad7-ultra-complete.json` (38,922 employers)
   - `data/comprehensive-extraction/premium-rates/premium-rates-ultra-complete.json` (664 rate groups)

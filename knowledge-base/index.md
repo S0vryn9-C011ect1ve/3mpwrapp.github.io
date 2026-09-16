@@ -11,7 +11,7 @@ permalink: /knowledge-base/
 
 **Evidence-based research for injured workers, by injured workers.**
 
-Every article below is built from real tribunal decision data — not opinion. Our analysis covers **98,992 WSIB/WSIAT decisions (2020–2026)** and surfaces the patterns WSIB uses to deny claims, so you can build a stronger case.
+Every article below is built from real tribunal decision data — not opinion. Our analysis covers **99,036 WSIB/WSIAT decisions (2020–2026)** and surfaces the patterns WSIB uses to deny claims, so you can build a stronger case.
 
 > 🔎 **How to use this:** Pick your injury or situation. Each guide shows what tribunals actually look for, the denial patterns to expect, and how to respond with evidence.
 
@@ -55,7 +55,7 @@ Every article below is built from real tribunal decision data — not opinion. O
 
 ## 📖 About This Research
 
-- **Source:** Analysis of 98,992 WSIB/WSIAT tribunal decisions (2020–2026).
+- **Source:** Analysis of 99,036 WSIB/WSIAT tribunal decisions (2020–2026).
 - **Methodology:** See [Data Limitations & Methodology](/data-limitations/) for full transparency on how this data was collected and what it can — and cannot — tell you.
 - **Not legal advice:** These guides help you understand patterns and prepare evidence. They are not a substitute for a qualified legal or paralegal representative.
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "WSIAT Appeal Guides - Knowledge Base"
-description: "Evidence-based guides for WSIAT appeals. Based on analysis of 98,992 decisions (1987-2026). NEL, LOE, chronic pain, and more."
+description: "Evidence-based guides for WSIAT appeals. Based on analysis of 99,036 decisions (1987-2026). NEL, LOE, chronic pain, and more."
 permalink: /guides/
 ---
 
@@ -61,7 +61,7 @@ permalink: /guides/
 
 # WSIAT Appeal Guides
 
-**Evidence-based guides built from 98,992 WSIAT decisions analyzed (1987-2026)**
+**Evidence-based guides built from 99,036 WSIAT decisions analyzed (1987-2026)**
 
 ---
 
@@ -154,7 +154,7 @@ We're creating additional guides based on the pattern analysis:
 
 ### Our Methodology
 
-All guides are based on **98,992 WSIAT decisions** analyzed from official CSV export data (1987-2026):
+All guides are based on **99,036 WSIAT decisions** analyzed from official CSV export data (1987-2026):
 
 1. **Pattern Extraction**: Keyword frequency analysis across 40 years
 2. **Temporal Trends**: Peak years, decision volume changes, issue evolution
@@ -227,7 +227,7 @@ Expect 12-24 month wait for WSIAT hearing in busy years.
 
 | Metric | Ontario WSIAT | BC WCAT | Ratio |
 |--------|---------------|---------|-------|
-| **Total Decisions** | 98,992 | 7,386 | 13.4:1 |
+| **Total Decisions** | 99,036 | 7,386 | 13.4:1 |
 | **Year Coverage** | 1987-2026 (40 years) | 2020-2026 (6 years) | 6.7x |
 | **Metadata** | ✅ Keywords, Summaries | ❌ 100% Unknown | ∞ |
 | **Open Data** | ✅ CSV Export | ❌ None | ∞ |
@@ -248,7 +248,7 @@ Expect 12-24 month wait for WSIAT hearing in busy years.
 - **Office of the Worker Adviser (OWA):** [owa.gov.on.ca](https://www.owa.gov.on.ca/)
 
 ### Data & Research
-- **WSIAT Dataset:** [98,992 decisions organized by year](/data/tribunal-decisions/wsiat/decisions-by-year/)
+- **WSIAT Dataset:** [99,036 decisions organized by year](/data/tribunal-decisions/wsiat/decisions-by-year/)
 - **Pattern Analysis:** [Full report with charts and trends](/docs/WSIAT-PATTERN-ANALYSIS-2026-04-29.html)
 - **Deep Dive Report:** [Advanced patterns, co-occurrence, vice-chair specialization](/docs/WSIAT-DEEP-DIVE-REPORT-2026-04-29)
 - **Keyword Network Visualization:** [Interactive network graph](/connecting-the-dots-wsiat-keyword-network.html)
@@ -283,6 +283,6 @@ These guides are for **informational purposes only** and do not constitute legal
 ---
 
 **Last Updated:** April 29, 2026  
-**Data Source:** 98,992 WSIAT decisions (1987-2026) from [WSIAT Open Data Portal](https://www.wsiat.ca/en/home/opendata_decisions.html)  
+**Data Source:** 99,036 WSIAT decisions (1987-2026) from [WSIAT Open Data Portal](https://www.wsiat.ca/en/home/opendata_decisions.html)  
 **Analysis Depth:** 9 advanced pattern categories (keyword co-occurrence, temporal evolution, vice-chair specialization, body parts, medical specialists, policy citations, complexity, outcomes, network visualization)  
 **Next Update:** October 2026 (when new decisions published)

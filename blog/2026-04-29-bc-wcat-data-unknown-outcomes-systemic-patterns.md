@@ -15,7 +15,7 @@ image: /assets/images/bc-wcat-unknown-outcomes-2026-04-29.png
 
 **TL;DR:** We scraped 7,386 BC WCAT decisions and found **100% have unknown outcomes** - worse than Ontario's WSIAT (91.8%). Our beta testers are identifying patterns that suggest systemic fraud and claim suppression. We've asked CanLII for help to expose these abuses.
 
-**⚠️ Status note (2026-07-20):** BC collection was **interrupted by the laptop failure** (2026-07). The blog originally reported **7,386 BC WCAT decisions collected**, but this count is **not present in the committed repository** (only 313 PDF reports/statistics — not decisions — exist under `data/worksafebc/`) and could not be verified after the failure. The linked `bcwcat-scraping-summary.json` does not exist. BC WCAT remains **incomplete and unverified**; Ontario scraping was finished before the failure.
+**✅ Status note (2026-09-16):** BC WCAT collection (**7,386 decisions, 2020–2026**) was **recovered and is now committed to the repository** — `bcwcat-2020-complete.json` through `bcwcat-2026-complete.json` are present, and `bcwcat-scraping-summary.json` confirms `totalCases: 7386`. The data is **verifiable**. Outcome labels remain **keyword-inferred** (CanLII's API lacks structured outcome fields), so the "100% unknown outcomes" figure reflects an API limitation, not a finding about the decisions. (The 2026-07-20 note marked this incomplete during laptop-failure recovery; that is now resolved.)
 
 ---
 
@@ -30,7 +30,7 @@ We just completed our BC tribunal data collection, and the results are worse tha
 
 | Tribunal | Province | Cases | Unknown Outcomes | Rate |
 |----------|----------|-------|------------------|------|
-| **WSIAT** | Ontario | 98,992 | 10,491 | **91.8%** |
+| **WSIAT** | Ontario | 99,036 | 10,491 | **91.8%** |
 | **BC WCAT** | British Columbia | 7,386 | 7,386 | **100.0%** ⚠️ |
 | **ONWSIB** | Ontario | 120 | 112 | **93.3%** |
 | **ONSBT** | Ontario | 818 | 780 | **95.4%** |

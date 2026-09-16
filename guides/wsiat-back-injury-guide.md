@@ -13,7 +13,7 @@ permalink: /guides/wsiat-back-injury-appeals/
 
 ## Why Back Injuries Dominate WSIAT
 
-**15,177 decisions mention back/spine/lumbar keywords** (keyword analysis of 98,992 decisions, 1987-2026) - making back injuries the **single most appealed issue** by body part.
+**15,177 decisions mention back/spine/lumbar keywords** (keyword analysis of 99,036 decisions, 1987-2026) - making back injuries the **single most appealed issue** by body part.
 
 ### Why Back Injury Appeals Are So Common
 
@@ -26,7 +26,7 @@ permalink: /guides/wsiat-back-injury-appeals/
 
 ## Most Common Back Injury Appeal Combinations
 
-Based on keyword co-occurrence analysis of 98,992 decisions:
+Based on keyword co-occurrence analysis of 99,036 decisions:
 
 ### Top 3 Issues That Appear with Back Injuries
 
@@ -159,7 +159,7 @@ Based on keyword co-occurrence analysis of 98,992 decisions:
 
 ## Which Medical Specialists for Back Injuries?
 
-Based on 98,992 decisions analyzed:
+Based on 99,036 decisions analyzed:
 
 **Most Mentioned Specialists:**
 1. **Orthopedic Surgeon** - Surgical spine specialist (most credible for WSIAT)
@@ -256,7 +256,7 @@ Based on 98,992 decisions analyzed:
 
 ---
 
-## Related Patterns from 98,992 Decisions
+## Related Patterns from 99,036 Decisions
 
 ### Co-Occurring Issues with Back Injuries
 
@@ -293,7 +293,7 @@ Based on deep-dive analysis:
 
 This guide is based on:
 - 13,407 WSIAT decisions mentioning back/lumbar/spine (1987-2026)
-- 98,992 total WSIAT decisions analyzed
+- 99,036 total WSIAT decisions analyzed
 - Official WSIAT CSV export from [WSIAT Open Data Portal](https://www.wsiat.ca/en/home/opendata_decisions.html)
 - Keyword co-occurrence patterns (11,516 NEL + Permanent Impairment, 2,101 Chronic Pain + NEL)
 - Deep-dive analysis generated April 2026

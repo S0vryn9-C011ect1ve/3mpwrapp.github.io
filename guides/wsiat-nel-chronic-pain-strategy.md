@@ -134,7 +134,7 @@ permalink: /guides/wsiat-nel-chronic-pain-strategy/
 
 ## Medical Specialists for NEL + Chronic Pain Cases
 
-Based on 98,992 decisions analyzed:
+Based on 99,036 decisions analyzed:
 
 **Most Credible Combination:**
 1. **Orthopedic surgeon or physiatrist** - For underlying injury and impairment rating
@@ -312,7 +312,7 @@ $78,327 × 1.00 × 0.15 = **$11,749**
 
 ---
 
-## Related Patterns from 98,992 Decisions
+## Related Patterns from 99,036 Decisions
 
 ### Co-Occurring Issues
 
@@ -349,7 +349,7 @@ This guide is based on:
 - 2,101 WSIAT decisions involving BOTH chronic pain AND NEL (1987-2026)
 - 20,680 NEL decisions analyzed
 - 6,876 chronic pain decisions analyzed
-- 98,992 total WSIAT decisions
+- 99,036 total WSIAT decisions
 - Official WSIAT CSV export from [WSIAT Open Data Portal](https://www.wsiat.ca/en/home/opendata_decisions.html)
 - Deep-dive co-occurrence analysis
 

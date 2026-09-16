@@ -15,7 +15,7 @@
 **Changes:**
 - ✅ Replaced sample injury prevalence with real data (back 15.3%, hearing 9.7%, chronic pain 7.6%)
 - ✅ Added success rate context (12.0% detected, 60-70% advocacy estimates)
-- ✅ Added data source references (98,992 WSIAT decisions)
+- ✅ Added data source references (99,036 WSIAT decisions)
 - ✅ Used emoji badges (📊 Injury Prevalence, ⚖️ Appeal Success, 📚 Data Source)
 
 **Script:** `scripts/update-templates-with-real-data.mjs`  
@@ -86,7 +86,7 @@
 **Usage:**
 ```bash
 node scripts/classify-wsiat-outcomes.mjs --sample    # Test on 1,000 ($7.50)
-node scripts/classify-wsiat-outcomes.mjs --full      # All 98,992 ($742)
+node scripts/classify-wsiat-outcomes.mjs --full      # All 99,036 ($742)
 node scripts/classify-wsiat-outcomes.mjs --validate  # Analyze existing
 ```
 
@@ -214,7 +214,7 @@ node scripts/classify-wsiat-outcomes.mjs --validate  # Analyze existing
 
 ## ⏸️ What's Blocked ($742 Budget Required)
 
-### Task 8: Run NLP Classification (ALL 98,992 Decisions)
+### Task 8: Run NLP Classification (ALL 99,036 Decisions)
 **Script:** `scripts/classify-wsiat-outcomes.mjs` ✅ Ready  
 **Blocker:** Needs OPENAI_API_KEY + $742 budget  
 **Impact:** Turns 6.1% coverage → 100% coverage  
@@ -323,7 +323,7 @@ node scripts/classify-wsiat-outcomes.mjs --validate  # Analyze existing
 - ✅ All outputs include data quality badges
 
 ### Data Quality:
-- ✅ 230,392 records extracted (98,992 WSIAT + 91,814 NEER + 38,922 CAD-7 + 664 premium rates)
+- ✅ 230,392 records extracted (99,036 WSIAT + 91,814 NEER + 38,922 CAD-7 + 664 premium rates)
 - ✅ 6.1% outcome coverage (keyword matching)
 - ✅ 39.9% injury detection coverage
 - ✅ 100% coverage after NLP (when budget available)
@@ -339,7 +339,7 @@ node scripts/classify-wsiat-outcomes.mjs --validate  # Analyze existing
 - ✅ All limitations documented (data-limitations.md)
 - ✅ All methodology disclosed (extraction, aggregation, analysis)
 - ✅ All estimates labeled as "estimated" (industry correlation)
-- ✅ All data sources cited (98,992 WSIAT decisions, etc.)
+- ✅ All data sources cited (99,036 WSIAT decisions, etc.)
 - ✅ Ethical framework for sensitive analysis (vice-chair patterns)
 
 ---
@@ -372,7 +372,7 @@ See `docs/WHEN-BUDGET-AVAILABLE.md` for:
 **Phase 2 Accomplishments:**
 - ✅ 264 templates updated with real injury data
 - ✅ 3 industry-specific guides (900+ lines combined)
-- ✅ Temporal policy analysis (39 years, 98,992 decisions)
+- ✅ Temporal policy analysis (39 years, 99,036 decisions)
 - ✅ Landmark decisions framework (5 major expansions identified)
 - ✅ Vice-chair analysis framework (ethically sound, pending review)
 - ✅ NLP system designed and implemented (ready for budget)

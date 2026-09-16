@@ -31,7 +31,7 @@ Bill 105 (Ontario) proposes to remove the **72-month "lock-in" period** under th
 
 ## 📊 Evidence Base (from 3mpwrApp CanLII Research)
 
-Our analysis of **98,992 WSIAT decisions (2020–2026)** shows the systemic patterns Bill 105 interacts with:
+Our analysis of **99,036 WSIAT decisions (2020–2026)** shows the systemic patterns Bill 105 interacts with:
 
 - **Termination after claim filing:** 71+ WSIAT cases flagged (conservative keyword minimum)
 - **Benefit reductions decades later:** multiple redetermination rulings show WSIB revisiting long-closed files

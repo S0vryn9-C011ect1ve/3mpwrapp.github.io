@@ -21,7 +21,7 @@ rate_group: "863"
 
 ## 🩺 Top 5 Healthcare Injuries
 
-Based on analysis of 98,992 WSIAT decisions:
+Based on analysis of 99,036 WSIAT decisions:
 
 ### 1. Back & Spine Injuries (25% of healthcare appeals)
 **Estimated 4,950 cases**
@@ -327,7 +327,7 @@ Based on analysis of 98,992 WSIAT decisions:
 ## 📊 Data Source
 
 This guide is based on analysis of:
-- **98,992 WSIAT decisions** (1987-2026)
+- **99,036 WSIAT decisions** (1987-2026)
 - **Ontario workplace injury statistics**
 - **Healthcare sector claim patterns**
 - **Industry-injury correlation analysis**

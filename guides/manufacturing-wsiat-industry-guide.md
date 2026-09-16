@@ -21,7 +21,7 @@ rate_group: "401"
 
 ## 🏭 Top 5 Manufacturing Injuries
 
-Based on analysis of 98,992 WSIAT decisions:
+Based on analysis of 99,036 WSIAT decisions:
 
 ### 1. Repetitive Strain Injuries (20% of manufacturing appeals)
 **Estimated 2,772 cases**
@@ -349,7 +349,7 @@ Based on analysis of 98,992 WSIAT decisions:
 ## 📊 Data Source
 
 This guide is based on analysis of:
-- **98,992 WSIAT decisions** (1987-2026)
+- **99,036 WSIAT decisions** (1987-2026)
 - **Ontario workplace injury statistics**
 - **Manufacturing sector claim patterns**
 - **Industry-injury correlation analysis**

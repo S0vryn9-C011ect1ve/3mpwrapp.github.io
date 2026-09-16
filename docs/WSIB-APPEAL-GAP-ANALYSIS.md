@@ -1,7 +1,7 @@
 # WSIB Appeal Gap Analysis: Comprehensive Research Report
 
 **Document Created:** April 30, 2026  
-**Data Sources:** WSIB Open Data (Registered/Allowed claims 2020-2026), WSIAT Open Data Portal (98,992 decisions)
+**Data Sources:** WSIB Open Data (Registered/Allowed claims 2020-2026), WSIAT Open Data Portal (99,036 decisions)
 
 ---
 
@@ -51,7 +51,7 @@ The data shows WSIAT has a 69% success rate for appeals that are filed, indicati
    - Source: [WSIAT Open Data Portal](https://www.wsiat.ca/en/home/opendata_decisions.html)
    - Downloaded: April 29, 2026
    - File: `wsiatdecisions.csv`
-   - Total decisions: 98,992
+   - Total decisions: 99,036
    - Years covered: 40 years (1987-2026)
    - Average appeals/year: 2,475
 
@@ -180,7 +180,7 @@ The 139,083 workers who don't appeal likely include:
 
 This smoking gun analysis is supported by:
 
-1. ✅ **98,992 WSIAT decisions analyzed** (1987-2026)
+1. ✅ **99,036 WSIAT decisions analyzed** (1987-2026)
    - 69% success rate proves WSIB over-denies
    - 20,680 NEL cases (20.88%)
    - 13,407 back injury cases (13.54%)
@@ -320,7 +320,7 @@ If you are one of the 141,558 workers denied each year:
 All data used in this analysis is available:
 
 1. **wsib-suppression-funnel.json** - Full calculation results
-2. **wsiat-metadata.json** - 98,992 WSIAT decisions summary
+2. **wsiat-metadata.json** - 99,036 WSIAT decisions summary
 3. **hrto-smart-analysis.json** - 62,093 HRTO decisions summary
 4. **cross-tribunal-comparison.json** - Multi-tribunal comparison
 5. **Source CSV files:**

@@ -74,7 +74,7 @@ Major data discovery from **Tribunals Ontario Open Data Portal** revealing syste
 
 | Metric | Value | Comparison to WSIAT |
 |--------|-------|---------------------|
-| **Backlog** | 9,527 cases (doubled in 6 years) | WSIAT: Unknown, but 98,992 historical decisions available |
+| **Backlog** | 9,527 cases (doubled in 6 years) | WSIAT: Unknown, but 99,036 historical decisions available |
 | **Abandonment Rate** | **1,083 dismissals** (374 in 2017/18) = **+190% increase** | WSIAT: 0.5% abandonment |
 | **Dismissals Without Hearing** | **1,380 jurisdictional dismissals** (700 in 2017/18) = **+97% increase** | WSIAT: Rare, full hearings standard |
 | **Substantive Merit Decisions** | **40 decisions** (110 average pre-2018) = **-64% decrease** | WSIAT: 65-73% worker victories |
@@ -111,7 +111,7 @@ Major data discovery from **Tribunals Ontario Open Data Portal** revealing syste
 
 | Tribunal | Jurisdiction | Transparency | Abandonment Rate | Data Access | Outcome Tracking |
 |----------|--------------|--------------|------------------|-------------|------------------|
-| **WSIAT** (ON) | Workers' comp appeals | ✅ **Excellent** | 0.5% | ✅ CSV export (98,992 decisions, 40 years) | ✅ Win/loss tracked |
+| **WSIAT** (ON) | Workers' comp appeals | ✅ **Excellent** | 0.5% | ✅ CSV export (99,036 decisions, 40 years) | ✅ Win/loss tracked |
 | **HRTO** (ON) | Human rights | ⚠️ **Crisis** | 73.5% (2024) | ⚠️ Quarterly XLSX summaries only | ❌ Decision type unclear |
 | **ONSBT** (ON) | Social assistance | ⚠️ **Limited** | Unknown | ⚠️ Appeals received only (no outcomes) | ❌ No outcome data |
 | **BC WCAT** (BC) | Workers' comp appeals | ❌ **Opaque** | Unknown | ❌ 7,386 decisions, 100% unknown outcomes | ❌ No metadata |

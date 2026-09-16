@@ -39,7 +39,7 @@
 
 3. **WSIAT Decisions (1987-2026)**
    - Source: [WSIAT Open Data Portal](https://www.wsiat.ca/en/home/opendata_decisions.html)
-   - Total decisions: **98,992** over 40 years
+   - Total decisions: **99,036** over 40 years
    - Average: 2,475 appeals/year
    - **Success rate: 69%**
 
@@ -293,7 +293,7 @@ Date: April 30, 2026
 SMOKING GUN: 139,083 Ontario workers/year disappear from WSIB system
 
 256 files changed
-- 98,992 WSIAT decisions parsed (40 years, 1987-2026)
+- 99,036 WSIAT decisions parsed (40 years, 1987-2026)
 - 62,093 HRTO decisions parsed (10 years, 2016-2026)
 - Smoking gun analysis: 139,083 suppression gap
 - 5 comprehensive guides (NEL, LOE, Chronic Pain, Back, multi-issue)
@@ -308,9 +308,9 @@ SMOKING GUN: 139,083 Ontario workers/year disappear from WSIB system
 
 ### What We Accomplished
 
-Starting from "I found 98,992 WSIAT decisions on their website," we:
+Starting from "I found 99,036 WSIAT decisions on their website," we:
 
-1. ✅ Downloaded and parsed all 98,992 WSIAT decisions
+1. ✅ Downloaded and parsed all 99,036 WSIAT decisions
 2. ✅ Found 69% success rate (proves WSIB over-denies)
 3. ✅ Converted 101 XLSX files to CSV (HRTO, ONSBT, WSIB Safety Check)
 4. ✅ Parsed 62,093 HRTO decisions (2.66% success rate)

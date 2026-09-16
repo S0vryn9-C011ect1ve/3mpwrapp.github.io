@@ -1,12 +1,12 @@
 # NLP Outcome Classification System Design
-**Goal:** Extract appeal outcomes from 98,992 WSIAT decisions to replace 6.1% keyword coverage with 100% AI-powered classification
+**Goal:** Extract appeal outcomes from 99,036 WSIAT decisions to replace 6.1% keyword coverage with 100% AI-powered classification
 
 ---
 
 ## 1. The Problem
 
 **Current State:**
-- 98,992 WSIAT decisions extracted from CanLII
+- 99,036 WSIAT decisions extracted from CanLII
 - Only 6,040 (6.1%) have detectable outcomes via keyword matching
 - Keywords: "allowed", "denied", "dismissed", "partially allowed"
 - 93.9% (92,952 decisions) have undetectable outcomes
@@ -47,7 +47,7 @@ Legal language varies widely:
 - 128K token context window
 
 **Cons:**
-- Cost: ~$0.01-0.03 per decision = $990-2,970 for 98,992 decisions
+- Cost: ~$0.01-0.03 per decision = $990-2,970 for 99,036 decisions
 - Data leaves Canada (PIPEDA concerns for future expansion)
 - Rate limits (need batching)
 
@@ -56,7 +56,7 @@ Legal language varies widely:
 - Prompt + formatting: ~200 tokens
 - Response: ~50 tokens
 - Total per decision: ~750 tokens
-- Cost: 750 tokens × $0.01/1K = $0.0075 × 98,992 = **$742**
+- Cost: 750 tokens × $0.01/1K = $0.0075 × 99,036 = **$742**
 
 #### Option B: Anthropic Claude 3.5 Sonnet
 **Pros:**
@@ -66,13 +66,13 @@ Legal language varies widely:
 - Canadian data residency options (future)
 
 **Cons:**
-- Cost: ~$0.015 per decision = $1,484 for 98,992 decisions
+- Cost: ~$0.015 per decision = $1,484 for 99,036 decisions
 - Slightly slower than GPT-4
 - Less battle-tested on legal text
 
 **Cost Estimate:**
 - Same token counts as GPT-4
-- Cost: 750 tokens × $0.015/1K = $0.01125 × 98,992 = **$1,113**
+- Cost: 750 tokens × $0.015/1K = $0.01125 × 99,036 = **$1,113**
 
 #### Option C: Local Open-Source Model (e.g., Llama 3.1 70B)
 **Pros:**
@@ -89,7 +89,7 @@ Legal language varies widely:
 
 **Cost Estimate:**
 - RunPod/Vast.ai GPU: ~$1.50/hour for A100
-- Processing time: ~50 hours for 98,992 decisions
+- Processing time: ~50 hours for 99,036 decisions
 - Cost: **$75** compute + setup time
 
 #### Recommendation: **Option A (GPT-4 Turbo)** for Phase 2
@@ -107,7 +107,7 @@ Legal language varies widely:
 ```
 ┌─────────────────────────────────────────────┐
 │ Input: wsiat-ultra-complete.json            │
-│ 98,992 decisions × 8 fields                 │
+│ 99,036 decisions × 8 fields                 │
 │ - decision_id                                │
 │ - date                                       │
 │ - summary (TEXT TO ANALYZE)                 │
@@ -157,7 +157,7 @@ Legal language varies widely:
                   ▼
 ┌─────────────────────────────────────────────┐
 │ Output: wsiat-with-outcomes.json            │
-│ 98,992 decisions × 11 fields                │
+│ 99,036 decisions × 11 fields                │
 │ + outcome (classified)                       │
 │ + confidence (0.0-1.0)                      │
 │ + reasoning (explanation)                   │
@@ -243,7 +243,7 @@ CLASSIFICATION:
 
 #### `loadDecisions()`
 - Read `wsiat-ultra-complete.json`
-- Return array of 98,992 decisions
+- Return array of 99,036 decisions
 
 #### `selectSample(decisions, n=1000)`
 - Stratified random sampling
@@ -280,8 +280,8 @@ CLASSIFICATION:
 - Time: ~30 minutes (API calls + processing)
 - Manual validation: ~8 hours (100 decisions × 5 min each)
 
-### Phase 2: Full Dataset (n=98,992)
-- Cost: **$742** (98,992 × $0.0075)
+### Phase 2: Full Dataset (n=99,036)
+- Cost: **$742** (99,036 × $0.0075)
 - Time: ~10 days (10,000 requests/day rate limit)
 - Alternative: Batch API (24-48 hours, same cost)
 
@@ -383,7 +383,7 @@ CLASSIFICATION:
 8. Tune prompt if <90% accuracy
 9. **Go/No-Go Decision:** If >90%, proceed to Task 8
 
-### Task 8: Run NLP on All 98,992 Decisions
+### Task 8: Run NLP on All 99,036 Decisions
 1. Use Batch API for cost efficiency
 2. Process in 10K chunks
 3. Save progress after each chunk
@@ -406,7 +406,7 @@ CLASSIFICATION:
 
 **If processing >500K decisions in future:**
 
-1. Use NLP-classified data as training set (98,992 labeled examples)
+1. Use NLP-classified data as training set (99,036 labeled examples)
 2. Fine-tune Llama 3.1 70B on Canadian legal decisions
 3. Self-host model (one-time $2K GPU cost vs $742 per 100K decisions)
 4. Achieve 95%+ accuracy with domain-specific training

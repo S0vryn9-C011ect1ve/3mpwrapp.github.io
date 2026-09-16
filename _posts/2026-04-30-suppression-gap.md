@@ -83,8 +83,8 @@ If the WSIAT success rate (73.5%) applied to all non-appealed denials, approxima
 
 </div>
 
-Our analysis of [98,992 WSIAT decisions](https://www.wsiat.ca/en/home/opendata_decisions.html) (1987-2026) shows:
-- **98,992 decisions** in CanLII subset (2020-2026)
+Our analysis of [99,036 WSIAT decisions](https://www.wsiat.ca/en/home/opendata_decisions.html) (1987-2026) shows:
+- **99,036 decisions** in CanLII subset (2020-2026)
 - **649 classified decisions** (5.7% of subset)
 - **438 granted** (73.5% success rate)
 - **158 denied** (26.5%)
@@ -152,7 +152,7 @@ The cumulative effect can make starting an appeal feel overwhelming.
 
 ## Common Injury Types in Appeals
 
-Analysis of 98,992 WSIAT decisions shows these are the most common body parts in appeals:
+Analysis of 99,036 WSIAT decisions shows these are the most common body parts in appeals:
 
 | Injury Type | Cases | % of Appeals | Success Context |
 |-------------|-------|--------------|-----------------|
@@ -268,7 +268,7 @@ The data shows the problem isn't WSIAT outcomes (73.5% success rate), it's **acc
 |--------|---------|-------------|
 | WSIB | Registered Claims (2020-2026) | April 30, 2026 |
 | WSIB | Allowed Claims (2020-2026) | April 30, 2026 |
-| WSIAT | 98,992 Decisions (1987-2026) | April 29, 2026 |
+| WSIAT | 99,036 Decisions (1987-2026) | April 29, 2026 |
 | HRTO | 62,093 Decisions | April 30, 2026 |
 
 **Sources:**
@@ -286,7 +286,7 @@ Success Rate = Granted ÷ (Granted + Denied) [from classified decisions only]
 ```
 
 **Success rate methodology:**
-- Analyzed 98,992 WSIAT decisions (2020-2026 CanLII subset)
+- Analyzed 99,036 WSIAT decisions (2020-2026 CanLII subset)
 - 649 classified decisions (5.7% of subset)
 - 438 granted, 158 denied, 30 deferred
 - Success rate: 438 ÷ 596 = 73.5%
@@ -295,7 +295,7 @@ Success Rate = Granted ÷ (Granted + Denied) [from classified decisions only]
 ### Download the Data
 
 - [Appeal Gap Analysis (JSON)](/data/tribunal-comprehensive/wsib-suppression-funnel.json)
-- [98,992 WSIAT Decisions Explorer](/research.html#wsiat-explorer)
+- [99,036 WSIAT Decisions Explorer](/research.html#wsiat-explorer)
 - [Cross-Tribunal Comparison](/data/tribunal-comprehensive/cross-tribunal-comparison.json)
 
 ---
@@ -341,7 +341,7 @@ This is **Part 1** of our ongoing WSIB research series:
 
 **About the 73.5% success rate:** This reflects classified decisions only (5.7% of cases in our 2020-2026 CanLII subset). 94.3% of decisions are unresolved (withdrawn, pending, or missing outcomes). Success rates vary by claim type, injury type, and case complexity. See our [Complete WSIAT Guide](/guides/wsiat-complete-guide) for detailed breakdowns.
 
-**Appeal volume estimation:** We calculated ~2,475 appeals/year by dividing 98,992 decisions by 40 years (1987-2026). Actual annual volume varies.
+**Appeal volume estimation:** We calculated ~2,475 appeals/year by dividing 99,036 decisions by 40 years (1987-2026). Actual annual volume varies.
 
 **All calculations are reproducible** using the publicly available datasets linked above.
 

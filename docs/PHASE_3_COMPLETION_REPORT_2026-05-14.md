@@ -29,10 +29,10 @@ Phase 3 (Visualization Verification + Data Integrity Check) is now COMPLETE. All
 
 | Visualization File | Data Verified | Status | Notes |
 |--------------------|---------------|--------|-------|
-| **Keyword Network (CanLII)** | ONSBT: 13,798<br>WSIAT: 98,992<br>HRTO: 9,269<br>ONWSIB: 463 | ✅ ACCURATE | All counts match Phase 1 verified data |
-| **WSIAT Network** | WSIAT: 98,992 cases | ✅ ACCURATE | Matches verified 2020-2026 dataset |
-| **WSIB Denial Network** | WSIAT: 98,992 cases | ✅ ACCURATE | Consistent with primary dataset |
-| **Cross-Tribunal Success Rates** | WSIAT: 98,992<br>HRTO: 62,093<br>ONSBT: 292<br>**Total: 161,377** | ✅ ACCURATE | Full historical data (1987-2026) |
+| **Keyword Network (CanLII)** | ONSBT: 13,798<br>WSIAT: 99,036<br>HRTO: 9,269<br>ONWSIB: 463 | ✅ ACCURATE | All counts match Phase 1 verified data |
+| **WSIAT Network** | WSIAT: 99,036 cases | ✅ ACCURATE | Matches verified 2020-2026 dataset |
+| **WSIB Denial Network** | WSIAT: 99,036 cases | ✅ ACCURATE | Consistent with primary dataset |
+| **Cross-Tribunal Success Rates** | WSIAT: 99,036<br>HRTO: 62,093<br>ONSBT: 292<br>**Total: 161,377** | ✅ ACCURATE | Full historical data (1987-2026) |
 | **Employer Safety Heatmap** | Geographic data | ✅ ACCURATE | Uses WSIAT 2020-2026 data |
 | **Tribunal Decision Heatmap** | Geographic data | ✅ ACCURATE | Uses WSIAT 2020-2026 data |
 
@@ -49,7 +49,7 @@ Phase 3 (Visualization Verification + Data Integrity Check) is now COMPLETE. All
 
 | Tribunal | Cases | Period | Purpose |
 |----------|-------|--------|---------|
-| **WSIAT** | 98,992 | 2020-2026 | Recent keyword pattern analysis |
+| **WSIAT** | 99,036 | 2020-2026 | Recent keyword pattern analysis |
 | **HRTO** | 9,269 | 2020-2026 | Recent keyword co-occurrence |
 | **ONSBT** | 13,798 | 2020-2026 | Recent benefit denial patterns |
 | **ONWSIB** | 463 | 2020-2026 | Internal review tracking |
@@ -62,7 +62,7 @@ Phase 3 (Visualization Verification + Data Integrity Check) is now COMPLETE. All
 
 | Tribunal | Cases | Period | Purpose |
 |----------|-------|--------|---------|
-| **WSIAT** | 98,992 | 1987-2026 | Full historical success rate calculation |
+| **WSIAT** | 99,036 | 1987-2026 | Full historical success rate calculation |
 | **HRTO** | 62,093 | Historical | Long-term discrimination claim patterns |
 | **ONSBT** | 292 | Historical | Limited historical data available |
 | **TOTAL** | **161,377** | 1987-2026 | Comprehensive success rate comparison |
@@ -121,8 +121,8 @@ All links use correct format:
 ### Finding 1: No Data Discrepancies
 **Verified:** All visualizations use correct tribunal decision counts
 - ✅ ONSBT: 13,798 (not 14,298 - corrected in Phase 1)
-- ✅ WSIAT 2020-2026: 98,992
-- ✅ WSIAT historical: 98,992
+- ✅ WSIAT 2020-2026: 99,036
+- ✅ WSIAT historical: 99,036
 - ✅ HRTO 2020-2026: 9,269
 - ✅ HRTO historical: 62,093
 
@@ -157,7 +157,7 @@ All links use correct format:
 ## 📚 Data Sources & Methodology
 
 **Statistical Analysis:**
-- **Dataset:** 98,992 ONWSIAT decisions, 2020-2026
+- **Dataset:** 99,036 ONWSIAT decisions, 2020-2026
 - **Data source:** [CanLII WSIAT keyword analysis](https://3mpwrapp.pages.dev/docs/data-quality-disclosure/)
 - **Methodology:** Keyword searches across all WSIAT published decisions
 
@@ -191,7 +191,7 @@ All links use correct format:
 across Ontario's administrative tribunals (1987-2026)</p>
 <div class="source">
     <strong>📊 Data Sources:</strong><br>
-    • <strong>WSIAT:</strong> WSIAT Open Data Portal - 98,992 decisions analyzed<br>
+    • <strong>WSIAT:</strong> WSIAT Open Data Portal - 99,036 decisions analyzed<br>
     • <strong>HRTO:</strong> Tribunals Ontario Open Data - 39 quarterly reports (2016-2025)<br>
     • <strong>ONSBT:</strong> Tribunals Ontario Open Data - 24 quarterly reports<br>
     <strong>Analysis Date:</strong> April 30, 2026
@@ -233,7 +233,7 @@ across Ontario's administrative tribunals (1987-2026)</p>
 ## 📝 Files Verified (Phase 3)
 
 ### Visualization Files (6 files):
-1. [connecting-the-dots-canlii-keyword-visualization-network.html](/connecting-the-dots-canlii-keyword-visualization-network.html) — ✅ Data accurate (ONSBT: 13,798, WSIAT: 98,992)
+1. [connecting-the-dots-canlii-keyword-visualization-network.html](/connecting-the-dots-canlii-keyword-visualization-network.html) — ✅ Data accurate (ONSBT: 13,798, WSIAT: 99,036)
 2. [connecting-the-dots-wsiat-keyword-network.html](d:\1-EmpowrApp\empowrapp-site\3mpwrapp.github.io-main\3mpwrapp.github.io-main\connecting-the-dots-wsiat-keyword-network.html) — ✅ Data accurate
 3. [wsib-denial-network-visualization.html](d:\1-EmpowrApp\empowrapp-site\3mpwrapp.github.io-main\3mpwrapp.github.io-main\wsib-denial-network-visualization.html) — ✅ Data accurate
 4. [employer-safety-heatmap.html](d:\1-EmpowrApp\empowrapp-site\3mpwrapp.github.io-main\3mpwrapp.github.io-main\employer-safety-heatmap.html) — ✅ Data accurate

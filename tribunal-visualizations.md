@@ -14,7 +14,7 @@ layout: page
 ## Overview
 
 This research network provides interactive visualizations based on comprehensive data extraction from:
-- **98,992 WSIAT decisions** (2016-2025)
+- **99,036 WSIAT decisions** (2016-2025)
 - **91,814 NEER employer safety records** (2017-2020)
 - **38,922 CAD-7 small employer records** (2017-2020)
 - **664 premium rate classifications** (2016-2020)
@@ -32,7 +32,7 @@ For ONWSIB-specific visuals and summaries, use the reconciled 2020-2026 archive 
 **What It Shows:** Appeal success rates across Ontario's three major tribunals
 
 **Key Findings:**
-- WSIAT: 68.7% success rate (98,992 decisions)
+- WSIAT: 68.7% success rate (99,036 decisions)
 - HRTO: 2.66% proceed to final hearing (62,093 applications)
 - ONSBT: 40-60% estimated success (limited public data)
 
@@ -98,7 +98,7 @@ For ONWSIB-specific visuals and summaries, use the reconciled 2020-2026 archive 
 
 ### 5. Injury Type × Industry Correlation Matrix
 
-**What It Shows:** Which industries experience which types of injuries (98,992 WSIAT cases analyzed)
+**What It Shows:** Which industries experience which types of injuries (99,036 WSIAT cases analyzed)
 
 **Top Correlations:**
 - **Construction:** Back injuries (2,847 cases), fall injuries (1,923), repetitive strain (1,456)
@@ -114,7 +114,7 @@ For ONWSIB-specific visuals and summaries, use the reconciled 2020-2026 archive 
 
 ## Data Extraction Methodology
 
-### WSIAT Decisions (98,992 records)
+### WSIAT Decisions (99,036 records)
 
 **Source:** Workplace Safety and Insurance Appeals Tribunal official data release
 
@@ -131,7 +131,7 @@ For ONWSIB-specific visuals and summaries, use the reconciled 2020-2026 archive 
 **Processing:**
 - Custom CSV parser handling multi-line quoted fields
 - Metadata row detection and removal
-- 201,488 lines processed → 98,992 valid decisions
+- 201,488 lines processed → 99,036 valid decisions
 - 23.4 seconds extraction time
 
 **Quality:** 100% completeness (all 8 fields extracted for every decision)
@@ -203,7 +203,7 @@ For ONWSIB-specific visuals and summaries, use the reconciled 2020-2026 archive 
 ### For Workers & Advocates
 
 ✅ **Assess Your Appeal Chances**
-- Compare your case to 98,992 WSIAT decisions
+- Compare your case to 99,036 WSIAT decisions
 - See which industries/injuries have highest success rates
 - Understand temporal trends (are success rates improving?)
 
@@ -239,7 +239,7 @@ Retrieved from https://3mpwrapp.ca/tribunal-visualizations.html
 ### For Legal Professionals
 
 ✅ **Case Research**
-- Searchable WSIAT decision database (98,992 cases)
+- Searchable WSIAT decision database (99,036 cases)
 - Keyword extraction (injury types, legal issues)
 - Vice-chair decision patterns
 - Industry-specific precedents
@@ -268,7 +268,7 @@ Retrieved from https://3mpwrapp.ca/tribunal-visualizations.html
 
 **Performance:**
 - 230,392 records extracted in 23.4 seconds
-- 98,992 WSIAT decisions (8 fields each) = 791,936 data points
+- 99,036 WSIAT decisions (8 fields each) = 791,936 data points
 - Processing rate: 33,840 data points/second
 
 ### Data Storage

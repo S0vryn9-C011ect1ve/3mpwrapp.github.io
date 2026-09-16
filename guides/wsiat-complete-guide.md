@@ -1,6 +1,6 @@
 ---
 title: "Complete Guide to WSIAT Appeals: Data-Driven Success Strategies"
-description: "Comprehensive guide to Workplace Safety and Insurance Appeals Tribunal (WSIAT) based on analysis of 98,992 decisions (2016-2025)"
+description: "Comprehensive guide to Workplace Safety and Insurance Appeals Tribunal (WSIAT) based on analysis of 99,036 decisions (2016-2025)"
 keywords: "WSIAT, workplace injury appeals, WSIB appeals, workers compensation Ontario, appeal success rate"
 author: "3mpwrApp Research Team"
 date: 2026-04-30
@@ -9,13 +9,13 @@ layout: guide
 
 # Complete Guide to WSIAT Appeals: Data-Driven Success Strategies
 
-*Based on comprehensive analysis of 98,992 WSIAT decisions (2020-2026) with v3.0 ML classification*
+*Based on comprehensive analysis of 99,036 WSIAT decisions (2020-2026) with v3.0 ML classification*
 
 ## Executive Summary
 
 **✨ v3.0 Classification Update (May 15, 2026):** 83.4% of WSIAT decisions now classified (16.6% unknown, down from 52.7%)
 
-- **Total Cases Analyzed:** 98,992 decisions (2020-2026)
+- **Total Cases Analyzed:** 99,036 decisions (2020-2026)
 - **Classification Rate:** 83.4% (9,536 cases with determined outcomes)
 - **Unknown:** 16.6% (1,894 cases remain unclear)
 - **Major Breakthrough:** Multi-pass machine learning with cross-tribunal similarity matching reduced unknown outcomes from 52.7% → 16.6%
@@ -55,7 +55,7 @@ The **Workplace Safety and Insurance Appeals Tribunal (WSIAT)** is Ontario's fin
 - **Authority:** Can overturn WSIB decisions based on merits of evidence
 - **Cost:** **FREE** - no filing fees, legal aid available
 - **Success Rate:** **89.1% worker wins** from 393 clear outcomes (2020-2026 classified data) - **appeals demonstrably work**
-- **Data Note:** 77% of decisions have unclear outcomes in keyword analysis, but classification of 98,992 recent decisions shows consistent 85-95% yearly win rates
+- **Data Note:** 77% of decisions have unclear outcomes in keyword analysis, but classification of 99,036 recent decisions shows consistent 85-95% yearly win rates
 
 ### What Can Be Appealed?
 
@@ -81,7 +81,7 @@ The **Workplace Safety and Insurance Appeals Tribunal (WSIAT)** is Ontario's fin
 
 ### Strong Appeal Indicators (Data-Driven)
 
-Based on our analysis of 98,992 decisions, you have a **strong case** if:
+Based on our analysis of 99,036 decisions, you have a **strong case** if:
 
 > **📊 Data Note:** Success rates by appeal type below are informed estimates from pattern analysis and advocacy research, not directly extracted from our dataset (which has limited outcome keyword coverage). Use these as guideposts, not guarantees.
 
@@ -298,7 +298,7 @@ Subject: Narrative Medical-Legal Report - [Your Name]
 
 ### 1. Mechanism of Injury Clearly Work-Related
 
-**Pattern from 98,992 decisions:**
+**Pattern from 99,036 decisions:**
 
 **Strong Arguments:**
 - "Lifting 50 lb box caused immediate sharp back pain, heard 'pop'"
@@ -392,7 +392,7 @@ Subject: Narrative Medical-Legal Report - [Your Name]
 
 ### Most Common Injury Types Across All Industries
 
-**From analysis of 98,992 WSIAT decisions (keyword matching, 39,556 cases with injury keywords):**
+**From analysis of 99,036 WSIAT decisions (keyword matching, 39,556 cases with injury keywords):**
 
 1. **Back/Spine Injuries** - 15,177 cases (15.3% of all decisions)
    - Most common injury type appealed to WSIAT
@@ -449,7 +449,7 @@ Subject: Narrative Medical-Legal Report - [Your Name]
 
 ## Vice-Chair Analysis
 
-*Data extracted from 98,992 decisions (1987-2026)*
+*Data extracted from 99,036 decisions (1987-2026)*
 
 > **📊 Data Note:** Vice-Chair success rate patterns require full-text analysis to extract vice-chair names and link to outcomes. This analysis is pending.
 
@@ -626,7 +626,7 @@ Subject: Narrative Medical-Legal Report - [Your Name]
 
 ### Official Resources
 - **WSIAT Website:** [wsiat.on.ca](http://www.wsiat.on.ca)
-- **WSIAT Decisions Database:** Search 98,992+ decisions for similar cases
+- **WSIAT Decisions Database:** Search 99,036+ decisions for similar cases
 - **Office of Worker Adviser:** 1-800-435-8980
 - **Office of Employer Adviser:** 1-800-387-0774
 
@@ -658,6 +658,6 @@ WSIAT is your **best chance** to overturn an unfair WSIB decision. With a **68.7
 
 ---
 
-*This guide is based on analysis of 98,992 WSIAT decisions (2016-2025) and is for informational purposes only. Not legal advice. Consult Office of Worker Adviser or legal counsel for case-specific guidance.*
+*This guide is based on analysis of 99,036 WSIAT decisions (2016-2025) and is for informational purposes only. Not legal advice. Consult Office of Worker Adviser or legal counsel for case-specific guidance.*
 
 *Last Updated: April 30, 2026*

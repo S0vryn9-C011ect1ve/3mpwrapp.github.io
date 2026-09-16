@@ -1,17 +1,17 @@
 # Knowledge Base & Templates Coverage Audit
-## Based on 98,992 WSIAT Decisions (1987-2026) + 35,928 Multi-Tribunal Analysis (2020-2026)
+## Based on 99,036 WSIAT Decisions (1987-2026) + 35,928 Multi-Tribunal Analysis (2020-2026)
 
 **Audit Date:** April 15, 2026  
 **Last Updated:** April 29, 2026 (added full WSIAT dataset 1987-2026 + deep-dive analysis)  
 **Data Sources:** 
 - [WSIB System Analysis Complete 2020-2026](./WSIB-SYSTEM-ANALYSIS-COMPLETE-2020-2026.md)
-- [WSIAT Complete Dataset](../data/tribunal-decisions/wsiat/wsiat-metadata.json) (98,992 decisions)
+- [WSIAT Complete Dataset](../data/tribunal-decisions/wsiat/wsiat-metadata.json) (99,036 decisions)
 - [WSIAT Open Data Portal](https://www.wsiat.ca/en/home/opendata_decisions.html) - Official CSV export source
 - [WSIAT Deep Dive Report](./WSIAT-DEEP-DIVE-REPORT-2026-04-29.html) - Advanced pattern analysis
 
 ## April 29, 2026 Major Update - WSIAT Complete Dataset + Deep-Dive Analysis
 
-**NEW:** Full WSIAT dataset now available - **98,992 decisions from 1987-2026** (40 years of data)
+**NEW:** Full WSIAT dataset now available - **99,036 decisions from 1987-2026** (40 years of data)
 
 **Coverage by Decade:**
 - 1987-1999: 19,878 decisions
@@ -132,7 +132,7 @@ Based on ONWSIB findings:
 | **Permanent impairment** | 818 | 7.2% | ✅ `permanent-impairment-rating.md` | Complete (based on 74 cases) |
 | **Fibromyalgia** | ~88 | 0.8% | ✅ `fibromyalgia-claims.md` | Complete (based on 68 cases) |
 
-**Total Covered: ~3,601 cases (31.5% of 98,992)**
+**Total Covered: ~3,601 cases (31.5% of 99,036)**
 
 ---
 
@@ -152,7 +152,7 @@ Based on ONWSIB findings:
 | **Hearing loss** | 38 | 0.3% | 🟢 Low | Occupational noise exposure |
 | **Occupational disease (general)** | 15 | 0.1% | 🟠 High | Cancer, respiratory, systematic suppression |
 
-**Total Missing: ~4,134 cases (36.2% of 98,992)**
+**Total Missing: ~4,134 cases (36.2% of 99,036)**
 
 ---
 
@@ -258,14 +258,14 @@ Based on ONWSIB findings:
 16. **Create hip injury knowledge base** (124 cases)
 17. **Create hearing loss knowledge base** (38 cases)
 18. **Create employer cost relief challenge letter** (97 co-occurrences with pre-existing)
-19. **Update all existing KB articles with NEW 98,992-case statistics** (currently based on older 1,204-case dataset)
+19. **Update all existing KB articles with NEW 99,036-case statistics** (currently based on older 1,204-case dataset)
 
 ---
 
 ## Statistics Update Needed
 
 **Problem:** Existing knowledge base articles cite OLD 2025-2026 data (1,204 cases)  
-**Solution:** Update ALL articles with NEW 2020-2026 data (98,992 cases)
+**Solution:** Update ALL articles with NEW 2020-2026 data (99,036 cases)
 
 **Example Updates Needed:**
 
@@ -273,7 +273,7 @@ Based on ONWSIB findings:
 > "Low back pain appears in 194 cases, based on 1,204 tribunal decisions analyzed."
 
 **New (should be):**
-> "Low back pain appears in 390 cases (3.4%), based on 98,992 tribunal decisions (2020-2026). Recent detective-mode analysis reveals back injuries have 19% pre-existing denial rate—proving systematic bias."
+> "Low back pain appears in 390 cases (3.4%), based on 99,036 tribunal decisions (2020-2026). Recent detective-mode analysis reveals back injuries have 19% pre-existing denial rate—proving systematic bias."
 
 **Files Needing Updates:**
 - [ ] `low-back-pain-claims.md` - Update case counts, add 19% pre-existing rate
@@ -319,7 +319,7 @@ Based on ONWSIB findings:
 **Action Required:**
 1. Create 2 critical KB articles (shoulder, knee) immediately
 2. Create 2 critical appeal templates (shoulder, knee)
-3. Update all 6 existing KB articles with new 98,992-case statistics
+3. Update all 6 existing KB articles with new 99,036-case statistics
 4. Sync templates to website `data/templates/` folder
 5. Create 8 additional KB articles for high-volume injuries
 6. Create 3 additional specialized appeal templates

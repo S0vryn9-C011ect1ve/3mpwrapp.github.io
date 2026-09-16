@@ -1,5 +1,5 @@
 # WSIAT Pattern Analysis Report
-## 98,992 Decisions Analyzed (1987-2026)
+## 99,036 Decisions Analyzed (1987-2026)
 
 **Generated:** 2026-04-30  
 **Total Decisions:** 99,036  
@@ -9,7 +9,7 @@
 
 ## Executive Summary
 
-This report analyzes 98,992 WSIAT decisions spanning 40 years (1987-2026) to identify patterns in:
+This report analyzes 99,036 WSIAT decisions spanning 40 years (1987-2026) to identify patterns in:
 - Legal issues and keywords
 - Decision types and procedural matters
 - Temporal trends and workload evolution
@@ -130,7 +130,7 @@ This report analyzes 98,992 WSIAT decisions spanning 40 years (1987-2026) to ide
 ### Statistics:
 
 - **Total Vice-Chairs:** 3260
-- **Decisions with Vice-Chair Data:** 98,992 (100.0%)
+- **Decisions with Vice-Chair Data:** 99,036 (100.0%)
 - **Worker Side Members:** 3115 unique individuals
 - **Employer Side Members:** 3152 unique individuals
 
@@ -143,7 +143,7 @@ This report analyzes 98,992 WSIAT decisions spanning 40 years (1987-2026) to ide
 | Total Decisions | 99,036 |
 | Decisions with Keywords | 82,111 |
 | Decisions with Summaries | (To be calculated) |
-| Decisions with Vice-Chair Data | 98,992 |
+| Decisions with Vice-Chair Data | 99,036 |
 | Decisions with Year Data | 94643 |
 
 **Coverage:** 95.6% of decisions have complete year data
@@ -154,7 +154,7 @@ This report analyzes 98,992 WSIAT decisions spanning 40 years (1987-2026) to ide
 
 | Metric | Ontario WSIAT | BC WCAT | Ratio |
 |--------|---------------|---------|-------|
-| **Total Decisions** | 98,992 | 7,386 | 13.4:1 |
+| **Total Decisions** | 99,036 | 7,386 | 13.4:1 |
 | **Year Coverage** | 1987-2026 (40 years) | 2020-2026 (6 years) | 6.7x |
 | **Keywords/Metadata** | ✅ Full | ❌ None | ∞ |
 | **Open Data** | ✅ CSV Export | ❌ None | ∞ |

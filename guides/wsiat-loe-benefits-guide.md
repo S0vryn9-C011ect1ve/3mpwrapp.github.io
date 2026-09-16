@@ -322,7 +322,7 @@ Based on our 10,838 LOE decision analysis:
 
 This guide is based on:
 - 10,838 WSIAT decisions mentioning LOE (1987-2026)
-- 98,992 total WSIAT decisions analyzed
+- 99,036 total WSIAT decisions analyzed
 - Official WSIAT CSV export from [WSIAT Open Data Portal](https://www.wsiat.ca/en/home/opendata_decisions.html)
 - Pattern analysis generated April 2026
 - Deep-dive co-occurrence analysis: LOE + Loss of Earnings (9,167 cases, 9.26%)

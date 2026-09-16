@@ -26,7 +26,7 @@ Many researchers hide their limitations in footnotes. We put ours front and cent
 **Source:** Public data from Ontario government tribunals and WSIB
 
 **What we got:**
-- ✅ **98,992 WSIAT decisions** (1987-2026) - every single publicly available decision
+- ✅ **99,036 WSIAT decisions** (1987-2026) - every single publicly available decision
 - ✅ **91,814 NEER employers** (2017-2020) - large employers in safety program
 - ✅ **38,922 CAD-7 employers** (2017-2020) - small employers in safety program
 - ✅ **664 Premium Rate Groups** - industry classifications with rates
@@ -36,7 +36,7 @@ Many researchers hide their limitations in footnotes. We put ours front and cent
 
 ### 2. Counted Injury Patterns
 
-**Method:** Computer searched all 98,992 WSIAT decisions for injury keywords
+**Method:** Computer searched all 99,036 WSIAT decisions for injury keywords
 
 **Found:** 10 injury types with exact counts
 - Back/Spine: 15,177 cases (15.3%)
@@ -64,11 +64,11 @@ Many researchers hide their limitations in footnotes. We put ours front and cent
 
 ### 1. Success Rates: The 6.1% Problem {#success-rate-limitation}
 
-**What we tried:** Find outcome (allowed/denied) for all 98,992 decisions
+**What we tried:** Find outcome (allowed/denied) for all 99,036 decisions
 
 **Method:** Computer searched for keywords: "allowed", "denied", "dismissed", "partially allowed"
 
-**Result:** Only 6,040 out of 98,992 decisions (6.1%) had clear outcome keywords
+**Result:** Only 6,040 out of 99,036 decisions (6.1%) had clear outcome keywords
 
 **What this means:**
 - ✅ We KNOW: 726 allowed, 5,314 denied, from those 6,040 cases
@@ -140,7 +140,7 @@ Many researchers hide their limitations in footnotes. We put ours front and cent
 **What we wanted:** Track which WSIAT panel members allow more/fewer appeals
 
 **What we have:**
-- ✅ 98,992 decisions
+- ✅ 99,036 decisions
 - ❌ No extraction of vice-chair names
 - ❌ No tracking of panel member patterns
 
@@ -189,7 +189,7 @@ Throughout the site, you'll see these badges:
 ### ✅ **Complete**
 - We extracted 100% of available data
 - Numbers are verified and accurate
-- Example: "98,992 WSIAT decisions analyzed"
+- Example: "99,036 WSIAT decisions analyzed"
 
 ### ⚠️ **Limited**
 - We extracted partial data with known gaps
@@ -324,7 +324,7 @@ Throughout the site, you'll see these badges:
 ### Planned Improvements (2026-2027)
 
 **1. Full-Text NLP Classification**
-- Use AI (GPT-4/Claude) to read all 98,992 decisions
+- Use AI (GPT-4/Claude) to read all 99,036 decisions
 - Extract outcomes from legal language
 - Get real success rates (not just 6.1% coverage)
 - **Impact:** Most important improvement
@@ -397,7 +397,7 @@ We will NEVER:
 ### Dataset Specifications
 
 **WSIAT Decisions Dataset**
-- **Size:** 98,992 decisions
+- **Size:** 99,036 decisions
 - **Date Range:** 1987-2026 (39 years)
 - **Format:** JSON (structured)
 - **Source:** CanLII API
@@ -444,13 +444,13 @@ We will NEVER:
 
 **If you use this data:**
 
-> 3mpwrApp Research. (2026). *Comprehensive Analysis of 98,992 WSIAT Workplace Injury Appeal Decisions (1987-2026)*. Retrieved from https://3mpwrapp.ca/data-limitations/
+> 3mpwrApp Research. (2026). *Comprehensive Analysis of 99,036 WSIAT Workplace Injury Appeal Decisions (1987-2026)*. Retrieved from https://3mpwrapp.ca/data-limitations/
 
 **BibTeX:**
 ```bibtex
 @misc{3mpwrapp2026wsiat,
   author = {3mpwrApp Research},
-  title = {Comprehensive Analysis of 98,992 WSIAT Workplace Injury Appeal Decisions (1987-2026)},
+  title = {Comprehensive Analysis of 99,036 WSIAT Workplace Injury Appeal Decisions (1987-2026)},
   year = {2026},
   url = {https://3mpwrapp.ca/data-limitations/},
   note = {Dataset includes 230,392 records from WSIAT, HRTO, NEER, and CAD-7 programs}

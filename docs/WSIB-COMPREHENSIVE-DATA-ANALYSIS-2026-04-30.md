@@ -17,7 +17,7 @@ You've assembled the **ENTIRE WSIB ECOSYSTEM** from registration to appeal to so
 | **Surveillances** | 11 annual totals | 2014-2024 | WSIB Open Data |
 | **NEER Rebate/Surcharge** | 92,000+ employers | 2017-2020 | WSIB Open Data |
 | **CAD-7 Rebate/Surcharge** | 39,000+ employers | 2017-2020 | WSIB Open Data |
-| **WSIAT Decisions** | 98,992 decisions | 1987-2026 | WSIAT Open Data |
+| **WSIAT Decisions** | 99,036 decisions | 1987-2026 | WSIAT Open Data |
 
 **Total CSV records parsed:** ~130,000+ rows
 
@@ -126,7 +126,7 @@ You've assembled the **ENTIRE WSIB ECOSYSTEM** from registration to appeal to so
    ↓
 3. DENIED CLAIMS = Registered - Allowed
    ↓
-4. WSIAT Appeals: 98,992 (known from CSV parse)
+4. WSIAT Appeals: 99,036 (known from CSV parse)
    ↓
 5. APPEAL RATE = WSIAT Appeals / Denied Claims
    ↓
@@ -145,7 +145,7 @@ You've assembled the **ENTIRE WSIB ECOSYSTEM** from registration to appeal to so
 - Registered Claims: 300,000/year
 - Allowed Claims: 200,000/year
 - Denied Claims: 100,000/year
-- WSIAT Appeals: 98,992 (across 40 years) = ~2,475/year average
+- WSIAT Appeals: 99,036 (across 40 years) = ~2,475/year average
 - Appeal Rate: 2,475 / 100,000 = **2.5%**
 - Suppression Gap: 97,500 workers/year **gave up**
 
@@ -165,7 +165,7 @@ You've assembled the **ENTIRE WSIB ECOSYSTEM** from registration to appeal to so
 
 ### Body Part Consistency Check
 
-**WSIAT Body Part Patterns (from 98,992 decisions):**
+**WSIAT Body Part Patterns (from 99,036 decisions):**
 1. Back: 13,407 cases (13.54%)
 2. Shoulder: 5,295 cases (5.35%)
 3. Neck: 3,535 cases (3.57%)
@@ -181,7 +181,7 @@ You've assembled the **ENTIRE WSIB ECOSYSTEM** from registration to appeal to so
 
 **Example:**
 - WSIB: 20% back injuries (60,000 of 300,000)
-- WSIAT: 13.54% back appeals (13,407 of 98,992)
+- WSIAT: 13.54% back appeals (13,407 of 99,036)
 - **Gap:** 6.46% fewer back appeals than expected = **targeted suppression of back injuries**
 
 ### Mental Stress Suppression
@@ -189,7 +189,7 @@ You've assembled the **ENTIRE WSIB ECOSYSTEM** from registration to appeal to so
 **WSIAT PTSD/Mental Health:**
 - PTSD: 159 cases (0.16%)
 - Psychotraumatic: 312 cases (0.32%)
-- **Total:** 471 cases (0.48% of 98,992 appeals)
+- **Total:** 471 cases (0.48% of 99,036 appeals)
 
 **WSIB Mental Stress Claims (from Safety Check):**
 - *Pending parse: Mental Stress Claims.xlsx (53KB)*
@@ -204,7 +204,7 @@ You've assembled the **ENTIRE WSIB ECOSYSTEM** from registration to appeal to so
 
 **Fatal Claims Investigations:** 11 years of data (specific annual counts in JSON)
 
-**WSIAT Fatal Appeals:** *Needs extraction from 98,992 decisions - keyword search for "fatal", "death", "deceased"*
+**WSIAT Fatal Appeals:** *Needs extraction from 99,036 decisions - keyword search for "fatal", "death", "deceased"*
 
 **Expected Finding:**
 - If 500 fatal claims investigated but only 50 families appeal = **90% give up**
@@ -218,7 +218,7 @@ You've assembled the **ENTIRE WSIB ECOSYSTEM** from registration to appeal to so
 |--------|-------|------|-------|
 | **Transparency** | ✅ 40 years CSV data | ⚠️ Quarterly XLSX summaries | ⚠️ Appeals received only |
 | **Abandonment Rate** | 0.5% | 73.5% | Unknown (no outcome data) |
-| **Data Available** | 98,992 decisions | ~TBD from 39 XLSX | ~TBD from 24 XLSX |
+| **Data Available** | 99,036 decisions | ~TBD from 39 XLSX | ~TBD from 24 XLSX |
 | **Outcome Tracking** | ✅ Win/loss tracked | ❌ Decision type unclear | ❌ No outcome data |
 | **Backlog** | Unknown | 9,527 cases (doubled in 6 years) | Unknown |
 | **Self-Represented** | Tracked in metadata | 80%+ vulnerable | Unknown |
@@ -305,7 +305,7 @@ All 40-50 Safety Check files + 63 Tribunals Ontario files
 - **Cross-tribunal comparison:** "WSIAT proves transparency works—demand same for HRTO"
 
 ### For Researchers:
-- **Largest dataset:** 98,992 WSIAT + 300,000+ WSIB claims + 63 tribunal files = 400,000+ records
+- **Largest dataset:** 99,036 WSIAT + 300,000+ WSIB claims + 63 tribunal files = 400,000+ records
 - **40-year longitudinal:** Track policy changes over decades
 - **Cross-provincial:** Compare Ontario vs. BC vs. others
 
@@ -319,7 +319,7 @@ All 40-50 Safety Check files + 63 Tribunals Ontario files
 ## 📋 Current Status
 
 ✅ **Completed:**
-- WSIAT CSV parsed (98,992 decisions)
+- WSIAT CSV parsed (99,036 decisions)
 - WSIB CSV parsed (Premium rates, Fatal investigations, Surveillances, NEER, CAD-7)
 - Data inventory created
 - Claim funnel structure designed

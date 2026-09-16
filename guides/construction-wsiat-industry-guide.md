@@ -22,7 +22,7 @@ rate_group: "732"
 
 ## 🏗️ Top 5 Construction Injuries
 
-Based on analysis of 98,992 WSIAT decisions:
+Based on analysis of 99,036 WSIAT decisions:
 
 ### 1. Fractures & Broken Bones (20% of construction appeals)
 **Estimated 2,970 cases**
@@ -350,7 +350,7 @@ Based on analysis of 98,992 WSIAT decisions:
 ## 📊 Data Source
 
 This guide is based on analysis of:
-- **98,992 WSIAT decisions** (1987-2026)
+- **99,036 WSIAT decisions** (1987-2026)
 - **Ontario workplace injury statistics**
 - **Construction sector claim patterns**
 - **Industry-injury correlation analysis**
