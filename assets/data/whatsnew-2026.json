@@ -1,8 +1,68 @@
 {
   "year": 2026,
   "version": "1.0",
-  "lastUpdated": "2026-09-13T13:10:00.000Z",
+  "lastUpdated": "2026-09-18T16:00:00-04:00",
   "entries": [
+    {
+      "id": "wn-2026-09-18-prod-deploy",
+      "title": "🚀 PWA live in production — app.3mpwrapp.ca deployed",
+      "summary": "The 3mpwrapp web app is now live at app.3mpwrapp.ca with all recent fixes: zero flashing, clean navigation, and core screens working.",
+      "date": "2026-09-18T15:00:00-04:00",
+      "category": "feature",
+      "repo": "app",
+      "commitSha": "1a70d1c",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-18-branding",
+      "title": "✅ Brand unified to '3mpwrapp' (one word) app-wide",
+      "summary": "Fixed the brand name that showed as '3mpwr App' in the header and locale files. App is now consistently '3mpwrapp' as officially registered.",
+      "date": "2026-09-18T15:00:00-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "1a12959",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-18-screens-rebuilt",
+      "title": "🔧 Evidence Locker, Prepare Appeal & Live Chat rebuilt",
+      "summary": "Rebuilt three core screens lost in the laptop failure: Evidence Locker, Prepare Appeal, and Live Chat now render and work with no redirect loops.",
+      "date": "2026-09-18T15:00:00-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "1a12959",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-18-nav-reverts",
+      "title": "🧭 Navigation fixed — buttons open correct screens",
+      "summary": "Reverted broken nav repoints. Home/menu buttons (Evidence Vault, Wellness Command, Community Hub, Claims Navigator, Settings) now open real screens.",
+      "date": "2026-09-18T15:00:00-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "1a12959",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-18-menu-fix",
+      "title": "🐛 Header menu nested-button crash fixed (web)",
+      "summary": "Resolved the React Native Web 'button cannot contain a nested button' error in the header menu. Menu opens cleanly with no console errors.",
+      "date": "2026-09-18T15:00:00-04:00",
+      "category": "fix",
+      "repo": "app",
+      "commitSha": "1a70d1c",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-18-deps-hygiene",
+      "title": "🛡️ Dependency audit & lockfile cleanup committed",
+      "summary": "Refreshed the lockfile to the real dependency tree and pinned adm-zip via overrides. Remaining advisories are dev/build/backend only (minimal prod exposure).",
+      "date": "2026-09-18T16:00:00-04:00",
+      "category": "improvement",
+      "repo": "app",
+      "commitSha": "c641253",
+      "archived": false
+    },
     {
       "id": "wn-draft-7f341aae",
       "title": "The app and website are now easier to read, with cleaner legal pages and a knowledge base that explains your rights in p",
