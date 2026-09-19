@@ -1,8 +1,48 @@
 {
   "year": 2026,
   "version": "1.0",
-  "lastUpdated": "2026-09-18T16:00:00-04:00",
+  "lastUpdated": "2026-09-19T16:00:00-04:00",
   "entries": [
+    {
+      "id": "wn-2026-09-19-sdk57-upgrade",
+      "title": "🚀 Expo SDK 57 upgrade — faster, safer, modern stack",
+      "summary": "Upgraded the app from Expo SDK 55 to 57: React Native 0.79.5, firebase-admin 14, expo-router 57. PWA and native Android builds verified, 1,253 automated tests passing, zero type errors. Better performance and long-term stability for injured & disabled workers.",
+      "date": "2026-09-19T16:00:00-04:00",
+      "category": "improvement",
+      "repo": "app",
+      "commitSha": "a931d4f",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-19-nav-modernize",
+      "title": "🧹 Navigation modernized — Movement & Rehab hub in-app tabs",
+      "summary": "Removed the old react-navigation dependency. The Movement & Rehab hub now uses native in-app top tabs (screen-reader friendly, no external navigator). Cleaner, faster, more reliable navigation across the app.",
+      "date": "2026-09-19T16:05:00-04:00",
+      "category": "improvement",
+      "repo": "app",
+      "commitSha": "a931d4f",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-19-quality-gate",
+      "title": "✅ Quality gate — 1,253 tests passing, typecheck clean, PWA + Android verified",
+      "summary": "Full regression suite green (1,253 tests, 0 failures), zero TypeScript errors, and both the PWA (app.3mpwrapp.ca) and native Android builds verified on the SDK 57 stack. App is stable and ready for wider testing.",
+      "date": "2026-09-19T16:10:00-04:00",
+      "category": "improvement",
+      "repo": "app",
+      "commitSha": "a931d4f",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-19-deps-audit",
+      "title": "🛡️ Dependency & security audit — 20 advisories remain (down from 112)",
+      "summary": "Refreshed the lockfile to the real dependency tree, pinned adm-zip via overrides, and upgraded firebase-admin to v14 (modular API). Remaining advisories are dev/build-only with minimal production exposure.",
+      "date": "2026-09-19T16:15:00-04:00",
+      "category": "security",
+      "repo": "app",
+      "commitSha": "a931d4f",
+      "archived": false
+    },
     {
       "id": "wn-2026-09-18-prod-deploy",
       "title": "🚀 PWA live in production — app.3mpwrapp.ca deployed",
