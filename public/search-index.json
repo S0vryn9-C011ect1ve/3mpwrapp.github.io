@@ -6890,7 +6890,7 @@
       "filesize": 13992
     },
     {
-      "id": "blog/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
+      "id": "blog/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
       "source": "blog",
       "title": "HRTO Disability Discrimination Patterns: Analysis of 9,269 Human Rights Decisions 2020–2026",
       "excerpt": "Executive Summary Analysis of 9,269 Human Rights Tribunal of Ontario (HRTO) decisions (2020-2026) reveals critical patterns in how disability discrimination claims are adjudicated in Ontario. These de",
@@ -6914,7 +6914,7 @@
         "disability-justice",
         "tribunal-analysis"
       ],
-      "url": "/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/",
+      "url": "/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/",
       "filesize": 30739
     },
     {
@@ -8039,7 +8039,7 @@
       "filesize": 1183
     },
     {
-      "id": "blog/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md",
+      "id": "blog/human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md",
       "source": "blog",
       "title": "HRTO Abandonment Analysis: Email Issues Cited in 91.9% of Abandoned Cases",
       "excerpt": "> 📋 ACCURACY AUDIT — 2026-07-20 (post laptop-failure recovery). This post originally reported HRTO figures from a \"2,274 detected-outcome subset\" that does NOT exist in the committed repository. The ",
@@ -8056,7 +8056,7 @@
         "Research",
         "Access to Justice"
       ],
-      "url": "/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/",
+      "url": "/human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/",
       "filesize": 22972
     },
     {
@@ -15388,7 +15388,7 @@
     "cases": [
       "whatsnew/2026-09-13-canlii-wsib-precedents-kb.md",
       "blog/2026-04-25-feature-spotlight-canlii-database-ontario-wsib-hrto-cases-expanding-canada-wide.md",
-      "blog/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md",
+      "blog/human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md",
       "blog/2026-04-16-hidden-language-of-denial-wsib-keyword-decoder.md"
     ],
     "+": [
@@ -15975,7 +15975,7 @@
       "blog/2026-04-26-onsbt-accessibility-barriers-vulnerable-communities.md",
       "blog/2026-04-16-wsib-transparency-gap-outcome-obscurity-REVISED.md",
       "blog/2026-04-20-dev-update-dev-update-2026-04-20.md",
-      "blog/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md",
+      "blog/human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md",
       "blog/2026-04-16-hidden-language-of-denial-wsib-keyword-decoder.md",
       "blog/2026-04-12-dev-update-dev-update-2026-04-12.md",
       "blog/2026-04-06-weekly-update-week-15.md",
@@ -16153,7 +16153,7 @@
     ],
     "decisions": [
       "blog/2026-07-27-feature-spotlight-case-law-summarizer-legal-decisions-in-plain-language.md",
-      "blog/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
+      "blog/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
       "blog/2026-05-08-onca-precedent-overview.md",
       "blog/2026-04-26-onsbt-2020-2026-comprehensive-analysis.md",
       "blog/2026-04-15-wsib-exposed-statistical-evidence-proves-systematic-manipulation.md"
@@ -16440,7 +16440,7 @@
     ],
     "discrimination": [
       "blog/2026-07-19-feature-spotlight-workplace-discrimination-documentation-letter.md",
-      "blog/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md"
+      "blog/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md"
     ],
     "documentation": [
       "blog/2026-07-19-feature-spotlight-workplace-discrimination-documentation-letter.md",
@@ -16665,12 +16665,12 @@
     "of": [
       "blog/2026-07-10-dev-diary-the-ethics-of-building-for-vulnerable-communities.md",
       "blog/2026-06-25-feature-spotlight-the-3-flywheels-of-change-turning-lived-experience-into-power.md",
-      "blog/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
+      "blog/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
       "blog/2026-05-11-bill-105-power-act-analysis.md",
       "blog/2026-05-08-onca-precedent-overview.md",
       "blog/2026-05-02-dev-diary-the-ethics-of-building-for-vulnerable-communities.md",
       "blog/2026-04-26-onsbt-2020-2026-comprehensive-analysis.md",
-      "blog/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md",
+      "blog/human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md",
       "blog/2026-04-17-bill-86-MeredithActmain.md",
       "blog/2026-04-17-claim-suppression-playbook.md",
       "blog/2026-04-16-hidden-language-of-denial-wsib-keyword-decoder.md",
@@ -16755,7 +16755,7 @@
       "blog/2026-06-02-community-disability-justice-vs-disability-charity-our-operating-principle.md",
       "blog/2026-05-28-feature-spotlight-yukon-disability-benefits-northern-territory.md",
       "blog/2026-05-22-feature-spotlight-manitoba-eia-disability-benefits.md",
-      "blog/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
+      "blog/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
       "curation/2026-04-28-curated.md",
       "blog/2026-04-26-onsbt-2020-2026-comprehensive-analysis.md",
       "blog/2026-04-26-onsbt-accessibility-barriers-vulnerable-communities.md",
@@ -17082,7 +17082,7 @@
     "human": [
       "blog/2026-06-18-community-privacy-as-a-human-right-not-a-feature-we-added-later.md",
       "blog/2026-06-15-feature-spotlight-human-rights-complaint-letter.md",
-      "blog/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
+      "blog/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
       "blog/2026-04-10-community-privacy-as-a-human-right-not-a-feature-we-added-later.md"
     ],
     "right:": [
@@ -17116,7 +17116,7 @@
     ],
     "rights": [
       "blog/2026-06-15-feature-spotlight-human-rights-complaint-letter.md",
-      "blog/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
+      "blog/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
       "curation/2026-04-28-curated.md",
       "blog/2025-10-17-weekly-recap.md"
     ],
@@ -17494,24 +17494,24 @@
       "blog/2026-05-14-ontario-legal-intelligence-system-launch.md"
     ],
     "hrto": [
-      "blog/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
+      "blog/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
       "blog/2026-04-25-feature-spotlight-canlii-database-ontario-wsib-hrto-cases-expanding-canada-wide.md",
-      "blog/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md"
+      "blog/human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md"
     ],
     "patterns:": [
-      "blog/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md"
+      "blog/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md"
     ],
     "analysis": [
-      "blog/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
+      "blog/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
       "blog/2026-05-11-bill-105-power-act-analysis.md",
       "blog/2026-04-17-bill-86-MeredithActmain.md",
       "blog/2026-04-17-claim-suppression-playbook.md"
     ],
     "9,269": [
-      "blog/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md"
+      "blog/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md"
     ],
     "2020–2026": [
-      "blog/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
+      "blog/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
       "blog/2026-04-26-onsbt-accessibility-barriers-vulnerable-communities.md"
     ],
     "(power": [
@@ -17910,7 +17910,7 @@
     "analysis:": [
       "blog/2026-04-30-suppression-gap.md",
       "blog/2026-04-16-wsib-transparency-gap-outcome-obscurity-REVISED.md",
-      "blog/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md"
+      "blog/human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md"
     ],
     "139,000": [
       "blog/2026-04-30-suppression-gap.md"
@@ -18111,22 +18111,22 @@
       "blog/2026-03-19-dev-update-dev-update-2026-03-19.md"
     ],
     "abandonment": [
-      "blog/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md"
+      "blog/human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md"
     ],
     "email": [
-      "blog/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md"
+      "blog/human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md"
     ],
     "issues": [
-      "blog/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md"
+      "blog/human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md"
     ],
     "cited": [
-      "blog/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md"
+      "blog/human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md"
     ],
     "91.9%": [
-      "blog/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md"
+      "blog/human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md"
     ],
     "abandoned": [
-      "blog/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md"
+      "blog/human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md"
     ],
     "(2026-04-19)": [
       "blog/2026-04-19-weekly-update-week-16.md"
@@ -20422,36 +20422,36 @@
       "blog/2025-12-07-weekly-update-week-50.md"
     ],
     "hrto": [
-      "blog/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md"
+      "blog/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md"
     ],
     "onhrt": [
-      "blog/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md"
+      "blog/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md"
     ],
     "human-rights": [
-      "blog/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md"
+      "blog/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md"
     ],
     "disability-discrimination": [
-      "blog/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md"
+      "blog/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md"
     ],
     "accessibility-barriers": [
-      "blog/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
+      "blog/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
       "blog/2026-04-26-onsbt-accessibility-barriers-vulnerable-communities.md"
     ],
     "disability-justice": [
-      "blog/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
+      "blog/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
       "blog/2026-04-26-onsbt-accessibility-barriers-vulnerable-communities.md"
     ],
     "vulnerable-communities": [
-      "blog/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
+      "blog/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
       "blog/2026-04-26-onsbt-2020-2026-comprehensive-analysis.md",
       "blog/2026-04-26-onsbt-accessibility-barriers-vulnerable-communities.md"
     ],
     "systemic-exclusion": [
-      "blog/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
+      "blog/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
       "blog/2026-04-26-onsbt-accessibility-barriers-vulnerable-communities.md"
     ],
     "research": [
-      "blog/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
+      "blog/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
       "blog/2026-04-26-onsbt-2020-2026-comprehensive-analysis.md",
       "blog/2026-04-26-onsbt-accessibility-barriers-vulnerable-communities.md",
       "blog/2026-04-26-onsbt-outcome-classification-audit-update.md",
@@ -20459,7 +20459,7 @@
       "blog/2026-04-15-wsib-exposed-statistical-evidence-proves-systematic-manipulation.md"
     ],
     "tribunal-analysis": [
-      "blog/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
+      "blog/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
       "blog/2026-04-26-onsbt-2020-2026-comprehensive-analysis.md",
       "blog/2026-04-26-onsbt-accessibility-barriers-vulnerable-communities.md"
     ],
@@ -20688,16 +20688,16 @@
       "blog/2026-04-17-claim-suppression-playbook.md"
     ],
     "hrto-analysis": [
-      "blog/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md"
+      "blog/human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md"
     ],
     "email-notifications": [
-      "blog/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md"
+      "blog/human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md"
     ],
     "abandonment-patterns": [
-      "blog/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md"
+      "blog/human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md"
     ],
     "digital-divide": [
-      "blog/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md"
+      "blog/human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md"
     ],
     "legal-tools": [
       "blog/2026-04-19-feature-spotlight-accessible-document-generation.md"
@@ -21753,7 +21753,7 @@
     ],
     "community-updates": [
       "blog/2026-05-14-ontario-legal-intelligence-system-launch.md",
-      "blog/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
+      "blog/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
       "blog/2026-05-08-onca-precedent-overview.md",
       "blog/2026-04-26-onsbt-2020-2026-comprehensive-analysis.md",
       "blog/2026-04-26-onsbt-accessibility-barriers-vulnerable-communities.md",
@@ -21765,7 +21765,7 @@
     ],
     "research": [
       "blog/2026-05-14-ontario-legal-intelligence-system-launch.md",
-      "blog/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
+      "blog/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
       "blog/2026-05-11-bill-105-power-act-analysis.md",
       "blog/2026-05-11-bill-86-vs-bill-105-comparison.md",
       "blog/2026-05-08-onca-precedent-overview.md",
@@ -21775,7 +21775,7 @@
       "blog/2026-04-26-onwsib-outcome-gap-audit-update.md",
       "blog/2026-04-25-feature-spotlight-canlii-database-ontario-wsib-hrto-cases-expanding-canada-wide.md",
       "blog/2026-04-16-wsib-transparency-gap-outcome-obscurity-REVISED.md",
-      "blog/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md",
+      "blog/human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md",
       "blog/2026-04-17-beta-tester-contribution-claim-suppression.md",
       "blog/2026-04-17-bill-86-MeredithActmain.md",
       "blog/2026-04-17-claim-suppression-playbook.md",
@@ -21785,10 +21785,10 @@
       "blog/2026-04-15-wsib-exposed-statistical-evidence-proves-systematic-manipulation.md"
     ],
     "disability-justice": [
-      "blog/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md"
+      "blog/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md"
     ],
     "tribunal-analysis": [
-      "blog/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
+      "blog/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/.md",
       "blog/2026-04-26-onsbt-2020-2026-comprehensive-analysis.md",
       "blog/2026-04-26-onsbt-accessibility-barriers-vulnerable-communities.md"
     ],
@@ -21863,10 +21863,10 @@
       "blog/2026-03-31-security-runbook-how-we-protect-you.md"
     ],
     "human rights": [
-      "blog/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md"
+      "blog/human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md"
     ],
     "access to justice": [
-      "blog/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md"
+      "blog/human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/.md"
     ],
     "claim-suppression": [
       "blog/2026-04-17-claim-suppression-playbook.md",

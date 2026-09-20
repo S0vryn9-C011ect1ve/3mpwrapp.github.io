@@ -428,7 +428,7 @@ That's why we're building 3mpwrApp. That's why we're fighting for data access. T
 **Tribunal Data & Transparency:**
 - [Feature Spotlight: CanLII Database - Ontario WSIB & HRTO Cases (Expanding Canada-Wide)](/_posts/2026-04-25-feature-spotlight-canlii-database-ontario-wsib-hrto-cases-expanding-canada-wide.md) - Searchable database of 34,928+ tribunal decisions with AI-powered outcome predictions
 - [Cross-Tribunal Comparison: HRTO's 73.5% Abandonment vs WSIAT's 65-73% Worker Success](/_posts/2026-04-20-hrto-wsiat-cross-tribunal-comparison.md) - Why do human rights cases fail when workers' comp cases succeed?
-- [HRTO Abandonment Analysis: Email Issues in 70.1% of Abandoned Cases](/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/) - Digital barriers blocking vulnerable claimants from justice
+- [HRTO Abandonment Analysis: Email Issues in 70.1% of Abandoned Cases](/human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/) - Digital barriers blocking vulnerable claimants from justice
 
 **Claim Suppression Research:**
 - [The Claim Suppression Playbook: How Employers Block Legitimate WSIB Claims](https://3mpwrapp.ca/research.htmlwsib/claim-suppression/2026/04/17/claim-suppression-playbook/) - Documented tactics employers use to prevent workers from filing claims

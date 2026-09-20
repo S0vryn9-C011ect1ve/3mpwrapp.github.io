@@ -9,11 +9,12 @@ https://www.3mpwrapp.ca/* https://3mpwrapp.ca/:splat 301!
 
 # Allow Jekyll-generated blog posts and pages to work
 # Blog 404 redirects (Themis compliance fix 2026-09-11)
-/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/* /community-updates/research/2026/05/14/hrto-disability-discrimination-patterns-analysis/ 301
+/hrto-outcome-timeline-2020-2026.html/* /hrto-outcome-timeline-2020-2026.html 301
 /blog/2026/05/08/onca-precedent-overview/* /community-updates/research/2026/05/08/onca-precedent-overview/ 301
-/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis /community-updates/research/2026/05/14/hrto-disability-discrimination-patterns-analysis/ 301
+/hrto-outcome-timeline-2020-2026.html /hrto-outcome-timeline-2020-2026.html 301
 /blog/2026/05/08/onca-precedent-overview /community-updates/research/2026/05/08/onca-precedent-overview/ 301
 /20*/* 200!
+
 # Legal pages (Jekyll pretty URLs generate as directories)
 /about /about/ 200
 /research /research/ 200
@@ -23,9 +24,34 @@ https://www.3mpwrapp.ca/* https://3mpwrapp.ca/:splat 301!
 /faq /faq/ 200
 /accessibility /accessibility/ 200
 /code-of-conduct /code-of-conduct/ 200
+
+# Newly-unexcluded public pages (audit fix 2026-09-12)
+/knowledge-base /knowledge-base/ 200
+/app-tour /app-tour/ 200
+/app-waitlist /app-waitlist/ 200
+/roadmap /roadmap/ 200
+/how-to-use-this-data /how-to-use-this-data/ 200
+
+# New feature / user-guide / beta pages (2026-09-12)
+/features /features/ 200
+/user-guide /user-guide/ 200
+/beta-testers-guide /beta-guide/ 200
+
+# Dead-link fixes (audit 2026-09-12)
+/beta-signup /app-waitlist/ 200
+/beta-signup/ /app-waitlist/ 200
+/reports /support/ 200
+/reports/ /support/ 200
+
 # Old community-guidelines path → new code-of-conduct (cache-bust redirect)
 /community/guidelines /code-of-conduct/ 301
 /community/guidelines/ /code-of-conduct/ 301
 
 # SPA fallback for remaining routes (lower priority)
+
+# HRTO posts (Themis compliance fix 2026-09-20)
+/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/* /human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/ 301
+/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic /human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/ 301
+/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/* /community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/ 301
+/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis /community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/ 301
 /* /index.html 200
