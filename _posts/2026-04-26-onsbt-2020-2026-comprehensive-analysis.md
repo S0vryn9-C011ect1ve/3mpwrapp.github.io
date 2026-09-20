@@ -20,7 +20,7 @@ excerpt: "Comprehensive analysis of 13,798 ONSBT tribunal decisions over seven y
 
 ---
 
-> **📋 ACCURACY AUDIT — 2026-07-20 (post laptop-failure recovery).** Reviewed against the recovered Ontario scrape. Outcome/grant/success rates are **keyword-inferred** (CanLII API lacks structured outcome labels) unless a tribunal open-data portal is cited. BC WCAT collection was **interrupted by the 2026-07 laptop failure** and is not complete. Cross-post success-rate figures were found inconsistent and are treated as exploratory. Counts are raw decision records, not deduplicated or classified outcomes. ONSBT's own 67.4% success figure (this post) differs from the 47.2% cited in the ONCA post — the ONCA cross-citation has been retracted as definitive (see ONCA post audit note).
+> **📋 ACCURACY AUDIT — 2026-07-20 (post laptop-failure recovery).** Reviewed against the recovered Ontario scrape. Outcome/grant/success rates are **keyword-inferred** (CanLII API lacks structured outcome labels) unless a tribunal open-data portal is cited. BC WCAT collection was **recovered and committed (7,386 decisions, 2020–2026) — verifiable; outcomes remain keyword-inferred. Cross-post success-rate figures were found inconsistent and are treated as exploratory. Counts are raw decision records, not deduplicated or classified outcomes. ONSBT's own 67.4% success figure (this post) differs from the 47.2% cited in the ONCA post — the ONCA cross-citation has been retracted as definitive (see ONCA post audit note).
 
 ## Overview: The Data Landscape
 

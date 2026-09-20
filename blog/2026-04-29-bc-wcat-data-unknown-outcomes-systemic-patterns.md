@@ -9,7 +9,7 @@ excerpt: "We've collected 7,386 BC Workers' Compensation Appeal Tribunal decisio
 image: /assets/images/bc-wcat-unknown-outcomes-2026-04-29.png
 ---
 
-> **📋 ACCURACY AUDIT — 2026-07-20 (post laptop-failure recovery).** Reviewed against the recovered Ontario scrape. Outcome/grant/success rates are **keyword-inferred** (CanLII API lacks structured outcome labels) unless a tribunal open-data portal is cited. BC WCAT collection was **interrupted by the 2026-07 laptop failure** and is not complete. Cross-post success-rate figures were found inconsistent and are treated as exploratory. Counts are raw decision records, not deduplicated or classified outcomes.
+> **📋 ACCURACY AUDIT — 2026-07-20 (post laptop-failure recovery).** Reviewed against the recovered Ontario scrape. Outcome/grant/success rates are **keyword-inferred** (CanLII API lacks structured outcome labels) unless a tribunal open-data portal is cited. BC WCAT collection was **recovered and committed (7,386 decisions, 2020–2026) — verifiable; outcomes remain keyword-inferred. Cross-post success-rate figures were found inconsistent and are treated as exploratory. Counts are raw decision records, not deduplicated or classified outcomes.
 
 # BC WCAT Data Collection Interrupted: 100% Unknown Outcomes & The Fight to Expose Systemic Abuse
 
