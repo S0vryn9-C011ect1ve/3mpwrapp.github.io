@@ -20,7 +20,7 @@ The Ontario Court of Appeal (ONCA) is Ontario's highest provincial court. Worker
 Our analysis of 5,034 ONCA decisions reveals:
 - **Zero direct workplace injury appeals** found (WSIAT → Divisional Court → ONCA pathway)
 - **13.2% success rate** for all appeals (156 allowed of 1,179 classified appeals)
-- **58.1% of decisions** are procedural (Unknown/Procedural: 2,926 cases)
+- **16.5% combined** are Unknown/Procedural (Unknown 560 + Procedural 269); the 2,926 "Unknown/Procedural" row is a residual catch-all, not a measured class
 - **Leave to appeal granted:** 0.6% (32 of 5,034 applications)
 
 **Note:** One 2020 case (*Sokoloff v. Tru-Path*, 2020 ONCA 730) involving an occupational therapy company appeared in keyword searches but was a defamation case, not a workplace injury appeal.
@@ -149,7 +149,7 @@ Your case travels up this ladder:
 
 | Outcome | Count | % | What It Means |
 |---------|-------|---|---------------|
-| **Unknown/Procedural** | 2,926 | 58.1% | Case outcome not classified or procedural motion only |
+| **Other/Unclassified (residual)** | 2,926 | 58.1%* | Catch-all residual bucket; actual Unknown+Procedural = 829 (16.5%) |
 | **Appeal Dismissed** | 1,023 | 20.3% | Appellant loses - lower decision stands |
 | **Costs Decision** | 590 | 11.7% | Court orders one party to pay other's legal fees |
 | **Appeal Allowed** | 156 | 3.1% | Appellant wins - lower decision overturned |
@@ -162,6 +162,8 @@ Your case travels up this ladder:
 
 **Success Rate Calculation:**  
 156 allowed ÷ 1,179 classified appeals = **13.2% success rate**
+
+*58.1% is the unclassified residual; real outcome values: Unknown 560 (11.1%) + Procedural 269 (5.3%) = 16.5% combined.*
 
 ---
 

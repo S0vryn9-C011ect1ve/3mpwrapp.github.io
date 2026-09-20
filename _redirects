@@ -9,9 +9,9 @@ https://www.3mpwrapp.ca/* https://3mpwrapp.ca/:splat 301!
 
 # Allow Jekyll-generated blog posts and pages to work
 # Blog 404 redirects (Themis compliance fix 2026-09-11)
-/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/* /community-updates/research/2026/05/14/hrto-disability-discrimination-patterns-analysis/ 301
+/hrto-outcome-timeline-2020-2026.html/* /hrto-outcome-timeline-2020-2026.html 301
 /blog/2026/05/08/onca-precedent-overview/* /community-updates/research/2026/05/08/onca-precedent-overview/ 301
-/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis /community-updates/research/2026/05/14/hrto-disability-discrimination-patterns-analysis/ 301
+/hrto-outcome-timeline-2020-2026.html /hrto-outcome-timeline-2020-2026.html 301
 /blog/2026/05/08/onca-precedent-overview /community-updates/research/2026/05/08/onca-precedent-overview/ 301
 /20*/* 200!
 
@@ -48,4 +48,10 @@ https://www.3mpwrapp.ca/* https://3mpwrapp.ca/:splat 301!
 /community/guidelines/ /code-of-conduct/ 301
 
 # SPA fallback for remaining routes (lower priority)
+
+# HRTO posts (Themis compliance fix 2026-09-20)
+/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/* /human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/ 301
+/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic /human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/ 301
+/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/* /community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/ 301
+/blog/2026/05/14/hrto-disability-discrimination-patterns-analysis /community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/ 301
 /* /index.html 200
