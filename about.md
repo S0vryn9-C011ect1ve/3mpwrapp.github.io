@@ -10,8 +10,6 @@ description: 3mpwrApp empowers Canada's disability and injured-worker community 
 <link rel="stylesheet" href="{{ '/assets/css/page-enhancements.css' | relative_url }}">
 <link rel="stylesheet" href="{{ '/assets/css/about.css' | relative_url }}">
 
-{%- include status-banner.html -%}
-
 <!-- About Page Hero with Logo -->
 <div style="text-align: center; margin: 2rem 0;">
   <picture>

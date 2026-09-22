@@ -7,11 +7,9 @@ lastUpdated: 2025-12-14
 ---
 
 
-{%- include status-banner.html -%}
-
 # 🗺️ 3mpwrApp Roadmap
 
-**Current Status: Production Ready - 1,253 Tests Passing - Preparing for Open Beta**
+**Current Status: 🚀 Phase 2 — Production Builds + Stress Testing (before app-store submission) — Canada-wide 🇨🇦**
 
 🎉 **December 9, 2025 Milestone:** First demo/intro presentation with Thunder Bay & District Injured Workers Support Group was a success! USA Lite now available for American supporters and allies.
 

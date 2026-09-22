@@ -5,7 +5,7 @@ description: Every change, every improvement, built in public. Track all updates
 permalink: /whats-new/
 ---
 
-{%- include status-banner.html -%}
+
 
 <!-- Building in Public Banner -->
 <div id="transparency-banner" class="transparency-banner">
