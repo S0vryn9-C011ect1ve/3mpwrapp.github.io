@@ -1,8 +1,48 @@
 {
   "year": 2026,
   "version": "1.0",
-  "lastUpdated": "2026-09-19T16:00:00-04:00",
+  "lastUpdated": "2026-09-21T15:00:00-04:00",
   "entries": [
+    {
+      "id": "wn-2026-09-21-claim-ingestion-v2",
+      "title": "🗂️ Claim-file ingestion rebuilt for real, complex WSIB files",
+      "summary": "Now handles messy, multi-PDF, multi-claim files spanning decades: organized extraction of imaging, diagnostics, reports & audio; docx/doc/pdf/xml/email/audio ingestion; device-local storage for thousands of pages. Hardened using real claim files.",
+      "date": "2026-09-21T15:00:00-04:00",
+      "category": "feature",
+      "repo": "app",
+      "commitSha": "c054fa3",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-21-auto-merge",
+      "title": "🔁 Auto-merge: new docs refresh deadlines + rebuild your Appeal Package",
+      "summary": "Drop a new document into a claim and 3mpwrapp de-dupes decisions & disputed evidence, refreshes deadlines, and regenerates the Appeal Package + complaint letters automatically.",
+      "date": "2026-09-21T15:05:00-04:00",
+      "category": "improvement",
+      "repo": "app",
+      "commitSha": "c054fa3",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-21-byok-audio",
+      "title": "🎙️ BYOK audio transcription — your voice recordings, on-device",
+      "summary": "Voice recordings (RTW meetings, HR calls) can now be transcribed on-device via your own LLM key (Settings → LLM BYOK). Nothing leaves your device unless you point it at your key.",
+      "date": "2026-09-21T15:10:00-04:00",
+      "category": "feature",
+      "repo": "app",
+      "commitSha": "c054fa3",
+      "archived": false
+    },
+    {
+      "id": "wn-2026-09-21-firebase-v26",
+      "title": "🔥 Firebase upgraded to v26 (App Check + Crashlytics)",
+      "summary": "Bumped @react-native-firebase 23 → 26 and ported App Check / Crashlytics to the v26 named-export API. More stable native crash reporting and app-attest/play-integrity providers.",
+      "date": "2026-09-21T15:15:00-04:00",
+      "category": "improvement",
+      "repo": "app",
+      "commitSha": "c054fa3",
+      "archived": false
+    },
     {
       "id": "wn-2026-09-19-sdk57-upgrade",
       "title": "🚀 Expo SDK 57 upgrade — faster, safer, modern stack",
