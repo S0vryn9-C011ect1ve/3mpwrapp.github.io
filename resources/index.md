@@ -206,6 +206,16 @@ We support **every type of disability:**
 
 ---
 
+## ⚠️ Important Notices
+
+### WSIB Strike — Appeals Paused (May 2025 – ongoing)
+Over 4,000 WSIB employees represented by OPSEU have been on strike since May 22, 2025. The WSIB has suspended all appeals processes and decision-making. **WSIAT hearings are paused** pending claim file updates. If you have a hearing scheduled or a deadline approaching, document everything in your Evidence Locker and use the Deadline Calculator.
+
+- **[📄 WSIB Strike — What Injured Workers Need to Know](/knowledge-base/wsib-strike-appeals-pause/)** — full guide with actionable steps
+- **Registration open:** [OFL × ONIWG Injured & Ill Worker Conference — Oct 1, Toronto](https://ofl.ca/event/injured-and-ill-worker-conference-2026-registration) — collective action event addressing current WSIB issues and Bill 105
+
+---
+
 ## 🔄 Updates & What's New
 
 ### Phase 2 (October 2025)
