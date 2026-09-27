@@ -75,7 +75,7 @@ exclude = [
 ### Potential Issues:
 1. **Jekyll Build Failing**: If `jekyll build` fails, no `_site` folder exists
 2. **Broken Internal Links**: Links to pages that don't exist
-3. **Liquid Template Errors**: Unrendered `{{ }}` or `{% ... %}` tags creating malformed links
+3. **Liquid Template Errors**: Unrendered `&#123;&#123; &#125;&#125;` or `&#123;% &#125;` tags creating malformed links
 4. **Relative Path Issues**: Links not resolving correctly after build
 5. **Anchor Links**: Missing ID targets (`#section-name`)
 6. **Excluded Paths**: Files in `_site` that shouldn't be checked
