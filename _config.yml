@@ -166,5 +166,14 @@ exclude:
   - docs/setup
   - docs/development
   - docs/performance
+  # _deploy is a committed copy of a previously built site: 15,249 files,
+  # 681 MB, and it still contains the SUPERSEDED research banner
+  # ('230,392 = 122,488 + 130,736', which sums to 253,224). Jekyll was
+  # building it, so the preflight gate could not distinguish the live
+  # source from a stale copy of itself. Excluded so the gate checks the
+  # real source only. The directory itself still needs removing - see
+  # '3mpwrapp _deploy Directory' in Obsidian.
+  - _deploy
+  - _deploy/**/*
   # - assets/downloads/3mpwrapp-user-guide-full.md  # retired: real /user-guide/ page now exists
   # Note: docs/ folder IS published (removed from exclude) so WSIB research is accessible

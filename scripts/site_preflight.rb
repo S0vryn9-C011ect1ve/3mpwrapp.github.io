@@ -28,7 +28,12 @@ require "set"
 
 ROOT = (ARGV[0] || ".").tr("\\", "/")
 # _posts_broken is a quarantine directory Jekyll does not build.
-SKIP_DIRS = ["_site", ".git", "node_modules", "_posts_broken", "vendor"]
+# _deploy is a COMMITTED COPY of a previously built site (15,249 files,
+# 681 MB). It contains the superseded research banner and the bare Liquid tag
+# that were fixed in the real source, so the gate must not read it - otherwise
+# it flags a stale copy of the site rather than the site itself. It is also
+# excluded from the Jekyll build in _config.yml.
+SKIP_DIRS = ["_site", ".git", "node_modules", "_posts_broken", "_deploy", "vendor"]
 findings = []
 
 def rel(path)
