@@ -1,5 +1,5 @@
 ---
-title: Pre-Existing Conditions: What You Need to Know
+title: 'Pre-Existing Conditions: What You Need to Know'
 description: What injured workers need to know about pre-existing conditions in a WSIB/WCB appeal — how tribunals weigh prior injuries, and how to show your workplace accident materially aggravated a condition. *Updated May 8, 2026 - uses the 2020-2026 WSIAT appeal archive and the reconciled ONWSIB internal-review archive*
 ---
 

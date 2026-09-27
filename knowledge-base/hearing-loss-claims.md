@@ -1,6 +1,6 @@
 ---
-title: Occupational Hearing Loss & Tinnitus: Breaking WSIB's "Age-Related Presbycusis" Denial
-description: > **⚠️ STATISTICAL ALERT:** Occupational hearing loss cases represent only **38 documented cases (0.3%)** of all WSIB tribunal decisions (2020-2026). This 
+title: 'Occupational Hearing Loss & Tinnitus: Breaking WSIB''s "Age-Related Presbycusis" Denial'
+description: '⚠️ STATISTICAL ALERT: Occupational hearing loss cases represent only 38 documented cases (0.3%) of all WSIB tribunal decisions (2020-2026). This'
 ---
 
 # Occupational Hearing Loss & Tinnitus: Breaking WSIB's "Age-Related Presbycusis" Denial

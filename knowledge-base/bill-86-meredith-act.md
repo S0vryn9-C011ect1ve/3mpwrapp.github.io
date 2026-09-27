@@ -1,5 +1,5 @@
 ---
-title: Bill 86: Meredith Act (Fair Compensation for Injured Workers), 2025
+title: 'Bill 86: Meredith Act (Fair Compensation for Injured Workers), 2025'
 description: Bill 86 was a Private Member's Bill that would have completely overhauled Ontario's workers' compensation system by repealing the Workplace Safety and Insu
 ---
 

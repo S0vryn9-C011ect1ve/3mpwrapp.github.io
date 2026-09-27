@@ -1,6 +1,6 @@
 ---
-title: Ankle Injuries: Breaking WSIB's "Minor Sprain, MRI Normal" Denial
-description: > **⚠️ STATISTICAL ALERT:** Ankle injuries (sprains, fractures, Achilles tendinitis, chronic instability) represent **272 cases (2.4%)** of all WSIB tribun
+title: 'Ankle Injuries: Breaking WSIB''s "Minor Sprain, MRI Normal" Denial'
+description: '⚠️ STATISTICAL ALERT: Ankle injuries (sprains, fractures, Achilles tendinitis, chronic instability) represent 272 cases (2.4%) of all WSIB tribun'
 ---
 
 # Ankle Injuries: Breaking WSIB's "Minor Sprain, MRI Normal" Denial

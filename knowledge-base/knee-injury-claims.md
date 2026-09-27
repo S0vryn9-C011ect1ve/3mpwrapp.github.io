@@ -1,6 +1,6 @@
 ---
-title: Knee Injury Claims: Exposing the 20% Pre-Existing Denial Bias
-description: > **⚠️ STATISTICAL ALERT:** Knee injuries represent **845 cases (7.4%)** of ALL WSIB tribunal decisions (2020-2026), with a documented **20% (95% CI: 17.3-
+title: 'Knee Injury Claims: Exposing the 20% Pre-Existing Denial Bias'
+description: '⚠️ STATISTICAL ALERT: Knee injuries represent 845 cases (7.4%) of ALL WSIB tribunal decisions (2020-2026), with a documented 20% (95% CI: 17.3-'
 ---
 
 # Knee Injury Claims: Exposing the 20% Pre-Existing Denial Bias

@@ -1,6 +1,6 @@
 ---
-title: Shoulder Injuries and Rotator Cuff Claims: The Hidden Epidemic
-description: > **⚠️ STATISTICAL ALERT:** Shoulder injuries represent **1,391 cases (12.2%)** of ALL WSIB tribunal decisions (2020-2026)—making shoulder injuries the **#
+title: 'Shoulder Injuries and Rotator Cuff Claims: The Hidden Epidemic'
+description: '⚠️ STATISTICAL ALERT: Shoulder injuries represent 1,391 cases (12.2%) of ALL WSIB tribunal decisions (2020-2026)—making shoulder injuries the #'
 ---
 
 # Shoulder Injuries and Rotator Cuff Claims: The Hidden Epidemic

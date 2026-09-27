@@ -1,6 +1,6 @@
 ---
 title: Understanding Low Back Pain Claims at WSIB
-description: > **⚠️ STATISTICAL ALERT:** Low back pain represents **390 cases (3.4%)** of all WSIB tribunal decisions (2020-2026). Analysis of 99,036 cases reveals syst
+description: '⚠️ STATISTICAL ALERT: Low back pain represents 390 cases (3.4%) of all WSIB tribunal decisions (2020-2026). Analysis of 99,036 cases reveals syst'
 ---
 
 # Understanding Low Back Pain Claims at WSIB

@@ -1,6 +1,6 @@
 ---
-title: Hand & Finger Injuries: Breaking WSIB's "Minor Laceration, Healed" Denial
-description: > **⚠️ STATISTICAL ALERT:** Hand and finger injuries (lacerations, fractures, amputations, trigger finger, nerve injuries, crush injuries) represent **186 
+title: 'Hand & Finger Injuries: Breaking WSIB''s "Minor Laceration, Healed" Denial'
+description: '⚠️ STATISTICAL ALERT: Hand and finger injuries (lacerations, fractures, amputations, trigger finger, nerve injuries, crush injuries) represent 186'
 ---
 
 # Hand & Finger Injuries: Breaking WSIB's "Minor Laceration, Healed" Denial

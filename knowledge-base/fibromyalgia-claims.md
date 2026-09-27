@@ -1,6 +1,6 @@
 ---
-title: Fibromyalgia and WSIB: Your Complete Guide
-description: > **⚠️ STATISTICAL ALERT:** Fibromyalgia appears in **88 cases (0.8%)** of all WSIB tribunal decisions (2020-2026). This represents ~54% increase from prev
+title: 'Fibromyalgia and WSIB: Your Complete Guide'
+description: '⚠️ STATISTICAL ALERT: Fibromyalgia appears in 88 cases (0.8%) of all WSIB tribunal decisions (2020-2026). This represents ~54% increase from prev'
 ---
 
 # Fibromyalgia and WSIB: Your Complete Guide

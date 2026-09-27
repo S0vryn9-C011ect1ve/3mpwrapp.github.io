@@ -1,6 +1,6 @@
 ---
-title: Hip Injuries: Breaking WSIB's "Age-Related Arthritis" Denial
-description: > **⚠️ STATISTICAL ALERT:** Hip injuries (hip osteoarthritis, labral tears, bursitis, fractures, tendinitis) represent **124 cases (1.1%)** of all WSIB tri
+title: 'Hip Injuries: Breaking WSIB''s "Age-Related Arthritis" Denial'
+description: '⚠️ STATISTICAL ALERT: Hip injuries (hip osteoarthritis, labral tears, bursitis, fractures, tendinitis) represent 124 cases (1.1%) of all WSIB tri'
 ---
 
 # Hip Injuries: Breaking WSIB's "Age-Related Arthritis" Denial

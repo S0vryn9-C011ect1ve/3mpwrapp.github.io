@@ -1,6 +1,6 @@
 ---
-title: Neck Injuries and Whiplash Claims: Navigating WSIB's "Soft Tissue" Trap
-description: > **⚠️ STATISTICAL ALERT:** Neck injuries (whiplash, cervical strain, herniated discs) represent **485 cases (4.2%)** of all WSIB tribunal decisions (2020-
+title: 'Neck Injuries and Whiplash Claims: Navigating WSIB''s "Soft Tissue" Trap'
+description: '⚠️ STATISTICAL ALERT: Neck injuries (whiplash, cervical strain, herniated discs) represent 485 cases (4.2%) of all WSIB tribunal decisions (2020-'
 ---
 
 # Neck Injuries and Whiplash Claims: Navigating WSIB's "Soft Tissue" Trap

@@ -1,6 +1,6 @@
 ---
-title: Concussion & Traumatic Brain Injury (TBI): Breaking WSIB's "Subjective Symptoms" Denial
-description: > **⚠️ STATISTICAL ALERT:** Concussion and traumatic brain injury (TBI) cases represent **183 cases (1.6%)** of all WSIB tribunal decisions (2020-2026). WS
+title: 'Concussion & Traumatic Brain Injury (TBI): Breaking WSIB''s "Subjective Symptoms" Denial'
+description: '⚠️ STATISTICAL ALERT: Concussion and traumatic brain injury (TBI) cases represent 183 cases (1.6%) of all WSIB tribunal decisions (2020-2026). WS'
 ---
 
 # Concussion & Traumatic Brain Injury (TBI): Breaking WSIB's "Subjective Symptoms" Denial

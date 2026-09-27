@@ -1,6 +1,6 @@
 ---
-title: Elbow Injuries (Tennis Elbow, Golfer's Elbow, Bursitis): Breaking WSIB's "Degenerative, Not Work-Related" Denial
-description: > **⚠️ STATISTICAL ALERT:** Elbow injuries (lateral epicondylitis/tennis elbow, medial epicondylitis/golfer's elbow, olecranon bursitis, biceps tendon tear
+title: 'Elbow Injuries (Tennis Elbow, Golfer''s Elbow, Bursitis): Breaking WSIB''s "Degenerative, Not Work-Related" Denial'
+description: '⚠️ STATISTICAL ALERT: Elbow injuries (lateral epicondylitis/tennis elbow, medial epicondylitis/golfer''s elbow, olecranon bursitis, biceps tendon tear'
 ---
 
 # Elbow Injuries (Tennis Elbow, Golfer's Elbow, Bursitis): Breaking WSIB's "Degenerative, Not Work-Related" Denial

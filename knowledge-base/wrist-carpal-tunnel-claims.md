@@ -1,6 +1,6 @@
 ---
-title: Wrist Injuries and Carpal Tunnel Claims: Breaking WSIB's "Gradual Onset" Denial
-description: > **⚠️ STATISTICAL ALERT:** Wrist injuries (carpal tunnel syndrome, wrist fractures, de Quervain's tenosynovitis, TFCC tears) represent **376 cases (3.3%)*
+title: "Wrist Injuries and Carpal Tunnel Claims: Breaking WSIB's \"Gradual Onset\" Denial"
+description: 'Wrist injuries (carpal tunnel syndrome, wrist fractures, de Quervain''s tenosynovitis, TFCC tears) represent 376 cases (3.3%) of all WSIB tribunal decisions 2020-2026. WSIB systematically denies these claims as "gradual onset, not workplace accidents".'
 ---
 
 # Wrist Injuries and Carpal Tunnel Claims: Breaking WSIB's "Gradual Onset" Denial

@@ -1,6 +1,6 @@
 ---
-title: Psychotraumatic Disability: Understanding Your Rights
-description: > **⚠️ STATISTICAL ALERT:** Mental health injuries (psychotraumatic disability, PTSD, anxiety, depression) represent **611 cases (5.3%)** of all WSIB tribu
+title: 'Psychotraumatic Disability: Understanding Your Rights'
+description: '⚠️ STATISTICAL ALERT: Mental health injuries (psychotraumatic disability, PTSD, anxiety, depression) represent 611 cases (5.3%) of all WSIB tribu'
 ---
 
 # Psychotraumatic Disability: Understanding Your Rights
