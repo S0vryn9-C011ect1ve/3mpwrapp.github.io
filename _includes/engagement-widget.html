@@ -595,13 +595,17 @@ document.addEventListener('DOMContentLoaded', function() {
 ### 1. Add to Blog Post Layout
 Include in `_layouts/post.html`:
 ```liquid
+{% raw %}
 {% include engagement-widget.html %}
+{% endraw %}
 ```
 
 ### 2. Add to Curation Index
 Include in `_layouts/curation.html`:
 ```liquid
+{% raw %}
 {% include engagement-widget.html %}
+{% endraw %}
 ```
 
 ### 3. Backend for Story Submissions
