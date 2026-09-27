@@ -4,7 +4,7 @@ title: "What 3mpwr Means: The Philosophy Behind Our Name"
 date: 2026-06-10 00:00:00 +0000
 tags: [community, philosophy, mission, philosophy]
 categories: [community]
-excerpt: "Unpacking the meaning behind "3mpwr" - the three pillars, the values, and the vision embedded in how we named this community"
+excerpt: 'Unpacking the meaning behind "3mpwr" - the three pillars, the values, and the vision embedded in how we named this community'
 ---
 # What 3mpwr Means: The Philosophy Behind Our Name
 Names are statements of intent. When we named this platform, we did not hire a brand naming consultant. We asked the community what they wanted it to represent - and the conversation shaped everything.

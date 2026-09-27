@@ -6,7 +6,7 @@ tags: [ai-predictions, accuracy, tribunal-outcomes, methodology]
 excerpt: Understand how we achieve 79% accuracy predicting tribunal outcomes—and when you should trust vs. question the predictions.
 date: 2026-04-28
 last_updated: 2026-04-28
-description: **Short answer:** Our AI model correctly predicts tribunal outcomes **79.0% of the time** when tested on cases it's never seen before.
+description: '**Short answer:** Our AI model correctly predicts tribunal outcomes **79.0% of the time** when tested on cases it''s never seen before.'
 ---
 
 

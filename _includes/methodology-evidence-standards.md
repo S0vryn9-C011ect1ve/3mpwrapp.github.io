@@ -1,12 +1,9 @@
----
-
 ## 📊 Methodology & Evidence Standards: How We Know This
 
 ### Our Research Foundation
 
 **We prioritize credibility over sensationalism.** Claims of "systematic manipulation" require rock-solid evidence. Here's exactly how we arrived at our conclusions, what we can prove vs. what we infer, and where our analysis has limitations.
 
----
 
 ### 1. Data Collection & Sample Size
 
