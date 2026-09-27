@@ -1,0 +1,64 @@
+name: Site Preflight Gate
+
+# Blocks a deploy when the source contains a fault that has actually broken
+# this site before, or a published figure that contradicts itself.
+#
+# Why this exists: the site carried wrong research numbers for weeks while
+# every job reported success. The corrected source was committed, the build
+# failed silently on malformed YAML, and nothing raised an alarm. This gate
+# fails loudly instead.
+#
+# It is a SEPARATE workflow from the deploy, on purpose. The deploy workflow
+# builds with Jekyll; this one validates the source first and must pass on its
+# own merits. Do not merge them - a failed preflight should stop the deploy
+# from ever being attempted.
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: "site-preflight"
+  cancel-in-progress: true
+
+jobs:
+  preflight:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4
+        with:
+          ruby-version: '3.3'
+
+      - name: Run site preflight
+        run: ruby scripts/site_preflight.rb .
+
+      - name: Explain the failure
+        if: failure()
+        run: |
+          echo "::error::Site preflight failed. The deploy should not proceed."
+          echo ""
+          echo "Four checks run, each of which corresponds to a fault that has"
+          echo "already broken this site:"
+          echo "  [frontmatter]  a .md frontmatter block that will not parse, or a"
+          echo "                 scalar that silently became a nested mapping"
+          echo "                 (an unquoted value containing ': ')"
+          echo "  [bare-liquid]  a literal '{% %}' written as prose. Jekyll parses"
+          echo "                 Liquid before markdown, so a code fence or"
+          echo "                 backticks do not protect it."
+          echo "  [self-include] an include naming its own file -> infinite"
+          echo "                 recursion -> 'stack level too deep'"
+          echo "  [arithmetic]   a published banner whose parts do not sum to the"
+          echo "                 headline it claims to audit"
+          echo ""
+          echo "Fix the source and re-run. Do not bypass this gate."
