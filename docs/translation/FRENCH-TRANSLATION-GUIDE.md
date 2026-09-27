@@ -103,7 +103,7 @@ And updates:
 ### 2. Content Translation
 - Translates all markdown content in chunks
 - Preserves HTML tags and structure
-- Skips code blocks (```), Liquid tags ({% %}), and HTML comments
+- Skips code blocks (```), Liquid tags ({% ... %}), and HTML comments
 - Maintains formatting and spacing
 
 ### 3. Rate Limiting
