@@ -26,13 +26,7 @@ require "yaml"
 require "date"
 require "set"
 
-ROOT     = ARGV[0] || "."
-# Dir.glob on this Ruby build (3.3.12 mingw-ucrt) does not match a pattern
-# built from a backslash-separated path: File.join("C:\a\b", "**", "*.md")
-# returns 0 files, while the same path with forward slashes returns the file.
-# That produced a gate which silently reported "0 files checked" and exited 0
-# on any Windows-style root. Normalise before globbing.
-ROOT = ROOT.tr("\\", "/")
+ROOT = (ARGV[0] || ".").tr("\\", "/")
 # _posts_broken is a quarantine directory Jekyll does not build.
 SKIP_DIRS = ["_site", ".git", "node_modules", "_posts_broken", "vendor"]
 findings = []
@@ -58,9 +52,10 @@ def frontmatter_findings(root, findings)
   Dir.glob(File.join(root, "**", "*.md"), File::FNM_DOTMATCH).each do |f|
     relp = rel(f.sub(%r{\A#{Regexp.escape(root)}/?}, ""))
     next if SKIP_DIRS.any? { |d| relp.start_with?("#{d}/") }
-    t = File.read(f, encoding: "UTF-8", invalid: :replace, undef: :replace)
-    next unless t.start_with?("---")
-    m = t.match(/\A---\r?\n(.*?)\r?\n---[ \t]*\r?\n?/m)
+    raw = File.read(f, encoding: "UTF-8", invalid: :replace, undef: :replace)
+    raw = raw.encode("UTF-8", invalid: :replace, undef: :replace, replace: "")
+    next unless raw.start_with?("---")
+    m = raw.match(/\A---\r?\n(.*?)\r?\n---[ \t]*\r?\n?/m)
     next unless m
     checked += 1
     begin
@@ -98,6 +93,12 @@ def liquid_findings(root, findings)
     # NOTE: this Ruby build has no String#splitlines (verified: respond_to? is
     # false), so use #lines, which is present.
     lines = File.read(f, encoding: "UTF-8", invalid: :replace, undef: :replace).lines
+    # A file can contain bytes that are invalid UTF-8. Reading with
+    # invalid: :replace substitutes them, but the resulting string can still
+    # raise Encoding::CompatibilityError on strip/scan. Scrub once, up front,
+    # so one bad byte in one file cannot abort the whole gate - which is how
+    # this check failed on Linux CI while passing on Windows.
+    lines = lines.map { |l| l.encode("UTF-8", invalid: :replace, undef: :replace, replace: "") }
     # Liquid does not execute anything inside a {% comment %} block or a
     # {% raw %} block, so a self-include appearing in one is documentation
     # rather than recursion. Track both. This matters: the two lines below are
@@ -161,7 +162,11 @@ def arithmetic_findings(root, findings)
   Dir.glob(File.join(root, "**", "*.{md,html}"), File::FNM_DOTMATCH).each do |f|
     relp = rel(f.sub(%r{\A#{Regexp.escape(root)}/?}, ""))
     next if SKIP_DIRS.any? { |d| relp.start_with?("#{d}/") }
-    txt = strip_tags(File.read(f, encoding: "UTF-8", invalid: :replace, undef: :replace))
+    raw = File.read(f, encoding: "UTF-8", invalid: :replace, undef: :replace)
+    # Scrub invalid UTF-8 up front: one bad byte must not abort the gate.
+    # See the note in liquid_findings.
+    raw = raw.encode("UTF-8", invalid: :replace, undef: :replace, replace: "")
+    txt = strip_tags(raw)
     # Decode only numeric character references, and only those that map to
     # printable ASCII. chr() raises RangeError for values this build cannot
     # represent, and a doc full of typographic entities (e.g. &#8217;) must
