@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Daily News Curation - 2026-09-30"
+date: 2026-09-30
+tags: [highlights]
+categories: [curation, news]
+excerpt: "Today's curated disability rights, accessibility, and social policy news from across Canada."
+---
+
+# Daily News Curation - 2026-09-30
+
+Curated 7 items from disability, accessibility, and social policy sources.
+
+## 🌟 Featured: The Disability Bulletin
+
+### The Disability Bulletin
+The Disability Bulletin covers disability rights news, advocacy updates, and community stories from across Canada. Visit for the latest issue.
+📍 [Read More](https://linktr.ee/thedisabilitybulletin)
+
+---
+
+## Additional Stories
+
+### 1. DULF Wins Constitutional Challenge, Judge Applauds Their Work
+Compassion club co-founders Eris Nyx and Jeremy Kalicum will avoid prison and Canada told to update its drug laws.
+[Source](https://thetyee.ca/News/2026/09/29/DULF-Wins-Constitutional-Challenge-Judge-Applauds-Work/)
+**Score:** 17.00
+
+### 2. Manitoba Government Returns to Legislature With Focus on Affordability and Health Care
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75557)
+**Score:** 13.50
+
+### 3. Manitoba Government Releases First-Quarter Fiscal and Economic Update
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75559)
+**Score:** 12.00
+
+### 4. Sexual Health Educator Concerned About Abbotsford’s Focus on Abstinence
+The school district says it takes a comprehensive approach that reflects community context.
+[Source](https://thetyee.ca/News/2026/09/30/Sexual-Health-Educator-Abbotsford-Focus-Abstinence/)
+**Score:** 7.00
+
+### 5. Manitoba Government to Protect Brandon Residential School Cemetery
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75558)
+**Score:** 7.50
+
+### 6. Manitoba Government on Track to Balance Budget Next Year
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75437)
+**Score:** 7.50
+

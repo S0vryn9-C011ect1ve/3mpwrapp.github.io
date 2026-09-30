@@ -6,8 +6,8 @@
     <atom:link href="https://3mpwrapp.pages.dev/feeds/curated.xml" rel="self" type="application/rss+xml" />
     <description>Daily curated news on disability rights, accessibility, and benefits across Canada</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 29 Sep 2026 17:49:57 GMT</lastBuildDate>
-    <pubDate>Tue, 29 Sep 2026 17:49:57 GMT</pubDate>
+    <lastBuildDate>Wed, 30 Sep 2026 17:45:23 GMT</lastBuildDate>
+    <pubDate>Wed, 30 Sep 2026 17:45:23 GMT</pubDate>
     <generator>3mpwr App Curator v2.0</generator>
     <image>
       <url>https://3mpwrapp.pages.dev/assets/images/logo.png</url>
@@ -23,27 +23,64 @@
       <title>The Disability Bulletin</title>
       <link>https://linktr.ee/thedisabilitybulletin</link>
       <guid isPermaLink="true">https://linktr.ee/thedisabilitybulletin</guid>
-      <description><![CDATA[Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.]]></description>
-      <pubDate>Tue, 29 Sep 2026 17:49:57 GMT</pubDate>
+      <description><![CDATA[The Disability Bulletin covers disability rights news, advocacy updates, and community stories from across Canada. Visit for the latest issue.]]></description>
+      <pubDate>Wed, 30 Sep 2026 17:45:23 GMT</pubDate>
       <category>Critical</category>
       <dc:creator>3mpwr App Curator</dc:creator>
     </item>
 
     <item>
-      <title>Political pressure, negligence, incompetence all contributed to pandemic tragedy at High River, Alberta plant, new report says</title>
-      <link>https://rabble.ca/politics/canadian-politics/political-pressure-negligence-incompetence-all-contributed-to-pandemic-tragedy-at-high-river-alberta-plant-new-report-says/</link>
-      <guid isPermaLink="true">https://rabble.ca/politics/canadian-politics/political-pressure-negligence-incompetence-all-contributed-to-pandemic-tragedy-at-high-river-alberta-plant-new-report-says/</guid>
-      <pubDate>Tue, 29 Sep 2026 01:14:08 GMT</pubDate>
+      <title>DULF Wins Constitutional Challenge, Judge Applauds Their Work</title>
+      <link>https://thetyee.ca/News/2026/09/29/DULF-Wins-Constitutional-Challenge-Judge-Applauds-Work/</link>
+      <guid isPermaLink="true">https://thetyee.ca/News/2026/09/29/DULF-Wins-Constitutional-Challenge-Judge-Applauds-Work/</guid>
+      <description><![CDATA[Compassion club co-founders Eris Nyx and Jeremy Kalicum will avoid prison and Canada told to update its drug laws.]]></description>
+      <pubDate>Tue, 29 Sep 2026 20:09:00 GMT</pubDate>
       <category>Critical</category>
       <dc:creator>3mpwr App Curator</dc:creator>
     </item>
 
     <item>
-      <title>BC’s Local Governments Call for Higher Taxes for AI Data Centres</title>
-      <link>https://thetyee.ca/News/2026/09/29/BC-Local-Governments-Higher-Taxes-Data-Centres/</link>
-      <guid isPermaLink="true">https://thetyee.ca/News/2026/09/29/BC-Local-Governments-Higher-Taxes-Data-Centres/</guid>
-      <description><![CDATA[Currently, data centres pay the same rate as small businesses like cafés and stores.]]></description>
-      <pubDate>Tue, 29 Sep 2026 07:30:00 GMT</pubDate>
+      <title>Manitoba Government Returns to Legislature With Focus on Affordability and Health Care</title>
+      <link>https://news.gov.mb.ca/news/index.html?item=75557</link>
+      <guid isPermaLink="true">https://news.gov.mb.ca/news/index.html?item=75557</guid>
+      <pubDate>Tue, 29 Sep 2026 18:30:00 GMT</pubDate>
+      <category>Critical</category>
+      <dc:creator>3mpwr App Curator</dc:creator>
+    </item>
+
+    <item>
+      <title>Manitoba Government Releases First-Quarter Fiscal and Economic Update</title>
+      <link>https://news.gov.mb.ca/news/index.html?item=75559</link>
+      <guid isPermaLink="true">https://news.gov.mb.ca/news/index.html?item=75559</guid>
+      <pubDate>Tue, 29 Sep 2026 18:00:00 GMT</pubDate>
+      <category>Critical</category>
+      <dc:creator>3mpwr App Curator</dc:creator>
+    </item>
+
+    <item>
+      <title>Sexual Health Educator Concerned About Abbotsford’s Focus on Abstinence</title>
+      <link>https://thetyee.ca/News/2026/09/30/Sexual-Health-Educator-Abbotsford-Focus-Abstinence/</link>
+      <guid isPermaLink="true">https://thetyee.ca/News/2026/09/30/Sexual-Health-Educator-Abbotsford-Focus-Abstinence/</guid>
+      <description><![CDATA[The school district says it takes a comprehensive approach that reflects community context.]]></description>
+      <pubDate>Wed, 30 Sep 2026 07:30:00 GMT</pubDate>
+      <category>Critical</category>
+      <dc:creator>3mpwr App Curator</dc:creator>
+    </item>
+
+    <item>
+      <title>Manitoba Government to Protect Brandon Residential School Cemetery</title>
+      <link>https://news.gov.mb.ca/news/index.html?item=75558</link>
+      <guid isPermaLink="true">https://news.gov.mb.ca/news/index.html?item=75558</guid>
+      <pubDate>Tue, 29 Sep 2026 19:35:00 GMT</pubDate>
+      <category>Critical</category>
+      <dc:creator>3mpwr App Curator</dc:creator>
+    </item>
+
+    <item>
+      <title>Manitoba Government on Track to Balance Budget Next Year</title>
+      <link>https://news.gov.mb.ca/news/index.html?item=75437</link>
+      <guid isPermaLink="true">https://news.gov.mb.ca/news/index.html?item=75437</guid>
+      <pubDate>Mon, 21 Sep 2026 19:00:00 GMT</pubDate>
       <category>Critical</category>
       <dc:creator>3mpwr App Curator</dc:creator>
     </item>
