@@ -116,6 +116,10 @@ include:
 
 # Do not publish repository maintenance docs on the website
 exclude:
+  - logs
+  - drafts
+  - scripts
+  - emails
   - README.md
   - CONTRIBUTING.md
   - ACTIVATION.md
@@ -162,7 +166,7 @@ exclude:
   - public
   - vendor
   - .bundle
-  - assets/images/screenshots
+  # - assets/images/screenshots  (REENABLED 2026-10-01: App Tour/Demo images must deploy; was excluded → 404 on live site)
   - docs/setup
   - docs/development
   - docs/performance
