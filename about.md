@@ -70,6 +70,12 @@ description: 3mpwrApp empowers Canada's disability and injured-worker community 
   </div>
 </details>
 
+## Our Company
+
+**3mpwrApp™** is a 100% free app created by **S0vryn9 C011ect1ve** (the main company), founded and built by Lissa Beaulieu — a disabled injured worker based in Thunder Bay, Ontario, Canada.
+
+3mpwrapp is a registered sole proprietorship (the name was secured to protect the community); **S0vryn9 C011ect1ve** is the umbrella organization behind it. The app exists for **persons with disabilities, injured workers, their families, allies, and the public** — with no corporate control, no venture capital, and no profit motive.
+
 ## 100% Free. Community-Funded. Built by People Who Understand.
 
 **A platform for advocacy, connection, and support—with no corporate interests.**

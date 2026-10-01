@@ -13,6 +13,8 @@ description: The complete collection of 3mpwrApp legal documents, policies, and 
 
 **📺 NEW: [Watch: Getting Started with 3mpwr App - Install, Permissions & Privacy Explained (5 min) →](https://www.youtube.com/watch?v=4i6xPpik_6M)**
 
+**3mpwrApp™** is a 100% free app by **S0vryn9 C011ect1ve** (the main company), founded and built by Lissa Beaulieu. The 3mpwrapp name is a registered sole proprietorship; S0vryn9 C011ect1ve is the umbrella organization behind it.
+
 ---
 
 ## 📋 Core Legal Documents
