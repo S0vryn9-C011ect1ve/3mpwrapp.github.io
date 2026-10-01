@@ -55,6 +55,15 @@ defaults:
           card: summary_large_image
           creator: "@3mpowrApp0816"
 
+  - scope:
+      path: "_knowledge_base"
+    values:
+      layout: page
+  - scope:
+      path: "_templates"
+    values:
+      layout: page
+
 # Collections
 collections:
   whats_new:
