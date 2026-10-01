@@ -1,73 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-  <!-- SEO Meta Tags (will be dynamically generated) -->
-  <title>{{ page.title }} | 3mpwr</title>
-  <meta name="description" content="{{ page.description | default: 'A disability rights win shared on 3mpwr - community-powered advocacy and support.' }}">
-  
-  <!-- Open Graph -->
-  <meta property="og:type" content="article">
-  <meta property="og:title" content="{{ page.title }} | 3mpwr">
-  <meta property="og:description" content="{{ page.description | default: 'A disability rights win shared on 3mpwr' }}">
-  <meta property="og:image" content="{{ page.og_image | default: site.baseurl | append: '/images/og-share-default.png' }}">
-  <meta property="og:url" content="{{ page.url | absolute_url }}">
-  <meta property="og:site_name" content="3mpwr - Disability Rights Advocacy & Community">
-  
-  <!-- Twitter Card -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:site" content="@3mpwrApp">
-  <meta name="twitter:title" content="{{ page.title }} | 3mpwr">
-  <meta name="twitter:description" content="{{ page.description | default: 'A disability rights win shared on 3mpwr' }}">
-  <meta name="twitter:image" content="{{ page.og_image | default: site.baseurl | append: '/images/og-share-default.png' }}">
-  
-  <!-- Canonical -->
-  <link rel="canonical" href="{{ page.url | absolute_url }}">
-  
-  <!-- Styles -->
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
-  
-  <!-- JSON-LD Structured Data -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "{{ page.title }}",
-    "description": "{{ page.description | default: page.content | strip_html | truncatewords: 30 }}",
-    "image": "{{ page.og_image | default: site.baseurl | append: '/images/og-share-default.png' }}",
-    "datePublished": "{{ page.date | date_to_xmlschema }}",
-    "author": {
-      "@type": "Organization",
-      "name": "3mpwr",
-      "url": "{{ site.url }}"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "3mpwr",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "{{ site.baseurl }}/images/logo-512.png"
-      }
-    },
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "{{ page.url | absolute_url }}"
-    },
-    "about": {
-      "@type": "Thing",
-      "name": "Disability Rights",
-      "description": "Community-powered disability advocacy and support"
-    },
-    "keywords": "disability rights, disability advocacy, disability justice, {{ page.win_type }}"
-  }
-  </script>
-</head>
-<body>
-  {% include header.html %}
-  
-  <main class="win-detail-page">
+---
+layout: default
+---
+
+<div class="win-detail-page">
+
     <article class="win-article">
       <nav class="breadcrumb" aria-label="Breadcrumb">
         <ol>
@@ -138,9 +74,7 @@
         <div class="loading">Loading related wins...</div>
       </div>
     </aside>
-  </main>
-  
-  {% include footer.html %}
+  </div>
   
   <script>
     // Get win ID from URL
@@ -323,9 +257,4 @@
     // Load win on page load
     loadWin();
   </script>
-  
-  <style>
-    /* ... (styles from previous implementation, condensed for brevity) ... */
-  </style>
-</body>
-</html>
+
