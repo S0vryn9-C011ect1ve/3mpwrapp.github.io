@@ -295,7 +295,7 @@ Success Rate = Granted ÷ (Granted + Denied) [from classified decisions only]
 ### Download the Data
 
 - [Appeal Gap Analysis (JSON)](/data/tribunal-comprehensive/wsib-suppression-funnel.json)
-- [99,036 WSIAT Decisions Explorer](/research.html#wsiat-explorer)
+- [99,036 WSIAT Decisions Explorer](//research/#wsiat-explorer)
 - [Cross-Tribunal Comparison](/data/tribunal-comprehensive/cross-tribunal-comparison.json)
 
 ---

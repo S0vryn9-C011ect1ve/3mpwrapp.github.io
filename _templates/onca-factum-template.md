@@ -384,7 +384,7 @@ Your factum is not the end — you'll also argue orally (typically 30-60 minutes
 - [Notice of Appeal Template](/templates/onca-notice-of-appeal/) - Required before factum
 - [ONCA Appellate Guide](/guides/onca-appellate-guide/) - Complete guide to ONCA procedure
 - [ONCA Precedent Overview](/blog/2026/05/08/onca-precedent-overview/) - Analysis of 5,034 decisions to identify winning arguments
-- [CanLII ONCA Database](https://3mpwrapp.ca/research.html#database-onca) - Search 5,034 ONCA cases for precedent
+- [CanLII ONCA Database](https://3mpwrapp.ca//research/#database-onca) - Search 5,034 ONCA cases for precedent
 
 ---
 

@@ -117,7 +117,7 @@ personalized: true
         <span>Launch Interactive Visualization</span>
         <span aria-hidden="true">→</span>
       </a>
-      <a href="/research.html" style="display: inline-flex; align-items: center; gap: 0.75rem; padding: 1rem 2rem; background: rgba(255,255,255,0.15); color: var(--text-on-primary, white); border: 2px solid var(--text-on-primary, white); border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 1.1rem; transition: all 0.3s;" onmouseover="this.style.background='rgba(255,255,255,0.25)'" onmouseout="this.style.background='rgba(255,255,255,0.15)'">
+      <a href="//research/" style="display: inline-flex; align-items: center; gap: 0.75rem; padding: 1rem 2rem; background: rgba(255,255,255,0.15); color: var(--text-on-primary, white); border: 2px solid var(--text-on-primary, white); border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 1.1rem; transition: all 0.3s;" onmouseover="this.style.background='rgba(255,255,255,0.25)'" onmouseout="this.style.background='rgba(255,255,255,0.15)'">
         <span aria-hidden="true">📊</span>
         <span>All Research Tools</span>
       </a>
@@ -393,7 +393,7 @@ personalized: true
         <span aria-hidden="true">→</span> Research & Data
       </h3>
       <ul style="list-style: none; padding: 0; margin: 0;">
-        <li style="margin: 0.5rem 0;"><a href="/research.html" style="color: #003d7a; text-decoration: none; font-weight: 500;">Research Tools</a></li>
+        <li style="margin: 0.5rem 0;"><a href="//research/" style="color: #003d7a; text-decoration: none; font-weight: 500;">Research Tools</a></li>
         <li style="margin: 0.5rem 0;"><a href="/research-data-sources/" style="color: #003d7a; text-decoration: none; font-weight: 500;">Data Sources</a></li>
         <li style="margin: 0.5rem 0;"><a href="/tribunal-visualizations/" style="color: #003d7a; text-decoration: none; font-weight: 500;">Visualizations</a></li>
         <li style="margin: 0.5rem 0;"><a href="/how-to-use-this-data/" style="color: #003d7a; text-decoration: none; font-weight: 500;">How to Use Data</a></li>

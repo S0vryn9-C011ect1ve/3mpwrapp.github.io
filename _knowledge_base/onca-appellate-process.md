@@ -332,7 +332,7 @@ If your case is fact-specific and affects only you, leave to appeal is unlikely.
 
 ### Case Law Research:
 
-- [CanLII ONCA Database](https://3mpwrapp.ca/research.html#database-onca) - Search 5,034 ONCA decisions
+- [CanLII ONCA Database](https://3mpwrapp.ca//research/#database-onca) - Search 5,034 ONCA decisions
 - [ONCA Precedent Overview Blog](/blog/2026/05/08/onca-precedent-overview/) - Detailed analysis of outcomes, trends, success rates
 
 ### Legal Support:

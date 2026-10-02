@@ -245,7 +245,7 @@ Before filing, ensure you have:
 - [ONCA Precedent Overview](/blog/2026/05/08/onca-precedent-overview/) - Analysis of 5,034 decisions
 - [Notice of Appeal Template](/templates/onca-notice-of-appeal/) - For after leave is granted
 - [Factum Template](/templates/onca-factum-template/) - Legal argument document
-- [CanLII Ontario Court of Appeal Database](https://3mpwrapp.ca/research.html#database-onca) - Search ONCA case law
+- [CanLII Ontario Court of Appeal Database](https://3mpwrapp.ca//research/#database-onca) - Search ONCA case law
 
 ---
 

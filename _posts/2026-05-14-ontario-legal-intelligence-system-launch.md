@@ -370,14 +370,14 @@ When workers, persons with disabilities, and advocates have access to:
 ### **For Injured Workers & Persons with Disabilities:**
 
 📱 **Use the App:** [3mpwrapp.ca/app](https://3mpwrapp.ca/app/)  
-📊 **Explore Research:** [3mpwrapp.ca/research](https://3mpwrapp.ca/research.html)  
+📊 **Explore Research:** [3mpwrapp.ca/research](https://3mpwrapp.ca//research/)  
 📋 **Download Templates:** [Appeal Templates](/templates/)  
 📖 **Read Knowledge Base:** [Injury-Specific Guides](/knowledge-base/)  
 
 ### **For Advocates & Lawyers:**
 
 📁 **Download Raw Data:** [Research Data Sources](/research-data-sources/)  
-📈 **Use Visualizations:** [Interactive Charts](/research.html#data-visualizations)  
+📈 **Use Visualizations:** [Interactive Charts](//research/#data-visualizations)  
 🤝 **Contribute Outcomes:** Share anonymized case results to improve the dataset  
 
 ### **For Developers & Researchers:**
@@ -423,7 +423,7 @@ This blog will update as each phase completes. Subscribe to our [RSS feed](/feed
 
 ## Related Resources
 
-- [Research Page: 230,392 Records Analyzed](/research.html)
+- [Research Page: 230,392 Records Analyzed](//research/)
 - [WSIAT Complete Appeal Guide](/guides/wsiat-complete-guide)
 - [Ontario Tribunal Data Sources](/research-data-sources/)
 - [Data Improvement Workflow Documentation](/docs/DATA-IMPROVEMENT-WORKFLOW/)

@@ -736,7 +736,7 @@ Two workers' compensation reform bills have been introduced in Ontario's 44th Pa
 
 **Knowledge base:**
 - [Bill 86: Meredith Act (Full Guide)](https://3mpwrapp.ca/knowledge-base/bill-86-meredith-act)
-- [Bill 105: POWER Act (Full Guide)](https://3mpwrapp.ca/knowledge-base/bill-105-power-act) *(coming soon)*
+- [Bill 105: POWER Act (Full Guide)](https://3mpwrapp.ca/knowledge-base/bill-105-wsib-lockin) *(coming soon)*
 - [72-Month Lock-In: What It Means](https://3mpwrapp.ca/knowledge-base/72-month-lock-in)
 - [Mental Stress Claims: Labour Relations Exclusion](https://3mpwrapp.ca/knowledge-base/mental-stress-exclusion)
 

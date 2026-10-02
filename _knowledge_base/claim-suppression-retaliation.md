@@ -444,9 +444,9 @@ If employer requires medical assessment:
 ## 🛠️ Related Resources
 
 **3mpwr Knowledge Base:**
-- [Pre-Existing Conditions](../data/knowledge-base/pre-existing-conditions.md) - Denial tactic patterns
-- [Chronic Pain Claims](../data/knowledge-base/chronic-pain-claims.md) - Invisible disability denials
-- [Fibromyalgia Claims](../data/knowledge-base/fibromyalgia-claims.md) - Mental health stigma
+- [Pre-Existing Conditions](../data/knowledge-base/pre-existing-conditions.md/) - Denial tactic patterns
+- [Chronic Pain Claims](../data/knowledge-base/chronic-pain-claims.md/) - Invisible disability denials
+- [Fibromyalgia Claims](../data/knowledge-base/fibromyalgia-claims.md/) - Mental health stigma
 
 **3mpwr Templates:**
 - [Labour Relations Exclusion Appeal](../data/templates/labour-relations-exclusion-appeal.md) - Challenge employer retaliation exclusions

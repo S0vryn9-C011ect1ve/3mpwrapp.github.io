@@ -285,7 +285,7 @@ Respondent files:
 - [ONCA Factum Template](/templates/onca-factum-template/) - Legal argument document (required for appeal)
 - [ONCA Appellate Guide](/guides/onca-appellate-guide/) - Complete guide to ONCA procedure
 - [ONCA Precedent Overview](/blog/2026/05/08/onca-precedent-overview/) - Analysis of 5,034 ONCA decisions
-- [CanLII ONCA Database](https://3mpwrapp.ca/research.html#database-onca) - Search 5,034 ONCA cases
+- [CanLII ONCA Database](https://3mpwrapp.ca//research/#database-onca) - Search 5,034 ONCA cases
 
 ---
 

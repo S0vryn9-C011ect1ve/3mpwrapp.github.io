@@ -162,7 +162,7 @@ description: '**Short answer:** Our AI model correctly predicts tribunal outcome
 
 - **[Understanding Tribunal Outcomes](/knowledge-base/understanding-tribunal-outcomes/)** - What "Allowed," "Dismissed," etc. mean
 - **[What Affects Your Appeal Outcome?](/knowledge-base/understanding-tribunal-outcomes/)** - Evidence factors that predict success
-- **[All Outcome Statistics →](/research.html#ai-powered-outcome-predictions)** - Full research methodology
+- **[All Outcome Statistics →](//research/#ai-powered-outcome-predictions)** - Full research methodology
 
 ---
 

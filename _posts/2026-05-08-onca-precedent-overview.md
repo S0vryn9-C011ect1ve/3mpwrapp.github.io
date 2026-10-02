@@ -410,7 +410,7 @@ ONCA precedents become useful when:
 
 - [**Appeal Gap Analysis**](/data/tribunal-comprehensive/wsib-suppression-funnel.json) - 139,000 workers/year don't appeal
 - [**Cross-Tribunal Comparison**](/data/tribunal-comprehensive/cross-tribunal-comparison.json) - Compare success rates
-- [**Research Hub**](/research.html) - Full knowledge base and decision explorer
+- [**Research Hub**](//research/) - Full knowledge base and decision explorer
 
 ---
 

@@ -343,7 +343,7 @@ Answer: **YES, and we acknowledge them:**
 2. **📝 Appeal Templates (50+ Free Downloads)**
    - Prefilled with winning language from tribunal decisions
    - Cites statistics ("20% of knee injuries denied as pre-existing—here's how to fight back")
-   - Evidence: [Template Library](https://3mpwrapp.ca/research.html#templates)
+   - Evidence: [Template Library](https://3mpwrapp.ca//research/#templates)
 
 3. **🤝 Community Support (Peer Network)**
    - Workers share outcomes (filling 91.8% data gap)

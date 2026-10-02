@@ -686,7 +686,7 @@ You don't understand "burden of proof". You search Knowledge Base and read: "The
 - [Letter Wizard](#letter-wizard) — reference legal rights
 
 **Learn More:**
-- [Browse Research Hub: Knowledge Base, Guides & Templates →](/research.html)
+- [Browse Research Hub: Knowledge Base, Guides & Templates →](//research/)
 - [FAQ: Is this legal advice?](#faq-legal-advice)
 - [Testing guide →](/beta-guide/#testing-knowledge-base)
 

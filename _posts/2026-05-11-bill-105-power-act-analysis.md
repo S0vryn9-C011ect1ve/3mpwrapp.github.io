@@ -492,7 +492,7 @@ Bill 105 delegates significant implementation details to regulations:
 ## Related Resources
 
 **Knowledge Base:**
-- [Bill 105: POWER Act (Full Guide)](https://3mpwrapp.ca/knowledge-base/bill-105-power-act) *(coming soon)*
+- [Bill 105: POWER Act (Full Guide)](https://3mpwrapp.ca/knowledge-base/bill-105-wsib-lockin) *(coming soon)*
 - [Bill 86: Meredith Act (Full Guide)](https://3mpwrapp.ca/knowledge-base/bill-86-meredith-act)
 - [72-Month Lock-In: What It Means](https://3mpwrapp.ca/knowledge-base/72-month-lock-in)
 

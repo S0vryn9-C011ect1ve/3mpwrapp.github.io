@@ -724,7 +724,7 @@ This can supplement official reporting and improve public visibility.
 
 ### 🔄 Flywheel 2: Suppression Evidence → Legal Action Toolkit
 **This suppression analysis POWERS:**
-- [Class Action Research Package](/research.htmlclass-action-evidence/) (1.14-2.29M suppressed = mass tort)
+- [Class Action Research Package](//research/class-action-evidence/) (1.14-2.29M suppressed = mass tort)
 - [FOI Request Templates](/templates/foi-requests/) (force WSIB to disclose internal stats)
 - [MPP Briefing Packages](/advocacy/mpp-briefings/) (legislative pressure with statistical evidence)
 
@@ -788,13 +788,13 @@ More Outcomes Shared → Database Grows Stronger → (CYCLE ACCELERATES)
 - [WSIB Statistical Pattern Analysis](https://3mpwrapp.ca/blog/2026/04/15/wsib-exposed-statistical-evidence-proves-systematic-manipulation/) - Pattern findings from 99,036 cases
 - [The Hidden Language of Denial: WSIB Keyword Decoder](https://3mpwrapp.ca/blog/2026/04/22/hidden-language-of-denial-wsib-keyword-decoder/) - Decode your denial letter
 - [Building Canada's Legal Database from Cold Start](https://3mpwrapp.ca/blog/2026/04/05/building-canadas-legal-database-from-cold-start/) - How we built this database
-- [Research Hub: Guides, Templates & Analysis](https://3mpwrapp.ca/research.html) - Knowledge base, appeal templates, and comprehensive guides from 99,036 cases
+- [Research Hub: Guides, Templates & Analysis](https://3mpwrapp.ca//research/) - Knowledge base, appeal templates, and comprehensive guides from 99,036 cases
 
 **Full Documentation:**
 - [WSIB System Analysis Complete 2020-2026](https://github.com/S0vryn9-C011ect1ve/3mpwrapp.github.io/blob/main/docs/WSIB-SYSTEM-ANALYSIS-COMPLETE-2020-2026.md) - 45,000-word master document
 
 **Interactive Tools:**
-- [Research Hub](https://3mpwrapp.ca/research.html) - Visualization, knowledge base (16 injury guides), and 50+ appeal templates
+- [Research Hub](https://3mpwrapp.ca//research/) - Visualization, knowledge base (16 injury guides), and 50+ appeal templates
 - [WSIB Denial Network Visualization](https://3mpwrapp.ca/wsib-denial-network-visualization.html) - Explore co-occurrence patterns
 
 ---
@@ -910,7 +910,7 @@ More Outcomes Shared → Database Grows Stronger → (CYCLE ACCELERATES)
 
 ### 🔧 Practical Tools from This Research
 
-1. **[Claim Suppression & Employer Retaliation Guide](/research.html)** - Legal protections, documentation checklists, complaint templates
+1. **[Claim Suppression & Employer Retaliation Guide](//research/)** - Legal protections, documentation checklists, complaint templates
 2. **Community Legal Clinics** - Free legal representation for reprisal cases ([Legal Aid Ontario](https://www.legalaid.on.ca))
 3. **WSIB Compliance Hotline** - Report suppression anonymously: 1-800-387-0750
 4. **Ontario Labour Relations Board** - File reprisal complaint if terminated after claim
