@@ -32,7 +32,7 @@ The Court of Appeal for Ontario gave its opinion in a 4-1 split decision release
 **Score:** 22.50
 
 ## 5. Federal prison watchdog leaving post early over 'frustrations' with lack of prison reform
-<img src='https://i.cbc.ca/ais/5fc0b503-9d50-4c0c-b07f-78aad60fc587,1762972734788/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C761%2C8487%2C4773%29%3BResize%3D%28620%29' alt='Dr. Zinger is shown sitting at a table with Canadian Flags behind him. ' width='620' height='349' title='Correctional investigator Dr. Ivan Zinger is seen during a news conference in Ottawa on Wednesday, Nov.12, 2025.  '/><p>A watchdog that investigates the fair and humane treatment of federal prisoners is leaving his post two years early after becoming exasperated with what he says is the government’s unwillingness to address systemic human-rights issues. </p>
+<img src='https://i.cbc.ca/ais/5fc0b503-9d50-4c0c-b07f-78aad60fc587,1762972734788/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C761%2C8487%2C4773%29%3BResize%3D%28620%29' alt='Dr. Zinger is shown sitting at a table with Canadian Flags behind him. ' width='620' height='349' title='Correctional investigator Dr. Ivan Zinger is seen during a news conference in Ottawa on Wednesday, Nov.12, 2025.  '/><p>A watchdog that investigates the fair and humane treatment of federal prisoners is leaving his post two years early after becoming exasperated with what he says is the government’s unwillingness to address systemic human rights issues. </p>
 📍 [Source](https://www.cbc.ca/news/politics/zinger-leaving-prison-post-early-9.6976313?cmp=rss)
 **Score:** 19.00
 

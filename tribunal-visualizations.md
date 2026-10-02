@@ -9,7 +9,7 @@ layout: page
 
 # Tribunal Data Visualizations
 
-*Exploring 230,392 records from Ontario's workplace injury and human-rights systems*
+*Exploring 230,392 records from Ontario's workplace injury and human rights systems*
 
 ## Overview
 
@@ -227,7 +227,7 @@ For ONWSIB-specific visuals and summaries, use the reconciled 2020-2026 archive 
 ✅ **Citation**
 ```
 3mpwrApp Research Team. (2026). Tribunal Data Visualizations: 
-230,392 records from Ontario's workplace injury and human-rights systems. 
+230,392 records from Ontario's workplace injury and human rights systems. 
 Retrieved from https://3mpwrapp.ca/tribunal-visualizations.html
 ```
 

@@ -1,7 +1,7 @@
 Top keywords and hashtags for the disability community and injured workers (Canada-wide and provincial)
 
 Disability community (Canada-wide)
-- disability, persons with disabilities (PWD), accessibility, a11y, disability justice, barrier-free, assistive technology, human-rights, accommodation
+- disability, persons with disabilities (PWD), accessibility, a11y, disability justice, barrier-free, assistive technology, human rights, accommodation
 - #Disability #PWD #Accessibility #A11y #DisabilityJustice #BarrierFree #AssistiveTech #InclusiveDesign #Canada #CDNPoli
 
 Injured workers (Canada-wide)

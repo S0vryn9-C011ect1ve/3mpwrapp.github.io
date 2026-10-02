@@ -4,7 +4,7 @@ title: "HRTO Disability Discrimination Patterns: Analysis of 9,269 Human Rights 
 date: 2026-05-14
 author: Lissa Beaulieu (Founder/Creator 3mpwrApp) with GitHub Copilot assistance
 categories: [community-updates, research, disability-justice, tribunal-analysis]
-tags: [HRTO, ONHRT, human-rights, disability-discrimination, accessibility-barriers, disability-justice, vulnerable-communities, systemic-exclusion, research, tribunal-analysis]
+tags: [HRTO, ONHRT, human rights, disability-discrimination, accessibility-barriers, disability-justice, vulnerable-communities, systemic-exclusion, research, tribunal-analysis]
 redirect_from:
   - /blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/
 excerpt: "Seven years of Human Rights Tribunal of Ontario decisions reveal how disability discrimination operates across employment, housing, services, and education—with systematic barriers affecting injured workers, people with disabilities, and vulnerable communities seeking justice."
@@ -23,7 +23,7 @@ Analysis of **9,269 Human Rights Tribunal of Ontario (HRTO)** decisions (2020-20
 
 **💡 Disability Justice Context:**
 
-This research serves **injured workers, people with disabilities, and vulnerable communities** navigating human-rights claims:
+This research serves **injured workers, people with disabilities, and vulnerable communities** navigating human rights claims:
 
 - **If you're fighting disability discrimination at work** → HRTO is your tribunal, not WSIAT (unless your discrimination claim relates to WSIB benefits denial)
 - **If you're facing housing discrimination due to disability** → HRTO has jurisdiction over landlord accommodation failures
@@ -588,7 +588,7 @@ For HRTO to serve disability justice, it must:
 
 HRTO is **your tribunal** for fighting discrimination—but navigating it requires resources, knowledge, and often legal support. Know your rights. Document discrimination. Seek help early.
 
-*This research serves injured workers, people with disabilities, and vulnerable communities navigating human-rights claims. Systemic discrimination doesn't stop at one tribunal—HRTO, WSIAT, ONSBT, and other tribunals all reflect the same underlying bias. Fighting discrimination at HRTO is fighting for disability justice everywhere.*
+*This research serves injured workers, people with disabilities, and vulnerable communities navigating human rights claims. Systemic discrimination doesn't stop at one tribunal—HRTO, WSIAT, ONSBT, and other tribunals all reflect the same underlying bias. Fighting discrimination at HRTO is fighting for disability justice everywhere.*
 
 ---
 

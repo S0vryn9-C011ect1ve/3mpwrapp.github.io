@@ -70,7 +70,7 @@ In British Columbia, WorkSafeBC investigated three megaprojects and found eviden
 - **Cannot be violated by:** Reassigning injured workers to dangerous tasks, denying accommodation, forcing unsafe return to work
 
 2️⃣ **No Discrimination**
-- A **duty** to not discriminate against employees or those receiving services on the basis of a human-rights ground (including disability, injury status)
+- A **duty** to not discriminate against employees or those receiving services on the basis of a human rights ground (including disability, injury status)
 - **Cannot be violated by:** Targeting workers who've filed claims for discipline/termination, treating claim-filers differently
 
 3️⃣ **Privacy Protection**
@@ -151,7 +151,7 @@ These duties apply even when employers claim they're exercising "management righ
 - Cost alone (unless demonstrates actual financial hardship to business)
 
 **SCC Instruction to Tribunals:**
-> "This Court's decision should be interpreted by workers' compensation boards and tribunals across the country as an indication that they need to fulfill their statutory role in return to work in keeping with fundamental human-rights principles."
+> "This Court's decision should be interpreted by workers' compensation boards and tribunals across the country as an indication that they need to fulfill their statutory role in return to work in keeping with fundamental human rights principles."
 
 ---
 
@@ -416,7 +416,7 @@ If employer requires medical assessment:
 3. **Report retaliation** to WCB/WSIB (separate complaint)
 4. **Contact union** (if unionized) about grievance
 5. **Seek legal advice** (lawyer or community legal clinic)
-6. **Consider human-rights complaint** (if discrimination involved)
+6. **Consider human rights complaint** (if discrimination involved)
 
 ### If Your Claim Was Denied Due to "Labour Relations Exclusion"
 

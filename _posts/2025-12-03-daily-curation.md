@@ -32,7 +32,7 @@ In October 2023 and September 2024, class actions were filed in the British Colu
 **Score:** 23.00
 
 ## 5. Legal experts ask UN to scrutinize Quebec’s proposed constitution over rights concerns
-<img src='https://i.cbc.ca/ais/76105e82-1637-401f-a56d-950b4c395286,1764780342532/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C393%2C4850%2C2728%29%3BResize%3D%28620%29' alt='two men at Quebec parliament' width='620' height='349' title='Quebec Premier François Legault, right, congratulates Quebec Minister of Justice and Minister Responsible for Canadian Relations Simon Jolin-Barrette after he tabled legislation to create a Quebec constitution at the legislature in Quebec City, Thursday, Oct. 9, 2025. THE CANADIAN PRESS/'/><p>A group of legal experts has requested United Nations special rapporteurs examine Bill 1 to determine if it infringes on human-rights.</p>
+<img src='https://i.cbc.ca/ais/76105e82-1637-401f-a56d-950b4c395286,1764780342532/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C393%2C4850%2C2728%29%3BResize%3D%28620%29' alt='two men at Quebec parliament' width='620' height='349' title='Quebec Premier François Legault, right, congratulates Quebec Minister of Justice and Minister Responsible for Canadian Relations Simon Jolin-Barrette after he tabled legislation to create a Quebec constitution at the legislature in Quebec City, Thursday, Oct. 9, 2025. THE CANADIAN PRESS/'/><p>A group of legal experts has requested United Nations special rapporteurs examine Bill 1 to determine if it infringes on human rights.</p>
 📍 [Source](https://www.cbc.ca/news/canada/montreal/quebec-bill-1-united-nations-9.7001605?cmp=rss)
 **Score:** 18.50
 

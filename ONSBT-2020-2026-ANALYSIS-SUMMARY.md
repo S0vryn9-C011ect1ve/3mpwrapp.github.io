@@ -238,7 +238,7 @@ Disability rights are access-to-justice rights. **The tribunal cannot fulfill it
 - Covers 7-year span, entire accessible tribunal dataset
 - Structural/accessibility lens not typically applied to tribunal analysis
 - Grounded in actual case law patterns from 13,798 decisions
-- Applies human-rights framework (Charter, OHRC, disability justice)
+- Applies human rights framework (Charter, OHRC, disability justice)
 
 **Limitations**:
 - No quantitative outcome data (outcomes not available in dataset)

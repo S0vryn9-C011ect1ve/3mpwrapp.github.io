@@ -295,7 +295,7 @@ We've added six major new features based on community feedback and ongoing consu
 - Injured workers filing claims or appeals
 - Anyone denied insurance benefits
 - People facing housing discrimination
-- Those filing human-rights complaints
+- Those filing human rights complaints
 - Anyone who needs professional advocacy letters
 
 **Status:** Fully launched with all 22 letter types available
@@ -360,7 +360,7 @@ We've added six major new features based on community feedback and ongoing consu
 - First-time applicants navigating complex systems
 - People appealing denied benefits
 - Those requesting workplace accommodations
-- Anyone filing human-rights complaints
+- Anyone filing human rights complaints
 - People managing multiple concurrent processes
 
 **Privacy:** All AI processing happens entirely on your device. No legal information is sent to external servers.
@@ -700,7 +700,7 @@ These security features are entirely optional. The app works perfectly without t
 **Policy Change:**
 - Campaign for better disability benefits
 - Fight cuts to social assistance
-- Advocate for stronger human-rights protections
+- Advocate for stronger human rights protections
 - Push for accessibility legislation
 
 **Community Support:**

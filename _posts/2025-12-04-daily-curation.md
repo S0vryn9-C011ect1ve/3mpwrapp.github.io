@@ -67,7 +67,7 @@ The pack includes drinks from breweries across the country.
 **Score:** 9.50
 
 ## 13. A Canadian Company Is Supplying Armoured Cars to ICE
-The Canadian government should consider companies’ complicity in US human-rights violations when sourcing contracts.
+The Canadian government should consider companies’ complicity in US human rights violations when sourcing contracts.
 📍 [Source](https://thetyee.ca/Opinion/2025/12/04/Canadian-Company-Armoured-Cars-ICE/)
 **Score:** 10.50
 

@@ -38,7 +38,7 @@ New research underscores the importance of spaces that break down barriers in th
 
 ### 4. Migrant farmworker advocates to submit complaint to UN Human Rights Committee
 Rabble.ca — progressive Canadian news
-[Source](https://rabble.ca/labour/migrant-farmworker-advocates-to-submit-complaint-to-un-human-rights-committee/)
+[Source](https://rabble.ca/labour/migrant-farmworker-advocates-to-submit-complaint-to-un-human rights-committee/)
 **Score:** 4.00
 
 ### 5. Alberta UCP MLA Rebecca Schulz quietly resigned her seat in the Legislature two weeks ago

@@ -26,7 +26,7 @@ In October, U.S. President Donald Trump cancelled trade talks with Canada after 
 **Score:** 14.00
 
 ## 4. December 10th Human Rights Day panel discussion: The ongoing struggle for rights in Canada
-📍 [Source](https://rabble.ca/podcast/december-10th-human-rights-day-panel-discussion-the-ongoing-struggle-for-rights-in-canada/)
+📍 [Source](https://rabble.ca/podcast/december-10th-human rights-day-panel-discussion-the-ongoing-struggle-for-rights-in-canada/)
 **Score:** 12.50
 
 ## 5. Who will be on the Canadian women’s Olympic hockey team?

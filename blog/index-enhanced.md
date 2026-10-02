@@ -32,7 +32,7 @@ Our blog is organized into 6 core topics that matter to you. Find what you need:
   <a href="#legal-victories" class="topic-nav-card">
     <div class="topic-icon">⚔️</div>
     <h3>Legal Victories & Rights</h3>
-    <p>Court decisions, human-rights cases, landmark rulings</p>
+    <p>Court decisions, human rights cases, landmark rulings</p>
   </a>
   
   <a href="#health-wellness" class="topic-nav-card">
@@ -155,7 +155,7 @@ Our blog is organized into 6 core topics that matter to you. Find what you need:
 
 ## <span id="legal-victories">⚔️ Legal Victories & Rights</span>
 
-<p class="section-description">Court decisions, human-rights rulings, and landmark cases that protect disability rights. Understand what these victories mean for you.</p>
+<p class="section-description">Court decisions, human rights rulings, and landmark cases that protect disability rights. Understand what these victories mean for you.</p>
 
 {% assign posts = site.posts | where_exp: 'p', "p.categories contains 'legal-victories'" %}
 {% if posts and posts.size > 0 %}

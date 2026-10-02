@@ -199,7 +199,7 @@ After Ontario, we're expanding to cover **all of Canada**:
 
 **Week 5-6 (May 16-31): Quebec, Atlantic, Territories, Federal**
 - Expected: ~3,500 cases
-- Focus: Federal human-rights, provincial appeals
+- Focus: Federal human rights, provincial appeals
 - Duration: ~16 days
 - Templates: +1,500 winning cases
 
@@ -210,7 +210,7 @@ After Ontario, we're expanding to cover **all of Canada**:
 | Region | Cases | Winning Templates | Key Focus Areas |
 |--------|-------|-------------------|-----------------|
 | Ontario | 4,532 | ~1,500 | WSIAT, chronic pain, mental health |
-| BC | 2,000 | ~800 | WorkSafeBC appeals, human-rights |
+| BC | 2,000 | ~800 | WorkSafeBC appeals, human rights |
 | Prairies | 3,000 | ~1,200 | WCB appeals, disability benefits |
 | Quebec | 1,500 | ~600 | TAT decisions, French/English |
 | Atlantic | 1,200 | ~500 | Regional workers' comp boards |
@@ -250,7 +250,7 @@ After Ontario, we're expanding to cover **all of Canada**:
 - Mental health and chronic illness cases
 
 **Expected Coverage:**
-- ~800 human-rights tribunal cases
+- ~800 human rights tribunal cases
 - ~2,000 mental health condition cases
 - ~1,500 chronic condition cases (fibromyalgia, chronic fatigue, MS, etc.)
 - ~500 accessibility and accommodation cases

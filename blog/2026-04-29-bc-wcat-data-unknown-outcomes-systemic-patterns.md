@@ -195,7 +195,7 @@ Our beta tester provided extensive legal grounding for why exposing systemic abu
 
 ### 2. [Robichaud v. Canada (Treasury Board), 1987 CanLII 73 (SCC)](https://www.canlii.org/en/ca/scc/doc/1987/1987canlii73/1987canlii73.html)
 
-> "The central purpose of a human-rights Act is **remedial - to eradicate anti-social conditions without regard to the motives or intention of those who cause them.**"
+> "The central purpose of a human rights Act is **remedial - to eradicate anti-social conditions without regard to the motives or intention of those who cause them.**"
 
 **Implication:** Employers don't need discriminatory intent to be liable. They can be liable even if unaware of protected attributes. Intent is irrelevant - **impact is everything**.
 
@@ -341,7 +341,7 @@ We're committed to **radical transparency**:
 **Share your data:**
 - Anonymized case outcome data (we can help with anonymization)
 - Internal analysis of denial patterns you've observed
-- Cross-references to discriminatory action complaints or human-rights cases
+- Cross-references to discriminatory action complaints or human rights cases
 
 **Collaborate with us:**
 - We're open-sourcing all our analysis code
@@ -427,7 +427,7 @@ That's why we're building 3mpwrApp. That's why we're fighting for data access. T
 
 **Tribunal Data & Transparency:**
 - [Feature Spotlight: CanLII Database - Ontario WSIB & HRTO Cases (Expanding Canada-Wide)](/_posts/2026-04-25-feature-spotlight-canlii-database-ontario-wsib-hrto-cases-expanding-canada-wide.md) - Searchable database of 34,928+ tribunal decisions with AI-powered outcome predictions
-- [Cross-Tribunal Comparison: HRTO's 73.5% Abandonment vs WSIAT's 65-73% Worker Success](/_posts/2026-04-20-hrto-wsiat-cross-tribunal-comparison.md) - Why do human-rights cases fail when workers' comp cases succeed?
+- [Cross-Tribunal Comparison: HRTO's 73.5% Abandonment vs WSIAT's 65-73% Worker Success](/_posts/2026-04-20-hrto-wsiat-cross-tribunal-comparison.md) - Why do human rights cases fail when workers' comp cases succeed?
 - [HRTO Abandonment Analysis: Email Issues in 70.1% of Abandoned Cases](/human-rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/) - Digital barriers blocking vulnerable claimants from justice
 
 **Claim Suppression Research:**

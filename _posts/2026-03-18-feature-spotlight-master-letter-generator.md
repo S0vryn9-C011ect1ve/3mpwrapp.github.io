@@ -12,7 +12,7 @@ excerpt: 22 professional letter templates for workplace accommodations, benefits
 - **4 administrative & documentation letter templates**
 - **Province-specific customization for all Canadian jurisdictions**
 - **Built-in safety features and professional language**
-- **Always free - no premium templates or hidden costs** * * * ## How It Works Here are real examples of how you can use Master Letter Generator: 1. Request workplace accommodations under human-rights legislation
+- **Always free - no premium templates or hidden costs** * * * ## How It Works Here are real examples of how you can use Master Letter Generator: 1. Request workplace accommodations under human rights legislation
 2. Apply for disability benefits (CPP-D, ODSP, AISH, PWD)
 3. Write appeals for denied benefits or accommodations
 4. Document workplace discrimination or harassment

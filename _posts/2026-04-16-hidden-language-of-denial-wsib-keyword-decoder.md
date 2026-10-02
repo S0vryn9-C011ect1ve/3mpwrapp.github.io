@@ -820,6 +820,6 @@ Thunder Bay & District Injured Workers Support Group for verifying denial patter
 
 ---
 
-*This analysis is based on publicly available tribunal decisions. We encourage communities, workers, and advocates to use this research for accessibility-focused accountability grounded in human-rights and rule-of-law principles. The data belongs to everyone.*
+*This analysis is based on publicly available tribunal decisions. We encourage communities, workers, and advocates to use this research for accessibility-focused accountability grounded in human rights and rule-of-law principles. The data belongs to everyone.*
 
 **#DecodeTheDenial #WSIBKeywords #WorkerEmpowerment #StackThoseReceipts**

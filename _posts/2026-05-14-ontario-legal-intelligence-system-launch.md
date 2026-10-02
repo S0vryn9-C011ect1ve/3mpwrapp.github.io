@@ -220,7 +220,7 @@ As extraction completes, **all content updates automatically**:
   - **ONWSIAT** - Workplace Safety & Insurance Appeals Tribunal (99,036 workplace injury appeals)
   - **ONSBT** - Ontario Social Benefits Tribunal (13,798 social assistance appeals)
   - **ONWSIB** - Workplace Safety & Insurance Board (463 initial workplace injury claims)
-  - **ONHRT** - Ontario Human Rights Tribunal (9,269 discrimination & human-rights cases)
+  - **ONHRT** - Ontario Human Rights Tribunal (9,269 discrimination & human rights cases)
   - **ONLRB** - Ontario Labour Relations Board (10,167 labour relations & union cases)
   - **ONCA** - Ontario Court of Appeal (5,034 appellate court precedents)
 

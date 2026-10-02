@@ -697,7 +697,7 @@ permalink: /app-tour/
     </div>
     <div class="preview-card">
       <a href="/user-guide/#campaigns?utm_source=app_tour&utm_campaign=visual_refresh" title="Human rights">
-        <img src="/assets/images/screenshots/1-Official3mpwrAppScreenshots/laptop/resources/InteractivePolicySimulator7-FileHumanRightsComplaint.png" alt="Interactive Policy Simulator: File human-rights complaint for discrimination - disability rights - 3mpwrApp" loading="lazy">
+        <img src="/assets/images/screenshots/1-Official3mpwrAppScreenshots/laptop/resources/InteractivePolicySimulator7-FileHumanRightsComplaint.png" alt="Interactive Policy Simulator: File human rights complaint for discrimination - disability rights - 3mpwrApp" loading="lazy">
       </a>
       <div class="caption">Human Rights Tutorial | <a href="/user-guide/#campaigns">Rights</a></div>
     </div>

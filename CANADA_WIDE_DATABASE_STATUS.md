@@ -246,4 +246,4 @@ data/
 
 ---
 
-**Ready to collect ALL Canadian legal decisions covering disabilities, workers' compensation, and human-rights from 1900 to present!** 🚀
+**Ready to collect ALL Canadian legal decisions covering disabilities, workers' compensation, and human rights from 1900 to present!** 🚀

@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Human Rights
-description: Disability and injured-worker human-rights resources.
+description: Disability and injured-worker human rights resources.
 permalink: /human-rights/
 ---
 
 # Human Rights
 
-Disability and injured-worker human-rights resources.
+Disability and injured-worker human rights resources.
 
 This section is being built out. In the meantime, explore the related resources below.
 

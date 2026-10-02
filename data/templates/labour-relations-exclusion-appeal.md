@@ -266,7 +266,7 @@ The Supreme Court of Canada has held that tribunals have jurisdiction to conside
 
 In *Caron v. Oshawa* (2001 SCC, File 36605), the SCC instructed tribunals:
 
-> "This Court's decision should be interpreted by workers' compensation boards and tribunals across the country as an indication that they need to fulfill their statutory role in return to work in keeping with fundamental human-rights principles."
+> "This Court's decision should be interpreted by workers' compensation boards and tribunals across the country as an indication that they need to fulfill their statutory role in return to work in keeping with fundamental human rights principles."
 
 **Application to my case:**
 
@@ -276,7 +276,7 @@ Applying the labour relations exclusion to deny my claim violates:
 
 2. **Section 7 Charter rights to security of the person:** Denying compensation for employer-caused mental stress while simultaneously preventing me from suing my employer (due to no-fault protection) deprives me of security of the person in a manner not in keeping with principles of fundamental justice.
 
-3. **Dignity interests protected by human-rights codes:** Employer retaliation violates my human right to file a workers' compensation claim without reprisal. Allowing the exclusion to shield this retaliation from accountability undermines my dignity and the remedial purpose of workers' compensation.
+3. **Dignity interests protected by human rights codes:** Employer retaliation violates my human right to file a workers' compensation claim without reprisal. Allowing the exclusion to shield this retaliation from accountability undermines my dignity and the remedial purpose of workers' compensation.
 
 The *Pickering* "read down" approach reconciles the labour relations exclusion with Charter values. I request the tribunal apply that approach here.
 
@@ -339,7 +339,7 @@ For the reasons set out above, I respectfully request that the tribunal:
 
 3. **Apply** the *Pickering v. WCB* (2025 BCSC 376) ruling and read down the labour relations exclusion to generic processes taken in good faith;
 
-4. **Exercise** incidental Charter jurisdiction to interpret the exclusion in keeping with human-rights principles (*Caron*, *Dunedin*);
+4. **Exercise** incidental Charter jurisdiction to interpret the exclusion in keeping with human rights principles (*Caron*, *Dunedin*);
 
 5. **Find** that I am entitled to compensation for chronic mental stress caused by my employer's retaliatory actions;
 

@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide to HRTO: Human Rights Tribunal of Ontario"
 description: "Comprehensive guide to filing workplace discrimination, disability accommodation, and reprisal claims at HRTO"
-keywords: "HRTO, human-rights Ontario, workplace discrimination, disability accommodation, reprisal, harassment"
+keywords: "HRTO, human rights Ontario, workplace discrimination, disability accommodation, reprisal, harassment"
 author: "3mpwrApp Research Team"
 date: 2026-04-30
 layout: guide
@@ -224,7 +224,7 @@ You can file an HRTO application if discriminated against based on:
 
 **Format:**
 - In-person or virtual hearing
-- Vice-Chair presides (lawyer with human-rights expertise)
+- Vice-Chair presides (lawyer with human rights expertise)
 - Both sides present evidence and witnesses
 - Cross-examination
 - Legal arguments
@@ -321,13 +321,13 @@ You can file an HRTO application if discriminated against based on:
 
 ### What is Reprisal?
 
-**Definition:** Retaliation for exercising your human-rights or participating in HRTO process
+**Definition:** Retaliation for exercising your human rights or participating in HRTO process
 
 **Example Reprisal Actions:**
 - Fired after filing HRTO application
 - Demoted after complaining about discrimination
 - Harassed after requesting accommodation
-- Denied promotion after supporting coworker's human-rights complaint
+- Denied promotion after supporting coworker's human rights complaint
 
 ### Proving Reprisal
 
