@@ -47,7 +47,7 @@ We completed a full documentation synchronization across app and website, includ
 - [Projecteur communautaire](/fr/community-spotlight/)
 
 ### Downloadable docs {#downloadable-docs}
-- [Complete User Guide (Download)](/assets/downloads/3mpwrapp-user-guide-full.md)
+- [Complete User Guide (Download)](/user-guide/)
 
 ## 📌 Organization Update
 

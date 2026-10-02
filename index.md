@@ -534,7 +534,7 @@ async function loadSimpleCampaigns() {
       <div class="homepage-campaign-item">
         <div class="campaign-title">${c.title}</div>
         <div class="campaign-summary">${(c.description || '').substring(0, 100)}...</div>
-        ${c.actionUrl ? `<a href="${c.actionUrl}" target="_blank" rel="noopener" style="font-size: 0.9rem; color: #5a189a;">Take Action ?</a>` : ''}
+        ${c.actionUrl ? `<a href="#" target="_blank" rel="noopener" style="font-size: 0.9rem; color: #5a189a;">Take Action ?</a>` : ''}
       </div>
     `).join('');
   } catch (err) {

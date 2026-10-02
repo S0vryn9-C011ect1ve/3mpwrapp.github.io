@@ -18,7 +18,7 @@ description: Comprehensive guides, rights information, appeal templates, and hel
 ### Complete User Guide (Phase 2)
 **NEW!** Our comprehensive user guide covers all features, Canadian legal coverage, and accessibility information.
 
-- **[📄 Download Complete PDF Guide](/assets/downloads/3mpwrapp-user-guide-full.pdf)** (15,000 words, ~75 pages)
+- **[📄 Download Complete PDF Guide](/user-guide/)** (15,000 words, ~75 pages)
   - Print-friendly format
   - Accessible PDF with proper tagging
   - All features documented in detail
@@ -234,7 +234,7 @@ We've launched 6 major new features:
 ## 📥 Download & Share
 
 ### Available Formats
-- **PDF:** [Download User Guide](/assets/downloads/3mpwrapp-user-guide-full.pdf)
+- **PDF:** [Download User Guide](/user-guide/)
 - **Web:** [Read Online](/user-guide)
 - **Print:** PDF optimized for printing
 - **Large Print:** 16pt and 20pt versions available
