@@ -1,0 +1,48 @@
+---
+layout: post
+title: "Daily News Curation - 2026-10-02"
+date: 2026-10-02
+tags: [highlights]
+categories: [curation, news]
+excerpt: "Today's curated disability rights, accessibility, and social policy news from across Canada."
+---
+
+# Daily News Curation - 2026-10-02
+
+Curated 6 items from disability, accessibility, and social policy sources.
+
+## 🌟 Featured: The Disability Bulletin
+
+### The Disability Bulletin
+Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.
+📍 [Read More](https://linktr.ee/thedisabilitybulletin)
+
+---
+
+## Additional Stories
+
+### 1. Manitoba Government Invests $3.8 Million in First French-Language Technical Vocational Education Culinary Arts Facility Coming to St. Boniface
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75480)
+**Score:** 9.50
+
+### 2. How to Engage Alberta, the Jilted Lover of Confederation
+A couples therapy approach could help heal the divide.
+[Source](https://thetyee.ca/Opinion/2026/10/02/Alberta-Jilted-Lover-Confederation/)
+**Score:** 5.90
+
+### 3. Manitoba Government Invests More Than $8 Million in New 24-7 Safe Space  for Indigenous Women and Their Children in Thompson
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75581)
+**Score:** 7.50
+
+### 4. Manitoba Government Celebrates Conservation Officers Recognition Day
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75580)
+**Score:** 7.50
+
+### 5. Manitoba Government Encourages Manitobans to Participate in Events to Commemorate Orange Shirt Day
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75478)
+**Score:** 7.50
+
