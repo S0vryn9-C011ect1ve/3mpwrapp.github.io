@@ -24,7 +24,7 @@ Your source for disability rights news, advocacy updates, and community stories.
 
 ## Additional Stories
 
-### 1. Canadaâ€™s human rights blackbox: Lives in limbo at office of Canadian Ombudsperson for Responsible Enterprise
+### 1. Canadaâ€™s human-rights blackbox: Lives in limbo at office of Canadian Ombudsperson for Responsible Enterprise
 ðŸ“ [Source](https://rabble.ca/politics/canadian-politics/canadas-human-rights-blackboxlives-in-limbo-at-office-of-canadian-ombudsperson-for-responsible-enterprise/)
 **Score:** 22.75
 

@@ -23,7 +23,7 @@ Analysis of **9,269 Human Rights Tribunal of Ontario (HRTO)** decisions (2020-20
 
 **💡 Disability Justice Context:**
 
-This research serves **injured workers, people with disabilities, and vulnerable communities** navigating human rights claims:
+This research serves **injured workers, people with disabilities, and vulnerable communities** navigating human-rights claims:
 
 - **If you're fighting disability discrimination at work** → HRTO is your tribunal, not WSIAT (unless your discrimination claim relates to WSIB benefits denial)
 - **If you're facing housing discrimination due to disability** → HRTO has jurisdiction over landlord accommodation failures
@@ -588,7 +588,7 @@ For HRTO to serve disability justice, it must:
 
 HRTO is **your tribunal** for fighting discrimination—but navigating it requires resources, knowledge, and often legal support. Know your rights. Document discrimination. Seek help early.
 
-*This research serves injured workers, people with disabilities, and vulnerable communities navigating human rights claims. Systemic discrimination doesn't stop at one tribunal—HRTO, WSIAT, ONSBT, and other tribunals all reflect the same underlying bias. Fighting discrimination at HRTO is fighting for disability justice everywhere.*
+*This research serves injured workers, people with disabilities, and vulnerable communities navigating human-rights claims. Systemic discrimination doesn't stop at one tribunal—HRTO, WSIAT, ONSBT, and other tribunals all reflect the same underlying bias. Fighting discrimination at HRTO is fighting for disability justice everywhere.*
 
 ---
 

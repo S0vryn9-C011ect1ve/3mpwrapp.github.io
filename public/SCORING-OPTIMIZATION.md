@@ -12,7 +12,7 @@ The scoring system evaluates RSS feed items on a 1.5–18.5 scale for disability
 1. **Higher disability impact weighting** - Content directly affecting disabled Canadians scores highest
 2. **Program-specific scoring** - Provincial and federal disability programs weighted separately and higher
 3. **Credible source priority** - Government and official sources boost scores significantly
-4. **Legal/Rights emphasis** - Court decisions and human rights rulings weighted at 3.5 (very high)
+4. **Legal/Rights emphasis** - Court decisions and human-rights rulings weighted at 3.5 (very high)
 5. **Workers' compensation focus** - Important for injured workers, scored at 3.25
 
 ## Score Ranges

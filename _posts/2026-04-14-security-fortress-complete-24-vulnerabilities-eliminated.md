@@ -289,7 +289,7 @@ Most apps would fix these vulnerabilities quietly and never tell users. We're di
 
 **Security isn't a feature we added.** It's the foundation everything else is built on.
 
-When you're storing medical records to fight a WSIB denial, when you're documenting symptoms for a CPP Disability appeal, when you're collecting evidence for a human rights complaint - **you need to trust that data is safe.**
+When you're storing medical records to fight a WSIB denial, when you're documenting symptoms for a CPP Disability appeal, when you're collecting evidence for a human-rights complaint - **you need to trust that data is safe.**
 
 Today we eliminated 24 vulnerabilities, fixed a critical configuration bug, and strengthened our defenses.
 

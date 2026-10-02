@@ -278,7 +278,7 @@ Section 135(1)(c) of BC's WCA excludes compensation for mental disorders caused 
 **Why this is illegal:**
 - Accommodation is a **legal duty**, not employer's choice
 - Cannot be conditional on waiving WCB rights
-- Violates duty to accommodate under human rights law
+- Violates duty to accommodate under human-rights law
 
 **Supreme Court of Canada (*Caron*, 2018 SCC 7):**
 > "The duty to reasonably accommodate disabled employees is a fundamental tenet of Canadian labour law."
@@ -542,7 +542,7 @@ We're scraping all Ontario Human Rights Tribunal decisions (2020-2026) for disab
 - Legal tests: Which arguments work at HRTO vs. WSIAT?
 
 **Hypothesis:**
-Employers who suppress WCB claims likely also violate human rights law (failure to accommodate, discriminatory termination). Cross-referencing databases will expose repeat offenders.
+Employers who suppress WCB claims likely also violate human-rights law (failure to accommodate, discriminatory termination). Cross-referencing databases will expose repeat offenders.
 
 ---
 

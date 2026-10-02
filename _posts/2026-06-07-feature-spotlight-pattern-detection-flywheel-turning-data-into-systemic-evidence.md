@@ -17,7 +17,7 @@ Pattern Detection Flywheel: Turning Data Into Systemic Evidence is designed to d
 - **Architecture supports aggregate analysis of systemic discrimination**
 - **100% privacy-preserving design: individual data never accessed**
 - **System can identify patterns: biased adjudicators, discriminatory policies, regional disparities**
-- **Output designed as legal-grade evidence for human rights complaints**
+- **Output designed as legal-grade evidence for human-rights complaints**
 - **Alert system planned for when patterns affect specific users**
 - **Community input mechanism for prioritizing pattern investigations**
 ---
@@ -29,7 +29,7 @@ Practical ways this feature can be used:
 2. Trend analysis capability: "Denial rates by time period and jurisdiction"
 3. Geographic comparison: "Regional disparities in claim outcomes"
 4. Demographic analysis: "Outcome variations by protected characteristics"
-5. Use case: Patterns presented as evidence in human rights proceedings
+5. Use case: Patterns presented as evidence in human-rights proceedings
 ---
 ## Flywheel Integration
 Flywheel Stage(s): Varies by use case across Data Collection, Analysis / Pattern Recognition, Knowledge Base, Templates / Guides, Visualizations, and Real-World Impact.

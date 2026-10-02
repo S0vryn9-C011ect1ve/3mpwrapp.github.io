@@ -31,7 +31,7 @@
 | **Nova Scotia** | `nshrc` | Nova Scotia Human Rights Commission | 30-60 |
 | **New Brunswick** | `nbhrc` | New Brunswick Human Rights Commission | 20-40 |
 
-**Note:** Many provinces route human rights cases through provincial courts rather than dedicated tribunals.
+**Note:** Many provinces route human-rights cases through provincial courts rather than dedicated tribunals.
 
 ---
 

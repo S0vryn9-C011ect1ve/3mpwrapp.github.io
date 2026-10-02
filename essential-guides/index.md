@@ -81,10 +81,10 @@ Your rights to accessible environments, technology, and services.
 
 ### ⚔️ Legal: Understanding Your Rights & Remedies
 
-Navigate legal systems, human rights complaints, and understanding court decisions.
+Navigate legal systems, human-rights complaints, and understanding court decisions.
 
 **How to choose:**
-- **Filing a human rights complaint?** → Start with "Human Rights Complaints: Complete Process"
+- **Filing a human-rights complaint?** → Start with "Human Rights Complaints: Complete Process"
 - **Reading a legal decision?** → Check "How to Read & Understand Legal Decisions"
 - **Fighting discrimination?** → See "Discrimination Complaints: Step-by-Step"
 - **Need legal help?** → Jump to "Finding & Affording Legal Support"
@@ -125,7 +125,7 @@ Each guide shows "Last updated: [date]" at the top and bottom. We refresh guides
 We track policy changes across:
 - Federal (CPP-D, Canada Disability Benefit, ADA)
 - Provincial (ODSP, AISH, PWD benefits, WCB/WSIB updates)
-- Regulatory (AODA, provincial human rights codes)
+- Regulatory (AODA, provincial human-rights codes)
 
 ### What Each Guide Includes
 
@@ -254,7 +254,7 @@ Navigate WSIB, workplace injuries, and return-to-work.
 - Discrimination: what it is and what to do
 - Privacy: when employers can ask about disability
 - Medical information: your right to confidentiality
-- Filing a human rights complaint
+- Filing a human-rights complaint
 - **Last updated: January 2026**
 
 </div>
@@ -318,7 +318,7 @@ Understanding decisions that affect you.
 
 #### [Human Rights Complaints: Your Rights When Facing Discrimination]({{ '/essential-guides/human-rights-complaints' | relative_url }})
 - What counts as discrimination
-- Which human rights code applies to you (federal, provincial)
+- Which human-rights code applies to you (federal, provincial)
 - Filing a complaint (process, deadlines)
 - What happens next (investigation, hearing)
 - What remedies are possible (compensation, policy change)

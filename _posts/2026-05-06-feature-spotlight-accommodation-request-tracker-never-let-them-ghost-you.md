@@ -19,7 +19,7 @@ Accommodation Request Tracker: Never Let Them Ghost You is designed to track acc
 - **Status tracking: requested, under review, approved, denied, implemented**
 - **Store all related correspondence in Evidence Locker**
 - **Timeline shows employer delays and non-responses**
-- **Export documentation for human rights complaints**
+- **Export documentation for human-rights complaints**
 ---
 ## How It Works
 Example scenario (illustrative only):

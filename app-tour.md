@@ -685,7 +685,7 @@ permalink: /app-tour/
     </div>
     <div class="preview-card">
       <a href="/user-guide/#ai-advocacy-suite?utm_source=app_tour&utm_campaign=visual_refresh" title="Accommodations">
-        <img src="/assets/images/screenshots/1-Official3mpwrAppScreenshots/laptop/resources/InteractivePolicySimulator4-RequestWorkplaceAccomodation.png" alt="Interactive Policy Simulator: Request workplace accommodations under ADA/human rights laws - 3mpwrApp disability" loading="lazy">
+        <img src="/assets/images/screenshots/1-Official3mpwrAppScreenshots/laptop/resources/InteractivePolicySimulator4-RequestWorkplaceAccomodation.png" alt="Interactive Policy Simulator: Request workplace accommodations under ADA/human-rights laws - 3mpwrApp disability" loading="lazy">
       </a>
       <div class="caption">Accommodations Tutorial | <a href="/user-guide/#ai-advocacy-suite">Request</a></div>
     </div>
@@ -697,7 +697,7 @@ permalink: /app-tour/
     </div>
     <div class="preview-card">
       <a href="/user-guide/#campaigns?utm_source=app_tour&utm_campaign=visual_refresh" title="Human rights">
-        <img src="/assets/images/screenshots/1-Official3mpwrAppScreenshots/laptop/resources/InteractivePolicySimulator7-FileHumanRightsComplaint.png" alt="Interactive Policy Simulator: File human rights complaint for discrimination - disability rights - 3mpwrApp" loading="lazy">
+        <img src="/assets/images/screenshots/1-Official3mpwrAppScreenshots/laptop/resources/InteractivePolicySimulator7-FileHumanRightsComplaint.png" alt="Interactive Policy Simulator: File human-rights complaint for discrimination - disability rights - 3mpwrApp" loading="lazy">
       </a>
       <div class="caption">Human Rights Tutorial | <a href="/user-guide/#campaigns">Rights</a></div>
     </div>

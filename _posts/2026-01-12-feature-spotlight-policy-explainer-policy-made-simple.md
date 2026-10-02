@@ -7,7 +7,7 @@ categories: [features]
 excerpt: Translate complex policies, laws, and decisions into plain language
 --- # Feature Spotlight: Policy Explainer (Policy Made Simple) **Category:** Advocacy Tools Translate complex policies, laws, and decisions into plain language * * * ## What Is Policy Explainer (Policy Made Simple)? Policy Explainer (Policy Made Simple) is designed to translate complex policies, laws, and decisions into plain language. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **AI translates legal jargon to plain language**
 - **Explains your rights in simple terms**
-- **Covers employment law, benefits, human rights**
+- **Covers employment law, benefits, human-rights**
 - **Examples and scenarios for clarity**
 - **Save explanations for future reference**
 - **Always free - no premium explanations** * * * ## How It Works Here are real examples of how you can use Policy Explainer (Policy Made Simple): 1. Input: Complex benefits denial letter

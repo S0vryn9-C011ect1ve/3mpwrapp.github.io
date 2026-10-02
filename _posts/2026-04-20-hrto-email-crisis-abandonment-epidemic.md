@@ -44,7 +44,7 @@ Interpretation note: the Tier B CI is wide due to very small sample size. This p
 ## See Also
 
 **HRTO Resources:**
-- [**HRTO Complete Guide**](/guides/hrto-complete-guide/) - Full procedural guide for human rights complaints
+- [**HRTO Complete Guide**](/guides/hrto-complete-guide/) - Full procedural guide for human-rights complaints
 - [**HRTO Analysis Screen**](https://3mpwrapp.ca/resources/hrto-analysis) - Interactive analysis in the app
 - [**HRTO Abandonment Article**](https://3mpwrapp.ca/resources/articles/hrto-abandonment) - Read the full app article
 
@@ -432,7 +432,7 @@ Case continues OR applicant given 30 days to update contact info
 
 - Discrimination goes unaddressed (employer/landlord faces no consequences)
 - Applicant may face ongoing harm (continued discrimination, job loss, housing loss)
-- System credibility eroded (vulnerable communities lose faith in human rights process)
+- System credibility eroded (vulnerable communities lose faith in human-rights process)
 - Inequality reinforced (digital divide impacts access to justice)
 
 **The email notification challenges are preventable. HRTO has the capacity to address this with system improvements.**
@@ -563,7 +563,7 @@ Sincerely,
 **Share this analysis:**
 - Forward to advocacy groups
 - Post on social media (#HRTOAccess #AccessToJustice)
-- Submit to media (journalists covering human rights, technology)
+- Submit to media (journalists covering human-rights, technology)
 
 ---
 
