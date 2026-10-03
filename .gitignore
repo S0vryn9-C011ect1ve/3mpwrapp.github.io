@@ -99,3 +99,7 @@ accessibility-reports-*/
 *.report.html
 
 accessibility-audit-*.json
+
+# Local safety backups — never commit
+*.bak-before-*
+*.json.bak*

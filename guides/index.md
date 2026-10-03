@@ -286,3 +286,32 @@ These guides are for **informational purposes only** and do not constitute legal
 **Data Source:** 99,036 WSIAT decisions (1987-2026) from [WSIAT Open Data Portal](https://www.wsiat.ca/en/home/opendata_decisions.html)  
 **Analysis Depth:** 9 advanced pattern categories (keyword co-occurrence, temporal evolution, vice-chair specialization, body parts, medical specialists, policy citations, complexity, outcomes, network visualization)  
 **Next Update:** October 2026 (when new decisions published)
+
+---
+
+## 📚 All Guides — Complete Index
+
+Every guide in this collection. If you arrived here from a search engine rather than the
+navigation, this is the full list.
+
+| Guide | What it covers |
+|---|---|
+| [Construction Workers: WSIAT Appeal Guide]({{ '/guides/construction-wsiat-industry-guide/' | relative_url }}) | Industry-specific appeal guidance for carpenters, laborers, contractors, and construction workers navigating WSIB and WSIAT. |
+| [Healthcare Workers: WSIAT Appeal Guide]({{ '/guides/healthcare-wsiat-industry-guide/' | relative_url }}) | Industry-specific appeal guidance for nurses, PSWs, healthcare aides, and other healthcare workers navigating WSIB and WSIAT. |
+| [hrto-complete-guide]({{ '/guides/hrto-complete-guide/' | relative_url }}) |  |
+| [Manufacturing Workers: WSIAT Appeal Guide]({{ '/guides/manufacturing-wsiat-industry-guide/' | relative_url }}) | Industry-specific appeal guidance for machine operators, assemblers, production workers navigating WSIB and WSIAT. |
+| [Complete Guide to ODSP: Ontario Disability Support Program]({{ '/guides/odsp-complete-guide/' | relative_url }}) | A plain-language guide to Ontario Disability Support Program — who qualifies, how much you can receive, how to apply, what the definition of disabilit |
+| [onca-appellate-guide]({{ '/guides/onca-appellate-guide/' | relative_url }}) |  |
+| [Complete Guide to ONSBT: Ontario Social Benefits Tribunal Appeals]({{ '/guides/onsbt-complete-guide/' | relative_url }}) | Comprehensive guide to appealing ODSP and Ontario Works decisions at ONSBT (Social Benefits Tribunal) |
+| [Complete Guide to ONWSIB: Should You Appeal WSIB's Decision?]({{ '/guides/onwsib-skip-strategy-guide/' | relative_url }}) | Guide to WSIB internal review (ONWSIB) and when workers skip directly to WSIAT for independent appeal |
+| [Back Injury Appeals Guide - WSIAT]({{ '/guides/wsiat-back-injury-appeals/' | relative_url }}) | Complete guide to back injury appeals at WSIAT. Based on 15,177 back injury decisions (15.3% of all appeals) - the #1 most common injury type. |
+| [Chronic Pain Guide - WSIAT Appeals Strategy]({{ '/guides/wsiat-chronic-pain-claims/' | relative_url }}) | Complete guide to chronic pain claims at WSIAT. Based on analysis of 7,502 decisions (1987-2026) showing chronic pain is 3rd most common appeal issue  |
+| [Complete Guide to WSIAT Appeals: Data-Driven Success Strategies]({{ '/guides/wsiat-complete-guide/' | relative_url }}) | Comprehensive guide to Workplace Safety and Insurance Appeals Tribunal (WSIAT) based on analysis of 99,036 decisions (2016-2025) |
+| [LOE Benefits Guide - Loss of Earnings at WSIAT]({{ '/guides/wsiat-loe-benefits/' | relative_url }}) | Complete guide to Loss of Earnings (LOE) benefits in Ontario workers' compensation. Based on analysis of 10,838 WSIAT decisions (1987-2026). |
+| [NEL Benefits Guide - Non-Economic Loss at WSIAT]({{ '/guides/wsiat-nel-benefits/' | relative_url }}) | Complete guide to Non-Economic Loss (NEL) benefits in Ontario workers' compensation. Based on analysis of 20,680 WSIAT decisions (1987-2026). |
+| [NEL + Chronic Pain Combined Strategy - WSIAT]({{ '/guides/wsiat-nel-chronic-pain-strategy/' | relative_url }}) | Complete guide to appealing NEL denials when chronic pain is involved. Based on 2,101 decisions where both issues appear together (2.12% of all appeal |
+| [WSIAT Tactics Survival Guide: Preparing to Win at Hearing]({{ '/guides/wsiat-tactics-survival-guide/' | relative_url }}) | A practical, plain-language guide to preparing for a WSIAT hearing — how decisions are actually made, what evidence carries weight, the traps that los |
+| [WSIB to ODSP Pathway: Transitioning from Workplace Injury Benefits to Disability Support]({{ '/guides/wsib-to-odsp-pathway/' | relative_url }}) | Complete guide to transitioning from WSIB benefits to ODSP when workplace injury prevents return to work |
+
+*Can't find what you need? [Ask us](/contact/) — if a guide is missing, that is worth
+telling us.*

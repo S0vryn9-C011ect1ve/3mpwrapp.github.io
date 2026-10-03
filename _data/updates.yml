@@ -40,7 +40,7 @@
     - ✅ **Security Headers**: A+ rating with CSP, COEP, COOP, CORP
     - ✅ **French Translations**: 100% bilingual coverage (14/14 pages)
     - ✅ **Hreflang Tags**: Proper language/region targeting for SEO
-  link: /WEEK-1-QUICK-WINS-COMPLETE.md
+  link: ""
 
 - date: 2025-10-17
   title: "Enhanced Curator System"
@@ -76,7 +76,7 @@
     - **Media Support**: Images and videos in posts
     - **Hashtag Preservation**: Maintains all hashtags and mentions
     - **Rate Limit Handling**: Respects instance limits
-  link: /MASTODON-API-SETUP-COMPLETE.md
+  link: ""
 
 - date: 2025-10-14
   title: "Bluesky Integration"
@@ -87,7 +87,7 @@
     - **Thread Support**: Multi-post threads handled correctly
     - **Rich Embeds**: Links and media preserved
     - **Hashtag Discovery**: Find trending topics
-  link: /BLUESKY-SETUP-GUIDE.md
+  link: ""
 
 - date: 2025-10-13
   title: "Dark Mode & Accessibility Themes"
@@ -147,7 +147,7 @@
     - **DDoS Protection**: Enterprise-grade security included
     - **Atomic Deploys**: Zero-downtime updates
     - **Preview Deployments**: Test changes before going live
-  link: /CLOUDFLARE-PAGES-SETUP.md
+  link: ""
 
 # Add new updates above this line
 # Older updates (30+ days) are automatically archived

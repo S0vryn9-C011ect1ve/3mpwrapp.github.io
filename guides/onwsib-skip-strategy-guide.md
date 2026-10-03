@@ -324,7 +324,7 @@ Ask yourself:
 ### See Also
 
 - [**WSIAT Complete Guide**]({{ '/guides/wsiat-complete-guide/' | relative_url }}) - Your next step if ONWSIB doesn't work
-- [**WSIAT Appeal Tactics Survival Guide**](/guides/wsiat-tactics-survival-guide.md) - Strategic approach to winning at WSIAT
+- [**WSIAT Appeal Tactics Survival Guide**]({{ '/guides/wsiat-tactics-survival-guide/' | relative_url }}) - Strategic approach to winning at WSIAT
 - [**WSIAT Analysis in App**](https://3mpwrapp.ca/resources/wsiat-analysis) - Research WSIAT decisions
 - [**ONWSIB in App**](https://3mpwrapp.ca/resources/onwsib-analysis) - Analyze ONWSIB decision patterns
 - [**ONWSIB Skip Strategy Article**](https://3mpwrapp.ca/resources/articles/onwsib-skip-strategy) - Deep dive into when to skip ONWSIB

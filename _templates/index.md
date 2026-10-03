@@ -87,3 +87,34 @@ permalink: /templates/
 ---
 
 *Built by 3mpwrApp for injured workers and persons with disabilities in Thunder Bay and across Ontario.*
+
+---
+
+## 📄 All Templates — Complete Index
+
+Every fill-in template in this collection.
+
+### Injury and benefit appeals
+
+| Template | What it covers |
+|---|---|
+| [Back Injury Appeal Letter Template]({{ '/templates/back-injury-appeal/' | relative_url }}) |  |
+| [Chronic Pain Appeal Letter Template]({{ '/templates/chronic-pain-appeal/' | relative_url }}) |  |
+| [Hand Injury WSIAT Appeal Template]({{ '/templates/hand-injury-appeal/' | relative_url }}) | Professional fill-in-the-blank appeal letter for hand injury WSIB denials. Based on analysis of 2,785 successful WSIAT hand injury cases (fi |
+| [Knee Injury WSIAT Appeal Template]({{ '/templates/knee-injury-appeal/' | relative_url }}) | Professional fill-in-the-blank appeal letter for knee injury WSIB denials. Based on analysis of 3,162 successful WSIAT knee injury cases (me |
+| [Mental Health Injury WSIAT Appeal Template]({{ '/templates/mental-health-appeal/' | relative_url }}) | Professional fill-in-the-blank appeal letter for mental health WSIB denials. Based on analysis of 2,000+ successful WSIAT mental health case |
+| [Neck Injury WSIAT Appeal Template]({{ '/templates/neck-injury-appeal/' | relative_url }}) | Professional fill-in-the-blank appeal letter for neck injury WSIB denials. Based on analysis of 3,535 successful WSIAT neck injury cases (wh |
+| [Pre-Existing Condition Appeal Template]({{ '/templates/pre-existing-appeal/' | relative_url }}) |  |
+| [Shoulder Injury WSIAT Appeal Template]({{ '/templates/shoulder-injury-appeal/' | relative_url }}) | Professional fill-in-the-blank appeal letter for shoulder injury WSIB denials. Based on analysis of 5,295 successful WSIAT shoulder injury c |
+
+### ONCA appellate templates
+
+| Template | What it covers |
+|---|---|
+| [onca-factum-template]({{ '/templates/onca-factum-template/' | relative_url }}) |  |
+| [onca-leave-to-appeal-application]({{ '/templates/onca-leave-to-appeal-application/' | relative_url }}) |  |
+| [onca-notice-of-appeal]({{ '/templates/onca-notice-of-appeal/' | relative_url }}) |  |
+
+*Not sure which one you need? Start with the
+[WSIAT Tactics Survival Guide](/guides/wsiat-tactics-survival-guide/) or
+[ask us](/contact/).*

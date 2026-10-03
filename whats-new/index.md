@@ -63,6 +63,7 @@ permalink: /whats-new/
 
 <!-- Archive (Older than 30 Days) -->
 <h2 id="archive">Archive</h2>
+<p class="archive-note">Updates older than 30 days, grouped by month. <a href="{{ '/whats-new/archives/' | relative_url }}">Browse the complete archive &rarr;</a></p>
 <p class="archive-note">Updates older than 30 days, grouped by month</p>
 <div id="archive-container">
   <!-- Populated by JavaScript -->
