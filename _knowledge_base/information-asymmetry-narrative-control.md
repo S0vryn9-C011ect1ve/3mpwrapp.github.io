@@ -99,7 +99,59 @@ Sources listed above were identified in a review of publicly available material 
 rebates and claims, 2026-10-03. No source is characterized here as inaccurate; the
 finding concerns **presence and volume of worker-side material**, not accuracy.
 
-*Method note: this article records a qualitative review, not a ranked search audit. A
-systematic SERP capture with timestamps would strengthen it and is worth doing.*
+---
+
+## 📊 Measured Capture — 2026-10-03
+
+Four queries, ten results each (40 total), classified by source type.
+
+| Query intent | Example query | Worker-side results |
+|---|---|---|
+| **Policy / money** | "WSIB surplus rebate premium" | **0 / 10** |
+| **Personal experience** | "why was my WSIB claim denied injured worker" | 2 / 10 |
+| **Explicit advocacy** | "WSIB under-compensation injured workers advocacy" | 5 / 10 |
+| **Structural critique** | "Ontario injured worker rights … experience rating employer" | 5 / 10 |
+
+### What the measurement changes: it narrows the claim
+
+The asymmetry is **not uniform across WSIB topics**. Worker-side material *does* appear —
+but it appears in proportion to how worker-focused the query is. On the *claims experience*
+question, workers and their advocates are a real share of the results.
+
+**The near-total absence is specific to the rebate and policy conversation** — the question
+of where the money went and who received it. On exactly that question, ten results contained
+**zero** worker-side sources.
+
+That is a sharper finding than "the record is lopsided," and it is actionable: **the absence
+is not general. It sits precisely where the money is.**
+
+### What each query actually returned
+
+- **Policy / money (0/10):** six WSIB/government pages, two employer-advisory firms
+  (an accounting practice and an employer-side law firm), one HR trade outlet, one local
+  business Facebook group.
+- **Personal experience (2/10):** two worker-community results (r/OntarioWSIB and a worker
+  Facebook group), six law firms — of which **four represent workers** and two defend
+  employers. Counting "law firm" as one bloc would misread this.
+- **Explicit advocacy (5/10):** Injured Workers Online, COSH, CAAA, Aftermetoo, and a worker
+  group, alongside the WSIB claimant guide.
+- **Structural critique (5/10):** Injured Workers Online (×2), r/OntarioWSIB, a worker
+  Facebook group, and an academic paper on experience rating and discriminatory hiring.
+
+### ⚠️ Limits of this capture — read before citing
+
+- **This is not Google.** It was run through an AI search backend with a different index and
+  ranking. It is a *sample of publicly indexed results*, not "the first page of Google."
+- **n=10 per query.** Directional, not statistically representative.
+- Results vary by **date, location and personalization**; a repeat capture may differ.
+- Two results in the "personal experience" set were **US** sources (California DWC, a San
+  Diego firm) — off-topic, but they still occupy top-10 slots.
+- It records **presence and ranking**, not accuracy of any source.
+
+What it does establish: on the policy/rebate question, worker-side sources **do not surface
+at all** — a repeatable, timestamped observation rather than an impression.
+
+*Re-run this capture periodically. If worker-side sources begin surfacing, that is itself a
+finding worth recording.*
 
 🍁 Made in Thunder Bay, ON, Canada by a disabled injured worker — founded & built by Lissa Beaulieu. 3mpwrApp™ is a free app by S0vryn9 C011ect1ve (the main company).
