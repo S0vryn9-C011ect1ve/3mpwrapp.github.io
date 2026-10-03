@@ -1,0 +1,73 @@
+---
+layout: post
+title: "Daily News Curation - 2026-10-03"
+date: 2026-10-03
+tags: [highlights]
+categories: [curation, news]
+excerpt: "Today's curated disability rights, accessibility, and social policy news from across Canada."
+---
+
+# Daily News Curation - 2026-10-03
+
+Curated 11 items from disability, accessibility, and social policy sources.
+
+## 🌟 Featured: The Disability Bulletin
+
+### The Disability Bulletin
+Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.
+📍 [Read More](https://linktr.ee/thedisabilitybulletin)
+
+---
+
+## Additional Stories
+
+### 1. Governments of Canada and Manitoba Support Workforce Training in Industrial Data Literacy and Applied AI in Aerospace and Manufacturing
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75503)
+**Score:** 23.40
+
+### 2. Manitoba Government Provides $50,000 to Support Youth Co-Ordinator  for Selkirk Community Renewal Corporation
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75498)
+**Score:** 12.50
+
+### 3. Manitoba Government Invests $50,000 to Support Accessible Upgrades at Selkirk Canoe Kayak Centre
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75497)
+**Score:** 11.50
+
+### 4. Manitoba Government Provides $100,000 for Renovations and Upgrades at Selkirk's Royal Canadian Legion Branch No. 42
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75499)
+**Score:** 10.50
+
+### 5. Manitoba Government Supports Selkirk and District Curling Club with $80,000 Grant for Renovations
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75501)
+**Score:** 9.50
+
+### 6. ‘Home Is Not an Asset:’ Leilani Farha
+The human rights expert offers a must-read account of what fails when housing is mistaken for wealth.
+[Source](https://thetyee.ca/Culture/2026/10/02/Human-Rights-Expert-Leilani-Farha-Housing-Inc-Global-Crisis/)
+**Score:** 6.00
+
+### 7. Manitoba Government Invests $100,000 in Dauphin's Maamawi Park
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75585)
+**Score:** 7.50
+
+### 8. Manitoba Government Invests $100,000 in Petersfield Walking Trail Project
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75502)
+**Score:** 7.50
+
+### 9. Manitoba Government Invests $40,000 in Renovations for Notre Dame Catholic Church in Selkirk
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75500)
+**Score:** 7.50
+
+### 10. Measles Update #115
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75584)
+**Score:** 4.50
+
