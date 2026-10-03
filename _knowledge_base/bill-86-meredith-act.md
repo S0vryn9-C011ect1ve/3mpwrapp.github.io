@@ -80,3 +80,17 @@ Advocates — including those documented in our [Bill 105 knowledge base](/knowl
 - **OLA Bill 105 text:** https://www.ola.org/en/legislative-business/bills/parliament-44/session-1/bill-105
 
 *Bill 86 research summary compiled from Injured Workers Online archives, OPSEU/SEFPO commentary, and advocacy statements. Last updated: 2026-09-13.*
+
+
+---
+
+## Other systems that may apply to you
+
+This guide covers **WSIB/WCB**. Depending on your situation, one or more of these
+may **also** apply — and applying to one does not decide the others.
+
+- [Which System Applies to Me?](/knowledge-base/which-system-applies-to-me/)
+- [🎖️ Veterans — VAC benefits](/knowledge-base/veterans-benefits-vac-canada/) — if you also served, a VAC claim is separate from WSIB
+- [Disability programs when the injury wasn't work-related](/knowledge-base/all-disabilities-non-work-injury-programs/) — ODSP, CPP, the Canada Disability Benefit, EI, the Disability Tax Credit
+- [Family and caregiver supports](/knowledge-base/family-caregiver-supports/) — if someone is caring for you
+

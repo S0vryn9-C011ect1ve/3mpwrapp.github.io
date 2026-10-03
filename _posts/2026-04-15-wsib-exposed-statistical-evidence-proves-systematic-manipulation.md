@@ -18,6 +18,19 @@ featured: true
 
 > **📋 ACCURACY AUDIT — 2026-07-20:** Original title "99,036" referred to an earlier WSIAT subset; analysis later enhanced with the 99,036-decision WSIAT Open Data Portal export. All outcome/grant rates on this page are keyword-inferred unless sourced to the Portal. The knee pre-existing stat (line above) is computed from Portal keyword co-occurrence, not the CanLII scrape. **Committed WSIAT records = 99,036 (metadata asserts 99,036; 44-record discrepancy).** The pre-existing+SIEF co-occurrence was corrected from 3,281 to 295 (committed data). July 2023 "39" reflects CanLII *publication* count, not WSIAT volume (~140 that month); reframed as a publication gap.
 
+> **📌 PROGRAM UPDATE — 2026-10-03:** The **Second Injury and Enhancement Fund (SIEF)
+> closed effective 16 June 2026** (WSIB Operational Policy Manual), announced 16 July
+> 2026 after a value-for-money audit. WSIB is no longer accepting new SIEF requests
+> and can only review requests received before 16 July 2026.
+>
+> **This does not affect the analysis on this page.** The 295-case pre-existing+SIEF
+> co-occurrence is **historical data** from decided appeals and remains valid as
+> evidence of how the system operated. It also does **not** change any reader's right
+> to appeal a "pre-existing" characterization — that right is unaffected by the closure.
+> [WSIB — SIEF policy](https://www.wsib.ca/en/operational-policy-manual/second-injury-and-enhancement-fund-sief)
+
+
+
 ---
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 30px; border-radius: 12px; margin: 30px 0; box-shadow: 0 10px 40px rgba(102, 126, 234, 0.3);">

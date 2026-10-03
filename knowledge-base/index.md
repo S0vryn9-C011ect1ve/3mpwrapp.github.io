@@ -17,6 +17,36 @@ Every article below is built from real tribunal decision data — not opinion. O
 
 ---
 
+## 🧭 Start Here — Not Sure What You Qualify For?
+
+**Most people are told about one system and never learn another exists.** If you are
+not sure where to apply, start with the routing guide instead of guessing:
+
+### → [Which System Applies to Me?](/knowledge-base/which-system-applies-to-me/)
+
+| What caused your disability or injury | The system is |
+|---|---|
+| **Your job** | WSIB (Ontario) or the WCB in your province |
+| **Military service** | VAC — Veterans Affairs Canada |
+| **Neither** — illness or condition | ODSP · AISH · CPP · EI · Disability Tax Credit |
+| **Age (65+)** | Old Age Security / GIS |
+| **Someone else's situation** | Family & caregiver supports |
+
+Work injury and service injury are **separate systems**. A WSIB denial does not
+decide a VAC claim — and a lack of WSIB coverage does not end your options.
+
+---
+
+## 👥 Guides by Who You Are
+
+- **🎖️ Veterans** — [Veterans Benefits and Services (VAC)](/knowledge-base/veterans-benefits-vac-canada/)
+- **🦯 Injured workers** — start below with the injury guides
+- [👴 Seniors & Elders — Income, Services and Your Rights](/knowledge-base/seniors-elders-supports/)
+- [🧠 All Disabilities — When the Injury Wasn't Work-Related](/knowledge-base/all-disabilities-non-work-injury-programs/)
+- [👥 Family & Caregivers — Supports for the People Caring for You](/knowledge-base/family-caregiver-supports/)
+
+---
+
 ## 🦴 Injury-Specific Claim Guides
 
 - [Ankle Injuries: Breaking WSIB's "Minor Sprain, MRI Normal" Denial](/knowledge-base/ankle-injury-claims/)
@@ -50,6 +80,19 @@ Every article below is built from real tribunal decision data — not opinion. O
 - [Claim Suppression & Employer Retaliation](/knowledge-base/claim-suppression-retaliation/)
 - [How Accurate Are Outcome Predictions? (79% AI Accuracy Explained)](/knowledge-base/outcome-prediction-accuracy/)
 - [Bill 86: Meredith Act (Fair Compensation for Injured Workers), 2025](/knowledge-base/bill-86-meredith-act/)
+- [Bill 105: WSIB Lock-In Removal (Ontario)](/knowledge-base/bill-105-wsib-lockin/)
+- [CanLII WSIB Precedents & Redeterminations](/knowledge-base/canlii-wsib-precedents/)
+- [WSIB Premium Rebates — Where Your Premium Goes](/knowledge-base/wsib-premium-rebates/)
+- [Your Rights: WSIB Premium Fairness & Appeals](/knowledge-base/wsib-rebate-appeals-rights/)
+- [WSIB Safety Check — Look Up Any Employer](/knowledge-base/wsib-safety-check/)
+- [WSIB Strike — Appeals Paused, What Injured Workers Should Do](/knowledge-base/wsib-strike-appeals-pause/)
+
+---
+
+## 🗂️ Every Program, In One Place
+
+- [Program Registry — all verified programs, deadlines and amounts](/knowledge-base/PROGRAMS/)
+  Includes programs that **do not exist** (so you don't waste time) and links that are **dead**.
 
 ---
 
