@@ -53,7 +53,14 @@ Employers were rated on their **own** past injury costs vs. their industry avera
 - **CAD-7** (Construction Accident Experience Rating) — construction
 - **MAPP** (Merit Adjusted Premium Plan) — smaller businesses
 
-⚠️ **Critique:** These programs were widely criticized for encouraging **claims suppression** — employers discouraging workers from filing claims to protect their rebate. (More on this below.)
+⚠️ **Critique — the experience-rating inversion:** These programs invert the
+Meredith Principles. Under collective liability, a worker's injury is a **social** cost
+shared by all. Experience rating makes it an **employer-specific** cost, so keeping an
+injured worker off the payroll becomes financially rational. Employers were widely
+criticized for encouraging **claims suppression** — discouraging workers from filing —
+in order to protect their rebate. That is the mechanism this system creates.
+
+*(More on the evidence for suppression below.)*
 
 In **2020**, NEER/CAD-7/MAPP were eliminated and replaced by the **Rate Framework**.
 
@@ -79,6 +86,25 @@ WSIB's own Nov 3, 2025 news release confirms the fall 2025 payout was the **"sec
 > but which became the fall distribution rather than a separate round. WSIB's own count —
 > second of the year, third in its history — is **$5.5 billion**.
 > [WSIB news release, 3 Nov 2025](https://www.wsib.ca/en/news-release/wsib-returns-another-2-billion-surplus-funds-eligible-safe-ontario-businesses)
+
+### 🏢 Employers Are Coached to Maximize Rebates
+
+The rebate system has a **commercial layer**. Advisory firms and consultants sell
+employers **rebate-optimization services** — the AEC is one documented example,
+advertising at a rate commonly cited around **$800 per topic** for HSEP-related
+consulting, alongside other providers in the same market.
+
+This matters structurally. It means the rebate is not merely a regulatory outcome —
+it is something **actively marketed and optimized**, with paid expertise helping
+employers capture it. The corollary is worth stating plainly: **an employer who
+maximizes a rebate is generally an employer who has completed fewer or cheaper
+voluntary safety topics than one who does not.**
+
+Where the rebate is the price of a "safety bonus," a paid industry offering to
+maximize that bonus is evidence about where the incentive points.
+
+*Treat the $800 figure as a reported rate from industry marketing, not a WSIB figure.
+Verify the current rate against AEC's own published pricing before quoting it.*
 
 ### ⚠️ WSIB now screens for OHSA/WSIA convictions
 
@@ -117,6 +143,10 @@ While employers received rebates, independent worker-side research documents the
 - **$4.945 billion** under-compensated to injured workers during the "Marshall Years" (2011–2021), per a Freedom-of-Information analysis by the Injured Workers Community Legal Clinic (IWC).
 - **$1.155 billion** shortchanged 2006–2024 by the **85% (not 90%) Loss-of-Earnings rate** — a 5% cut imposed by the Harris government in 1998.
 - Total benefits paid fell **27%** (2009 $3.54B → 2016 $2.58B) while Ontario employment *grew* — attributed to adjudication tightening, not safety.
+
+> **Figure note.** Earlier drafts of this dossier cited the surplus pool as **~$4B**.
+> That is superseded. WSIB's own 3 November 2025 release confirms **three distributions
+> totalling $5.5 billion** (see Era 3 above). Use $5.5B.
 - **$77 million** cut from healthcare-related spending since 2009 (IWAJ).
 - Denied claims rose **50%** since 2009; benefits reduced **$631 million** under WSIB CEO David Marshall (who had a **$400,000 bonus** tied to cutting the unfunded liability).
 - An Ontario Federation of Labour report found **58% of employers convicted under the Occupational Health & Safety Act still received rebates** the same year as their convictions.
