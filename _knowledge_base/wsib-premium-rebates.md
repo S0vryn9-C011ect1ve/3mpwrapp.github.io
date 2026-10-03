@@ -72,7 +72,26 @@ After the "unfunded liability" was eliminated, legislation let WSIB return exces
 | **Early 2025** | **$2.0 billion** | Paid Feb/Mar 2025; used 2023 premiums, Nov 1 2024 cutoff |
 | **Fall 2025** | **$2.0 billion** | ~61% of 2024 premiums; auto-credited Oct 2025 |
 
-WSIB's own Nov 3, 2025 news release confirms the fall 2025 payout was the **"third in the WSIB's history."** Total: **$5.5 billion**.
+WSIB's own Nov 3, 2025 news release confirms the fall 2025 payout was the **"second surplus distribution this year and the third in the WSIB's history."** Total: **$5.5 billion**.
+
+> **Reconciling a competing figure.** Some sources report **$7.5 billion** (three × $2B).
+> That appears to **double-count** an additional $2B which WSIB *announced* on 7 April 2025
+> but which became the fall distribution rather than a separate round. WSIB's own count —
+> second of the year, third in its history — is **$5.5 billion**.
+> [WSIB news release, 3 Nov 2025](https://www.wsib.ca/en/news-release/wsib-returns-another-2-billion-surplus-funds-eligible-safe-ontario-businesses)
+
+### ⚠️ WSIB now screens for OHSA/WSIA convictions
+
+As of the **October 2025** distribution, WSIB added eligibility screening tied to
+**traumatic workplace fatalities** and **convictions under the WSIA or OHSA** between
+2020 and the distribution date. Businesses with questions are directed to WSIB's
+Stakeholder Compliance Services.
+
+This matters for two reasons. It is a **change in who qualifies** — and it came *after*
+the criticism documented below. Read together with the OFL findings, it shows the
+"safe employer" label was not doing the work its name implies, and that WSIB has since
+added a conviction screen.
+[WSIB — Surplus rebate FAQ](https://www.wsib.ca/en/rebate)
 
 *Sources: WSIB news release (Nov 3, 2025); WSIB newswire (Feb 16, 2022); Ontario govt release 1001609; London Free Press.*
 
@@ -132,6 +151,21 @@ The worker-side argument: a surplus built partly on **under-compensating injured
 - [Pre-Existing Conditions](/knowledge-base/pre-existing-conditions/) — the denial tactic
 - [WSIB Safety Check — Look Up Any Employer](/knowledge-base/wsib-safety-check/)
 - [Your Rights: Premium Fairness & Appeals](/knowledge-base/wsib-rebate-appeals-rights/)
+
+---
+
+## 🔍 Independent Cross-Validation
+
+Most worker-side analysis of the rebate system comes from advocacy organizations, which
+makes it fair to ask whether the mechanics are stated accurately.
+
+**Lexology** — an employer-side law-firm publication, *not* a worker source —
+independently describes the same **2020 Rate Framework** mechanics that this guide
+attributes to the Era 1 → Era 2 transition. Two sources with opposite institutional
+positions describing the same mechanics is meaningful corroboration of the *mechanism*.
+
+It is **not** corroboration of the harm claims. An employer-side source confirming how
+the system works is not an employer-side source conceding that it harms workers.
 
 ---
 
