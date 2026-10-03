@@ -146,9 +146,9 @@ ISSUE 1: THE DIVISIONAL COURT ERRED IN LAW BY APPLYING THE WRONG STANDARD OF REV
 
 21. The Divisional Court's application of correctness review was therefore an error of law. *Vavilov*, at para. 37 ("[T]he choice of standard of review is itself reviewable").
 
-22. [OPTIONAL - IF LOWER COURT CITED INCORRECT CASE LAW]: The Divisional Court relied on *[Old Case Name]*, which predates *Vavilov* and applied the now-discredited "true question of jurisdiction" doctrine rejected in *Vavilov*. [Cite DCR paragraph]
+22. \[OPTIONAL - IF LOWER COURT CITED INCORRECT CASE LAW]: The Divisional Court relied on *[Old Case Name]*, which predates *Vavilov* and applied the now-discredited "true question of jurisdiction" doctrine rejected in *Vavilov*. [Cite DCR paragraph]
 
-23. [CONSEQUENCE OF ERROR]: This error is material because applying the correct standard of reasonableness would have revealed that the Tribunal's interpretation, while perhaps not the only possible interpretation, was within the range of reasonable outcomes. See Issue 2, below.
+23. \[CONSEQUENCE OF ERROR]: This error is material because applying the correct standard of reasonableness would have revealed that the Tribunal's interpretation, while perhaps not the only possible interpretation, was within the range of reasonable outcomes. See Issue 2, below.
 
 ISSUE 2: THE TRIBUNAL ERRED IN LAW BY MISINTERPRETING [STATUTORY PROVISION]
 
@@ -160,7 +160,7 @@ A. The Statutory Framework
 
 25. The purpose of this provision, as stated in *[Case establishing purpose]*, is to [STATE LEGISLATIVE PURPOSE]. *[Case Name]*, at para. [X].
 
-26. [OPTIONAL - LEGISLATIVE HISTORY]: The provision was amended in [YEAR] to [DESCRIBE AMENDMENT], which demonstrates the legislature's intent to [INTENT]. See *[Case interpreting amendment]*, at para. [X].
+26. \[OPTIONAL - LEGISLATIVE HISTORY]: The provision was amended in [YEAR] to [DESCRIBE AMENDMENT], which demonstrates the legislature's intent to [INTENT]. See *[Case interpreting amendment]*, at para. [X].
 
 B. The Tribunal's Interpretation
 

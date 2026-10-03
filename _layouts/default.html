@@ -289,7 +289,18 @@
           {%- else -%}
             {%- assign seg_label = seg | replace: '-', ' ' | capitalize -%}
             {%- if seg_label == '' -%}{% assign seg_label = 'Home' %}{%- endif -%}
+            {%- comment -%}
+              Date segments (year/month/day: 2026, 05, 03) have NO index page.
+              Linking them produced ~1900 broken links. Render date segments as
+              text instead. Test: a pure number coerces above 0; "fr" and
+              "features" coerce to 0, so real sections stay links.
+            {%- endcomment -%}
+            {%- assign seg_num = seg | plus: 0 -%}
+            {%- if seg_num > 0 -%}
+            <li>{{ seg_label }}</li>
+            {%- else -%}
             <li><a href="{{ path | relative_url }}">{{ seg_label }}</a></li>
+            {%- endif -%}
           {%- endif -%}
         {%- endfor -%}
       {%- endif -%}
@@ -341,7 +352,7 @@
           <li><a href="{{ '/privacy' | relative_url }}">Privacy Policy</a></li>
           <li><a href="{{ '/terms' | relative_url }}">Terms of Service</a></li>
           <li><a href="{{ '/data-ownership' | relative_url }}">Data Ownership</a></li>
-          <li><a href="{{ '/community/guidelines' | relative_url }}">Community Guidelines</a></li>
+          <li><a href="{{ '/code-of-conduct' | relative_url }}">Community Guidelines</a></li>
         </ul>
       </div>
 

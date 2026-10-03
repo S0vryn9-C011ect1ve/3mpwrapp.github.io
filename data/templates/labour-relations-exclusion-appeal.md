@@ -243,9 +243,9 @@ In *WCAT-2013-03061* (Nov 1, 2013), the tribunal held:
 My employer's conduct meets the "extremely egregious" standard:
 
 [DESCRIBE THE MOST EGREGIOUS ACTIONS:]
-- [Action 1]: [Why this is abusive/threatening]
-- [Action 2]: [Why this is abusive/threatening]
-- [Action 3]: [Why this is abusive/threatening]
+- \[Action 1]: [Why this is abusive/threatening]
+- \[Action 2]: [Why this is abusive/threatening]
+- \[Action 3]: [Why this is abusive/threatening]
 
 **Example:**
 "- **Threat of Job Loss:** HR manager telling me 'Workers who file claims are often not a good fit' is a direct economic threat. A reasonable person would view this as personally threatening—my livelihood was being held hostage to force me to abandon my statutory rights.

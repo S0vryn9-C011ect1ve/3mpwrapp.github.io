@@ -249,7 +249,7 @@ WSIB's denial based on pre-existing mental health condition contradicts *Pasiech
 ### What Changed AFTER Workplace Incident
 
 **Immediate Change:**
-- [DATE OF INCIDENT]: [Describe what happened]
+- \[DATE OF INCIDENT]: [Describe what happened]
 - Within days/weeks: Developed [new symptoms: e.g., flashbacks, nightmares, panic attacks] that I had NEVER experienced before
 - Unable to work ([took leave on [DATE]])
 
@@ -351,9 +351,9 @@ WSIB's denial based on "routine employment duties" contradicts *WSIA* Section 13
 > My claim is for chronic PTSD from CUMULATIVE TRAUMATIC EVENTS over [X years], not "stress from normal duties."
 >
 > I experienced [NUMBER] traumatic incidents in [TIMEFRAME]:
-> - [DATE]: [Describe incident 1]
-> - [DATE]: [Describe incident 2]
-> - [DATE]: [Describe incident 3]
+> - \[DATE]: [Describe incident 1]
+> - \[DATE]: [Describe incident 2]
+> - \[DATE]: [Describe incident 3]
 > [etc.]
 >
 > Each incident was OBJECTIVELY TRAUMATIC (assaults, threats, witnessing deaths/serious injuries). The cumulative effect caused PTSD.

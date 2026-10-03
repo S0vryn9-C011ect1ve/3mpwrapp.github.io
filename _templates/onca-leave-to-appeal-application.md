@@ -101,27 +101,27 @@ THE GROUNDS FOR THE MOTION are:
 
 3. The proposed appeal has merit and a reasonable prospect of success because:
    
-   - [REASON 1]: The tribunal's interpretation of [STATUTORY PROVISION] contradicts established case law [CITE CASE]
+   - \[REASON 1]: The tribunal's interpretation of [STATUTORY PROVISION] contradicts established case law [CITE CASE]
    
-   - [REASON 2]: The decision undermines [LEGAL PRINCIPLE] in a manner that affects [NUMBER/TYPE] of similar cases
+   - \[REASON 2]: The decision undermines [LEGAL PRINCIPLE] in a manner that affects [NUMBER/TYPE] of similar cases
    
-   - [REASON 3]: The Divisional Court's reasons demonstrate a misapprehension of [LEGAL TEST/PRINCIPLE]
+   - \[REASON 3]: The Divisional Court's reasons demonstrate a misapprehension of [LEGAL TEST/PRINCIPLE]
 
 4. The matter is of public importance because:
    
-   - [PUBLIC IMPORTANCE FACTOR 1]: The interpretation affects [X] workers/claimants annually who face similar [ISSUE]
+   - \[PUBLIC IMPORTANCE FACTOR 1]: The interpretation affects [X] workers/claimants annually who face similar [ISSUE]
    
-   - [PUBLIC IMPORTANCE FACTOR 2]: The decision creates uncertainty about [LEGAL PRINCIPLE] that tribunals and lower courts must apply
+   - \[PUBLIC IMPORTANCE FACTOR 2]: The decision creates uncertainty about [LEGAL PRINCIPLE] that tribunals and lower courts must apply
    
-   - [PUBLIC IMPORTANCE FACTOR 3]: The case involves [NOVEL ISSUE] on which there is no binding Ontario Court of Appeal authority
+   - \[PUBLIC IMPORTANCE FACTOR 3]: The case involves [NOVEL ISSUE] on which there is no binding Ontario Court of Appeal authority
 
 5. It is in the interests of justice that leave be granted because:
    
-   - [JUSTICE FACTOR 1]: The appellant has an arguable case on the merits
+   - \[JUSTICE FACTOR 1]: The appellant has an arguable case on the merits
    
-   - [JUSTICE FACTOR 2]: The delay in seeking leave was reasonable and explained by [CIRCUMSTANCES]
+   - \[JUSTICE FACTOR 2]: The delay in seeking leave was reasonable and explained by [CIRCUMSTANCES]
    
-   - [JUSTICE FACTOR 3]: The respondent will not be prejudiced by the granting of leave
+   - \[JUSTICE FACTOR 3]: The respondent will not be prejudiced by the granting of leave
 
 THE FOLLOWING DOCUMENTARY EVIDENCE will be used at the hearing of the motion:
 
