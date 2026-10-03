@@ -395,8 +395,8 @@ Questions to ask:
 ## Related Resources
 
 **3mpwrApp Knowledge Base:**
-- [Psychotraumatic Disability](psychotraumatic-disability.md) - Secondary depression/anxiety from tinnitus
-- [Permanent Impairment Ratings](permanent-impairment-rating.md) - Hearing loss & tinnitus ratings
+- [Psychotraumatic Disability]({{ '/knowledge-base/psychotraumatic-disability/' | relative_url }}) - Secondary depression/anxiety from tinnitus
+- [Permanent Impairment Ratings]({{ '/knowledge-base/permanent-impairment-rating/' | relative_url }}) - Hearing loss & tinnitus ratings
 
 **Research:**
 - [WSIB Exposed: 8 Smoking Guns](https://3mpwrapp.ca/blog/2026/04/15/wsib-exposed-statistical-evidence-proves-systematic-manipulation/)

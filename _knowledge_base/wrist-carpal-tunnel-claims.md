@@ -473,10 +473,10 @@ Document ALL repetitive wrist activities:
 ## Related Resources
 
 **3mpwrApp Knowledge Base:**
-- [Shoulder Injuries](shoulder-rotator-cuff-claims.md) - Similar repetitive strain patterns
-- [Elbow Injuries](elbow-epicondylitis-claims.md) - Tennis/golfer's elbow (repetitive strain)
-- [Hand Injuries](hand-finger-claims.md) - Trigger finger, tendinitis
-- [Chronic Pain Claims](chronic-pain-claims.md) - If wrist injury leads to CRPS
+- [Shoulder Injuries]({{ '/knowledge-base/shoulder-rotator-cuff-claims/' | relative_url }}) - Similar repetitive strain patterns
+- [Elbow Injuries]({{ '/knowledge-base/elbow-epicondylitis-claims/' | relative_url }}) - Tennis/golfer's elbow (repetitive strain)
+- [Hand Injuries]({{ '/knowledge-base/hand-finger-claims/' | relative_url }}) - Trigger finger, tendinitis
+- [Chronic Pain Claims]({{ '/knowledge-base/chronic-pain-claims/' | relative_url }}) - If wrist injury leads to CRPS
 
 **Research:**
 - [WSIB Exposed: 8 Smoking Guns](https://3mpwrapp.ca/blog/2026/04/15/wsib-exposed-statistical-evidence-proves-systematic-manipulation/)

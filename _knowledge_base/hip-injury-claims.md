@@ -407,9 +407,9 @@ From our analysis of 99,036 tribunal decisions (2020-2026):
 ## Related Resources
 
 **3mpwrApp Knowledge Base:**
-- [Low Back Pain Claims](low-back-pain-claims.md) - Similar arthritis/degeneration denials
-- [Knee Injuries](knee-injury-claims.md) - Similar pre-existing arthritis arguments
-- [Chronic Pain Claims](chronic-pain-claims.md) - Post-surgical chronic pain
+- [Low Back Pain Claims]({{ '/knowledge-base/low-back-pain-claims/' | relative_url }}) - Similar arthritis/degeneration denials
+- [Knee Injuries]({{ '/knowledge-base/knee-injury-claims/' | relative_url }}) - Similar pre-existing arthritis arguments
+- [Chronic Pain Claims]({{ '/knowledge-base/chronic-pain-claims/' | relative_url }}) - Post-surgical chronic pain
 
 **Research:**
 - [WSIB Exposed: 8 Smoking Guns](https://3mpwrapp.ca/blog/2026/04/15/wsib-exposed-statistical-evidence-proves-systematic-manipulation/)

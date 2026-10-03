@@ -491,9 +491,9 @@ From our analysis of 99,036 tribunal decisions (2020-2026):
 ## Related Resources
 
 **3mpwrApp Knowledge Base:**
-- [Chronic Pain Claims](chronic-pain-claims.md) - If ankle injury leads to CRPS
-- [Knee Injuries](knee-injury-claims.md) - Similar post-traumatic arthritis issues
-- [Permanent Impairment Ratings](permanent-impairment-rating.md) - Ankle arthritis rated unfairly low
+- [Chronic Pain Claims]({{ '/knowledge-base/chronic-pain-claims/' | relative_url }}) - If ankle injury leads to CRPS
+- [Knee Injuries]({{ '/knowledge-base/knee-injury-claims/' | relative_url }}) - Similar post-traumatic arthritis issues
+- [Permanent Impairment Ratings]({{ '/knowledge-base/permanent-impairment-rating/' | relative_url }}) - Ankle arthritis rated unfairly low
 
 **Research:**
 - [WSIB Exposed: 8 Smoking Guns](https://3mpwrapp.ca/blog/2026/04/15/wsib-exposed-statistical-evidence-proves-systematic-manipulation/)

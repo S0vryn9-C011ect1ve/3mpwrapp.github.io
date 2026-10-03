@@ -440,9 +440,9 @@ From our analysis of 99,036 tribunal decisions (2020-2026):
 ## Related Resources
 
 **3mpwrApp Knowledge Base:**
-- [Wrist/Carpal Tunnel Claims](wrist-carpal-tunnel-claims.md) - Hand nerve injuries
-- [Chronic Pain Claims](chronic-pain-claims.md) - If hand injury leads to CRPS
-- [Permanent Impairment Ratings](permanent-impairment-rating.md) - Finger amputation undervalued
+- [Wrist/Carpal Tunnel Claims]({{ '/knowledge-base/wrist-carpal-tunnel-claims/' | relative_url }}) - Hand nerve injuries
+- [Chronic Pain Claims]({{ '/knowledge-base/chronic-pain-claims/' | relative_url }}) - If hand injury leads to CRPS
+- [Permanent Impairment Ratings]({{ '/knowledge-base/permanent-impairment-rating/' | relative_url }}) - Finger amputation undervalued
 
 **Research:**
 - [WSIB Exposed: 8 Smoking Guns](https://3mpwrapp.ca/blog/2026/04/15/wsib-exposed-statistical-evidence-proves-systematic-manipulation/)

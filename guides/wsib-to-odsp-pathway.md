@@ -570,8 +570,8 @@ We analyzed **14,298 Ontario Social Benefits Tribunal (ONSBT) decisions** from 2
 
 **Related Guides:**
 - [Complete Guide to ODSP](./odsp-complete-guide.md)
-- [Complete Guide to WSIAT Appeals](./wsiat-complete-guide.md)
-- [ONSBT Appeals Guide](./onsbt-complete-guide.md)
+- [Complete Guide to WSIAT Appeals]({{ '/guides/wsiat-complete-guide/' | relative_url }})
+- [ONSBT Appeals Guide]({{ '/guides/onsbt-complete-guide/' | relative_url }})
 
 **Research Tools:**
 - [Cross-Tribunal Success Rates](../cross-tribunal-success-rates.html)

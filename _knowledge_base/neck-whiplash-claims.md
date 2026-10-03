@@ -634,10 +634,10 @@ From our analysis of 99,036 tribunal decisions (2020-2026):
 ## Related Resources
 
 **3mpwrApp Knowledge Base:**
-- [Shoulder Injuries](shoulder-rotator-cuff-claims.md) - Similar soft tissue denial patterns
-- [Chronic Pain Claims](chronic-pain-claims.md) - If neck injury leads to chronic pain
-- [Pre-Existing Conditions](pre-existing-conditions.md) - Countering degeneration denials
-- [Permanent Impairment Ratings](permanent-impairment-rating.md) - NEL benefits
+- [Shoulder Injuries]({{ '/knowledge-base/shoulder-rotator-cuff-claims/' | relative_url }}) - Similar soft tissue denial patterns
+- [Chronic Pain Claims]({{ '/knowledge-base/chronic-pain-claims/' | relative_url }}) - If neck injury leads to chronic pain
+- [Pre-Existing Conditions]({{ '/knowledge-base/pre-existing-conditions/' | relative_url }}) - Countering degeneration denials
+- [Permanent Impairment Ratings]({{ '/knowledge-base/permanent-impairment-rating/' | relative_url }}) - NEL benefits
 
 **3mpwrApp Templates:**
 - Neck Injury Appeal Template (coming soon)

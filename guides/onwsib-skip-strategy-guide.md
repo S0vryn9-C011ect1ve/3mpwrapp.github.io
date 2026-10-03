@@ -319,11 +319,11 @@ Ask yourself:
 **For WSIAT Appeals:**
 - **WSIAT Website:** wsiat.ca (filing forms, practice directions, decided cases)
 - **WSIAT Phone:** 416-926-8800
-- **Appeal to WSIAT:** Use our [Complete WSIAT Appeal Guide](/guides/wsiat-complete-guide.md)
+- **Appeal to WSIAT:** Use our [Complete WSIAT Appeal Guide]({{ '/guides/wsiat-complete-guide/' | relative_url }})
 
 ### See Also
 
-- [**WSIAT Complete Guide**](/guides/wsiat-complete-guide.md) - Your next step if ONWSIB doesn't work
+- [**WSIAT Complete Guide**]({{ '/guides/wsiat-complete-guide/' | relative_url }}) - Your next step if ONWSIB doesn't work
 - [**WSIAT Appeal Tactics Survival Guide**](/guides/wsiat-tactics-survival-guide.md) - Strategic approach to winning at WSIAT
 - [**WSIAT Analysis in App**](https://3mpwrapp.ca/resources/wsiat-analysis) - Research WSIAT decisions
 - [**ONWSIB in App**](https://3mpwrapp.ca/resources/onwsib-analysis) - Analyze ONWSIB decision patterns

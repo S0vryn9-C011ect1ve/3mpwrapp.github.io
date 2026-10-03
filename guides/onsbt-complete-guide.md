@@ -828,7 +828,7 @@ Correct calculation: $600 employment income
 - **Steps to Justice:** [stepstojustice.ca](https://www.stepstojustice.ca) - ODSP/OW info
 
 ### 3mpwrApp Resources
-- [Cross-Tribunal Pathways: WSIB to ODSP](./wsib-to-odsp-pathway.md)
+- [Cross-Tribunal Pathways: WSIB to ODSP]({{ '/guides/wsib-to-odsp-pathway/' | relative_url }})
 - [ONSBT Case Analysis](../docs/ONSBT-DATA-ANALYSIS.md)
 
 ---

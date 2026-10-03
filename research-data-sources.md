@@ -624,9 +624,9 @@ Retrieved April 30, 2026, from https://3mpwrapp.ca/research-data-sources.html
 ### Can I get help with my appeal using this data?
 
 **This is a research project, not legal advice service.** However, see our [comprehensive guides](../guides/) for:
-- [WSIAT Appeal Guide](../guides/wsiat-complete-guide.md)
-- [HRTO Application Guide](../guides/hrto-complete-guide.md)
-- [ONSBT Appeal Guide](../guides/onsbt-complete-guide.md)
+- [WSIAT Appeal Guide]({{ '/guides/wsiat-complete-guide/' | relative_url }})
+- [HRTO Application Guide]({{ '/guides/hrto-complete-guide/' | relative_url }})
+- [ONSBT Appeal Guide]({{ '/guides/onsbt-complete-guide/' | relative_url }})
 
 **Free Legal Help:**
 - Office of the Worker Adviser: 1-800-435-8980

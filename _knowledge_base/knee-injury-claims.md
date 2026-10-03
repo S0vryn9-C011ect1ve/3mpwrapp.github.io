@@ -630,13 +630,13 @@ A: **NO.** Employer can dispute, but WSIB makes the decision (not employer). Emp
 ## Related Resources
 
 **3mpwrApp Knowledge Base:**
-- [Shoulder Injuries: The Hidden Epidemic](shoulder-rotator-cuff-claims.md) - #1 litigated body part (1,391 cases)
-- [Pre-Existing Conditions: Countering WSIB's Favorite Denial](pre-existing-conditions.md) - 13.3% (95% CI: 12.7-13.9%) of cases
-- [Chronic Pain Claims](chronic-pain-claims.md) - If knee injury leads to chronic pain
-- [Permanent Impairment Ratings](permanent-impairment-rating.md) - Maximizing NEL benefits
+- [Shoulder Injuries: The Hidden Epidemic]({{ '/knowledge-base/shoulder-rotator-cuff-claims/' | relative_url }}) - #1 litigated body part (1,391 cases)
+- [Pre-Existing Conditions: Countering WSIB's Favorite Denial]({{ '/knowledge-base/pre-existing-conditions/' | relative_url }}) - 13.3% (95% CI: 12.7-13.9%) of cases
+- [Chronic Pain Claims]({{ '/knowledge-base/chronic-pain-claims/' | relative_url }}) - If knee injury leads to chronic pain
+- [Permanent Impairment Ratings]({{ '/knowledge-base/permanent-impairment-rating/' | relative_url }}) - Maximizing NEL benefits
 
 **3mpwrApp Appeal Templates:**
-- [Knee Injury Appeal Template](../templates/knee-injury-appeal.md) - Fill-in-blank letter
+- [Knee Injury Appeal Template]({{ '/templates/knee-injury-appeal/' | relative_url }}) - Fill-in-blank letter
 
 **Research:**
 - [WSIB Exposed: 8 Smoking Guns](https://3mpwrapp.ca/blog/2026/04/15/wsib-exposed-statistical-evidence-proves-systematic-manipulation/)

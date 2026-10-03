@@ -466,9 +466,9 @@ Document repetitive motions:
 ## Related Resources
 
 **3mpwrApp Knowledge Base:**
-- [Shoulder Injuries](shoulder-rotator-cuff-claims.md) - Similar tendinopathy denials
-- [Wrist/Carpal Tunnel](wrist-carpal-tunnel-claims.md) - Repetitive strain injuries
-- [Chronic Pain Claims](chronic-pain-claims.md) - If elbow injury leads to CRPS
+- [Shoulder Injuries]({{ '/knowledge-base/shoulder-rotator-cuff-claims/' | relative_url }}) - Similar tendinopathy denials
+- [Wrist/Carpal Tunnel]({{ '/knowledge-base/wrist-carpal-tunnel-claims/' | relative_url }}) - Repetitive strain injuries
+- [Chronic Pain Claims]({{ '/knowledge-base/chronic-pain-claims/' | relative_url }}) - If elbow injury leads to CRPS
 
 **Research:**
 - [WSIB Exposed: 8 Smoking Guns](https://3mpwrapp.ca/blog/2026/04/15/wsib-exposed-statistical-evidence-proves-systematic-manipulation/)

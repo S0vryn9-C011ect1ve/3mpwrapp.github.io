@@ -424,9 +424,9 @@ From our analysis of 99,036 tribunal decisions (2020-2026):
 ## Related Resources
 
 **3mpwrApp Knowledge Base:**
-- [Neck/Whiplash Injuries](neck-whiplash-claims.md) - Whiplash can cause concussion
-- [Psychotraumatic Disability](psychotraumatic-disability.md) - WSIB conflates concussion with psychological injury
-- [Chronic Pain Claims](chronic-pain-claims.md) - Post-concussion headaches
+- [Neck/Whiplash Injuries]({{ '/knowledge-base/neck-whiplash-claims/' | relative_url }}) - Whiplash can cause concussion
+- [Psychotraumatic Disability]({{ '/knowledge-base/psychotraumatic-disability/' | relative_url }}) - WSIB conflates concussion with psychological injury
+- [Chronic Pain Claims]({{ '/knowledge-base/chronic-pain-claims/' | relative_url }}) - Post-concussion headaches
 
 **Research:**
 - [WSIB Exposed: 8 Smoking Guns](https://3mpwrapp.ca/blog/2026/04/15/wsib-exposed-statistical-evidence-proves-systematic-manipulation/)

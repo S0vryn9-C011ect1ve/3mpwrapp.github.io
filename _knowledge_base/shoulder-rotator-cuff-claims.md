@@ -617,13 +617,13 @@ A: **Limited options:**
 ## Related Resources
 
 **3mpwrApp Knowledge Base:**
-- [Pre-Existing Conditions: Countering WSIB's Favorite Denial](pre-existing-conditions.md) - 13.3% (95% CI: 12.7-13.9%) of cases use pre-existing arguments
-- [Chronic Pain Claims: Proving Subjective Conditions](chronic-pain-claims.md) - If shoulder injury leads to chronic pain
-- [Permanent Impairment Ratings: Maximizing NEL Benefits](permanent-impairment-rating.md) - If left with permanent disability
-- [Low Back Pain Claims](low-back-pain-claims.md) - Similar occupational disease strategies
+- [Pre-Existing Conditions: Countering WSIB's Favorite Denial]({{ '/knowledge-base/pre-existing-conditions/' | relative_url }}) - 13.3% (95% CI: 12.7-13.9%) of cases use pre-existing arguments
+- [Chronic Pain Claims: Proving Subjective Conditions]({{ '/knowledge-base/chronic-pain-claims/' | relative_url }}) - If shoulder injury leads to chronic pain
+- [Permanent Impairment Ratings: Maximizing NEL Benefits]({{ '/knowledge-base/permanent-impairment-rating/' | relative_url }}) - If left with permanent disability
+- [Low Back Pain Claims]({{ '/knowledge-base/low-back-pain-claims/' | relative_url }}) - Similar occupational disease strategies
 
 **3mpwrApp Appeal Templates:**
-- [Shoulder Injury Appeal Template](../templates/shoulder-injury-appeal.md) - Fill-in-blank letter
+- [Shoulder Injury Appeal Template]({{ '/templates/shoulder-injury-appeal/' | relative_url }}) - Fill-in-blank letter
 
 **Research & Advocacy:**
 - [WSIB Exposed: Statistical Evidence](https://3mpwrapp.ca/blog/2026/04/15/wsib-exposed-statistical-evidence-proves-systematic-manipulation/) - 8 smoking guns from 99,036 cases
