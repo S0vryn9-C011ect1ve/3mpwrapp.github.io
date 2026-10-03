@@ -86,6 +86,7 @@ decide a VAC claim — and a lack of WSIB coverage does not end your options.
 - [Your Rights: WSIB Premium Fairness & Appeals](/knowledge-base/wsib-rebate-appeals-rights/)
 - [WSIB Safety Check — Look Up Any Employer](/knowledge-base/wsib-safety-check/)
 - [WSIB Strike — Appeals Paused, What Injured Workers Should Do](/knowledge-base/wsib-strike-appeals-pause/)
+- [Who Tells Your Story? The Information Asymmetry Behind WSIB](/knowledge-base/information-asymmetry-narrative-control/)
 
 ---
 

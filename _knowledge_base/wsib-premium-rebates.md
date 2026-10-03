@@ -169,3 +169,8 @@ may **also** apply — and applying to one does not decide the others.
 - [Disability programs when the injury wasn't work-related](/knowledge-base/all-disabilities-non-work-injury-programs/) — ODSP, CPP, the Canada Disability Benefit, EI, the Disability Tax Credit
 - [Family and caregiver supports](/knowledge-base/family-caregiver-supports/) — if someone is caring for you
 
+---
+
+## Related
+
+- [Who Tells Your Story? The Information Asymmetry Behind WSIB](/knowledge-base/information-asymmetry-narrative-control/)
