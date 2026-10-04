@@ -85,8 +85,8 @@
     },
     {
       "id": "wn-2026-09-12-191c35",
-      "title": "relocate Community Guidelines to /code-of-conduct/ (cache-bust), add 301 redirect from old /community/guidelines/, add e",
-      "summary": "relocate Community Guidelines to /code-of-conduct/ (cache-bust), add 301 redirect from old /community/guidelines/, add explicit no-cache headers for legal pages",
+      "title": "relocate Community Guidelines to /code-of-conduct/ (cache-bust), add 301 redirect from old /code-of-conduct//, add e",
+      "summary": "relocate Community Guidelines to /code-of-conduct/ (cache-bust), add 301 redirect from old /code-of-conduct//, add explicit no-cache headers for legal pages",
       "date": "2026-09-12T00:45:33-04:00",
       "category": "feature",
       "repo": "website",

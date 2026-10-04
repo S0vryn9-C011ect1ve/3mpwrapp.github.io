@@ -46,7 +46,7 @@ You agree to:
 
 - Provide accurate information where you choose to create an account
 - Use the Service lawfully and only for its intended purpose
-- Respect other community members per our [Community Guidelines](/community/guidelines/)
+- Respect other community members per our [Community Guidelines](/code-of-conduct//)
 - Not upload unlawful, harmful, or rights-infringing content
 - Not attempt to reverse-engineer, disrupt, or misuse the Service
 

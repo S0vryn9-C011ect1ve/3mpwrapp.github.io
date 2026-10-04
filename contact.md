@@ -73,7 +73,7 @@ We'd love to hear from you! Whether you have questions about 3mpwr, feedback to 
     <span class="link-text">📄 Terms of Service - Terms and disclaimers</span>
     <span class="link-arrow">→</span>
   </a>
-  <a href="/community/guidelines/" class="resource-link">
+  <a href="/code-of-conduct//" class="resource-link">
     <span class="link-text">👥 Community Guidelines - Community standards</span>
     <span class="link-arrow">→</span>
   </a>

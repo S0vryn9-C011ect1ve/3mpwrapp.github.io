@@ -72,17 +72,20 @@ permalink: /templates/
 
 **Not Legal Advice:** These are educational resources based on publicly available tribunal decisions. Always consult a lawyer or paralegal for advice specific to your case.
 
-**Free legal resources in Thunder Bay:**
-- Community Legal Assistance (807-622-7022)
-- Legal Aid Ontario (1-800-668-8258)
-- Ontario Injured Workers Advocates (807-344-2104)
+**Free and low-cost legal help:**
+- [Legal Aid Ontario](https://www.legal-aid.on.ca/) — eligibility-tested free legal advice and representation
+- [Ontario.ca/WSIB](https://www.ontario.ca/page/workers-compensation-ontario) — official WSIB programs and appeals
+- [Thunder Bay Legal Assistance](https://legalinfo.on.ca/) — find a legal clinic near you
+
+**Not sure where to start?** [Ask us](/contact/) — we'll point you to the right
+service for your situation, including which ones you're eligible for.
 
 ---
 
 ## Questions?
 
-**Email:** empowrapp08162025@gmail.com  
-**Discord:** https://discord.gg/P2qQyjxV
+**Contact:** [use the form](/contact/)  \
+**Community:** https://discord.gg/P2qQyjxV
 
 ---
 
@@ -99,7 +102,7 @@ Every fill-in template in this collection.
 | Template | What it covers |
 |---|---|
 | [Back Injury Appeal Letter Template]({{ '/templates/back-injury-appeal/' | relative_url }}) |  |
-| [Chronic Pain Appeal Letter Template]({{ '/templates/chronic-pain-appeal/' | relative_url }}) |  |
+| [Chronic Pain Appeal Letter Template]({{ '/templates/chronic-pain-appeal.html' | relative_url }}) |  |
 | [Hand Injury WSIAT Appeal Template]({{ '/templates/hand-injury-appeal/' | relative_url }}) | Professional fill-in-the-blank appeal letter for hand injury WSIB denials. Based on analysis of 2,785 successful WSIAT hand injury cases (fi |
 | [Knee Injury WSIAT Appeal Template]({{ '/templates/knee-injury-appeal/' | relative_url }}) | Professional fill-in-the-blank appeal letter for knee injury WSIB denials. Based on analysis of 3,162 successful WSIAT knee injury cases (me |
 | [Mental Health Injury WSIAT Appeal Template]({{ '/templates/mental-health-appeal/' | relative_url }}) | Professional fill-in-the-blank appeal letter for mental health WSIB denials. Based on analysis of 2,000+ successful WSIAT mental health case |

@@ -19,7 +19,7 @@ We completed a full documentation synchronization across app and website, includ
 ### Legal & policy (English) {#legal-policy-en}
 - [Terms of Service](/terms/)
 - [Privacy Policy](/privacy/)
-- [Community Guidelines](/community/guidelines/)
+- [Community Guidelines](/code-of-conduct//)
 
 ### Core user docs (French) {#core-user-docs-fr}
 - [Guide d'utilisation](/fr/user-guide/)

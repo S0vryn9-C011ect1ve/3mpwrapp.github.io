@@ -47,7 +47,7 @@
 
 ### `/code-of-conduct/` (Community Guidelines)
 - **[MED] Title/brand mismatch:** URL is `/code-of-conduct/` but the page `<title>` is "Community Guidelines" and the body h1 is "3mpwrApp — Community Guidelines." The task brief calls this "code-of-conduct"; the nav label differs. Consistent internal naming recommended.
-- **[MED] Two internal link targets are 404/redirect:** page links to `/beta-guide/` (returns 308→ likely dead) and references `/community/guidelines` (redirects). Also `data-ownership` is fine.
+- **[MED] Two internal link targets are 404/redirect:** page links to `/beta-guide/` (returns 308→ likely dead) and references `/code-of-conduct/` (redirects). Also `data-ownership` is fine.
 - **[LOW]** Long (≈600 lines) but well-structured with clear "Not Allowed" lists. Duplicate-h1 applies.
 
 ### `/data-ownership/`

@@ -62,7 +62,7 @@ permalink: /community/
 <div class="button-group" role="navigation" aria-label="Community quick actions">
   <a href="/beta/" class="btn btn-primary" aria-label="Join Beta Testing program">Join Beta Testing</a>
   <a href="/user-guide#community" class="btn btn-secondary" aria-label="View community features documentation">Community Features</a>
-  <a href="/community/guidelines/" class="btn btn-secondary" aria-label="Read community guidelines and code of conduct">Community Guidelines</a>
+  <a href="/code-of-conduct//" class="btn btn-secondary" aria-label="Read community guidelines and code of conduct">Community Guidelines</a>
 </div>
 
 ---
@@ -281,7 +281,7 @@ The Disability Bulletin team is so proud to announce the launch of Issue #1 feat
 <div class="gradient-banner-pink">
   <h3 style="margin: 0 0 0.5rem;">✊ Building a Better Space Together</h3>
   <p style="margin: 0 0 1rem;">Our community is built on mutual respect, solidarity, and shared power. We expect all members to uphold these values.</p>
-  <a href="/community/guidelines/" class="cta-button" style="display: inline-block; background: var(--card-bg, #ffffff); color: #5568d3; padding: 0.75rem 2rem; border-radius: 4px; font-weight: bold; text-decoration: none; transition: transform 0.2s;" aria-label="Read full community guidelines and code of conduct" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">Read Full Guidelines →</a>
+  <a href="/code-of-conduct//" class="cta-button" style="display: inline-block; background: var(--card-bg, #ffffff); color: #5568d3; padding: 0.75rem 2rem; border-radius: 4px; font-weight: bold; text-decoration: none; transition: transform 0.2s;" aria-label="Read full community guidelines and code of conduct" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">Read Full Guidelines →</a>
 </div>
 
 ---

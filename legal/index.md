@@ -60,7 +60,7 @@ description: The complete collection of 3mpwrApp legal documents, policies, and 
   <h3>👥 Community Guidelines</h3>
   <p>Standards for community participation and conduct.</p>
   <p><strong>Version:</strong> 2.0 | <strong>Updated:</strong> Nov 23, 2025</p>
-  <a href="/community/guidelines/" class="button">Read Guidelines →</a>
+  <a href="/code-of-conduct//" class="button">Read Guidelines →</a>
 </div>
 
 </div>

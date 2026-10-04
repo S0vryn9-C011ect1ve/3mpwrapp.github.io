@@ -26,7 +26,7 @@ Our comprehensive legal framework includes:
 | **[Privacy Policy](/privacy/)** | v3.2 | Dec 14, 2025 | ✅ Complete |
 | **[Data Ownership Statement](/data-ownership/)** | v2.1 | Dec 14, 2025 | ✅ Complete |
 | **[All Disclaimers](/legal/disclaimers/)** | v3.1 | Dec 14, 2025 | ✅ Complete |
-| **[Community Guidelines](/community/guidelines/)** | v2.0 | Nov 23, 2025 | ✅ Complete |
+| **[Community Guidelines](/code-of-conduct//)** | v2.0 | Nov 23, 2025 | ✅ Complete |
 
 ### User Consent & Transparency
 
@@ -208,7 +208,7 @@ USA Lite legal coverage added for **13 US jurisdictions**:
 - **[Privacy Policy](/privacy/)** — How we handle your data
 - **[Data Ownership Statement](/data-ownership/)** — Your 100% data sovereignty
 - **[All Disclaimers](/legal/disclaimers/)** — Medical, legal, financial, AI disclaimers
-- **[Community Guidelines](/community/guidelines/)** — Community standards
+- **[Community Guidelines](/code-of-conduct//)** — Community standards
 - **[Accessibility](/accessibility)** — Our accessibility features and compliance
 - **[Privacy Controls](/privacy-controls/)** — Manage your privacy settings
 

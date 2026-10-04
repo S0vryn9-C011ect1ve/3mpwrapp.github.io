@@ -903,7 +903,7 @@ This roadmap is updated regularly based on:
 - **[Privacy Policy](/privacy/)** - How we protect your data (100% user ownership)
 - **[Terms of Service](/terms/)** - Terms and comprehensive disclaimers
 - **[Data Ownership](/data-ownership/)** - Your data sovereignty guarantee
-- **[Community Guidelines](/community/guidelines/)** - Community standards
+- **[Community Guidelines](/code-of-conduct//)** - Community standards
 - **[Legal Disclaimers](/legal/disclaimers/)** - Medical, legal, financial disclaimers
 
 ---

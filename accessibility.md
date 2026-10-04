@@ -637,7 +637,7 @@ We also work toward compliance with:
     <span class="link-text">📄 Terms of Service - Accessibility commitments</span>
     <span class="link-arrow">→</span>
   </a>
-  <a href="/community/guidelines/" class="resource-link">
+  <a href="/code-of-conduct//" class="resource-link">
     <span class="link-text">👥 Community Guidelines - Inclusive standards</span>
     <span class="link-arrow">→</span>
   </a>

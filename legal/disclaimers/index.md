@@ -331,7 +331,7 @@ The app integrates with third-party services. Your use of third-party services i
 **For Full Legal Documents:**
 - **[Terms of Service](/terms/)** - Complete terms and conditions
 - **[Privacy Policy](/privacy/)** - How we handle your data
-- **[Community Guidelines](/community/guidelines/)** - Community standards
+- **[Community Guidelines](/code-of-conduct//)** - Community standards
 
 ---
 
@@ -360,7 +360,7 @@ Before using this app, confirm you understand:
 - **[Privacy Policy](/privacy/)** - How we handle your data
 - **[Data Ownership Statement](/data-ownership/)** - Your 100% data sovereignty
 - **[Privacy Controls](/privacy-controls/)** - Manage your privacy settings
-- **[Community Guidelines](/community/guidelines/)** - Community standards
+- **[Community Guidelines](/code-of-conduct//)** - Community standards
 - **[User Guide](/user-guide/)** - How to use the app
 
 ---

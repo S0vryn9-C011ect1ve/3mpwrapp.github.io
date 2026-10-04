@@ -382,7 +382,7 @@ personalized: true
       </h3>
       <ul style="list-style: none; padding: 0; margin: 0;">
         <li style="margin: 0.5rem 0;"><a href="/community/" style="color: var(--link-color, #003d7a); text-decoration: none; font-weight: 500;">Community Hub</a></li>
-        <li style="margin: 0.5rem 0;"><a href="/community/guidelines/" style="color: var(--link-color, #003d7a); text-decoration: none; font-weight: 500;">Community Guidelines</a></li>
+        <li style="margin: 0.5rem 0;"><a href="/code-of-conduct//" style="color: var(--link-color, #003d7a); text-decoration: none; font-weight: 500;">Community Guidelines</a></li>
         <li style="margin: 0.5rem 0;"><a href="/contact/" style="color: var(--link-color, #003d7a); text-decoration: none; font-weight: 500;">Contact Us</a></li>
         <li style="margin: 0.5rem 0;"><a href="/crisis-resources/" style="color: #003d7a; text-decoration: none; font-weight: 500;">Crisis Resources</a></li>
       </ul>
