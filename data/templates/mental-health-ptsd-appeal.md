@@ -143,7 +143,7 @@ DSM-5 Code: [IF KNOWN: e.g., "309.81 (PTSD)"]
 - Medication: [LIST ALL, e.g., "Sertraline (Zoloft) 100mg daily, Trazodone 50mg for sleep"]
 - [IF APPLICABLE: "Hospitalization: [DATES, FACILITY] for [e.g., suicidal ideation"]"]
 
-**Current Status (as of [DATE]):**
+**Current Status (as of DATE:**
 [DESCRIBE CURRENT SYMPTOMS AND FUNCTION, e.g.:]
 > Despite 9 months of treatment, I continue to experience daily flashbacks, nightmares 4-5 nights per week, and severe anxiety. I cannot return to my workplace or work in any healthcare/customer service setting. I have panic attacks when [describe triggers]. My psychologist/psychiatrist states I am unable to work and will require long-term treatment.
 
@@ -233,7 +233,7 @@ WSIB's denial based on pre-existing mental health condition contradicts *Pasiech
 
 **[IF YOU HAD PRIOR DEPRESSION/ANXIETY THAT WAS CONTROLLED:]**
 > Yes, I was diagnosed with [depression/anxiety] in [YEAR]. HOWEVER, before the workplace incident on [DATE]:
-> - My condition was STABLE on medication ([medication name/dose])
+> - My condition was STABLE on medication (medication name/dose
 > - I was working FULL-TIME without accommodation
 > - I had not required crisis intervention, hospitalization, or medication changes in [X years]
 > - I was able to [work, socialize, perform daily activities] without limitation
@@ -340,8 +340,8 @@ WSIB's denial based on "routine employment duties" contradicts *WSIA* Section 13
 **[OPTION A: ACUTE TRAUMATIC INCIDENT]**
 > My claim is for ACUTE mental stress (PTSD) from a SPECIFIC TRAUMATIC INCIDENT on [DATE], not "chronic stress from employment duties."
 >
-> The incident ([assault/threat/witnessing death or serious injury/sexual violence]) was:
-> - ✅ Specific (occurred [DATE] at [TIME])
+> The incident (assault/threat/witnessing death or serious injury/sexual violence was:
+> - ✅ Specific (occurred [DATE] at TIME
 > - ✅ Traumatic (meets DSM-5 Criterion A for PTSD)
 > - ✅ Beyond normal employment duties (even for healthcare/police/emergency workers, [specific incident] was extraordinary)
 >
@@ -407,8 +407,8 @@ I respectfully request that WSIAT:
 2. **ORDER WSIB to provide:**
    - Full wage loss benefits retroactive to [DATE I stopped working]
    - Coverage of all medical treatment costs:
-     - Psychotherapy (weekly sessions with [THERAPIST NAME])
-     - Psychiatric medication management (monthly appointments with [PSYCHIATRIST NAME])
+     - Psychotherapy (weekly sessions with THERAPIST NAME
+     - Psychiatric medication management (monthly appointments with PSYCHIATRIST NAME
      - Medications: [list all mental health medications]
      - [If applicable: "Inpatient psychiatric treatment if required"]
    - Vocational rehabilitation assessment and retraining (I cannot return to [previous occupation] due to PTSD triggers)

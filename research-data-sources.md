@@ -60,7 +60,7 @@ layout: page
 - Keywords
 - Decision summary (full text)
 
-**Download:** [data/comprehensive-extraction/wsiat/](../data/comprehensive-extraction/wsiat/)
+**Download:** [data/comprehensive-extraction/wsiat/)
 
 **Extraction Script:** `scripts/extract-ultra-comprehensive.mjs`
 
@@ -123,7 +123,7 @@ layout: page
 - Withdrawals/abandonments
 - Application types (by ground, social area)
 
-**Download:** [data/comprehensive-extraction/hrto/](../data/comprehensive-extraction/hrto/)
+**Download:** [data/comprehensive-extraction/hrto/)
 
 **Limitation:** Summary statistics only (not individual case records)
 
@@ -179,7 +179,7 @@ layout: page
 - Issue category (disability, income, assets)
 - Appellant characteristics (anonymized)
 
-**Download:** [data/comprehensive-extraction/onsbt/](../data/comprehensive-extraction/onsbt/)
+**Download:** [data/comprehensive-extraction/onsbt/)
 
 **Limitation:** Small sample; full dataset not publicly available
 
@@ -246,7 +246,7 @@ layout: page
 
 **Download:** Available from WSIB upon request or via Freedom of Information
 
-**3mpwrApp Extraction:** [data/comprehensive-extraction/neer/](../data/comprehensive-extraction/neer/)
+**3mpwrApp Extraction:** [data/comprehensive-extraction/neer/)
 
 **Uses:**
 - Research employer safety records
@@ -265,7 +265,7 @@ layout: page
 - Rebate/surcharge amount
 - Year
 
-**Download:** [data/comprehensive-extraction/cad7/](../data/comprehensive-extraction/cad7/)
+**Download:** [data/comprehensive-extraction/cad7/)
 
 **Note:** CAD-7 for employers <100 employees; separate risk pool from NEER
 
@@ -281,7 +281,7 @@ layout: page
 - Premium rate (per $100 insurable earnings)
 - 5-year trends
 
-**Download:** [data/comprehensive-extraction/premium-rates/](../data/comprehensive-extraction/premium-rates/)
+**Download:** [data/comprehensive-extraction/premium-rates/)
 
 **Uses:**
 - Compare industry risk levels
@@ -375,7 +375,7 @@ layout: page
 
 **Format:** JSON (structured data)
 
-**Download:** [data/comprehensive-extraction/](../data/comprehensive-extraction/)
+**Download:** [data/comprehensive-extraction/)
 
 **Extraction Date:** April 29, 2026
 
@@ -416,7 +416,7 @@ layout: page
 
 ### 3mpwrApp Extraction Suite
 
-**Repository:** Available upon request ([email protected])
+**Repository:** Available upon request (email protected
 
 **Scripts:**
 
@@ -583,7 +583,7 @@ function validateRecord(record, schema) {
 
 ### Can I download the full datasets?
 
-**Yes.** All extracted data available at [data/comprehensive-extraction/](../data/comprehensive-extraction/)
+**Yes.** All extracted data available at [data/comprehensive-extraction/)
 
 **Formats:** JSON (primary), CSV (upon request)
 

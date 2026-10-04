@@ -631,7 +631,7 @@ Subject: Narrative Medical-Legal Report - [Your Name]
 - **Office of Employer Adviser:** 1-800-387-0774
 
 ### 3mpwrApp Research Tools
-- [WSIAT Success Rate Tracker](./wsiat-success-tracker.html) - Real-time analysis
+- **WSIAT Success Rate Tracker** - Real-time analysis
 - [Cross-Tribunal Success Comparison](./cross-tribunal-success-rates.html) - Compare WSIAT vs HRTO vs ONSBT
 - [Temporal Evolution Chart](./temporal-evolution.html) - Success rates over time
 - [Industry-Injury Matrix](./injury-industry-matrix.html) - Pattern analysis

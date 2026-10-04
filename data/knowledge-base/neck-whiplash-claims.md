@@ -404,7 +404,7 @@ From our analysis of 99,036 tribunal decisions (2020-2026):
 >
 > **After Workplace Motor Vehicle Accident on [date]:**
 > - Immediate severe neck pain and arm numbness
-> - Unable to work (off work [X weeks/months])
+> - Unable to work (off work X weeks/months
 > - Permanent restrictions: cannot lift, prolonged driving causes severe pain
 > - MRI shows C5-C6 disc herniation compressing nerve root
 >
@@ -460,7 +460,7 @@ From our analysis of 99,036 tribunal decisions (2020-2026):
 >
 > **My Current Status:**
 > - Ongoing pain 8/10
-> - Cannot perform job duties ([cannot lift, cannot sustain computer work, cannot drive])
+> - Cannot perform job duties (cannot lift, cannot sustain computer work, cannot drive
 > - Continuing physiotherapy 2x/week
 > - Taking prescription pain medication
 >

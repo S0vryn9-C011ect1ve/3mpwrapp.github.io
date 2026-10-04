@@ -47,7 +47,7 @@ Based on analysis of 99,036 WSIAT decisions:
 
 **KEY:** Get MOL inspection report immediately after serious incident.
 
-**Templates:** [Fracture Templates](../data/templates/fracture-templates.json)
+**Templates:** [Fracture Templates)
 
 ---
 
@@ -72,7 +72,7 @@ Based on analysis of 99,036 WSIAT decisions:
 - "MRI shows herniated disc L4-L5, consistent with lifting"
 - "Worked in confined spaces requiring awkward postures"
 
-**Templates:** [Back Injury Templates](../data/templates/back-injury-templates.json)
+**Templates:** [Back Injury Templates)
 
 ---
 
@@ -97,7 +97,7 @@ Based on analysis of 99,036 WSIAT decisions:
 - "MRI shows full-thickness rotator cuff tear"
 - "3 cortisone injections failed, surgery recommended"
 
-**Templates:** [Shoulder Injury Templates](../data/templates/shoulder-templates.json)
+**Templates:** [Shoulder Injury Templates)
 
 ---
 
@@ -122,7 +122,7 @@ Based on analysis of 99,036 WSIAT decisions:
 - "MRI shows meniscus tear, requires surgery"
 - "Knee pads provided inadequate protection"
 
-**Templates:** [Knee Injury Templates](../data/templates/knee-templates.json)
+**Templates:** [Knee Injury Templates)
 
 ---
 
@@ -150,7 +150,7 @@ Based on analysis of 99,036 WSIAT decisions:
 
 **CRITICAL:** Amputation cases often involve employer negligence. Document everything.
 
-**Templates:** [Amputation Templates](../data/templates/amputation-templates.json)
+**Templates:** [Amputation Templates)
 
 ---
 
@@ -339,8 +339,8 @@ Based on analysis of 99,036 WSIAT decisions:
 
 ## ✅ Next Steps
 
-1. **Get this guide:** [Download PDF](../guides/construction-wsiat-guide.pdf) (coming soon)
-2. **Find templates:** [Construction Templates](../data/templates/) - filter by your injury type
+1. **Get this guide:** everything it covers is on this page — a downloadable PDF is not available yet
+2. **Find templates:** [Construction Templates) - filter by your injury type
 3. **Join community:** [3mpwrApp Community](https://3mpwrapp.ca/community/) - connect with other construction workers
 4. **Get representation:** [Find free legal help](https://3mpwrapp.ca/resources/legal-clinics/)
 5. **Report unsafe sites:** [MOL Hotline](tel:1-877-202-0008) - you can report anonymously

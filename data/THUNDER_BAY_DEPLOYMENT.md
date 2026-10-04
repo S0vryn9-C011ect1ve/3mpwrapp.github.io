@@ -95,7 +95,7 @@
 ```javascript
 // When user uploads back injury documents
 showRecommendedArticle("low-back-pain-claims");
-showEvideenceChecklist(["MRI reports", "Doctor causation letter", "Incident report"]);
+showEvideenceChecklist("MRI reports", "Doctor causation letter", "Incident report";
 ```
 
 ### Flywheel 2: Pattern Detection
@@ -112,7 +112,7 @@ showEvideenceChecklist(["MRI reports", "Doctor causation letter", "Incident repo
 matchedPatterns = findSimilarCases(userCondition, patternAnalysisData);
 // Returns: 96 pre-existing cases + 194 low back cases
 showSuccessRate(matchedPatterns);
-showRelatedArticles(["low-back-pain-claims", "pre-existing-conditions"]);
+showRelatedArticles("low-back-pain-claims", "pre-existing-conditions";
 ```
 
 ### Flywheel 3: Knowledge Network
@@ -301,7 +301,7 @@ Response: {id, title, content (markdown), category, relatedArticles}
 
 // Get template
 GET /api/templates/:id
-Response: {id, title, fields[], content (markdown with [BRACKETS])}
+Response: {id, title, fields[], content (markdown with BRACKETS}
 
 // Pattern matching
 POST /api/patterns/match

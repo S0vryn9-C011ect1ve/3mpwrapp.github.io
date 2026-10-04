@@ -107,6 +107,7 @@ Every fill-in template in this collection.
 | [Knee Injury WSIAT Appeal Template]({{ '/templates/knee-injury-appeal/' | relative_url }}) | Professional fill-in-the-blank appeal letter for knee injury WSIB denials. Based on analysis of 3,162 successful WSIAT knee injury cases (me |
 | [Mental Health Injury WSIAT Appeal Template]({{ '/templates/mental-health-appeal/' | relative_url }}) | Professional fill-in-the-blank appeal letter for mental health WSIB denials. Based on analysis of 2,000+ successful WSIAT mental health case |
 | [Neck Injury WSIAT Appeal Template]({{ '/templates/neck-injury-appeal/' | relative_url }}) | Professional fill-in-the-blank appeal letter for neck injury WSIB denials. Based on analysis of 3,535 successful WSIAT neck injury cases (wh |
+| [Mental Health & PTSD Appeal Template]({{ '/templates/mental-health-ptsd-appeal/' | relative_url }}) | Appeal letter for psychological injury and PTSD claims. |
 | [Pre-Existing Condition Appeal Template]({{ '/templates/pre-existing-appeal/' | relative_url }}) |  |
 | [Shoulder Injury WSIAT Appeal Template]({{ '/templates/shoulder-injury-appeal/' | relative_url }}) | Professional fill-in-the-blank appeal letter for shoulder injury WSIB denials. Based on analysis of 5,295 successful WSIAT shoulder injury c |
 

@@ -182,7 +182,7 @@ wins = [d for d in fibro_cases if d['outcome'] == 'Allowed']
 success_rate = len(wins) / len(fibro_cases) * 100
 
 # What did winners do?
-rfc_in_wins = sum(1 for d in wins if 'RFC form' in d['evidence_cited'])
+rfc_in_wins = sum(1 for d in wins if 'RFC form' in d'evidence_cited'
 rfc_percent = rfc_in_wins / len(wins) * 100
 
 print(f"Fibromyalgia success rate: {success_rate:.1f}%")

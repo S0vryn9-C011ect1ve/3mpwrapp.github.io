@@ -575,7 +575,7 @@ We analyzed **14,298 Ontario Social Benefits Tribunal (ONSBT) decisions** from 2
 
 **Research Tools:**
 - [Cross-Tribunal Success Rates](../cross-tribunal-success-rates.html)
-- [WSIB Appeal Gap Analysis](../docs/WSIB-APPEAL-GAP-ANALYSIS.md)
+- [WSIB Appeal Gap Analysis)
 
 ---
 

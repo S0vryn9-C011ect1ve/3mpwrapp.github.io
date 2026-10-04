@@ -443,9 +443,9 @@ If employer requires medical assessment:
 - [Fibromyalgia Claims](../data/knowledge-base/fibromyalgia-claims.md) - Mental health stigma
 
 **3mpwr Templates:**
-- [Labour Relations Exclusion Appeal](../data/templates/labour-relations-exclusion-appeal.md) - Challenge employer retaliation exclusions
-- [Pre-Existing Condition Appeal](../data/templates/pre-existing-  appeal.md) - Challenge pre-existing denials
-- [Reconsideration Request](../data/templates/reconsideration-request.md) - Request review of decision
+- [Labour Relations Exclusion Appeal) - Challenge employer retaliation exclusions
+- [Pre-Existing Condition Appeal](/templates/pre-existing-appeal/) - Challenge pre-existing denials
+- [Reconsideration Request) - Request review of decision
 
 **3mpwr Research:**
 - [WSIB Black Box: Claim Suppression & Outcome Obscurity](https://3mpwrapp.ca/blog/2026/04/16/wsib-black-box-claim-suppression-outcome-obscurity/) - 1.14-2.29M suppressed workers

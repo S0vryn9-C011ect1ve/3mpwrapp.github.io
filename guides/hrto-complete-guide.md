@@ -551,7 +551,7 @@ You can file an HRTO application if discriminated against based on:
 
 ### 3mpwrApp Research Tools
 - [Cross-Tribunal Success Rates](./cross-tribunal-success-rates.html) - Compare HRTO vs WSIAT vs ONSBT
-- [HRTO Statistical Summary](../docs/HRTO-STATISTICAL-ANALYSIS.md) - Quarterly trends 2016-2025
+- [HRTO Statistical Summary) - Quarterly trends 2016-2025
 
 ### Self-Help Resources
 - **HRTO Application Guide:** [hrto.ca/application-guide](http://www.hrto.ca)

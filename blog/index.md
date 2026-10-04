@@ -496,12 +496,12 @@ body {
    (text is already handled by universal CSS)
    ============================================= */
 @media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) .post-card,
-  :root:not([data-theme="light"]) .post-item,
-  :root:not([data-theme="light"]) .empty-state {
+  :root:not(data-theme="light" .post-card,
+  :root:not(data-theme="light" .post-item,
+  :root:not(data-theme="light" .empty-state {
     background: color-mix(in srgb, #ffffff 6%, #000000);
   }
-  :root:not([data-theme="light"]) .blog-social-box {
+  :root:not(data-theme="light" .blog-social-box {
     background: color-mix(in srgb, var(--text-link, #80c1ff) 12%, transparent);
     border-color: var(--text-link, #80c1ff);
   }

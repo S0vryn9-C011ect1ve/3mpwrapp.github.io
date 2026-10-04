@@ -340,7 +340,7 @@ Et oui — **J'ai construit cette application pour vous.**
 </div>
 
 <div class="resource-links" style="margin-top: 1.5rem;">
-  <a href="/blog/2026/02/02/six-mois-reconstructions-infinies-zero-demi-mesures/" class="resource-link">Lire mon parcours complet →</a>
+  Lire mon parcours complet →
   <a href="/fr/beta/" class="resource-link">Rejoindre les tests bêta →</a>
 </div>
 

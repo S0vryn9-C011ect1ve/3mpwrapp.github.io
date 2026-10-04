@@ -320,7 +320,7 @@ From our analysis of 99,036 tribunal decisions (2020-2026):
 
 > "My treating hip surgeon recommends total hip replacement based on:
 > - Severe hip osteoarthritis from [X] years of [heavy lifting/prolonged standing]
-> - Failed conservative treatment ([list: physiotherapy, NSAIDs, cortisone injections, activity modification])
+> - Failed conservative treatment (list: physiotherapy, NSAIDs, cortisone injections, activity modification
 > - Functional impairment (cannot walk without severe pain, cannot work, cannot perform daily activities)
 >
 > **Even if WSIB initially denied hip claim, tribunal precedent establishes work causation. WSIB is obligated to cover medically necessary hip replacement.**

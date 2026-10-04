@@ -12,7 +12,7 @@ With ~50 followers across all platforms, you need data to understand:
 - Which platforms are worth focusing on (data-driven prioritization)
 - What content drives actual app signups vs. vanity metrics
 
-The [`viral-hooks-analytics.js`](scripts/viral-hooks-analytics.js) script auto-rotates underperforming hooks every 30 days based on engagement data - but it needs manual input since platform APIs don't provide detailed analytics for free accounts.
+The [`viral-hooks-analytics.js`) script auto-rotates underperforming hooks every 30 days based on engagement data - but it needs manual input since platform APIs don't provide detailed analytics for free accounts.
 
 ---
 
@@ -144,7 +144,7 @@ After 4-8 weeks of tracking, analyze:
 
 1. **Hook Emotion Triggers**
    - Which emotions get highest engagement? (validation, empowerment, curiosity, urgency)
-   - See [viral-hooks-config.js](scripts/viral-hooks-config.js) for categorized hooks
+   - See [viral-hooks-config.js) for categorized hooks
 
 2. **Content Types**
    - Feature spotlights vs. tutorials vs. dev updates vs. community stories
@@ -176,7 +176,7 @@ After 4-8 weeks of tracking, analyze:
 1. **Mastodon API Integration** - Auto-fetch metrics for posted statuses
 2. **Bluesky AppView Stats** - Once API supports it, auto-fetch engagement
 3. **Google Sheets Integration** - Weekly cron job populates spreadsheet for review
-4. **Analytics Dashboard** - [`social-analytics-dashboard.md`](scripts/social-analytics-dashboard.md) generation
+4. **Analytics Dashboard** - [`social-analytics-dashboard.md`) generation
 
 **Blockers:** Most platforms don't provide detailed analytics via free-tier APIs. Manual tracking is required for now.
 
@@ -191,12 +191,12 @@ After 4-8 weeks of tracking, analyze:
 ### **Generated Files** (scripts update)
 - [`public/viral-hooks-analytics.json`](public/viral-hooks-analytics.json) - Hook performance + rotation state
 - [`public/social-performance.json`](public/social-performance.json) - Platform-level metrics
-- [`_data/social-analytics-dashboard.md`](scripts/_data/social-analytics-dashboard.md) - Human-readable report
+- [`_data/social-analytics-dashboard.md`) - Human-readable report
 
 ### **Scripts**
-- [`scripts/viral-hooks-analytics.js`](scripts/viral-hooks-analytics.js) - Monthly optimization engine
-- [`scripts/social-intelligence-engine.js`](scripts/social-intelligence-engine.js) - Master orchestrator
-- [`scripts/hashtag-tracker.js`](scripts/hashtag-tracker.js) - #3mpwrApp mention tracking
+- [`scripts/viral-hooks-analytics.js`) - Monthly optimization engine
+- [`scripts/social-intelligence-engine.js`) - Master orchestrator
+- [`scripts/hashtag-tracker.js`) - #3mpwrApp mention tracking
 
 ---
 

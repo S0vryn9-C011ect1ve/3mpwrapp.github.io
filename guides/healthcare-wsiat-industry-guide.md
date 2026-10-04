@@ -44,7 +44,7 @@ Based on analysis of 99,036 WSIAT decisions:
 - "Repeatedly assigned to heavy-care patients"
 - "Employer failed to provide equipment"
 
-**Templates:** [Back Injury Templates](../data/templates/back-injury-templates.json)
+**Templates:** [Back Injury Templates)
 
 ---
 
@@ -71,7 +71,7 @@ Based on analysis of 99,036 WSIAT decisions:
 
 **KEY:** Mental health claims need psychiatric reports establishing work-causation.
 
-**Templates:** [Mental Health Templates](../data/templates/mental-health-templates.json)
+**Templates:** [Mental Health Templates)
 
 ---
 
@@ -96,7 +96,7 @@ Based on analysis of 99,036 WSIAT decisions:
 - "No job rotation, repetitive tasks daily"
 - "Ergonomic assessment confirmed high-risk job"
 
-**Templates:** [Repetitive Strain Templates](../data/templates/repetitive-templates.json)
+**Templates:** [Repetitive Strain Templates)
 
 ---
 
@@ -121,7 +121,7 @@ Based on analysis of 99,036 WSIAT decisions:
 - "MRI shows rotator cuff tear, consistent with work mechanism"
 - "Required to work despite pain, worsened injury"
 
-**Templates:** [Shoulder Injury Templates](../data/templates/shoulder-templates.json)
+**Templates:** [Shoulder Injury Templates)
 
 ---
 
@@ -146,7 +146,7 @@ Based on analysis of 99,036 WSIAT decisions:
 - "Required to kneel for wound care, damaged knee"
 - "No sitting options available during shift"
 
-**Templates:** [Knee Injury Templates](../data/templates/knee-templates.json)
+**Templates:** [Knee Injury Templates)
 
 ---
 
@@ -316,8 +316,8 @@ Based on analysis of 99,036 WSIAT decisions:
 
 ## ✅ Next Steps
 
-1. **Get this guide:** [Download PDF](../guides/healthcare-wsiat-guide.pdf) (coming soon)
-2. **Find templates:** [Healthcare Templates](../data/templates/) - filter by your injury type
+1. **Get this guide:** everything it covers is on this page — a downloadable PDF is not available yet
+2. **Find templates:** [Healthcare Templates) - filter by your injury type
 3. **Join community:** [3mpwrApp Community](https://3mpwrapp.ca/community/) - connect with other healthcare workers
 4. **Get representation:** [Find free legal help](https://3mpwrapp.ca/resources/legal-clinics/)
 5. **Share your story:** Help improve this guide with your experience

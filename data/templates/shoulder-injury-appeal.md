@@ -170,7 +170,7 @@ My treating physician, **Dr. [Name]**, has stated:
 
 **[USE THIS SECTION if WSIB explicitly mentioned your age as a reason for denial]**
 
-WSIB's denial based on my age ([age]) violates *Pasiechnyk* and constitutes age discrimination.
+WSIB's denial based on my age (age violates *Pasiechnyk* and constitutes age discrimination.
 
 **Legal Standard:**
 
@@ -379,7 +379,7 @@ Employer's Form 7 (attached) confirms the incident details and my job demands.
 - **Manual laborers:** 66% rotator cuff tear prevalence vs. 20% general population (JSES 2013)
 - **Repetitive overhead work:** Primary occupational risk factor for rotator cuff pathology (Cochrane Review 2013)
 
-**My occupation ([job title]) involves the EXACT exposures identified in this research:**
+**My occupation (job title involves the EXACT exposures identified in this research:**
 
 - Repetitive overhead reaching ✅
 - Forceful lifting ✅

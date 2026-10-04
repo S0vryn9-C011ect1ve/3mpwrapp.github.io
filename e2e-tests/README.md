@@ -162,10 +162,10 @@ await page.waitForSelector('button');
 
 **Wait for navigation:**
 ```javascript
-await Promise.all([
+await Promise.all(
   page.waitForNavigation(),
   page.locator('a').click()
-]);
+;
 ```
 
 **Screenshot:**

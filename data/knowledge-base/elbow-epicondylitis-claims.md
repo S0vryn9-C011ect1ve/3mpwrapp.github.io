@@ -382,7 +382,7 @@ Document repetitive motions:
 
 > "My treating orthopedic surgeon recommends [surgery] based on:
 > - [Diagnosis: e.g., chronic lateral epicondylitis with partial tear]
-> - Failed conservative treatment ([list: 9 months physiotherapy, 3 cortisone injections, bracing, NSAIDs])
+> - Failed conservative treatment (list: 9 months physiotherapy, 3 cortisone injections, bracing, NSAIDs
 > - Ongoing functional impairment (cannot work, cannot grip, pain 7/10 daily)
 >
 > WSIB's refusal violates duty to provide healthcare. Request: WSIAT order surgery authorization within 30 days."

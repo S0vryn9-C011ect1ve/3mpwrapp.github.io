@@ -48,7 +48,7 @@ We welcome contributions from the community! See [CONTRIBUTING.md](CONTRIBUTING.
 
 **Want to help protect 3mpwrApp™ from exploitation?** See:
 - [GOVERNANCE.md](GOVERNANCE.md) - Decision-making structure and project protection
-- [docs/PROJECT_PROTECTION_STRATEGY.md](docs/PROJECT_PROTECTION_STRATEGY.md) - 5-layer defense against hijacking
+- [docs/PROJECT_PROTECTION_STRATEGY.md) - 5-layer defense against hijacking
 
 ---
 
@@ -109,7 +109,7 @@ We tested robustness to missing data with 4 scenarios (null hypothesis, best cas
 - **Media Outreach:** ✅ Ready (with confidence intervals and disclaimers)
 - **Academic Submission:** ⚠️ Needs comparative analysis (WCAT BC, HRTO, LTB)
 
-For detailed validation results, see [RESEARCH-VALIDATION-SUMMARY.md](docs/RESEARCH-VALIDATION-SUMMARY.md).
+For detailed validation results, see [RESEARCH-VALIDATION-SUMMARY.md).
 
 ## Contributing
 

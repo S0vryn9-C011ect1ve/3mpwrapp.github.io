@@ -117,7 +117,7 @@ description: Find information quickly with on-page results and a DuckDuckGo fall
 
     function escapeHTML(s) {
       return (s || '').replace(/[&<>"']/g, function(c){
-        return ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;','\'':'&#39;'}[c]);
+        return ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;','\'':'&#39;'}c;
       });
     }
 
@@ -263,7 +263,7 @@ description: Find information quickly with on-page results and a DuckDuckGo fall
       fetch('{{ "/search.json" | relative_url }}', { headers: { 'Accept': 'application/json' } })
         .then(function(r){ return r.json(); })
         .then(function(data){
-          idx = (data || []).map(function(x){
+          idx = (data || .map(function(x){
             return { title: x.title || x.name || '', url: x.url, content: x.excerpt || x.content || '' };
           });
           loaded = true;

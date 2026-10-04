@@ -213,8 +213,8 @@ From our analysis of 99,036 tribunal decisions (2020-2026):
 > - Concussion diagnostic criteria: mechanism of injury (blow to head/body) + ANY concussion symptom
 >
 > **My Concussion Symptoms:**
-> - Immediate headache, dizziness, nausea (documented in ER [date])
-> - Confusion, disorientation (witnessed by [coworker names])
+> - Immediate headache, dizziness, nausea (documented in ER date
+> - Confusion, disorientation (witnessed by coworker names
 > - Amnesia (don't remember 10 minutes after injury)
 > - Light sensitivity, noise sensitivity (ongoing)
 > - Memory problems, difficulty concentrating (confirmed by neuropsychological testing)

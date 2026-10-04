@@ -315,10 +315,10 @@ permalink: /whats-new/
   }
   
   // Load data for current and last year
-  const [currentData, lastYearData] = await Promise.all([
+  const [currentData, lastYearData] = await Promise.all(
     loadWhatsNewYear(currentYear),
     loadWhatsNewYear(lastYear)
-  ]);
+  ;
   
   // Combine entries
   let allEntries = [];
@@ -401,7 +401,7 @@ permalink: /whats-new/
     const monthKey = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
     const monthLabel = date.toLocaleDateString('en-US', { year: 'numeric', month: 'long' });
     
-    if (!archiveByMonth[monthKey]) {
+    if (!archiveByMonthmonthKey {
       archiveByMonth[monthKey] = {
         label: monthLabel,
         entries: []

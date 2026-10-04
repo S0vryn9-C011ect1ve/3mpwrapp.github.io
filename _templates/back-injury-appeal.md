@@ -125,7 +125,7 @@ The law is clear: a pre-existing condition does not disqualify a claim if the wo
 This dramatic worsening is documented by:
 - Dr. [NAME]'s report showing functional decline
 - Imaging showing structural damage not present before (if applicable)
-- Treatment escalation (now requiring [STRONGER MEDS/SURGERY/ETC.])
+- Treatment escalation (now requiring STRONGER MEDS/SURGERY/ETC.
 
 Medical literature confirms that workplace heavy lifting can aggravate degenerative disc conditions, which is exactly what occurred in my case.
 

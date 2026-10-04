@@ -51,7 +51,7 @@ Your doctor must explain **HOW work caused/aggravated** fibromyalgia:
 > "Patient had workplace back injury on [date]. Following this, developed characteristic widespread pain pattern consistent with post-traumatic fibromyalgia, a recognized phenomenon in medical literature."
 
 **Aggravation theory**:
-> "Patient had mild fibromyalgia symptoms prior, manageable with medication. Heavy physical demands of job ([specific duties]) caused severe flare, rendering patient unable to work."
+> "Patient had mild fibromyalgia symptoms prior, manageable with medication. Heavy physical demands of job (specific duties caused severe flare, rendering patient unable to work."
 
 ## The Chronic Pain Connection
 

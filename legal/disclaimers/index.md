@@ -190,10 +190,11 @@ THIS APP IS NOT A SUBSTITUTE FOR EMERGENCY SERVICES OR CRISIS INTERVENTION. IF Y
 - Do not delay seeking emergency help to use this app
 
 ### **Crisis Resources (Not Emergency Services):**
-- **Canada Suicide Prevention Service:** Call [1-833-456-4566](tel:1-833-456-4566) or text [45645](sms:45645) (24/7)
-- **Emergency:** Call 911 or your local emergency number
-- **Canadian Domestic Violence Hotline:** [1-800-363-9010](tel:1-800-363-9010) (24/7)
-- **[Complete crisis resources →](/crisis-resources)**
+- **Suicide Crisis Helpline (Canada):** call or text **9-8-8** (24/7) · chat at [988.ca](https://988.ca)
+- **Emergency:** call **911**
+- **National Domestic Violence Hotline:** **1-800-799-7233** (24/7)
+- **Legal Aid Ontario:** **1-800-668-8258**, Monday–Friday, 8am–5pm ET
+- **[Complete crisis resources →](/crisis-resources/)**
 
 ### **Features Covered:**
 - Safe Landing Page

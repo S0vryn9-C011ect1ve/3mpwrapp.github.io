@@ -92,7 +92,7 @@ powershell -File scripts/safe-package-verify.ps1
 
 1. **Verified dependencies** - Confirmed no compromised versions present
 2. � **Paused npm install** - All installations frozen until all-clear
-3. **Created emergency runbook** - [docs/SECURITY_INCIDENT_RESPONSE.md](../docs/SECURITY_INCIDENT_RESPONSE.md)
+3. **Created emergency runbook** - [docs/SECURITY_INCIDENT_RESPONSE.md)
 4. **Built verification tooling** - Safe package checking without npm install
 5. **Updated security documentation** - Comprehensive threat intelligence
 
@@ -284,9 +284,9 @@ Once safe to install, Socket.dev will provide continuous protection against futu
 - **npm Status:** https://status.npmjs.org/
 
 ### 3mpwrApp Documentation
-- **Emergency Runbook:** [docs/SECURITY_INCIDENT_RESPONSE.md](../docs/SECURITY_INCIDENT_RESPONSE.md)
+- **Emergency Runbook:** [docs/SECURITY_INCIDENT_RESPONSE.md)
 - **Security Policy:** [SECURITY.md](../SECURITY.md)
-- **Verification Script:** [scripts/safe-package-verify.ps1](../scripts/safe-package-verify.ps1)
+- **Verification Script:** [scripts/safe-package-verify.ps1)
 
 ### Report Security Issues
 - **Email:** empowrapp08162025@gmail.com

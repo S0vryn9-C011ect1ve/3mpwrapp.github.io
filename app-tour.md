@@ -1489,7 +1489,7 @@ permalink: /app-tour/
           document.body.style.overflow = 'hidden';
           return false;
         };
-      })(previewImages[i]);
+      })(previewImagesi;
     }
     
     // Close lightbox function

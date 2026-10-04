@@ -389,7 +389,7 @@ Founder, 3mpwrApp
 ## Resources
 
 - [ENGAGEMENT_TRACKING_WORKFLOW.md](ENGAGEMENT_TRACKING_WORKFLOW.md) - How to track metrics
-- [scripts/viral-hooks-config.js](scripts/viral-hooks-config.js) - Hook library for variety
+- [scripts/viral-hooks-config.js) - Hook library for variety
 - [public/social-trends.json](public/social-trends.json) - Trending hashtags to use
 - [Plan Full Document](/memories/session/plan.md) - Full strategic overview
 

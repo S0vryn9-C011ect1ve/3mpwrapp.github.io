@@ -275,7 +275,7 @@ From our analysis of 99,036 ONWSIAT (Ontario Workplace Safety & Insurance Appeal
 
 2. **Doctor's causation opinion:**
    - Ask directly: **"Doctor, did the workplace incident on [date] worsen my pre-existing knee condition?"**
-   - Request written opinion: "In my medical opinion, patient's workplace incident ([describe mechanism: twisting, fall, impact]) **AGGRAVATED their pre-existing osteoarthritis**, causing greater severity of symptoms and functional loss."
+   - Request written opinion: "In my medical opinion, patient's workplace incident (describe mechanism: twisting, fall, impact **AGGRAVATED their pre-existing osteoarthritis**, causing greater severity of symptoms and functional loss."
 
 3. **Specialist report (orthopedic surgeon):**
    - Diagnosis of BOTH pre-existing condition AND workplace aggravation

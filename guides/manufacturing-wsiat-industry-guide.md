@@ -46,7 +46,7 @@ Based on analysis of 99,036 WSIAT decisions:
 
 **KEY:** Repetitive strain cases need STRONG medical evidence of diagnosis.
 
-**Templates:** [Repetitive Strain Templates](../data/templates/repetitive-templates.json)
+**Templates:** [Repetitive Strain Templates)
 
 ---
 
@@ -71,7 +71,7 @@ Based on analysis of 99,036 WSIAT decisions:
 - "Workstation height forces constant bending"
 - "MRI shows disc herniation L5-S1"
 
-**Templates:** [Back Injury Templates](../data/templates/back-injury-templates.json)
+**Templates:** [Back Injury Templates)
 
 ---
 
@@ -98,7 +98,7 @@ Based on analysis of 99,036 WSIAT decisions:
 
 **KEY:** Hearing loss claims often take YEARS to develop, then get denied as "gradual, not injury."
 
-**Templates:** [Hearing Loss Templates](../data/templates/hearing-loss-templates.json)
+**Templates:** [Hearing Loss Templates)
 
 ---
 
@@ -126,7 +126,7 @@ Based on analysis of 99,036 WSIAT decisions:
 
 **CRITICAL:** These cases often involve serious employer safety violations. MOL investigation is KEY.
 
-**Templates:** [Amputation Templates](../data/templates/amputation-templates.json)
+**Templates:** [Amputation Templates)
 
 ---
 
@@ -151,7 +151,7 @@ Based on analysis of 99,036 WSIAT decisions:
 - "MRI shows rotator cuff tear, surgeon confirms work-related"
 - "Employer refused ergonomic modifications"
 
-**Templates:** [Shoulder Injury Templates](../data/templates/shoulder-templates.json)
+**Templates:** [Shoulder Injury Templates)
 
 ---
 
@@ -338,8 +338,8 @@ Based on analysis of 99,036 WSIAT decisions:
 
 ## ✅ Next Steps
 
-1. **Get this guide:** [Download PDF](../guides/manufacturing-wsiat-guide.pdf) (coming soon)
-2. **Find templates:** [Manufacturing Templates](../data/templates/) - filter by your injury type
+1. **Get this guide:** everything it covers is on this page — a downloadable PDF is not available yet
+2. **Find templates:** [Manufacturing Templates) - filter by your injury type
 3. **Join community:** [3mpwrApp Community](https://3mpwrapp.ca/community/) - connect with other manufacturing workers
 4. **Get representation:** [Find free legal help](https://3mpwrapp.ca/resources/legal-clinics/)
 5. **Report unsafe conditions:** [MOL Hotline](tel:1-877-202-0008) - anonymous reporting available

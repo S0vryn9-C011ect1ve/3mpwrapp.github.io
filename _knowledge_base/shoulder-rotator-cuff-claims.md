@@ -325,7 +325,7 @@ From our analysis of 99,036 ONWSIAT (Ontario Workplace Safety & Insurance Appeal
 - "Normal physical exam" often means exam months after injury, after acute inflammation resolved
 
 **Your Appeal:**
-> "WSIB's 'insufficient objective evidence' standard is incorrect. Clinical diagnosis by my treating physician (Dr. [Name]) is admissible evidence. WSIB Policy 15-01-02 states: **'Health professionals' opinions are presumed reliable unless contradicted by clear and compelling evidence.'** WSIB has provided NO evidence contradicting my doctor's diagnosis. Additionally, I request WSIB fund MRI imaging if they require it—workers should not bear financial burden of proving claims."
+> "WSIB's 'insufficient objective evidence' standard is incorrect. Clinical diagnosis by my treating physician (Dr. Name is admissible evidence. WSIB Policy 15-01-02 states: **'Health professionals' opinions are presumed reliable unless contradicted by clear and compelling evidence.'** WSIB has provided NO evidence contradicting my doctor's diagnosis. Additionally, I request WSIB fund MRI imaging if they require it—workers should not bear financial burden of proving claims."
 
 **Pro Tip:** If WSIB demands imaging but won't fund it, appeal this as access barrier. OHIP queues for MRIs can be 6-12 months. WSIB cannot deny for "lack of evidence" they refuse to fund.
 

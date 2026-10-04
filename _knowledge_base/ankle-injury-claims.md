@@ -409,8 +409,8 @@ From our analysis of 99,036 tribunal decisions (2020-2026):
 
 > "My treating orthopedic surgeon recommends [surgery] based on:
 > - [Diagnosis from MRI]
-> - Failed conservative treatment ([list: physiotherapy X months, bracing, injections])
-> - Ongoing functional impairment ([cannot work, cannot walk without pain])
+> - Failed conservative treatment (list: physiotherapy X months, bracing, injections
+> - Ongoing functional impairment (cannot work, cannot walk without pain
 >
 > WSIB's refusal to authorize medically necessary surgery violates its duty to provide healthcare.
 >

@@ -2,7 +2,7 @@
 
 **Purpose:** Create variety in social media posts to test what resonates, optimize for platform-specific strengths, and avoid repetitive content fatigue.
 
-**See Also:** [scripts/viral-hooks-config.js](scripts/viral-hooks-config.js) for 150+ categorized hooks
+**See Also:** [scripts/viral-hooks-config.js) for 150+ categorized hooks
 
 ---
 
@@ -534,7 +534,7 @@ Every morning:
 
 ## Hook Rotation (Preventing Fatigue)
 
-**From [scripts/viral-hooks-config.js](scripts/viral-hooks-config.js):**
+**From [scripts/viral-hooks-config.js):**
 
 ### Emotion-Based Hook Categories:
 1. **Urgency** - "🚨 PSA:", "⚠️ Deadline approaching"
@@ -652,7 +652,7 @@ Every morning:
 
 ## Resources
 
-- [scripts/viral-hooks-config.js](scripts/viral-hooks-config.js) - 150+ hooks library
+- [scripts/viral-hooks-config.js) - 150+ hooks library
 - [COMMUNITY_ENGAGEMENT_STRATEGY.md](COMMUNITY_ENGAGEMENT_STRATEGY.md) - How to engage daily
 - [ENGAGEMENT_TRACKING_WORKFLOW.md](ENGAGEMENT_TRACKING_WORKFLOW.md) - Metrics tracking
 - [public/social-trends.json](public/social-trends.json) - Current trending hashtags
