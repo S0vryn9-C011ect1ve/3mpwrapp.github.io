@@ -1,69 +1,48 @@
-# Redirect old domains to new primary domain (301 permanent redirects)
+# _redirects — Cloudflare Pages (FREE plan caps this file at 100 rules)
+# Pruned deliberately on 2026-10-03. Everything above rank 100 was NOT applied
+# by Cloudflare and silently 404'd. Kept: duplicate-content redirects first,
+# then renamed guides, then removed dev pages.
+# Self-loops, malformed paths with spaces, and internal dev paths dropped.
+
+# --- hostname consolidation (highest value) ---
 https://3mpwrapp.pages.dev/* https://3mpwrapp.ca/:splat 301!
 https://3mpwrapp.github.io/* https://3mpwrapp.ca/:splat 301!
 https://www.3mpwrapp.ca/* https://3mpwrapp.ca/:splat 301!
 
-# Exclude auth callbacks from SPA redirect
+# --- SPA / pretty-URL support ---
 /gdrive-callback /gdrive-callback/index.html 200
 /gdrive-callback.html /gdrive-callback/index.html 200
-
-# Allow Jekyll-generated blog posts and pages to work
-# Blog 404 redirects (Themis compliance fix 2026-09-11)
-/hrto-outcome-timeline-2020-2026.html/* /hrto-outcome-timeline-2020-2026.html 301
-/blog/2026/05/08/onca-precedent-overview/* /community-updates/research/2026/05/08/onca-precedent-overview/ 301
-/hrto-outcome-timeline-2020-2026.html /hrto-outcome-timeline-2020-2026.html 301
-/blog/2026/05/08/onca-precedent-overview /community-updates/research/2026/05/08/onca-precedent-overview/ 301
-/20*/* 200!
-
-# Legal pages (Jekyll pretty URLs generate as directories)
-/about /about/ 200
-/research /research/ 200
-/privacy /privacy/ 200
-/security /security/ 200
-/contact /contact/ 200
-/faq /faq/ 200
-/accessibility /accessibility/ 200
-/code-of-conduct /code-of-conduct/ 200
-
-# Newly-unexcluded public pages (audit fix 2026-09-12)
-/knowledge-base /knowledge-base/ 200
-/app-tour /app-tour/ 200
-/app-waitlist /app-waitlist/ 200
-/roadmap /roadmap/ 200
-/how-to-use-this-data /how-to-use-this-data/ 200
-
-# New feature / user-guide / beta pages (2026-09-12)
-/features /features/ 200
-/user-guide /user-guide/ 200
 /beta-testers-guide /beta-guide/ 200
-
-# Dead-link fixes (audit 2026-09-12)
 /beta-signup /app-waitlist/ 200
 /beta-signup/ /app-waitlist/ 200
 /reports /support/ 200
 /reports/ /support/ 200
+/* /index.html 200
 
-# Old community-guidelines path → new code-of-conduct (cache-bust redirect)
-/community/guidelines /code-of-conduct/ 301
-/community/guidelines/ /code-of-conduct/ 301
-
-# SPA fallback for remaining routes (lower priority)
-
-# HRTO posts (Themis compliance fix 2026-09-20)
+# --- content redirects ---
+/blog/2026/04/26/onsbt-accessibility-barriers-vulnerable-communities/ /community-updates/research/accessibility/tribunal-analysis/2026/04/26/onsbt-accessibility-barriers-vulnerable-communities/ 301
+/blog/2026/05/08/onca-precedent-overview/* /community-updates/research/2026/05/08/onca-precedent-overview/ 301
+/blog/2026/05/08/onca-precedent-overview /community-updates/research/2026/05/08/onca-precedent-overview/ 301
 /blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/* /human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/ 301
 /blog/2026/04/20/hrto-email-crisis-abandonment-epidemic /human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/ 301
 /blog/2026/05/14/hrto-disability-discrimination-patterns-analysis/* /community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/ 301
 /blog/2026/05/14/hrto-disability-discrimination-patterns-analysis /community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/ 301
-/* /index.html 200
+/dev-diary-updates/2026/03/15/dev-diary-why-we-chose-react-native-accessibility-over-everything/ /dev-diary/2026/07/26/dev-diary-why-we-chose-react-native-accessibility-over-everything/ 301
+/dev-diary/2026/05/23/dev-diary-why-we-chose-react-native-accessibility-over-everything/ /dev-diary/2026/07/26/dev-diary-why-we-chose-react-native-accessibility-over-everything/ 301
+/tutorials/2026/05/21/tutorial-setting-up-accessibility-for-your-needs/ /tutorials/2026/07/24/tutorial-setting-up-accessibility-for-your-needs/ 301
+/blog/2025/10/25/groundbreaking-website-accessibility-features/ /accessibility/innovation/website-features/2025/10/25/groundbreaking-website-accessibility-features/ 301
+/blog/2026/04/26/onsbt-2020-2026-comprehensive-analysis/ /community-updates/research/tribunal-analysis/2026/04/26/onsbt-2020-2026-comprehensive-analysis/ 301
+/features/accessibility/ /accessibility/ 301
+/features/accessibility/advocacy/ /accessibility/ 301
+/feature-deep-dive/accessibility/chronic-pain/ /blog/ 301
+/community/guidelines /code-of-conduct/ 301
+/community/guidelines/ /code-of-conduct/ 301
 /tutorials/2026/03/29/tutorial-your-first-benefits-application-a-complete-walkthrough/ /tutorials/2026/08/01/tutorial-your-first-benefits-application-a-complete-walkthrough/ 301
 /tutorials/2026/05/29/tutorial-your-first-benefits-application-a-complete-walkthrough/ /tutorials/2026/08/01/tutorial-your-first-benefits-application-a-complete-walkthrough/ 301
 /tutorials/2026/03/14/tutorial-how-to-use-the-evidence-locker-effectively/ /tutorials/2026/07/16/tutorial-how-to-use-the-evidence-locker-effectively/ 301
 /tutorials/2026/05/05/tutorial-how-to-use-the-evidence-locker-effectively/ /tutorials/2026/07/16/tutorial-how-to-use-the-evidence-locker-effectively/ 301
-/dev-diary-updates/2026/03/15/dev-diary-why-we-chose-react-native-accessibility-over-everything/ /dev-diary/2026/07/26/dev-diary-why-we-chose-react-native-accessibility-over-everything/ 301
-/dev-diary/2026/05/23/dev-diary-why-we-chose-react-native-accessibility-over-everything/ /dev-diary/2026/07/26/dev-diary-why-we-chose-react-native-accessibility-over-everything/ 301
 /blog/2026-04-02-community-what-3mpwr-means/ /community/2026/06/10/community-what-3mpwr-means-the-philosophy-behind-our-name/ 301
 /community/2026/04/02/community-what-3mpwr-means-the-philosophy-behind-our-name/ /community/2026/06/10/community-what-3mpwr-means-the-philosophy-behind-our-name/ 301
-/tutorials/2026/05/21/tutorial-setting-up-accessibility-for-your-needs/ /tutorials/2026/07/24/tutorial-setting-up-accessibility-for-your-needs/ 301
 /tutorials/2026/05/04/tutorial-getting-crisis-support-through-3mpwrapp/ /tutorials/2026/07/08/tutorial-getting-crisis-support-through-3mpwrapp/ 301
 /tutorials/2026/04/30/tutorial-protecting-your-privacy-local-first-architecture-explained/ /tutorials/2026/06/30/tutorial-protecting-your-privacy-local-first-architecture-explained/ 301
 /tutorials/2026/04/22/tutorial-using-spoon-theory-to-manage-your-energy-day-to-day/ /tutorials/2026/06/22/tutorial-using-spoon-theory-to-manage-your-energy-day-to-day/ 301
@@ -81,111 +60,50 @@ https://www.3mpwrapp.ca/* https://3mpwrapp.ca/:splat 301!
 /community/2026/04/26/community-building-in-public-why-transparency-is-non-negotiable-for-us/ /community/2026/07/04/community-building-in-public-why-transparency-is-non-negotiable-for-us/ 301
 /community/2026/04/18/community-spoon-theory-and-the-design-language-we-built-around-it/ /community/2026/06/26/community-spoon-theory-and-the-design-language-we-built-around-it/ 301
 /community/2026/04/10/community-privacy-as-a-human-right-not-a-feature-we-added-later/ /community/2026/06/18/community-privacy-as-a-human-right-not-a-feature-we-added-later/ 301
-/2026/03/31/3mpwrapp-safe-from-axios-supply-chain-attack/ /2026/03/31/axios-supply-chain-attack-3mpwrapp-safe/ 301
-/privacy-policy/ /privacy-policy.html/ 301
-/delete-account/ /delete-account.html/ 301
-/fr/roadmap/ /fr/roadmap.html/ 301
-/fr/accessibility/ /fr/accessibility.html/ 301
-/templates/chronic-pain-appeal/ /templates/chronic-pain-appeal.html/ 301
-/fr/app-waitlist/ /fr/app-waitlist.html/ 301
-/cross-tribunal-success-rates/ /cross-tribunal-success-rates.html/ 301
-/guides/cross-tribunal-success-rates.html/ /cross-tribunal-success-rates.html/ 301
-/guides/hrto-complete-guide/cross-tribunal-success-rates.html/ /cross-tribunal-success-rates.html/ 301
-/guides/wsiat-complete-guide/cross-tribunal-success-rates.html/ /cross-tribunal-success-rates.html/ 301
-/guides/wsiat-complete-guide/temporal-evolution.html/ /temporal-evolution.html/ 301
-/guides/wsiat-nel-benefits-guide.html/ /guides/wsiat-nel-benefits/ 301
-/guides/wsiat-back-injury-guide/ /guides/wsiat-back-injury-appeals/ 301
-/guides/wsiat-back-injury-guide.html/ /guides/wsiat-back-injury-appeals/ 301
-/guides/wsiat-chronic-pain-guide/ /guides/wsiat-chronic-pain-claims/ 301
-/templates/concussion-appeal/ /guides/wsiat-complete-guide/ 301
-/guides/wsiat-complete-guide/injury-industry-matrix.html/ /injury-industry-matrix.html/ 301
-/guides/divisional-court-appeals/ /guides/onca-appellate-guide/ 301
-/guides/wsiat-appeals/ /guides/wsiat-tactics-survival-guide/ 301
-wsiat-outcome-timeline-2020-2026.html/ /wsiat-outcome-timeline-2020-2026.html/ 301
-onsbt-outcome-timeline-2020-2026.html/ /onsbt-outcome-timeline-2020-2026.html/ 301
-ontario-tribunals-outcome-clarity-comparison.html/ /ontario-tribunals-outcome-clarity-comparison.html/ 301
-hrto-outcome-timeline-2020-2026.html/ /hrto-outcome-timeline-2020-2026.html/ 301
-onca-outcome-timeline-2020-2026.html/ /onca-outcome-timeline-2020-2026.html/ 301
-/blog/2026/04/30/suppression-gap.html/ /investigations/wsib/data-analysis/2026/04/30/suppression-gap/ 301
+/templates/chronic-pain-appeal/ /templates/chronic-pain-appeal.html 301
+/blog/2026/04/30/suppression-gap.html /investigations/wsib/data-analysis/2026/04/30/suppression-gap/ 301
 /blog/2026/02/02/six-months-endless-rebuilds-zero-half-measures/ /founder-story/development/journey/2026/02/02/six-months-endless-rebuilds-zero-half-measures/ 301
-/human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/ /human rights/research/access to justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/ 301
-/data/templates/ /templates/ 301
-/wsib/research/ /research/ 301
-/weekly-recap/ /community/news/2025/10/17/weekly-recap/ 301
 /blog/2025/12/07/feature-spotlight-production-release/ /features/announcements/2025/12/07/feature-spotlight-production-release/ 301
-/research/legislation/ /legislation/ 301
 /blog/2026-04-29-bc-wcat-data-unknown-outcomes-systemic-patterns/ /blog/2026/04/29/bc-wcat-data-unknown-outcomes-systemic-patterns/ 301
 /research/community/ /community/ 301
-/research/advocacy/legislation/ /research/ 301
-/blog/2025/10/25/groundbreaking-website-accessibility-features/ /accessibility/innovation/website-features/2025/10/25/groundbreaking-website-accessibility-features/ 301
-/2026-09-23-wsib-strike-appeals-paused/ /news/advocacy/2026/09/23/wsib-strike-appeals-paused/ 301
-/2026-09-23-ofl-oniwg-conference-oct-1/ /news/events/2026/09/23/ofl-oniwg-conference-oct-1/ 301
-/knowledge-base/data/knowledge-base/pre-existing-conditions.md/ /knowledge-base/pre-existing-conditions/ 301
-/knowledge-base/data/knowledge-base/chronic-pain-claims.md/ /knowledge-base/chronic-pain-claims/ 301
-/knowledge-base/data/knowledge-base/fibromyalgia-claims.md/ /knowledge-base/fibromyalgia-claims/ 301
-/knowledge-base/data/templates/pre-existing-  appeal.md/ /templates/pre-existing-appeal/ 301
-/investigations/wsib/ /wsib/ 301
-/human%20rights/research/ /research/ 301
-/guides/data/templates/fracture-templates.json/ /data/templates/fracture-templates.json/ 301
-/guides/data/templates/back-injury-templates.json/ /data/templates/back-injury-templates.json/ 301
-/guides/data/templates/shoulder-templates.json/ /data/templates/shoulder-templates.json/ 301
-/guides/data/templates/knee-templates.json/ /data/templates/knee-templates.json/ 301
-/guides/data/templates/ /templates/ 301
-/guides/data-limitations/ /data-limitations/ 301
-/guides/data/templates/mental-health-templates.json/ /data/templates/mental-health-templates.json/ 301
-/guides/data/templates/hearing-loss-templates.json/ /data/templates/hearing-loss-templates.json/ 301
-/blog/2025/10/21/feature-spotlight-energy-forecast-smart-scheduling.html/ /features/2026/03/14/feature-spotlight-energy-forecast-smart-scheduling/ 301
+/blog/2025/10/21/feature-spotlight-energy-forecast-smart-scheduling.html /features/2026/03/14/feature-spotlight-energy-forecast-smart-scheduling/ 301
 /blog/2025/10/26/spoon-theory-meets-web-design/ /feature-spotlight/accessibility/energy-management/2025/10/26/spoon-theory-meets-web-design/ 301
-/community-updates/research/ /research/ 301
-/blog/2026/04/26/onsbt-accessibility-barriers-vulnerable-communities/ /community-updates/research/accessibility/tribunal-analysis/2026/04/26/onsbt-accessibility-barriers-vulnerable-communities/ 301
-/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/ /human rights/research/access to justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/ 301
-/blog/2026/04/26/onsbt-2020-2026-comprehensive-analysis/ /community-updates/research/tribunal-analysis/2026/04/26/onsbt-2020-2026-comprehensive-analysis/ 301
-/human-rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/ /human rights/research/access to justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/ 301
 /blog/2026/04/16/claim-suppression-playbook-employer-retaliation/ /research/employer-retaliation/claim-suppression/workers-rights/2026/04/16/claim-suppression-playbook-employer-retaliation/ 301
-/blog/2025/10/03/welcome-to-3mpowr.html/ /news/2025/10/03/welcome-to-3mpowr/ 301
-/community-updates/research/workers-compensation/ /research/ 301
-/community-updates/research/tribunal-analysis/ /research/ 301
-/community-updates/research/disability-justice/ /research/ 301
-/community-updates/research/disability-justice/tribunal-analysis/ /research/ 301
+/blog/2025/10/03/welcome-to-3mpowr.html /news/2025/10/03/welcome-to-3mpowr/ 301
+/research/community/transparency/ /research/ 301
+/platform-comparison/features/ /blog/ 301
+/features/announcements/ /blog/ 301
+/community/news/ /community/ 301
+/hrto-outcome-timeline-2020-2026.html/* /hrto-outcome-timeline-2020-2026.html 301
+/fr/accessibility/ /fr/accessibility.html 301
+/guides/hrto-complete-guide/cross-tribunal-success-rates.html /cross-tribunal-success-rates.html 301
+/guides/wsiat-complete-guide/cross-tribunal-success-rates.html /cross-tribunal-success-rates.html 301
+/guides/wsiat-complete-guide/temporal-evolution.html /temporal-evolution.html 301
+/guides/wsiat-nel-benefits-guide.html /guides/wsiat-nel-benefits/ 301
+/guides/wsiat-back-injury-guide/ /guides/wsiat-back-injury-appeals/ 301
+/guides/wsiat-back-injury-guide.html /guides/wsiat-back-injury-appeals/ 301
+/guides/wsiat-chronic-pain-guide/ /guides/wsiat-chronic-pain-claims/ 301
+/guides/wsiat-complete-guide/injury-industry-matrix.html /injury-industry-matrix.html 301
+/guides/wsiat-appeals/ /guides/wsiat-tactics-survival-guide/ 301
+wsiat-outcome-timeline-2020-2026.html/ /wsiat-outcome-timeline-2020-2026.html 301
+onsbt-outcome-timeline-2020-2026.html/ /onsbt-outcome-timeline-2020-2026.html 301
+hrto-outcome-timeline-2020-2026.html/ /hrto-outcome-timeline-2020-2026.html 301
+onca-outcome-timeline-2020-2026.html/ /onca-outcome-timeline-2020-2026.html 301
 /community-updates/research/accessibility/ /research/ 301
 /community-updates/research/accessibility/tribunal-analysis/ /research/ 301
-/community-updates/research/access-to-justice/ /research/ 301
-/research/legislation/advocacy/ /legislation/ 301
-/research/legislation/advocacy/comparison/ /legislation/ 301
-/research/employer-retaliation/ /research/ 301
-/research/employer-retaliation/claim-suppression/ /research/ 301
-/research/employer-retaliation/claim-suppression/workers-rights/ /research/ 301
-/research/community/transparency/ /research/ 301
-/research/advocacy/ /research/ 301
-/investigations/wsib/data-analysis/ /research/ 301
-/wsib/research/transparency/ /research/ 301
-/news/events/ /blog/ 301
-/news/advocacy/ /blog/ 301
-/platform-comparison/ /blog/ 301
-/platform-comparison/features/ /blog/ 301
-/founder-story/ /about/ 301
-/founder-story/development/ /about/ 301
-/founder-story/development/journey/ /about/ 301
-/feature-spotlight/ /blog/ 301
 /feature-spotlight/accessibility/ /blog/ 301
 /feature-spotlight/accessibility/energy-management/ /blog/ 301
-/feature-deep-dive/ /blog/ 301
 /feature-deep-dive/accessibility/ /blog/ 301
-/feature-deep-dive/accessibility/chronic-pain/ /blog/ 301
-/features/announcements/ /blog/ 301
-/features/accessibility/ /accessibility/ 301
-/features/accessibility/advocacy/ /accessibility/ 301
 /accessibility/innovation/ /accessibility/ 301
 /accessibility/innovation/website-features/ /accessibility/ 301
-/community/news/ /community/ 301
-/human%20rights/research/access%20to%20justice/ /human rights/research/access to justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/ 301
-/human%20rights/ /research/ 301
 /docs/ / 301
 /docs/campaigns/ / 301
 /docs/agents/ / 301
-/docs/ONWSIB-DEEP-DIVE-[CLAIM_REF]/ /research/ 301
 /docs/partnerships/ /contact/ 301
 /accessibility-walkthrough/ /accessibility-settings/ 301
 /fr/accessibility-walkthrough/ /accessibility-settings/ 301
-/assets/ / 301
-/assets/downloads/ / 301
+/templates/concussion-appeal/ /guides/wsiat-complete-guide/ 301
+/2026/03/31/3mpwrapp-safe-from-axios-supply-chain-attack/ /2026/03/31/axios-supply-chain-attack-3mpwrapp-safe/ 301
+/privacy-policy/ /privacy-policy.html 301
+/delete-account/ /delete-account.html 301
+/fr/roadmap/ /fr/roadmap.html 301

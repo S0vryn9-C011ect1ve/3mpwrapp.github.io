@@ -4,7 +4,10 @@
 # Auto-reads CF token from secret file. No manual token handling needed.
 set -euo pipefail
 
-SITE_DIR="C:/Users/HP/3mpwrapp-site-tmp"
+# Build from the active working repo, not a scratch clone that no longer exists.
+# Was: C:/Users/HP/3mpwrapp-site-tmp  (absent -> script aborted, or with an old
+# checkout would have deployed stale content).
+SITE_DIR="C:/Users/HP/marketing-site"
 SECRET="C:/Users/HP/AppData/Local/hermes/secrets/cf_api_token.txt"
 ACCT="999c912eef0affd7b78a7781dc98e3d0"
 PROJECT="3mpwrapp"
