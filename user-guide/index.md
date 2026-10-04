@@ -44,6 +44,8 @@ This guide explains how to use every feature in 3MPWRAPP. Start with "Getting St
 
 ---
 
+- **[Interactive Demos](/features/demos/)** — try the Evidence Locker, Letter Wizard and Wellness Check-In without installing anything
+
 ## How 3MPWRAPP Creates Collective Power
 
 ### The 3 Flywheels of Change

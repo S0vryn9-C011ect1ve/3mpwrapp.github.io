@@ -109,6 +109,7 @@ If you want to know **how the app works** rather than what you're owed by a prog
 
 - **[Complete User Guide](/user-guide/)** — step-by-step through every feature
 - **[Beta Testers Guide](/beta-guide/)** — how to test and report what you find
+- **[Interactive Demos](/features/demos/)** — try the Evidence Locker, Letter Wizard and Wellness Check-In
 - **[App Tour](/app-tour/)** · **[App Waitlist](/app-waitlist/)**
 
 ---
