@@ -50,7 +50,20 @@ Post layout with enhanced SEO structured data (BlogPosting schema)
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
+    {%- comment -%}
+      Emit the post title as the page <h1> ONLY when the post body does not
+      already carry one. 376 post-layout sources open with a markdown `# `
+      heading; previously the layout added a second, producing a duplicate
+      h1 on 475 built pages. 92 sources have no markdown heading, so a plain
+      removal would have left those with NO h1 at all — hence the conditional
+      rather than a deletion. JSON-LD in structured-data.html still supplies
+      `headline` for schema.org, so the microdata on this h1 is redundant.
+    {%- endcomment -%}
+    {%- assign body_has_h1 = false -%}
+    {%- if content contains '<h1' -%}{%- assign body_has_h1 = true -%}{%- endif -%}
+    {%- unless body_has_h1 -%}
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    {%- endunless -%}
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}

@@ -5,7 +5,8 @@ date: 2026-03-16 00:00:00 +0000
 tags: [features, spotlight, phase-2:-personalization]
 categories: [features]
 excerpt: Your personal guide that recommends the right tools at the right time based on your specific needs
---- # Feature Spotlight: Disability Wizard **Category:** Phase 2: Personalization Your personal guide that recommends the right tools at the right time based on your specific needs * * * ## What Is Disability Wizard? Disability Wizard is designed to your personal guide that recommends the right tools at the right time based on your specific needs. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Smart recommendations that learn what works for you**
+---
+ Feature Spotlight: Disability Wizard **Category:** Phase 2: Personalization Your personal guide that recommends the right tools at the right time based on your specific needs * * * ## What Is Disability Wizard? Disability Wizard is designed to your personal guide that recommends the right tools at the right time based on your specific needs. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Smart recommendations that learn what works for you**
 - **Daily variety with fresh feature suggestions**
 - **Energy-aware matching of activities to your capacity**
 - **Clear explanations for why each tool is recommended**

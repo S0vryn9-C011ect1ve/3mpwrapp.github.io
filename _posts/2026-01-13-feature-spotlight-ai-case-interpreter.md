@@ -5,7 +5,8 @@ date: 2026-01-13 09:00:00 +0000
 tags: [features, spotlight, advocacy-tools]
 categories: [features]
 excerpt: Upload legal documents and get plain-language summaries and next-step guidance
---- # Feature Spotlight: AI Case Interpreter **Category:** Advocacy Tools Upload legal documents and get plain-language summaries and next-step guidance * * * ## What Is AI Case Interpreter? AI Case Interpreter is designed to upload legal documents and get plain-language summaries and next-step guidance. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Upload benefits decisions, court documents, letters**
+---
+ Feature Spotlight: AI Case Interpreter **Category:** Advocacy Tools Upload legal documents and get plain-language summaries and next-step guidance * * * ## What Is AI Case Interpreter? AI Case Interpreter is designed to upload legal documents and get plain-language summaries and next-step guidance. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Upload benefits decisions, court documents, letters**
 - **AI analyzes and summarizes in plain language**
 - **Identifies key dates, deadlines, and action items**
 - **Suggests next steps and resources**

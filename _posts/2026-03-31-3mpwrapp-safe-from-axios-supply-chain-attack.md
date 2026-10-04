@@ -52,13 +52,14 @@ On March 27-31, 2026, the popular npm package **axios** was compromised in a sup
 
 We immediately ran comprehensive security checks:
 
-powershell
+```powershell
 # Verification Results (March 31, 2026)
  axios 1.13.6 (safe version from February 27, 2026)
  plain-crypto-js: NOT INSTALLED
  crypto-js 4.2.0 (legitimate package, not the typosquat)
  No compromised versions in dependency tree
 ï¿½ npm install operations PAUSED until all-clear
+```
 
 ### Why We're Safe
 
@@ -71,14 +72,17 @@ powershell
 
 We created a safe verification tool that checks packages WITHOUT running npm install:
 
-powershell
+```powershell
 # Run anytime to verify safety
 powershell -File scripts/safe-package-verify.ps1
+```
 
+```text
 # Output:
 # axios@1.13.6 (safe version)
 # Typosquat not present
 # crypto-js@4.2.0 (legitimate package)
+```
 
 * * *
 
@@ -140,17 +144,22 @@ powershell -File scripts/safe-package-verify.ps1
 
 Check axios status before any npm operations:
 
-bash
+```bash
 # Check current latest version
 npm view axios@latest version
 # Safe when: != 1.14.0, != 1.14.1, != 0.30.4
+```
 
+```text
 # Check maintainers
 npm view axios maintainers
 # Should not include compromised account
+```
 
+```text
 # Check npm status
 curl https://status.npmjs.org/
+```
 
 ### Timeline Estimate
 

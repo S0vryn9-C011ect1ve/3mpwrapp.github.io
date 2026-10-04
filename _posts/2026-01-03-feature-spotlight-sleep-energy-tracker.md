@@ -5,7 +5,8 @@ date: 2026-01-03 09:00:00 +0000
 tags: [features, spotlight, wellness-tools]
 categories: [features]
 excerpt: Track sleep quality and energy levels with smart 24-hour energy forecasting
---- # Feature Spotlight: Sleep & Energy Tracker **Category:** Wellness Tools Track sleep quality and energy levels with smart 24-hour energy forecasting * * * ## What Is Sleep & Energy Tracker? Sleep & Energy Tracker is designed to track sleep quality and energy levels with smart 24-hour energy forecasting. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Daily sleep quality and energy level logging**
+---
+ Feature Spotlight: Sleep & Energy Tracker **Category:** Wellness Tools Track sleep quality and energy levels with smart 24-hour energy forecasting * * * ## What Is Sleep & Energy Tracker? Sleep & Energy Tracker is designed to track sleep quality and energy levels with smart 24-hour energy forecasting. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Daily sleep quality and energy level logging**
 - **Smart 24-hour energy forecasting using ML**
 - **Weekly wellness reports with personalized insights**
 - **Personalized recommendations based on patterns**

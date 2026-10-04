@@ -5,7 +5,8 @@ date: 2026-01-17 09:00:00 +0000
 tags: [features, spotlight, community-tools]
 categories: [features]
 excerpt: Moderated forums for questions, advice, and shared experiences
---- # Feature Spotlight: Discussion Forums **Category:** Community Tools Moderated forums for questions, advice, and shared experiences * * * ## What Is Discussion Forums? Discussion Forums is designed to moderated forums for questions, advice, and shared experiences. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Topics: Workplace, Benefits, Health, Daily Life, Legal**
+---
+ Feature Spotlight: Discussion Forums **Category:** Community Tools Moderated forums for questions, advice, and shared experiences * * * ## What Is Discussion Forums? Discussion Forums is designed to moderated forums for questions, advice, and shared experiences. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Topics: Workplace, Benefits, Health, Daily Life, Legal**
 - **Moderated for safety and respectfulness**
 - **Anonymous posting option available**
 - **Search past discussions**

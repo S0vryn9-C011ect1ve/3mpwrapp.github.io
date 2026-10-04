@@ -5,7 +5,8 @@ date: 2026-04-29 00:00:00 +0000
 tags: [features, spotlight, wellness-tools]
 categories: [features]
 excerpt: Earn points for small wins and track therapy goals with gamification
---- # Feature Spotlight: Resilience Points (Gamified Wellness) **Category:** Wellness Tools Earn points for small wins and track therapy goals with gamification --- ## What Is Resilience Points (Gamified Wellness)? Resilience Points (Gamified Wellness) is designed to earn points for small wins and track therapy goals with gamification. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. --- ## Key Highlights - **Earn points for self-care and progress**
+---
+ Feature Spotlight: Resilience Points (Gamified Wellness) **Category:** Wellness Tools Earn points for small wins and track therapy goals with gamification --- ## What Is Resilience Points (Gamified Wellness)? Resilience Points (Gamified Wellness) is designed to earn points for small wins and track therapy goals with gamification. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. --- ## Key Highlights - **Earn points for self-care and progress**
 - **Track therapy goals and commitments**
 - **Celebrate small wins with achievement badges**
 - **Weekly summaries of your accomplishments**

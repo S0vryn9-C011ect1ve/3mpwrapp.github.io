@@ -5,7 +5,8 @@ date: 2026-01-02 09:00:00 +0000
 tags: [features, spotlight, wellness-tools]
 categories: [features]
 excerpt: Log physical symptoms and pain levels to identify patterns and advocate for care
---- # Feature Spotlight: Symptom & Pain Tracker **Category:** Wellness Tools Log physical symptoms and pain levels to identify patterns and advocate for care * * * ## What Is Symptom & Pain Tracker? Symptom & Pain Tracker is designed to log physical symptoms and pain levels to identify patterns and advocate for care. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Log physical symptoms with pain scale (0-10)**
+---
+ Feature Spotlight: Symptom & Pain Tracker **Category:** Wellness Tools Log physical symptoms and pain levels to identify patterns and advocate for care * * * ## What Is Symptom & Pain Tracker? Symptom & Pain Tracker is designed to log physical symptoms and pain levels to identify patterns and advocate for care. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Log physical symptoms with pain scale (0-10)**
 - **Track functional impact on daily activities**
 - **Tag entries with triggers, medications, activities**
 - **Export advocacy-oriented reports for doctors**

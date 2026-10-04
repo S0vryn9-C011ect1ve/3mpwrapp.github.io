@@ -5,7 +5,8 @@ date: 2026-01-04 09:00:00 +0000
 tags: [features, spotlight, wellness-tools]
 categories: [features]
 excerpt: Accessible meditation sessions adjusted for energy levels and physical limitations
---- # Feature Spotlight: Adaptive Meditation **Category:** Wellness Tools Accessible meditation sessions adjusted for energy levels and physical limitations * * * ## What Is Adaptive Meditation? Adaptive Meditation is designed to accessible meditation sessions adjusted for energy levels and physical limitations. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Short sessions (2-20 minutes) for low energy**
+---
+ Feature Spotlight: Adaptive Meditation **Category:** Wellness Tools Accessible meditation sessions adjusted for energy levels and physical limitations * * * ## What Is Adaptive Meditation? Adaptive Meditation is designed to accessible meditation sessions adjusted for energy levels and physical limitations. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Short sessions (2-20 minutes) for low energy**
 - **Adjustable for current energy levels**
 - **Chair-friendly options for mobility limitations**
 - **Guided breathing exercises with visual cues**

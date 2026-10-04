@@ -28,7 +28,7 @@ Restez à l'écoute pour des mises à jour, des histoires et des nouvelles.
   <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
   <p><small>{{ post.date | date: "%-d %B %Y" }}</small></p>
   {% if post.excerpt %}
-  <p>{{ post.excerpt }}</p>
+  <p>{{ post.excerpt | markdownify | strip_html | normalize_whitespace | truncate: 240 }}</p>
   {% endif %}
 </article>
 <hr>
@@ -49,7 +49,7 @@ Restez à l'écoute pour des mises à jour, des histoires et des nouvelles.
     <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
     <p><small>{{ post.date | date: "%-d %B %Y" }}</small></p>
     {% if post.excerpt %}
-    <p>{{ post.excerpt }}</p>
+    <p>{{ post.excerpt | markdownify | strip_html | normalize_whitespace | truncate: 240 }}</p>
     {% endif %}
   </article>
   <hr>

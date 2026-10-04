@@ -5,7 +5,8 @@ date: 2026-03-20 00:00:00 +0000
 tags: [features, spotlight, core-feature]
 categories: [features]
 excerpt: Securely store important documents with AES-256 encryption and organized categories
---- # Feature Spotlight: Evidence Locker **Category:** Core Feature Securely store important documents with AES-256 encryption and organized categories * * * ## What Is Evidence Locker? Evidence Locker is designed to securely store important documents with aes-256 encryption and organized categories. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Enterprise-grade AES-256 encryption for all documents**
+---
+ Feature Spotlight: Evidence Locker **Category:** Core Feature Securely store important documents with AES-256 encryption and organized categories * * * ## What Is Evidence Locker? Evidence Locker is designed to securely store important documents with aes-256 encryption and organized categories. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Enterprise-grade AES-256 encryption for all documents**
 - **Organized categories: Medical, Legal, Employment, Benefits, Personal**
 - **Photo scanning with automatic date stamping**
 - **Document tagging and search functionality**

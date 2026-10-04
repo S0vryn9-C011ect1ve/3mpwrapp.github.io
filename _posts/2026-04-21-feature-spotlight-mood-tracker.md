@@ -5,7 +5,8 @@ date: 2026-04-21 00:00:00 +0000
 tags: [features, spotlight, wellness-tools]
 categories: [features]
 excerpt: Log your daily mood and track emotional patterns over time - completely free
---- # Feature Spotlight: Mood Tracker **Category:** Wellness Tools Log your daily mood and track emotional patterns over time - completely free --- ## What Is Mood Tracker? Mood Tracker is designed to log your daily mood and track emotional patterns over time - completely free. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. --- ## Key Highlights - **Log daily mood using emoji-based interface**
+---
+ Feature Spotlight: Mood Tracker **Category:** Wellness Tools Log your daily mood and track emotional patterns over time - completely free --- ## What Is Mood Tracker? Mood Tracker is designed to log your daily mood and track emotional patterns over time - completely free. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. --- ## Key Highlights - **Log daily mood using emoji-based interface**
 - **Track patterns over weeks and months**
 - **Export reports for therapist or doctor**
 - **Set mood check-in reminders**

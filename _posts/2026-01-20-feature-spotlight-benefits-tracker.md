@@ -5,7 +5,8 @@ date: 2026-01-20 09:00:00 +0000
 tags: [features, spotlight, resources-tools]
 categories: [features]
 excerpt: Track benefit applications, payments, deadlines, and communications - always free
---- # Feature Spotlight: Benefits Tracker **Category:** Resources Tools Track benefit applications, payments, deadlines, and communications - always free * * * ## What Is Benefits Tracker? Benefits Tracker is designed to track benefit applications, payments, deadlines, and communications - always free. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Log all benefit applications and statuses**
+---
+ Feature Spotlight: Benefits Tracker **Category:** Resources Tools Track benefit applications, payments, deadlines, and communications - always free * * * ## What Is Benefits Tracker? Benefits Tracker is designed to track benefit applications, payments, deadlines, and communications - always free. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Log all benefit applications and statuses**
 - **Track payment amounts and dates**
 - **Store correspondence and decisions**
 - **Deadline reminders for recertification**

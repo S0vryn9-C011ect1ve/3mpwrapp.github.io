@@ -5,7 +5,8 @@ date: 2026-04-17 00:00:00 +0000
 tags: [features, spotlight, wellness-tools]
 categories: [features]
 excerpt: Track your daily "spoons" (energy units) and plan activities around available capacity
---- # Feature Spotlight: Spoon Theory & Energy Management **Category:** Wellness Tools Track your daily "spoons" (energy units) and plan activities around available capacity --- ## What Is Spoon Theory & Energy Management? Spoon Theory & Energy Management is designed to track your daily "spoons" (energy units) and plan activities around available capacity. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. --- ## Key Highlights - **Visual spoon tracker with customizable daily capacity**
+---
+ Feature Spotlight: Spoon Theory & Energy Management **Category:** Wellness Tools Track your daily "spoons" (energy units) and plan activities around available capacity --- ## What Is Spoon Theory & Energy Management? Spoon Theory & Energy Management is designed to track your daily "spoons" (energy units) and plan activities around available capacity. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. --- ## Key Highlights - **Visual spoon tracker with customizable daily capacity**
 - **Activity cost estimates help plan your day**
 - **Energy history shows patterns over time**
 - **Smart suggestions for low-energy days**

@@ -5,7 +5,8 @@ date: 2026-04-19 00:00:00 +0000
 tags: [features, spotlight, legal-tools]
 categories: [features]
 excerpt: Generate WCAG 2.2 AA+ compliant documents, letters, and forms with proper structure
---- # Feature Spotlight: Accessible Document Generation **Category:** Legal Tools Generate WCAG 2.2 AA+ compliant documents, letters, and forms with proper structure --- ## What Is Accessible Document Generation? Accessible Document Generation is designed to generate wcag 2.2 aa+ compliant documents, letters, and forms with proper structure. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. --- ## Key Highlights - **All generated documents meet WCAG 2.2 AA+ standards**
+---
+ Feature Spotlight: Accessible Document Generation **Category:** Legal Tools Generate WCAG 2.2 AA+ compliant documents, letters, and forms with proper structure --- ## What Is Accessible Document Generation? Accessible Document Generation is designed to generate wcag 2.2 aa+ compliant documents, letters, and forms with proper structure. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. --- ## Key Highlights - **All generated documents meet WCAG 2.2 AA+ standards**
 - **Proper heading structure for screen readers**
 - **High contrast text and clear fonts**
 - **Accessible PDFs with tags and bookmarks**

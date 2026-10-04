@@ -5,7 +5,8 @@ date: 2026-01-10 09:00:00 +0000
 tags: [features, spotlight, wellness-tools]
 categories: [features]
 excerpt: Visual calendar for tracking mood, achievements, and personal reflections
---- # Feature Spotlight: Reflections Calendar **Category:** Wellness Tools Visual calendar for tracking mood, achievements, and personal reflections * * * ## What Is Reflections Calendar? Reflections Calendar is designed to visual calendar for tracking mood, achievements, and personal reflections. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Visual calendar with color-coded moods**
+---
+ Feature Spotlight: Reflections Calendar **Category:** Wellness Tools Visual calendar for tracking mood, achievements, and personal reflections * * * ## What Is Reflections Calendar? Reflections Calendar is designed to visual calendar for tracking mood, achievements, and personal reflections. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Visual calendar with color-coded moods**
 - **Daily reflection prompts and notes**
 - **See patterns across weeks and months**
 - **Track achievements and difficult days**

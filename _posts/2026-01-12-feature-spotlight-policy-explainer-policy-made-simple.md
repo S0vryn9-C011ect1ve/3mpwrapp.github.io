@@ -5,7 +5,8 @@ date: 2026-01-12 09:00:00 +0000
 tags: [features, spotlight, advocacy-tools]
 categories: [features]
 excerpt: Translate complex policies, laws, and decisions into plain language
---- # Feature Spotlight: Policy Explainer (Policy Made Simple) **Category:** Advocacy Tools Translate complex policies, laws, and decisions into plain language * * * ## What Is Policy Explainer (Policy Made Simple)? Policy Explainer (Policy Made Simple) is designed to translate complex policies, laws, and decisions into plain language. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **AI translates legal jargon to plain language**
+---
+ Feature Spotlight: Policy Explainer (Policy Made Simple) **Category:** Advocacy Tools Translate complex policies, laws, and decisions into plain language * * * ## What Is Policy Explainer (Policy Made Simple)? Policy Explainer (Policy Made Simple) is designed to translate complex policies, laws, and decisions into plain language. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **AI translates legal jargon to plain language**
 - **Explains your rights in simple terms**
 - **Covers employment law, benefits, human rights**
 - **Examples and scenarios for clarity**

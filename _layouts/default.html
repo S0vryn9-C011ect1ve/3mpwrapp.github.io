@@ -308,6 +308,18 @@
   </nav>
 
   <main id="main-content" tabindex="-1">
+    {%- comment -%}
+      Pages using layout:default that open without a markdown `# ` heading had
+      NO h1 at all (65 built pages). Same conditional used in post.html: emit the
+      page title only when the rendered content does not already carry one, so
+      pages that DO have a markdown heading are not given a second h1.
+      JSON-LD in structured-data.html still supplies the schema.org headline.
+    {%- endcomment -%}
+    {%- assign dm_has_h1 = false -%}
+    {%- if content contains '<h1' -%}{%- assign dm_has_h1 = true -%}{%- endif -%}
+    {%- unless dm_has_h1 -%}
+    <h1 class="page-title">{{ page.title | escape }}</h1>
+    {%- endunless -%}
     {{ content }}
   </main>
 

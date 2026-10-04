@@ -5,7 +5,8 @@ date: 2026-04-05 00:00:00 +0000
 tags: [features, spotlight, core-feature]
 categories: [features]
 excerpt: Searchable directory of disability services, organizations, and support across Canada
---- # Feature Spotlight: Resource Directory **Category:** Core Feature Searchable directory of disability services, organizations, and support across Canada --- ## What Is Resource Directory? Resource Directory is designed to searchable directory of disability services, organizations, and support across canada. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. --- ## Key Highlights - **Comprehensive directory of Canadian disability resources**
+---
+ Feature Spotlight: Resource Directory **Category:** Core Feature Searchable directory of disability services, organizations, and support across Canada --- ## What Is Resource Directory? Resource Directory is designed to searchable directory of disability services, organizations, and support across canada. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. --- ## Key Highlights - **Comprehensive directory of Canadian disability resources**
 - **Search by location, service type, and specific needs**
 - **Legal aid services and advocacy organizations**
 - **Healthcare providers and accessible services**

@@ -5,7 +5,8 @@ date: 2026-01-06 09:00:00 +0000
 tags: [features, spotlight, wellness-tools]
 categories: [features]
 excerpt: Plan activities around your energy with spoon theory tracking and break reminders
---- # Feature Spotlight: Pacing Partner **Category:** Wellness Tools Plan activities around your energy with spoon theory tracking and break reminders * * * ## What Is Pacing Partner? Pacing Partner is designed to plan activities around your energy with spoon theory tracking and break reminders. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Activity planning with energy budgeting**
+---
+ Feature Spotlight: Pacing Partner **Category:** Wellness Tools Plan activities around your energy with spoon theory tracking and break reminders * * * ## What Is Pacing Partner? Pacing Partner is designed to plan activities around your energy with spoon theory tracking and break reminders. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Activity planning with energy budgeting**
 - **Spoon theory tracking (energy units)**
 - **Automatic break reminders during tasks**
 - **Daily pacing suggestions based on energy**

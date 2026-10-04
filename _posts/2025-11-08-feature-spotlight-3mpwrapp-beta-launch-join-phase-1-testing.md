@@ -5,7 +5,8 @@ date: 2025-11-08 09:00:00 +0000
 tags: [features, spotlight, beta-program]
 categories: [features]
 excerpt: 3mpwrApp is now live in Phase 1 closed beta testing - completely free forever for all users
---- # Feature Spotlight: 3mpwrApp Beta Launch: Join Phase 1 Testing **Category:** Beta Program 3mpwrApp is now live in Phase 1 closed beta testing - completely free forever for all users * * * ## What Is 3mpwrApp Beta Launch: Join Phase 1 Testing? 3mpwrApp Beta Launch: Join Phase 1 Testing is designed to 3mpwrapp is now live in phase 1 closed beta testing - completely free forever for all users. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **App is now in production with Phase 1 closed beta**
+---
+ Feature Spotlight: 3mpwrApp Beta Launch: Join Phase 1 Testing **Category:** Beta Program 3mpwrApp is now live in Phase 1 closed beta testing - completely free forever for all users * * * ## What Is 3mpwrApp Beta Launch: Join Phase 1 Testing? 3mpwrApp Beta Launch: Join Phase 1 Testing is designed to 3mpwrapp is now live in phase 1 closed beta testing - completely free forever for all users. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **App is now in production with Phase 1 closed beta**
 - **Completely FREE - now and forever, no premium tiers or paywalls**
 - **Beta testers get early access to all core features**
 - **Help shape the app through testing and feedback**

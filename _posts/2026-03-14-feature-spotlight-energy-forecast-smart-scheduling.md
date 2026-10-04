@@ -5,7 +5,8 @@ date: 2026-03-14 00:00:00 +0000
 tags: [features, spotlight, phase-6:-ml-powered]
 categories: [features]
 excerpt: 24-hour energy prediction that learns your patterns and schedules notifications for optimal times
---- # Feature Spotlight: Energy Forecast & Smart Scheduling **Category:** Phase 6: ML-Powered 24-hour energy prediction that learns your patterns and schedules notifications for optimal times * * * ## What Is Energy Forecast & Smart Scheduling? Energy Forecast & Smart Scheduling is designed to 24-hour energy prediction that learns your patterns and schedules notifications for optimal times. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **24-hour energy prediction using your actual activity patterns**
+---
+ Feature Spotlight: Energy Forecast & Smart Scheduling **Category:** Phase 6: ML-Powered 24-hour energy prediction that learns your patterns and schedules notifications for optimal times * * * ## What Is Energy Forecast & Smart Scheduling? Energy Forecast & Smart Scheduling is designed to 24-hour energy prediction that learns your patterns and schedules notifications for optimal times. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **24-hour energy prediction using your actual activity patterns**
 - **Personalized forecasting with advanced ML algorithms**
 - **Smart notifications scheduled when you have energy**
 - **Weekly wellness reports tracking energy trends**

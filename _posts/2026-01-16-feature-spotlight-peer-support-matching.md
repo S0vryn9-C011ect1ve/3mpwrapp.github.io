@@ -5,7 +5,8 @@ date: 2026-01-16 09:00:00 +0000
 tags: [features, spotlight, community-tools]
 categories: [features]
 excerpt: Connect with others who share similar disabilities, experiences, and challenges
---- # Feature Spotlight: Peer Support Matching **Category:** Community Tools Connect with others who share similar disabilities, experiences, and challenges * * * ## What Is Peer Support Matching? Peer Support Matching is designed to connect with others who share similar disabilities, experiences, and challenges. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Match algorithm considers disability type, experiences, location**
+---
+ Feature Spotlight: Peer Support Matching **Category:** Community Tools Connect with others who share similar disabilities, experiences, and challenges * * * ## What Is Peer Support Matching? Peer Support Matching is designed to connect with others who share similar disabilities, experiences, and challenges. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Match algorithm considers disability type, experiences, location**
 - **94% accuracy matching based on multiple factors**
 - **Safety verification and privacy controls**
 - **Optional - never required to match**

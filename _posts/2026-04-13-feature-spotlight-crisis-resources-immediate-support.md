@@ -5,7 +5,8 @@ date: 2026-04-13 00:00:00 +0000
 tags: [features, spotlight, wellness-&-safety]
 categories: [features]
 excerpt: Quick access to crisis lines, emergency contacts, and immediate support resources
---- # Feature Spotlight: Crisis Resources & Immediate Support **Category:** Wellness & Safety Quick access to crisis lines, emergency contacts, and immediate support resources --- ## What Is Crisis Resources & Immediate Support? Crisis Resources & Immediate Support is designed to quick access to crisis lines, emergency contacts, and immediate support resources. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. --- ## Key Highlights - **One-tap access to crisis and suicide prevention lines**
+---
+ Feature Spotlight: Crisis Resources & Immediate Support **Category:** Wellness & Safety Quick access to crisis lines, emergency contacts, and immediate support resources --- ## What Is Crisis Resources & Immediate Support? Crisis Resources & Immediate Support is designed to quick access to crisis lines, emergency contacts, and immediate support resources. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. --- ## Key Highlights - **One-tap access to crisis and suicide prevention lines**
 - **Provincial and national crisis services listed**
 - **Emergency contacts manager for quick dialing**
 - **Safety planning tools for mental health crises**

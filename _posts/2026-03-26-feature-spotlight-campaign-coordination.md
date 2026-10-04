@@ -5,7 +5,8 @@ date: 2026-03-26 00:00:00 +0000
 tags: [features, spotlight, community-tools, real-world-impact]
 categories: [features]
 excerpt: Coordinate advocacy actions in one place so groups can move from scattered effort to structured impact.
---- # Feature Spotlight: Campaign Coordination **Category:** Community Tools When organizing work is fragmented across chat threads, files, and calendars, urgent advocacy deadlines are easy to miss. Campaign Coordination brings tasks, documents, updates, and progress into one shared workflow. * * * ## The Problem Injured workers, disabled people, families, and advocates are often trying to push urgent issues forward with limited time and energy. In practice, campaign work is usually spread across: - separate message threads
+---
+ Feature Spotlight: Campaign Coordination **Category:** Community Tools When organizing work is fragmented across chat threads, files, and calendars, urgent advocacy deadlines are easy to miss. Campaign Coordination brings tasks, documents, updates, and progress into one shared workflow. * * * ## The Problem Injured workers, disabled people, families, and advocates are often trying to push urgent issues forward with limited time and energy. In practice, campaign work is usually spread across: - separate message threads
 - disconnected documents
 - unclear ownership of tasks
 - no single timeline for deadlines That fragmentation increases stress, slows response time, and can cause groups to lose momentum right when coordinated action is most needed. * * * ## The Feature Campaign Coordination is a shared workspace for organizing advocacy actions from planning through follow-through. What it does: - creates a campaign room with clear goals

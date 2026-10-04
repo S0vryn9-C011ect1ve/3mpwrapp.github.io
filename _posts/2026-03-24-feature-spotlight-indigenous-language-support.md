@@ -5,7 +5,8 @@ date: 2026-03-24 00:00:00 +0000
 tags: [features, spotlight, phase-2:-cultural]
 categories: [features]
 excerpt: Support for 6+ Indigenous languages with cultural protocols and sacred knowledge protection
---- # Feature Spotlight: Indigenous Language Support **Category:** Phase 2: Cultural Support for 6+ Indigenous languages with cultural protocols and sacred knowledge protection * * * ## What Is Indigenous Language Support? Indigenous Language Support is designed to support for 6+ indigenous languages with cultural protocols and sacred knowledge protection. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **6+ Indigenous languages supported**
+---
+ Feature Spotlight: Indigenous Language Support **Category:** Phase 2: Cultural Support for 6+ Indigenous languages with cultural protocols and sacred knowledge protection * * * ## What Is Indigenous Language Support? Indigenous Language Support is designed to support for 6+ indigenous languages with cultural protocols and sacred knowledge protection. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **6+ Indigenous languages supported**
 - **Cultural protocols for handling sacred knowledge**
 - **Community-reviewed translations**
 - **Separate storage for culturally sensitive information**

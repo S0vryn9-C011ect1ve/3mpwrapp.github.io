@@ -47,9 +47,10 @@ On March 27-31, 2026, the popular npm package **axios** was compromised through 
 3. Official all-clear from axios project
 
 **Monitor:**
-bash
+```bash
 npm view axios@latest version
 # Safe when: != 1.14.0, != 1.14.1, != 0.30.4
+```
 
 ## For Users: NO ACTION REQUIRED
 

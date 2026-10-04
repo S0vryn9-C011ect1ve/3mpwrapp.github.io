@@ -5,7 +5,8 @@ date: 2026-04-07 00:00:00 +0000
 tags: [features, spotlight, technical-foundation]
 categories: [features]
 excerpt: Enterprise-grade security with AES-256 encryption, zero-knowledge architecture, and offline-first design
---- # Feature Spotlight: Privacy & Security Architecture **Category:** Technical Foundation Enterprise-grade security with AES-256 encryption, zero-knowledge architecture, and offline-first design --- ## What Is Privacy & Security Architecture? Privacy & Security Architecture is designed to enterprise-grade security with aes-256 encryption, zero-knowledge architecture, and offline-first design. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. --- ## Key Highlights - **AES-256 encryption for all stored data**
+---
+ Feature Spotlight: Privacy & Security Architecture **Category:** Technical Foundation Enterprise-grade security with AES-256 encryption, zero-knowledge architecture, and offline-first design --- ## What Is Privacy & Security Architecture? Privacy & Security Architecture is designed to enterprise-grade security with aes-256 encryption, zero-knowledge architecture, and offline-first design. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. --- ## Key Highlights - **AES-256 encryption for all stored data**
 - **Zero-knowledge architecture: we cannot read your data**
 - **Offline-first design: works without internet**
 - **No tracking, no analytics, no data collection**

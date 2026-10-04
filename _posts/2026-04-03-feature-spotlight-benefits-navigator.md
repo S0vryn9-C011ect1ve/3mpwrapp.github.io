@@ -5,7 +5,8 @@ date: 2026-04-03 00:00:00 +0000
 tags: [features, spotlight, core-feature]
 categories: [features]
 excerpt: Find and apply for disability benefits across all Canadian provinces and territories - always free
---- # Feature Spotlight: Benefits Navigator **Category:** Core Feature Find and apply for disability benefits across all Canadian provinces and territories - always free --- ## What Is Benefits Navigator? Benefits Navigator is designed to find and apply for disability benefits across all canadian provinces and territories - always free. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. --- ## Key Highlights - **Complete guide to all Canadian disability benefits programs**
+---
+ Feature Spotlight: Benefits Navigator **Category:** Core Feature Find and apply for disability benefits across all Canadian provinces and territories - always free --- ## What Is Benefits Navigator? Benefits Navigator is designed to find and apply for disability benefits across all canadian provinces and territories - always free. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. --- ## Key Highlights - **Complete guide to all Canadian disability benefits programs**
 - **Provincial programs: ODSP (ON), AISH (AB), PWD (BC), and more**
 - **Federal programs: CPP-D, Disability Tax Credit, Veterans benefits**
 - **Eligibility checker helps you find programs you qualify for**

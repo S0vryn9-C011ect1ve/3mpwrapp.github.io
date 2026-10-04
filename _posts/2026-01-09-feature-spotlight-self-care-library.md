@@ -5,7 +5,8 @@ date: 2026-01-09 09:00:00 +0000
 tags: [features, spotlight, wellness-tools]
 categories: [features]
 excerpt: Curated collection of self-care activities organized by energy level and time
---- # Feature Spotlight: Self-Care Library **Category:** Wellness Tools Curated collection of self-care activities organized by energy level and time * * * ## What Is Self-Care Library? Self-Care Library is designed to curated collection of self-care activities organized by energy level and time. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Activities organized by energy level (low, medium, high)**
+---
+ Feature Spotlight: Self-Care Library **Category:** Wellness Tools Curated collection of self-care activities organized by energy level and time * * * ## What Is Self-Care Library? Self-Care Library is designed to curated collection of self-care activities organized by energy level and time. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Activities organized by energy level (low, medium, high)**
 - **Time estimates for each activity (5-60 minutes)**
 - **Categories: physical, emotional, social, creative, rest**
 - **Favorites and custom activities**

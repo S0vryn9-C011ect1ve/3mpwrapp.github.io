@@ -5,7 +5,8 @@ date: 2026-01-23 09:00:00 +0000
 tags: [features, spotlight, resources-tools]
 categories: [features]
 excerpt: Simplified guide to government services, programs, and benefits across all provinces
---- # Feature Spotlight: Government Navigator **Category:** Resources Tools Simplified guide to government services, programs, and benefits across all provinces * * * ## What Is Government Navigator? Government Navigator is designed to simplified guide to government services, programs, and benefits across all provinces. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Directory of federal and provincial programs**
+---
+ Feature Spotlight: Government Navigator **Category:** Resources Tools Simplified guide to government services, programs, and benefits across all provinces * * * ## What Is Government Navigator? Government Navigator is designed to simplified guide to government services, programs, and benefits across all provinces. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Directory of federal and provincial programs**
 - **Eligibility pre-screening tools**
 - **Application process guides**
 - **Contact information for all government offices**

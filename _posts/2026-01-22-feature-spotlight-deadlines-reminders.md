@@ -5,7 +5,8 @@ date: 2026-01-22 09:00:00 +0000
 tags: [features, spotlight, resources-tools]
 categories: [features]
 excerpt: Never miss critical legal, medical, or benefits deadlines with smart reminder system
---- # Feature Spotlight: Deadlines & Reminders **Category:** Resources Tools Never miss critical legal, medical, or benefits deadlines with smart reminder system * * * ## What Is Deadlines & Reminders? Deadlines & Reminders is designed to never miss critical legal, medical, or benefits deadlines with smart reminder system. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Track all important deadlines in one place**
+---
+ Feature Spotlight: Deadlines & Reminders **Category:** Resources Tools Never miss critical legal, medical, or benefits deadlines with smart reminder system * * * ## What Is Deadlines & Reminders? Deadlines & Reminders is designed to never miss critical legal, medical, or benefits deadlines with smart reminder system. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Track all important deadlines in one place**
 - **Multiple reminder notifications (1 week, 3 days, 1 day)**
 - **Categorize by type: legal, medical, benefits, personal**
 - **Snooze and reschedule options**

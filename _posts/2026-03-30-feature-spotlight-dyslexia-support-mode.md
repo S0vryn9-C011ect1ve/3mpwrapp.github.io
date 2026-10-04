@@ -5,7 +5,8 @@ date: 2026-03-30 00:00:00 +0000
 tags: [features, spotlight, accessibility]
 categories: [features]
 excerpt: Comprehensive dyslexia support with 5 specialized fonts, 8 color overlays, and spacing controls
---- # Feature Spotlight: Dyslexia Support Mode **Category:** Accessibility Comprehensive dyslexia support with 5 specialized fonts, 8 color overlays, and spacing controls * * * ## What Is Dyslexia Support Mode? Dyslexia Support Mode is designed to comprehensive dyslexia support with 5 specialized fonts, 8 color overlays, and spacing controls. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **5 dyslexia-friendly fonts (OpenDyslexic, Lexend, etc.)**
+---
+ Feature Spotlight: Dyslexia Support Mode **Category:** Accessibility Comprehensive dyslexia support with 5 specialized fonts, 8 color overlays, and spacing controls * * * ## What Is Dyslexia Support Mode? Dyslexia Support Mode is designed to comprehensive dyslexia support with 5 specialized fonts, 8 color overlays, and spacing controls. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **5 dyslexia-friendly fonts (OpenDyslexic, Lexend, etc.)**
 - **8 color overlay options to reduce visual stress**
 - **Adjustable letter spacing, line height, and word spacing**
 - **Line focus mode highlighting current line**

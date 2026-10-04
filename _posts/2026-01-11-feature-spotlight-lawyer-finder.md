@@ -5,7 +5,8 @@ date: 2026-01-11 09:00:00 +0000
 tags: [features, spotlight, advocacy-tools]
 categories: [features]
 excerpt: Find disability law specialists, legal aid services, and advocacy lawyers in your area
---- # Feature Spotlight: Lawyer Finder **Category:** Advocacy Tools Find disability law specialists, legal aid services, and advocacy lawyers in your area * * * ## What Is Lawyer Finder? Lawyer Finder is designed to find disability law specialists, legal aid services, and advocacy lawyers in your area. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Filter by disability law specialization**
+---
+ Feature Spotlight: Lawyer Finder **Category:** Advocacy Tools Find disability law specialists, legal aid services, and advocacy lawyers in your area * * * ## What Is Lawyer Finder? Lawyer Finder is designed to find disability law specialists, legal aid services, and advocacy lawyers in your area. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Filter by disability law specialization**
 - **Location-based search across all provinces**
 - **Legal aid and free/low-cost services highlighted**
 - **Ratings and reviews from community**

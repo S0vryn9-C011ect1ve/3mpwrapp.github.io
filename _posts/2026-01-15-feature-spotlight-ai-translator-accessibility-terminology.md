@@ -5,7 +5,8 @@ date: 2026-01-15 09:00:00 +0000
 tags: [features, spotlight, advocacy-tools]
 categories: [features]
 excerpt: Translate between medical, legal, and plain language for disability terms
---- # Feature Spotlight: AI Translator (Accessibility Terminology) **Category:** Advocacy Tools Translate between medical, legal, and plain language for disability terms * * * ## What Is AI Translator (Accessibility Terminology)? AI Translator (Accessibility Terminology) is designed to translate between medical, legal, and plain language for disability terms. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **100+ accessibility terminology translations**
+---
+ Feature Spotlight: AI Translator (Accessibility Terminology) **Category:** Advocacy Tools Translate between medical, legal, and plain language for disability terms * * * ## What Is AI Translator (Accessibility Terminology)? AI Translator (Accessibility Terminology) is designed to translate between medical, legal, and plain language for disability terms. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **100+ accessibility terminology translations**
 - **Medical to plain language conversion**
 - **Legal to plain language conversion**
 - **Plain language to professional terminology**

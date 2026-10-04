@@ -5,7 +5,8 @@ date: 2026-01-08 09:00:00 +0000
 tags: [features, spotlight, wellness-tools]
 categories: [features]
 excerpt: Compassionate tools and resources for processing loss and grief
---- # Feature Spotlight: Grief Support **Category:** Wellness Tools Compassionate tools and resources for processing loss and grief * * * ## What Is Grief Support? Grief Support is designed to compassionate tools and resources for processing loss and grief. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Psychoeducation about grief stages and process**
+---
+ Feature Spotlight: Grief Support **Category:** Wellness Tools Compassionate tools and resources for processing loss and grief * * * ## What Is Grief Support? Grief Support is designed to compassionate tools and resources for processing loss and grief. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Psychoeducation about grief stages and process**
 - **Journaling prompts for processing emotions**
 - **Memorial space for honoring loved ones**
 - **Connection to grief support groups**

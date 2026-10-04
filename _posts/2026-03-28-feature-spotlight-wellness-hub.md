@@ -5,7 +5,8 @@ date: 2026-03-28 00:00:00 +0000
 tags: [features, spotlight, core-feature]
 categories: [features]
 excerpt: Comprehensive wellness tracking with mood journal, symptom tracking, and self-care resources
---- # Feature Spotlight: Wellness Hub **Category:** Core Feature Comprehensive wellness tracking with mood journal, symptom tracking, and self-care resources * * * ## What Is Wellness Hub? Wellness Hub is designed to comprehensive wellness tracking with mood journal, symptom tracking, and self-care resources. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Daily mood and energy tracking with customizable scales**
+---
+ Feature Spotlight: Wellness Hub **Category:** Core Feature Comprehensive wellness tracking with mood journal, symptom tracking, and self-care resources * * * ## What Is Wellness Hub? Wellness Hub is designed to comprehensive wellness tracking with mood journal, symptom tracking, and self-care resources. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Daily mood and energy tracking with customizable scales**
 - **Symptom tracking with pattern recognition**
 - **Self-care library with 50+ activities**
 - **Medication tracking with reminders**

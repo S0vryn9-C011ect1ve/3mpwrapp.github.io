@@ -5,7 +5,8 @@ date: 2026-01-05 09:00:00 +0000
 tags: [features, spotlight, wellness-tools]
 categories: [features]
 excerpt: Get instant DBT skill suggestions based on your current emotion - evidence-based therapy tools
---- # Feature Spotlight: DBT Skill Matcher **Category:** Wellness Tools Get instant DBT skill suggestions based on your current emotion - evidence-based therapy tools * * * ## What Is DBT Skill Matcher? DBT Skill Matcher is designed to get instant dbt skill suggestions based on your current emotion - evidence-based therapy tools. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Select current emotion for instant skill suggestions**
+---
+ Feature Spotlight: DBT Skill Matcher **Category:** Wellness Tools Get instant DBT skill suggestions based on your current emotion - evidence-based therapy tools * * * ## What Is DBT Skill Matcher? DBT Skill Matcher is designed to get instant dbt skill suggestions based on your current emotion - evidence-based therapy tools. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Select current emotion for instant skill suggestions**
 - **Evidence-based DBT (Dialectical Behavior Therapy) techniques**
 - **Easy-to-follow instructions for each skill**
 - **Track which skills work best for you**

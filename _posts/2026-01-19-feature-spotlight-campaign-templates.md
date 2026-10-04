@@ -5,7 +5,8 @@ date: 2026-01-19 09:00:00 +0000
 tags: [features, spotlight, campaign-tools]
 categories: [features]
 excerpt: Pre-built templates for common advocacy campaigns and organizing efforts
---- # Feature Spotlight: Campaign Templates **Category:** Campaign Tools Pre-built templates for common advocacy campaigns and organizing efforts * * * ## What Is Campaign Templates? Campaign Templates is designed to pre-built templates for common advocacy campaigns and organizing efforts. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Templates for: Accessibility, Benefits, Employment, Healthcare**
+---
+ Feature Spotlight: Campaign Templates **Category:** Campaign Tools Pre-built templates for common advocacy campaigns and organizing efforts * * * ## What Is Campaign Templates? Campaign Templates is designed to pre-built templates for common advocacy campaigns and organizing efforts. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Templates for: Accessibility, Benefits, Employment, Healthcare**
 - **Pre-written tasks, timelines, and resource lists**
 - **Customizable to your specific situation**
 - **Proven strategies from successful campaigns**

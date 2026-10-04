@@ -5,7 +5,8 @@ date: 2026-01-14 09:00:00 +0000
 tags: [features, spotlight, advocacy-tools]
 categories: [features]
 excerpt: Track promises made by employers, government agencies, and service providers
---- # Feature Spotlight: Accountability Tracker **Category:** Advocacy Tools Track promises made by employers, government agencies, and service providers * * * ## What Is Accountability Tracker? Accountability Tracker is designed to track promises made by employers, government agencies, and service providers. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Log promises with dates and details**
+---
+ Feature Spotlight: Accountability Tracker **Category:** Advocacy Tools Track promises made by employers, government agencies, and service providers * * * ## What Is Accountability Tracker? Accountability Tracker is designed to track promises made by employers, government agencies, and service providers. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Log promises with dates and details**
 - **Set follow-up reminders automatically**
 - **Document broken promises with evidence**
 - **Track delays and non-compliance**

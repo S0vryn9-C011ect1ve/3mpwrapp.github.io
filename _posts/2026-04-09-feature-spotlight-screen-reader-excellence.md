@@ -5,7 +5,8 @@ date: 2026-04-09 00:00:00 +0000
 tags: [features, spotlight, accessibility]
 categories: [features]
 excerpt: Full screen reader support with ARIA labels, semantic HTML, and optimized navigation
---- # Feature Spotlight: Screen Reader Excellence **Category:** Accessibility Full screen reader support with ARIA labels, semantic HTML, and optimized navigation --- ## What Is Screen Reader Excellence? Screen Reader Excellence is designed to full screen reader support with aria labels, semantic html, and optimized navigation. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. --- ## Key Highlights - **Complete screen reader support (NVDA, JAWS, VoiceOver)**
+---
+ Feature Spotlight: Screen Reader Excellence **Category:** Accessibility Full screen reader support with ARIA labels, semantic HTML, and optimized navigation --- ## What Is Screen Reader Excellence? Screen Reader Excellence is designed to full screen reader support with aria labels, semantic html, and optimized navigation. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. --- ## Key Highlights - **Complete screen reader support (NVDA, JAWS, VoiceOver)**
 - **Semantic HTML for proper document structure**
 - **ARIA labels on all interactive elements**
 - **Keyboard navigation for every feature**

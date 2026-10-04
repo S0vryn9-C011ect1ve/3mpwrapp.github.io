@@ -1,0 +1,21 @@
+---
+layout: default
+---
+{%- comment -%}
+  Layout for `layout: page`, declared in _config.yml defaults for
+  `_knowledge_base` and `_templates` — but this file did not exist, so all 43
+  KB articles and appeal templates fell back to an unintended layout and
+  rendered the title TWICE (once from the layout, once from the markdown
+  `# ` heading). 32 KB articles + 11 templates affected.
+
+  Emits the title as <h1> ONLY when the page body does not already carry one —
+  the same conditional used in post.html and default.html. If this layout adds
+  an <h1>, the outer default.html sees `<h1` in its `content` and stays quiet,
+  so exactly one h1 renders either way.
+{%- endcomment -%}
+{%- assign page_has_h1 = false -%}
+{%- if content contains '<h1' -%}{%- assign page_has_h1 = true -%}{%- endif -%}
+{%- unless page_has_h1 -%}
+<h1 class="page-title">{{ page.title | escape }}</h1>
+{%- endunless -%}
+{{ content }}

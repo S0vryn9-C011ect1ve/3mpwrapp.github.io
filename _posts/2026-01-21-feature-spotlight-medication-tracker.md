@@ -5,7 +5,8 @@ date: 2026-01-21 09:00:00 +0000
 tags: [features, spotlight, resources-tools]
 categories: [features]
 excerpt: Track medications, dosages, refills, and side effects with reminder system
---- # Feature Spotlight: Medication Tracker **Category:** Resources Tools Track medications, dosages, refills, and side effects with reminder system * * * ## What Is Medication Tracker? Medication Tracker is designed to track medications, dosages, refills, and side effects with reminder system. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Log all medications with dosages and schedules**
+---
+ Feature Spotlight: Medication Tracker **Category:** Resources Tools Track medications, dosages, refills, and side effects with reminder system * * * ## What Is Medication Tracker? Medication Tracker is designed to track medications, dosages, refills, and side effects with reminder system. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Log all medications with dosages and schedules**
 - **Refill reminders based on supply**
 - **Track side effects and effectiveness**
 - **Export for doctor appointments**

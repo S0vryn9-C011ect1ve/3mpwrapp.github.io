@@ -5,7 +5,8 @@ date: 2026-01-18 09:00:00 +0000
 tags: [features, spotlight, community-tools]
 categories: [features]
 excerpt: Join accessible online gatherings for community connection and support
---- # Feature Spotlight: Virtual Meetups **Category:** Community Tools Join accessible online gatherings for community connection and support * * * ## What Is Virtual Meetups? Virtual Meetups is designed to join accessible online gatherings for community connection and support. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Regular scheduled meetups by topic and region**
+---
+ Feature Spotlight: Virtual Meetups **Category:** Community Tools Join accessible online gatherings for community connection and support * * * ## What Is Virtual Meetups? Virtual Meetups is designed to join accessible online gatherings for community connection and support. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. * * * ## Key Highlights - **Regular scheduled meetups by topic and region**
 - **Fully accessible with captions and accommodations**
 - **Drop-in or RSVP options available**
 - **Facilitated by trained community moderators**

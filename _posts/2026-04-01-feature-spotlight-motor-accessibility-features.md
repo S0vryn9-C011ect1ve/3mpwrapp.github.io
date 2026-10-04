@@ -5,7 +5,8 @@ date: 2026-04-01 00:00:00 +0000
 tags: [features, spotlight, accessibility]
 categories: [features]
 excerpt: Dwell-click, large touch targets, tremor compensation, and switch navigation support
---- # Feature Spotlight: Motor Accessibility Features **Category:** Accessibility Dwell-click, large touch targets, tremor compensation, and switch navigation support --- ## What Is Motor Accessibility Features? Motor Accessibility Features is designed to dwell-click, large touch targets, tremor compensation, and switch navigation support. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. --- ## Key Highlights - **Dwell-click: activate buttons by hovering**
+---
+ Feature Spotlight: Motor Accessibility Features **Category:** Accessibility Dwell-click, large touch targets, tremor compensation, and switch navigation support --- ## What Is Motor Accessibility Features? Motor Accessibility Features is designed to dwell-click, large touch targets, tremor compensation, and switch navigation support. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. --- ## Key Highlights - **Dwell-click: activate buttons by hovering**
 - **Adjustable dwell time (0.5-3.0 seconds)**
 - **Extra-large touch targets for easier tapping**
 - **Tremor compensation smoothing unintended movements**

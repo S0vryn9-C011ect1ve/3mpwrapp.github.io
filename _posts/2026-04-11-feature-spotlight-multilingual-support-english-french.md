@@ -5,7 +5,8 @@ date: 2026-04-11 00:00:00 +0000
 tags: [features, spotlight, accessibility]
 categories: [features]
 excerpt: Full bilingual support for English and French with professional translations
---- # Feature Spotlight: Multilingual Support (English & French) **Category:** Accessibility Full bilingual support for English and French with professional translations --- ## What Is Multilingual Support (English & French)? Multilingual Support (English & French) is designed to full bilingual support for english and french with professional translations. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. --- ## Key Highlights - **Complete interface translation in French and English**
+---
+ Feature Spotlight: Multilingual Support (English & French) **Category:** Accessibility Full bilingual support for English and French with professional translations --- ## What Is Multilingual Support (English & French)? Multilingual Support (English & French) is designed to full bilingual support for english and french with professional translations. This feature is part of 3mpwrApp's commitment to providing comprehensive tools for people with disabilities, injured workers, and their supporters across Canada. --- ## Key Highlights - **Complete interface translation in French and English**
 - **Professional translations reviewed by native speakers**
 - **All letter templates available in both languages**
 - **Quebec-specific legal terminology included**

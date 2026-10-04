@@ -176,6 +176,7 @@ exclude:
   - vendor
   - .bundle
   - research-old-backup.html
+  - data/analysis/debug-canlii.html
   # - assets/images/screenshots  (REENABLED 2026-10-01: App Tour/Demo images must deploy; was excluded → 404 on live site)
   - docs/setup
   - docs/development
