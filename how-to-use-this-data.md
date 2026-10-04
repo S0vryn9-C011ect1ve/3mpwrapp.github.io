@@ -210,8 +210,8 @@ We wrote detailed guides for common situations.
 ### Main Guides
 
 - **[WSIAT Complete Guide](/guides/wsiat-complete-guide)** - Everything about WSIAT appeals
-- **[Back Injury Guide](/guides/wsiat-back-injury-guide/)** - Special guide for #1 most common injury (15.3%)
-- **[Chronic Pain Guide](/guides/wsiat-chronic-pain-guide/)** - For "invisible" injuries (7.6% of appeals)
+- **Back Injury Guide** - Special guide for #1 most common injury (15.3%)
+- **Chronic Pain Guide** - For "invisible" injuries (7.6% of appeals)
 
 ### When to Use Each Guide
 

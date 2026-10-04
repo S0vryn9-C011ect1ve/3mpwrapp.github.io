@@ -256,8 +256,8 @@ Show employers, doctors, family: "This is what daily energy management looks lik
 
 ## Related Reading
 
-- [15 Groundbreaking Accessibility Features](/blog/2025/10/25/groundbreaking-website-accessibility-features)
-- [Energy Forecast & Smart Scheduling](/blog/2025/10/21/feature-spotlight-energy-forecast-smart-scheduling.html)
+- [15 Groundbreaking Accessibility Features](/accessibility/innovation/website-features/2025/10/25/groundbreaking-website-accessibility-features)
+- [Energy Forecast & Smart Scheduling](/features/2026/03/14/feature-spotlight-energy-forecast-smart-scheduling)
 - [Complete User Guide](/user-guide)
 
 * * *

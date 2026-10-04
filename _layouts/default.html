@@ -207,11 +207,6 @@
           </a>
         </li>
         <li>
-          <a href="{{ lang_prefix | append: '/campaigns' | relative_url }}" {% if page.url contains '/campaigns' %}aria-current="page"{% endif %}>
-            {% if page.lang == 'fr' %}Campagnes{% else %}Campaigns{% endif %}
-          </a>
-        </li>
-        <li>
           <a href="{{ lang_prefix | append: '/community' | relative_url }}" {% if page.url contains '/community' %}aria-current="page"{% endif %}>
             {% if page.lang == 'fr' %}Communauté{% else %}Community{% endif %}
           </a>
@@ -242,7 +237,7 @@
         <span>Emergency Mode</span>
       </button>
       
-      <a href="{{ '/accessibility-settings' | relative_url }}" class="accessibility-link" aria-label="Accessibility features (13 tools available)">
+      <a href="{{ '/accessibility-settings' | relative_url }}" class="accessibility-link" aria-label="Accessibility tools and settings">
         ♿ Accessibility
       </a>
       
@@ -353,7 +348,7 @@
           <li><a href="{{ '/beta' | relative_url }}">Beta Testing</a></li>
           <li><a href="{{ '/faq' | relative_url }}">FAQ</a></li>
           <li><a href="{{ '/contact' | relative_url }}">Contact</a></li>
-          <li><a href="{{ '/accessibility-walkthrough' | relative_url }}">Accessibility Guide</a></li>
+          <li><a href="{{ '/accessibility-settings/' | relative_url }}">Accessibility Guide</a></li>
         </ul>
       </div>
 

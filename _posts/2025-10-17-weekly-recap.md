@@ -16,9 +16,9 @@ We published 5 new updates this week:
 
 - [curator-improvements-and-env-overrides](/whats-new/2025-10-14-curator-improvements-and-env-overrides)
 - [curator-language-json-api](/whats-new/2025-10-14-curator-language-json-api)
-- [1-dtc-medical-fees-fund-helping-people-acc](/whats-new/2025-10-17-1-dtc-medical-fees-fund-helping-people-acc)
-- [2-ask-an-expert-sessions-back-by-popular-d](/whats-new/2025-10-17-2-ask-an-expert-sessions-back-by-popular-d)
-- [3-indias-new-envoy-wants-full-scale-trade-](/whats-new/2025-10-17-3-indias-new-envoy-wants-full-scale-trade-)
+- 1-dtc-medical-fees-fund-helping-people-acc
+- 2-ask-an-expert-sessions-back-by-popular-d
+- 3-indias-new-envoy-wants-full-scale-trade-
 
 ## ðŸ“° Top Curated News
 The highest-scored items from our curated feeds this week:

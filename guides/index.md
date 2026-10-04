@@ -248,7 +248,7 @@ Expect 12-24 month wait for WSIAT hearing in busy years.
 - **Office of the Worker Adviser (OWA):** [owa.gov.on.ca](https://www.owa.gov.on.ca/)
 
 ### Data & Research
-- **WSIAT Dataset:** [99,036 decisions organized by year](/data/tribunal-decisions/wsiat/decisions-by-year/)
+- **WSIAT Dataset:** 99,036 decisions organized by year
 - **Pattern Analysis:** Full report with charts and trends
 - **Deep Dive Report:** Advanced patterns, co-occurrence, vice-chair specialization
 - **Keyword Network Visualization:** [Interactive network graph](/connecting-the-dots-wsiat-keyword-network.html)

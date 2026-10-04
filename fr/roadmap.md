@@ -458,7 +458,7 @@ Vous voulez aider à façonner l'avenir de 3mpwrApp ?
 <div class="alternative-formats">
   <p><strong>📄 Formats alternatifs</strong></p>
   <p>
-    <a href="/downloads/roadmap-fr.pdf" class="format-link">📄 Télécharger en PDF</a>
+    📄 Télécharger en PDF
     <a href="javascript:window.print()" class="format-link">🖨️ Version imprimable</a>
     <a href="mailto:?subject=3mpwrApp Feuille de route&body=Feuille de route 3mpwrApp : https://3mpwrapp.ca/fr/roadmap" class="format-link">📧 Envoyer par courriel</a>
   </p>

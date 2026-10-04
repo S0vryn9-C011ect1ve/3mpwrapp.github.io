@@ -725,8 +725,8 @@ This can supplement official reporting and improve public visibility.
 ### 🔄 Flywheel 2: Suppression Evidence → Legal Action Toolkit
 **This suppression analysis POWERS:**
 - [Class Action Research Package](//research/class-action-evidence/) (1.14-2.29M suppressed = mass tort)
-- [FOI Request Templates](/templates/foi-requests/) (force WSIB to disclose internal stats)
-- [MPP Briefing Packages](/advocacy/mpp-briefings/) (legislative pressure with statistical evidence)
+- FOI Request Templates (force WSIB to disclose internal stats)
+- MPP Briefing Packages (legislative pressure with statistical evidence)
 
 **How it helps YOU:**
 - **Individual appeals:** Cite transparency-gap research and measured metadata limitations

@@ -395,7 +395,7 @@ ONCA precedents become useful when:
 
 ### ⚖️ Tribunal-Level Analysis (Start Here for Success Rates)
 
-- [**WSIAT Analysis**](/blog/2026/04/30/suppression-gap.html) - 99,036 decisions (outcome rates keyword-inferred)
+- [**WSIAT Analysis**](/investigations/wsib/data-analysis/2026/04/30/suppression-gap) - 99,036 decisions (outcome rates keyword-inferred)
 - [**HRTO Analysis**](/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/) - 62,093 decisions (0.7% applicant victory among detected outcomes)
 - [**ONSBT Analysis**](/blog/2026/04/26/onsbt-2020-2026-comprehensive-analysis/) - 13,798 decisions (67.4% success among classified)
 

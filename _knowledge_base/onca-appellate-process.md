@@ -409,8 +409,8 @@ Before pursuing ONCA, consider:
 ## Related Resources
 
 - [ONCA Precedent Overview Blog Post](/blog/2026/05/08/onca-precedent-overview/) - Detailed outcome analysis
-- [Divisional Court Appeal Guide](/guides/divisional-court-appeals/) - Previous appeal level
-- [WSIAT Appeal Guide](/guides/wsiat-appeals/) - Tribunal appeal process
+- Divisional Court Appeal Guide - Previous appeal level
+- WSIAT Appeal Guide - Tribunal appeal process
 - [Understanding Tribunal Outcomes](/knowledge-base/understanding-tribunal-outcomes/) - Overall system context
 
 ---

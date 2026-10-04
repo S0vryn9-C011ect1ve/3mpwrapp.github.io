@@ -426,5 +426,5 @@ This blog will update as each phase completes. Subscribe to our [RSS feed](/feed
 - [Research Page: 230,392 Records Analyzed](//research/)
 - [WSIAT Complete Appeal Guide](/guides/wsiat-complete-guide)
 - [Ontario Tribunal Data Sources](/research-data-sources/)
-- [Data Improvement Workflow Documentation](/docs/DATA-IMPROVEMENT-WORKFLOW/)
+- Data Improvement Workflow Documentation
 - [Cross-Tribunal Success Rates](/cross-tribunal-success-rates/)

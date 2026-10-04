@@ -363,8 +363,8 @@ For too long, "web accessibility" has meant "can a screen reader read it?" That'
 * * *
 
 **Related Posts:**
-- [Feature Spotlight: Energy Forecast & Smart Scheduling](/blog/2025/10/21/feature-spotlight-energy-forecast-smart-scheduling.html)
-- [Welcome to 3mpwrApp](/blog/2025/10/03/welcome-to-3mpowr.html)
+- [Feature Spotlight: Energy Forecast & Smart Scheduling](/features/2026/03/14/feature-spotlight-energy-forecast-smart-scheduling)
+- [Welcome to 3mpwrApp](/news/2025/10/03/welcome-to-3mpowr)
 - [Complete User Guide](/user-guide)
 - [All Features List](/features)
 
