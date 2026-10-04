@@ -27,7 +27,7 @@ permalink: /knowledge-base/chronic-pain-claims/
 - Demand "objective" proof for subjective condition (impossible standard)
 - Leverage mental health diagnoses to shift causation away from workplace
 
-**Source:** [WSIB System Analysis 2020-2026](/docs/WSIB-SYSTEM-ANALYSIS-COMPLETE-2020-2026)
+**Source:** WSIB System Analysis 2020-2026
 
 **What this means for YOU:** If WSIB denied your chronic pain claim by calling it psychological or demanding impossible "objective" proof, you're part of a documented pattern. Use this statistical evidence in your appeal.
 
@@ -178,7 +178,7 @@ While outcomes aren't clear from metadata alone, patterns suggest these help:
 
 ### 🔄 Knowledge → Templates (Flywheel 2)
 **This guide powered:**
-- [Chronic Pain Appeal Template](/templates/chronic-pain-appeal) (pre-filled arguments from 186 cases)
+- [Chronic Pain Appeal Template](/templates/chronic-pain-appeal.html) (pre-filled arguments from 186 cases)
 - Medical evidence checklist (pain diary, functional limitations, specialist opinions)
 - Counter-arguments to "psychosomatic" dismissals
 

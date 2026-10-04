@@ -183,7 +183,7 @@ All privacy settings are in one place: **Settings → Privacy & Security**
 
 **Note:** You'll need to re-authenticate (enter password or use Google/Apple) to confirm deletion.
 
-**[Learn more about deleting your account →](/delete-account)**
+**[Learn more about deleting your account →](/delete-account.html)**
 
 ---
 
@@ -374,7 +374,7 @@ We only share data with essential service providers to make the app work. Here's
 ### Learn More
 - [Privacy Policy](/privacy)
 - [Data Ownership Statement](/data-ownership)
-- [Delete Your Account](/delete-account)
+- [Delete Your Account](/delete-account.html)
 - [Delete Your Data](/delete-data)
 
 ---

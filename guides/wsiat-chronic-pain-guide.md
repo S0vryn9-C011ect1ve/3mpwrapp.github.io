@@ -332,8 +332,8 @@ This guide is based on:
 - Pattern analysis generated April 2026
 - Deep-dive co-occurrence analysis: Chronic Pain + NEL (2,101 cases, 2.12%)
 
-**Full analysis:** [WSIAT Pattern Analysis Report](/docs/WSIAT-PATTERN-ANALYSIS-2026-04-29.html)  
-**Deep dive:** [WSIAT Deep Dive Report](/docs/WSIAT-DEEP-DIVE-REPORT-2026-04-29)
+**Full analysis:** WSIAT Pattern Analysis Report  
+**Deep dive:** WSIAT Deep Dive Report
 
 ---
 

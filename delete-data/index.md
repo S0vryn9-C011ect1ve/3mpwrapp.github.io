@@ -289,7 +289,7 @@ For security, you must **re-authenticate** (enter password or use Google/Apple l
 | **Can Re-use** | **Yes** | **No** |
 | **Reversible** | No | No |
 
-**Need to delete your account entirely?** [Learn how →](/delete-account)
+**Need to delete your account entirely?** [Learn how →](/delete-account.html)
 
 ---
 
@@ -301,7 +301,7 @@ For security, you must **re-authenticate** (enter password or use Google/Apple l
 ### Learn More
 - [Privacy Policy](/privacy)
 - [Privacy Controls](/privacy-controls)
-- [Delete Your Account](/delete-account)
+- [Delete Your Account](/delete-account.html)
 - [Data Ownership Statement](/data-ownership)
 
 ---

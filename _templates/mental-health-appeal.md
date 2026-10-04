@@ -429,7 +429,7 @@ Legal Aid Ontario: www.legalaid.on.ca/legal-clinics/ (Community legal clinics ha
 
 **More Templates:**
 - [Back Injury Template](/templates/back-injury-appeal/)
-- [Chronic Pain Template](/templates/chronic-pain-appeal)
+- [Chronic Pain Template](/templates/chronic-pain-appeal.html)
 - [Pre-Existing Condition Template](/templates/pre-existing-appeal/)
 
 ---

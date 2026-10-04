@@ -161,7 +161,7 @@ All guides are based on **99,036 WSIAT decisions** analyzed from official CSV ex
 3. **Success Rates**: Cross-referenced with official WSIAT statistics (65-73% worker success rate)
 4. **Co-Occurring Issues**: Which appeals involve multiple issues (e.g., NEL + chronic pain)
 
-**Full analysis report:** [WSIAT Pattern Analysis 2026-04-29](/docs/WSIAT-PATTERN-ANALYSIS-2026-04-29.html)
+**Full analysis report:** WSIAT Pattern Analysis 2026-04-29
 
 ---
 
@@ -249,8 +249,8 @@ Expect 12-24 month wait for WSIAT hearing in busy years.
 
 ### Data & Research
 - **WSIAT Dataset:** [99,036 decisions organized by year](/data/tribunal-decisions/wsiat/decisions-by-year/)
-- **Pattern Analysis:** [Full report with charts and trends](/docs/WSIAT-PATTERN-ANALYSIS-2026-04-29.html)
-- **Deep Dive Report:** [Advanced patterns, co-occurrence, vice-chair specialization](/docs/WSIAT-DEEP-DIVE-REPORT-2026-04-29)
+- **Pattern Analysis:** Full report with charts and trends
+- **Deep Dive Report:** Advanced patterns, co-occurrence, vice-chair specialization
 - **Keyword Network Visualization:** [Interactive network graph](/connecting-the-dots-wsiat-keyword-network.html)
 - **Research Tools:** [Interactive visualizations](//research/)
 

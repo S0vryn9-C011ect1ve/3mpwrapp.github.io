@@ -298,7 +298,7 @@ This guide is based on:
 - Keyword co-occurrence patterns (11,516 NEL + Permanent Impairment, 2,101 Chronic Pain + NEL)
 - Deep-dive analysis generated April 2026
 
-**Full analysis:** [WSIAT Deep Dive Report](/docs/WSIAT-DEEP-DIVE-REPORT-2026-04-29)
+**Full analysis:** WSIAT Deep Dive Report
 
 ---
 

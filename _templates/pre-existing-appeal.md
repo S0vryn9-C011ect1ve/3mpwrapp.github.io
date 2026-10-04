@@ -6,7 +6,7 @@ permalink: /templates/pre-existing-appeal/
 
 # Pre-Existing Condition Appeal Template
 
-*Built from recurring pre-existing-condition arguments in public Ontario workers' compensation decisions. For ONWSIB archive limits and local review notes, see the [ONWSIB Deep-Dive Method Note](/docs/ONWSIB-DEEP-DIVE-METHODOLOGY-2026-05-08.html).*
+*Built from recurring pre-existing-condition arguments in public Ontario workers' compensation decisions. For ONWSIB archive limits and local review notes, see the ONWSIB Deep-Dive Method Note.*
 
 ---
 

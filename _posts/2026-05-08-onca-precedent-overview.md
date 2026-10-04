@@ -401,8 +401,8 @@ ONCA precedents become useful when:
 
 ### 🔧 Practical Guides
 
-- [**WSIAT NEL Benefits Guide**](/guides/wsiat-nel-benefits-guide.html) - Based on 20,680 analyzed cases
-- [**Back Injury Appeal Guide**](/guides/wsiat-back-injury-guide.html) - Based on 13,407 analyzed cases
+- [**WSIAT NEL Benefits Guide**](/guides/wsiat-nel-benefits/) - Based on 20,680 analyzed cases
+- [**Back Injury Appeal Guide**](/guides/wsiat-back-injury-appeals/) - Based on 13,407 analyzed cases
 - [**WSIAT Templates**](/templates/) - Downloadable appeal forms and checklists
 - [**Complete WSIAT Guide**](/guides/wsiat-complete-guide) - Step-by-step appeal process
 

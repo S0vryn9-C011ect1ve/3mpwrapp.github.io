@@ -256,8 +256,8 @@ This guide is based on:
 - Pattern analysis generated April 2026
 - Deep-dive co-occurrence analysis: NEL + Permanent Impairment (11,516 cases, 11.63%)
 
-**Full analysis:** [WSIAT Pattern Analysis Report](/docs/WSIAT-PATTERN-ANALYSIS-2026-04-29.html)  
-**Deep dive:** [WSIAT Deep Dive Report](/docs/WSIAT-DEEP-DIVE-REPORT-2026-04-29)
+**Full analysis:** WSIAT Pattern Analysis Report  
+**Deep dive:** WSIAT Deep Dive Report
 
 ---
 

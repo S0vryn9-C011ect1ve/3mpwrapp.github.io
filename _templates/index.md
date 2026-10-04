@@ -26,7 +26,7 @@ permalink: /templates/
 - Legal argument framework
 - Closing statement
 
-### [Chronic Pain Appeal Letter](/templates/chronic-pain-appeal)
+### [Chronic Pain Appeal Letter](/templates/chronic-pain-appeal.html)
 **Time to complete:** 30-45 minutes  
 **Pages:** 7  
 **Best for:** Long-term pain conditions, fibromyalgia, complex regional pain syndrome

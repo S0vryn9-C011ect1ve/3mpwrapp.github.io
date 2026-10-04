@@ -14,7 +14,7 @@ toc: true
 
 # WSIAT Pattern Analysis: Workers Win 63% of Detected Appeals Outcomes
 
-**📅 UPDATED: April 29, 2026** - Enhanced with comprehensive analysis of full WSIAT dataset (99,036 decisions, 1987-2026) from [WSIAT Open Data Portal](https://www.wsiat.ca/en/home/opendata_decisions.html). See [Deep-Dive Report](/docs/WSIAT-DEEP-DIVE-REPORT-2026-04-29) for body part patterns (Back 13,407 cases, Shoulder 5,295), co-occurrence analysis (NEL+Permanent Impairment 11,516), temporal trends, and vice-chair specialization.
+**📅 UPDATED: April 29, 2026** - Enhanced with comprehensive analysis of full WSIAT dataset (99,036 decisions, 1987-2026) from [WSIAT Open Data Portal](https://www.wsiat.ca/en/home/opendata_decisions.html). See Deep-Dive Report for body part patterns (Back 13,407 cases, Shoulder 5,295), co-occurrence analysis (NEL+Permanent Impairment 11,516), temporal trends, and vice-chair specialization.
 
 ---
 

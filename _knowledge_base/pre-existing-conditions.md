@@ -30,7 +30,7 @@ permalink: /knowledge-base/pre-existing-conditions/
 - **"Cost relief" co-occurs with "pre-existing" 97 times**
 - Employers retroactively shift workplace injury costs to workers by claiming pre-existing causation
 
-**Source:** [WSIB System Analysis 2020-2026](/docs/WSIB-SYSTEM-ANALYSIS-COMPLETE-2020-2026)
+**Source:** WSIB System Analysis 2020-2026
 
 **What this means for YOUR case:** If WSIB denied your claim as "pre-existing," you're part of a documented pattern of systematic misapplication of law. Use this statistical evidence in your appeal.
 

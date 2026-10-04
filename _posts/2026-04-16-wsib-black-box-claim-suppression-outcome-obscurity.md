@@ -14,7 +14,7 @@ featured: true
 
 # Ontario's Workers' Compensation Black Box: Where 1.14-2.29 Million Injured Workers Disappear
 
-**📅 UPDATED: April 29, 2026** - Enhanced with comprehensive analysis of full WSIAT dataset (99,036 decisions, 1987-2026) from [WSIAT Open Data Portal](https://www.wsiat.ca/en/home/opendata_decisions.html). New findings include: Back injuries #1 (13,407 cases, 13.54%), top co-occurrences (NEL+Permanent Impairment 11,516 cases), 40 vice-chair specialists identified, temporal trends showing FEL declining and LOE rising. See [Deep-Dive Report](/docs/WSIAT-DEEP-DIVE-REPORT-2026-04-29) | [Interactive Network Visualization](/connecting-the-dots-wsiat-keyword-network.html)
+**📅 UPDATED: April 29, 2026** - Enhanced with comprehensive analysis of full WSIAT dataset (99,036 decisions, 1987-2026) from [WSIAT Open Data Portal](https://www.wsiat.ca/en/home/opendata_decisions.html). New findings include: Back injuries #1 (13,407 cases, 13.54%), top co-occurrences (NEL+Permanent Impairment 11,516 cases), 40 vice-chair specialists identified, temporal trends showing FEL declining and LOE rising. See Deep-Dive Report | [Interactive Network Visualization](/connecting-the-dots-wsiat-keyword-network.html)
 
 ---
 

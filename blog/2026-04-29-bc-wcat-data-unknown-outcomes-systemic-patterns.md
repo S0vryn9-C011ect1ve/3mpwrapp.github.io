@@ -419,15 +419,15 @@ That's why we're building 3mpwrApp. That's why we're fighting for data access. T
 
 ### Our Research
 
-- [CanLII Outcome Metadata Partnership Request (April 29, 2026)](/docs/CANLII_OUTCOME_METADATA_PARTNERSHIP_REQUEST_2026-04-29.md)
+- CanLII Outcome Metadata Partnership Request (April 29, 2026)
 - [BC WCAT Comprehensive Analysis (2020-2026)](/data/tribunal-decisions/bcwcat-scraping-summary.json)
 - [Cross-Provincial Tribunal Comparison](//research/tribunal-outcome-analysis-2026)
 
 ### Related Articles
 
 **Tribunal Data & Transparency:**
-- [Feature Spotlight: CanLII Database - Ontario WSIB & HRTO Cases (Expanding Canada-Wide)](/_posts/2026-04-25-feature-spotlight-canlii-database-ontario-wsib-hrto-cases-expanding-canada-wide.md) - Searchable database of 34,928+ tribunal decisions with AI-powered outcome predictions
-- [Cross-Tribunal Comparison: HRTO's 73.5% Abandonment vs WSIAT's 65-73% Worker Success](/_posts/2026-04-20-hrto-wsiat-cross-tribunal-comparison.md) - Why do human rights cases fail when workers' comp cases succeed?
+- Feature Spotlight: CanLII Database - Ontario WSIB & HRTO Cases (Expanding Canada-Wide) - Searchable database of 34,928+ tribunal decisions with AI-powered outcome predictions
+- Cross-Tribunal Comparison: HRTO's 73.5% Abandonment vs WSIAT's 65-73% Worker Success - Why do human rights cases fail when workers' comp cases succeed?
 - [HRTO Abandonment Analysis: Email Issues in 70.1% of Abandoned Cases](/human-rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/) - Digital barriers blocking vulnerable claimants from justice
 
 **Claim Suppression Research:**

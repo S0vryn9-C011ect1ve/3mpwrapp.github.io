@@ -269,7 +269,7 @@ Additional resources:
     <strong>Violations Found:</strong> 0
   </div>
   <div class="audit-item">
-    <strong><a href="/ACCESSIBILITY-AUDIT-2025-11.md">📄 View Full Audit Report</a></strong>
+    <strong>📄 View Full Audit Report</strong>
   </div>
 </div>
 
@@ -427,7 +427,7 @@ We meet **all** WCAG 2.2 Level A, Level AA, and Level AAA success criteria, achi
   </ul>
 </div>
 
-<a href="/WCAG-COMPLIANCE-CHECKLIST" class="report-link">View Latest Accessibility Report →</a>
+View Latest Accessibility Report →
 
 ### W3C Standards Compliance
 
@@ -458,7 +458,7 @@ In addition to WCAG 2.2 Level AAA conformance, 3mpwrApp website adheres to **W3C
 **Standards Verified:** November 5, 2025  
 **Validation Tools:** W3C Markup Validator, W3C CSS Validator, Manual Review
 
-<a href="/ACCESSIBILITY-AUDIT-2025-11.md" class="report-link">View Full W3C Compliance Details →</a>
+View Full W3C Compliance Details →
 
 ---
 

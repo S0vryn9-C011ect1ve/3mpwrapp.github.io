@@ -231,9 +231,9 @@ Vous voulez consulter cette page plus tard? Envoyez-vous-la par courriel :
 
 Préférez lire hors ligne?
 
-<a href="/downloads/fr/contact.pdf" class="btn btn-secondary">
+
   📄 Télécharger en PDF →
-</a>
+
 
 ### Version imprimable
 

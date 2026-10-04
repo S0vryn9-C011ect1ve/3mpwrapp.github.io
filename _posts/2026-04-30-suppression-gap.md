@@ -199,8 +199,8 @@ You have **6 months from your denial date** to file a WSIAT appeal. After that, 
 ### 📚 **3mpwrApp Resources**
 
 We've analyzed thousands of WSIAT decisions to create practical guides:
-- [WSIAT NEL Benefits Guide](/guides/wsiat-nel-benefits-guide.html) - Based on 20,680 cases
-- [Back Injury Appeal Guide](/guides/wsiat-back-injury-guide.html) - Based on 13,407 cases
+- [WSIAT NEL Benefits Guide](/guides/wsiat-nel-benefits/) - Based on 20,680 cases
+- [Back Injury Appeal Guide](/guides/wsiat-back-injury-appeals/) - Based on 13,407 cases
 - [WSIAT Appeal Templates](/templates/) - Downloadable forms and checklists
 - [Complete WSIAT Guide](/guides/wsiat-complete-guide) - Step-by-step process
 

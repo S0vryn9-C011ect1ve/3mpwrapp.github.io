@@ -154,7 +154,7 @@ The ONWSIB-specific deep-dive pass uses local file analysis only and does not ma
 
 These are rule-based local classifications, not official CanLII labels. A separate manual-review queue contains 6 high-signal cases that still need human validation before they should be treated as settled.
 
-For the short appendix describing the local-only review method, threshold, and year-by-year gains, see the [ONWSIB Deep-Dive Method Note](/docs/ONWSIB-DEEP-DIVE-METHODOLOGY-2026-05-08.html).
+For the short appendix describing the local-only review method, threshold, and year-by-year gains, see the ONWSIB Deep-Dive Method Note.
 
 **What This Means:**
 - The archive still remains mostly unresolved at the public-record level.
@@ -321,7 +321,7 @@ Full datasets available for community analysis:
 
 ---
 
-**Methodology:** Tiered evidence classification framework with Wilson 95% confidence intervals. See the [ONWSIB Deep-Dive Method Note](/docs/ONWSIB-DEEP-DIVE-METHODOLOGY-2026-05-08.html) and [tribunal-audit-error-rate-estimates.json](/data/tribunal-decisions/tribunal-audit-error-rate-estimates.json) for validation context.
+**Methodology:** Tiered evidence classification framework with Wilson 95% confidence intervals. See the ONWSIB Deep-Dive Method Note and [tribunal-audit-error-rate-estimates.json](/data/tribunal-decisions/tribunal-audit-error-rate-estimates.json) for validation context.
 
 **Authors:** Lissa Beaulieu (Founder, 3mpwrApp) & GitHub Copilot  
 **Data Source:** CanLII ONWSIB decisions (2020-2026)  
