@@ -190,10 +190,14 @@ THIS APP IS NOT A SUBSTITUTE FOR EMERGENCY SERVICES OR CRISIS INTERVENTION. IF Y
 - Do not delay seeking emergency help to use this app
 
 ### **Crisis Resources (Not Emergency Services):**
-- **Suicide Crisis Helpline (Canada):** call or text **9-8-8** (24/7) · chat at [988.ca](https://988.ca)
+- **Suicide Crisis Helpline (Canada) — anywhere in Canada, 24/7, English and French:**
+  **[call 9-8-8](tel:9-8-8)** or **text 9-8-8** · online chat: [988.ca](https://988.ca/)
 - **Emergency:** call **911**
-- **National Domestic Violence Hotline:** **1-800-799-7233** (24/7)
-- **Legal Aid Ontario:** **1-800-668-8258**, Monday–Friday, 8am–5pm ET
+- **Family violence and abuse helplines (Government of Canada):**
+  [canada.ca services directory](https://www.canada.ca/en/public-health/services/health-promotion/stop-family-violence/services.html)
+- **Legal Aid Ontario — find your local legal clinic:**
+  [LAO service finder](https://servicefinder.lao.on.ca/owda/0/investigate/SLF_ServiceLocator/en-US/ScreenOrder~Main~qs%24SFOptions%24global%24global)
+  · general intake **1-800-668-8258**, Monday–Friday, 8am–5pm ET
 - **[Complete crisis resources →](/crisis-resources/)**
 
 ### **Features Covered:**
