@@ -230,7 +230,7 @@ Welcome! Here are the latest updates:
     <p><em>Categories: {{ post.categories | join: ", " }}</em></p>
   {% endif %}
   {% if post.excerpt %}
-    <p>{{ post.excerpt }}</p>
+    <p>{{ post.excerpt | markdownify | strip_html | normalize_whitespace | truncate: 240 }}</p>
   {% endif %}
 </article>
 <hr>

@@ -402,8 +402,8 @@ This style guide ensures consistency across all pages of 3mpwrApp website. Every
 
 ## Resources
 
-- [Design System CSS](/assets/css/design-system.css)
-- [Global Consistency CSS](/assets/css/global-consistency.css)
+- Design System CSS
+- Global Consistency CSS
 - [WCAG Compliance Checklist](/WCAG-COMPLIANCE-CHECKLIST.md)
 - [Accessibility Guide](/accessibility)
 

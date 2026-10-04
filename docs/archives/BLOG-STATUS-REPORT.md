@@ -185,7 +185,7 @@ description: News, updates, and stories from the 3mpowr community.
 <article>
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <p><small>{{ post.date | date: "%B %-d, %Y" }}</small></p>
-  {% if post.excerpt %}<p>{{ post.excerpt }}</p>{% endif %}
+  {% if post.excerpt %}<p>{{ post.excerpt | markdownify | strip_html | normalize_whitespace | truncate: 240 }}</p>{% endif %}
 </article>
 {% endfor %}
 {% endraw %}

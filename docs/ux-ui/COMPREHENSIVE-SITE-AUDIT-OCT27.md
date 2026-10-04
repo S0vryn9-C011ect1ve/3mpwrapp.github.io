@@ -280,7 +280,7 @@ box-shadow: 0 0 0 4px rgba(0, 102, 204, 0.15)
 ### Secondary Pages ✅
 - [x] App Waitlist (`app-waitlist.md`)
 - [x] Beta Guide (`beta-guide/`)
-- [x] Community Guidelines (`community/guidelines/`)
+- [x] Community Guidelines (`code-of-conduct//`)
 - [x] Connect (`connect/`)
 - [x] Campaigns (`campaigns/`)
 - [x] What's New (`whats-new/`)

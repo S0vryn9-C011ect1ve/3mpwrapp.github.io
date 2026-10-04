@@ -86,7 +86,7 @@ Comprehensive audit of 1,320 markdown files revealed:
 16. tribunal-visualizations.md
 17. feedback.md
 18. community/index.md
-19. community/guidelines/index.md
+19. code-of-conduct//index.md
 20. events/index.md
 
 **Automation:**
@@ -125,7 +125,7 @@ Comprehensive audit of 1,320 markdown files revealed:
 
 ### Priority Tier 2: Legal & Crisis Resources (WEEK 2)
 11. ⏳ fr/crisis-resources.md
-12. ⏳ fr/community/guidelines/index.md
+12. ⏳ fr/code-of-conduct//index.md
 13. ⏳ fr/delete-account.html
 
 ### Priority Tier 3: Research & Data Pages (WEEK 3)

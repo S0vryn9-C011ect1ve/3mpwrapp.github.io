@@ -25,7 +25,7 @@ This document outlines identified risks to 3mpwrApp's operations and the communi
 **Impact:** CRITICAL (platform could become abandoned)  
 
 **Mitigation:**
-- ✅ [Governance succession plan exists](/docs/legal/governance/GOVERNANCE_SUCCESSION_PLAN.md) (draft, needs finalization)
+- ✅ Governance succession plan exists (draft, needs finalization)
 - ✅ Two-tier admin system implemented (Super Admin + General Admins)
 - ⚠️ Dead Man's Switch implementation PENDING (see Action Items below)
 - ⚠️ Emergency Council formation PENDING (need 5 General Admins identified)

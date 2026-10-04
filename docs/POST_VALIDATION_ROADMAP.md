@@ -181,7 +181,7 @@ last_updated: 2026-05-16
 ```markdown
 > **ML Classification Notice:** Statistics on this page are generated using machine learning 
 > keyword pattern matching (not human-verified). Validated accuracy: [INSERT_ACCURACY]%. 
-> [Read validation methodology →](/docs/VALIDATION_REPORT_V3.0.md)
+> Read validation methodology →
 ```
 
 **Step 3:** Update statistics with v3.0 data
@@ -328,7 +328,7 @@ subtitle: "Based on 6,823 classified decisions (2020-2026)"
 <div class="disclaimer">
   <strong>ML Classification Notice:</strong> These statistics are generated using 
   keyword pattern matching. Manual validation accuracy: [INSERT_ACCURACY]%. 
-  <a href="/docs/VALIDATION_REPORT_V3.0.md">Read methodology →</a>
+  Read methodology →
 </div>
 ```
 
@@ -422,7 +422,7 @@ last_updated: 2026-05-16
 - **Low Confidence (50-60%):** [X,XXX] cases ([XX]%)
 
 > **ML Classification Notice:** These statistics are ML-generated using keyword patterns. 
-> Classification confidence ranges 50-95%. [Read validation methodology →](/docs/VALIDATION_REPORT_V3.0.md)
+> Classification confidence ranges 50-95%. Read validation methodology →
 
 ## Classification Methodology
 
@@ -467,7 +467,7 @@ last_updated: 2026-05-16
 ---
 
 *Statistics generated: April 2026 | Classification v3.0 | Validated May 2026*  
-*[View full validation report →](/docs/VALIDATION_REPORT_V3.0.md)*
+*View full validation report →*
 ```
 
 **Data Sources:**

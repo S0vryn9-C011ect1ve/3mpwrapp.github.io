@@ -69,7 +69,7 @@ All links were verified to exist:
 - `/data-ownership/` ✅ (exists)
 - `/privacy-controls/` ✅ (exists)
 - `/legal/disclaimers/` ✅ (exists)
-- `/community/guidelines/` ✅ (exists)
+- `/code-of-conduct//` ✅ (exists)
 - `/user-guide` ✅ (exists)
 - `/features` ✅ (exists)
 - `/beta` ✅ (exists)

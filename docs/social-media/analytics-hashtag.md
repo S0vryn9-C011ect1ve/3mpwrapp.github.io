@@ -190,7 +190,7 @@ Need help with hashtag tracking or analytics?
 
 - **Email:** [empowrapp08162025@gmail.com](mailto:empowrapp08162025@gmail.com)
 - **GitHub:** [Open an issue](https://github.com/3mpowrApp/3mpwrapp.github.io/issues)
-- **Documentation:** [Full Tracking Guide](/HASHTAG-TRACKING.md)
+- **Documentation:** Full Tracking Guide
 
 ---
 
