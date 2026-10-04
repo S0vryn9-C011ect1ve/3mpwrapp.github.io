@@ -30,21 +30,21 @@ He had been denied health care after 15 years in Canada. And still faces deporta
 **Score:** 22.10
 
 ### 2. Even Full-Time Workers Struggle to Afford Food in Canada: Study
-Researcher Tim Li says itâ€™s a sign that wages arenâ€™t keeping up with inflation.
+Researcher Tim Li says it's a sign that wages aren't keeping up with inflation.
 ðŸ“ [Source](https://thetyee.ca/News/2026/02/06/Even-Full-Time-Workers-Struggle-Afford-Food/)
 **Score:** 15.60
 
-### 3. Controversial Kamloops Mayor Loses â€˜Unbelievableâ€™ Court Ruling
-Citing the need to protect political speech, a judge threw out Reid Hamer-Jacksonâ€™s defamation lawsuit against a council opponent.
+### 3. Controversial Kamloops Mayor Loses 'Unbelievable' Court Ruling
+Citing the need to protect political speech, a judge threw out Reid Hamer-Jackson's defamation lawsuit against a council opponent.
 ðŸ“ [Source](https://thetyee.ca/News/2026/02/06/Kamloops-Mayor-Loses-Court-Ruling/)
 **Score:** 10.00
 
-### 4. â€˜Canada has a culture of silence. And we need to break that silence.â€™
+### 4. 'Canada has a culture of silence. And we need to break that silence.'
 ðŸ“ [Source](https://rabble.ca/podcast/canada-migrant-workers-2026/)
 **Score:** 10.50
 
 ### 5. Smashing Barriers to Health Care for Black Seniors
-The system wasnâ€™t designed with Black people in mind. Elvenia Gray-Sandiford has a plan to change that. A Tyee Q&A.
+The system wasn't designed with Black people in mind. Elvenia Gray-Sandiford has a plan to change that. A Tyee Q&A.
 ðŸ“ [Source](https://thetyee.ca/News/2026/02/05/Smashing-Health-Care-Barriers-Black-Seniors/)
 **Score:** 11.10
 

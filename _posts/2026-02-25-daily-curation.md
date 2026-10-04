@@ -24,7 +24,7 @@ Your source for disability rights news, advocacy updates, and community stories.
 
 ## Additional Stories
 
-### 1. Canadaâ€™s human rights blackbox: Lives in limbo at office of Canadian Ombudsperson for Responsible Enterprise
+### 1. Canada's human rights blackbox: Lives in limbo at office of Canadian Ombudsperson for Responsible Enterprise
 ðŸ“ [Source](https://rabble.ca/politics/canadian-politics/canadas-human rights-blackboxlives-in-limbo-at-office-of-canadian-ombudsperson-for-responsible-enterprise/)
 **Score:** 22.75
 
@@ -45,7 +45,7 @@ Carole James said the office would help prevent future tragedies like the wrongf
 ðŸ“ [Source](https://news.gov.mb.ca/news/index.html?item=72758)
 **Score:** 9.50
 
-### 6. A â€˜Tiny Minorityâ€™ of Social Media Accounts Drive Canadian Conspiracy Content
+### 6. A 'Tiny Minority' of Social Media Accounts Drive Canadian Conspiracy Content
 Researchers found conspiracy claims spread widely, but only some people believe them.
 ðŸ“ [Source](https://thetyee.ca/News/2026/02/25/Social-Media-Accounts-Canadian-Conspiracy-Content/)
 **Score:** 5.00

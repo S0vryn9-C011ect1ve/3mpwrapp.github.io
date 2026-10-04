@@ -33,7 +33,7 @@ Although no deaths have been reported at any of the sites in Canada, the Alberta
 ðŸ“ [Source](https://rabble.ca/podcast/taxing-canadas-ultra-wealthy/)
 **Score:** 10.50
 
-### 3. Health-Care Workers â€˜Snoopedâ€™ Records of Lapu-Lapu Victims
+### 3. Health-Care Workers 'Snooped' Records of Lapu-Lapu Victims
 Despite dozens of breaches, health authorities balked at notifying victims whose privacy was violated, report reveals.
 ðŸ“ [Source](https://thetyee.ca/News/2026/02/19/Health-Care-Workers-Snooped-Records-Lapu-Lapu-Victims/)
 **Score:** 9.80

@@ -167,7 +167,7 @@ When you're in pain, cognitive resources are depleted. Your brain is using energ
 **Solution:** Remove all non-essential cognitive load.
 
 **2. Every Click Matters**
-For RSI, arthritis, fibromyalgia, nerve painâ€”clicks HURT.
+For RSI, arthritis, fibromyalgia, nerve pain—clicks HURT.
 
 **Solution:** Minimize required interactions. What's left is essential only.
 
@@ -195,7 +195,7 @@ Processing images, colors, animations requires mental energy you don't have.
 **Why:** Visual processing costs energy. Text conveys information more efficiently when you're hurting.
 
 ### Hidden: Page Progress Bar, Spoon Counter
-**Why:** On a pain flare day, you're not tracking your energyâ€”you KNOW you're low. One less thing to look at.
+**Why:** On a pain flare day, you're not tracking your energy—you KNOW you're low. One less thing to look at.
 
 ### What Stays: Navigation, Breadcrumbs, Critical Links
 **Why:** You still need to find information and move between pages. We simplify, but don't eliminate.

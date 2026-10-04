@@ -15,9 +15,9 @@ excerpt: "A practical guide to using 3mpwrApp's spoon-based energy tools to plan
 
 Spoon Theory, coined by Christine Miserandino, gives people with chronic illness a way to describe limited energy. In 3mpwrApp, we built practical tools around this framework because it resonates so deeply with our community.
 
-The goal is not just awareness â€” it is action. Knowing you have 8 spoons today is only useful if you can make decisions based on it before you've already spent 12. Our pre-planning tools shift decisions to the morning, when you still have options.
+The goal is not just awareness — it is action. Knowing you have 8 spoons today is only useful if you can make decisions based on it before you've already spent 12. Our pre-planning tools shift decisions to the morning, when you still have options.
 
-The Energy Forecast learns your patterns over time. After a few weeks of tracking, it can predict your available energy 24 hours ahead â€” giving you even more lead time to make good decisions for your body.
+The Energy Forecast learns your patterns over time. After a few weeks of tracking, it can predict your available energy 24 hours ahead — giving you even more lead time to make good decisions for your body.
 
 ---
 
@@ -47,21 +47,21 @@ The Energy Forecast learns your patterns over time. After a few weeks of trackin
 
 - Planning spoon use in advance prevents the crashes that come from overcommitting
 - Spoon theory gives a shared vocabulary for energy limits with people who don't experience them
-- The Pacing Partner is not nagging â€” it is self-advocacy in action
+- The Pacing Partner is not nagging — it is self-advocacy in action
 
 ---
 
 ## Ready to Try It?
 
-1. **Download 3mpwrApp** â€” [3mpwrapp.pages.dev](https://3mpwrapp.ca/)
-2. **Sign up or explore as guest** â€” no commitment needed
-3. **Find this feature** â€” search or browse main navigation
+1. **Download 3mpwrApp** — [3mpwrapp.pages.dev](https://3mpwrapp.ca/)
+2. **Sign up or explore as guest** — no commitment needed
+3. **Find this feature** — search or browse main navigation
 
 ---
 
 ## About 3mpwrApp
 
 3mpwrApp is a free, accessibility-first platform for injured workers and people with disabilities across Canada.
-- ðŸ“– [Full User Guide](/user-guide/)
-- ðŸ§ª [Join the Beta](/app-waitlist)
-- ðŸ’¬ [Community Forums](/community/)
+- 📖 [Full User Guide](/user-guide/)
+- 🧪 [Join the Beta](/app-waitlist)
+- 💬 [Community Forums](/community/)

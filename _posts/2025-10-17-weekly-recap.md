@@ -28,7 +28,7 @@ The highest-scored items from our curated feeds this week:
 The Disability Tax Credit (DTC) is a non-refundable tax credit that reduces the amount of income tax you owe. You might know that eligible applicants must be approved for the DTC before gaining access...
 [Read full article â†’](https://disabilityalliancebc.org/dtc-medical-fees-fund-helping-people-access-the-dtc/)
 
-### â­ Ask an Expert sessions â€“ Back by popular demand!
+### â­ Ask an Expert sessions – Back by popular demand!
 **Score:** 12.5 | **Source:** https://disabilityalliancebc.org/feed/
 The Access RDSP partnership between DABC, Plan Institute and BC Aboriginal Network on Disability Society (BCANDS) has had years of experience providing free navigational supports through income tax fi...
 [Read full article â†’](https://disabilityalliancebc.org/ask-an-expert-sessions-back-by-popular-demand/)
@@ -38,19 +38,19 @@ The Access RDSP partnership between DABC, Plan Institute and BC Aboriginal Netwo
 Indian High Commissioner Dinesh Patnaik said Canadian businesses should expand trade and investment ties with India now, without waiting for a formal trade agreement....
 [Read full article â†’](https://globalnews.ca/news/11483094/india-envoy-canada-trade-deal-interview/)
 
-### ðŸ“Œ Workshop â€“ Disability Justice and Local Government: Tools for Change
+### ðŸ“Œ Workshop – Disability Justice and Local Government: Tools for Change
 **Score:** 9.5 | **Source:** https://disabilityalliancebc.org/feed/
 From curb cuts to bus routes to public space accessibility, decisions made at city hall impact the lives of people living with disabilities daily. Women Transforming Cities (WTC), a grassroots organiz...
 [Read full article â†’](https://disabilityalliancebc.org/workshop-disability-justice-and-local-government-tools-for-change/)
 
 ### ðŸ“Œ Support DABC this #DAFDay!
 **Score:** 9.5 | **Source:** https://disabilityalliancebc.org/feed/
-Itâ€™s DAF Day Canada: a national moment encouraging donors who give through Donor Advised Funds (DAFs) to activate their generosity and support frontline work like ours. #DAFDay If you have a DAF, you ...
+It's DAF Day Canada: a national moment encouraging donors who give through Donor Advised Funds (DAFs) to activate their generosity and support frontline work like ours. #DAFDay If you have a DAF, you ...
 [Read full article â†’](https://disabilityalliancebc.org/support-dabc-this-dafday/)
 
-### ðŸ“Œ In/Equality Podcast â€“ Inequality and Disability Justice with Michael Orsini Transcript
+### ðŸ“Œ In/Equality Podcast – Inequality and Disability Justice with Michael Orsini Transcript
 **Score:** 8 | **Source:** https://policyoptions.irpp.org/feed/
-Debra ThompsonÂ  00:00 From the Institute for Research on Public Policy, this is inequality a special series of the policy options podcast exploring the many facets of inequality in Canada through conv...
+Debra Thompson  00:00 From the Institute for Research on Public Policy, this is inequality a special series of the policy options podcast exploring the many facets of inequality in Canada through conv...
 [Read full article â†’](https://policyoptions.irpp.org/2023/05/inequality-and-disability-justice-transcript/)
 
 ### ðŸ“Œ Manitoba NDP says bill will prevent use of notwithstanding clause to 'trample' rights of vulnerable groups
@@ -60,7 +60,7 @@ Debra ThompsonÂ  00:00 From the Institute for Research on Public Policy, this 
 
 ### ðŸ“Œ Ottawa says it can provide $12M loan to keep northern Ontario paper mill open
 **Score:** 6.5 | **Source:** https://globalnews.ca/canada/feed/
-The federal government is offering a one-time $12M loan to help keep Kapuskasingâ€™s paper mill open while the company develops a long-term pivot strategy....
+The federal government is offering a one-time $12M loan to help keep Kapuskasing's paper mill open while the company develops a long-term pivot strategy....
 [Read full article â†’](https://globalnews.ca/news/11483011/ont-paper-mill-closure/)
 
 ### ðŸ“Œ Man charged with murder as remains of Samuel Bird located outside Edmonton

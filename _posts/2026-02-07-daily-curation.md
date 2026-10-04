@@ -46,7 +46,7 @@ A college instructor responds to a push to integrate the new tech in his workpla
 **Score:** 4.50
 
 ### 6. Join Us at Two Author Events This Week
-The Tyeeâ€™s Jackie Wong and Harrison Mooney are hosting back-to-back book talks at the Vancouver Public Library.
+The Tyee's Jackie Wong and Harrison Mooney are hosting back-to-back book talks at the Vancouver Public Library.
 ðŸ“ [Source](https://thetyee.ca/Culture/2026/02/06/Join-Us-Two-Author-Events/)
 **Score:** 3.90
 

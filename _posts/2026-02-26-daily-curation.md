@@ -50,7 +50,7 @@ Defeated by the BC budget and communication gaps, the project proposal was stron
 ðŸ“ [Source](https://thetyee.ca/Analysis/2026/02/26/Burnaby-Supportive-Housing-Project-Goes-Down/)
 **Score:** 4.00
 
-### 7. As US-Cuba Tensions Rise, Carney Needs to Flex His â€˜Middle Powerâ€™
+### 7. As US-Cuba Tensions Rise, Carney Needs to Flex His 'Middle Power'
 Cubans are facing fuel, food and hospital supply shortages. Canadians can help.
 ðŸ“ [Source](https://thetyee.ca/Opinion/2026/02/25/US-Cuba-Tensions-Carney-Needs-Flex-Middle-Power/)
 **Score:** 3.90

@@ -177,6 +177,15 @@ exclude:
   - .bundle
   - research-old-backup.html
   - data/analysis/debug-canlii.html
+  - check-campaigns.html
+  - current-campaigns.html
+  - prod-campaigns.html
+  - temp-campaigns.html
+  - footer-issue.html
+  - blog/index-enhanced.md
+  - data/analysis/debug-canlii-stealth.html
+  - api-test.html
+  - data/tribunal-decisions/wsiat/raw-html
   # - assets/images/screenshots  (REENABLED 2026-10-01: App Tour/Demo images must deploy; was excluded → 404 on live site)
   - docs/setup
   - docs/development

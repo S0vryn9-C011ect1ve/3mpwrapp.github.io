@@ -29,11 +29,11 @@ Your source for disability rights news, advocacy updates, and community stories.
 **Score:** 10.50
 
 ### 2. BC Separatists Met in Campbell River. So Did Pro-Canada Protesters
-â€˜People were coming out of the woodwork to say that this is ridiculous.â€™
+'People were coming out of the woodwork to say that this is ridiculous.'
 ðŸ“ [Source](https://thetyee.ca/Analysis/2026/02/09/BC-Separatists-Met-Campbell-River/)
 **Score:** 10.50
 
-### 3. Manitoba Government Expands Agriâ€‘Food Trade ties with Asia-Pacific through Hong Kong Partnership
+### 3. Manitoba Government Expands Agri'Food Trade ties with Asia-Pacific through Hong Kong Partnership
 ðŸ“ [Source](https://news.gov.mb.ca/news/index.html?item=72638)
 **Score:** 7.50
 
@@ -45,7 +45,7 @@ Your source for disability rights news, advocacy updates, and community stories.
 ðŸ“ [Source](https://rabble.ca/politics/canadian-politics/what-happens-when-you-cant-afford-your-water-bill/)
 **Score:** 4.00
 
-### 6. Juno Winner Dominique Fils-AimÃ© Comes to the Chan Centre
-The acclaimed Haitian Canadian artist will perform songs from her new album â€˜My World Is the Sunâ€™ this March.
+### 6. Juno Winner Dominique Fils-Aimé Comes to the Chan Centre
+The acclaimed Haitian Canadian artist will perform songs from her new album 'My World Is the Sun' this March.
 ðŸ“ [Source](https://thetyee.ca/Presents/2026/02/09/Dominique-Fils-Aime-Chan-Centre/)
 **Score:** 3.90

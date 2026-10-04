@@ -24,7 +24,7 @@ Your source for disability rights news, advocacy updates, and community stories.
 
 ## Additional Stories
 
-### 1. Why We â€˜Wackosâ€™ Want Alberta to Stay in Canada
+### 1. Why We 'Wackos' Want Alberta to Stay in Canada
 The case against tying our fate to the US is simple: Sorry, not that.
 ðŸ“ [Source](https://thetyee.ca/Opinion/2026/02/17/Wackos-Want-Alberta-to-Stay-Canada/)
 **Score:** 13.50
@@ -42,7 +42,7 @@ This Family Day, join Family Services of Greater Vancouver in helping to shape t
 ðŸ“ [Source](https://thetyee.ca/Presents/2026/02/16/Supports-Build-Stronger-Families/)
 **Score:** 5.90
 
-### 5. Manitoba Government Expands Agriâ€‘Food Trade ties with Asia-Pacific through Hong Kong Partnership
+### 5. Manitoba Government Expands Agri'Food Trade ties with Asia-Pacific through Hong Kong Partnership
 ðŸ“ [Source](https://news.gov.mb.ca/news/index.html?item=72638)
 **Score:** 7.50
 
@@ -54,8 +54,8 @@ This Family Day, join Family Services of Greater Vancouver in helping to shape t
 ðŸ“ [Source](https://news.gov.mb.ca/news/index.html?item=72617)
 **Score:** 7.50
 
-### 8. How Many People Are Overdosing at BCâ€™s Hospitals?
-That data is key to knowing where supervised consumption sites are needed. The government wonâ€™t release it.
+### 8. How Many People Are Overdosing at BC's Hospitals?
+That data is key to knowing where supervised consumption sites are needed. The government won't release it.
 ðŸ“ [Source](https://thetyee.ca/News/2026/02/17/How-Many-People-Overdosing-BC-Hospitals/)
 **Score:** 4.00
 

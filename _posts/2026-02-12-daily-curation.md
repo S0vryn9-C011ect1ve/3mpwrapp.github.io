@@ -25,7 +25,7 @@ Your source for disability rights news, advocacy updates, and community stories.
 ## Additional Stories
 
 ### 1. Why Does Vancouver Want a Global Defence Bank?
-Local business leaders promote Vancouverâ€™s connections to Asia, but critics warn Canada could end up boosting the â€˜war economy.â€™
+Local business leaders promote Vancouver's connections to Asia, but critics warn Canada could end up boosting the 'war economy.'
 ðŸ“ [Source](https://thetyee.ca/News/2026/02/12/Vancouver-Global-Defence-Bank/)
 **Score:** 10.50
 
@@ -37,7 +37,7 @@ Local business leaders promote Vancouverâ€™s connections to Asia, but criti
 ðŸ“ [Source](https://news.gov.mb.ca/news/index.html?item=72597)
 **Score:** 9.50
 
-### 4. Trumpâ€™s malignant narcissism and territorial imperialism fit hand in glove: We urgently need perspective
+### 4. Trump's malignant narcissism and territorial imperialism fit hand in glove: We urgently need perspective
 ðŸ“ [Source](https://rabble.ca/politics/us-politics/trumps-malignant-narcissism-and-territorial-imperialism-fit-hand-in-glove-we-urgently-need-perspective/)
 **Score:** 5.00
 

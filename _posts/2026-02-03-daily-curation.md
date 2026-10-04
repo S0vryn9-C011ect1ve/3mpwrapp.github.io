@@ -49,13 +49,13 @@ A new low opens the door for two-tier that would destroy medicare.
 ðŸ“ [Source](https://news.gov.mb.ca/news/index.html?item=72462)
 **Score:** 8.50
 
-### 7. Danielle Smithâ€™s $30-Million AHS Firing Spree
-Thatâ€™s the hit to Albertans for severance payments to top health officials since 2019, finds a Tyee analysis.
+### 7. Danielle Smith's $30-Million AHS Firing Spree
+That's the hit to Albertans for severance payments to top health officials since 2019, finds a Tyee analysis.
 ðŸ“ [Source](https://thetyee.ca/News/2026/02/03/Danielle-Smith-AHS-Firing-Spree/)
 **Score:** 8.00
 
 ### 8. When I Saw Scam Ads on Pinterest, I Clicked
-Canadians have lost millions to these fake campaigns on various social platforms. Hereâ€™s how they work.
+Canadians have lost millions to these fake campaigns on various social platforms. Here's how they work.
 ðŸ“ [Source](https://thetyee.ca/Analysis/2026/02/02/Scam-Ads-Pinterest/)
 **Score:** 6.50
 
@@ -91,8 +91,8 @@ Canadians have lost millions to these fake campaigns on various social platforms
 ðŸ“ [Source](https://news.gov.mb.ca/news/index.html?item=72457)
 **Score:** 7.50
 
-### 17. â€˜House of Folkâ€™ Puts Canadian Folk Music Centre Stage
-Coming to the Firehall this February, Tracey Powerâ€™s show captures the spirit of the Canadian folk revival of the â€™60s.
+### 17. 'House of Folk' Puts Canadian Folk Music Centre Stage
+Coming to the Firehall this February, Tracey Power's show captures the spirit of the Canadian folk revival of the '60s.
 ðŸ“ [Source](https://thetyee.ca/Presents/2026/02/03/House-of-Folk-Firehall/)
 **Score:** 4.50
 

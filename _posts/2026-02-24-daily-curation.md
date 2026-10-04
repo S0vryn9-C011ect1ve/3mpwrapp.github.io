@@ -25,7 +25,7 @@ Your source for disability rights news, advocacy updates, and community stories.
 ## Additional Stories
 
 ### 1. We Don't Need War to Mobilize the Public
-This anniversary of Ukraineâ€™s rally to defend itself should inspire creative thinking in Canada. How can we better activate our citizens?
+This anniversary of Ukraine's rally to defend itself should inspire creative thinking in Canada. How can we better activate our citizens?
 ðŸ“ [Source](https://thetyee.ca/Analysis/2026/02/24/We-Cannot-Wait-War-Mobilize-Public/)
 **Score:** 13.50
 
@@ -33,7 +33,7 @@ This anniversary of Ukraineâ€™s rally to defend itself should inspire creat
 ðŸ“ [Source](https://news.gov.mb.ca/news/index.html?item=72837)
 **Score:** 7.50
 
-### 3. A Sober Look at Albertaâ€™s Separatist Surge
+### 3. A Sober Look at Alberta's Separatist Surge
 How did we get here? Is it treason? And five more key questions examined.
 ðŸ“ [Source](https://thetyee.ca/Analysis/2026/02/24/Sober-Look-Alberta-Separatist-Surge/)
 **Score:** 3.60

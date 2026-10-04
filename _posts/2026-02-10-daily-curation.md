@@ -24,7 +24,7 @@ Your source for disability rights news, advocacy updates, and community stories.
 
 ## Additional Stories
 
-### 1. â€˜First Nations Would Not Exist Without Canada,â€™ Rustad Tells Crowd
+### 1. 'First Nations Would Not Exist Without Canada,' Rustad Tells Crowd
 Conservative MLAs held a town hall to criticize DRIPA. Community members and Indigenous leaders pushed back.
 ðŸ“ [Source](https://thetyee.ca/News/2026/02/10/First-Nations-Would-Not-Exist-Without-Canada-Rustad/)
 **Score:** 13.50
@@ -35,7 +35,7 @@ The News Forum grows while broadcasting a lot of talking heads tied to the liber
 **Score:** 13.00
 
 ### 3. Please Advise! Can Two Yale Bros Repair Canada-US Ties?
-MP Jamil Jivani may be pals with JD Vance, says Dr. Steve. Luckily, he canâ€™t actually make a deal.
+MP Jamil Jivani may be pals with JD Vance, says Dr. Steve. Luckily, he can't actually make a deal.
 ðŸ“ [Source](https://thetyee.ca/Opinion/2026/02/09/Please-Advise-Bros-Repair-Canada-US-Ties/)
 **Score:** 10.50
 

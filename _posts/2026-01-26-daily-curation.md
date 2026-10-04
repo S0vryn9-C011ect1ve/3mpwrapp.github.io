@@ -29,12 +29,12 @@ Policy experts warn Canada could be losing vital resources as trade and geopolit
 ðŸ“ [Source](https://thetyee.ca/News/2026/01/26/Federal-Public-Service-Layoffs/)
 **Score:** 26.00
 
-### 2. Trumpâ€™s America Comes for Alberta
+### 2. Trump's America Comes for Alberta
 The country must respond to this flagrant violation of Canadian sovereignty.
 ðŸ“ [Source](https://thetyee.ca/Opinion/2026/01/26/Trump-America-Comes-Alberta/)
 **Score:** 9.00
 
-### 3. Timing of Trump regimeâ€™s deadly occupation of Minneapolis probably isnâ€™t ideal for Albertaâ€™s separatists
+### 3. Timing of Trump regime's deadly occupation of Minneapolis probably isn't ideal for Alberta's separatists
 ðŸ“ [Source](https://rabble.ca/politics/canadian-politics/timing-of-trump-regimes-deadly-occupation-of-minneapolis-probably-isnt-ideal-for-albertas-separatists/)
 **Score:** 4.50
 

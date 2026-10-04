@@ -27,12 +27,12 @@ Why the surprise that a social democratic party would elect a leader with those 
 **Score:** 5.60
 
 ### 2. Alberta and Saskatchewan NDP leaders foolishly freak out over Avi Lewis victory
-Rabble.ca â€” progressive Canadian news
+Rabble.ca — progressive Canadian news
 [Source](https://rabble.ca/politics/canadian-politics/alberta-and-saskatchewan-ndp-leaders-foolishly-freak-out-over-avi-lewis-victory/)
 **Score:** 4.60
 
 ### 3. Company abandons Alberta oilsands nuclear project
-Rabble.ca â€” progressive Canadian news
+Rabble.ca — progressive Canadian news
 [Source](https://rabble.ca/politics/canadian-politics/company-abandons-alberta-oilsands-nuclear-project/)
 **Score:** 3.60
 

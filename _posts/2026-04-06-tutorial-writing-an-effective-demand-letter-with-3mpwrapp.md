@@ -13,11 +13,11 @@ excerpt: "How to use the Master Letter Generator to write legally sound, persuas
 
 ---
 
-Letters are the paper trail that determines outcomes in disability claims. A vague letter gives the other side room to dismiss your concerns. A precise, well-cited letter signals you know your rights â€” and that you're keeping records.
+Letters are the paper trail that determines outcomes in disability claims. A vague letter gives the other side room to dismiss your concerns. A precise, well-cited letter signals you know your rights — and that you're keeping records.
 
 3mpwrApp's Master Letter Generator was designed in partnership with disability advocates. The templates produce professional, legally sound documents that anyone can complete without legal training.
 
-Every letter you generate is automatically saved with a timestamp to your Evidence Locker â€” creating a documented record of your communications that may be critical evidence later.
+Every letter you generate is automatically saved with a timestamp to your Evidence Locker — creating a documented record of your communications that may be critical evidence later.
 
 ---
 
@@ -26,7 +26,7 @@ Every letter you generate is automatically saved with a timestamp to your Eviden
 - 15+ templates for the most common disability and workers' rights scenarios
 - Guided completion asks targeted questions to fill in the right details
 - Legal language validated against Canadian standards by disability advocates
-- Export to PDF, share directly, or print â€” your choice
+- Export to PDF, share directly, or print — your choice
 - Every letter auto-saves to your Evidence Locker with a timestamp
 
 ---
@@ -53,15 +53,15 @@ Every letter you generate is automatically saved with a timestamp to your Eviden
 
 ## Ready to Try It?
 
-1. **Download 3mpwrApp** â€” [3mpwrapp.pages.dev](https://3mpwrapp.ca/)
-2. **Sign up or explore as guest** â€” no commitment needed
-3. **Find this feature** â€” search or browse main navigation
+1. **Download 3mpwrApp** — [3mpwrapp.pages.dev](https://3mpwrapp.ca/)
+2. **Sign up or explore as guest** — no commitment needed
+3. **Find this feature** — search or browse main navigation
 
 ---
 
 ## About 3mpwrApp
 
 3mpwrApp is a free, accessibility-first platform for injured workers and people with disabilities across Canada.
-- ðŸ“– [Full User Guide](/user-guide/)
-- ðŸ§ª [Join the Beta](/app-waitlist)
-- ðŸ’¬ [Community Forums](/community/)
+- 📖 [Full User Guide](/user-guide/)
+- 🧪 [Join the Beta](/app-waitlist)
+- 💬 [Community Forums](/community/)

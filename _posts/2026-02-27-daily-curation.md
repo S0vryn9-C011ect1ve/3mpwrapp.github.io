@@ -24,7 +24,7 @@ Your source for disability rights news, advocacy updates, and community stories.
 
 ## Additional Stories
 
-### 1. Canadaâ€™s government gets a failing grade on child poverty
+### 1. Canada's government gets a failing grade on child poverty
 ðŸ“ [Source](https://rabble.ca/economy/canadas-government-gets-a-failing-grade-on-child-poverty/)
 **Score:** 16.20
 

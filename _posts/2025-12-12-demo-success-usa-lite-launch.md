@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ðŸŽ‰ First Demo Success & USA Lite Launch â€” 3mpwrApp Reaches New Milestone!"
+title: "ðŸŽ‰ First Demo Success & USA Lite Launch — 3mpwrApp Reaches New Milestone!"
 date: 2025-12-12 10:00:00 +0000
 tags: [features, spotlight, demo, usa-lite, milestone, announcement]
 categories: [features, announcements]
@@ -9,13 +9,13 @@ excerpt: Our first demo presentation was a success! Plus, we're excited to annou
 
 # ðŸŽ‰ First Demo Success & USA Lite Launch
 
-**Category:** Major Milestone â€¢ December 12, 2025
+**Category:** Major Milestone • December 12, 2025
 
 **Two exciting announcements today!** Our first demo presentation was a success, and we're launching USA Lite for American beta testers.
 
 * * *
 
-## ðŸŽ¤ First Demo Presentation â€” Success!
+## ðŸŽ¤ First Demo Presentation — Success!
 
 On December 9, 2025, we held our **first official demo and introduction presentation** for 3mpwrApp with the **Thunder Bay & District Injured Workers Support Group**. The response was incredible!
 
@@ -42,7 +42,7 @@ On December 9, 2025, we held our **first official demo and introduction presenta
 
 ## ðŸ‡ºðŸ‡¸ Introducing USA Lite
 
-Following requests from our American listeners during the demo, we're excited to announce **USA Lite** â€” a version of 3mpwrApp designed specifically for US-based supporters!
+Following requests from our American listeners during the demo, we're excited to announce **USA Lite** — a version of 3mpwrApp designed specifically for US-based supporters!
 
 ### What is USA Lite?
 
@@ -105,7 +105,7 @@ We're starting USA Lite development with a focus on **10 key states**:
 
 | Metric | Status |
 |--------|--------|
-| **Phase** | Phase 1 â€” Starting Soon! |
+| **Phase** | Phase 1 — Starting Soon! |
 | **Tests Passing** | 721 |
 | **WCAG Compliance** | AAA |
 | **Canada Full** | âœ… Available |

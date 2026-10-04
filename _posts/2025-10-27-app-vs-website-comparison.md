@@ -200,7 +200,7 @@ excerpt: "3mpwrApp has a mobile app AND a website. Why both? Which should you us
 - Access medical records offline
 - Log appointment notes in wellness tracker
 
-**Why not website?** Privacyâ€”you don't want to pull up sensitive docs in a browser where someone might see your screen.
+**Why not website?** Privacy—you don't want to pull up sensitive docs in a browser where someone might see your screen.
 
 ### Scenario 2: Researching Your Rights
 **Use the Website:**
@@ -328,7 +328,7 @@ Most users find both valuable for different purposes.
 
 ### Profile 4: "The Balanced User"
 **Priority:** All of the above
-**Recommendation:** Both equally (50/50)â€”best experience!
+**Recommendation:** Both equally (50/50)—best experience!
 
 * * *
 
@@ -368,7 +368,7 @@ Both are 100% free, forever. Both are built for you. Use what works for your nee
 
 * * *
 
-**ðŸ’š Different tools for different needsâ€”all serving YOU.**
+**ðŸ’š Different tools for different needs—all serving YOU.**
 
 * * *
 

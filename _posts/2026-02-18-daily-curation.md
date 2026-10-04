@@ -33,7 +33,7 @@ We and other wealthy nations are pulling back on our funding. With disastrous ef
 ðŸ“ [Source](https://thetyee.ca/Opinion/2026/02/18/Canada-Failing-Foreign-Aid-Test/)
 **Score:** 10.50
 
-### 3. â€˜We Donâ€™t Think Theyâ€™re Seriousâ€™: Amazon Union Wants Mediation
+### 3. 'We Don't Think They're Serious': Amazon Union Wants Mediation
 Unifor Local 114 says the company has stalled bargaining for its only group of unionized workers in Canada.
 ðŸ“ [Source](https://thetyee.ca/News/2026/02/18/Amazon-Union-Wants-Mediation/)
 **Score:** 10.50
@@ -54,7 +54,7 @@ Unifor Local 114 says the company has stalled bargaining for its only group of u
 ðŸ“ [Source](https://rabble.ca/politics/canadian-politics/ric-mciver-states-unequivocally-he-is-not-a-supporter-of-alberta-separatism/)
 **Score:** 5.90
 
-### 8. What happened to Alberta's â€˜triage liason' doctors?
+### 8. What happened to Alberta's 'triage liason' doctors?
 ðŸ“ [Source](https://rabble.ca/politics/canadian-politics/what-happened-to-albertas-triage-liason-doctors/)
 **Score:** 5.90
 

@@ -24,7 +24,7 @@ Your source for disability rights news, advocacy updates, and community stories.
 
 ## Additional Stories
 
-### 1. The overuse of the notwithstanding clause in Canadaâ€”and how it affects our 2SLGBTQIA+ communities
+### 1. The overuse of the notwithstanding clause in Canada—and how it affects our 2SLGBTQIA+ communities
 ðŸ“ [Source](https://rabble.ca/podcast/the-overuse-of-the-notwithstanding-clause-in-canada-and-how-it-affects-our-2slgbtqia-communities/)
 **Score:** 10.50
 
@@ -41,11 +41,11 @@ Your source for disability rights news, advocacy updates, and community stories.
 **Score:** 5.40
 
 ### 5. Please Advise! Is Eby Right to Call It Treason?
-BCâ€™s premier levelled the accusation at Alberta separatists. Was that rude?
+BC's premier levelled the accusation at Alberta separatists. Was that rude?
 ðŸ“ [Source](https://thetyee.ca/Opinion/2026/01/30/Is-Eby-Right-Calling-Alberta-Separatism-Treason/)
 **Score:** 4.50
 
-### 6. Versions of â€˜1984â€™ and â€˜Book of Genesisâ€™ Banned in Alberta Schools
+### 6. Versions of '1984' and 'Book of Genesis' Banned in Alberta Schools
 Graphic novels are the focus of the full list of prohibited books, revealed through FOI.
 ðŸ“ [Source](https://thetyee.ca/Opinion/2026/01/29/Graphic-Novels-1984-Genesis-Banned-Alberta-Schools/)
 **Score:** 4.50

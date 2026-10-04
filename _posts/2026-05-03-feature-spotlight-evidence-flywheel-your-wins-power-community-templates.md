@@ -77,7 +77,7 @@ For complete information about Evidence Flywheel: Your Wins Power Community Temp
 
 ## About 3mpwrApp
 
-3mpwrApp is a community-driven platform built for injured workers and persons with disabilities across Canada. We provide practical tools, community support, and advocacy resourcesâ€”all designed with accessibility, privacy, and cultural respect at the core.
+3mpwrApp is a community-driven platform built for injured workers and persons with disabilities across Canada. We provide practical tools, community support, and advocacy resources—all designed with accessibility, privacy, and cultural respect at the core.
 
 **All features are:**
 - âœ… Fully accessible (WCAG 2.2 AA+)

@@ -25,7 +25,7 @@ Your source for disability rights news, advocacy updates, and community stories.
 ## Additional Stories
 
 ### 1. How Big Tech Spearheads the US Threat to Canada
-American digital giants are deeply entrenched here, making the building of Carneyâ€™s â€˜sovereign cloudâ€™ near impossible.
+American digital giants are deeply entrenched here, making the building of Carney's 'sovereign cloud' near impossible.
 ðŸ“ [Source](https://thetyee.ca/Analysis/2026/01/29/Big-Tech-Spearheads-US-Threat-Canada/)
 **Score:** 11.50
 

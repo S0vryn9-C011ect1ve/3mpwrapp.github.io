@@ -17,17 +17,17 @@ People with disabilities are disproportionately targeted by discriminatory data 
 
 Local-first architecture means your data lives on your device by default. We do not have a server full of your symptom logs, evidence photos, or medical records. You cannot have a data breach of data that was never collected.
 
-When you choose to back things up or sync across devices, you choose. The encryption travels with the data. You hold the keys â€” and so do we not.
+When you choose to back things up or sync across devices, you choose. The encryption travels with the data. You hold the keys — and so do we not.
 
 ---
 
 ## What You'll Learn
 
-- Your data lives on your device â€” not on remote servers â€” by default
+- Your data lives on your device — not on remote servers — by default
 - AES-256-GCM encryption protects all sensitive records at rest
-- No advertising, no data brokering, no selling your information â€” ever
+- No advertising, no data brokering, no selling your information — ever
 - You choose exactly what (if anything) ever syncs to the cloud
-- You can export and delete everything at any time â€” you own your data
+- You can export and delete everything at any time — you own your data
 
 ---
 
@@ -37,7 +37,7 @@ When you choose to back things up or sync across devices, you choose. The encryp
 
 **Step 2:** Symptom data and medical records are encrypted before being written to storage
 
-**Step 3:** Disable internet entirely â€” 3mpwrApp continues to work fully offline
+**Step 3:** Disable internet entirely — 3mpwrApp continues to work fully offline
 
 **Step 4:** Export your complete data package at any time for portability or legal use
 
@@ -45,23 +45,23 @@ When you choose to back things up or sync across devices, you choose. The encryp
 
 ## Key Takeaways
 
-- For people with disabilities in legal disputes, privacy is not a preference â€” it is self-protection
+- For people with disabilities in legal disputes, privacy is not a preference — it is self-protection
 - Insurance companies and employers cannot demand data that doesn't exist on a server we control
-- Local-first means control stays with you â€” architecturally, not just as a policy promise
+- Local-first means control stays with you — architecturally, not just as a policy promise
 
 ---
 
 ## Ready to Try It?
 
-1. **Download 3mpwrApp** â€” [3mpwrapp.pages.dev](https://3mpwrapp.ca/)
-2. **Sign up or explore as guest** â€” no commitment needed
-3. **Find this feature** â€” search or browse main navigation
+1. **Download 3mpwrApp** — [3mpwrapp.pages.dev](https://3mpwrapp.ca/)
+2. **Sign up or explore as guest** — no commitment needed
+3. **Find this feature** — search or browse main navigation
 
 ---
 
 ## About 3mpwrApp
 
 3mpwrApp is a free, accessibility-first platform for injured workers and people with disabilities across Canada.
-- ðŸ“– [Full User Guide](/user-guide/)
-- ðŸ§ª [Join the Beta](/app-waitlist)
-- ðŸ’¬ [Community Forums](/community/)
+- 📖 [Full User Guide](/user-guide/)
+- 🧪 [Join the Beta](/app-waitlist)
+- 💬 [Community Forums](/community/)

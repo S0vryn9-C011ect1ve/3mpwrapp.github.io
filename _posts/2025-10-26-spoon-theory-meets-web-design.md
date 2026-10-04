@@ -68,7 +68,7 @@ At any point, click "Reset" to start fresh. This is especially helpful if you:
 ## Why This Is Revolutionary
 
 ### 1. Honors Spoon Theory
-Created by Christine Miserandino, spoon theory helps people explain energy limitations to others. We're the first website to operationalize itâ€”making it a functional part of web design, not just a metaphor.
+Created by Christine Miserandino, spoon theory helps people explain energy limitations to others. We're the first website to operationalize it—making it a functional part of web design, not just a metaphor.
 
 ### 2. Informed Decision-Making
 Instead of discovering halfway through a page that you don't have the energy to finish it, you can make informed choices:
@@ -106,7 +106,7 @@ When you see "Energy used: 8" and realize you've used more spoons than you inten
 - No crash, better day overall
 
 ### Case Study 2: Pain Flare Day
-**Marcus has chronic back pain from a workplace injury. Today is a bad pain dayâ€”he has maybe 5 spoons total.**
+**Marcus has chronic back pain from a workplace injury. Today is a bad pain day—he has maybe 5 spoons total.**
 
 **Without Spoon Counter:**
 - Tries to research legal rights
@@ -231,7 +231,7 @@ Your spoon count syncs across devices: phone, tablet, desktop
 Machine learning adjusts energy costs based on your actual usage patterns
 
 **â™¿ Universal Design**
-Not just for chronic illnessâ€”benefits anyone managing cognitive load (students, stressed workers, new parents, etc.)
+Not just for chronic illness—benefits anyone managing cognitive load (students, stressed workers, new parents, etc.)
 
 **ðŸ“Š Advocacy Tool**
 Show employers, doctors, family: "This is what daily energy management looks like"

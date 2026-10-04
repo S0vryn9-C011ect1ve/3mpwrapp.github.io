@@ -21,7 +21,7 @@ Your source for disability rights news, advocacy updates, and community stories.
 
 ## Additional Stories
 
-### 1. Why Trudeauâ€™s Emergency Act Use Should Go to the Supreme Court
+### 1. Why Trudeau's Emergency Act Use Should Go to the Supreme Court
 An Appeal Court has said the imposition was unjustified. But the ruling raises issues and risks.
 ðŸ“ [Source](https://thetyee.ca/Opinion/2026/01/20/Trudeau-Emergency-Act-Use-Supreme-Court/)
 **Score:** 29.30
@@ -36,7 +36,7 @@ The US is obsessed with grabbing others' resources. Climate crisis be damned.
 **Score:** 22.20
 
 ### 4. Canada Should Get Creative to Reduce Bridge Suicides
-One Fraser River bridge will get crisis call boxes following a harrowing incident. Stacy Ashton says thatâ€™s not enough.
+One Fraser River bridge will get crisis call boxes following a harrowing incident. Stacy Ashton says that's not enough.
 ðŸ“ [Source](https://thetyee.ca/News/2026/01/21/Canada-Should-Get-Creative-Reduce-Bridge-Suicides/)
 **Score:** 21.00
 
@@ -60,22 +60,22 @@ One Fraser River bridge will get crisis call boxes following a harrowing inciden
 ðŸ“ [Source](https://rabble.ca/health/the-sad-truth-canada-still-under-serves-people-living-with-mental-illness/)
 **Score:** 10.50
 
-### 10. Whatâ€™s Really Behind the Pilot Shortage in Canada?
-Airlines say theyâ€™re struggling to hire pilots. A union says the problem is the quality of jobs.
+### 10. What's Really Behind the Pilot Shortage in Canada?
+Airlines say they're struggling to hire pilots. A union says the problem is the quality of jobs.
 ðŸ“ [Source](https://thetyee.ca/News/2026/01/23/What-Behind-Pilot-Shortage-Canada/)
 **Score:** 10.50
 
-### 11. Carneyâ€™s Blunt Speech Was Historic. But What Comes Next?
+### 11. Carney's Blunt Speech Was Historic. But What Comes Next?
 Canada has a history of talking big but not following through with concrete action, says international affairs expert.
 ðŸ“ [Source](https://thetyee.ca/News/2026/01/21/Carney-Blunt-Historic-Davos-Speech-What-Comes-Next/)
 **Score:** 10.50
 
-### 12. â€œAn act of reconciliationâ€: St. Matthewâ€™s opens Black and Indigenous inclusive housing in Hamilton
+### 12. "An act of reconciliation": St. Matthew's opens Black and Indigenous inclusive housing in Hamilton
 ðŸ“ [Source](https://rabble.ca/human-rights/an-act-of-reconciliation-st-matthews-opens-black-and-indigenous-inclusive-housing-in-hamilton/)
 **Score:** 9.20
 
-### 13. Are Grokâ€™s Fake Nudes Breaking Canadian Laws? A Tyee Explainer
-It depends on the province youâ€™re in, say tech and privacy law experts.
+### 13. Are Grok's Fake Nudes Breaking Canadian Laws? A Tyee Explainer
+It depends on the province you're in, say tech and privacy law experts.
 ðŸ“ [Source](https://thetyee.ca/News/2026/01/20/Grok-Fake-Nudes-Canadian-Laws/)
 **Score:** 10.50
 
@@ -116,8 +116,8 @@ As the federal government is revisiting its salmon allocation policy, fishing gr
 ðŸ“ [Source](https://news.gov.mb.ca/news/index.html?item=72462)
 **Score:** 8.70
 
-### 23. Are You The Tyeeâ€™s New Biodiversity Reporter?
-Weâ€™re looking for a sharp journalist to join our team. Apply by Feb. 8.
+### 23. Are You The Tyee's New Biodiversity Reporter?
+We're looking for a sharp journalist to join our team. Apply by Feb. 8.
 ðŸ“ [Source](https://thetyee.ca/Tyeenews/2026/01/23/Tyee-Biodiversity-Reporter/)
 **Score:** 6.90
 
@@ -170,7 +170,7 @@ Weâ€™re looking for a sharp journalist to join our team. Apply by Feb. 8.
 **Score:** 8.20
 
 ### 36. Autocrats over Human Rights: The World Cup Formula
-FIFA says itâ€™s changed its â€˜toxicâ€™ ways. So why the warm embrace of Donald Trump? A Tyee deep dive.
+FIFA says it's changed its 'toxic' ways. So why the warm embrace of Donald Trump? A Tyee deep dive.
 ðŸ“ [Source](https://thetyee.ca/News/2026/01/19/Autocrats-Human-Rights-World-Cup-Formula/)
 **Score:** 4.80
 

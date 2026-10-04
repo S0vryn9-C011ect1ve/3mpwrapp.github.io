@@ -25,7 +25,7 @@ Your source for disability rights news, advocacy updates, and community stories.
 ## Additional Stories
 
 ### 1. A Startling Account of Migrant Workers in Canada
-â€˜The portrait that it paints is extremely unflattering,â€™ says Calgary author Marcello Di Cintio of â€˜Precarious,â€™ his new book.
+'The portrait that it paints is extremely unflattering,' says Calgary author Marcello Di Cintio of 'Precarious,' his new book.
 ðŸ“ [Source](https://thetyee.ca/Culture/2026/01/30/Startling-Account-Migrant-Workers-Canada/)
 **Score:** 10.50
 

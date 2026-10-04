@@ -73,4 +73,4 @@ All energy prediction happens **on your device**:
 
 * * *
 
-**3mpwrApp learns how you workâ€”so the app adapts to your life, not the other way around.**
+**3mpwrApp learns how you work—so the app adapts to your life, not the other way around.**

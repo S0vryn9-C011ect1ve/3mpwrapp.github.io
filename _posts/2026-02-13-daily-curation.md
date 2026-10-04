@@ -36,7 +36,7 @@ Your source for disability rights news, advocacy updates, and community stories.
 ðŸ“ [Source](https://news.gov.mb.ca/news/index.html?item=72737)
 **Score:** 7.50
 
-### 4. Why Treaties Are the Best Fix for BCâ€™s Land Uncertainty
+### 4. Why Treaties Are the Best Fix for BC's Land Uncertainty
 Recent court rulings show the province can no longer ignore legal injustices, a former provincial cabinet minister says.
 ðŸ“ [Source](https://thetyee.ca/News/2026/02/13/Treaties-Best-Fix-BC-Land-Uncertainty/)
 **Score:** 5.00
@@ -54,7 +54,7 @@ Recent court rulings show the province can no longer ignore legal injustices, a 
 **Score:** 4.00
 
 ### 8. DTES Calls for Retail, Not Police, in Vacant London Drugs Spot
-The mayor wants police training in the Woodwardâ€™s space, but business and community want affordable retail.
+The mayor wants police training in the Woodward's space, but business and community want affordable retail.
 ðŸ“ [Source](https://thetyee.ca/News/2026/02/13/DTES-Retail-Not-Police-Vacant-London-Drugs/)
 **Score:** 5.00
 

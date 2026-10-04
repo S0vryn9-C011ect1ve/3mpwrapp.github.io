@@ -53,15 +53,15 @@ Deadlines are the hidden killer of disability claims. A reconsideration request 
 
 ## Ready to Try It?
 
-1. **Download 3mpwrApp** Ã¢â‚¬â€ [3mpwrapp.pages.dev](https://3mpwrapp.ca/)
-2. **Sign up or explore as guest** Ã¢â‚¬â€ no commitment needed
-3. **Find this feature** Ã¢â‚¬â€ search or browse main navigation
+1. **Download 3mpwrApp** Ã¢â‚¬" [3mpwrapp.pages.dev](https://3mpwrapp.ca/)
+2. **Sign up or explore as guest** Ã¢â‚¬" no commitment needed
+3. **Find this feature** Ã¢â‚¬" search or browse main navigation
 
 * * *
 
 ## About 3mpwrApp
 
 3mpwrApp is a free, accessibility-first platform for injured workers and people with disabilities across Canada.
-- Ã°Å¸â€œâ€“ [Full User Guide](/user-guide/)
+- Ã°Å¸"– [Full User Guide](/user-guide/)
 - Ã°Å¸Â§Âª [Join the Beta](/app-waitlist)
-- Ã°Å¸â€™Â¬ [Community Forums](/community/)
+- Ã°Å¸'Â¬ [Community Forums](/community/)

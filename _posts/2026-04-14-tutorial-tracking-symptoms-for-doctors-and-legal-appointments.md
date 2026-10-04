@@ -13,9 +13,9 @@ excerpt: "How to build a concrete, timestamped health record using 3mpwrApp's Sy
 
 ---
 
-"I've been having worse days lately." That's a statement that's easy to dismiss. "My six-month symptom log shows 14 days rated 8/10 or above in the last month, compared to 4 in the same period last year" â€” that is a statement that opens doors.
+"I've been having worse days lately." That's a statement that's easy to dismiss. "My six-month symptom log shows 14 days rated 8/10 or above in the last month, compared to 4 in the same period last year" — that is a statement that opens doors.
 
-3mpwrApp's Symptom Tracker turns your subjective daily experience into objective data. Not because your experience isn't valid â€” it absolutely is â€” but because objective data is harder to argue with in a clinical or legal context.
+3mpwrApp's Symptom Tracker turns your subjective daily experience into objective data. Not because your experience isn't valid — it absolutely is — but because objective data is harder to argue with in a clinical or legal context.
 
 The export function is specifically formatted for medical appointments. Hand your doctor a ready-to-read summary instead of trying to reconstruct the last three months while sitting in a waiting room in pain.
 
@@ -27,7 +27,7 @@ The export function is specifically formatted for medical appointments. Hand you
 - Pain scale and symptom intensity tracked visually over time
 - Export a formatted summary report for medical appointments
 - Pattern recognition shows which symptoms cluster or correlate
-- Six-month view shows what memory cannot â€” the actual trend
+- Six-month view shows what memory cannot — the actual trend
 
 ---
 
@@ -53,15 +53,15 @@ The export function is specifically formatted for medical appointments. Hand you
 
 ## Ready to Try It?
 
-1. **Download 3mpwrApp** â€” [3mpwrapp.pages.dev](https://3mpwrapp.ca/)
-2. **Sign up or explore as guest** â€” no commitment needed
-3. **Find this feature** â€” search or browse main navigation
+1. **Download 3mpwrApp** — [3mpwrapp.pages.dev](https://3mpwrapp.ca/)
+2. **Sign up or explore as guest** — no commitment needed
+3. **Find this feature** — search or browse main navigation
 
 ---
 
 ## About 3mpwrApp
 
 3mpwrApp is a free, accessibility-first platform for injured workers and people with disabilities across Canada.
-- ðŸ“– [Full User Guide](/user-guide/)
-- ðŸ§ª [Join the Beta](/app-waitlist)
-- ðŸ’¬ [Community Forums](/community/)
+- 📖 [Full User Guide](/user-guide/)
+- 🧪 [Join the Beta](/app-waitlist)
+- 💬 [Community Forums](/community/)

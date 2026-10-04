@@ -24,7 +24,7 @@ Your source for disability rights news, advocacy updates, and community stories.
 
 ## Additional Stories
 
-### 1. Albertaâ€™s two-tier health care bill is designed to kill public health care
+### 1. Alberta's two-tier health care bill is designed to kill public health care
 ðŸ“ [Source](https://rabble.ca/politics/canadian-politics/albertas-two-tier-health-care-bill-is-designed-to-kill-public-health-care/)
 **Score:** 14.40
 

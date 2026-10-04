@@ -24,13 +24,13 @@ Your source for disability rights news, advocacy updates, and community stories.
 
 ## Additional Stories
 
-### 1. â€˜Very Little Valueâ€™: Judge Frustrated by Health Canada at DULF Trial
-Justice Catherine Murray said witness Eric Costen appeared to be â€˜guessingâ€™ in his responses on the stand.
+### 1. 'Very Little Value': Judge Frustrated by Health Canada at DULF Trial
+Justice Catherine Murray said witness Eric Costen appeared to be 'guessing' in his responses on the stand.
 ðŸ“ [Source](https://thetyee.ca/News/2026/01/28/Judge-Frustrated-Health-Canada-DULF-Trial/)
 **Score:** 25.90
 
-### 2. Carneyâ€™s Foreign Policy as a Framework for Our Domestic Future
-Itâ€™s important to live truth at home. Indigenous self-determination is essential to Canadaâ€™s global credibility.
+### 2. Carney's Foreign Policy as a Framework for Our Domestic Future
+It's important to live truth at home. Indigenous self-determination is essential to Canada's global credibility.
 ðŸ“ [Source](https://thetyee.ca/Opinion/2026/01/27/Carney-Foreign-Policy-Domestic-Future/)
 **Score:** 13.10
 
@@ -40,7 +40,7 @@ Danielle Smith has been flirting with separatists, Nenshi says. Will her party b
 **Score:** 10.50
 
 ### 4. Indigenous Canadians Warned about Travel to the US
-The AFN says it â€˜strongly condemnsâ€™ reports of First Nations people being questioned and detained by ICE.
+The AFN says it 'strongly condemns' reports of First Nations people being questioned and detained by ICE.
 ðŸ“ [Source](https://thetyee.ca/News/2026/01/27/Indigenous-Canadians-Warned-Travel-US/)
 **Score:** 8.40
 
