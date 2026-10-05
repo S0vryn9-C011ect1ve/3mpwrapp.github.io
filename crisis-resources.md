@@ -19,6 +19,19 @@ permalink: /crisis-resources/
 
 # Crisis Resources
 
+<div class="crisis-callout" style="border:3px solid #d32f2f;background:#fff5f5;border-radius:8px;padding:1.4rem;margin:1.5rem 0;">
+<h2 style="margin-top:0;color:#b71c1c;">🆘 Suicide Crisis Helpline — call or text 9-8-8</h2>
+<p><strong>9-8-8 (1-888-989-4888)</strong> is Canada’s national suicide prevention helpline.
+Available <strong>24/7</strong>, in <strong>English and French</strong>, by phone or text message.</p>
+<ul style="margin:.6rem 0 0 1.2rem;">
+  <li><strong>Call</strong> 9-8-8</li>
+  <li><strong>Text</strong> 9-8-8 to 9-8-8</li>
+  <li>Interpretation available on request — state your language at the start of the call</li>
+</ul>
+<p style="margin:.8rem 0 0;"><strong>If you are in immediate danger, call 911.</strong></p>
+<p style="margin:.4rem 0 0;font-size:.9rem;">Source: <a href="https://988.ca/">988.ca</a> (Government of Canada). Verified October 4, 2026.</p>
+</div>
+
 **Canada-wide 24/7 support numbers for immediate help.**
 
 ---
@@ -233,7 +246,15 @@ permalink: /crisis-resources/
 <script src="{{ '/assets/js/page-enhancements.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/crisis-resources.js' | relative_url }}"></script>
 
-*Last verified: October 26, 2025 | Numbers verified monthly*
+*Content reviewed: October 4, 2026*
+
+> **A note on these numbers.** We list the helplines below because they are the right
+> places to call. We **do not** re-verify every number every month — that claim used to
+> appear here and it was not true. If a number doesn’t connect, or you believe one has
+> changed, please [tell us](/contact/) and we will correct it.
+
+> Hours shown are as published by each service. Lines showing weekday hours are
+> **office-hours lines, not crisis lines**. In an emergency use **9-8-8** or 911.
 
 **[Back to home](/)** | **[Contact us](/contact)**
 
