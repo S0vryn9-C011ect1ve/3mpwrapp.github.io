@@ -334,8 +334,30 @@ This guide is based on analysis of:
 
 **Methodology:** [Read full data limitations](../data-limitations/)
 
-**Last Updated:** April 30, 2026
 
 ---
 
 *This guide is for informational purposes only and does not constitute legal advice. For case-specific guidance, consult a legal professional or clinic specializing in workplace injury law.*
+
+---
+
+## About the figures on this page
+
+**Content reviewed:** October 4, 2026
+
+We would rather tell you what we have *not* checked than publish a confident
+number that turns out to be wrong. On a page about money or deadlines, a wrong
+figure costs someone something real.
+
+- **Decision-pattern counts** on these pages are computed from the official
+  [WSIAT Open Data](https://www.wsiat.ca/en/home/opendata_decisions.html) export.
+  These are ours to compute and we can stand behind them.
+- **Statutory amounts** — benefit maxima, rates, thresholds — are set by WSIB and
+  change every year. Where we have not confirmed a figure against the primary
+  source, we say so on the page rather than print it.
+- **Deadlines and time limits** are the figures worth double-checking against
+  [WSIB policy](https://www.wsib.ca/en/policy) or your own correspondence, no
+  matter what any page here says.
+
+*If you find a figure on this site that is wrong or out of date, please tell us —
+[contact](/contact/).*

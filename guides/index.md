@@ -447,7 +447,9 @@ These guides are for **informational purposes only** and do not constitute legal
 
 ---
 
-**Last Updated:** April 29, 2026  
+**Content reviewed:** October 4, 2026
+
+*The figures on this page come from the WSIAT Open Data export. Statutory amounts change annually — see each guide for what is and isn't verified.*  
 **Data Source:** 99,036 WSIAT decisions (1987-2026) from [WSIAT Open Data Portal](https://www.wsiat.ca/en/home/opendata_decisions.html)  
 **Analysis Depth:** 9 advanced pattern categories (keyword co-occurrence, temporal evolution, vice-chair specialization, body parts, medical specialists, policy citations, complexity, outcomes, network visualization)  
 **Next Update:** October 2026 (when new decisions published)

@@ -58,13 +58,32 @@ permalink: /guides/wsiat-loe-benefits/
 
 **LOE = 85% of (Pre-Injury Earnings - Post-Injury Earnings)**
 
+The 85% figure is confirmed on the
+[WSIB loss of earnings page](https://www.wsib.ca/en/loss-earnings-benefit).
+
 **Example:**
 - Pre-injury: $4,167/month
 - Post-injury: $2,500/month
 - Difference: $1,667/month
 - **LOE benefit:** $1,667 × 0.85 = **$1,417/month**
 
-**Maximum LOE (2026):** $6,962/month (updated annually)
+> ### ⚠️ The annual maximum — verify this before you rely on it
+>
+> **We have not been able to confirm the 2026 statutory maximum LOE from the
+> WSIB's own published table.** WSIB sets this figure annually and it changes.
+> A figure carried over from last year will be wrong.
+>
+> **Get the current number from the primary source:**
+> [WSIB — Table of Rates](https://www.wsib.ca/en/operational-policy-manual/table-rates)
+> (policy 17-06-01, maximums table). Or call the **WSIB Information Line** and
+> ask for the current maximum LOE.
+>
+> *Unverified as of 2026-10-04. This page previously stated a specific monthly
+> maximum with no source. We removed the number rather than print one we cannot
+> stand behind.*
+
+**What we can confirm:** LOE is subject to an annual maximum that rises each
+year, and LOE payments are indexed for inflation.
 
 ### Step 3: Ongoing Payments
 
@@ -325,12 +344,27 @@ This guide is based on:
 - 99,036 total WSIAT decisions analyzed
 - Official WSIAT CSV export from [WSIAT Open Data Portal](https://www.wsiat.ca/en/home/opendata_decisions.html)
 - Pattern analysis generated April 2026
-- Deep-dive co-occurrence analysis: LOE + Loss of Earnings (9,167 cases, 9.26%)
+- Deep-dive co-occurrence analysis: LOE + Loss of Earnings (9,217 cases, 9.31%)
 
 **Full analysis:** WSIAT Pattern Analysis Report  
 **Deep dive:** WSIAT Deep Dive Report
 
 ---
 
-**Last Updated:** April 29, 2026  
-**Next Review:** October 2026
+**Last content review:** October 4, 2026
+
+### What on this page is verified, and what is not
+
+Being straight about this, because a wrong dollar figure can cost someone an appeal.
+
+| Content | Status |
+|---|---|
+| Decision-pattern counts (10,838 LOE decisions, 10.94% of appeals) | **Verified** — computed from the WSIAT Open Data export of 99,036 decisions |
+| The 85% LOE formula | **Verified** against the WSIB loss-of-earnings page, 2026-10-04 |
+| Worked examples using the 85% formula | **Verified arithmetic** — the examples are ours, not WSIB's |
+| The annual statutory maximum LOE | **Removed — could not verify.** See the warning above |
+| Maximum insurable earnings ($121,700 for 2026) | Verified via WSIB 2026 premium rates, 2026-10-04 |
+
+*Pattern analysis generated April 2026. Content reviewed October 4, 2026.*
+
+**Next scheduled review:** figures with dollar amounts, January 2027

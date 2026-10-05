@@ -55,7 +55,21 @@ WSIB uses the **American Medical Association (AMA) Guides to the Evaluation of P
 
 **NEL Award = Base Amount × (Age Factor) × (Impairment %)**
 
-**2026 Maximum NEL:** $78,327.09 (adjusted annually for inflation)
+**2026 Maximum NEL:** see the note below before using any figure
+
+> ### ⚠️ The annual NEL maximum — verify this before you rely on it
+>
+> **We have not confirmed the 2026 maximum NEL against the WSIB's published
+> table.** This figure is set annually and indexed, so any number carried over
+> from a previous year is likely wrong.
+>
+> **Get the current amount from the primary source:**
+> [WSIB — Table of Rates](https://www.wsib.ca/en/operational-policy-manual/table-rates),
+> policy 17-06-01. Or call the **WSIB Information Line**.
+>
+> *Unverified as of 2026-10-04. This page previously stated a specific maximum
+> with no source. We removed the number rather than print one we cannot stand
+> behind.*
 
 **Age Factor:**
 - Age 45 or older: 1.00
@@ -73,7 +87,13 @@ NEL is paid as a **one-time lump sum**, not monthly.
 
 **Your position:** Medical evidence shows 15% impairment  
 **WSIB decision:** Rated at 8% impairment  
-**NEL difference:** 8% × $78,327 = $6,266 vs. 15% × $78,327 = $11,749 (**$5,483 difference**)
+**NEL difference:** 8% × M = $6,266 vs. 15% × M = $11,749 (**$5,483 difference**),
+where M is the maximum NEL in force on your accident date
+
+> We have removed the dollar figures from this example deliberately. The
+> arithmetic is correct, but the base amount it multiplies is the statutory
+> maximum we could not verify. Plug in the current rate from the
+> [WSIB Table of Rates](https://www.wsib.ca/en/operational-policy-manual/table-rates).
 
 **What WSIAT looks for:**
 - Independent medical assessments
@@ -261,5 +281,25 @@ This guide is based on:
 
 ---
 
-**Last Updated:** April 29, 2026  
-**Next Review:** October 2026
+---
+
+## About the figures on this page
+
+**Content reviewed:** October 4, 2026
+
+We would rather tell you what we have *not* checked than publish a confident
+number that turns out to be wrong. On a page about money or deadlines, a wrong
+figure costs someone something real.
+
+- **Decision-pattern counts** on these pages are computed from the official
+  [WSIAT Open Data](https://www.wsiat.ca/en/home/opendata_decisions.html) export.
+  These are ours to compute and we can stand behind them.
+- **Statutory amounts** — benefit maxima, rates, thresholds — are set by WSIB and
+  change every year. Where we have not confirmed a figure against the primary
+  source, we say so on the page rather than print it.
+- **Deadlines and time limits** are the figures worth double-checking against
+  [WSIB policy](https://www.wsib.ca/en/policy) or your own correspondence, no
+  matter what any page here says.
+
+*If you find a figure on this site that is wrong or out of date, please tell us —
+[contact](/contact/).*
