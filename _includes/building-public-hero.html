@@ -1,212 +1,56 @@
-<!-- Building in Public Hero Banner -->
-<section class="building-public-hero" role="banner" aria-label="Building in public transparency banner">
+<!-- Mission Section — What 3mpwrapp is, who it serves -->
+<section class="building-public-hero" role="region" aria-label="What 3mpwrapp is and who it serves">
   <div class="building-public-content">
-    <div class="building-public-icon">🚧</div>
+    <div class="building-public-icon">♿</div>
     <div class="building-public-text">
-      <h2 class="building-public-title"> Building in Public - See Every Change</h2>
+      <h2 class="building-public-title">3mpwrapp — Community Support for Injured Workers &amp; Persons with Disabilities</h2>
       <p class="building-public-subtitle">
-        <strong id="hero-total-updates">4,600+</strong> updates since October 2025.
-        <noscript><strong>Many</strong> improvements this week.</noscript>
-        <span id="hero-weekly-updates-wrap" style="display:none"><strong id="hero-weekly-updates">Loading...</strong> improvements this week.</span>
-        Every commit, every fix, every feature—shared openly with our community.
+        Canada-wide, provincial, and local. For injured workers, persons with disabilities, elderly, veterans, families, allies, and the public.
+        Free, accessible, local-first — built in Thunder Bay ON Canada.
       </p>
     </div>
-    <div class="building-public-actions">
-      <a href="{{ '/whats-new/' | relative_url }}" class="building-public-btn-primary">
-        <span>View All Updates</span>
-        <span aria-hidden="true">→</span>
-      </a>
-      <a href="{{ '/whats-new/feed.xml' | relative_url }}" class="building-public-btn-secondary">
-        <span aria-hidden="true">📡</span>
-        <span>RSS Feed</span>
-      </a>
-    </div>
+    <a href="/about/" class="sticky-link">Learn more →</a>
   </div>
 </section>
 
 <style>
-/* Building in Public Hero Banner */
 .building-public-hero {
-  background: linear-gradient(135deg, #4a3aa0 0%, #3d2f7a 100%);
-  color: white;
-  padding: 3rem 2rem;
-  margin: -20px -20px 3rem -20px;
-  border-radius: 0;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+  background: linear-gradient(135deg, #1a1a2e 0%, #2d1b69 100%);
+  color: #fff;
+  padding: 2rem 1.5rem;
+  text-align: center;
 }
-
 .building-public-content {
-  max-width: 1200px;
-  margin: 0 auto; display: grid;
-  grid-template-columns: auto 1fr auto;
-  gap: 2rem;
-  align-items: center;
-}
-
-.building-public-icon {
-  font-size: 64px;
-  line-height: 1;
-}
-
-.building-public-text {
-  flex: 1;
-}
-
-.building-public-title {
-  font-size: 2rem;
-  font-weight: 700;
-  margin: 0 0 0.5rem 0;
-  color: white;
-}
-
-.building-public-subtitle {
-  font-size: 1.1rem;
-  line-height: 1.6;
-  margin: 0;
-  opacity: 0.95;
-}
-
-.building-public-actions {
+  max-width: 800px;
+  margin: 0 auto;
   display: flex;
-  flex-direction: column;
-  gap: 0.75rem;
-}
-
-.building-public-btn-primary,
-.building-public-btn-secondary {
-  display: inline-flex;
+  flex-wrap: wrap;
   align-items: center;
-  gap: 0.5rem;
-  padding: 0.75rem 1.5rem;
-  border-radius: 8px;
-  text-decoration: none;
-  font-weight: 600;
-  transition: all 0.2s;
-  white-space: nowrap;
   justify-content: center;
+  gap: 1rem;
 }
-
-.building-public-btn-primary {
-  background: white;
-  color: #667eea;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+.building-public-icon {
+  font-size: 2.5rem;
 }
-
-.building-public-btn-primary:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+.building-public-title {
+  font-size: 1.4rem;
+  margin: 0 0 0.5rem;
+  color: #fff;
 }
-
-.building-public-btn-secondary {
-  background: rgba(255,255,255,0.2);
-  color: white;
-  border: 2px solid rgba(255,255,255,0.4);
+.building-public-subtitle {
+  font-size: 1rem;
+  margin: 0;
+  color: #cbd5e1;
+  line-height: 1.5;
 }
-
-.building-public-btn-secondary:hover {
-  background: rgba(255,255,255,0.3);
-  border-color: rgba(255,255,255,0.6);
+.sticky-link {
+  color: #fff;
+  text-decoration: underline;
+  font-weight: 600;
 }
-
-/* Responsive */
-@media (max-width: 768px) {
-  .building-public-hero {
-    padding: 2rem 1.5rem;
-  }
-  
-  .building-public-content {
-    grid-template-columns: 1fr;
-    text-align: center;
-    gap: 1.5rem;
-  }
-  
-  .building-public-icon {
-    font-size: 48px;
-  }
-  
-  .building-public-title {
-    font-size: 1.5rem;
-  }
-  
-  .building-public-subtitle {
-    font-size: 1rem;
-  }
-  
-  .building-public-actions {
-    flex-direction: row;
-    justify-content: center;
-    flex-wrap: wrap;
-  }
-}
-
-/* High Contrast Mode */
-@media (prefers-contrast: high) {
-  .building-public-hero {
-    background: #000;
-    border: 3px solid #fff;
-  }
-  
-  .building-public-btn-primary {
-    background: #fff;
-    color: #000;
-    border: 2px solid #fff;
-  }
-  
-  .building-public-btn-secondary {
-    background: transparent;
-    border: 2px solid #fff;
-  }
-}
-
-/* Print: Hide banner */
-@media print {
-  .building-public-hero {
-    display: none;
-  }
-}
-</style>
-
-<script>
-// Load data for hero banner
-(async function loadHeroData() {
-  try {
-    const currentYear = new Date().getFullYear();
-    const response = await fetch(`https://raw.githubusercontent.com/3mpwrApp/empowrapp-new/main/public/whatsnew-${currentYear}.json`);
-    
-    if (response.ok) {
-      const data = await response.json();
-      const sevenDaysAgo = new Date(Date.now() - (7 * 24 * 60 * 60 * 1000));
-      const weeklyCount = data.entries.filter(e => new Date(e.date) >= sevenDaysAgo).length;
-      
-      // Try to get last year's data for total count
-      const lastYear = currentYear - 1;
-      const lastYearResponse = await fetch(`https://raw.githubusercontent.com/3mpwrApp/empowrapp-new/main/public/whatsnew-${lastYear}.json`);
-      let totalCount = data.entries.length;
-      
-      if (lastYearResponse.ok) {
-        const lastYearData = await lastYearResponse.json();
-        totalCount += lastYearData.entries.length;
-      }
-      
-      document.getElementById('hero-total-updates').textContent = `${totalCount.toLocaleString()}`;
-      document.getElementById('hero-weekly-updates').textContent = `${weeklyCount}`;
-      const w = document.getElementById('hero-weekly-updates-wrap');
-      if (w) w.style.display = 'inline';
-    } else {
-      document.getElementById('hero-total-updates').textContent = '4,600+';
-      document.getElementById('hero-weekly-updates').textContent = 'Many';
-    }
-  } catch (err) {
-    console.error('Error loading hero data:', err);
-    document.getElementById('hero-total-updates').textContent = '4,600+';
-    document.getElementById('hero-weekly-updates').textContent = 'Many';
-  }
-})();
-</script>
-
-<!-- Mobile: hide hero banner — sticky banner already shows building-in-public message -->
-<style>
 @media (max-width: 600px) {
   .building-public-hero { display: none !important; }
+  .building-public-title { font-size: 1.1rem; }
+  .building-public-subtitle { font-size: 0.9rem; }
 }
 </style>
