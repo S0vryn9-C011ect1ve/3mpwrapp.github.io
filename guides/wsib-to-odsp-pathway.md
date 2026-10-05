@@ -106,9 +106,9 @@ We analyzed **14,298 Ontario Social Benefits Tribunal (ONSBT) decisions** from 2
 | Feature | WSIB | ODSP |
 |---------|------|------|
 | **Eligibility Test** | Injury arose out of employment | Disability substantially impairs ADLs, continuous/recurrent 1+ years |
-| **Income Provided** | LOE: 85% of net pre-injury earnings | $1,368/month (single) + benefits (2026 rates) |
+| **Income Provided** | LOE: 85% of net pre-injury earnings | **$1,436/month** (single, from July 1 2026) + benefits |
 | **Asset Limit** | None (can have unlimited assets) | $40,000 single, $50,000 couple |
-| **Work Incentives** | Limited (earnings reduce benefits) | First $200/month + 50% remainder exempt |
+| **Work Incentives** | Limited (earnings reduce benefits) | **You can earn $1,000/month free** if you have a disability. The $200 + 50% rule applies to other income |
 | **Health Benefits** | Limited (treatment for injury only) | Comprehensive (drugs, dental, vision, mobility devices) |
 | **Duration** | Temporary (LOE max 72 months; FEL max 10 years from accident) | Ongoing (as long as disabled) |
 | **Return to Work** | Expected (WSIB tries to return you to work) | Not expected (assumed long-term disability) |
@@ -117,7 +117,7 @@ We analyzed **14,298 Ontario Social Benefits Tribunal (ONSBT) decisions** from 2
 
 **Scenario 1: WSIB Provides Partial Income**
 - WSIB paying $800/month (reduced LOE or small pension)
-- ODSP tops up to $1,368/month (if eligible)
+- ODSP tops up to $1,436/month (if eligible)
 - ODSP health benefits cover needs beyond workplace injury
 
 **Scenario 2: WSIB Benefits Exhausted**
@@ -277,7 +277,7 @@ We analyzed **14,298 Ontario Social Benefits Tribunal (ONSBT) decisions** from 2
 
 1. **WSIB LOE (Loss of Earnings) Payments**
    - Counted as income (dollar-for-dollar deduction from ODSP)
-   - If WSIB pays more than ODSP ($1,368/month), you don't need ODSP income support
+   - If WSIB pays more than ODSP ($1,436/month), you don't need ODSP income support
    - But you CAN get ODSP health benefits even if no income support
 
 2. **WSIB NEL (Non-Economic Loss) Lump Sum**
@@ -292,7 +292,7 @@ We analyzed **14,298 Ontario Social Benefits Tribunal (ONSBT) decisions** from 2
 
 **1. ODSP Health Benefits Even Without Income Support**
 
-**Scenario:** WSIB paying you $1,500/month (more than ODSP $1,368)
+**Scenario:** WSIB paying you $1,500/month (more than ODSP $1,436)
 
 **Strategy:** Apply for ODSP for health benefits only
 - ODSP income support = $0 (WSIB exceeds ODSP amount)
@@ -312,13 +312,23 @@ We analyzed **14,298 Ontario Social Benefits Tribunal (ONSBT) decisions** from 2
 
 **Scenario:** On ODSP, attempt part-time work
 
-**ODSP Rule:** First $200/month + 50% of remainder is exempt
+**ODSP Rule:** If **you have a disability** and the money is from **employment**, you can earn **$1,000/month with no reduction at all** to your ODSP.
 
 **Example:**
 - Earn $600/month part-time
-- Exempt: $200 + 50% of $400 = $200 + $200 = $400
-- ODSP deduction: $200 (not $600)
-- Total income: $600 + ($1,368 - $200) = $1,768/month
+- All of it is exempt — it's under $1,000
+- ODSP deduction: $0 (not $600)
+- Total income: $600 + $1,436 = $2,036/month
+
+**If you earn more than $1,000/month**, the exemption beyond that point differs
+and you should check [ODSP's rules on earnings and
+exemptions](https://www.ontario.ca/page/working-and-earning-ontario-disability-support-program).
+
+> **Don't confuse two different rules.** The **$1,000/month** figure is for a
+> person with a disability earning from employment. The **first $200/month plus
+> 50% of the remainder** rule is a separate, older exemption that still applies
+> to *other* kinds of income — and to a non-disabled spouse or adult child.
+> Which one applies to you depends on what the money is and who earned it.
 
 **Better Than WSIB:** WSIB typically reduces benefits dollar-for-dollar for earnings
 
@@ -359,10 +369,10 @@ We analyzed **14,298 Ontario Social Benefits Tribunal (ONSBT) decisions** from 2
 - ODSP tops up to guaranteed minimum
 
 **Example:**
-- ODSP alone: $1,368/month
+- ODSP alone: $1,436/month
 - CPP-D approved: $1,200/month
-- ODSP income support reduced to: $168/month
-- **Total income:** $1,368/month + ODSP health benefits
+- ODSP income support reduced to: $236/month
+- **Total income:** $1,436/month + ODSP health benefits
 
 **Advantage:** CPP-D is federal (continues if you move out of Ontario); ODSP is provincial
 
@@ -483,7 +493,7 @@ We analyzed **14,298 Ontario Social Benefits Tribunal (ONSBT) decisions** from 2
 
 **Outcome:**
 - **ODSP approved** (4 months processing)
-- Income: $1,368/month + health benefits
+- Income: $1,436/month + health benefits
 - Also applied to CPP-D (pending)
 - WSIAT appeal ongoing (if wins, WSIB will repay ODSP retroactively)
 
@@ -513,7 +523,7 @@ We analyzed **14,298 Ontario Social Benefits Tribunal (ONSBT) decisions** from 2
 
 **Outcome:**
 - **ODSP approved** (6 months processing, 8 months on OW during processing)
-- Income: $1,368/month + health benefits
+- Income: $1,436/month + health benefits
 - Retroactive payment to application date (6 months)
 
 **Key Success Factors:**
@@ -618,3 +628,10 @@ them — particularly any deadline, which is unforgiving of a wrong number.
   any page here says.
 
 *Found a figure that's wrong or out of date? [Tell us](/contact/).*
+
+**Sources for the ODSP amounts on this page** — checked 2026-10-04:
+[Income support from ODSP](https://www.ontario.ca/page/income-support-odsp) (maximum
+monthly amount, current from July 1 2026) and
+[Working and earning on ODSP](https://www.ontario.ca/page/working-and-earning-ontario-disability-support-program)
+(earnings exemptions). Asset limits are prescribed in
+[ODSP policy 4.1](https://www.ontario.ca/page/4-1-definition-and-treatment-assets-odsp).

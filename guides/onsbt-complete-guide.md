@@ -389,7 +389,9 @@ Toronto, ON M5G 2P9
 - Gifts over $10,000/year
 
 **Exemptions (Not Counted as Income):**
-- Employment earnings: First $200/month + 50% of remainder
+- Employment earnings: if **you have a disability**, the first **$1,000/month is fully exempt**
+  (does not reduce ODSP at all). Beyond that, and for other income, the older rule applies:
+  first $200/month + 50% of the remainder. Which rule applies depends on who earned the money and what kind of income it is.
 - Income from boarders/roomers (if arms-length transaction)
 - Tax credits (HST/GST, Trillium)
 - Federal child benefits (CCB)
@@ -405,8 +407,8 @@ Toronto, ON M5G 2P9
    - Provide evidence of income source type
 
 3. **ODSP miscalculated employment earnings exemption**
-   - Show calculation: First $200 + 50% of remainder exempt
-   - Example: Earn $500 → Exempt $200 + 50% of $300 = $200 + $150 = $350 exempt, only $150 counted
+- Show the calculation: **if you have a disability and it is employment income**, your first $1,000/month is fully exempt — earn $500 and nothing is deducted from ODSP.
+- If the $200 + 50% rule is the one that applies to your income: earn $500 → exempt $200 + 50% of $300 = $350, only $150 counted
 
 ### Asset Limits
 
@@ -719,6 +721,8 @@ Toronto, ON M5G 2P9
 
 ✅ **Your Argument:**
 - Show calculation step-by-step
+- Show the calculation: **if you have a disability and it is employment income**, your first $1,000/month is fully exempt — earn $500 and nothing is deducted from ODSP.
+- If the $200 + 50% rule is the one that applies to your income: earn $500 → exempt $200 + 50% of $300 = $350, only $150 counted
 - Provide paystubs, T4s
 - Cite exemption regulations
 
@@ -870,3 +874,10 @@ them — particularly any deadline, which is unforgiving of a wrong number.
   any page here says.
 
 *Found a figure that's wrong or out of date? [Tell us](/contact/).*
+
+**Sources for the ODSP amounts on this page** — checked 2026-10-04:
+[Income support from ODSP](https://www.ontario.ca/page/income-support-odsp) (maximum
+monthly amount, current from July 1 2026) and
+[Working and earning on ODSP](https://www.ontario.ca/page/working-and-earning-ontario-disability-support-program)
+(earnings exemptions). Asset limits are prescribed in
+[ODSP policy 4.1](https://www.ontario.ca/page/4-1-definition-and-treatment-assets-odsp).
