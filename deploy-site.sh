@@ -26,7 +26,10 @@ echo "==> [2/5] Clean Jekyll build"
 mv Gemfile Gemfile.bak 2>/dev/null || true
 mv Gemfile.lock Gemfile.lock.bak 2>/dev/null || true
 rm -rf _site
-"$RUBY" -S jekyll build 2>&1 | tail -4
+# MUST be `bundle exec` - a bare `jekyll build` dies with Gem::LoadError on
+# public_suffix because the default gem is already activated. Cost us a full
+# evening on 2026-10-04. Do not "simplify" this back.
+"$RUBY" -S bundle exec jekyll build 2>&1 | tail -4
 mv Gemfile.bak Gemfile 2>/dev/null || true
 mv Gemfile.lock.bak Gemfile.lock 2>/dev/null || true
 

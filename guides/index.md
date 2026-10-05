@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "WSIAT Appeal Guides - Knowledge Base"
-description: "Evidence-based guides for WSIAT appeals. Based on analysis of 99,036 decisions (1987-2026). NEL, LOE, chronic pain, and more."
+title: "Guides - by community, by tribunal"
+description: "Free guides for Ontario disability, benefits and appeals - injured workers, veterans, seniors, caregivers, discrimination and social assistance. Start with the community you are in."
 permalink: /guides/
 ---
 
@@ -59,12 +59,177 @@ permalink: /guides/
   }
 </style>
 
-# WSIAT Appeal Guides
+# Guides — start with who you are
+
+**Free. No signup, no email capture, no upsell halfway down the page.**
+
+Pick the community that describes your situation. Most people land here during a
+crisis and don't know which tribunal owns their problem — that's usually the first
+question, and it's usually wrong for most people reading this.
+
+---
+
+## Injured at work — WSIAT
+
+**8 guides · built from 99,036 WSIAT decisions analysed (1987–2026)**
+
+The largest section, because this is where the volume of decisions sits.
+
+<div style="padding: 1rem; background: #f0f9ff; border-left: 4px solid #0066cc; border-radius: 4px; margin: 1rem 0;">
+<strong>Start here if:</strong> your injury happened at work and you have a WSIAT
+claim number.
+<ul style="margin: 0.5rem 0 0 1.2rem;">
+  <li><a href="/guides/wsiat-complete-guide/">Complete WSIAT guide</a> — start to decision</li>
+  <li><a href="/guides/wsiat-loe-benefits/">Loss of Earnings</a> — what you're owed and how it's calculated</li>
+  <li><a href="/guides/wsiat-nel-benefits/">Non-Economic Loss</a> — the #1 most appealed issue</li>
+  <li><a href="/guides/wsiat-back-injury-appeals/">Back injury appeals</a></li>
+  <li><a href="/guides/wsiat-chronic-pain-claims/">Chronic pain</a></li>
+  <li>Tactics and survival</li>
+  <li><a href="/guides/construction-wsiat-industry-guide/">Construction industry</a></li>
+  <li><a href="/guides/healthcare-wsiat-industry-guide/">Healthcare industry</a></li>
+</ul>
+</div>
+
+---
+
+## Veterans
+
+**No guide, and no pages either.** We are not writing one yet.
+
+Saying this plainly rather than linking you somewhere thin: as of 2026-10-04 there is
+**no veteran content anywhere on this site** — no guide, no dedicated pages. The only
+material we hold is 17 evidence cards, and every one of them is unverified social
+media. That is not enough to write a guide someone could rely on during a claim.
+
+ODSP guide and the
+<a href="/guides/wsib-to-odsp-pathway/">WSIB→ODSP pathway</a> may still apply
+depending on your circumstances.
+
+---
+
+## Seniors and elders
+
+**1 guide.** Social assistance is the main income route for Ontarians over 65 who
+aren't working — and it's under-used because most people assume pension is the only
+option.
+
+<div style="padding: 1rem; background: #f0f9ff; border-left: 4px solid #0066cc; border-radius: 4px; margin: 1rem 0;">
+ODSP complete guide — Ontario Disability
+Support Program, including the path for older adults.
+<ul style="margin: 0.5rem 0 0 1.2rem;">
+  <li><a href="/guides/wsib-to-odsp-pathway/">WSIB → ODSP pathway</a> — for people
+  whose injury predates their retirement</li>
+</ul>
+<p style="margin: 0.6rem 0 0; font-size: 0.92rem;">No dedicated seniors or pension
+guide yet. We're not writing one without evidence behind it.</p>
+</div>
+
+---
+
+## Caregivers
+
+**Being written.** Only 2 evidence cards collected — not enough to write anything
+accurate. Not publishing a thin guide that would send someone looking for help that
+isn't there.
+
+---
+
+## Discrimination — HRTO
+
+<div style="padding: 1rem; background: #f0f9ff; border-left: 4px solid #0066cc; border-radius: 4px; margin: 1rem 0;">
+<a href="/guides/hrto-complete-guide/">Complete HRTO guide</a> — Human Rights Tribunal
+of Ontario: disability discrimination in employment, accommodation and dismissal.
+<ul style="margin: 0.5rem 0 0 1.2rem;">
+  <li><a href="/hrto-outcome-timeline-2020-2026">HRTO outcomes 2020–2026</a> — how decisions trend over time</li>
+</ul>
+</div>
+
+---
+
+## Appeals and higher courts — ONCA
+
+<div style="padding: 1rem; background: #f0f9ff; border-left: 4px solid #0066cc; border-radius: 4px; margin: 1rem 0;">
+<a href="/guides/onca-appellate-guide/">ONCA appellate guide</a> — taking a decision
+to appeal. <strong>Deadlines here are unforgiving of error.</strong>
+<ul style="margin: 0.5rem 0 0 1.2rem;">
+  <li><a href="/onca-outcome-timeline-2020-2026">ONCA outcomes 2020–2026</a></li>
+</ul>
+</div>
+
+---
+
+## Social assistance — ODSP and ONSBT
+
+<div style="padding: 1rem; background: #f0f9ff; border-left: 4px solid #0066cc; border-radius: 4px; margin: 1rem 0;">
+<ul style="margin: 0; padding-left: 1.2rem;">
+  <li>ODSP complete guide</li>
+  <li><a href="/guides/onsbt-complete-guide/">ONSBT complete guide</a> — Social Benefits Tribunal</li>
+  <li><a href="/guides/wsib-to-odsp-pathway/">WSIB → ODSP pathway</a></li>
+  <li><a href="/guides/onwsib-skip-strategy-guide/">ONWSIB skip strategy</a></li>
+  <li><a href="/onsbt-outcome-timeline-2020-2026">ONSBT outcomes 2020–2026</a></li>
+</ul>
+</div>
+
+---
+
+## Industry-specific
+
+Three industry guides cover where WSIAT outcomes differ by sector:
+<a href="/guides/construction-wsiat-industry-guide/">Construction</a> ·
+<a href="/guides/healthcare-wsiat-industry-guide/">Healthcare</a> ·
+<a href="/guides/manufacturing-wsiat-industry-guide/">Manufacturing</a>
+
+---
+
+## Communities we don't yet cover
+
+Stated plainly so you don't waste time looking:
+
+- **CRA / Tax Court disputes** — 302 pages of material exists, but **zero evidence
+  has been collected**, so no guide has been written. Writing one would mean
+  publishing opinions with nothing behind them.
+- **Employment Standards / Labour** — content exists, no guide yet.
+- **CPP disability** — content exists, no guide yet.
+
+We're not writing guides we can't stand behind. If one of these is what you need,
+say so — that's how the queue gets prioritised.
+
+---
+
+## A note on figures
+
+Several guides carry dollar amounts, thresholds and deadlines that are **current as
+of the date shown on the page, not verified against source**. Where a figure hasn't
+been checked, the page says so rather than stating it confidently. A wrong number can
+cost someone an appeal.
+
+---
+---
+
+---
+
+## The research behind these guides
+
+Every figure on this page traces back to analysed decision data. You can check the
+work rather than take it on trust.
+
+**Interactive visualizations**
+- [WSIAT outcomes 2020–2026](/wsiat-outcome-timeline-2020-2026.html) · [ONWSIB](/onwsib-outcome-timeline-2020-2026) · [ONCA](/onca-outcome-timeline-2020-2026) · [ONSBT](/onsbt-outcome-timeline-2020-2026) · [HRTO](/hrto-outcome-timeline-2020-2026)
+- [Cross-tribunal comparison](/tribunal-navigator.html) — five tribunals side by side
+- [Tribunal decision heatmap](/tribunal-decision-heatmap.html) — which issues generate volume
+- [Injury × industry matrix](/injury-industry-matrix.html)
+- [How denial tactics evolved](/temporal-evolution.html)
+- [Employer safety heatmap](/employer-safety-heatmap.html)
+
+**Full research index:** [/research/](/research) ·
+[Data sources](/research-data-sources/) · [Raw downloads](/data/)
+
+---
+# WSIAT Appeal Guides — full detail
 
 **Evidence-based guides built from 99,036 WSIAT decisions analyzed (1987-2026)**
 
 ---
-
 ## 🎯 Most Common Appeal Issues
 
 Based on 40 years of WSIAT pattern analysis, we've created comprehensive guides for the most frequently appealed issues:
