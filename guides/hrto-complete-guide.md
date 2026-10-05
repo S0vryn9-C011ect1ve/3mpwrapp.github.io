@@ -580,3 +580,23 @@ HRTO protects your right to work free from discrimination. While only 2.66% of a
 *Data source: HRTO quarterly statistics (2016-2025) - 62,093 applications analyzed*
 
 *Last Updated: April 30, 2026*
+
+---
+
+## About the figures on this page
+
+**Content reviewed:** October 4, 2026
+
+This page carries statutory dollar amounts. Those are set by the province and
+change, often annually. We could not confirm every figure here against a current
+primary source, so treat the amounts as **needing a check** before you rely on
+them — particularly any deadline, which is unforgiving of a wrong number.
+
+- **Decision-pattern counts** are computed from the official
+  [WSIAT Open Data](https://www.wsiat.ca/en/home/opendata_decisions.html) export.
+- **Statutory amounts and rates** — verify against [WSIB](https://www.wsib.ca/en/policy)
+  or the relevant ministry directly.
+- **Deadlines** — confirm against your own correspondence or a lawyer, whatever
+  any page here says.
+
+*Found a figure that's wrong or out of date? [Tell us](/contact/).*
