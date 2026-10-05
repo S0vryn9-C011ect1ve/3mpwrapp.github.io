@@ -140,7 +140,8 @@ Ontario's compensation system is built on the **Meredith Principles** (Sir Willi
 
 While employers received rebates, independent worker-side research documents the opposite for injured workers:
 
-- **$4.945 billion** under-compensated to injured workers during the "Marshall Years" (2011–2021), per a Freedom-of-Information analysis by the Injured Workers Community Legal Clinic (IWC).
+- **$4.945 billion** estimated as under-compensation to injured workers during the "Marshall Years" (2011–2021), per a Freedom-of-Information analysis by the Injured Workers Community Legal Clinic (IWC).
+  **This is a modelled estimate, not a measured shortfall.** IWC took the average annual benefit paid 2006–2010 (~$3.333B), projected it across 2011–2021 (~$36.663B), and compared that to the ~$31.718B actually paid. The difference is $4.945B. The method is stated and reproducible, and IWC tested the obvious counter-argument — that fewer people were injured — against Statistics Canada employment data. But it rests on a counterfactual: that benefits *should* have tracked the 2006–2010 level. Reasonable people can argue with that premise.
 - **$1.155 billion** shortchanged 2006–2024 by the **85% (not 90%) Loss-of-Earnings rate** — a 5% cut imposed by the Harris government in 1998.
 - Total benefits paid fell **27%** (2009 $3.54B → 2016 $2.58B) while Ontario employment *grew* — attributed to adjudication tightening, not safety.
 
