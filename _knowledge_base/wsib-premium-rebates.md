@@ -147,8 +147,13 @@ While employers received rebates, independent worker-side research documents the
 > **Figure note.** Earlier drafts of this dossier cited the surplus pool as **~$4B**.
 > That is superseded. WSIB's own 3 November 2025 release confirms **three distributions
 > totalling $5.5 billion** (see Era 3 above). Use $5.5B.
-- **$77 million** cut from healthcare-related spending since 2009 (IWAJ).
-- Denied claims rose **50%** since 2009; benefits reduced **$631 million** under WSIB CEO David Marshall (who had a **$400,000 bonus** tied to cutting the unfunded liability).
+- **$77 million** cut from healthcare spending — **2013 figure compared with 2009**, not a cumulative total across the period.
+- The **denial rate of new claims rose 50%** (a rate, not a count of individual claims), and benefits were reduced **$631 million** under WSIB CEO David Marshall.
+- Marshall's salary was **$400,000**. His performance bonus at the end of his first five-year term was **$80,000**, tied to reducing the unfunded liability.
+
+> **Where these figures come from.** The $77M, 50% denial rate and $631M originate with injured-worker advocacy organisations citing WSIB annual reports, **not** with a WSIB publication of its own. We have not located them in a primary WSIB document. The **$400,000 salary and $80,000 bonus are the most corroborated figures here** and are the only ones we would stand behind without qualification.
+
+> *Corrected 2026-10-04. This page previously stated a **$400,000 bonus** — that figure is the CEO's **salary**; the bonus was **$80,000**. It also described the 50% figure as denied claims rising rather than a change in denial **rate**. Both corrected above.*
 - An Ontario Federation of Labour report found **58% of employers convicted under the Occupational Health & Safety Act still received rebates** the same year as their convictions.
 
 *Sources: Rank & File / IWC Special Report — https://www.rankandfile.ca/wsib-special-report/ ; Rank & File "How the WSIB is failing injured workers" — https://www.rankandfile.ca/how-the-wsib-is-failing-the-injured-workers-of-ontario/*
