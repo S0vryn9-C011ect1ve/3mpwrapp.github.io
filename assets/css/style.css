@@ -2949,3 +2949,113 @@ body.theme-dark a:hover,
 body.theme-dark a:focus {
   color: #99D0FF;
 }
+
+/* ============================================
+   HIGH CONTRAST & FORCED COLORS SUPPORT
+   WCAG 2.4.1 / 2.4.7 — Windows HC, macOS, etc.
+   ============================================ */
+
+/* High-contrast preference (user wants more contrast) */
+@media (prefers-contrast: more) {
+  :root {
+    --link-color: #004D99;
+    --link-hover: #002B66;
+    --focus-outline: #000000;
+  }
+  body {
+    background: #FFFFFF !important;
+    color: #000000 !important;
+  }
+  a:focus-visible,
+  button:focus-visible,
+  input:focus-visible,
+  textarea:focus-visible,
+  select:focus-visible,
+  [role="button"]:focus-visible,
+  [tabindex]:not([tabindex="-1"]):focus-visible {
+    outline: 4px solid #000000 !important;
+    outline-offset: 3px !important;
+    box-shadow: 0 0 0 2px #FFFFFF, 0 0 0 6px #000000 !important;
+  }
+  .site-brand,
+  header,
+  nav,
+  .nav-list a {
+    border-color: #000000 !important;
+  }
+}
+
+/* Forced Colors (Windows High Contrast / forced-colors mode) */
+@media (forced-colors: active) {
+  html, body, header, nav, main, footer,
+  section, article, div, .gradient-section,
+  .card, .value-prop-card, .feature-box, .success-box {
+    background: Window !important;
+    color: WindowText !important;
+    border-color: WindowText !important;
+  }
+  a, .nav-list a, .site-brand, .btn, .cta-button {
+    color: LinkText !important;
+    text-decoration: underline !important;
+    background: none !important;
+    border-color: LinkText !important;
+  }
+  a:focus-visible, button:focus-visible {
+    outline: 3px solid Highlight !important;
+    outline-offset: 2px !important;
+  }
+  /* Preserve layout structure in forced colors */
+  .gradient-section,
+  .card,
+  .value-prop-card,
+  .feature-box,
+  .success-box {
+    border: 2px solid WindowText !important;
+  }
+  /* Skip link must remain visible */
+  .skip-link {
+    background: ButtonFace !important;
+    color: ButtonText !important;
+    border: 2px solid WindowText !important;
+  }
+}
+
+/* Enhanced high-contrast (prefers-contrast: high) */
+@media (prefers-contrast: high) {
+  :root {
+    --link-color: #002266;
+    --link-hover: #000000;
+    --focus-outline: #FFCC00;
+    --border-color: #000000;
+  }
+  body {
+    background: #FFFFFF !important;
+    color: #000000 !important;
+  }
+  header, .header-bg {
+    background: #000000 !important;
+    color: #FFFFFF !important;
+  }
+  .nav-list a {
+    color: #FFFFFF !important;
+    border-bottom: 2px solid #FFFFFF !important;
+  }
+  .card,
+  .value-prop-card,
+  .feature-box,
+  .success-box {
+    border: 2px solid #000000 !important;
+    background: #FFFFFF !important;
+  }
+  a:focus-visible,
+  button:focus-visible,
+  input:focus-visible,
+  textarea:focus-visible,
+  select:focus-visible,
+  [role="button"]:focus-visible,
+  [tabindex]:not([tabindex="-1"]):focus-visible {
+    outline: 4px solid #FFCC00 !important;
+    outline-offset: 3px !important;
+    box-shadow: 0 0 0 2px #FFFFFF, 0 0 0 6px #FFCC00 !important;
+  }
+}
