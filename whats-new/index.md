@@ -305,7 +305,7 @@ permalink: /whats-new/
   // Function to load JSON from the same-origin assets folder (CORS-safe, no external dependency)
   async function loadWhatsNewYear(year) {
     try {
-      const response = await fetch(`/assets/data/whatsnew-${year}.json`);
+      const response = await fetch(`/assets/data/whatsnew-${year}.json?v=${Date.now()}`);
       if (!response.ok) throw new Error('Not found');
       return await response.json();
     } catch (err) {

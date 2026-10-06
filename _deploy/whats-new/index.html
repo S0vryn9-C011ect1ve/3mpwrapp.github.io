@@ -564,7 +564,7 @@
   try {
     const currentYear = new Date().getFullYear();
     // Fetch current year's data from assets/data folder
-    const response = await fetch(`/assets/data/whatsnew-${currentYear}.json`);
+    const response = await fetch(`/assets/data/whatsnew-${currentYear}.json?v=${Date.now()}`);
     
     if (response.ok) {
       const data = await response.json();
