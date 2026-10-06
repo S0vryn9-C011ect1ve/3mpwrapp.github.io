@@ -25,7 +25,6 @@ personalized: true
 </style>
 
 {%- include accessibility-toolbar.html -%}
-{%- include status-banner.html -%}
 {%- include building-public-hero.html -%}
 {%- include building-public-hero.html -%}
 
