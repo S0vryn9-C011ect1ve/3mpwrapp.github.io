@@ -33,11 +33,11 @@ personalized: true
   <h1 style="text-align:center;margin-bottom:1.5rem">Who 3mpwrapp Serves</h1>
   <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1.5rem;max-width:1200px;margin:0 auto">
     <div style="padding:1.5rem;background:var(--card-bg,#1a2332);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>🦯 Injured Workers</h3><p>WSIB navigation, claim tracking, evidence locker, deadline tracker — all free.</p><a href="/wsib/">Explore →</a></div>
-    <div style="padding:1.5rem;background:var(--card-bg,#1a2332);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>♿ Persons with Disabilities</h3><p>Benefits planner, accessibility settings, community hub, crisis resources — 100% free.</p><a href="/features/">Explore →</a></div>
+    <div style="padding:1.5rem;background:var(--card-bg,#1a2332);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>♿ Persons with Disabilities</h3><p>Benefits planner, accessibility settings, community hub, crisis resources — 100% free.</p><a href="/knowledge-base/">Explore →</a></div>
     <div style="padding:1.5rem;background:var(--card-bg,#1a2332);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>👴 Elderly</h3><p>Accessible design, large text options, plain-language guides, personal support.</p><a href="/user-guide/">Explore →</a></div>
-    <div style="padding:1.5rem;background:var(--card-bg,#1a2332);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>🎖️ Veterans</h3><p>Disability benefits, military-to-civilian transition, advocacy tools, peer support.</p><a href="/research/">Explore →</a></div>
+    <div style="padding:1.5rem;background:var(--card-bg,#1a2332);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>🎖️ Veterans</h3><p>Disability benefits, military-to-civilian transition, advocacy tools, peer support.</p><a href="/knowledge-base/">Explore →</a></div>
     <div style="padding:1.5rem;background:var(--card-bg,#1a2332);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>👨‍👩‍👧 Families</h3><p>Caregiver resources, family benefits, support groups, evidence organization.</p><a href="/community/">Explore →</a></div>
-    <div style="padding:1.5rem;background:var(--card-bg,#1a2332);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>🤝 Allies &amp; Public</h3><p>Research tools, open data, advocacy campaigns, community guidelines.</p><a href="/research/">Explore →</a></div>
+    <div style="padding:1.5rem;background:var(--card-bg,#1a2332);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>🤝 Allies &amp; Public</h3><p>Research tools, open data, advocacy campaigns, community guidelines.</p><a href="/community/">Explore →</a></div>
   </div>
 </section>
 
