@@ -37,7 +37,7 @@
     loadPreferences();
     
     // Check if user wants toolbar expanded
-    const isExpanded = localStorage.getItem('toolbarExpanded') !== 'false'; // Default to expanded
+    const isExpanded = localStorage.getItem('toolbarExpanded') === 'true'; // Default collapsed for persistent global toolbar
     
     // Set initial state
     if (isExpanded) {

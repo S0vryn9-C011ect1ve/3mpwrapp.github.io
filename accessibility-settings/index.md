@@ -18,9 +18,22 @@ Jump to: [Spoon Counter](#spoon-counter) · [Emergency Simplify](#emergency-simp
 
 ---
 
-## Try the toolbar
+## The toolbar is on every page
 
-{% include accessibility-toolbar.html %}
+A persistent **Accessibility Tools** button (♿) now appears on every page — open it any time to adjust text size, spacing, colour, energy tracking and more without leaving the page. Full explanations of each tool are below.
+
+---
+
+## Built for every community we serve
+
+These tools are not one-size-fits-all. Here is who each one is for:
+
+- **Disability community (all disabilities):** every control — text size, line spacing, dyslexia-friendly font, reading mask, colour filters, dark mode, high contrast.
+- **Elderly users:** larger default text (already bigger than most sites), text-size controls, loose spacing, high contrast, reading mask for scanning long policy pages.
+- **Veterans:** calm / low-stimulus via Emergency Simplify, grayscale and colour filters for light sensitivity (including trauma- and PTSD-related triggers), break reminders, dark mode.
+- **Injured workers:** Spoon Counter energy tracking for flare days, Emergency Simplify for bad days, break reminders during appeals and paperwork, loose spacing for fatigue.
+
+If a tool would help your situation and is missing, tell us via [Contact](/contact/).
 
 ---
 
