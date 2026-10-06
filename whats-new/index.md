@@ -401,7 +401,7 @@ permalink: /whats-new/
     const monthKey = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
     const monthLabel = date.toLocaleDateString('en-US', { year: 'numeric', month: 'long' });
     
-    if (!archiveByMonthmonthKey {
+    if (!archiveByMonth[monthKey]) {
       archiveByMonth[monthKey] = {
         label: monthLabel,
         entries: []
