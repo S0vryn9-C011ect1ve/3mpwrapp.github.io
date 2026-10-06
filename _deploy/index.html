@@ -435,6 +435,47 @@
   <link rel="stylesheet" href="/assets/css/social-share.css">
   <!-- What's New Badge Styles -->
   <link rel="stylesheet" href="/assets/css/whatsnew-badge.css">
+
+/* ============================================
+   3mpwrapp homepage - Connecting the Dots gradient section
+   Ensures white text on dark gradient is legible in ALL modes
+   ============================================ */
+.gradient-section a,
+.gradient-section .btn {
+  color: #fff !important;
+  text-decoration: none;
+  font-weight: 700;
+}
+@media (prefers-color-scheme: light) {
+  .gradient-section a,
+  .gradient-section .btn {
+    color: #1a1a2e !important;
+  }
+}
+@media (prefers-contrast: more) {
+  .gradient-section a,
+  .gradient-section .btn {
+    border: 2px solid WindowText !important;
+    background: Window !important;
+    color: WindowText !important;
+  }
+}
+@media (prefers-contrast: high) {
+  .gradient-section a,
+  .gradient-section .btn {
+    border: 3px solid #000 !important;
+    background: #fff !important;
+    color: #000 !important;
+  }
+}
+@media (forced-colors: active) {
+  .gradient-section a,
+  .gradient-section .btn {
+    border: 2px solid ButtonText !important;
+    background: ButtonFace !important;
+    color: ButtonText !important;
+  }
+}
 </head>
 <body><!-- Sticky Building in Public Banner -->
 <div id="sticky-transparency-banner" class="sticky-transparency-banner" role="banner" aria-label="Building in public notification">
@@ -1231,7 +1272,7 @@ function dismissStickyBanner() {
     <p style="font-size: 1.2rem; margin-bottom: 1rem; opacity: 0.95; max-width: 800px; margin-left: auto; margin-right: auto;">
       Explore 134,920+ tribunal decisions: Live interactive network graph revealing keyword relationships, denial patterns, and the hidden language used in Canadian tribunal decisions.
     </p>
-    <div style="margin: 1.5rem 0; padding: 1rem; background: rgba(255,255,255,0.1); border-radius: 8px; display: inline-block;">
+    <div style="margin: 1.5rem 0; padding: 1rem; background: rgba(0,0,0,0.3); border-radius: 8px; display: inline-block;">
       <p style="margin: 0; font-weight: 600; font-size: 1.1rem;">
         <span aria-hidden="true">🚀</span> 134,920 cases analyzed (98,992 WSIAT + 35,928 other tribunals) &nbsp;|&nbsp; <span aria-hidden="true">📊</span> 500+ keyword patterns &nbsp;|&nbsp; <span aria-hidden="true">🔗</span> Live interactive D3.js network
       </p>
@@ -1242,7 +1283,7 @@ function dismissStickyBanner() {
         <span>Launch Interactive Visualization</span>
         <span aria-hidden="true">→</span>
       </a>
-      <a href="/research.html" style="display: inline-flex; align-items: center; gap: 0.75rem; padding: 1rem 2rem; background: rgba(255,255,255,0.15); color: var(--text-on-primary, white); border: 2px solid var(--text-on-primary, white); border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 1.1rem; transition: all 0.3s;" onmouseover="this.style.background='rgba(255,255,255,0.25)'" onmouseout="this.style.background='rgba(255,255,255,0.15)'">
+      <a href="/research.html" style="display: inline-flex; align-items: center; gap: 0.75rem; padding: 1rem 2rem; background: rgba(0,0,0,0.35); color: var(--text-on-primary, #fff); border: 2px solid var(--text-on-primary, #fff); border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 1.1rem; transition: all 0.3s;" onmouseover="this.style.background='rgba(0,0,0,0.5)'" onmouseout="this.style.background='rgba(0,0,0,0.35)'">
         <span aria-hidden="true">📊</span>
         <span>All Research Tools</span>
       </a>
