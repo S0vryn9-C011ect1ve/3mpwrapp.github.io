@@ -1,8 +1,143 @@
 {
   "year": 2026,
   "version": "1.0",
-  "lastUpdated": "2026-10-05T18:00:00-04:00",
+  "lastUpdated": "2026-10-05T19:00:00-04:00",
   "entries": [
+    {
+      "id": "wn-2026-10-04-daily-curation",
+      "title": "📰 Daily curation — Oct 4 automated content aggregation",
+      "summary": "Automated daily content curation completed for Oct 4.",
+      "date": "2026-10-04T10:00:00-04:00",
+      "category": "content",
+      "repo": "site",
+      "commitSha": "7eef366"
+    },
+    {
+      "id": "wn-2026-10-01-footer-attribution",
+      "title": "🏢 Footer now attributes S0vryn9 C011ect1ve as main company",
+      "summary": "Updated footer attribution across the site.",
+      "date": "2026-10-01T20:00:00-04:00",
+      "category": "improvement",
+      "repo": "site",
+      "commitSha": "0b1b752"
+    },
+    {
+      "id": "wn-2026-09-30-daily-curation",
+      "title": "📰 Daily curation — Sept 30 automated content aggregation",
+      "summary": "Automated daily content curation completed for Sept 30.",
+      "date": "2026-09-30T10:00:00-04:00",
+      "category": "content",
+      "repo": "site",
+      "commitSha": "01c543e"
+    },
+    {
+      "id": "wn-2026-09-29-daily-curation",
+      "title": "📰 Daily curation — Sept 29 automated content aggregation",
+      "summary": "Automated daily content curation completed for Sept 29.",
+      "date": "2026-09-29T10:00:00-04:00",
+      "category": "content",
+      "repo": "site",
+      "commitSha": "1b187f7"
+    },
+    {
+      "id": "wn-2026-09-28-daily-curation",
+      "title": "📰 Daily curation — Sept 28 automated content aggregation",
+      "summary": "Automated daily content curation completed for Sept 28.",
+      "date": "2026-09-28T10:00:00-04:00",
+      "category": "content",
+      "repo": "site",
+      "commitSha": "4df0f93"
+    },
+    {
+      "id": "wn-2026-09-26-daily-curation",
+      "title": "📰 Daily curation — Sept 26 automated content aggregation",
+      "summary": "Automated daily content curation completed for Sept 26.",
+      "date": "2026-09-26T10:00:00-04:00",
+      "category": "content",
+      "repo": "site",
+      "commitSha": "2d6127d"
+    },
+    {
+      "id": "wn-2026-10-01-security-seo",
+      "title": "🔒 Security/SEO: excluded logs/drafts/scripts; re-enabled App Tour screenshots",
+      "summary": "Security hardening — excluded sensitive directories from public access. Re-enabled App Tour screenshots for the site.",
+      "date": "2026-10-01T18:00:00-04:00",
+      "category": "security",
+      "repo": "site",
+      "commitSha": "5f32e9b"
+    },
+    {
+      "id": "wn-2026-10-01-contact-page-fix",
+      "title": "📬 Fixed /contact/ page not publishing",
+      "summary": "Restored root contact.md — the folder index.md was not publishing correctly.",
+      "date": "2026-10-01T16:00:00-04:00",
+      "category": "fix",
+      "repo": "site",
+      "commitSha": "1723b4a"
+    },
+    {
+      "id": "wn-2026-10-01-broken-links-fixed",
+      "title": "🔗 Batch fixed broken links across the site",
+      "summary": "Fixed unrendered template-var links, KB link targets, user-guide asset refs, and 17+ broken internal links.",
+      "date": "2026-10-01T14:00:00-04:00",
+      "category": "fix",
+      "repo": "site",
+      "commitSha": "128b927"
+    },
+    {
+      "id": "wn-2026-10-01-missing-pages",
+      "title": "📂 Created 10 missing section landing pages",
+      "summary": "Added landing pages for news, updates, tutorials, WSIB, legislation, partnerships, human-rights, investigations, analytics, and RSS.",
+      "date": "2026-10-01T12:00:00-04:00",
+      "category": "feature",
+      "repo": "site",
+      "commitSha": "0d409f5"
+    },
+    {
+      "id": "wn-2026-10-01-human-rights-revert",
+      "title": "🛑 Reverted human-rights prose corruption; kept URL fix only",
+      "summary": "A batch edit corrupted human-rights page prose. Reverted the corruption while preserving the URL fix.",
+      "date": "2026-10-01T10:00:00-04:00",
+      "category": "fix",
+      "repo": "site",
+      "commitSha": "ae2af26"
+    },
+    {
+      "id": "wn-2026-09-27-frontmatter-repair",
+      "title": "🩹 Repaired 17 malformed frontmatter blocks across the site",
+      "summary": "Fixed frontmatter blocks that prevented pages from building correctly.",
+      "date": "2026-09-27T14:00:00-04:00",
+      "category": "fix",
+      "repo": "site",
+      "commitSha": "6c7eab6"
+    },
+    {
+      "id": "wn-2026-09-27-liquid-recursion-fix",
+      "title": "🔧 Fixed infinite Liquid recursion in engagement-widget.html",
+      "summary": "Stopped the engagement widget from causing infinite Liquid recursion that broke the site build.",
+      "date": "2026-09-27T12:00:00-04:00",
+      "category": "fix",
+      "repo": "site",
+      "commitSha": "5d98c66"
+    },
+    {
+      "id": "wn-2026-09-27-ci-preflight-gate",
+      "title": "🛡️ CI preflight gate added — blocks deploys on known faults",
+      "summary": "Added a preflight gate that blocks deploys when the site has faults that broke the build. Fixed 17 malformed frontmatter blocks, Liquid recursion, and audit banner arithmetic.",
+      "date": "2026-09-27T10:00:00-04:00",
+      "category": "fix",
+      "repo": "site",
+      "commitSha": "9be4f2f"
+    },
+    {
+      "id": "wn-2026-09-22-daily-curation",
+      "title": "📰 Daily curation — Sept 22 automated content aggregation",
+      "summary": "Automated daily content curation completed for Sept 22.",
+      "date": "2026-09-22T10:00:00-04:00",
+      "category": "content",
+      "repo": "site",
+      "commitSha": "b361846"
+    },
     {
       "id": "wn-2026-10-05-whatsnew-loader",
       "title": "⚡ Fixed What's New page loading wheel",
