@@ -100,7 +100,82 @@
   {%- if current == '/user-guide/' -%}{% assign switch_to = '/fr/user-guide/' %}{%- endif -%}
   {%- if current == '/fr/user-guide/' -%}{% assign switch_to = '/user-guide/' %}{%- endif -%}
   <a class="lang-switch" href="{{ switch_to | relative_url }}">{{ site.data.locales[lang_code].switch_label }}</a>
-    </div>
+  </div>
+
+  <!-- Global site search -->
+  <form class="header-search" role="search" action="{{ '/search/' | relative_url }}" method="get" aria-label="{% if page.lang == 'fr' %}Rechercher sur tout le site 3mpwrApp{% else %}Search the entire 3mpwrApp website{% endif %}">
+  <label for="site-search-input" class="sr-only">{% if page.lang == 'fr' %}Rechercher sur le site 3mpwrApp{% else %}Search the 3mpwrApp website{% endif %}</label>
+  <input
+    id="site-search-input"
+    type="search"
+    name="q"
+    placeholder="{% if page.lang == 'fr' %}Rechercher sur le site…{% else %}Search the site…{% endif %}"
+    aria-label="{% if page.lang == 'fr' %}Rechercher sur le site 3mpwrApp{% else %}Search the 3mpwrApp website{% endif %}"
+    autocomplete="off"
+    spellcheck="true"
+  >
+  <button type="submit" class="header-search-btn" aria-label="{% if page.lang == 'fr' %}Rechercher{% else %}Search{% endif %}">
+    <span aria-hidden="true">🔍</span>
+  </button>
+  </form>
+
+  <style>
+  .header-search {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  width: 100%;
+  padding: 0 0.75rem 0.5rem;
+  box-sizing: border-box;
+  }
+  .header-search input[type="search"] {
+  flex: 1 1 auto;
+  min-width: 0;
+  padding: 0.6rem 0.9rem;
+  font-size: 1rem;
+  border: 2px solid var(--border-color, #ced4da);
+  border-radius: 8px;
+  background: var(--bg-color, #fff);
+  color: var(--text-color, #1a1a1a);
+  transition: border-color 0.2s, box-shadow 0.2s;
+  }
+  .header-search input[type="search"]:focus {
+  outline: none;
+  border-color: var(--primary-color, #3d4eaa);
+  box-shadow: 0 0 0 3px rgba(61, 78, 170, 0.25);
+  }
+  .header-search input[type="search"]::placeholder {
+  color: var(--text-secondary, #6b7280);
+  opacity: 1;
+  }
+  .header-search-btn {
+  flex: 0 0 auto;
+  padding: 0.6rem 0.9rem;
+  font-size: 1.05rem;
+  border: 2px solid var(--primary-color, #3d4eaa);
+  border-radius: 8px;
+  background: var(--primary-color, #3d4eaa);
+  color: #fff;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  }
+  .header-search-btn:hover { filter: brightness(1.1); }
+  .header-search-btn:focus-visible {
+  outline: 3px solid #0066CC;
+  outline-offset: 3px;
+  box-shadow: 0 0 0 1px #FFFFFF;
+  }
+  @media (prefers-contrast: more) {
+  .header-search input[type="search"] { border-width: 3px; }
+  .header-search-btn { border: 3px solid currentColor; }
+  }
+  @media (max-width: 600px) {
+  .header-search { padding: 0 0.5rem 0.5rem; }
+  .header-search input[type="search"] { font-size: 16px; }
+  }
+  </style>
 
   <nav id="primary-nav" aria-label="Primary">
       {% if page.lang == 'fr' %}{% assign lang_prefix = '/fr' %}{% else %}{% assign lang_prefix = '' %}{% endif %}
