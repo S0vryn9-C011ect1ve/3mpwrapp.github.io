@@ -27,529 +27,69 @@ personalized: true
 {%- include accessibility-toolbar.html -%}
 {%- include status-banner.html -%}
 {%- include building-public-hero.html -%}
+{%- include building-public-hero.html -%}
 
-<!-- Flywheels Diagram -->
-<section class="flywheels-diagram-hero" style="text-align: center; margin: 2rem auto 3rem; max-width: 1200px;">
-  <img src="{{ '/assets/images/flywheels-diagram.png' | relative_url }}" 
-       alt="Diagram showing the 3mpwr Flywheels of Change: three interconnected circular arrows representing Evidence Flywheel (blue) with winning cases shared, proven templates, and legal resources leading to hours saved; Pattern Detection Flywheel (orange) analyzing decisions, finding key trends, and predicting outcomes; and Collective Action Flywheel (green) organizing campaigns, advocating for change, and driving policy reform leading to potential for systemic change. Center shows the transformation flow: Lived Experience to Data, Data to Insight, Insight to Action. Logo shows 3mpwrApp with stylized hands and power icon. Tagline: Turning Lived Experience Into Power."
-       style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);">
-</section>
-
-<!-- Hero Section -->
-<section class="homepage-hero">
-  <picture>
-    <source type="image/webp" srcset="{{ '/assets/empwrapp-logo.webp' | relative_url }}">
-    <img src="{{ '/assets/empwrapp-logo.png' | relative_url }}" alt="3mpwrApp logo" width="80" height="80" loading="eager" style="margin-bottom: 1.5rem;">
-  </picture>
-  
-  <h1>Tools, Support &amp; Community — All in One Place</h1>
-  
-  <p class="homepage-hero-subtitle">
-    Empowering injured workers, persons with disabilities, and allies across Canada with 100% free resources
-  </p>
-  
-  <!-- Impact Stats -->
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1.5rem; max-width: 900px; margin: 0 auto 2rem; padding: 1.5rem; background: rgba(255, 255, 255, 0.05); border-radius: 12px; border: 2px solid rgba(61, 78, 170, 0.2);">
-    <div>
-      <div style="font-size: 2rem; font-weight: bold; margin-bottom: 0.25rem; color: var(--text-color);">97%</div>
-      <div style="font-size: 0.9rem; opacity: 0.8;">Complete</div>
-    </div>
-    <div>
-      <div style="font-size: 2rem; font-weight: bold; margin-bottom: 0.25rem; color: var(--text-color);">67%</div>
-      <div style="font-size: 0.9rem; opacity: 0.8;">Faster</div>
-    </div>
-    <div>
-      <div style="font-size: 2rem; font-weight: bold; margin-bottom: 0.25rem; color: var(--text-color);">42%</div>
-      <div style="font-size: 0.9rem; opacity: 0.8;">Smaller</div>
-    </div>
-    <div>
-      <div style="font-size: 2rem; font-weight: bold; margin-bottom: 0.25rem; color: var(--text-color);">AAA</div>
-      <div style="font-size: 0.9rem; opacity: 0.8;">Accessible</div>
-    </div>
-  </div>
-  
-  <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
-    <a href="/app-waitlist" class="homepage-btn-primary">
-      <span>Join the Beta</span>
-      <span aria-hidden="true">▶</span>
-    </a>
-    <a href="https://www.youtube.com/watch?v=4i6xPpik_6M" class="homepage-btn-secondary" target="_blank" rel="noopener noreferrer">
-      <span>📺 Watch Tutorial</span>
-    </a>
-    <a href="/about" class="homepage-btn-secondary">
-      <span>Learn More</span>
-    </a>
-  </div>
-    <div style="margin: 1.5rem 0;">
-    <a href="https://www.youtube.com/@3mpwrApp" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: var(--youtube-red, #FF0000); color: white; border-radius: 8px; text-decoration: none; font-weight: 600; transition: all 0.2s;" onmouseover="this.style.opacity='0.9'" onmouseout="this.style.opacity='1'">
-      <span aria-hidden="true">▶</span>
-      <span>Subscribe on YouTube</span>
-    </a>
-  </div>
-    <div class="homepage-badge">
-    <p>
-      <span aria-hidden="true">🔒</span> Privacy Focused
-      <span style="margin: 0 1rem; opacity: 0.5;">|</span>
-      <span aria-hidden="true">👥</span> Community Powered
-      <span style="margin: 0 1rem; opacity: 0.5;">|</span>
-      <span aria-hidden="true">🛡️</span> No Corporate Control
-    </p>
+<!-- Who 3mpwrapp Serves -->
+<section class="value-props" style="margin-bottom:4rem" aria-label="Who 3mpwrapp serves">
+  <h1 style="text-align:center;margin-bottom:1.5rem">Who 3mpwrapp Serves</h1>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1.5rem;max-width:1200px;margin:0 auto">
+    <div style="padding:1.5rem;background:var(--card-bg,#fff);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>🦯 Injured Workers</h3><p>WSIB navigation, claim tracking, evidence locker, deadline tracker — all free.</p><a href="/wsib/">Explore →</a></div>
+    <div style="padding:1.5rem;background:var(--card-bg,#fff);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>♿ Persons with Disabilities</h3><p>Benefits planner, accessibility settings, community hub, crisis resources — 100% free.</p><a href="/features/">Explore →</a></div>
+    <div style="padding:1.5rem;background:var(--card-bg,#fff);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>👴 Elderly</h3><p>Accessible design, large text options, plain-language guides, personal support.</p><a href="/user-guide/">Explore →</a></div>
+    <div style="padding:1.5rem;background:var(--card-bg,#fff);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>🎖️ Veterans</h3><p>Disability benefits, military-to-civilian transition, advocacy tools, peer support.</p><a href="/research/">Explore →</a></div>
+    <div style="padding:1.5rem;background:var(--card-bg,#fff);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>👨‍👩‍👧 Families</h3><p>Caregiver resources, family benefits, support groups, evidence organization.</p><a href="/community/">Explore →</a></div>
+    <div style="padding:1.5rem;background:var(--card-bg,#fff);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>🤝 Allies &amp; Public</h3><p>Research tools, open data, advocacy campaigns, community guidelines.</p><a href="/research/">Explore →</a></div>
   </div>
 </section>
 
-<!-- CanLII Research Banner -->
-<section style="max-width: 1200px; margin: 3rem auto; padding: 2rem; background: var(--hero-gradient-start, linear-gradient(135deg, #0066cc 0%, #004d99 100%)); border-radius: 16px; box-shadow: 0 8px 32px rgba(0,0,0,0.15); color: var(--text-on-primary, white);">
-  <div style="text-align: center;">
-    <h2 style="font-size: 2rem; margin-bottom: 1rem; color: var(--text-on-primary, white); text-shadow: 2px 2px 4px rgba(0,0,0,0.2);">
-      <span aria-hidden="true">✨🔍</span> NEW: Connecting the Dots → CanLII Keyword Network
-    </h2>
-    <p style="font-size: 1.2rem; margin-bottom: 1rem; opacity: 0.95; max-width: 800px; margin-left: auto; margin-right: auto;">
-      Explore 134,920+ tribunal decisions: Live interactive network graph revealing keyword relationships, denial patterns, and the hidden language used in Canadian tribunal decisions.
-    </p>
-    <div style="margin: 1.5rem 0; padding: 1rem; background: rgba(255,255,255,0.1); border-radius: 8px; display: inline-block;">
-      <p style="margin: 0; font-weight: 600; font-size: 1.1rem;">
-        <span aria-hidden="true">🚀</span> 134,920 cases analyzed (99,036 WSIAT + 35,928 other tribunals) &nbsp;|&nbsp; <span aria-hidden="true">📊</span> 500+ keyword patterns &nbsp;|&nbsp; <span aria-hidden="true">🔗</span> Live interactive D3.js network
-      </p>
+<!-- What 3mpwrapp Offers -->
+<section class="features-highlight" style="margin-bottom:4rem" aria-label="What 3mpwrapp offers">
+  <h1 style="text-align:center;margin-bottom:1.5rem">What 3mpwrapp Offers</h1>
+  <div style="max-width:1200px;margin:0 auto">
+    <h2 style="text-align:center;margin-bottom:2rem">🔧 Tools &amp; Resources</h2>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1.5rem">
+      <div style="padding:1.5rem;background:var(--card-bg,#fff);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>🔒 Evidence Locker</h3><p>Photo documents, AI extracts text, community validates — crowdsourced justice.</p><a href="/features/">Learn more →</a></div>
+      <div style="padding:1.5rem;background:var(--card-bg,#fff);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>📄 Parse Claim</h3><p>AI-powered claim parsing — understand what you have and what's missing.</p><a href="/features/">Learn more →</a></div>
+      <div style="padding:1.5rem;background:var(--card-bg,#fff);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>📅 Deadline Tracker</h3><p>Track deadlines, get reminders — never miss a filing date.</p><a href="/features/">Learn more →</a></div>
+      <div style="padding:1.5rem;background:var(--card-bg,#fff);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>✉️ Letter Wizard</h3><p>Generate demand letters and appeals — plain language, professional output.</p><a href="/features/">Learn more →</a></div>
+      <div style="padding:1.5rem;background:var(--card-bg,#fff);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>🔍 CanLII Research</h3><p>134,920+ tribunal decisions — live keyword network, denial patterns.</p><a href="/research/">Explore →</a></div>
+      <div style="padding:1.5rem;background:var(--card-bg,#fff);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>📊 Visualizations</h3><p>Interactive data visualizations — tribunal outcomes, trends, comparisons.</p><a href="/tribunal-visualizations/">Explore →</a></div>
     </div>
-    <div style="margin-top: 1.5rem; display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
-      <a href="/connecting-the-dots-canlii-keyword-visualization-network.html" style="display: inline-flex; align-items: center; gap: 0.75rem; padding: 1rem 2rem; background: var(--card-bg, white); color: var(--primary-color, #0066cc); border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 1.1rem; box-shadow: 0 4px 16px rgba(0,0,0,0.2); transition: all 0.3s;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.3)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 16px rgba(0,0,0,0.2)'">
-        <span aria-hidden="true">🔍</span>
-        <span>Launch Interactive Visualization</span>
-        <span aria-hidden="true">→</span>
-      </a>
-      <a href="{{ '/research/' | relative_url }}" style="display: inline-flex; align-items: center; gap: 0.75rem; padding: 1rem 2rem; background: rgba(255,255,255,0.15); color: var(--text-on-primary, white); border: 2px solid var(--text-on-primary, white); border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 1.1rem; transition: all 0.3s;" onmouseover="this.style.background='rgba(255,255,255,0.25)'" onmouseout="this.style.background='rgba(255,255,255,0.15)'">
-        <span aria-hidden="true">📊</span>
-        <span>All Research Tools</span>
-      </a>
+    <h2 style="text-align:center;margin:2rem 0 2rem">📚 Learn &amp; Grow</h2>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1.5rem">
+      <div style="padding:1.5rem;background:var(--card-bg,#fff);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>📖 User Guide</h3><p>Step-by-step guides — how to use every tool, from first visit to advanced.</p><a href="/user-guide/">Start →</a></div>
+      <div style="padding:1.5rem;background:var(--card-bg,#fff);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>❓ FAQ</h3><p>Frequently asked questions — quick answers to common questions.</p><a href="/faq/">Browse →</a></div>
+      <div style="padding:1.5rem;background:var(--card-bg,#fff);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>🎓 Tutorials</h3><p>Interactive tutorials — your first benefits application, accessibility setup.</p><a href="/tutorials/">Start →</a></div>
+      <div style="padding:1.5rem;background:var(--card-bg,#fff);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>📰 Blog</h3><p>Community stories, advocacy updates, transparency reports.</p><a href="/blog/">Read →</a></div>
     </div>
-    <p style="margin-top: 1.5rem; font-size: 0.95rem; opacity: 0.85;">
-      Analyzing decisions from Ontario (WSIAT, HRTO, ONSBT), BC (BCWCAT), and more. Open source, fully transparent methodology.
-    </p>
+    <h2 style="text-align:center;margin:2rem 0 2rem">🌐 Connect &amp; Community</h2>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1.5rem">
+      <div style="padding:1.5rem;background:var(--card-bg,#fff);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>👥 Community Hub</h3><p>Join discussions, peer support, advocacy groups — your voice matters.</p><a href="/community/">Join →</a></div>
+      <div style="padding:1.5rem;background:var(--card-bg,#fff);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>📅 Events &amp; Campaigns</h3><p>Meetups, support groups, advocacy gatherings — active campaigns for change.</p><a href="/events/">View →</a></div>
+      <div style="padding:1.5rem;background:var(--card-bg,#fff);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>📧 Newsletter</h3><p>Monthly updates — campaign news, new features, accessibility improvements.</p><a href="/newsletter/">Subscribe →</a></div>
+      <div style="padding:1.5rem;background:var(--card-bg,#fff);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>📱 Social</h3><p>Daily updates, community stories, transparency reports — all platforms.</p><a href="/connect/">Follow →</a></div>
+    </div>
   </div>
 </section>
 
-<!-- Value Proposition Cards -->
-<section class="value-props" style="margin-bottom: 4rem;">
-
-  <!-- AI Interactive Demo -->
-  <section style="max-width: 900px; margin: 2rem auto 2rem; text-align: center; padding: 2rem 1rem; background: var(--demo-gradient, linear-gradient(135deg, #4a3aa0 0%, #3d2f7a 100%)); border-radius: 12px; box-shadow: 0 4px 16px rgba(102, 126, 234, 0.3);">
-    <h2 style="font-size: 1.4rem; margin-bottom: 1rem; color: var(--text-on-primary, #fff);"><span aria-hidden="true">🎯</span> See 3MPWRAPP In Action</h2>
-    <p style="font-size: 1.05rem; margin-bottom: 1.5rem; color: var(--text-on-primary, #fff); opacity: 0.95;">Try our interactive demo! Explore how Evidence Locker, Parse Claim, Deadline Tracker, and Letter Wizard help Canadians organize evidence, decode decisions, and create systemic change.</p>
-    <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
-      <a href="/demo/" style="display: inline-block; padding: 16px 36px; background: var(--card-bg, #fff); color: var(--demo-button-text, #667eea); border-radius: 8px; font-weight: 600; font-size: 1.1rem; text-decoration: none; transition: all 0.2s; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
-        <span aria-hidden="true">🚀</span> Launch Interactive Demo
-      </a>
-      <a href="/app-tour/" style="display: inline-block; padding: 16px 36px; background: rgba(255,255,255,0.2); color: #fff; border: 2px solid rgba(255,255,255,0.4); border-radius: 8px; font-weight: 600; font-size: 1.1rem; text-decoration: none; transition: all 0.2s;">
-        <span aria-hidden="true">📱</span> View App Screenshots
-      </a>
-    </div>
-  </section>
-
-  <!-- Data Download / GitHub Link -->
-  <section style="max-width: 900px; margin: 2rem auto 2rem; text-align: center; padding: 2rem 1rem; background: var(--card-bg); border-radius: 12px; border: 2px solid var(--border-color);">
-    <h2 style="font-size: 1.4rem; margin-bottom: 1rem; color: var(--text-color);">Open Data: Download & Explore</h2>
-    <p style="font-size: 1.05rem; margin-bottom: 1.5rem; color: var(--text-color); opacity: 0.9;">All tribunal and research data is public and open source. Download, analyze, or contribute directly on GitHub.</p>
-    <a href="https://github.com/S0vryn9-C011ect1ve/3mpwrapp.github.io/tree/main/data" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 16px 36px; background: var(--primary-color, #24292f); color: #fff; border-radius: 8px; font-weight: 600; font-size: 1.1rem; text-decoration: none; transition: background 0.2s;">
-      <span aria-hidden="true">📂</span> See Data on GitHub
-    </a>
-  </section>
-  <h2 style="text-align: center; font-size: 2rem; margin-bottom: 2.5rem; color: var(--text-color);">
-    Why 3mpwrApp?
-  </h2>
-  
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; max-width: 1200px; margin: 0 auto;">
-    
-    <!-- Card 1: Community -->
-    <div class="homepage-value-card">
-      <div style="font-size: 3rem; margin-bottom: 1rem;">👥</div>
-      <h3>Built BY Community, FOR Community</h3>
-      <p>
-        Created by someone who lived it. Every feature designed with real experiences from injured workers and disabled people.
-      </p>
-      <a href="/about" style="color: var(--link-color, #003d7a); text-decoration: none; font-weight: 600;">
-        Learn More About 3mpwrApp →
-      </a>
-    </div>
-    
-    <!-- Card 2: Tools -->
-    <div class="homepage-value-card">
-      <div style="font-size: 3rem; margin-bottom: 1rem;">🛠️</div>
-      <h3>60+ Practical Tools</h3>
-      <p>
-        Evidence locker, pain tracker, medication manager, legal resources, and more. Everything you need in one place.
-      </p>
-      <a href="/features/" style="color: var(--link-color, #005a00); text-decoration: none; font-weight: 600;">
-        Explore All Features →
-      </a>
-    </div>
-    
-    <!-- Card 3: Accessibility -->
-    <div class="homepage-value-card">
-      <div style="font-size: 3rem; margin-bottom: 1rem;">♿</div>
-      <h3>Revolutionary Accessibility</h3>
-      <p>
-        Built for brain fog, chronic pain, and fatigue. Complexity toggle, need-a-break button, and pain flare mode.
-      </p>
-      <a href="/accessibility" style="color: var(--link-color, #5a189a); text-decoration: none; font-weight: 600;">
-        Accessibility Features →
-      </a>
-    </div>
-    
+<!-- Get Started CTA -->
+<section class="homepage-cta" aria-label="Get started">
+  <div style="max-width:800px;margin:0 auto;text-align:center;padding:2rem">
+    <h1 style="margin-bottom:1rem">Ready to Get Started?</h1>
+    <p style="font-size:1.1rem;margin-bottom:1.5rem">Join the beta — free forever, no credit card, cancel anytime.</p>
+    <a href="/beta/" style="display:inline-block;padding:12px 32px;background:#2A9D8F;color:#fff;border-radius:8px;font-weight:600;font-size:1.1rem;text-decoration:none">Join Beta Waitlist →</a>
+    <p style="margin-top:1rem;font-size:0.9rem"><a href="/app-tour/" style="color:#2A9D8F">Take the App Tour</a> · <a href="/faq/" style="color:#2A9D8F">FAQ</a> · <a href="/contact/" style="color:#2A9D8F">Contact Us</a></p>
   </div>
 </section>
 
-<!-- Events & Campaigns Grid -->
-<section class="content-grid" style="margin-bottom: 4rem;">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 2rem;">
-    
-    <!-- Events Column -->
-    <div class="homepage-events-box">
-      <h2>
-        <span aria-hidden="true">📅</span> This Week's Events
-      </h2>
-      <p style="opacity: 0.9; margin-bottom: 1.5rem;">Community meetups, support groups, and advocacy gatherings</p>
-      
-      <div id="events-simple-container" style="min-height: 150px;">
-        <p>Loading upcoming events...</p>
-      </div>
-      
-      <a href="/events/" class="homepage-box-link">
-        View Full Community Events Calendar →
-      </a>
-    </div>
-    
-    <!-- Campaigns Column -->
-    <div class="homepage-campaigns-box">
-      <h2>
-        <span aria-hidden="true">📢</span> Active Campaigns
-      </h2>
-      <p style="opacity: 0.9; margin-bottom: 1.5rem;">Join us in advocating for disability rights and policy change</p>
-      
-      <div id="campaigns-simple-container" style="min-height: 150px;">
-        <p>Loading advocacy campaigns...</p>
-      </div>
-      
-      <a href="/campaigns/" class="homepage-box-link">
-        View All Advocacy Campaigns →
-      </a>
-    </div>
-    
+<!-- Comprehensive Footer Navigation -->
+<section aria-label="Site navigation" style="margin-bottom:4rem;padding:2.5rem;background:linear-gradient(135deg,rgba(61,78,170,0.08) 0%,rgba(61,78,170,0.03) 100%);border-radius:12px">
+  <div style="max-width:1200px;margin:0 auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:2rem">
+    <div><h3>Start Here</h3><ul style="list-style:none;padding:0"><li><a href="/">Home</a></li><li><a href="/about/">About</a></li><li><a href="/features/">Features</a></li><li><a href="/user-guide/">User Guide</a></li><li><a href="/faq/">FAQ</a></li></ul></div>
+    <div><h3>Tools</h3><ul style="list-style:none;padding:0"><li><a href="/features/#evidence-locker">Evidence Locker</a></li><li><a href="/features/#parse-claim">Parse Claim</a></li><li><a href="/features/#deadline-tracker">Deadline Tracker</a></li><li><a href="/features/#letter-wizard">Letter Wizard</a></li><li><a href="/research/">Research Tools</a></li></ul></div>
+    <div><h3>Community</h3><ul style="list-style:none;padding:0"><li><a href="/community/">Community Hub</a></li><li><a href="/events/">Events</a></li><li><a href="/campaigns/">Campaigns</a></li><li><a href="/code-of-conduct/">Guidelines</a></li><li><a href="/connect/">Connect</a></li></ul></div>
+    <div><h3>Research</h3><ul style="list-style:none;padding:0"><li><a href="/research/">Research</a></li><li><a href="/research-data-sources/">Data Sources</a></li><li><a href="/tribunal-visualizations/">Visualizations</a></li><li><a href="/how-to-use-this-data/">How to Use Data</a></li><li><a href="/blog/">Blog</a></li></ul></div>
+    <div><h3>Legal &amp; Privacy</h3><ul style="list-style:none;padding:0"><li><a href="/privacy/">Privacy Policy</a></li><li><a href="/security/">Security</a></li><li><a href="/accessibility/">Accessibility</a></li><li><a href="/terms/">Terms</a></li><li><a href="/delete-data/">Delete Data</a></li></ul></div>
+    <div><h3>Support</h3><ul style="list-style:none;padding:0"><li><a href="/contact/">Contact Us</a></li><li><a href="/crisis-resources/">Crisis Resources</a></li><li><a href="/newsletter/">Newsletter</a></li><li><a href="/site-map/">Site Map</a></li><li><a href="/beta/">Beta Testing</a></li></ul></div>
   </div>
 </section>
-
-<!-- Core Features Highlights -->
-<section class="features-highlight" style="margin-bottom: 4rem;">
-  <h2 style="text-align: center; font-size: 2rem; margin-bottom: 1rem; color: var(--text-color);">
-    Features That Grow Stronger Together
-  </h2>
-  <p style="text-align: center; font-size: 1.1rem; color: var(--text-secondary); max-width: 800px; margin: 0 auto 2.5rem; line-height: 1.6;">
-    The more people who join, the more powerful these features become - collective strength that creates real change
-  </p>
-  
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; max-width: 1200px; margin: 0 auto;">
-    
-    <div class="homepage-feature-box">
-      <div style="font-size: 2.5rem; margin-bottom: 0.75rem;">🔒</div>
-      <h3>Evidence Locker</h3>
-      <p>
-        <strong>COLLECTIVE POWER:</strong> Photo your documents, AI extracts text, community validates - crowdsourced justice that gets stronger with every upload
-      </p>
-    </div>
-    
-    <div class="homepage-feature-box">
-      <div style="font-size: 2.5rem; margin-bottom: 0.75rem;">🤝</div>
-      <h3>Community & Campaigns</h3>
-      <p>
-        <strong>NETWORK STRENGTH:</strong> Together we organize, advocate, and win - more voices mean more power for real systemic change
-      </p>
-    </div>
-    
-    <div class="homepage-feature-box">
-      <div style="font-size: 2.5rem; margin-bottom: 0.75rem;">⚖️</div>
-      <h3>Legal & Knowledge Sharing</h3>
-      <p>
-        <strong>SHARED WISDOM:</strong> Shared legal strategies, winning patterns, resources - every case we track helps everyone else win
-      </p>
-    </div>
-    
-    <div class="homepage-feature-box">
-      <div style="font-size: 2.5rem; margin-bottom: 0.75rem;">📋</div>
-      <h3>Appeal Command Center</h3>
-      <p>
-        <strong>STRATEGIC POWER:</strong> Deadline tracking, document management, tribunal prep - everything you need to fight back and win your appeal
-      </p>
-    </div>
-    
-    <div class="homepage-feature-box">
-      <div style="font-size: 2.5rem; margin-bottom: 0.75rem;">💰</div>
-      <h3>Financial Safety Net</h3>
-      <p>
-        <strong>SURVIVAL TOOLS:</strong> Budget tracking, benefit calculators, emergency resources - manage finances when every dollar counts
-      </p>
-    </div>
-    
-    <div class="homepage-feature-box">
-      <div style="font-size: 2.5rem; margin-bottom: 0.75rem;">❤️</div>
-      <h3>Wellness Hub</h3>
-      <p>
-        <strong>HOLISTIC CARE:</strong> Pain tracking, symptom journals, exercise routines, meditation - tools for managing your health day by day
-      </p>
-    </div>
-    
-  </div>
-  
-  <div style="text-align: center; margin-top: 2.5rem;">
-    <a href="/features/" style="display: inline-block; padding: 14px 32px; background: var(--button-primary-bg, #3d4eaa); color: var(--button-primary-text, white); border-radius: 10px; text-decoration: none; font-weight: 600; font-size: 1.05rem; transition: all 0.2s; box-shadow: 0 2px 8px rgba(61, 78, 170, 0.2);">
-      See All 60+ Revolutionary Features →
-    </a>
-  </div>
-</section>
-
-
-
-<!-- Theme Song Winner Announcement -->
-<section class="theme-song-winner">
-  <div class="trophy">🏆</div>
-  <h2>
-    <span aria-hidden="true">🎶</span> Official 3mpwr Theme Song
-  </h2>
-  <p class="winner-text">
-    Community Vote Winner: Option 1
-  </p>
-  <a href="https://suno.com/s/enuXDfFsc65WWAMr" target="_blank" rel="noopener noreferrer" class="btn-listen">
-    <span aria-hidden="true">▶️</span> Listen to Our Anthem
-  </a>
-  <p class="tagline">
-    This isn't just a song → it's our anthem. <span aria-hidden="true">🔥</span>
-  </p>
-</section>
-
-<!-- CTA Section -->
-<section class="homepage-cta">
-  <h2>
-    Ready to Join Our Community?
-  </h2>
-  <p>
-    Be part of building something meaningful. Your voice matters, your experience counts, and you belong here.
-  </p>
-  <a href="/app-waitlist" class="homepage-btn-primary" style="display: inline-block; padding: 18px 40px; font-size: 1.2rem;">
-    Join the Beta Waitlist 🚀
-  </a>
-  <p style="margin-top: 1.5rem; opacity: 0.9; font-size: 0.95rem;">
-    No credit card required • 100% free forever • Cancel anytime (but there's nothing to cancel!)
-  </p>
-</section>
-
-<!-- Newsletter Signup -->
-<section class="newsletter" style="margin-bottom: 4rem;">
-  {%- include newsletter-signup.html -%}
-</section>
-
-<!-- Learn More Section -->
-<section style="margin-bottom: 4rem; padding: 2.5rem; background: linear-gradient(135deg, rgba(61, 78, 170, 0.08) 0%, rgba(61, 78, 170, 0.03) 100%); border-radius: 12px; border: 2px solid rgba(61, 78, 170, 0.15);">
-  <h2 style="text-align: center; font-size: 1.9rem; margin-bottom: 2rem; color: var(--text-color);">
-    <span aria-hidden="true">→</span> Learn More About 3mpwrApp
-  </h2>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; max-width: 1100px; margin: 0 auto;">
-    
-    <div style="padding: 1.5rem; background: var(--card-bg, white); border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); border-left: 4px solid var(--accent-blue, #3d4eaa);">
-      <h3 style="font-size: 1.1rem; margin-bottom: 0.75rem; color: var(--accent-blue, #3d4eaa);">
-        <span aria-hidden="true">→</span> Documentation
-      </h3>
-      <ul style="list-style: none; padding: 0; margin: 0;">
-        <li style="margin: 0.5rem 0;"><a href="/user-guide/" style="color: var(--link-color, #003d7a); text-decoration: none; font-weight: 500;">User Guide</a></li>
-        <li style="margin: 0.5rem 0;"><a href="/faq/" style="color: var(--link-color, #003d7a); text-decoration: none; font-weight: 500;">FAQ</a></li>
-        <li style="margin: 0.5rem 0;"><a href="/app-tour/" style="color: var(--link-color, #003d7a); text-decoration: none; font-weight: 500;">App Tour</a></li>
-        <li style="margin: 0.5rem 0;"><a href="/whats-new/" style="color: var(--link-color, #003d7a); text-decoration: none; font-weight: 500;">What's New</a></li>
-      </ul>
-    </div>
-    
-    <div style="padding: 1.5rem; background: var(--card-bg, white); border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); border-left: 4px solid var(--accent-green, #10b981);">
-      <h3 style="font-size: 1.1rem; margin-bottom: 0.75rem; color: var(--accent-green, #10b981);">
-        <span aria-hidden="true">•</span> Privacy & Security
-      </h3>
-      <ul style="list-style: none; padding: 0; margin: 0;">
-        <li style="margin: 0.5rem 0;"><a href="/privacy/" style="color: var(--link-color, #003d7a); text-decoration: none; font-weight: 500;">Privacy Policy</a></li>
-        <li style="margin: 0.5rem 0;"><a href="/security/" style="color: var(--link-color, #003d7a); text-decoration: none; font-weight: 500;">Security</a></li>
-        <li style="margin: 0.5rem 0;"><a href="/accessibility" style="color: var(--link-color, #003d7a); text-decoration: none; font-weight: 500;">Accessibility</a></li>
-        <li style="margin: 0.5rem 0;"><a href="/delete-account.html" style="color: var(--link-color, #003d7a); text-decoration: none; font-weight: 500;">Delete Account</a></li>
-      </ul>
-    </div>
-    
-    <div style="padding: 1.5rem; background: var(--card-bg, white); border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); border-left: 4px solid var(--accent-orange, #f59e0b);">
-      <h3 style="font-size: 1.1rem; margin-bottom: 0.75rem; color: var(--accent-orange, #f59e0b);">
-        <span aria-hidden="true">→</span> Community & Support
-      </h3>
-      <ul style="list-style: none; padding: 0; margin: 0;">
-        <li style="margin: 0.5rem 0;"><a href="/community/" style="color: var(--link-color, #003d7a); text-decoration: none; font-weight: 500;">Community Hub</a></li>
-        <li style="margin: 0.5rem 0;"><a href="/code-of-conduct//" style="color: var(--link-color, #003d7a); text-decoration: none; font-weight: 500;">Community Guidelines</a></li>
-        <li style="margin: 0.5rem 0;"><a href="/contact/" style="color: var(--link-color, #003d7a); text-decoration: none; font-weight: 500;">Contact Us</a></li>
-        <li style="margin: 0.5rem 0;"><a href="/crisis-resources/" style="color: #003d7a; text-decoration: none; font-weight: 500;">Crisis Resources</a></li>
-      </ul>
-    </div>
-    
-    <div style="padding: 1.5rem; background: white; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); border-left: 4px solid #dc2626;">
-      <h3 style="font-size: 1.1rem; margin-bottom: 0.75rem; color: #dc2626;">
-        <span aria-hidden="true">→</span> Research & Data
-      </h3>
-      <ul style="list-style: none; padding: 0; margin: 0;">
-        <li style="margin: 0.5rem 0;"><a href="{{ '/research/' | relative_url }}" style="color: #003d7a; text-decoration: none; font-weight: 500;">Research Tools</a></li>
-        <li style="margin: 0.5rem 0;"><a href="/research-data-sources/" style="color: #003d7a; text-decoration: none; font-weight: 500;">Data Sources</a></li>
-        <li style="margin: 0.5rem 0;"><a href="/tribunal-visualizations/" style="color: #003d7a; text-decoration: none; font-weight: 500;">Visualizations</a></li>
-        <li style="margin: 0.5rem 0;"><a href="/how-to-use-this-data/" style="color: #003d7a; text-decoration: none; font-weight: 500;">How to Use Data</a></li>
-      </ul>
-    </div>
-    
-  </div>
-</section>
-
-<!-- Social Media Links -->
-<section style="text-align: center; margin-bottom: 4rem; padding: 2rem; background: rgba(61, 78, 170, 0.05); border-radius: 12px;">
-  <h2 style="font-size: 1.75rem; margin-bottom: 1.5rem; color: var(--text-color);">Stay Connected</h2>
-  <p style="margin-bottom: 1.5rem; opacity: 0.9;">Follow us on social media for daily updates, community stories, and transparency reports</p>
-  <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin-bottom: 1rem;">
-    <a href="https://discord.gg/P2qQyjxV" target="_blank" rel="noopener" style="padding: 0.75rem 1.5rem; background: #5865F2; color: white; border-radius: 8px; text-decoration: none; font-weight: 600;">💬 Discord</a>
-    <a href="https://x.com/3mpwrApp0816" target="_blank" rel="noopener" style="padding: 0.75rem 1.5rem; background: #000000; color: white; border-radius: 8px; text-decoration: none; font-weight: 600;">🐦 X/Twitter</a>
-    <a href="https://www.facebook.com/3mpowrapp/" target="_blank" rel="noopener" style="padding: 0.75rem 1.5rem; background: #1877F2; color: white; border-radius: 8px; text-decoration: none; font-weight: 600;">→ Facebook</a>
-    <a href="https://mastodon.social/@3mpwrapp" target="_blank" rel="noopener" style="padding: 0.75rem 1.5rem; background: #6364FF; color: white; border-radius: 8px; text-decoration: none; font-weight: 600;">🐘 Mastodon</a>
-    <a href="https://bsky.app/profile/3mpwrapp.bsky.social" target="_blank" rel="noopener" style="padding: 0.75rem 1.5rem; background: #1285FE; color: white; border-radius: 8px; text-decoration: none; font-weight: 600;">☁️ Bluesky</a>
-  </div>
-  <p style="margin-top: 1rem; font-size: 0.9rem; opacity: 0.8;">Email: <a href="mailto:empowrapp08162025@gmail.com" style="color: #003d7a;">empowrapp08162025@gmail.com</a></p>
-</section>
-
-<style>
-/* Hover effects */
-.value-props > div > div:hover,
-.features-highlight > div > div:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
-}
-
-.btn-primary:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(61, 78, 170, 0.4);
-}
-
-.btn-secondary:hover {
-  background: #3d4eaa;
-  color: white;
-}
-
-/* Responsive adjustments */
-@media (max-width: 768px) {
-  .hero h1 {
-    font-size: 2rem !important;
-  }
-  
-  .hero p {
-    font-size: 1.1rem !important;
-  }
-  
-  .value-props h2,
-  .features-highlight h2,
-  .stats h2,
-  .cta h2 {
-    font-size: 1.75rem !important;
-  }
-}
-
-/* Reduced motion support */
-@media (prefers-reduced-motion: reduce) {
-  .value-props > div > div,
-  .features-highlight > div > div,
-  .btn-primary,
-  .btn-secondary {
-    transition: none !important;
-    transform: none !important;
-  }
-}
-
-/* High contrast mode */
-@media (prefers-contrast: more) {
-  .value-props > div > div,
-  .features-highlight > div > div {
-    border: 3px solid currentColor;
-  }
-}
-</style>
-
-<script>
-// Simple event loading - shows events in next 7 days
-async function loadSimpleEvents() {
-  try {
-    const response = await fetch('https://3mpwrapp.ca/api/events.json?ts=' + Date.now(), { cache: 'no-store' });
-    const events = await response.json();
-    
-    const now = new Date();
-    const sevenDaysFromNow = new Date(now.getTime() + (7 * 24 * 60 * 60 * 1000));
-    
-    // Get events in next 7 days, filter for community events only
-    const upcomingEvents = events
-      .filter(e => {
-        const eventDate = new Date(e.date);
-        return eventDate >= now && eventDate <= sevenDaysFromNow && !String(e.id||'').startsWith('health-');
-      })
-      .sort((a, b) => new Date(a.date) - new Date(b.date))
-      .slice(0, 5);
-    
-    const container = document.getElementById('events-simple-container');
-    if (upcomingEvents.length === 0) {
-      container.innerHTML = '<p style="opacity: 0.9;">No events this week. Check the <a href="/events/">full calendar</a>!</p>';
-      return;
-    }
-    
-    container.innerHTML = upcomingEvents.map(e => {
-      const date = new Date(e.date);
-      const dateStr = date.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
-      const timeStr = date.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit' });
-      return `
-        <div class="homepage-event-item">
-          <div class="event-title">${e.title}</div>
-          <div class="event-meta">→ ${dateStr} at ${timeStr}</div>
-        </div>
-      `;
-    }).join('');
-  } catch (err) {
-    console.error('Events load error:', err);
-    document.getElementById('events-simple-container').innerHTML = '<p style="opacity: 0.8;">Unable to load events</p>';
-  }
-}
-
-// Simple campaigns loading
-async function loadSimpleCampaigns() {
-  try {
-    const response = await fetch('https://3mpwrapp.ca/api/campaigns.json?ts=' + Date.now(), { cache: 'no-store' });
-    const campaigns = await response.json();
-    
-    // Get active campaigns (not completed)
-    const activeCampaigns = campaigns.filter(c => c.status === 'active').slice(0, 3);
-    
-    const container = document.getElementById('campaigns-simple-container');
-    if (activeCampaigns.length === 0) {
-      container.innerHTML = '<p style="opacity: 0.9;">No active campaigns. Check the <a href="/campaigns/">campaigns page</a>!</p>';
-      return;
-    }
-    
-    container.innerHTML = activeCampaigns.map(c => `
-      <div class="homepage-campaign-item">
-        <div class="campaign-title">${c.title}</div>
-        <div class="campaign-summary">${(c.description || '').substring(0, 100)}...</div>
-        ${c.actionUrl ? `<a href="#" target="_blank" rel="noopener" style="font-size: 0.9rem; color: #5a189a;">Take Action ?</a>` : ''}
-      </div>
-    `).join('');
-  } catch (err) {
-    console.error('Campaigns load error:', err);
-    document.getElementById('campaigns-simple-container').innerHTML = '<p style="opacity: 0.8;">Unable to load campaigns</p>';
-  }
-}
-
-if (document.readyState === 'loading') {
-  document.addEventListener('DOMContentLoaded', () => {
-    loadSimpleEvents();
-    loadSimpleCampaigns();
-  });
-} else {
-  loadSimpleEvents();
-  loadSimpleCampaigns();
-}
-</script>
