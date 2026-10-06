@@ -41,7 +41,7 @@ We completed a full documentation synchronization across app and website, includ
 
 - [Infolettre](/fr/newsletter/)
 - [Événements](/fr/events/)
-- [Connectez avec nous](/fr/connect/)
+- [Connectez avec nous](/fr/contact/)
 - [Blog](/fr/blog/)
 - [Campagnes et événements](/fr/campaigns/)
 - [Projecteur communautaire](/fr/community-spotlight/)

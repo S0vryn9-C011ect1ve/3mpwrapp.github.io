@@ -63,7 +63,7 @@ We'd love to hear from you! Here's how:
     <span class="option-cta">Send us a message →</span>
   </a>
 
-  <a href="/connect" class="contact-option-card" aria-label="Join the community to share experiences">
+  <a href="/contact" class="contact-option-card" aria-label="Join the community to share experiences">
     <div class="option-icon" aria-hidden="true">💬</div>
     <h3>Join the Community</h3>
     <p>Share your experiences and connect with others</p>

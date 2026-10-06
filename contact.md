@@ -37,6 +37,142 @@ permalink: /contact/
 
 We'd love to hear from you! Whether you have questions about 3mpwr, feedback to share, or collaboration opportunities, please reach out.
 
+## Who We Want to Hear From
+
+<div class="info-box">
+  <strong>👥 Everyone is welcome to connect:</strong> Whether you're a person with a disability, injured worker, family supporter, union member, healthcare provider, legal advocate, ally, or member of the general public—we want to hear from you.
+</div>
+
+### 🦽 Persons with Disabilities & Injured Workers
+**You are the heart of 3mpwrApp.** Connect with us to:
+- 💬 Share your lived experience
+- 💡 Suggest features that would help you
+- 🧪 Beta test the platform
+- 🎯 Join our advisory board
+- ✅ Tell us what's working (or not!)
+- 📣 Start or join campaigns
+**📧 Email:** [[EMAIL]](mailto:[EMAIL])
+
+### 💙 Family Supporters & Caregivers
+**Your perspective matters.** Connect with us to:
+- 🗣️ Share how we can support YOU in supporting your loved ones
+- 📚 Suggest resources that would help families navigate systems
+- 💡 Help us understand challenges we might not see
+- 🌟 Recommend family-focused features
+- 🤝 Connect with other supporters
+**📧 Email:** [[EMAIL]](mailto:[EMAIL])
+
+### 🛠️ Unions & Labour Organizations
+**Let's fight together.** Connect with us about:
+- 🤝 Partnership opportunities
+- 📣 Joint campaigns for workers' rights
+- ♿ Disability inclusion in collective bargaining
+- 🏭 Workplace accessibility initiatives
+- 📚 Member resources and support
+- 💪 Organizing injured worker advocacy
+**📧 Email:** [[EMAIL]](mailto:[EMAIL])
+
+### 🤝 Non-Disabled Allies & Advocates
+**Solidarity is action.** Connect with us to:
+- 📢 Learn how to amplify disabled voices (not speak over them)
+- 🌍 Find community organizing opportunities
+- 📣 Collaborate on awareness campaigns
+- 📚 Access learning resources on disability justice
+- 💪 Support community-led initiatives
+**📧 Email:** [[EMAIL]](mailto:[EMAIL])
+
+### 🏥 Healthcare Providers
+**Bridge the gap between medicine and advocacy.** Connect with us about:
+- 🤝 Patient resource partnerships
+- 🗺️ System navigation tools
+- 📚 Medical information in plain language
+- 🎓 Provider education on disability rights
+- 💡 Clinical perspective on community needs
+**📧 Email:** [[EMAIL]](mailto:[EMAIL])
+
+### ⚖️ Legal Advocates & Community Legal Workers
+**Justice for all.** Connect with us about:
+- 📚 Client resources and tools
+- 🤝 Legal information partnerships
+- 📝 Know-your-rights content
+- ⚖️ Plain-language legal guides
+- 💡 Legal clinic collaboration
+**📧 Email:** [[EMAIL]](mailto:[EMAIL])
+
+### 🏢 Progressive Employers
+**Real accessibility, not performative.** Connect with us about:
+- ♿ Genuine accommodation partnerships
+- 🎓 Workplace accessibility consulting
+- 📚 Employee resource development
+- 💡 Disability inclusion training (led by disabled people)
+- 🤝 Learning from disabled and injured workers directly
+**📧 Email:** [[EMAIL]](mailto:[EMAIL])
+**Note:** We center disabled and injured workers' voices. Employers must approach with humility and willingness to listen.
+
+### 🌍 General Public
+**Curious about disability justice? Welcome!** Connect with us to:
+- 📚 Learn about ableism and workers' rights
+- 🔍 Understand systemic barriers
+- 💪 Become a better ally
+- 🤝 Support the movement
+- 💡 Ask questions respectfully
+**📧 Email:** [[EMAIL]](mailto:[EMAIL])
+
+### ✊ Social Justice Organizations & Activists
+**Disability justice is social justice.** Connect with us about:
+- 🤝 Cross-movement solidarity and coalition building
+- 📣 Joint campaigns against systemic oppression
+- 🌈 Intersectional organizing (disability + race + gender + class)
+- 💪 Anti-poverty and economic justice collaborations
+- 🏘️ Housing justice and accessibility
+- ⚖️ Criminal justice reform for disabled people
+- 🌍 Anti-oppression framework partnerships
+**📧 Email:** [[EMAIL]](mailto:[EMAIL])
+**We believe:** All oppression is connected. Fighting ableism means fighting racism, classism, sexism, homophobia, transphobia, and all forms of systemic injustice.
+
+### 📰 Media & Researchers
+**Tell our stories accurately.** Connect with us about:
+- 🎤 Interview requests (we connect you with community members who choose to participate)
+- 📊 Research partnerships centered on disability justice
+- 📺 Accurate representation in media
+- 📖 Community-led storytelling
+- 💡 Ethical research with community benefit
+**📧 Email:** [[EMAIL]](mailto:[EMAIL])
+**Important:** No inspiration porn. No exploitation. Community control over narratives.
+
+## We're Building Something Special
+**Where we're at:**
+- 🚀 Closed Beta Phase 1
+- 💪 Community-driven and grassroots
+- 🌱 Growing organically
+- 💚 100% free, no corporate interests
+- ⭐ Mission-driven, not profit-driven
+
+**What guides us:**
+- ✅ Nothing About Us Without Us
+- ✅ Accessibility is mandatory, not optional
+- ✅ Community benefit over everything
+- ✅ Transparency in all operations
+- ✅ Authentic inclusion, not tokenism
+
+## What We're Looking For
+**As we grow, we're seeking:**
+- **💡 Ideas & Feedback:** What features would help you most? What barriers do you face? How can we improve?
+- **🤝 Collaborations:** Resource sharing, joint campaigns, cross-promotion, knowledge exchange
+- **📢 Amplification:** Help spread the word, share with your networks, connect us with aligned organizations
+- **💪 Community Champions:** People passionate about our mission, willing to advocate and organize, help grow the community
+- **💚 Support (Not Financial):** Skills and expertise, time and energy (at your capacity), connections and networks, ideas and creativity
+
+## What We're NOT Looking For
+**We will politely decline:**
+- ❌ Corporate sponsorships that compromise our mission
+- ❌ Partnerships with poor disability/labour records
+- ❌ "Awareness" campaigns that are performative
+- ❌ Requests that exploit community for research without benefit
+- ❌ Advertising or marketing pitches
+- ❌ Anything that conflicts with community interests
+**Our community comes first. Always.**
+
 ## Quick Links
 
 <div class="quick-links-grid">
@@ -539,9 +675,12 @@ Connect with us and use **#3mpwrApp** to join the conversation!
 - **GitHub:** [@3mpowrApp](https://github.com/3mpowrApp)
 - **X (Twitter):** [@3mpwrApp0816](https://x.com/3mpwrApp0816)
 - **Facebook:** [@3mpowrapp](https://www.facebook.com/3mpowrapp/)
+- **3mpwr App Hub (Community Group):** [Join our Facebook group](https://www.facebook.com/groups/1848263672453552)
 - **Instagram:** [@3mpowrapp](https://www.instagram.com/3mpowrapp/)
+- **YouTube:** [3mpwrApp](https://www.youtube.com/3mpwrApp)
 - **TikTok:** [@3mpwrapp](https://www.tiktok.com/@3mpwrapp)
-- **Mastodon:** [@3mpwrApp@mastodon.social](https://mastodon.social/@3mpwrApp)
+- **Bluesky:** [@3mpwrapp.bsky.social](https://bsky.app/profile/3mpwrapp.bsky.social)
+- **Mastodon:** [@3mpwrApp](https://mastodon.social/@3mpwrApp)
 
 ### Accessibility
 If you have accessibility issues viewing or using this form, please email us directly at [empowrapp08162025@gmail.com](mailto:empowrapp08162025@gmail.com) and we'll assist you promptly.
@@ -552,5 +691,23 @@ We aim to respond to all inquiries within 24 hours during business days (Monday-
 ---
 
 **Note:** This form requires JavaScript to function. If you're having issues, you can email us directly at [empowrapp08162025@gmail.com](mailto:empowrapp08162025@gmail.com).
+
+## Crisis Resources
+<div class="crisis-resources" role="alert">
+  <p><strong>🆘 Need immediate help?</strong></p>
+  <p>24/7 Crisis Line: <a href="tel:[PHONE]">[PHONE]</a> | <a href="/crisis-resources">More resources →</a></p>
+</div>
+
+## Our Vision for Connections
+**We're building a network, not a hierarchy.** We envision:
+- 🤝 Mutual support between aligned organizations
+- 🌐 Resource sharing that benefits all communities
+- 💪 Collective power for systemic change
+- 🌱 Growing together while maintaining independence
+- ⭐ Authentic relationships, not transactional ones
+**We're not looking to be saved or taken over — we're looking for partners who respect our community leadership and grassroots nature.**
+
+## Thank You
+**For your interest in 3mpwrApp!** Whether you're reaching out to collaborate, share an idea, tell our story, support the mission, or ask a question — we appreciate you. Every connection, every conversation, every shared idea helps us build something better for disabled people and injured workers across Canada.
 
 {%- include page-feedback.html -%}

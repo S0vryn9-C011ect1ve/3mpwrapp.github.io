@@ -967,7 +967,7 @@ permalink: /campaigns/
 📧 Email: [empowrapp08162025@gmail.com](mailto:empowrapp08162025@gmail.com?subject=Organizing%20Support)
 
 **Partnership inquiries?**  
-📝 Visit our [Connect page](/connect/)
+📝 Visit our [Connect page](/contact/)
 
 ---
 

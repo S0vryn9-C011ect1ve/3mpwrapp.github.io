@@ -23,6 +23,35 @@ description: Entrez en contact avec 3mpwrApp et suivez-nous sur les réseaux soc
 
 ---
 
+## 🌟 Qui peut nous contacter
+
+<span class="energy-cost" data-energy="1" aria-label="Coût énergétique : très léger">🔋 Énergie : Très légère</span>
+
+<div class="info-box">
+  <strong>👥 Tout le monde est bienvenu :</strong> personnes handicapées, travailleurs blessés, proches aidants, syndicats, professionnels, alliés, grand public.
+</div>
+
+### 🦽 Personnes handicapées et travailleurs blessés
+- 💬 Partager votre expérience vécue
+- 💡 Suggérer des fonctionnalités prioritaires
+- 🧪 Participer aux tests bêta
+- 📣 Lancer ou rejoindre des campagnes
+
+### 💙 Familles et proches aidants
+- 🗣️ Exprimer les besoins de soutien familial
+- 📚 Proposer des ressources utiles
+- 🤝 Relier les aidants entre eux
+
+### 🛠️ Syndicats et organisations du travail
+- 🤝 Construire des partenariats
+- 📣 Coorganiser des campagnes
+- ♿ Renforcer l'inclusion et l'accessibilité au travail
+
+### 🤝 Alliés et organismes partenaires
+- 📢 Amplifier les initiatives menées par la communauté
+- 🌍 Participer à des collaborations intersectorielles
+- 💪 Soutenir des actions concrètes
+
 ## 📧 Entrez en contact
 
 <div class="contact-section">
@@ -116,6 +145,26 @@ Restez connecté avec 3mpwrApp sur vos plateformes préférées :
     <p>Suivez pour : Discussions sur la justice pour les personnes handicapées, intersectionnalité, campagnes d'action, voix communautaires</p>
     <a href="https://bsky.app/profile/3mpwrapp.bsky.social" target="_blank" rel="noopener noreferrer" class="btn btn-secondary">
       Suivre sur Bluesky →
+    </a>
+  </div>
+
+  <div class="social-card">
+    <div class="social-icon">📸</div>
+    <h3>Instagram</h3>
+    <p><strong>Histoires visuelles et coulisses</strong></p>
+    <p>Suivez pour : Photos de la communauté, extraits d'événements, aperçus quotidiens, contenu partageable</p>
+    <a href="https://www.instagram.com/3mpowrapp" target="_blank" rel="noopener noreferrer" class="btn btn-secondary">
+      Suivre sur Instagram →
+    </a>
+  </div>
+
+  <div class="social-card">
+    <div class="social-icon">🎥</div>
+    <h3>YouTube</h3>
+    <p><strong>Tutoriels et témoignages</strong></p>
+    <p>Suivez pour : Démos de fonctionnalités, histoires communautaires, guides d'accessibilité, webinaires</p>
+    <a href="https://www.youtube.com/3mpwrApp" target="_blank" rel="noopener noreferrer" class="btn btn-secondary">
+      Suivre sur YouTube →
     </a>
   </div>
 

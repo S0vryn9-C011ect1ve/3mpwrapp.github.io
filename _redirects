@@ -18,6 +18,11 @@ https://www.3mpwrapp.ca/* https://3mpwrapp.ca/:splat 301!
 /beta-signup/ /app-waitlist/ 200
 /reports /support/ 200
 /reports/ /support/ 200
+# --- merged connect -> contact (2026-10-06) ---
+/connect /contact/ 301
+/connect/ /contact/ 301
+/fr/connect /fr/contact/ 301
+/fr/connect/ /fr/contact/ 301
 /* /index.html 200
 # --- content redirects ---
 /blog/2026/04/26/onsbt-accessibility-barriers-vulnerable-communities/ /community-updates/research/accessibility/tribunal-analysis/2026/04/26/onsbt-accessibility-barriers-vulnerable-communities/ 301

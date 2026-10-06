@@ -510,7 +510,7 @@ Nominate them for Community Spotlight:
 💬 Visit our [Campaigns page](/campaigns/)
 
 **Connect with us:**  
-📝 Visit our [Connect page](/connect/)
+📝 Visit our [Connect page](/contact/)
 
 ---
 
