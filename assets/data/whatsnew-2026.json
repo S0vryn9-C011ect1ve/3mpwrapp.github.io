@@ -1,8 +1,53 @@
 {
   "year": 2026,
   "version": "1.0",
-  "lastUpdated": "2026-10-03T20:00:00-04:00",
+  "lastUpdated": "2026-10-05T18:00:00-04:00",
   "entries": [
+    {
+      "id": "wn-2026-10-05-whatsnew-loader",
+      "title": "⚡ Fixed What's New page loading wheel",
+      "summary": "Fixed Promise.all syntax error in JS that prevented content from loading on the What's New page.",
+      "date": "2026-10-05T18:00:00-04:00",
+      "category": "fix",
+      "repo": "site",
+      "commitSha": "57a0f1d"
+    },
+    {
+      "id": "wn-2026-10-05-who-serves-links",
+      "title": "🎯 'Who 3mpwrapp serves' cards now link to correct pages",
+      "summary": "Fixed Persons with Disabilities→/knowledge-base/, Veterans→/knowledge-base/, Allies & Public→/community/.",
+      "date": "2026-10-05T17:00:00-04:00",
+      "category": "fix",
+      "repo": "site",
+      "commitSha": "54f6c2b"
+    },
+    {
+      "id": "wn-2026-10-05-white-boxes-fixed",
+      "title": "🖌️ Fixed white box legibility on homepage",
+      "summary": "Fixed white-on-white text combos, broken dark mode rule (#[SIN]→#0f172a), and card default backgrounds for light/dark/HC modes.",
+      "date": "2026-10-05T16:00:00-04:00",
+      "category": "fix",
+      "repo": "site",
+      "commitSha": "b748ca6"
+    },
+    {
+      "id": "wn-2026-10-05-welcome-popup-removed",
+      "title": "🚫 Removed welcome onboarding pop-up for new visitors",
+      "summary": "Removed the goal-based onboarding welcome popup ('Welcome! What brings you here today?') from all pages.",
+      "date": "2026-10-05T15:00:00-04:00",
+      "category": "fix",
+      "repo": "site",
+      "commitSha": "330a849"
+    },
+    {
+      "id": "wn-2026-10-05-card-links-fixed",
+      "title": "🔗 Homepage feature cards now link to correct sections",
+      "summary": "Fixed Evidence Locker, Parse Claim, Deadline Tracker, Letter Wizard cards to link to their specific /features/ anchors instead of the same page.",
+      "date": "2026-10-05T14:00:00-04:00",
+      "category": "fix",
+      "repo": "site",
+      "commitSha": "58b890a"
+    },
     {
       "id": "wn-2026-10-03-website-broken-links",
       "title": "🔗 87% of broken links on this website are fixed — we found the cause, not just the symptoms",
