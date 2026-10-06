@@ -38,7 +38,7 @@ We completed a full documentation synchronization across app and website, includ
 - [À propos](/fr/about)
 - [Contact](/fr/contact/)
 - [Paramètres d’accessibilité](/fr/accessibility-settings/)
-- [Recherche](/fr/search/)
+
 - [Infolettre](/fr/newsletter/)
 - [Événements](/fr/events/)
 - [Connectez avec nous](/fr/connect/)

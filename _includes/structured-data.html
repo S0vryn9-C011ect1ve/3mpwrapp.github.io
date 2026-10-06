@@ -52,15 +52,7 @@
       "publisher": {
         "@id": "{{ site.url }}#organization"
       },
-      "inLanguage": "{% if page.lang == 'fr' %}fr-CA{% else %}en-CA{% endif %}",
-      "potentialAction": {
-        "@type": "SearchAction",
-        "target": {
-          "@type": "EntryPoint",
-          "urlTemplate": "{{ '/search' | absolute_url }}?q={search_term_string}"
-        },
-        "query-input": "required name=search_term_string"
-      }
+      "inLanguage": "{% if page.lang == 'fr' %}fr-CA{% else %}en-CA{% endif %}"
     },
     {
       "@type": "{% if page.layout == 'post' %}BlogPosting{% else %}WebPage{% endif %}",

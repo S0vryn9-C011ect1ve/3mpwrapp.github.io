@@ -27,7 +27,7 @@ Vous trouverez ci-dessous des réponses rapides aux questions courantes. Si vous
 Consultez [Quoi de neuf](/fr/whats-new/) pour les derniers changements.
 
 ### Comment rechercher sur le site ?
-Utilisez la page [Recherche](/fr/search/). Vous obtiendrez des résultats sur la page au fur et à mesure que vous tapez et vous pouvez également rechercher en utilisant DuckDuckGo.
+Utilisez la barre de recherche dans l'en-tête (en haut de chaque page). Les résultats s'affichent au fur et à mesure que vous tapez.
 
 ### Où est le plan du site ?
 Consultez notre [Plan du site](/fr/site-map/) pour un aperçu complet.

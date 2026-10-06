@@ -102,8 +102,9 @@
   <a class="lang-switch" href="{{ switch_to | relative_url }}">{{ site.data.locales[lang_code].switch_label }}</a>
   </div>
 
-  <!-- Global site search -->
-  <form class="header-search" role="search" action="{{ '/search/' | relative_url }}" method="get" aria-label="{% if page.lang == 'fr' %}Rechercher sur tout le site 3mpwrApp{% else %}Search the entire 3mpwrApp website{% endif %}">
+  <!-- Global site search (inline results, no separate page) -->
+  <div class="header-search-wrap">
+  <form class="header-search" role="search" id="site-search-form" action="{{ '/' | relative_url }}" method="get" aria-label="{% if page.lang == 'fr' %}Rechercher sur tout le site 3mpwrApp{% else %}Search the entire 3mpwrApp website{% endif %}">
   <label for="site-search-input" class="sr-only">{% if page.lang == 'fr' %}Rechercher sur le site 3mpwrApp{% else %}Search the 3mpwrApp website{% endif %}</label>
   <input
     id="site-search-input"
@@ -113,11 +114,17 @@
     aria-label="{% if page.lang == 'fr' %}Rechercher sur le site 3mpwrApp{% else %}Search the 3mpwrApp website{% endif %}"
     autocomplete="off"
     spellcheck="true"
+    role="combobox"
+    aria-expanded="false"
+    aria-controls="header-search-results"
+    aria-autocomplete="list"
   >
   <button type="submit" class="header-search-btn" aria-label="{% if page.lang == 'fr' %}Rechercher{% else %}Search{% endif %}">
     <span aria-hidden="true">🔍</span>
   </button>
   </form>
+  <div id="header-search-results" class="header-search-results" role="listbox" aria-label="{% if page.lang == 'fr' %}Résultats de recherche{% else %}Search results{% endif %}" hidden></div>
+  </div>
 
   <style>
   .header-search {
@@ -174,6 +181,39 @@
   @media (max-width: 600px) {
   .header-search { padding: 0 0.5rem 0.5rem; }
   .header-search input[type="search"] { font-size: 16px; }
+  }
+  .header-search-wrap { position: relative; width: 100%; }
+  .header-search-results {
+    position: absolute; top: 100%; left: 0; right: 0; z-index: 1000;
+    background: var(--bg-color, #fff);
+    border: 2px solid var(--border-color, #ced4da);
+    border-top: none;
+    border-radius: 0 0 10px 10px;
+    max-height: 70vh; overflow-y: auto;
+    box-shadow: 0 10px 28px rgba(0,0,0,0.16);
+    margin: 0;
+  }
+  .header-search-results a {
+    display: block; padding: 0.6rem 0.9rem;
+    text-decoration: none; color: var(--text-color, #1a1a1a);
+    border-bottom: 1px solid var(--border-color, #e5e7eb);
+  }
+  .header-search-results a:last-child { border-bottom: none; }
+  .header-search-results a:hover,
+  .header-search-results a:focus,
+  .header-search-results a.hsr-active {
+    background: var(--primary-color, #3d4eaa); color: #fff; outline: none;
+  }
+  .header-search-results .hsr-excerpt { font-size: 0.85rem; opacity: 0.9; margin-top: 0.15rem; }
+  .header-search-results .hsr-empty { padding: 0.7rem 0.9rem; color: var(--text-secondary, #6b7280); }
+  .header-search-results mark { background: #ffeb3b; color: #111; padding: 0 1px; border-radius: 2px; }
+  .header-search-results a.hsr-active mark,
+  .header-search-results a:focus mark { background: #fff176; color: #111; }
+  @media (prefers-contrast: more) {
+    .header-search-results { border-width: 3px; }
+  }
+  @media (forced-colors: active) {
+    .header-search-results { border: 2px solid CanvasText; }
   }
   </style>
 
@@ -261,11 +301,7 @@
             {% if page.lang == 'fr' %}Guide des testeurs bêta{% else %}Beta Testers Guide{% endif %}
           </a>
         </li>
-        <li>
-          <a href="{{ lang_prefix | append: '/search' | relative_url }}" {% if page.url contains '/search' %}aria-current="page"{% endif %}>
-            {% if page.lang == 'fr' %}Recherche{% else %}Search{% endif %}
-          </a>
-        </li>
+
         <li>
           <a href="{% if page.lang == 'fr' %}/events{% else %}{{ lang_prefix | append: '/events' | relative_url }}{% endif %}" {% if page.url contains '/events' %}aria-current="page"{% endif %}>
             {% if page.lang == 'fr' %}Événements{% else %}Events{% endif %}
@@ -903,5 +939,6 @@
   <!-- Cloudflare Web Analytics -->
   <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "fef378cf7f9742c582f28f566e204a85"}'></script>
   <!-- End Cloudflare Web Analytics -->
+  <script src="{{ '/assets/js/header-search.js' | relative_url }}" defer></script>
 </body>
 </html>
