@@ -15,6 +15,8 @@
    ============================================ */
 
 :root {
+  --card-bg: #1a2332;
+  --text-color: #f9fafb;
   /* Light Mode (Default) - WCAG AAA Compliant */
   --text-primary: #000000;           /* 21:1 on white */
   --text-secondary: #2c2c2c;         /* 13.5:1 on white */
