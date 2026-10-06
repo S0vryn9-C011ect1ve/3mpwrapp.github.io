@@ -4,16 +4,6 @@
   "lastUpdated": "2026-09-25",
   "entries": [
     {
-      "id": "wn-2026-09-25-ecosystem-refresh",
-      "title": "📱 Ecosystem Ops Refresh — local model rebuilt (llama3.1:8b 128K), 29 crons on free/local, security audit complete",
-      "summary": "Interactive model switched to free OpenRouter tier (poolside/laguna-s-2.1:free); 29 crons (Hermes + DegenWiz) re-pinned to free tier or local llama3.1:8b (128K); local Ollama rebuilt (bad sub-64K phi:2K + qwen2.5:7b:32K removed); Freshness Watchdog (6h) + LLM Spend Watchdog (8am) live; Daily Longevity Surprise recreated and delivering; security audit complete (gitleaks clean, secrets purged, PII purged); backup reminder refined.",
-      "date": "2026-09-25T00:00:00.000Z",
-      "category": "feature",
-      "repo": "app",
-      "commitSha": "aeab0197696d",
-      "archived": false
-    },
-    {
       "id": "wn-2026-01-01-8768d9",
       "title": "⚡ Update trending keywords - 2026-01-01 00:07 UTC.",
       "summary": "Update trending keywords - 2026-01-01 00:07 UTC.",
