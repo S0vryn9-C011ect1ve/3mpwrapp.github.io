@@ -1,8 +1,512 @@
 {
   "year": 2026,
   "version": "1.0",
-  "lastUpdated": "2026-10-05T19:00:00-04:00",
+  "lastUpdated": "2026-10-05T20:00:00-04:00",
   "entries": [
+    {
+      "id": "wn-2026-10-01-whatsnew-archive",
+      "title": "🗂️ Fixed What's New archive grouping by month (JS bug)",
+      "summary": "Fixed archiveByMonth[monthKey] syntax error so archive renders correctly.",
+      "date": "2026-10-05T16:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "8e200d3"
+    },
+    {
+      "id": "wn-2026-10-01-whatsnew-loader",
+      "title": "⚡ Fixed What's New page loading wheel (Promise.all syntax)",
+      "summary": "Fixed Promise.all syntax error that prevented content from loading.",
+      "date": "2026-10-05T14:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "57a0f1d"
+    },
+    {
+      "id": "wn-2026-10-01-who-serves",
+      "title": "🎯 'Who 3mpwrapp serves' cards now link to correct pages",
+      "summary": "Fixed Persons with Disabilities→/knowledge-base/, Veterans→/knowledge-base/, Allies & Public→/community/.",
+      "date": "2026-10-03T12:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "54f6c2b"
+    },
+    {
+      "id": "wn-2026-10-01-card-bg",
+      "title": "🖌️ Fixed card default background (#fff → #1a2332) via :root CSS variable",
+      "summary": "Added --card-bg to :root so cards are visible by default.",
+      "date": "2026-10-03T10:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "11da406"
+    },
+    {
+      "id": "wn-2026-10-01-white-boxes",
+      "title": "🖌️ Fixed white-on-white rules in style.min.css (#fff;color:#fff → #fff;color:#000)",
+      "summary": "Fixed 7 white-on-white text combinations.",
+      "date": "2026-10-03T08:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "b748ca6"
+    },
+    {
+      "id": "wn-2026-10-01-welcome-popup",
+      "title": "🚫 Removed goal-based onboarding welcome pop-up for new visitors",
+      "summary": "Removed the 'Welcome! What brings you here today?' pop-up from all pages.",
+      "date": "2026-10-03T06:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "330a849"
+    },
+    {
+      "id": "wn-2026-10-01-card-links-deploy",
+      "title": "🔗 Fixed card links in deploy copy",
+      "summary": "Fixed the 4 card links in the _deploy/index.html copy.",
+      "date": "2026-10-03T04:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "05d828e"
+    },
+    {
+      "id": "wn-2026-10-01-card-links",
+      "title": "🔗 Homepage feature cards now link to correct section anchors",
+      "summary": "Fixed Evidence Locker→#evidence-locker, Parse Claim→#parse-claim, Deadline Tracker→#deadline-tracker, Letter Wizard→#letter-wizard.",
+      "date": "2026-10-03T02:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "7f476bd"
+    },
+    {
+      "id": "wn-2026-10-01-dark-mode",
+      "title": "🖌️ Fixed broken dark mode rule (#[SIN]→#0f172a) + card legibility",
+      "summary": "Fixed broken dark mode color in homepage.css; added !important card overrides.",
+      "date": "2026-10-03T00:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "58b890a"
+    },
+    {
+      "id": "wn-2026-10-01-gradient",
+      "title": "🖌️ Fixed gradient section white boxes for dark/light/HC legibility",
+      "summary": "Fixed rgba(255,255,255,0.15) + #fff invisible on white bg.",
+      "date": "2026-10-02T22:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "eb01c9b"
+    },
+    {
+      "id": "wn-2026-10-01-forced-colors",
+      "title": "🎨 Added forced-colors + prefers-contrast CSS for full light/dark/HC legibility",
+      "summary": "Added WCAG AAA color system with full light/dark/high-contrast support.",
+      "date": "2026-10-02T20:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "7d68a13"
+    },
+    {
+      "id": "wn-2026-10-01-mobile-header",
+      "title": "📱 Hidden building-public-hero on mobile; only 1 production ready banner in header",
+      "summary": "Fixed messy bundled header on mobile.",
+      "date": "2026-10-02T18:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "48b8340"
+    },
+    {
+      "id": "wn-2026-10-01-home-hero",
+      "title": "🦯 Homepage hero transformed to mission/who-it-serves (not redundant tracker)",
+      "summary": "Home hero now shows mission and who the site serves.",
+      "date": "2026-10-02T16:00:00-04:00",
+      "category": "feature",
+      "repo": "website",
+      "commitSha": "80d8920"
+    },
+    {
+      "id": "wn-2026-10-01-home-reorg",
+      "title": "🏠 Homepage restructured: mission, who it serves, what it offers, interlinked footer nav",
+      "summary": "Professional homepage reorg with 5 sections and 17 interlinks.",
+      "date": "2026-10-02T14:00:00-04:00",
+      "category": "feature",
+      "repo": "website",
+      "commitSha": "c08e519"
+    },
+    {
+      "id": "wn-2026-10-01-canlii-section",
+      "title": "🔗 CanLII 'Connecting the Dots' section — interlinks flywheel, research, guides KBs",
+      "summary": "Added visual graph links to CanLII section.",
+      "date": "2026-10-02T12:00:00-04:00",
+      "category": "feature",
+      "repo": "website",
+      "commitSha": "e5d50c6"
+    },
+    {
+      "id": "wn-2026-10-01-dup-banner",
+      "title": "🗑️ Removed duplicate production ready banner; hid hero on mobile",
+      "summary": "Removed the duplicate status-banner include; hid building-public-hero on mobile.",
+      "date": "2026-10-02T10:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "2e77bee"
+    },
+    {
+      "id": "wn-2026-10-01-crisis-page",
+      "title": "🚨 Crisis page: added 9-8-8 suicide prevention hotline",
+      "summary": "Added 9-8-8 hotline to crisis page; removed false 'verified monthly' claim.",
+      "date": "2026-10-02T08:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "f6129fd"
+    },
+    {
+      "id": "wn-2026-10-01-under-comp",
+      "title": "📊 Labeled $4.945B under-compensation as modelled estimate",
+      "summary": "Corrected the WSIB under-compensation figure with method stated.",
+      "date": "2026-10-02T06:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "c65f1bd"
+    },
+    {
+      "id": "wn-2026-10-01-wsib-rates",
+      "title": "📊 Corrected outdated ODSP rate and wrong earnings exemption",
+      "summary": "Fixed incorrect ODSP rate and earnings exemption figures.",
+      "date": "2026-10-02T04:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "d602662"
+    },
+    {
+      "id": "wn-2026-10-01-company",
+      "title": "🏢 Added S0vryn9 C011ect1ve as main company + audience to About/Legal",
+      "summary": "Updated About and Legal Center pages with company attribution.",
+      "date": "2026-10-02T02:00:00-04:00",
+      "category": "improvement",
+      "repo": "website",
+      "commitSha": "528408f"
+    },
+    {
+      "id": "wn-2026-10-01-security",
+      "title": "🔒 Security/SEO: excluded logs/drafts/scripts; re-enabled App Tour screenshots",
+      "summary": "Excluded sensitive directories from public access. Re-enabled App Tour screenshots.",
+      "date": "2026-10-02T00:00:00-04:00",
+      "category": "security",
+      "repo": "website",
+      "commitSha": "5f32e9b"
+    },
+    {
+      "id": "wn-2026-10-01-kb-consolidation",
+      "title": "📚 Consolidated KB/Templates into collections; removed duplicate/draft pages",
+      "summary": "Resolved permalink conflicts by consolidating knowledge base and templates.",
+      "date": "2026-10-01T23:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "1c1fe5f"
+    },
+    {
+      "id": "wn-2026-10-01-contact",
+      "title": "📬 Fixed /contact/ page not publishing",
+      "summary": "Restored root contact.md — the folder index.md was not publishing.",
+      "date": "2026-10-01T22:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "1723b4a"
+    },
+    {
+      "id": "wn-2026-10-01-broken-links",
+      "title": "🔗 Batch fixed broken links across the site",
+      "summary": "Fixed unrendered template-var links, KB link targets, user-guide asset refs, and 17+ broken internal links.",
+      "date": "2026-10-01T20:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "128b927"
+    },
+    {
+      "id": "wn-2026-10-01-missing-pages",
+      "title": "📂 Created 10 missing section landing pages",
+      "summary": "Added landing pages for news, updates, tutorials, WSIB, legislation, partnerships, human-rights, investigations, analytics, RSS.",
+      "date": "2026-10-01T18:00:00-04:00",
+      "category": "feature",
+      "repo": "website",
+      "commitSha": "0d409f5"
+    },
+    {
+      "id": "wn-2026-10-01-human-rights",
+      "title": "🛑 Reverted human-rights prose corruption; kept URL fix only",
+      "summary": "A batch edit corrupted human-rights page prose. Reverted the corruption.",
+      "date": "2026-10-01T16:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "ae2af26"
+    },
+    {
+      "id": "wn-2026-10-01-thunder-bay",
+      "title": "📍 Added 'Made in Thunder Bay, ON, Canada by a disabled injured worker' footer line",
+      "summary": "Added location/attribution footer line across all pages.",
+      "date": "2026-10-01T14:00:00-04:00",
+      "category": "improvement",
+      "repo": "website",
+      "commitSha": "ed76195"
+    },
+    {
+      "id": "wn-2026-10-01-footer",
+      "title": "🏢 Footer now attributes S0vryn9 C011ect1ve as main company",
+      "summary": "Updated footer attribution across the site.",
+      "date": "2026-10-01T12:00:00-04:00",
+      "category": "improvement",
+      "repo": "website",
+      "commitSha": "0b1b752"
+    },
+    {
+      "id": "wn-2026-10-01-curation",
+      "title": "📰 Daily curation — Oct 1 automated content aggregation",
+      "summary": "Automated daily content curation completed.",
+      "date": "2026-10-01T10:00:00-04:00",
+      "category": "content",
+      "repo": "website",
+      "commitSha": "73ad657"
+    },
+    {
+      "id": "wn-2026-09-30-curation",
+      "title": "📰 Daily curation — Sept 30 automated content aggregation",
+      "summary": "Automated daily content curation completed.",
+      "date": "2026-09-30T10:00:00-04:00",
+      "category": "content",
+      "repo": "website",
+      "commitSha": "01c543e"
+    },
+    {
+      "id": "wn-2026-09-29-curation",
+      "title": "📰 Daily curation — Sept 29 automated content aggregation",
+      "summary": "Automated daily content curation completed.",
+      "date": "2026-09-29T10:00:00-04:00",
+      "category": "content",
+      "repo": "website",
+      "commitSha": "1b187f7"
+    },
+    {
+      "id": "wn-2026-09-28-curation",
+      "title": "📰 Daily curation — Sept 28 automated content aggregation",
+      "summary": "Automated daily content curation completed.",
+      "date": "2026-09-28T10:00:00-04:00",
+      "category": "content",
+      "repo": "website",
+      "commitSha": "4df0f93"
+    },
+    {
+      "id": "wn-2026-09-27-audit-banner",
+      "title": "📊 Fixed audit banner arithmetic + stale WSIAT count",
+      "summary": "Corrected the audit banner's own numbers.",
+      "date": "2026-09-28T00:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "d417d5e"
+    },
+    {
+      "id": "wn-2026-09-27-bare-liquid",
+      "title": "🔧 Removed bare Liquid tag that failed Pages build",
+      "summary": "Fixed the bare Liquid tag causing build failures.",
+      "date": "2026-09-27T23:30:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "51d9cc0"
+    },
+    {
+      "id": "wn-2026-09-27-liquid-braces",
+      "title": "🔧 Fixed Liquid braces in documentation prose",
+      "summary": "Escaped Liquid braces that were breaking page rendering.",
+      "date": "2026-09-27T23:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "b433a77"
+    },
+    {
+      "id": "wn-2026-09-27-frontmatter",
+      "title": "🩹 Repaired 17 malformed frontmatter blocks",
+      "summary": "Fixed frontmatter blocks that prevented pages from building.",
+      "date": "2026-09-27T22:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "6c7eab6"
+    },
+    {
+      "id": "wn-2026-09-27-broken-files",
+      "title": "🩹 Repaired 2 files that broke the GitHub Pages build",
+      "summary": "Fixed the 2 files that were causing build failures.",
+      "date": "2026-09-27T20:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "bbdb290"
+    },
+    {
+      "id": "wn-2026-09-27-liquid-recursion",
+      "title": "🔧 Fixed infinite Liquid recursion in engagement-widget.html",
+      "summary": "Stopped the engagement widget from causing infinite recursion.",
+      "date": "2026-09-27T18:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "5d98c66"
+    },
+    {
+      "id": "wn-2026-09-27-deploy-exclude",
+      "title": "📦 Excluded _deploy copy from CI gate",
+      "summary": "CI gate now checks real source, not the _deploy copy.",
+      "date": "2026-09-27T16:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "fc9a517"
+    },
+    {
+      "id": "wn-2026-09-27-whatsnew-sync",
+      "title": "📝 Synced What's New to 1113 entries (+28 since Sept 21)",
+      "summary": "Updated What's New with 28 new entries since Sept 21.",
+      "date": "2026-09-27T14:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "9be4f2f"
+    },
+    {
+      "id": "wn-2026-09-27-ci-portable",
+      "title": "🔧 Made CI preflight gate portable (fixed Linux crash)",
+      "summary": "Fixed the preflight gate so it works on Linux CI.",
+      "date": "2026-09-27T12:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "8404944"
+    },
+    {
+      "id": "wn-2026-09-27-ci-gate",
+      "title": "🛡️ CI preflight gate added — blocks deploys on known faults",
+      "summary": "Added a preflight gate that blocks deploys when the site has faults.",
+      "date": "2026-09-27T10:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "9a64097"
+    },
+    {
+      "id": "wn-2026-09-27-curation",
+      "title": "📰 Daily curation — Sept 27 automated content aggregation",
+      "summary": "Automated daily content curation completed.",
+      "date": "2026-09-27T10:00:00-04:00",
+      "category": "content",
+      "repo": "website",
+      "commitSha": "0044e4a"
+    },
+    {
+      "id": "wn-2026-09-26-curation",
+      "title": "📰 Daily curation — Sept 26 automated content aggregation",
+      "summary": "Automated daily content curation completed.",
+      "date": "2026-09-26T10:00:00-04:00",
+      "category": "content",
+      "repo": "website",
+      "commitSha": "2d6127d"
+    },
+    {
+      "id": "wn-2026-09-25-pa11y",
+      "title": "🧹 Removed unmaintained pa11y-ci/pa11y (vulnerable puppeteer)",
+      "summary": "Replaced vulnerable pa11y with axe-core for accessibility testing.",
+      "date": "2026-09-25T16:00:00-04:00",
+      "category": "security",
+      "repo": "website",
+      "commitSha": "fe0ec8c"
+    },
+    {
+      "id": "wn-2026-09-25-npm-audit",
+      "title": "🔒 npm audit fix — puppeteer v25 + sharp v0.35.4 security patches",
+      "summary": "Fixed vulnerable dependencies. 5 high-severity remain (pa11y/semver).",
+      "date": "2026-09-25T14:00:00-04:00",
+      "category": "security",
+      "repo": "website",
+      "commitSha": "aeba9e9"
+    },
+    {
+      "id": "wn-2026-09-25-curation",
+      "title": "📰 Daily curation — Sept 25 automated content aggregation",
+      "summary": "Automated daily content curation completed.",
+      "date": "2026-09-25T10:00:00-04:00",
+      "category": "content",
+      "repo": "website",
+      "commitSha": "23157e9"
+    },
+    {
+      "id": "wn-2026-09-24-wsib-strike",
+      "title": "📰 Added WSIB strike resources + OFL conference promotion",
+      "summary": "Added WSIB strike resources and Ontario Federation of Labour conference promotion.",
+      "date": "2026-09-24T18:00:00-04:00",
+      "category": "content",
+      "repo": "website",
+      "commitSha": "da0a9d7"
+    },
+    {
+      "id": "wn-2026-09-24-design",
+      "title": "📝 Added design-philosophy post for Mastodon accessibility chat",
+      "summary": "Posted a design philosophy response to a Mastodon accessibility question.",
+      "date": "2026-09-24T16:00:00-04:00",
+      "category": "docs",
+      "repo": "website",
+      "commitSha": "7095e4f"
+    },
+    {
+      "id": "wn-2026-09-24-mastodon",
+      "title": "🐦 Mastodon reply removed from blog (social-only)",
+      "summary": "Removed a Mastodon reply that was only for social, not blog content.",
+      "date": "2026-09-24T14:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "fa8e844"
+    },
+    {
+      "id": "wn-2026-09-24-curation",
+      "title": "📰 Daily curation — Sept 24 automated content aggregation",
+      "summary": "Automated daily content curation completed.",
+      "date": "2026-09-24T10:00:00-04:00",
+      "category": "content",
+      "repo": "website",
+      "commitSha": "752a5f5"
+    },
+    {
+      "id": "wn-2026-09-23-curation",
+      "title": "📰 Daily curation — Sept 23 automated content aggregation",
+      "summary": "Automated daily content curation completed.",
+      "date": "2026-09-23T10:00:00-04:00",
+      "category": "content",
+      "repo": "website",
+      "commitSha": "4e7b9ae"
+    },
+    {
+      "id": "wn-2026-09-22-curation",
+      "title": "📰 Daily curation — Sept 22 automated content aggregation",
+      "summary": "Automated daily content curation completed.",
+      "date": "2026-09-22T10:00:00-04:00",
+      "category": "content",
+      "repo": "website",
+      "commitSha": "b361846"
+    },
+    {
+      "id": "wn-2026-09-21-curation",
+      "title": "📰 Daily curation — Sept 21 automated content aggregation",
+      "summary": "Automated daily content curation completed.",
+      "date": "2026-09-21T10:00:00-04:00",
+      "category": "content",
+      "repo": "website",
+      "commitSha": "1632113"
+    },
+    {
+      "id": "wn-2026-09-21-sticky-banner",
+      "title": "📌 Sticky banner: Phase 2 production builds, Canada-only focus",
+      "summary": "Fixed sticky banner to focus on Canada-only content.",
+      "date": "2026-09-21T14:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "b81645b"
+    },
+    {
+      "id": "wn-2026-09-21-whatsnew-update",
+      "title": "📝 What's New: added Sept 26–Oct 3 app/website work",
+      "summary": "Updated What's New with recent ecosystem refresh entries.",
+      "date": "2026-09-21T18:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "136ad9f"
+    },
     {
       "id": "wn-2026-10-04-daily-curation",
       "title": "📰 Daily curation — Oct 4 automated content aggregation",
