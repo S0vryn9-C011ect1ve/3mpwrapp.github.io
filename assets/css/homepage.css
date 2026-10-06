@@ -554,3 +554,104 @@ body[data-theme="dark"][data-contrast="high"] .app-tour-card {
   }
 }
 
+
+/* ============================================
+   FIX: Ensure cards are legible in ALL modes
+   Overrides conflicting !important rules from style.min.css
+   ============================================ */
+.card,
+.value-prop-card,
+.feature-box,
+.success-box,
+.homepage-card {
+  background: var(--homepage-card-bg, var(--card-bg, #1a2332)) !important;
+  color: var(--homepage-card-text, var(--text-color, #f9fafb)) !important;
+  border-color: var(--homepage-feature-border, #374151) !important;
+}
+.card a,
+.value-prop-card a,
+.feature-box a,
+.success-box a {
+  color: var(--homepage-card-text, var(--link-color, #93c5fd)) !important;
+}
+/* Light mode: ensure cards are light with dark text */
+@media (prefers-color-scheme: light) {
+  .card,
+  .value-prop-card,
+  .feature-box,
+  .success-box,
+  .homepage-card {
+    background: var(--homepage-card-bg, #f8f9fa) !important;
+    color: var(--homepage-card-text, #1f2937) !important;
+  }
+  .card a,
+  .value-prop-card a,
+  .feature-box a,
+  .success-box a {
+    color: var(--link-color, #004A99) !important;
+  }
+}
+/* Dark mode: ensure cards are dark with light text */
+@media (prefers-color-scheme: dark) {
+  .card,
+  .value-prop-card,
+  .feature-box,
+  .success-box,
+  .homepage-card {
+    background: var(--homepage-card-bg, #1f2937) !important;
+    color: var(--homepage-card-text, #f9fafb) !important;
+  }
+  .card a,
+  .value-prop-card a,
+  .feature-box a,
+  .success-box a {
+    color: #93c5fd !important;
+  }
+}
+/* High contrast mode */
+@media (prefers-contrast: more) {
+  .card,
+  .value-prop-card,
+  .feature-box,
+  .success-box,
+  .homepage-card {
+    background: Window !important;
+    color: WindowText !important;
+    border: 2px solid WindowText !important;
+  }
+}
+@media (prefers-contrast: high) {
+  .card,
+  .value-prop-card,
+  .feature-box,
+  .success-box,
+  .homepage-card {
+    background: #fff !important;
+    color: #000 !important;
+    border: 3px solid #000 !important;
+  }
+  .card a,
+  .value-prop-card a,
+  .feature-box a,
+  .success-box a {
+    color: #000 !important;
+  }
+}
+/* Forced colors (Windows HC) */
+@media (forced-colors: active) {
+  .card,
+  .value-prop-card,
+  .feature-box,
+  .success-box,
+  .homepage-card {
+    background: Window !important;
+    color: WindowText !important;
+    border: 2px solid WindowText !important;
+  }
+  .card a,
+  .value-prop-card a,
+  .feature-box a,
+  .success-box a {
+    color: LinkText !important;
+  }
+}
