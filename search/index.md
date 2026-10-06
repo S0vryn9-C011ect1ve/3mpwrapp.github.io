@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Search
-description: Find information quickly with on-page results and a DuckDuckGo fallback, limited to the 3mpwr site.
+description: Search the entire 3mpwrApp site instantly with on-page results.
 ---
 
 
@@ -9,21 +9,17 @@ description: Find information quickly with on-page results and a DuckDuckGo fall
 
 # Search the site
 
-<form id="site-search" action="https://duckduckgo.com/" method="get" role="search" aria-describedby="search-help">
+<form id="site-search" action="/search/" method="get" role="search" aria-describedby="search-help">
   <fieldset>
     <legend>Search this site</legend>
     <div>
       <label for="q">Search terms</label><br>
-      <input id="q" name="q_user" type="search" required inputmode="search" autocomplete="off" spellcheck="true" aria-describedby="search-help results-summary">
-      <p id="search-help">Type a query. Results will appear below as you type. Press Enter to go to the first result or to search DuckDuckGo.</p>
+      <input id="q" name="q" type="search" required inputmode="search" autocomplete="off" spellcheck="true" aria-describedby="search-help results-summary">
+      <p id="search-help">Type a query. Results appear below as you type. Press Enter to search this site.</p>
     </div>
   </fieldset>
   <br>
   <button type="submit">Search</button>
-
-  <!-- Real query sent to DuckDuckGo; filled on submit -->
-  <input type="hidden" id="q_real" name="q" value="">
-  <input type="hidden" name="t" value="h_">
 </form>
 
 <!-- Live region for announcements -->
@@ -75,7 +71,7 @@ description: Find information quickly with on-page results and a DuckDuckGo fall
 
 <noscript>
   <p>
-    JavaScript is required to show on‑page results. As a fallback, type: <code>site:3mpwrapp.github.io your terms</code> above and press Enter to search with DuckDuckGo.
+    JavaScript is required to show on‑page search results for this site.
   </p>
 </noscript>
 
@@ -83,7 +79,6 @@ description: Find information quickly with on-page results and a DuckDuckGo fall
   (function () {
     var form = document.getElementById('site-search');
     var user = document.getElementById('q');
-    var real = document.getElementById('q_real');
     var status = document.getElementById('search-status');
     var list = document.getElementById('results-list');
     var summary = document.getElementById('results-summary');
@@ -96,19 +91,14 @@ description: Find information quickly with on-page results and a DuckDuckGo fall
       setTimeout(function(){ status.textContent = msg; }, 10);
     }
 
-    // Build the real query for DuckDuckGo on submit and focus first result if present
-    if (form && user && real) {
+    // On submit: if on-page results exist, jump to the first one; otherwise submit internally to /search/?q=
+    if (form && user) {
       form.addEventListener('submit', function (e) {
-        var term = (user.value || '').trim();
-        // If we have on-page results, go to the first one instead of leaving the site
         var first = list && list.querySelector('a');
         if (first) {
           e.preventDefault();
           try { first.focus(); } catch (err) {}
         }
-        real.value = 'site:3mpwrapp.github.io ' + term;
-        var msg = term ? ('Searching this site for “' + term + '”.') : 'Searching this site.';
-        announce(msg);
       });
     }
 
@@ -117,7 +107,7 @@ description: Find information quickly with on-page results and a DuckDuckGo fall
 
     function escapeHTML(s) {
       return (s || '').replace(/[&<>"']/g, function(c){
-        return ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;','\'':'&#39;'}c;
+        return ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;','\'':'&#39;'})[c];
       });
     }
 
