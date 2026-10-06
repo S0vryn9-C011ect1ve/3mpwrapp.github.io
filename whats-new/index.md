@@ -315,10 +315,10 @@ permalink: /whats-new/
   }
   
   // Load data for current and last year
-  const [currentData, lastYearData] = await Promise.all(
+  const [currentData, lastYearData] = await Promise.all([
     loadWhatsNewYear(currentYear),
     loadWhatsNewYear(lastYear)
-  ;
+  ]);
   
   // Combine entries
   let allEntries = [];
