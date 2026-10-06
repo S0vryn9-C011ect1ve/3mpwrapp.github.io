@@ -2950,6 +2950,47 @@ body.theme-dark a:focus {
   color: #99D0FF;
 }
 
+
+/* ============================================
+   3mpwrapp homepage - Connecting the Dots gradient section
+   Ensures white text on dark gradient is legible in ALL modes
+   ============================================ */
+.gradient-section a,
+.gradient-section .btn {
+  color: #fff !important;
+  text-decoration: none;
+  font-weight: 700;
+}
+@media (prefers-color-scheme: light) {
+  .gradient-section a,
+  .gradient-section .btn {
+    color: #1a1a2e !important;
+  }
+}
+@media (prefers-contrast: more) {
+  .gradient-section a,
+  .gradient-section .btn {
+    border: 2px solid WindowText !important;
+    background: Window !important;
+    color: WindowText !important;
+  }
+}
+@media (prefers-contrast: high) {
+  .gradient-section a,
+  .gradient-section .btn {
+    border: 3px solid #000 !important;
+    background: #fff !important;
+    color: #000 !important;
+  }
+}
+@media (forced-colors: active) {
+  .gradient-section a,
+  .gradient-section .btn {
+    border: 2px solid ButtonText !important;
+    background: ButtonFace !important;
+    color: ButtonText !important;
+  }
+}
 /* ============================================
    HIGH CONTRAST & FORCED COLORS SUPPORT
    WCAG 2.4.1 / 2.4.7 — Windows HC, macOS, etc.

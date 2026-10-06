@@ -78,30 +78,30 @@ personalized: true
     <p style="font-size: 1.1rem; margin-bottom: 1.5rem; opacity: 0.95; max-width: 800px; margin-left: auto; margin-right: auto;">
       Explore 134,920+ tribunal decisions — live interactive network graph revealing keyword relationships, denial patterns, and the hidden language used in Canadian tribunal decisions. Connects flywheel insights, research data, guides, and visual graphs in one place.
     </p>
-    <div style="margin: 1.5rem 0; padding: 1rem; background: rgba(255,255,255,0.1); border-radius: 8px; display: inline-block;">
+    <div style="margin: 1.5rem 0; padding: 1rem; background: rgba(0,0,0,0.3); border-radius: 8px; display: inline-block;">
       <p style="margin: 0; font-weight: 600; font-size: 1.1rem;">
         <span aria-hidden="true">🚀</span> 134,920 cases analyzed (99,036 WSIAT + 35,928 other tribunals) &nbsp;|&nbsp; <span aria-hidden="true">📊</span> 500+ keyword patterns &nbsp;|&nbsp; <span aria-hidden="true">🔗</span> Live interactive D3.js network &nbsp;|&nbsp; <span aria-hidden="true">🕸️</span> Flywheel-connected &nbsp;|&nbsp; <span aria-hidden="true">📚</span> Guides &amp; KBs linked
       </p>
     </div>
     <div style="margin-top: 1.5rem; display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
-      <a href="/connecting-the-dots-canlii-keyword-visualization-network.html" style="display: inline-flex; align-items: center; gap: 0.75rem; padding: 1rem 2rem; background: #fff; color: #1a1a2e; border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 1.1rem; box-shadow: 0 4px 16px rgba(0,0,0,0.2); transition: all 0.3s;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.3)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 16px rgba(0,0,0,0.2)'">
+      <a href="/connecting-the-dots-canlii-keyword-visualization-network.html" style="display: inline-flex; align-items: center; gap: 0.75rem; padding: 1rem 2rem; background: var(--card-bg,#fff); color: var(--text-color,#1a1a2e); border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 1.1rem; box-shadow: 0 4px 16px rgba(0,0,0,0.2); transition: all 0.3s;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.3)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 16px rgba(0,0,0,0.2)'">
         <span aria-hidden="true">🔍</span>
         <span>Launch Interactive Visualization</span>
         <span aria-hidden="true">→</span>
       </a>
-      <a href="/research/" style="display: inline-flex; align-items: center; gap: 0.75rem; padding: 1rem 2rem; background: rgba(255,255,255,0.15); color: #fff; border: 2px solid rgba(255,255,255,0.4); border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 1.1rem; transition: all 0.3s;" onmouseover="this.style.background='rgba(255,255,255,0.25)'" onmouseout="this.style.background='rgba(255,255,255,0.15)'">
+      <a href="/research/" style="display: inline-flex; align-items: center; gap: 0.75rem; padding: 1rem 2rem; background: rgba(0,0,0,0.35); color: #fff; border: 2px solid rgba(255,255,255,0.5); border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 1.1rem; transition: all 0.3s;" onmouseover="this.style.background='rgba(0,0,0,0.5)'" onmouseout="this.style.background='rgba(0,0,0,0.35)'">
         <span aria-hidden="true">📊</span>
         <span>All Research Tools</span>
       </a>
-      <a href="/flywheels/" style="display: inline-flex; align-items: center; gap: 0.75rem; padding: 1rem 2rem; background: rgba(255,255,255,0.15); color: #fff; border: 2px solid rgba(255,255,255,0.4); border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 1.1rem; transition: all 0.3s;" onmouseover="this.style.background='rgba(255,255,255,0.25)'" onmouseout="this.style.background='rgba(255,255,255,0.15)'">
+      <a href="/flywheels/" style="display: inline-flex; align-items: center; gap: 0.75rem; padding: 1rem 2rem; background: rgba(0,0,0,0.35); color: #fff; border: 2px solid rgba(255,255,255,0.5); border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 1.1rem; transition: all 0.3s;" onmouseover="this.style.background='rgba(0,0,0,0.5)'" onmouseout="this.style.background='rgba(0,0,0,0.35)'">
         <span aria-hidden="true">🕸️</span>
         <span>Flywheels</span>
       </a>
-      <a href="/knowledge-base/" style="display: inline-flex; align-items: center; gap: 0.75rem; padding: 1rem 2rem; background: rgba(255,255,255,0.15); color: #fff; border: 2px solid rgba(255,255,255,0.4); border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 1.1rem; transition: all 0.3s;" onmouseover="this.style.background='rgba(255,255,255,0.25)'" onmouseout="this.style.background='rgba(255,255,255,0.15)'">
+      <a href="/knowledge-base/" style="display: inline-flex; align-items: center; gap: 0.75rem; padding: 1rem 2rem; background: rgba(0,0,0,0.35); color: #fff; border: 2px solid rgba(255,255,255,0.5); border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 1.1rem; transition: all 0.3s;" onmouseover="this.style.background='rgba(0,0,0,0.5)'" onmouseout="this.style.background='rgba(0,0,0,0.35)'">
         <span aria-hidden="true">📚</span>
         <span>Guides &amp; KBs</span>
       </a>
-      <a href="/tribunal-visualizations/" style="display: inline-flex; align-items: center; gap: 0.75rem; padding: 1rem 2rem; background: rgba(255,255,255,0.15); color: #fff; border: 2px solid rgba(255,255,255,0.4); border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 1.1rem; transition: all 0.3s;" onmouseover="this.style.background='rgba(255,255,255,0.25)'" onmouseout="this.style.background='rgba(255,255,255,0.15)'">
+      <a href="/tribunal-visualizations/" style="display: inline-flex; align-items: center; gap: 0.75rem; padding: 1rem 2rem; background: rgba(0,0,0,0.35); color: #fff; border: 2px solid rgba(255,255,255,0.5); border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 1.1rem; transition: all 0.3s;" onmouseover="this.style.background='rgba(0,0,0,0.5)'" onmouseout="this.style.background='rgba(0,0,0,0.35)'">
         <span aria-hidden="true">📈</span>
         <span>Visual Graphs</span>
       </a>
