@@ -380,8 +380,8 @@ description: Evidence-based research, guides, knowledge bases and templates for 
     We turned four years of tribunal data into tools you can use right now — for injured workers, persons with disabilities, and anyone navigating these systems. <strong>Ontario v3.0 complete May 15, 2026: 50,161 cases, 85.1% classified.</strong>
   </p>
   <div class="cta-buttons">
-    <a href="#advocacy-tools" class="btn-primary">I Need Help Now</a>
-    <a href="#data-visualizations" class="btn-secondary">Explore the Data</a>
+    <a href="#room-need-help" class="btn-primary">I Need Help Now</a>
+    <a href="#room-data" class="btn-secondary">Explore the Data</a>
   </div>
 </div>
 
@@ -403,22 +403,22 @@ description: Evidence-based research, guides, knowledge bases and templates for 
     .door-title{font-weight:700;font-size:1.15rem;display:block;margin-bottom:.35rem;color:#1a2a6c;}
     .door-desc{font-size:.92rem;line-height:1.4;color:#37474f;}
   </style>
-  <a class="door" href="#advocacy-tools">
+  <a class="door" href="#room-need-help">
     <span class="door-icon">🆘</span>
     <span class="door-title">I Need Help</span>
     <span class="door-desc">Appeal tools, templates, and step-by-step help — for when you're in it right now.</span>
   </a>
-  <a class="door" href="#communities">
+  <a class="door" href="#room-research">
     <span class="door-icon">🔎</span>
     <span class="door-title">Explore the Research</span>
     <span class="door-desc">Guides, knowledge bases, and templates for your situation — by community.</span>
   </a>
-  <a class="door" href="#data-visualizations">
+  <a class="door" href="#room-data">
     <span class="door-icon">📊</span>
     <span class="door-title">Explore the Data</span>
     <span class="door-desc">Interactive visualizations and findings drawn from the corpus.</span>
   </a>
-  <a class="door" href="#methodology">
+  <a class="door" href="#room-methodology">
     <span class="door-icon">🧪</span>
     <span class="door-title">Methodology &amp; Sources</span>
     <span class="door-desc">How the data was collected, what we can prove, and limitations.</span>
@@ -429,7 +429,7 @@ description: Evidence-based research, guides, knowledge bases and templates for 
   <p style="margin: 0; line-height: 2;">
     <strong>Data Transparency:</strong>
     Proven data clearly labelled | Inferred patterns disclosed upfront | Win rates are estimated from classified decisions only (91.8% of WSIAT decisions lack clear outcome metadata) | All code and data open source
-    <a href="#methodology" style="font-weight: 600;">See full methodology</a>
+    <a href="#room-methodology" style="font-weight: 600;">See full methodology</a>
   </p>
 </div>
 
@@ -438,6 +438,62 @@ description: Evidence-based research, guides, knowledge bases and templates for 
   Figures on this page were reviewed against the recovered Ontario scrape. The headline <strong>230,392 = 127,600 tribunal decisions + 102,792 employer records</strong> (raw, pre-dedupe; the Ontario tribunal figure is itself the sum of WSIAT 99,036 + HRTO 9,269 + ONSBT 13,798 + ONWSIB 463 + ONCA 5,034). Outcome classification covers only ~12–15% of tribunal decisions (CanLII API lacks structured outcome labels — outcomes are keyword-inferred). <strong>BC WCAT collection was recovered and committed (7,386 decisions, 2020–2026) — verifiable; outcomes remain keyword-inferred.</strong> Cross-post success-rate figures should be treated as exploratory, not definitive. Per-tribunal counts: WSIAT 98,992 (re-verified Open Data) · HRTO 62,093 <em>applications</em> (INFERRED aggregate, 2016&ndash;2025; distinct from the 9,269 HRTO decisions classified in the 127,600 sum) · ONSBT 13,798 · ONCA 5,034.</p>
 </div>
 
+
+<style>
+.research-room{border:1px solid #d6deef;border-radius:14px;padding:1.5rem;margin:1.5rem 0;background:#fff;}
+.room-heading{font-size:1.5rem;margin:0 0 1rem;padding-bottom:.5rem;border-bottom:2px solid #3d4eaa;color:#1a2a6c;}
+#room-need-help{border-color:#e0a800;background:#fffdf5;} #room-need-help .room-heading{border-color:#e0a800;color:#8a6d00;}
+#room-research{border-color:#3d4eaa;}
+#room-data{border-color:#1565c0;background:#f7fbff;} #room-data .room-heading{border-color:#1565c0;color:#0d47a1;}
+#room-methodology{border-color:#6a1b9a;background:#faf5ff;} #room-methodology .room-heading{border-color:#6a1b9a;color:#4a148c;}
+</style>
+<section class="research-room" id="room-need-help">
+<h2 class="room-heading">🆘 I Need Help</h2>
+<div id="advocacy-tools" class="section-box">
+  <h2>Start Here If You Need Help</h2>
+  <p style="font-size: 1.05rem; margin-bottom: 1.5rem;">
+    Injured, denied, or helping someone who is? Go straight to the tools. Skip the data.
+  </p>
+  
+  <div class="card-grid">
+    <div class="card">
+      <h3>I Got Denied - I Need to Appeal</h3>
+      <p>You need a strategy now. Start with the guide built from 98,992 WSIAT decisions (re-verified Open Data count).</p>
+      <ul>
+        <li><a href="/guides/wsiat-complete-guide/">WSIAT Complete Appeal Guide</a></li>
+        <li><a href="/templates/pre-existing-appeal/">Pre-Existing Condition Template</a></li>
+        <li><a href="/templates/chronic-pain-appeal/">Chronic Pain Appeal Template</a></li>
+        <li><a href="/templates/back-injury-appeal/">Back Injury Appeal Template</a></li>
+      </ul>
+    </div>
+    
+    <div class="card">
+      <h3>I Want to Understand What's Happening</h3>
+      <p>Identify the recurring denial patterns and language WSIB uses. Know what you're up against before you file.</p>
+      <ul>
+        <li><a href="/knowledge-base/pre-existing-conditions/">How "Pre-Existing" Denials Work</a></li>
+        <li><a href="/knowledge-base/chronic-pain-claims/">Chronic Pain Claim Strategy</a></li>
+        <li><a href="/knowledge-base/claim-suppression-retaliation/">Recognizing Employer Retaliation</a></li>
+        <li><a href="/blog/2026/04/15/wsib-exposed-statistical-evidence-proves-systematic-manipulation/">What the Data Reveals</a></li>
+      </ul>
+    </div>
+    
+    <div class="card">
+      <h3>Browse All Guides and Templates</h3>
+      <p>Musculoskeletal, neurological, legal strategy - 24+ guides built from real cases.</p>
+      <ul>
+        <li><a href="#injury-guides">All Knowledge Base Articles</a></li>
+        <li><a href="#appeal-templates">All Appeal Templates</a></li>
+        <li><a href="/app-waitlist/">Share Your Outcome (App)</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+</section>
+
+<section class="research-room" id="room-research">
+<h2 class="room-heading">🔎 Explore the Research</h2>
 <div id="communities" class="section-box" style="border-color: #3d4eaa; background: #eef1fb;">
   <h2>🏘️ Communities We Serve</h2>
   <p style="font-size: 1.05rem; margin-bottom: 1.5rem;">
@@ -516,211 +572,6 @@ description: Evidence-based research, guides, knowledge bases and templates for 
 <div class="info-box" style="border-left-color: #3d4eaa; background: #eef1fb;">
   <p style="margin: 0; line-height: 1.8; color: #212121;"><strong>🔄 CanLII decision-data scraping — resuming soon:</strong>
     British Columbia workers' compensation (WCAT) 2020–2026 is already collected (<strong>7,386 decisions</strong>, via the free CanLII API). Next: complete the rest of BC (Human Rights Tribunal, Information &amp; Privacy), then expand across Canada — AB, QC, MB, SK, Atlantic, and the Territories — plus the ON Landlord &amp; Tenant Board (poverty / housing). All collection uses the free CanLII API with a 15-second rate limit. See <a href="/docs/DATA_SOURCES_METHODOLOGY/">Data Sources &amp; Methodology</a> for how scraped data becomes the figures you see.</p>
-</div>
-
-<div id="advocacy-tools" class="section-box">
-  <h2>Start Here If You Need Help</h2>
-  <p style="font-size: 1.05rem; margin-bottom: 1.5rem;">
-    Injured, denied, or helping someone who is? Go straight to the tools. Skip the data.
-  </p>
-  
-  <div class="card-grid">
-    <div class="card">
-      <h3>I Got Denied - I Need to Appeal</h3>
-      <p>You need a strategy now. Start with the guide built from 98,992 WSIAT decisions (re-verified Open Data count).</p>
-      <ul>
-        <li><a href="/guides/wsiat-complete-guide/">WSIAT Complete Appeal Guide</a></li>
-        <li><a href="/templates/pre-existing-appeal/">Pre-Existing Condition Template</a></li>
-        <li><a href="/templates/chronic-pain-appeal/">Chronic Pain Appeal Template</a></li>
-        <li><a href="/templates/back-injury-appeal/">Back Injury Appeal Template</a></li>
-      </ul>
-    </div>
-    
-    <div class="card">
-      <h3>I Want to Understand What's Happening</h3>
-      <p>Identify the recurring denial patterns and language WSIB uses. Know what you're up against before you file.</p>
-      <ul>
-        <li><a href="/knowledge-base/pre-existing-conditions/">How "Pre-Existing" Denials Work</a></li>
-        <li><a href="/knowledge-base/chronic-pain-claims/">Chronic Pain Claim Strategy</a></li>
-        <li><a href="/knowledge-base/claim-suppression-retaliation/">Recognizing Employer Retaliation</a></li>
-        <li><a href="/blog/2026/04/15/wsib-exposed-statistical-evidence-proves-systematic-manipulation/">What the Data Reveals</a></li>
-      </ul>
-    </div>
-    
-    <div class="card">
-      <h3>Browse All Guides and Templates</h3>
-      <p>Musculoskeletal, neurological, legal strategy - 24+ guides built from real cases.</p>
-      <ul>
-        <li><a href="#injury-guides">All Knowledge Base Articles</a></li>
-        <li><a href="#appeal-templates">All Appeal Templates</a></li>
-        <li><a href="/app-waitlist/">Share Your Outcome (App)</a></li>
-      </ul>
-    </div>
-  </div>
-</div>
-
-<div id="data-visualizations" class="section-box" style="border-color: #1565c0; background: #e8f0fe;">
-  <h2 style="color: #004d99;">Go Deeper Into the Data</h2>
-  <p style="color: #004d99; font-size: 1.05rem; margin-bottom: 1.5rem;">
-    Researchers, policy analysts, advocates with clients - the full dataset and methodology are below.
-  </p>
-  
-  <div class="card-grid">
-    <div class="card" style="border-left-color: #1976d2;">
-      <h3 style="color: #004d99;">Interactive Visualizations</h3>
-      <p>5 live charts. Filter, zoom, explore 230,392 records yourself.</p>
-      <a href="#visualizations" style="font-weight: 600;">View Charts</a>
-    </div>
-    
-    <div class="card" style="border-left-color: #1976d2;">
-      <h3 style="color: #004d99;">Raw Data Downloads</h3>
-      <p>127,600 Ontario tribunal decisions + 102,792 employer records. 100% open source. No paywalls.</p>
-      <a href="/research-data-sources/" style="font-weight: 600;">Download Data</a>
-    </div>
-    
-    <div class="card" style="border-left-color: #1976d2;">
-      <h3 style="color: #004d99;">Methodology and Statistical Methods</h3>
-      <p>Peer-reviewable methods. Confidence intervals. Limitations disclosed.</p>
-      <a href="#methodology" style="font-weight: 600;">Read Methodology</a>
-    </div>
-  </div>
-</div>
-
-<section class="stats-grid">
-  <div class="stat-box">
-    <div class="stat-number">230,392</div>
-    <small>Total Records Analyzed</small>
-  </div>
-  <div class="stat-box">
-    <div class="stat-number">127,600</div>
-    <small>Tribunal Decisions</small>
-  </div>
-  <div class="stat-box">
-    <div class="stat-number">102,792</div>
-    <small>Employer Safety Records</small>
-  </div>
-  <div class="stat-box">
-    <div class="stat-number">6+ Years</div>
-    <small>Data Coverage</small>
-  </div>
-</section>
-
-<div id="methodology" class="methodology-section">
-  <h2>Research Standards and Methodology</h2>
-  
-  <h3>What We Can PROVE:</h3>
-  <ul>
-    <li><strong>127,600 decisions analyzed</strong> across 5 Ontario systems (WSIAT: 99,036* | HRTO: 9,269&dagger; | ONSBT: 13,798 | ONWSIB: 463 | ONCA: 5,034) &mdash; *99,036 is the extraction-manifest WSIAT count; the re-verified Open Data count is 98,992 (2026-04-29) and 96,025 live (2026-10-07). &dagger;9,269 = HRTO decisions individually classified (2020&ndash;2026); HRTO's full application corpus is 62,093 (INFERRED aggregate, 2016&ndash;2025), a separate scope not summed above.</li>
-    <li><strong>91.8% missing outcome metadata</strong> for WSIAT (only 8.2% of cases have clear win/loss categorization)</li>
-    <li><strong>Statistical anomalies detected</strong> in decision volumes (July 2023: 39 decisions vs. 154 average, Z = -2.94, p = 0.003)</li>
-    <li><strong>Body part bias measured</strong> (knee injuries show 20% pre-existing denial rate vs. 13.3% baseline, chi-squared = 32.7, p < 0.001)</li>
-    <li><strong>Delay tactics quantified</strong> (reconsideration adds 2.0 years vs. 0.5 for direct appeals)</li>
-  </ul>
-  
-  <h3>Statistical Methods Used:</h3>
-  <ul>
-    <li><strong>Anomaly detection</strong> - Z-score analysis, p-values</li>
-    <li><strong>Co-occurrence networks</strong> - Which recurring denial patterns cluster together</li>
-    <li><strong>Temporal trend analysis</strong> - Patterns over time</li>
-    <li><strong>Chi-square tests</strong> - Body part bias, keyword associations</li>
-    <li><strong>Confidence intervals</strong> - All proportions reported with 95% CIs</li>
-    <li><strong>Effect sizes</strong> - Cohen's h for proportional differences</li>
-    <li><strong>Bonferroni correction</strong> - For multiple testing</li>
-    <li><strong>Sensitivity analysis</strong> - Robustness to missing data</li>
-  </ul>
-  
-  <h3>Data Transparency:</h3>
-  <ul>
-    <li><strong>All code open source:</strong> <a href="https://github.com/S0vryn9-C011ect1ve/3mpwrapp.github.io">GitHub Repository</a></li>
-    <li><strong>Raw data public:</strong> <a href="https://github.com/S0vryn9-C011ect1ve/3mpwrapp.github.io/tree/main/data/tribunal-decisions">tribunal-decisions/</a></li>
-    <li><strong>Community review welcomed:</strong> Find errors? Email <a href="mailto:empowrapp08162025@gmail.com">empowrapp08162025@gmail.com</a></li>
-    <li><strong>Replication instructions:</strong> Run scripts/scrape-*.mjs + scripts/analyze-*.mjs for each tribunal</li>
-  </ul>
-  
-  <h3>Limitations We Acknowledge:</h3>
-  <ul>
-    <li><strong>Missing Data:</strong> 91.8% of WSIAT decisions lack clear outcome categorization</li>
-    <li><strong>No Internal Documents:</strong> We don't have WSIB internal policy documents or adjudicator performance data</li>
-    <li><strong>Limited Representation Data:</strong> Only 3.6% of cases mention lawyers</li>
-    <li><strong>Regional Breakdowns:</strong> Not available in public CanLII data</li>
-  </ul>
-  
-  <p><strong>Full methodology available in blog posts</strong> - See Related Blog Posts section below</p>
-</div>
-
-<div id="visualizations">
-  <h2>Interactive Data Visualizations</h2>
-  
-  <div class="visualization-card">
-    <h3>WSIAT Outcome Timeline (2020-2026)</h3>
-    <p class="badge badge-green">98,992 Decisions</p>
-    <p>Monthly decision volumes and outcome patterns over 6 years. Identify seasonal trends, policy changes, and anomalies.</p>
-    <p><a href="/wsiat-outcome-timeline-2020-2026.html" style="font-weight: 600;">View Interactive Chart →</a></p>
-  </div>
-  
-  <div class="visualization-card">
-    <h3>HRTO Outcome Timeline (2020-2026)</h3>
-    <p class="badge badge-purple">badge-purple</p>
-    <p>Human Rights Tribunal outcomes by month &mdash; 9,269 decisions. Track discrimination patterns and case resolution trends.</p>
-    <p><a href="/hrto-outcome-timeline-2020-2026" style="font-weight: 600;">View Interactive Chart &rarr;</a></p>
-  </div>
-  
-  <div class="visualization-card">
-    <h3>ONWSIB Outcome Timeline (2020-2026)</h3>
-    <p class="badge badge-blue">badge-blue</p>
-    <p>WSIB Board outcomes by month &mdash; the employer and insurer side of the same claims that appear in the WSIAT timelines. Shows which appeals end at the Board stage rather than escalating to a hearing.</p>
-    <p><a href="/onwsib-outcome-timeline-2020-2026" style="font-weight: 600;">View Interactive Chart &rarr;</a></p>
-  </div>
-  <div class="visualization-card">
-    <h3>ONCA Outcome Timeline (2020-2026)</h3>
-    <p class="badge badge-purple">badge-purple</p>
-    <p>Court of Appeal for Ontario outcomes by month. The top of the chain, after WSIAT and WSIB. Relevant when a decision is being appealed further and you need to know what has historically succeeded at that level.</p>
-    <p><a href="/onca-outcome-timeline-2020-2026" style="font-weight: 600;">View Interactive Chart &rarr;</a></p>
-  </div>
-  <div class="visualization-card">
-    <h3>ONSBT Outcome Timeline (2020-2026)</h3>
-    <p class="badge badge-blue">badge-blue</p>
-    <p>Social assistance appeals by month &mdash; the tribunal for ODSP denials, distinct from WSIAT and WSIB. Pairs with the <a href="/guides/onsbt-complete-guide/">ONSBT guide</a>.</p>
-    <p><a href="/onsbt-outcome-timeline-2020-2026" style="font-weight: 600;">View Interactive Chart &rarr;</a></p>
-  </div>
-  <div class="visualization-card">
-    <h3>Tribunal Decision Heatmap</h3>
-    <p class="badge badge-orange">badge-orange</p>
-    <p>Where decisions concentrate across issue categories &mdash; which claim types generate the volume, and which are decided fastest or slowest.</p>
-    <p><a href="/tribunal-decision-heatmap.html" style="font-weight: 600;">View Interactive Chart &rarr;</a></p>
-  </div>
-  <div class="visualization-card">
-    <h3>Injury Industry Matrix</h3>
-    <p class="badge "></p>
-    <p>Cross-references injury type against industry. Shows which sectors generate which claim patterns &mdash; useful for narrowing an industry-specific argument.</p>
-    <p><a href="/injury-industry-matrix.html" style="font-weight: 600;">View Interactive Chart &rarr;</a></p>
-  </div>
-  <div class="visualization-card">
-    <h3>Temporal Evolution</h3>
-    <p class="badge "></p>
-    <p>Tracks how employer denial language and defence strategies evolved across the period analysed.</p>
-    <p><a href="/temporal-evolution.html" style="font-weight: 600;">View Interactive Chart &rarr;</a></p>
-  </div>
-  <div class="visualization-card">
-    <h3>Cross-Tribunal Comparison</h3>
-    <p class="badge">5 Tribunals</p>
-    <p>Compare decision patterns across WSIAT, HRTO, ONSBT, ONWSIB, and ONCA. Identify systemic differences.</p>
-    <p><a href="/tribunal-navigator.html" style="font-weight: 600;">View Interactive Chart →</a></p>
-  </div>
-  
-  <div class="visualization-card">
-    <h3>Employer Safety Heatmap</h3>
-    <p class="badge badge-orange">102,792 Records</p>
-    <p>Workplace injury rates by industry and region. Interactive map shows which employers have highest injury rates.</p>
-    <p><a href="/employer-safety-heatmap.html" style="font-weight: 600;">View Interactive Map →</a></p>
-  </div>
-  
-  <div class="visualization-card">
-    <h3>Keyword Network Analysis</h3>
-    <p class="badge">13,000+ Keywords</p>
-    <p>Discover how recurring denial patterns cluster together. Interactive network shows which keywords predict denial.</p>
-    <p><a href="/connecting-the-dots-wsiat-keyword-network.html" style="font-weight: 600;">View Network Graph →</a></p>
-  </div>
 </div>
 
 <div id="research-pipeline" class="methodology-section">
@@ -875,3 +726,177 @@ before relying on these pages. None of this is legal advice.</p>
     <a href="/app-waitlist/" style="font-weight: 600; color: #0066cc;">Share Your Case Outcome →</a>
   </p>
 </div>
+</section>
+
+<section class="research-room" id="room-data">
+<h2 class="room-heading">📊 Explore the Data</h2>
+<div id="data-visualizations" class="section-box" style="border-color: #1565c0; background: #e8f0fe;">
+  <h2 style="color: #004d99;">Go Deeper Into the Data</h2>
+  <p style="color: #004d99; font-size: 1.05rem; margin-bottom: 1.5rem;">
+    Researchers, policy analysts, advocates with clients - the full dataset and methodology are below.
+  </p>
+  
+  <div class="card-grid">
+    <div class="card" style="border-left-color: #1976d2;">
+      <h3 style="color: #004d99;">Interactive Visualizations</h3>
+      <p>5 live charts. Filter, zoom, explore 230,392 records yourself.</p>
+      <a href="#visualizations" style="font-weight: 600;">View Charts</a>
+    </div>
+    
+    <div class="card" style="border-left-color: #1976d2;">
+      <h3 style="color: #004d99;">Raw Data Downloads</h3>
+      <p>127,600 Ontario tribunal decisions + 102,792 employer records. 100% open source. No paywalls.</p>
+      <a href="/research-data-sources/" style="font-weight: 600;">Download Data</a>
+    </div>
+    
+    <div class="card" style="border-left-color: #1976d2;">
+      <h3 style="color: #004d99;">Methodology and Statistical Methods</h3>
+      <p>Peer-reviewable methods. Confidence intervals. Limitations disclosed.</p>
+      <a href="#room-methodology" style="font-weight: 600;">Read Methodology</a>
+    </div>
+  </div>
+</div>
+
+<section class="stats-grid">
+  <div class="stat-box">
+    <div class="stat-number">230,392</div>
+    <small>Total Records Analyzed</small>
+  </div>
+  <div class="stat-box">
+    <div class="stat-number">127,600</div>
+    <small>Tribunal Decisions</small>
+  </div>
+  <div class="stat-box">
+    <div class="stat-number">102,792</div>
+    <small>Employer Safety Records</small>
+  </div>
+  <div class="stat-box">
+    <div class="stat-number">6+ Years</div>
+    <small>Data Coverage</small>
+  </div>
+</section>
+
+<div id="visualizations">
+  <h2>Interactive Data Visualizations</h2>
+  
+  <div class="visualization-card">
+    <h3>WSIAT Outcome Timeline (2020-2026)</h3>
+    <p class="badge badge-green">98,992 Decisions</p>
+    <p>Monthly decision volumes and outcome patterns over 6 years. Identify seasonal trends, policy changes, and anomalies.</p>
+    <p><a href="/wsiat-outcome-timeline-2020-2026.html" style="font-weight: 600;">View Interactive Chart →</a></p>
+  </div>
+  
+  <div class="visualization-card">
+    <h3>HRTO Outcome Timeline (2020-2026)</h3>
+    <p class="badge badge-purple">badge-purple</p>
+    <p>Human Rights Tribunal outcomes by month &mdash; 9,269 decisions. Track discrimination patterns and case resolution trends.</p>
+    <p><a href="/hrto-outcome-timeline-2020-2026" style="font-weight: 600;">View Interactive Chart &rarr;</a></p>
+  </div>
+  
+  <div class="visualization-card">
+    <h3>ONWSIB Outcome Timeline (2020-2026)</h3>
+    <p class="badge badge-blue">badge-blue</p>
+    <p>WSIB Board outcomes by month &mdash; the employer and insurer side of the same claims that appear in the WSIAT timelines. Shows which appeals end at the Board stage rather than escalating to a hearing.</p>
+    <p><a href="/onwsib-outcome-timeline-2020-2026" style="font-weight: 600;">View Interactive Chart &rarr;</a></p>
+  </div>
+  <div class="visualization-card">
+    <h3>ONCA Outcome Timeline (2020-2026)</h3>
+    <p class="badge badge-purple">badge-purple</p>
+    <p>Court of Appeal for Ontario outcomes by month. The top of the chain, after WSIAT and WSIB. Relevant when a decision is being appealed further and you need to know what has historically succeeded at that level.</p>
+    <p><a href="/onca-outcome-timeline-2020-2026" style="font-weight: 600;">View Interactive Chart &rarr;</a></p>
+  </div>
+  <div class="visualization-card">
+    <h3>ONSBT Outcome Timeline (2020-2026)</h3>
+    <p class="badge badge-blue">badge-blue</p>
+    <p>Social assistance appeals by month &mdash; the tribunal for ODSP denials, distinct from WSIAT and WSIB. Pairs with the <a href="/guides/onsbt-complete-guide/">ONSBT guide</a>.</p>
+    <p><a href="/onsbt-outcome-timeline-2020-2026" style="font-weight: 600;">View Interactive Chart &rarr;</a></p>
+  </div>
+  <div class="visualization-card">
+    <h3>Tribunal Decision Heatmap</h3>
+    <p class="badge badge-orange">badge-orange</p>
+    <p>Where decisions concentrate across issue categories &mdash; which claim types generate the volume, and which are decided fastest or slowest.</p>
+    <p><a href="/tribunal-decision-heatmap.html" style="font-weight: 600;">View Interactive Chart &rarr;</a></p>
+  </div>
+  <div class="visualization-card">
+    <h3>Injury Industry Matrix</h3>
+    <p class="badge "></p>
+    <p>Cross-references injury type against industry. Shows which sectors generate which claim patterns &mdash; useful for narrowing an industry-specific argument.</p>
+    <p><a href="/injury-industry-matrix.html" style="font-weight: 600;">View Interactive Chart &rarr;</a></p>
+  </div>
+  <div class="visualization-card">
+    <h3>Temporal Evolution</h3>
+    <p class="badge "></p>
+    <p>Tracks how employer denial language and defence strategies evolved across the period analysed.</p>
+    <p><a href="/temporal-evolution.html" style="font-weight: 600;">View Interactive Chart &rarr;</a></p>
+  </div>
+  <div class="visualization-card">
+    <h3>Cross-Tribunal Comparison</h3>
+    <p class="badge">5 Tribunals</p>
+    <p>Compare decision patterns across WSIAT, HRTO, ONSBT, ONWSIB, and ONCA. Identify systemic differences.</p>
+    <p><a href="/tribunal-navigator.html" style="font-weight: 600;">View Interactive Chart →</a></p>
+  </div>
+  
+  <div class="visualization-card">
+    <h3>Employer Safety Heatmap</h3>
+    <p class="badge badge-orange">102,792 Records</p>
+    <p>Workplace injury rates by industry and region. Interactive map shows which employers have highest injury rates.</p>
+    <p><a href="/employer-safety-heatmap.html" style="font-weight: 600;">View Interactive Map →</a></p>
+  </div>
+  
+  <div class="visualization-card">
+    <h3>Keyword Network Analysis</h3>
+    <p class="badge">13,000+ Keywords</p>
+    <p>Discover how recurring denial patterns cluster together. Interactive network shows which keywords predict denial.</p>
+    <p><a href="/connecting-the-dots-wsiat-keyword-network.html" style="font-weight: 600;">View Network Graph →</a></p>
+  </div>
+</div>
+
+</section>
+
+<section class="research-room" id="room-methodology">
+<h2 class="room-heading">🧪 Methodology &amp; Sources</h2>
+<div id="methodology" class="methodology-section">
+  <h2>Research Standards and Methodology</h2>
+  
+  <h3>What We Can PROVE:</h3>
+  <ul>
+    <li><strong>127,600 decisions analyzed</strong> across 5 Ontario systems (WSIAT: 99,036* | HRTO: 9,269&dagger; | ONSBT: 13,798 | ONWSIB: 463 | ONCA: 5,034) &mdash; *99,036 is the extraction-manifest WSIAT count; the re-verified Open Data count is 98,992 (2026-04-29) and 96,025 live (2026-10-07). &dagger;9,269 = HRTO decisions individually classified (2020&ndash;2026); HRTO's full application corpus is 62,093 (INFERRED aggregate, 2016&ndash;2025), a separate scope not summed above.</li>
+    <li><strong>91.8% missing outcome metadata</strong> for WSIAT (only 8.2% of cases have clear win/loss categorization)</li>
+    <li><strong>Statistical anomalies detected</strong> in decision volumes (July 2023: 39 decisions vs. 154 average, Z = -2.94, p = 0.003)</li>
+    <li><strong>Body part bias measured</strong> (knee injuries show 20% pre-existing denial rate vs. 13.3% baseline, chi-squared = 32.7, p < 0.001)</li>
+    <li><strong>Delay tactics quantified</strong> (reconsideration adds 2.0 years vs. 0.5 for direct appeals)</li>
+  </ul>
+  
+  <h3>Statistical Methods Used:</h3>
+  <ul>
+    <li><strong>Anomaly detection</strong> - Z-score analysis, p-values</li>
+    <li><strong>Co-occurrence networks</strong> - Which recurring denial patterns cluster together</li>
+    <li><strong>Temporal trend analysis</strong> - Patterns over time</li>
+    <li><strong>Chi-square tests</strong> - Body part bias, keyword associations</li>
+    <li><strong>Confidence intervals</strong> - All proportions reported with 95% CIs</li>
+    <li><strong>Effect sizes</strong> - Cohen's h for proportional differences</li>
+    <li><strong>Bonferroni correction</strong> - For multiple testing</li>
+    <li><strong>Sensitivity analysis</strong> - Robustness to missing data</li>
+  </ul>
+  
+  <h3>Data Transparency:</h3>
+  <ul>
+    <li><strong>All code open source:</strong> <a href="https://github.com/S0vryn9-C011ect1ve/3mpwrapp.github.io">GitHub Repository</a></li>
+    <li><strong>Raw data public:</strong> <a href="https://github.com/S0vryn9-C011ect1ve/3mpwrapp.github.io/tree/main/data/tribunal-decisions">tribunal-decisions/</a></li>
+    <li><strong>Community review welcomed:</strong> Find errors? Email <a href="mailto:empowrapp08162025@gmail.com">empowrapp08162025@gmail.com</a></li>
+    <li><strong>Replication instructions:</strong> Run scripts/scrape-*.mjs + scripts/analyze-*.mjs for each tribunal</li>
+  </ul>
+  
+  <h3>Limitations We Acknowledge:</h3>
+  <ul>
+    <li><strong>Missing Data:</strong> 91.8% of WSIAT decisions lack clear outcome categorization</li>
+    <li><strong>No Internal Documents:</strong> We don't have WSIB internal policy documents or adjudicator performance data</li>
+    <li><strong>Limited Representation Data:</strong> Only 3.6% of cases mention lawyers</li>
+    <li><strong>Regional Breakdowns:</strong> Not available in public CanLII data</li>
+  </ul>
+  
+  <p><strong>Full methodology available in blog posts</strong> - See Related Blog Posts section below</p>
+</div>
+
+</section>
+
