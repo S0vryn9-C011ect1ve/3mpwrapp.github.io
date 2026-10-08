@@ -15,7 +15,7 @@ Shorter updates posted between full diary entries — what moved this week, what
 {% assign total = posts | size %}
 
 {% if total > 0 %}
-<p><strong>{{ total }} entr{{ if total != 1 }}ies{{ else }}y{{ endif }}.</strong> Newest first.</p>
+<p><strong>{{ total }} entr{% if total != 1 %}ies{% else %}y{% endif %}.</strong> Newest first.</p>
 
 {% assign years = posts | group_by_exp: 'item', 'item.date | date: "%Y"' %}
 {% for year in years %}

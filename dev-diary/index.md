@@ -15,7 +15,7 @@ The development diary is where we write up what we are building and why. It is w
 {% assign total = posts | size %}
 
 {% if total > 0 %}
-<p><strong>{{ total }} entr{{ if total != 1 }}ies{{ else }}y{{ endif }}.</strong> Newest first.</p>
+<p><strong>{{ total }} entr{% if total != 1 %}ies{% else %}y{% endif %}.</strong> Newest first.</p>
 
 {% assign years = posts | group_by_exp: 'item', 'item.date | date: "%Y"' %}
 {% for year in years %}
