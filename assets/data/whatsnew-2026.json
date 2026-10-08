@@ -4,6 +4,60 @@
   "lastUpdated": "2026-10-05T20:00:00-04:00",
   "entries": [
     {
+      "id": "wn-2026-10-07-accuracy-audit",
+      "title": "🧹 Sitewide accuracy audit: fabricated citation, wrong domain, inflated win-rates fixed",
+      "summary": "Corrected the fabricated Pasiechnyk v. Ontario (WSIB) 2015 citation to the real SCC case across the live knowledge base; fixed wsiat.on.ca → wsiat.ca; reconciled 89.1%/68.7%/98.9%/90.4% headline stats to honest ~65–73% ranges with verified/disclaimed labels.",
+      "date": "2026-10-07T21:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "a43b3c6"
+    },
+    {
+      "id": "wn-2026-10-07-viz-a11y",
+      "title": "♿ Repaired broken tribunal heatmap + added ARIA/tables to all 16 visualizations",
+      "summary": "The tribunal decision heatmap no longer hangs on a 404 (real aggregated data + fetch timeout fallback). Every D3 visualization now has a screen-reader table alternative and ARIA roles/labels.",
+      "date": "2026-10-07T21:05:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "a43b3c6"
+    },
+    {
+      "id": "wn-2026-10-07-methodology",
+      "title": "📊 Data Sources & Methodology published — single source of truth for all stats",
+      "summary": "A canonical reconciliation of every contradictory figure on the site (WSIAT 98,992 vs 99,036, HRTO 9,269 vs 62,093, win-rate 63.1% vs 73.5%) with verified/inferred labels and source URLs.",
+      "date": "2026-10-07T21:10:00-04:00",
+      "category": "docs",
+      "repo": "website",
+      "commitSha": "a43b3c6"
+    },
+    {
+      "id": "wn-2026-10-07-new-communities",
+      "title": "🎯 New community guides: Veterans, Seniors, Caregivers, Federal Disabilities, UNCRPD & Human Rights",
+      "summary": "Built out the communities that had zero or near-zero coverage: Veterans (VAC/VRAB), Seniors (OAS/GIS/Allowance/CPP-D/GAINS), Caregivers (EI/METC/OCO), Federal Disabilities (CPP-D/DTC/CDB/RDSP), UNCRPD, and HRTO/CHRT human-rights tribunals — all with official-source verification.",
+      "date": "2026-10-07T21:15:00-04:00",
+      "category": "feature",
+      "repo": "website",
+      "commitSha": "a43b3c6"
+    },
+    {
+      "id": "wn-2026-10-07-flywheels",
+      "title": "🔗 New flywheel pages: Member Wins hub + From Pattern to Policy",
+      "summary": "Evidence Flywheel now has a public Member Wins hub (share your win) and a From Pattern to Policy page linking member evidence to collective campaigns. Both wired into the guides + research indexes.",
+      "date": "2026-10-07T21:20:00-04:00",
+      "category": "feature",
+      "repo": "website",
+      "commitSha": "a43b3c6"
+    },
+    {
+      "id": "wn-2026-10-07-app-crosslinks",
+      "title": "🔗 App resources now cross-link to full website guides + mentor/AI explainers",
+      "summary": "The app's knowledge-base and WSIB-appeals screens now link out to the full website guides (WSIAT/HRTO/ONSBT/ONCA) and surface the in-app mentor + AI-explainer features — completing the Knowledge Network flywheel.",
+      "date": "2026-10-07T21:25:00-04:00",
+      "category": "feature",
+      "repo": "app",
+      "commitSha": "a43b3c6"
+    },
+    {
       "id": "wn-2026-10-01-whatsnew-archive",
       "title": "🗂️ Fixed What's New archive grouping by month (JS bug)",
       "summary": "Fixed archiveByMonth[monthKey] syntax error so archive renders correctly.",

@@ -2,6 +2,7 @@
 title: "Data Sources & Methodology — Canonical Stat Reference"
 description: "Single source of truth that reconciles every contradictory statistic on 3mpwrApp research pages and guides, with official-source verification dates and VERIFIED/INFERRED labels."
 layout: page
+permalink: /docs/DATA_SOURCES_METHODOLOGY/
 ---
 
 # Data Sources & Methodology — Canonical Stat Reference
