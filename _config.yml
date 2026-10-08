@@ -371,7 +371,7 @@ exclude:
   - api-test.html
   - data/tribunal-decisions/wsiat/raw-html
   - temp-user-guide-check.txt
-  - docs
+  # - docs  (REMOVED 2026-10-07: publish docs/ root — Data Sources & Methodology + accessibility guides — so methodology links resolve; docs/setup, docs/development, docs/performance remain excluded below)
   # - assets/images/screenshots  (REENABLED 2026-10-01: App Tour/Demo images must deploy; was excluded → 404 on live site)
   - docs/setup
   - docs/development
