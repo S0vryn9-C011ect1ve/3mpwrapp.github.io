@@ -366,7 +366,7 @@ layout: page
 **Total Records:** 230,392
 
 **Breakdown:**
-- **WSIAT:** 99,036 decisions (2016-2025)
+- **WSIAT:** 98,992 decisions (2016-2025)
 - **NEER:** 91,814 employer records (2017-2020)
 - **CAD-7:** 38,922 employer records (2017-2020)
 - **Premium Rates:** 664 classifications (2016-2020)
@@ -531,7 +531,7 @@ function validateRecord(record, schema) {
 ### WSIAT Data Quality
 
 ✅ **Strengths:**
-- Complete dataset (99,036 decisions, 100% coverage 2016-2025)
+- Complete dataset (98,992 decisions, 100% coverage 2016-2025)
 - All 8 fields extracted
 - Full decision summaries (text analysis possible)
 - Consistent structure across years
