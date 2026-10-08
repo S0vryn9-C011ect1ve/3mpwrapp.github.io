@@ -631,7 +631,7 @@ This analysis is based on publicly available CanLII keyword data. Official HRTO 
 **Contact for case data submissions:** empowrapp08162025@gmail.com (anonymous submissions welcome). We're analyzing tribunal outcome patterns.
 
 **Related analysis:**
-- [WSIAT Revealed: 63% Worker Victory Rate](https://3mpwrapp.ca/blog/2026/04/20/wsib-transparency-gap-outcome-obscurity-REVISED/) - WSIAT vs HRTO comparison
+- [WSIAT Pattern Analysis: Outcome Detection & the 91.8% Metadata Gap](https://3mpwrapp.ca/blog/2026/04/20/wsib-transparency-gap-outcome-obscurity-REVISED/) - WSIAT vs HRTO comparison
 - [Cross-Tribunal Comparison](https://3mpwrapp.ca/blog/2026/04/20/hrto-wsiat-cross-tribunal-comparison/) - System-wide accountability gaps
 
 **Contact:** empowrapp08162025@gmail.com

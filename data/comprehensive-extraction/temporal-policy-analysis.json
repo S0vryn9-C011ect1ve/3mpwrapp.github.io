@@ -4,14 +4,12 @@
   "dataSource": "98,992 WSIAT decisions analyzed",
   "timespan": "39 years (1987-2026)",
   "dataQuality": "⚠️ Limited - 6.1% outcome detection coverage (keyword matching only)",
-  
   "executiveSummary": {
     "keyFinding": "WSIAT case volume declined 57% from 2016 peak, but success rates remain stable ~1%",
     "trendDirection": "Declining appeals volume suggests systemic deterrence, not improving outcomes",
     "criticalPeriod": "2019-2020: COVID-19 pandemic saw temporary spike, then steep decline",
     "policyImplication": "98.25% of denied workers never appeal - the appeal gap widened over time"
   },
-  
   "volumeTrends": {
     "2016": {
       "decisions": 3629,
@@ -69,13 +67,12 @@
       "interpretation": "Volume decline NOT explained by safer workplaces (WSIB claims stable). Suggests systemic deterrence from appeals process."
     }
   },
-  
   "successRateTrends": {
     "note": "Based on 6.1% of decisions with detectable outcomes (keyword matching). True rates likely 40-70% per advocacy groups.",
     "yearly": [
       {
         "year": 2016,
-        "detectedSuccessRate": "0.5%",
+        "detectedSuccessRate": "37.5%",
         "allowed": 17,
         "denied": 85,
         "partial": 34,
@@ -85,7 +82,7 @@
       },
       {
         "year": 2017,
-        "detectedSuccessRate": "0.2%",
+        "detectedSuccessRate": "24.1%",
         "allowed": 9,
         "denied": 126,
         "partial": 31,
@@ -95,7 +92,7 @@
       },
       {
         "year": 2018,
-        "detectedSuccessRate": "0.3%",
+        "detectedSuccessRate": "15.9%",
         "allowed": 14,
         "denied": 222,
         "partial": 28,
@@ -105,7 +102,7 @@
       },
       {
         "year": 2019,
-        "detectedSuccessRate": "0.6%",
+        "detectedSuccessRate": "22.4%",
         "allowed": 18,
         "denied": 111,
         "partial": 14,
@@ -115,7 +112,7 @@
       },
       {
         "year": 2020,
-        "detectedSuccessRate": "1.3%",
+        "detectedSuccessRate": "29.3%",
         "allowed": 28,
         "denied": 111,
         "partial": 18,
@@ -125,7 +122,7 @@
       },
       {
         "year": 2021,
-        "detectedSuccessRate": "1.4%",
+        "detectedSuccessRate": "34.1%",
         "allowed": 30,
         "denied": 108,
         "partial": 26,
@@ -136,7 +133,7 @@
       },
       {
         "year": 2022,
-        "detectedSuccessRate": "0.9%",
+        "detectedSuccessRate": "34.0%",
         "allowed": 19,
         "denied": 70,
         "partial": 17,
@@ -146,7 +143,7 @@
       },
       {
         "year": 2023,
-        "detectedSuccessRate": "0.7%",
+        "detectedSuccessRate": "55.6%",
         "allowed": 13,
         "denied": 24,
         "partial": 17,
@@ -156,7 +153,7 @@
       },
       {
         "year": 2024,
-        "detectedSuccessRate": "1.0%",
+        "detectedSuccessRate": "44.7%",
         "allowed": 19,
         "denied": 47,
         "partial": 19,
@@ -166,7 +163,7 @@
       },
       {
         "year": 2025,
-        "detectedSuccessRate": "0.5%",
+        "detectedSuccessRate": "22.1%",
         "allowed": 8,
         "denied": 60,
         "partial": 9,
@@ -177,7 +174,6 @@
     ],
     "interpretation": "No clear trend in success rates (0.2%-1.4% detected range). Suggests WSIAT decision-making relatively consistent, but VOLUME decline is the story."
   },
-  
   "identifiedPolicyShifts": [
     {
       "period": "2018-2019",
@@ -204,7 +200,6 @@
       "workerImpact": "Appeal gap widening - fewer workers appealing denials"
     }
   ],
-  
   "comparisonToWSIBClaimVolume": {
     "note": "If WSIB claim volume stable/increasing while WSIAT appeals declining, suggests deterrence not safer workplaces",
     "hypothesis": "WSIB denials remain constant (~40% denial rate), but appeals dropping = growing appeal gap",
@@ -219,7 +214,6 @@
     },
     "interpretation": "The problem is NOT that fewer workers are injured. The problem is fewer injured workers are APPEALING denials."
   },
-  
   "virtualHearingsImpact": {
     "introduced": "2020 (COVID-19 pandemic)",
     "hypothesis": "Virtual hearings may improve accessibility for some, harm others",
@@ -237,15 +231,34 @@
     ],
     "conclusion": "Net effect unclear. Virtual option should be CHOICE, not mandatory."
   },
-  
   "injuryTypeShifts": {
     "note": "39.9% of decisions have detectable injury keywords",
     "topInjuriesOverall": [
-      {"type": "Back/Spine", "cases": 15177, "percentage": "15.3%"},
-      {"type": "Hearing Loss", "cases": 9650, "percentage": "9.7%"},
-      {"type": "Chronic Pain", "cases": 7502, "percentage": "7.6%"},
-      {"type": "Shoulder", "cases": 6234, "percentage": "6.3%"},
-      {"type": "Knee", "cases": 4891, "percentage": "4.9%"}
+      {
+        "type": "Back/Spine",
+        "cases": 15177,
+        "percentage": "15.3%"
+      },
+      {
+        "type": "Hearing Loss",
+        "cases": 9650,
+        "percentage": "9.7%"
+      },
+      {
+        "type": "Chronic Pain",
+        "cases": 7502,
+        "percentage": "7.6%"
+      },
+      {
+        "type": "Shoulder",
+        "cases": 6234,
+        "percentage": "6.3%"
+      },
+      {
+        "type": "Knee",
+        "cases": 4891,
+        "percentage": "4.9%"
+      }
     ],
     "emergingTrends": [
       {
@@ -264,20 +277,33 @@
       }
     ]
   },
-  
   "geographicShifts": {
     "note": "Employer safety data shows geographic concentration",
     "topCities": [
-      {"city": "Mississauga", "employers": 8255},
-      {"city": "Toronto", "employers": 5230},
-      {"city": "North York", "employers": 3317},
-      {"city": "Etobicoke", "employers": 2776},
-      {"city": "Brampton", "employers": 2699}
+      {
+        "city": "Mississauga",
+        "employers": 8255
+      },
+      {
+        "city": "Toronto",
+        "employers": 5230
+      },
+      {
+        "city": "North York",
+        "employers": 3317
+      },
+      {
+        "city": "Etobicoke",
+        "employers": 2776
+      },
+      {
+        "city": "Brampton",
+        "employers": 2699
+      }
     ],
     "urbanRuralDisparity": "GTA dominates employer count, but northern Ontario workers face GREATER barriers to appeals (travel, legal access)",
     "policyImplication": "Virtual hearings should help northern workers, but data shows overall decline - barriers remain"
   },
-  
   "keyPolicyQuestions": [
     {
       "question": "Why did case volume drop 27.8% in 2019?",
@@ -300,7 +326,6 @@
       "method": "Task 8 (NLP analysis), compare case characteristics over time"
     }
   ],
-  
   "recommendationsForAdvocacy": [
     {
       "recommendation": "Investigate 2019 policy change",
@@ -327,14 +352,12 @@
       "action": "WSIB denial letters should prominently feature appeal info + clinic contact"
     }
   ],
-  
   "nextSteps": {
     "task14": "Identify specific landmark decisions that changed WSIAT interpretation",
     "task8": "NLP classification will reveal true success rate trends over time",
     "legislativeResearch": "Analyze Ontario workplace injury law changes 2016-2026",
     "stakeholderInterviews": "Interview legal clinic staff, injured workers, advocates about barriers"
   },
-  
   "dataLimitations": [
     "Only 6.1% of decisions have detectable outcomes (keyword matching)",
     "Cannot determine TRUE success rate trends without NLP (Task 8)",
@@ -343,8 +366,6 @@
     "No geographic data linking decisions to appellant location",
     "No vice-chair data (Task 15-16) to detect decision-maker trends"
   ],
-  
   "methodology": "Analyzed 98,992 WSIAT decisions (1987-2026). Keyword matching for outcomes (6.1% coverage). Yearly aggregation for volume and success rate trends. Comparison to WSIB claim statistics (external). Industry and injury pattern analysis from decision text.",
-  
   "citationFormat": "3mpwrApp Research Team. (2026). WSIAT Temporal Analysis: Policy Shifts 1987-2026. Retrieved from https://3mpwrapp.ca/temporal-analysis/"
 }

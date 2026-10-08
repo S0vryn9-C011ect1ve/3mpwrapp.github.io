@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WSIAT Pattern Analysis: 63% Worker Victory Rate in Detected Outcomes and a 91.8% Metadata Gap"
+title: "WSIAT Pattern Analysis: Outcome Detection from 2,000 Decisions & the 91.8% Metadata Gap"
 subtitle: "Advanced Pattern Analysis of 2,000 WSIAT Cases Detected 651 Outcomes | Worker Victory Rate: 63.1% in Detected Outcomes"
 date: 2026-04-20
 author: Lissa Beaulieu (Founder/Creator 3mpwrApp) with GitHub Copilot assistance
@@ -12,7 +12,7 @@ image_alt: "WSIAT outcome analysis chart showing 63% worker victory rate in dete
 toc: true
 ---
 
-# WSIAT Pattern Analysis: Workers Win 63% of Detected Appeals Outcomes
+# WSIAT Pattern Analysis: Outcome Detection from 2,000 Decisions & the 91.8% Metadata Gap
 
 **📅 UPDATED: April 29, 2026** - Enhanced with comprehensive analysis of full WSIAT dataset (98,992 decisions, 1987-2026) from [WSIAT Open Data Portal](https://www.wsiat.ca/en/home/opendata_decisions.html). See Deep-Dive Report for body part patterns (Back 13,407 cases, Shoulder 5,295), co-occurrence analysis (NEL+Permanent Impairment 11,516), temporal trends, and vice-chair specialization.
 
