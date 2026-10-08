@@ -11938,6 +11938,15 @@
       "category": "fix",
       "repo": "app",
       "archived": false
+    },
+    {
+      "id": "wn-2026-10-08-research-review-fixes",
+      "title": "🔧 Research page: fixed broken badges + chart count",
+      "summary": "Final proofread of /research/: fixed 5 visualization cards that displayed raw CSS class names as visible text (badge-purple/blue/orange) — now show real decision counts (HRTO 9,269, ONWSIB 463, ONCA 5,034, ONSBT 13,798, heatmap 'Issue Categories'); labelled 2 empty badges (Injury × Industry, Defence Shifts); corrected the '5 live charts' claim to 11; updated one research-link label away from the retired 'worker victory rates' phrasing. All 15 sampled internal links verified live (HTTP 200).",
+      "date": "2026-10-08T10:00:00-04:00",
+      "category": "improvement",
+      "repo": "website",
+      "commitSha": "pending"
     }
   ]
 }
