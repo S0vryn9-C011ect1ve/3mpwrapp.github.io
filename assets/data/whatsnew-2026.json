@@ -1,8 +1,17 @@
 {
   "year": 2026,
   "version": "1.0",
-  "lastUpdated": "2026-10-08T04:00:00-04:00",
+  "lastUpdated": "2026-10-08T05:00:00-04:00",
   "entries": [
+    {
+      "id": "wn-2026-10-08-news-full-canada",
+      "title": "📰 News watch now covers ALL of Canada (no exclusions)",
+      "summary": "Expanded the news intake from Thunder Bay + Ontario only to full Canadian coverage — every major locality, all 10 provinces + 3 territories, Canada-wide, and world. Relevance-gated to the main user base (injured workers, disability, seniors/elderly, veterans, vulnerable communities, families, public allies). Ledger now 1,099 cards (news: 130).",
+      "date": "2026-10-08T05:00:00-04:00",
+      "category": "feature",
+      "repo": "website",
+      "commitSha": "pending"
+    },
     {
       "id": "wn-2026-10-08-news-pipeline",
       "title": "📰 News now feeds the research pipeline (local → world)",

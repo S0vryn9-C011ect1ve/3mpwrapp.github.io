@@ -1,18 +1,18 @@
 {
-  "total": 1086,
+  "total": 1099,
   "verified": 5,
   "by_community": {
-    "disability": 469,
-    "injured_workers": 325,
-    "welfare_social": 254,
+    "disability": 478,
+    "injured_workers": 326,
+    "welfare_social": 255,
     "accessibility": 181,
-    "elderly": 60,
+    "elderly": 63,
     "veterans": 36,
     "vulnerable_communities": 2
   },
   "by_jurisdiction": {
     "INTL": 485,
-    "CA-ON": 416,
+    "CA-ON": 429,
     "CA-FED": 100,
     "CA-AB": 62,
     "CA-BC": 21,
@@ -22,14 +22,14 @@
   "by_source": {
     "x": 516,
     "reddit": 436,
-    "news": 117,
+    "news": 130,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 1069,
+    "unverified_social": 1082,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
