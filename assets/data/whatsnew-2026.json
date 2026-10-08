@@ -1,8 +1,17 @@
 {
   "year": 2026,
   "version": "1.0",
-  "lastUpdated": "2026-10-08T05:00:00-04:00",
+  "lastUpdated": "2026-10-08T06:00:00-04:00",
   "entries": [
+    {
+      "id": "wn-2026-10-08-research-number-harmonize",
+      "title": "🔢 Research page: number clarity + careful language",
+      "summary": "Added a 'How these numbers relate' explainer to /research/ (230,392 = 127,600 tribunal + 102,792 employer; WSIAT 99,036 raw / 98,992 curated; 50,161 cases classified at 85.1%). Reconciled the 99,036 vs 98,992 WSIAT figures and softened 'playbook'/'tactics' wording to 'recurring denial patterns and language' so the page doesn't imply proven intentional coordination.",
+      "date": "2026-10-08T06:00:00-04:00",
+      "category": "improvement",
+      "repo": "website",
+      "commitSha": "pending"
+    },
     {
       "id": "wn-2026-10-08-news-full-canada",
       "title": "📰 News watch now covers ALL of Canada (no exclusions)",
