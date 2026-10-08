@@ -127,7 +127,20 @@
             margin: 8px 0;
             color: #34495e;
         }
-    </style>
+    
+        /* Screen-reader-only utility for accessible table alternatives */
+        .sr-only {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            white-space: nowrap;
+            border: 0;
+        }
+</style>
 </head>
 <body>
     <div class="container">
@@ -177,7 +190,13 @@
             </select>
         </div>
 
-        <div id="matrix" class="matrix-container"></div>
+        <div id="matrix" class="matrix-container" role="img" aria-label="Injury type by industry correlation matrix (20 injury types x 15 industries). Cell colour shows case count. A data table with every injury-industry combination follows."></div>
+        <table class="sr-only" id="matrix-data-table">
+            <caption>Injury type by industry case counts — text alternative to the matrix above</caption>
+            <thead><tr><th scope="col">Injury Type</th><th scope="col">Industry</th><th scope="col">Cases</th><th scope="col">Success Rate</th></tr></thead>
+            <tbody></tbody>
+        </table>
+
 
         <div class="legend">
             <span style="font-size: 12px; margin-right: 10px;">Cases per cell:</span>
@@ -348,6 +367,9 @@
         function updateMatrix() {
             console.log("Matrix filters changed - would reorder/filter cells");
         }
+    </script>
+    <script>
+        (function(){try{var tb=document.getElementById('matrix-data-table').querySelector('tbody');matrixData.forEach(function(d){var tr=document.createElement('tr');tr.innerHTML='<td>'+d.injury+'</td><td>'+d.industry+'</td><td>'+d.count.toLocaleString()+'</td><td>'+d.successRate.toFixed(1)+'%</td>';tb.appendChild(tr);});}catch(e){console.error('matrix table',e);}})();
     </script>
 </body>
 </html>

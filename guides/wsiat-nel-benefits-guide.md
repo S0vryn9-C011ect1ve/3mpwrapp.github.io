@@ -260,7 +260,7 @@ Based on our 20,680 NEL decision analysis:
 
 ## External Resources
 
-- **WSIAT Official Site:** [wsiat.on.ca](https://www.wsiat.on.ca/)
+- **WSIAT Official Site:** [wsiat.ca](https://www.wsiat.ca/)
 - **WSIB NEL Calculator:** [wsib.ca/en/nel-calculator](https://www.wsib.ca/en/nel-calculator)
 - **AMA Guides:** Available at law libraries or purchase from AMA
 - **Legal Aid Ontario:** Free legal assistance for low-income workers

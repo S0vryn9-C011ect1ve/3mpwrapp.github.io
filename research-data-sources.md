@@ -29,7 +29,7 @@ layout: page
 
 ### Official WSIAT Website
 
-**URL:** [wsiat.on.ca](http://www.wsiat.on.ca)
+**URL:** [wsiat.ca](http://www.wsiat.ca)
 
 **Available Data:**
 - Full text decisions (searchable database)
@@ -66,7 +66,7 @@ layout: page
 
 ### WSIAT Annual Reports
 
-**URL:** [wsiat.on.ca/annual-reports](http://www.wsiat.on.ca/en/reports/Pages/Annual-Reports.aspx)
+**URL:** [wsiat.ca/annual-reports](http://www.wsiat.ca/en/reports/Pages/Annual-Reports.aspx)
 
 **Data Included:**
 - Total applications received
@@ -383,10 +383,10 @@ layout: page
 
 ### Cross-Tribunal Success Rate Comparison
 
-**Data Visualization:** [Cross-Tribunal Success Rates Chart](../cross-tribunal-success-rates.html)
+**Data Visualization:** [Cross-Tribunal Success Rates Chart](/cross-tribunal-success-rates.html)
 
 **Key Statistics:**
-- **WSIAT:** 68.7% success rate (99,036 decisions)
+- **WSIAT:** ~65-73% favorable outcomes (reported range; exploratory, not a guaranteed success rate)
 - **HRTO:** 2.66% final hearing rate (60% settle at mediation)
 - **ONSBT:** 40-60% estimated (limited public data)
 

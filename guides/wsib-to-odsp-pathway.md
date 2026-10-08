@@ -21,7 +21,7 @@ layout: guide
 - **CPP-D approval helps ODSP application** (but not required)
 - **WSIB denial ≠ ODSP denial** (different tests, different evidence)
 
-**Success Rate:** 98.9% worker success rate at ONSBT appeals tribunal from 14,298 classified decisions (2020-2026)
+**Reported favorable rate (estimate):** Among *clear* ONSBT outcomes, 98.9% were allowed (7,983 of 8,071) — but 34.3% of all 14,298 decisions were classified "unclear," so this is an estimate, not a guaranteed success rate.
 
 **May 1, 2026 Update - ONSBT Classification Results:**
 
@@ -35,16 +35,16 @@ We analyzed **14,298 Ontario Social Benefits Tribunal (ONSBT) decisions** from 2
 | **Denied** | 88 | **0.6%** |
 
 **Key Findings:**
-- **98.9% success rate from clear outcomes** (7,983 allowed out of 8,071 clear decisions)
+- **98.9% allowed rate among *clear* outcomes (estimate)** — 7,983 allowed out of 8,071 clear decisions. Note: 34.3% of all decisions were "unclear," so this does not mean 98.9% of all appeals succeed.
 - **Only 88 denials out of 14,298 total decisions** = 0.6% denial rate
 - **56.4% of decisions have clear outcomes** (16x higher than WSIAT's 3.4%)
 - **ODSP eligibility determinations are far more explicit** than workplace injury tribunal decisions
 
 **What This Means for You:**
-- **If denied ODSP initially:** Appeal to ONSBT - 98.9% of clear appeals succeed
+- **If denied ODSP initially:** Appeal to ONSBT - among *clear* outcomes, 98.9% were allowed (estimate; 34.3% of decisions were unclear, so individual outcomes vary).
 - **ONSBT is more transparent than WSIAT** - 56.4% clear outcomes vs WSIAT's 3.4%
-- **Social benefits system favors applicants** - only 88 denials across 6+ years of decisions
-- **Proper medical evidence wins** - 7,983 "appeal allowed" decisions show system works when documented correctly
+- **Social benefits system favors applicants with clear outcomes** - only 88 denials among *clear* decisions, but 34.3% of all cases were "unclear" and excluded
+- **Proper medical evidence helps** - 7,983 "appeal allowed" decisions among clear outcomes show documentation matters, but this is an estimate, not a guarantee
 
 ---
 
@@ -584,7 +584,7 @@ exemptions](https://www.ontario.ca/page/working-and-earning-ontario-disability-s
 - [ONSBT Appeals Guide]({{ '/guides/onsbt-complete-guide/' | relative_url }})
 
 **Research Tools:**
-- [Cross-Tribunal Success Rates](../cross-tribunal-success-rates.html)
+- [Cross-Tribunal Success Rates](/cross-tribunal-success-rates.html)
 - [WSIB Appeal Gap Analysis)
 
 ---

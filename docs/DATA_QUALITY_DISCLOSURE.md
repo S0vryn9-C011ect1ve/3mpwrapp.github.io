@@ -21,7 +21,7 @@ This document provides complete transparency about data quality, limitations, an
 - **Total Records:** 38,000+ tribunal decisions across 6 Ontario tribunals
 
 ### Alternative Sources
-- **WSIAT:** Official tribunal website (wsiat.on.ca) for supplementary data
+- **WSIAT:** Official tribunal website (wsiat.ca) for supplementary data
 - **HRTO:** Quarterly statistical reports (hrto.ca)
 - **WSIB:** Annual reports ("By The Numbers"), NEER/CAD-7 employer data
 - **OLRB:** Official tribunal website (olrb.gov.on.ca)

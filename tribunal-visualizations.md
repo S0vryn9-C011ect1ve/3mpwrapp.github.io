@@ -32,13 +32,13 @@ For ONWSIB-specific visuals and summaries, use the reconciled 2020-2026 archive 
 **What It Shows:** Appeal success rates across Ontario's three major tribunals
 
 **Key Findings:**
-- WSIAT: 68.7% success rate (99,036 decisions)
+- WSIAT: ~65-73% favorable outcomes (reported range; exploratory, not a guaranteed success rate)
 - HRTO: 2.66% proceed to final hearing (62,093 applications)
 - ONSBT: 40-60% estimated success (limited public data)
 
 **Why It Matters:** Helps you choose the right tribunal for your situation
 
-[**→ View Interactive Chart**](../cross-tribunal-success-rates.html)
+[**→ View Interactive Chart**](/cross-tribunal-success-rates.html)
 
 ---
 

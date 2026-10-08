@@ -65,7 +65,7 @@ Individual workers don't appeal employer premium rates, but if your **claim was 
 
 - **Office of the Worker Adviser (OWA):** free help for injured workers with WSIB claims and appeals — https://www.ontario.ca/page/office-of-the-worker-adviser
 - **Injured Workers Community Legal Clinic (IWC):** legal representation and research — https://iwclc.org/
-- **WSIAT:** the appeals tribunal — https://www.wsiat.on.ca
+- **WSIAT:** the appeals tribunal — https://www.wsiat.ca
 
 ---
 
@@ -94,7 +94,7 @@ Individual workers don't appeal employer premium rates, but if your **claim was 
 - SIEF policy: https://www.wsib.ca/en/operational-policy-manual/second-injury-and-enhancement-fund-sief
 - Office of the Worker Adviser: https://www.ontario.ca/page/office-of-the-worker-adviser
 - Injured Workers Community Legal Clinic: https://iwclc.org/
-- WSIAT: https://www.wsiat.on.ca
+- WSIAT: https://www.wsiat.ca
 
 ---
 

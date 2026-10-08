@@ -16,7 +16,7 @@ tags: [hand-injury, finger-injury, amputation, crush-injury, wsiat-appeal, templ
 
 This template is based on comprehensive analysis of **2,785 hand injury WSIAT appeals** from 99,036 classified decisions (2020-2026). Hand injuries represent **2.8% of all WSIAT appeals**.
 
-**Key Finding:** Of decisions with clear outcomes, **89.1% ruled in favor of workers** (350 wins vs 43 denials).
+**Key Finding:** WSIAT outcome data is complex; see wsiat.ca for current statistics.
 
 ---
 
@@ -325,7 +325,7 @@ My hand injury occurred at work, is objectively documented by surgical findings 
 ## 📊 Statistics
 
 From 99,036 classified WSIAT decisions (2020-2026):
-- **89.1% success rate** in decisions with clear outcomes
+- WSIAT outcome data is complex; see wsiat.ca for current statistics
 - Hand injuries: 2,785 appeals (2.8% of total)
 - Common winning evidence: Surgical operative report (96%), functional testing (93%), employer incident report (91%)
 
@@ -348,4 +348,4 @@ From 99,036 classified WSIAT decisions (2020-2026):
 
 **Template Version:** 1.0 (May 2026)  
 **Data Source:** 2,785 hand injury cases from 99,036 classified WSIAT decisions  
-**Success Rate:** 89.1% of clear outcomes ruled for workers
+**Success Rate:** WSIAT outcome data is complex; see wsiat.ca for current statistics

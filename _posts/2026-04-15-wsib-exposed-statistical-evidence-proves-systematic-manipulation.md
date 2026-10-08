@@ -143,7 +143,7 @@ You'll see these terms throughout this investigation. Here's what they mean in p
 | 2025 | 1,522 | 58 | 15 | 12 | 15 | 320 | 1,102 | 85.9% |
 | 2026 | 146 | 20 | 2 | 0 | 3 | 41 | 80 | 100.0% |
 
-**Key Insight:** The **85-95% worker win rate** (from clear outcomes) is consistent with WSIAT's reported 60-70% overall success rate. The difference is explained by the high percentage of unclear outcomes in our keyword-based analysis.
+**Key Insight:** Our keyword-based analysis found an **85-95% worker-win rate among the small subset of decisions with clear outcome language** (most are "unclear"). This is not a representative success rate—WSIAT's reported favorable-outcome rate is ~65-73%. The high share of unclear outcomes is itself the problem: it obscures how workers actually fare.
 
 ### Confidence Levels
 

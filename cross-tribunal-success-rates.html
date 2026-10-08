@@ -105,7 +105,20 @@
             font-weight: bold;
             fill: white;
         }
-    </style>
+    
+        /* Screen-reader-only utility for accessible table alternatives */
+        .sr-only {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            white-space: nowrap;
+            border: 0;
+        }
+</style>
 </head>
 <body>
     <div class="container">
@@ -134,7 +147,13 @@
             </div>
         </div>
         
-        <div id="visualization"></div>
+        <div id="visualization" role="img" aria-label="Bar chart comparing appellant/applicant success rates across Ontario tribunals (WSIAT, HRTO, ONSBT). A data table with the same values follows."></div>
+        <table class="sr-only" id="ctsr-data-table">
+            <caption>Cross-tribunal success rates — text alternative to the bar chart above</caption>
+            <thead><tr><th scope="col">Tribunal</th><th scope="col">Full Name</th><th scope="col">Success Rate</th><th scope="col">Total Cases</th><th scope="col">Context</th></tr></thead>
+            <tbody></tbody>
+        </table>
+
         
         <div class="legend">
             <div class="legend-item">
@@ -171,7 +190,7 @@
                 fullName: 'Workplace Safety & Insurance Appeals Tribunal',
                 successRate: 12.0,  // Keyword-detected rate (6.1% coverage, see data quality note)
                 totalCases: 98992,
-                context: 'Workers' compensation appeals - detected outcomes only',
+                context: 'Workers\' compensation appeals - detected outcomes only',
                 color: '#3498db',
                 limited: true
             },
@@ -306,6 +325,9 @@
                 .tickFormat(''))
             .style('stroke', '#e0e0e0')
             .style('stroke-opacity', 0.7);
+    </script>
+    <script>
+        (function(){try{var tb=document.getElementById('ctsr-data-table').querySelector('tbody');data.forEach(function(d){var tr=document.createElement('tr');tr.innerHTML='<td>'+d.tribunal+'</td><td>'+d.fullName+'</td><td>'+d.successRate+'%</td><td>'+d.totalCases.toLocaleString()+'</td><td>'+(d.context||'')+'</td>';tb.appendChild(tr);});}catch(e){console.error('ctsr table',e);}})();
     </script>
 </body>
 </html>

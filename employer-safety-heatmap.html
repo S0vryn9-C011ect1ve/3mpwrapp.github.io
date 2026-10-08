@@ -126,7 +126,20 @@
             font-weight: bold;
             fill: #2c3e50;
         }
-    </style>
+    
+        /* Screen-reader-only utility for accessible table alternatives */
+        .sr-only {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            white-space: nowrap;
+            border: 0;
+        }
+</style>
 </head>
 <body>
     <div class="container">
@@ -188,7 +201,13 @@
             </div>
         </div>
 
-        <div id="map" class="map-container"></div>
+        <div id="map" class="map-container" role="img" aria-label="Choropleth map of Ontario showing employer safety records by city (top 15 cities by employer count, WSIB NEER & CAD-7 programs, 2017-2020). A data table listing each city follows."></div>
+        <table class="sr-only" id="es-data-table">
+            <caption>Employer safety records by city — text alternative to the Ontario map above</caption>
+            <thead><tr><th scope="col">City</th><th scope="col">Employer Count</th><th scope="col">NEER</th><th scope="col">CAD-7</th></tr></thead>
+            <tbody></tbody>
+        </table>
+
 
         <div class="legend">
             <div class="legend-item">
@@ -305,6 +324,9 @@
             .style("font-size", "12px")
             .style("fill", "#7f8c8d")
             .text("Data: WSIB NEER & CAD-7 Reports (2017-2020) • 91,814 NEER + 38,922 CAD-7 employers");
+    </script>
+    <script>
+        (function(){try{var tb=document.getElementById('es-data-table').querySelector('tbody');Object.keys(regionalData).forEach(function(city){var d=regionalData[city];var tr=document.createElement('tr');tr.innerHTML='<td>'+city+'</td><td>'+d.count.toLocaleString()+'</td><td>'+d.neer.toLocaleString()+'</td><td>'+d.cad7.toLocaleString()+'</td>';tb.appendChild(tr);});}catch(e){console.error('es table',e);}})();
     </script>
 </body>
 </html>

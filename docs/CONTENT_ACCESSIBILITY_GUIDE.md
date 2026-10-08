@@ -95,7 +95,7 @@ Before publishing, verify:
 
 ❌ **Inaccessible Link Text:**
 - "Click [here](link)" ← Screen readers read "link, click here" (no context!)
-- "[www.wsiat.on.ca](link)" ← URLs are meaningless to screen readers
+- "[www.wsiat.ca](link)" ← URLs are meaningless to screen readers
 - "Read more" ← "More" of what?
 
 **Rules:**

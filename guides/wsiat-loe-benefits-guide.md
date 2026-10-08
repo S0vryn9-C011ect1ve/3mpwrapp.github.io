@@ -330,7 +330,7 @@ Based on our 10,838 LOE decision analysis:
 
 ## External Resources
 
-- **WSIAT Official Site:** [wsiat.on.ca](https://www.wsiat.on.ca/)
+- **WSIAT Official Site:** [wsiat.ca](https://www.wsiat.ca/)
 - **WSIB LOE Policy:** Policy 18-02-02 (LOE Calculation)
 - **Legal Aid Ontario:** Free legal assistance for low-income workers
 - **Office of the Worker Adviser (OWA):** Free legal representation for workers

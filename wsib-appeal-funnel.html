@@ -120,7 +120,20 @@
         .link:hover {
             stroke-opacity: 0.6;
         }
-    </style>
+    
+        /* Screen-reader-only utility for accessible table alternatives */
+        .sr-only {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            white-space: nowrap;
+            border: 0;
+        }
+</style>
 </head>
 <body>
     <div class="container">
@@ -152,7 +165,18 @@
             </div>
         </div>
         
-        <div id="visualization"></div>
+        <div id="visualization" role="img" aria-label="Sankey funnel of WSIB claims from registration to final outcome (annual average 2020-2025), showing the appeal gap of 139,083 workers per year. Data tables listing stages and flows follow."></div>
+        <table class="sr-only" id="funnel-nodes-table">
+            <caption>WSIB appeal funnel stages — text alternative (part 1 of 2)</caption>
+            <thead><tr><th scope="col">Stage (workers per year)</th></tr></thead>
+            <tbody></tbody>
+        </table>
+        <table class="sr-only" id="funnel-links-table">
+            <caption>WSIB appeal funnel flows — text alternative (part 2 of 2)</caption>
+            <thead><tr><th scope="col">From</th><th scope="col">To</th><th scope="col">Workers per Year</th></tr></thead>
+            <tbody></tbody>
+        </table>
+
         
         <div class="insights">
             <h3>💡 Key Insights</h3>
@@ -299,6 +323,9 @@
             })
             .attr('dy', (d, i) => i === 0 ? 0 : '1.2em')
             .text(d => d);
+    </script>
+    <script>
+        (function(){try{var tbN=document.getElementById('funnel-nodes-table').querySelector('tbody');var tbL=document.getElementById('funnel-links-table').querySelector('tbody');data.nodes.forEach(function(n){var tr=document.createElement('tr');tr.innerHTML='<td>'+n.name.replace(/\n/g,' ')+'</td>';tbN.appendChild(tr);});data.links.forEach(function(l){var s=(data.nodes[l.source].name||'').replace(/\n/g,' ');var t=(data.nodes[l.target].name||'').replace(/\n/g,' ');var tr=document.createElement('tr');tr.innerHTML='<td>'+s+'</td><td>'+t+'</td><td>'+l.value.toLocaleString()+'</td>';tbL.appendChild(tr);});}catch(e){console.error('funnel table',e);}})();
     </script>
 </body>
 </html>

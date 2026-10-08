@@ -550,7 +550,7 @@ You can file an HRTO application if discriminated against based on:
 - **Workers' Rights Clinics:** Employment/human-rights specialists
 
 ### 3mpwrApp Research Tools
-- [Cross-Tribunal Success Rates](./cross-tribunal-success-rates.html) - Compare HRTO vs WSIAT vs ONSBT
+- [Cross-Tribunal Success Rates](/cross-tribunal-success-rates.html) - Compare HRTO vs WSIAT vs ONSBT
 - [HRTO Statistical Summary) - Quarterly trends 2016-2025
 
 ### Self-Help Resources

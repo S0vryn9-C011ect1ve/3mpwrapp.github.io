@@ -71,7 +71,7 @@ question, and it's usually wrong for most people reading this.
 
 ## Injured at work — WSIAT
 
-**8 guides · built from 99,036 WSIAT decisions analysed (1987–2026)**
+**8 guides · built from 98,992 WSIAT decisions analysed (1987–2026)**
 
 The largest section, because this is where the volume of decisions sits.
 
@@ -94,12 +94,15 @@ claim number.
 
 ## Veterans
 
-**No guide, and no pages either.** We are not writing one yet.
+**1 guide.** Veterans Affairs Canada (VAC) benefits, the Pension Act vs the Veterans Well-being Act, and the VRAB appeal process.
 
-Saying this plainly rather than linking you somewhere thin: as of 2026-10-04 there is
-**no veteran content anywhere on this site** — no guide, no dedicated pages. The only
-material we hold is 17 evidence cards, and every one of them is unverified social
-media. That is not enough to write a guide someone could rely on during a claim.
+<div style="padding: 1rem; background: #f0f9ff; border-left: 4px solid #0066cc; border-radius: 4px; margin: 1rem 0;">
+<ul style="margin: 0; padding-left: 1.2rem;">
+  <li><a href="/guides/veterans-vac-benefits/">Veterans Benefits & Appeals (VAC) — Canada-wide guide</a></li>
+  <li><a href="/knowledge-base/veterans-benefits-vac-canada/">Veterans Benefits (VAC) — knowledge base</a></li>
+  <li><a href="/templates/veteran-appeal/">Veteran Appeal to VRAB — template</a></li>
+</ul>
+</div>
 
 ODSP guide and the
 <a href="/guides/wsib-to-odsp-pathway/">WSIB→ODSP pathway</a> may still apply
@@ -109,28 +112,29 @@ depending on your circumstances.
 
 ## Seniors and elders
 
-**1 guide.** Social assistance is the main income route for Ontarians over 65 who
-aren't working — and it's under-used because most people assume pension is the only
-option.
+**2 guides.** Social assistance and pension income for Ontarians 65+.
 
 <div style="padding: 1rem; background: #f0f9ff; border-left: 4px solid #0066cc; border-radius: 4px; margin: 1rem 0;">
-ODSP complete guide — Ontario Disability
-Support Program, including the path for older adults.
-<ul style="margin: 0.5rem 0 0 1.2rem;">
-  <li><a href="/guides/wsib-to-odsp-pathway/">WSIB → ODSP pathway</a> — for people
-  whose injury predates their retirement</li>
+<ul style="margin: 0; padding-left: 1.2rem;">
+  <li><a href="/guides/seniors-oas-gis-benefits/">Seniors Benefits — OAS, GIS, Allowance, CPP Disability & GAINS</a></li>
+  <li><a href="/guides/wsib-to-odsp-pathway/">WSIB → ODSP pathway</a> — for people whose injury predates their retirement</li>
+  <li><a href="/knowledge-base/seniors-benefits-canada/">Seniors Benefits (Canada) — knowledge base</a></li>
 </ul>
-<p style="margin: 0.6rem 0 0; font-size: 0.92rem;">No dedicated seniors or pension
-guide yet. We're not writing one without evidence behind it.</p>
 </div>
 
 ---
 
 ## Caregivers
 
-**Being written.** Only 2 evidence cards collected — not enough to write anything
-accurate. Not publishing a thin guide that would send someone looking for help that
-isn't there.
+**1 guide.** Caregiver benefits and supports across Canada.
+
+<div style="padding: 1rem; background: #f0f9ff; border-left: 4px solid #0066cc; border-radius: 4px; margin: 1rem 0;">
+<ul style="margin: 0; padding-left: 1.2rem;">
+  <li><a href="/guides/caregivers-benefits-canada/">Caregiver Benefits — EI Caregiving, Caregiver Credit, METC</a></li>
+  <li><a href="/knowledge-base/caregivers-support-canada/">Caregivers Support (Canada) — knowledge base</a></li>
+  <li><a href="/templates/caregiver-benefits-application/">Caregiver Benefits Application — template</a></li>
+</ul>
+</div>
 
 ---
 
@@ -141,6 +145,23 @@ isn't there.
 of Ontario: disability discrimination in employment, accommodation and dismissal.
 <ul style="margin: 0.5rem 0 0 1.2rem;">
   <li><a href="/hrto-outcome-timeline-2020-2026">HRTO outcomes 2020–2026</a> — how decisions trend over time</li>
+</ul>
+</div>
+
+---
+
+## Federal benefits & human rights
+
+**3 guides.** Federal disability programs and Canada's human-rights obligations.
+
+<div style="padding: 1rem; background: #f0f9ff; border-left: 4px solid #0066cc; border-radius: 4px; margin: 1rem 0;">
+<ul style="margin: 0; padding-left: 1.2rem;">
+  <li><a href="/guides/disability-federal-benefits/">Federal Disability Benefits & the CHRT</a> — CPP Disability, DTC, Canada Disability Benefit, RDSP</li>
+  <li><a href="/guides/uncrpd-canada-rights/">UNCRPD & Canada's Human-Rights Obligations</a></li>
+  <li><a href="/guides/human-rights-tribunals-canada/">Human Rights Tribunals in Canada (HRTO + CHRT)</a></li>
+  <li><a href="/knowledge-base/disability-federal-programs/">Federal Disability Programs — knowledge base</a></li>
+  <li><a href="/knowledge-base/human-rights-law-canada/">Human Rights & Disability Law in Canada — knowledge base</a></li>
+  <li><a href="/templates/human-rights-complaint/">Human-Rights Complaint Template (HRTO / CHRT)</a></li>
 </ul>
 </div>
 
@@ -189,7 +210,6 @@ Stated plainly so you don't waste time looking:
   has been collected**, so no guide has been written. Writing one would mean
   publishing opinions with nothing behind them.
 - **Employment Standards / Labour** — content exists, no guide yet.
-- **CPP disability** — content exists, no guide yet.
 
 We're not writing guides we can't stand behind. If one of these is what you need,
 say so — that's how the queue gets prioritised.
@@ -221,13 +241,16 @@ work rather than take it on trust.
 - [How denial tactics evolved](/temporal-evolution.html)
 - [Employer safety heatmap](/employer-safety-heatmap.html)
 
-**Full research index:** [/research/](/research) ·
-[Data sources](/research-data-sources/) · [Raw downloads](/data/)
+**Full research index:** [/research/](/research/) ·
+[Data sources](/research-data-sources/) · [Data Sources & Methodology](/docs/DATA_SOURCES_METHODOLOGY/)
+
+**Community outcomes:** [Member Wins](/wins/) — real outcomes from the community ·
+[From Pattern to Policy](/research/campaigns/) — how member evidence becomes campaigns
 
 ---
 # WSIAT Appeal Guides — full detail
 
-**Evidence-based guides built from 99,036 WSIAT decisions analyzed (1987-2026)**
+**Evidence-based guides built from 98,992 WSIAT decisions analyzed (1987-2026)**
 
 ---
 ## 🎯 Most Common Appeal Issues
@@ -319,7 +342,7 @@ We're creating additional guides based on the pattern analysis:
 
 ### Our Methodology
 
-All guides are based on **99,036 WSIAT decisions** analyzed from official CSV export data (1987-2026):
+All guides are based on **98,992 WSIAT decisions** analyzed from official CSV export data (1987-2026):
 
 1. **Pattern Extraction**: Keyword frequency analysis across 40 years
 2. **Temporal Trends**: Peak years, decision volume changes, issue evolution
@@ -392,7 +415,7 @@ Expect 12-24 month wait for WSIAT hearing in busy years.
 
 | Metric | Ontario WSIAT | BC WCAT | Ratio |
 |--------|---------------|---------|-------|
-| **Total Decisions** | 99,036 | 7,386 | 13.4:1 |
+| **Total Decisions** | 98,992 | 7,386 | 13.4:1 |
 | **Year Coverage** | 1987-2026 (40 years) | 2020-2026 (6 years) | 6.7x |
 | **Metadata** | ✅ Keywords, Summaries | ❌ 100% Unknown | ∞ |
 | **Open Data** | ✅ CSV Export | ❌ None | ∞ |
@@ -406,14 +429,14 @@ Expect 12-24 month wait for WSIAT hearing in busy years.
 ## 📚 Additional Resources
 
 ### Official Sources
-- **WSIAT Official Site:** [wsiat.on.ca](https://www.wsiat.on.ca/)
+- **WSIAT Official Site:** [wsiat.ca](https://www.wsiat.ca/)
 - **WSIAT Open Data Portal:** [wsiat.ca/en/home/opendata_decisions.html](https://www.wsiat.ca/en/home/opendata_decisions.html) - Official CSV export source
 - **WSIB Policies:** [wsib.ca/en/operational-policy-manual](https://www.wsib.ca/en/operational-policy-manual)
 - **Legal Aid Ontario:** [legalaid.on.ca](https://www.legalaid.on.ca/)
 - **Office of the Worker Adviser (OWA):** [owa.gov.on.ca](https://www.owa.gov.on.ca/)
 
 ### Data & Research
-- **WSIAT Dataset:** 99,036 decisions organized by year
+- **WSIAT Dataset:** 98,992 decisions organized by year
 - **Pattern Analysis:** Full report with charts and trends
 - **Deep Dive Report:** Advanced patterns, co-occurrence, vice-chair specialization
 - **Keyword Network Visualization:** [Interactive network graph](/connecting-the-dots-wsiat-keyword-network.html)
@@ -450,7 +473,7 @@ These guides are for **informational purposes only** and do not constitute legal
 **Content reviewed:** October 4, 2026
 
 *The figures on this page come from the WSIAT Open Data export. Statutory amounts change annually — see each guide for what is and isn't verified.*  
-**Data Source:** 99,036 WSIAT decisions (1987-2026) from [WSIAT Open Data Portal](https://www.wsiat.ca/en/home/opendata_decisions.html)  
+**Data Source:** 98,992 WSIAT decisions (1987-2026) from [WSIAT Open Data Portal](https://www.wsiat.ca/en/home/opendata_decisions.html)  
 **Analysis Depth:** 9 advanced pattern categories (keyword co-occurrence, temporal evolution, vice-chair specialization, body parts, medical specialists, policy citations, complexity, outcomes, network visualization)  
 **Next Update:** October 2026 (when new decisions published)
 
@@ -473,7 +496,7 @@ navigation, this is the full list.
 | [Complete Guide to ONWSIB: Should You Appeal WSIB's Decision?]({{ '/guides/onwsib-skip-strategy-guide/' | relative_url }}) | Guide to WSIB internal review (ONWSIB) and when workers skip directly to WSIAT for independent appeal |
 | [Back Injury Appeals Guide - WSIAT]({{ '/guides/wsiat-back-injury-appeals/' | relative_url }}) | Complete guide to back injury appeals at WSIAT. Based on 15,177 back injury decisions (15.3% of all appeals) - the #1 most common injury type. |
 | [Chronic Pain Guide - WSIAT Appeals Strategy]({{ '/guides/wsiat-chronic-pain-claims/' | relative_url }}) | Complete guide to chronic pain claims at WSIAT. Based on analysis of 7,502 decisions (1987-2026) showing chronic pain is 3rd most common appeal issue  |
-| [Complete Guide to WSIAT Appeals: Data-Driven Success Strategies]({{ '/guides/wsiat-complete-guide/' | relative_url }}) | Comprehensive guide to Workplace Safety and Insurance Appeals Tribunal (WSIAT) based on analysis of 99,036 decisions (2016-2025) |
+| [Complete Guide to WSIAT Appeals: Data-Driven Success Strategies]({{ '/guides/wsiat-complete-guide/' | relative_url }}) | Comprehensive guide to Workplace Safety and Insurance Appeals Tribunal (WSIAT) based on analysis of 98,992 decisions (2016-2025) |
 | [LOE Benefits Guide - Loss of Earnings at WSIAT]({{ '/guides/wsiat-loe-benefits/' | relative_url }}) | Complete guide to Loss of Earnings (LOE) benefits in Ontario workers' compensation. Based on analysis of 10,838 WSIAT decisions (1987-2026). |
 | [NEL Benefits Guide - Non-Economic Loss at WSIAT]({{ '/guides/wsiat-nel-benefits/' | relative_url }}) | Complete guide to Non-Economic Loss (NEL) benefits in Ontario workers' compensation. Based on analysis of 20,680 WSIAT decisions (1987-2026). |
 | [NEL + Chronic Pain Combined Strategy - WSIAT]({{ '/guides/wsiat-nel-chronic-pain-strategy/' | relative_url }}) | Complete guide to appealing NEL denials when chronic pain is involved. Based on 2,101 decisions where both issues appear together (2.12% of all appeal |

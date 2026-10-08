@@ -107,7 +107,20 @@
             fill: white;
             stroke-width: 2;
         }
-    </style>
+    
+        /* Screen-reader-only utility for accessible table alternatives */
+        .sr-only {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            white-space: nowrap;
+            border: 0;
+        }
+</style>
 </head>
 <body>
     <div class="container">
@@ -139,7 +152,13 @@
             </div>
         </div>
 
-        <div id="chart" class="chart-container"></div>
+        <div id="chart" class="chart-container" role="img" aria-label="Line chart of WSIAT appeal outcomes by year (2016-2025): appeals allowed, denied, and success rate. A data table with the same yearly values follows."></div>
+        <table class="sr-only" id="te-data-table">
+            <caption>WSIAT outcome evolution by year — text alternative to the line chart above</caption>
+            <thead><tr><th scope="col">Year</th><th scope="col">Allowed</th><th scope="col">Denied</th><th scope="col">Total Decisions</th><th scope="col">Success Rate (%)</th></tr></thead>
+            <tbody></tbody>
+        </table>
+
 
         <div class="legend">
             <div class="legend-item">
@@ -310,6 +329,9 @@
             .attr("text-anchor", "middle")
             .style("font-size", "14px")
             .text("Success Rate (%)");
+    </script>
+    <script>
+        (function(){try{var tb=document.getElementById('te-data-table').querySelector('tbody');data.forEach(function(d){var tr=document.createElement('tr');tr.innerHTML='<td>'+d.year+'</td><td>'+d.allowed+'</td><td>'+d.denied+'</td><td>'+d.total.toLocaleString()+'</td><td>'+d.successRate+'%</td>';tb.appendChild(tr);});}catch(e){console.error('te table',e);}})();
     </script>
 </body>
 </html>

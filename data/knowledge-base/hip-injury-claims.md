@@ -200,7 +200,7 @@ From our analysis of 99,036 tribunal decisions (2020-2026):
 
 > "WSIB confuses AGE AS RISK FACTOR with WORK AS CAUSE.
 >
-> ***Pasiechnyk v. WSIB* (2015) Framework:**
+> ***Pasiechnyk v. Saskatchewan (Workers' Compensation Board), [1997] 3 S.C.R. 1221 (SCC)* Framework:**
 > - Pre-existing factors (age, genetics) + work exposure = compensable IF work is SIGNIFICANT contributing factor
 > - **WSIB's burden:** Prove work was NOT significant factor
 >

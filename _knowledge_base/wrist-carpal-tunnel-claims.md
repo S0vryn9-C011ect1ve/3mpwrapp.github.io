@@ -248,7 +248,7 @@ Document ALL repetitive wrist activities:
 >
 > BUT, I did NOT develop CTS symptoms until I started working at [job] performing [repetitive tasks] for [X hours/day]. The temporal connection proves work TRIGGERED my CTS.
 >
-> Under *Pasiechnyk v. WSIB* (2015), work-related aggravation of pre-existing conditions (including predisposing factors) is compensable IF work was a significant contributing factor.
+> Under *Pasiechnyk v. Saskatchewan (Workers' Compensation Board), [1997] 3 S.C.R. 1221 (SCC), work-related aggravation of pre-existing conditions (including predisposing factors) is compensable IF work was a significant contributing factor.
 >
 > **WSIB's burden:** Prove work was NOT a significant factor. They cannot meet this burden when I developed symptoms AFTER starting a high-risk occupation."
 
@@ -283,7 +283,7 @@ Document ALL repetitive wrist activities:
 >
 > **Legal Standard:**
 > - *Decision No. 2157/09* (WSIAT): 'Repetitive strain injuries arising from cumulative workplace trauma qualify as accidents under the WSIA'
-> - *WSIA* Section 15(1) defines 'accident' to include 'chance events occasioned by physical or natural cause'
+> - *WSIA* Section 13(1) defines 'accident' to include 'chance events occasioned by physical or natural cause'
 > - Gradual onset from repetitive work = chance event = covered
 >
 > **My Occupational Exposure:**
@@ -335,7 +335,7 @@ Document ALL repetitive wrist activities:
 **Your Appeal:**
 > "WSIB confuses PREDISPOSING FACTORS with CAUSATION.
 >
-> ***Pasiechnyk v. WSIB* (2015) Standard:**
+> ***Pasiechnyk v. Saskatchewan (Workers' Compensation Board), [1997] 3 S.C.R. 1221 (SCC) Standard:**
 > - Pre-existing conditions + workplace exposure = compensable IF work was significant contributing factor
 > - WSIB must prove work was NOT significant factor (WSIB's burden)
 >

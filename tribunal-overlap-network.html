@@ -232,7 +232,20 @@
             text-anchor: middle;
             pointer-events: none;
         }
-    </style>
+    
+        /* Screen-reader-only utility for accessible table alternatives */
+        .sr-only {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            white-space: nowrap;
+            border: 0;
+        }
+</style>
 </head>
 <body>
     <div class="header">
@@ -260,7 +273,18 @@
         <button class="control-btn" onclick="resetSimulation()">Reset Layout</button>
     </div>
     
-    <div id="network-container">
+    <div id="network-container" role="img" aria-label="Network diagram of Ontario tribunal overlaps (WSIAT, ONSBT, HRTO, ONCA, ONLRB and others) showing case-volume nodes and connection links. Data tables listing nodes and links follow.">
+        <table class="sr-only" id="overlap-nodes-table">
+            <caption>Tribunal network nodes — text alternative (part 1 of 2)</caption>
+            <thead><tr><th scope="col">Tribunal</th><th scope="col">Full Name</th><th scope="col">Cases Analyzed</th><th scope="col">Category</th></tr></thead>
+            <tbody></tbody>
+        </table>
+        <table class="sr-only" id="overlap-links-table">
+            <caption>Tribunal network links — text alternative (part 2 of 2)</caption>
+            <thead><tr><th scope="col">From</th><th scope="col">To</th><th scope="col">Connection Strength (%)</th><th scope="col">Type</th><th scope="col">Label</th></tr></thead>
+            <tbody></tbody>
+        </table>
+
         <svg id="network-viz"></svg>
         
         <div class="legend">
@@ -540,6 +564,9 @@
             simulation.force('center', d3.forceCenter(newWidth / 2, height / 2));
             simulation.alpha(0.3).restart();
         });
+    </script>
+    <script>
+        (function(){try{var tbN=document.getElementById('overlap-nodes-table').querySelector('tbody');var tbL=document.getElementById('overlap-links-table').querySelector('tbody');networkData.nodes.forEach(function(n){var tr=document.createElement('tr');tr.innerHTML='<td>'+n.name+'</td><td>'+n.fullName+'</td><td>'+(n.cases?n.cases.toLocaleString():'0')+'</td><td>'+(n.category||'')+'</td>';tbN.appendChild(tr);});networkData.links.forEach(function(l){var tr=document.createElement('tr');tr.innerHTML='<td>'+l.source+'</td><td>'+l.target+'</td><td>'+l.strength+'%</td><td>'+(l.type||'')+'</td><td>'+(l.label||'')+'</td>';tbL.appendChild(tr);});}catch(e){console.error('overlap table',e);}})();
     </script>
 </body>
 </html>

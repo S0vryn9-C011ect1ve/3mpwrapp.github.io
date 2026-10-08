@@ -227,7 +227,7 @@ From our analysis of 99,036 tribunal decisions (2020-2026):
 > - Chronic instability (ankle gives way)
 > - Orthopedic surgeon recommends surgery
 >
-> ***Pasiechnyk v. WSIB* (2015): Work-related aggravation of pre-existing conditions is compensable IF work caused GREATER SEVERITY.**
+> ***Pasiechnyk v. Saskatchewan (Workers' Compensation Board), [1997] 3 S.C.R. 1221 (SCC)*: Work-related aggravation of pre-existing conditions is compensable IF work caused GREATER SEVERITY.**
 >
 > **WSIB's burden:** Prove the work incident did NOT cause greater severity.
 >

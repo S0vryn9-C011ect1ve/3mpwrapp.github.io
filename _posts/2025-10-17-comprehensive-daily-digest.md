@@ -66,7 +66,7 @@ Your complete daily briefing covering federal programs, all 13 provincial/territ
 
 ## âš–ï¸ **LEGAL UPDATES & APPEALS**
 
-- **[Ontario WSIAT Reduces Appeal Backlog by 35%](https://www.wsiat.on.ca/en/news/2025/backlog-reduction-success)** — Workplace Safety and Insurance Appeals Tribunal implements new case management system, reducing wait times from 18 to 12 months average.
+- **[Ontario WSIAT Reduces Appeal Backlog by 35%](https://www.wsiat.ca/en/news/2025/backlog-reduction-success)** — Workplace Safety and Insurance Appeals Tribunal implements new case management system, reducing wait times from 18 to 12 months average.
 
 - **[Federal Court Rules on Air Canada Accessibility Case](https://decisions.fct-cf.gc.ca/fc-cf/decisions/en/item/123456/index.do)** — Airline ordered to pay $15,000 in damages for failing to provide adequate wheelchair assistance, setting accessibility service precedent.
 

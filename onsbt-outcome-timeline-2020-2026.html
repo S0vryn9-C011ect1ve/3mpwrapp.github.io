@@ -157,7 +157,7 @@
         </div>
 
         <div class="chart-container">
-            <svg id="timeline-chart" width="100%" height="500"></svg>
+            <svg id="timeline-chart" width="100%" height="500" role="img" aria-label="Line chart of ONSBT outcomes by year (2020-2026): total decisions, clear outcomes, and unclear outcomes. A data table with the same yearly values follows this chart."></svg>
         </div>
 
         <div class="legend">
@@ -363,6 +363,9 @@
                 .enter()
                 .append("circle")
                 .attr("class", `dot dot-${type}`)
+            .attr("tabindex", 0)
+            .attr("role", "img")
+            .attr("aria-label", d => d.year + " " + (type === "total" ? "total decisions" : type === "clear" ? "clear outcomes" : "unclear outcomes") + ": " + d[type].toLocaleString())
                 .attr("cx", d => xScale(d.year))
                 .attr("cy", d => yScale(d[type]))
                 .attr("r", 5)

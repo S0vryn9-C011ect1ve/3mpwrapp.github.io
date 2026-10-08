@@ -21,7 +21,7 @@ CanLII Database: Ontario WSIB & HRTO Cases (Expanding Canada-Wide) is designed t
 - **NEW: AI-powered outcome predictions for 137,252 tribunal decisions (79% accuracy)**
 - **Database grows daily: adding cases from all provinces and territories**
 - **Goal: Complete Canada-wide coverage across all jurisdictions**
-- **90.4% overall win rate across all analyzed casesayou have strong odds**
+- **AI-predicted outcomes (79% accuracy)** for 137,252 decisions — directional estimates, not official adjudicative rates
 - **100% coverage: Every decision now has an outcome prediction**
 - **Plain-language summaries generated for every case**
 - **Winning arguments extracted and categorized by issue type**

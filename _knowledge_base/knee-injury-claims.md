@@ -339,7 +339,7 @@ From our analysis of 99,036 ONWSIAT (Ontario Workplace Safety & Insurance Appeal
 **You Say:**
 
 1. **Age + arthritis does NOT equal automatic denial:**
-   - *Pasiechnyk v. WSIB* (2015): Work-related aggravation of degenerative conditions is compensable
+   - *Pasiechnyk v. Saskatchewan (Workers' Compensation Board), [1997] 3 S.C.R. 1221 (SCC): Work-related aggravation of degenerative conditions is compensable
    - *Kriz* (2000): Pre-existing arthritis + workplace incident = covered IF greater severity proven
 
 2. **"Degenerative" and "acute" can coexist:**
@@ -400,7 +400,7 @@ From our analysis of 99,036 ONWSIAT (Ontario Workplace Safety & Insurance Appeal
 - "Normal aging" is used to dismiss work-caused worsening
 
 **Your Appeal:**
-> "WSIB's denial ignores *Kriz v. Ontario (WSIB)* (2000) and *Pasiechnyk v. WSIB* (2015). **Pre-existing osteoarthritis + workplace aggravation = compensable IF greater severity is proven.**
+> "WSIB's denial ignores *Kriz v. Ontario (WSIB)* (2000) and *Pasiechnyk v. Saskatchewan (Workers' Compensation Board), [1997] 3 S.C.R. 1221 (SCC). **Pre-existing osteoarthritis + workplace aggravation = compensable IF greater severity is proven.**
 >
 > I am NOT claiming workplace CAUSED my arthritis. I am claiming the workplace incident on [date] **AGGRAVATED my arthritis**, resulting in greater severity of symptoms and functional loss than I had before.
 >

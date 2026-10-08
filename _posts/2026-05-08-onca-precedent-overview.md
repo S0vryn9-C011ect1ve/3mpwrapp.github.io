@@ -390,7 +390,7 @@ ONCA precedents become useful when:
 ### 📚 ONCA-Specific Resources
 
 - [**ONCA Appellate Guide**](/guides/onca-appellate-guide/) - How to appeal tribunal decisions to court
-- [**ONCA in App**](https://3mpwrapp.ca/resources/articles/onca-precedent-overview) - Explore ONCA decisions interactively
+- [**ONCA Appellate Guide**](/guides/onca-appellate-guide/) - How to appeal tribunal decisions to court
 - [**ONCA Procedural Breakdown**](/data/visualizations/onca-procedural-decisions-2020-2026.json) - Decision types and trends
 
 ### ⚖️ Tribunal-Level Analysis (Start Here for Success Rates)

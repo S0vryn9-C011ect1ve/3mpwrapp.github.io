@@ -314,7 +314,7 @@ interpretation of the evidence, be ready to say what follows if you are wrong ab
 
 ## Sources and Further Reading
 
-- **WSIAT official site** — [wsiat.on.ca](https://wsiat.on.ca/) — decisions, practice
+- **WSIAT official site** — [wsiat.ca](https://wsiat.ca/) — decisions, practice
   directions, and hearing procedure
 - **WSIAT decision database** — worth reading decisions on issues similar to yours; the
   reasoning is the most useful thing they publish

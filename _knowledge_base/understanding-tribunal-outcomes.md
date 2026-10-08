@@ -141,14 +141,14 @@ Based on our analysis of **137,252 tribunal decisions** (2020-2026):
 | **Administrative** (Costs, Interim, Reconsideration) | 42,355 | **30.9%** |
 | **Other** (Settled, Deferred, Remanded) | 1,527 | **1.1%** |
 
-**Key takeaway:** Among cases that reached a final decision on the merits (not abandoned), workers won **90.4%** of the time.
+**Key takeaway:** Among the subset our model classified as decided on the merits, the **AI-predicted** worker-win rate was 90.4% — but this is a machine prediction at **79% accuracy**, not an official tribunal rate, and it excludes abandoned/administrative cases. Treat it as exploratory.
 
 ---
 
 ## 🎯 How to Use This Information
 
 ### If You're Considering an Appeal
-- **Good odds:** Historical data shows 86-100% success rates for workers who persist with proper evidence
+- **Exploratory, not guaranteed:** Our AI-predicted outcomes suggest meaningful win rates for workers who persist with proper evidence, but these are model estimates at 79% accuracy, not official rates.
 - **Biggest risk:** Abandonment (14% of cases)—stay organized and meet all deadlines
 
 ### If You're Reading a Decision
@@ -159,7 +159,7 @@ Based on our analysis of **137,252 tribunal decisions** (2020-2026):
 ### If Your Case Is Still Pending
 - **Track your deadlines:** Set reminders for document submissions, hearing dates, and response timelines
 - **Prepare for remand:** Even if tribunal sides with you, it might send it back to WSIB for reconsideration (adds 3-6 months)
-- **Settlement option:** If you're offered a settlement, compare it to your chances at tribunal (90.4% win rate)
+- **Settlement option:** If you're offered a settlement, compare it to your AI-predicted outcome (exploratory, 79% accuracy) rather than a guaranteed win rate.
 
 ---
 

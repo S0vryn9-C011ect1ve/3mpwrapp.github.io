@@ -16,7 +16,7 @@ tags: [shoulder-injury, rotator-cuff, wsiat-appeal, template, workers-comp]
 
 This template is based on comprehensive analysis of **5,295 shoulder injury WSIAT appeals** from the full dataset of 99,036 classified decisions (2020-2026). Shoulder injuries represent **5.4% of all WSIAT appeals**, making them the **#2 most common injury type** after back/spine injuries.
 
-**Key Finding:** Of the 393 WSIAT decisions with clear outcomes, **89.1% ruled in favor of workers** (350 wins vs 43 denials). This template incorporates winning strategies from successful shoulder injury appeals.
+**Key Finding:** WSIAT outcome data is complex; see wsiat.ca for current statistics. This template incorporates winning strategies from successful shoulder injury appeals.
 
 ---
 
@@ -549,7 +549,7 @@ I swear this statement is true to the best of my knowledge.
 
 From comprehensive analysis of **99,036 WSIAT decisions (2020-2026)**:
 
-- **89.1% of decisions with clear outcomes ruled in favor of workers** (350 wins vs 43 denials)
+- WSIAT outcome data is complex; see wsiat.ca for current statistics
 - Shoulder injuries represented **5.4% of all appeals** (5,295 cases)
 - Common winning arguments in shoulder cases:
   * Pre-existing degenerative changes were asymptomatic (42% of wins)
@@ -557,7 +557,7 @@ From comprehensive analysis of **99,036 WSIAT decisions (2020-2026)**:
   * Treating physician opinion outweighed IME (35% of wins)
   * Surgical findings confirmed work-relatedness (28% of wins)
 
-**Translation:** If you have medical evidence supporting work-relatedness and you appeal, you have an **89.1% chance of success** based on decisions with clear outcomes.
+**Translation:** If you have medical evidence supporting work-relatedness and you appeal, WSIAT outcome data is complex; see wsiat.ca for current statistics.
 
 ### Why Most Workers Don't Appeal (But You Should):
 
@@ -568,7 +568,7 @@ From comprehensive analysis of **99,036 WSIAT decisions (2020-2026)**:
   * Financial pressure (can't wait 6-18 months for hearing)
   * Belief that WSIB's decision is final
 
-**The Reality:** WSIAT exists precisely to provide independent review of WSIB decisions. The high success rate (89.1%) demonstrates that WSIB's initial denials are frequently overturned when independently reviewed.
+**The Reality:** WSIAT exists precisely to provide independent review of WSIB decisions. WSIAT outcome data is complex; see wsiat.ca for current statistics.
 
 ---
 
@@ -621,7 +621,7 @@ Online: www.wsiat.ca
 
 ## ⚖️ Final Reminder: You Have Rights
 
-**WSIB's denial is not the final word.** The Workplace Safety and Insurance Appeals Tribunal exists to provide independent review of WSIB decisions. With proper medical evidence and a well-structured appeal, you have an **89.1% chance of success** based on classified tribunal data.
+**WSIB's denial is not the final word.** The Workplace Safety and Insurance Appeals Tribunal exists to provide independent review of WSIB decisions. With proper medical evidence and a well-structured appeal, WSIAT outcome data is complex; see wsiat.ca for current statistics.
 
 **Don't be part of the 98.25% who never appeal.** Use this template, gather your evidence, and exercise your legal right to appeal.
 
@@ -633,7 +633,7 @@ Online: www.wsiat.ca
 
 **Template Version:** 1.0 (May 2026)  
 **Data Source:** 5,295 shoulder injury cases from 99,036 classified WSIAT decisions (2020-2026)  
-**Success Rate:** 89.1% of decisions with clear outcomes ruled in favor of workers  
+**Success Rate:** WSIAT outcome data is complex; see wsiat.ca for current statistics  
 **License:** Creative Commons BY-NC-SA 4.0 (free for personal use, attribution required)
 
 ---

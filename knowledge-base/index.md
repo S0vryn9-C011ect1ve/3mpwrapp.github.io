@@ -11,7 +11,7 @@ permalink: /knowledge-base/
 
 **Evidence-based research for injured workers, by injured workers.**
 
-Every article below is built from real tribunal decision data — not opinion. Our analysis covers **99,036 WSIB/WSIAT decisions (2020–2026)** and surfaces the patterns WSIB uses to deny claims, so you can build a stronger case.
+Every article below is built from real tribunal decision data — not opinion. Our analysis covers **98,992 WSIB/WSIAT decisions (2020–2026)** and surfaces the patterns WSIB uses to deny claims, so you can build a stronger case.
 
 > 🔎 **How to use this:** Pick your injury or situation. Each guide shows what tribunals actually look for, the denial patterns to expect, and how to respond with evidence.
 
@@ -44,6 +44,8 @@ decide a VAC claim — and a lack of WSIB coverage does not end your options.
 - [👴 Seniors & Elders — Income, Services and Your Rights](/knowledge-base/seniors-elders-supports/)
 - [🧠 All Disabilities — When the Injury Wasn't Work-Related](/knowledge-base/all-disabilities-non-work-injury-programs/)
 - [👥 Family & Caregivers — Supports for the People Caring for You](/knowledge-base/family-caregiver-supports/)
+- [👴 Seniors Benefits Canada — OAS, GIS, Allowance, CPP Disability, GAINS](/knowledge-base/seniors-benefits-canada/)
+- [👥 Caregivers Support Canada — EI Caregiving, Caregiver Credit, METC, OCO](/knowledge-base/caregivers-support-canada/)
 
 ---
 
@@ -85,6 +87,8 @@ decide a VAC claim — and a lack of WSIB coverage does not end your options.
 - [WSIB Premium Rebates — Where Your Premium Goes](/knowledge-base/wsib-premium-rebates/)
 - [Your Rights: WSIB Premium Fairness & Appeals](/knowledge-base/wsib-rebate-appeals-rights/)
 - [WSIB Safety Check — Look Up Any Employer](/knowledge-base/wsib-safety-check/)
+- [Federal Disability Programs — Quick Reference](/knowledge-base/disability-federal-programs/)
+- [Human Rights & Disability Law in Canada](/knowledge-base/human-rights-law-canada/)
 - [WSIB Strike — Appeals Paused, What Injured Workers Should Do](/knowledge-base/wsib-strike-appeals-pause/)
 - [Who Tells Your Story? The Information Asymmetry Behind WSIB](/knowledge-base/information-asymmetry-narrative-control/)
 
@@ -99,7 +103,7 @@ decide a VAC claim — and a lack of WSIB coverage does not end your options.
 
 ## 📖 About This Research
 
-- **Source:** Analysis of 99,036 WSIB/WSIAT tribunal decisions (2020–2026).
+- **Source:** Analysis of 98,992 WSIB/WSIAT tribunal decisions (2020–2026).
 - **Methodology:** See [Data Limitations & Methodology](/data-limitations/) for full transparency on how this data was collected and what it can — and cannot — tell you.
 - **Not legal advice:** These guides help you understand patterns and prepare evidence. They are not a substitute for a qualified legal or paralegal representative.
 

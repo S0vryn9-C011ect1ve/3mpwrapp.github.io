@@ -49,7 +49,7 @@ From our analysis of 99,036 ONWSIAT (Ontario Workplace Safety & Insurance Appeal
 - **Work accelerates degeneration** = occupational disease
 - **Cumulative trauma counts** = gradual onset is covered
 - **Age is not a defense** when work causes tear progression
-- *Pasiechnyk v. Ontario (Workplace Safety and Insurance Board)* (2015) - WSIB cannot deny based solely on age-related degeneration if work contributed
+- *Pasiechnyk v. Saskatchewan (Workers' Compensation Board), [1997] 3 S.C.R. 1221 (SCC)* - WSIB cannot deny based solely on age-related degeneration if work contributed
 
 ---
 
@@ -98,7 +98,7 @@ From our analysis of 99,036 ONWSIAT (Ontario Workplace Safety & Insurance Appeal
 
 **The Truth:**
 - **Repetitive strain injuries are occupational diseases** = covered
-- *Pasiechnyk* (2015) establishes work-related aggravation of degenerative conditions is compensable
+- *Pasiechnyk v. Saskatchewan (Workers' Compensation Board), [1997] 3 S.C.R. 1221 (SCC)* establishes work-related aggravation of degenerative conditions is compensable
 - No "accident" required for occupational disease claims
 
 ---
@@ -231,14 +231,14 @@ From our analysis of 99,036 ONWSIAT (Ontario Workplace Safety & Insurance Appeal
 
 **Argument Template:**
 
-> "This is an **occupational disease** claim under *WSIA* Section 15(1), not a traumatic accident claim. Ontario courts have ruled that **gradual onset injuries caused by cumulative workplace trauma are compensable** (*Decision No. 2157/09*, *Pasiechnyk v. WSIB* 2015).
+> "This is an **occupational disease** claim under *WSIA* Section 15(1), not a traumatic accident claim. Ontario courts have ruled that **gradual onset injuries caused by cumulative workplace trauma are compensable** (*Decision No. 2157/09*, *Pasiechnyk v. Saskatchewan (Workers' Compensation Board), [1997] 3 S.C.R. 1221 (SCC)*).
 >
 > My shoulder condition developed over [X months/years] of repetitive work demands (overhead reaching, forceful lifting, awkward postures). Medical evidence shows rotator cuff tears are **directly caused by these biomechanical exposures**. Age-related degeneration is irrelevant when **work is a significant contributing factor** (WSIB Policy 15-03-14).
 >
 > WSIB's denial based on 'gradual onset' contradicts the law. I respectfully request allowance under the occupational disease framework."
 
 **Key Legal Citations:**
-- *Pasiechnyk v. Ontario (WSIB)* (2015) - Work-related aggravation of degenerative conditions is compensable
+- *Pasiechnyk v. Saskatchewan (Workers' Compensation Board), [1997] 3 S.C.R. 1221 (SCC)* - Work-related aggravation of degenerative conditions is compensable
 - *Decision No. 2157/09* (WSIAT) - Repetitive strain injuries qualify as "accidents"
 - *Decision No. 1827/12* (WSIAT) - Cumulative rotator cuff trauma is covered
 - *WSIA* Section 13(1): "Disablement arising out of and in the course of employment"
@@ -255,7 +255,7 @@ From our analysis of 99,036 ONWSIAT (Ontario Workplace Safety & Insurance Appeal
 **Your Counter-Argument:**
 
 1. **Age is not a defense when work contributes:**
-   - *Pasiechnyk* (2015) explicitly rejects age-based denials if work accelerated degeneration
+   - *Pasiechnyk v. Saskatchewan (Workers' Compensation Board), [1997] 3 S.C.R. 1221 (SCC)* explicitly rejects age-based denials if work accelerated degeneration
    - "Yes, I have age-related changes, BUT my work significantly worsened them = compensable"
 
 2. **"Functional baseline" strategy:**
@@ -301,10 +301,10 @@ From our analysis of 99,036 ONWSIAT (Ontario Workplace Safety & Insurance Appeal
 **What This Actually Means:**
 - WSIB is claiming ALL degeneration = aging (ignoring work contribution)
 - They're using "degenerative changes" to deny work-accelerated conditions
-- This violates *Pasiechnyk* (2015) ruling
+- This violates *Pasiechnyk v. Saskatchewan (Workers' Compensation Board), [1997] 3 S.C.R. 1221 (SCC)* ruling
 
 **Your Appeal:**
-> "WSIB's denial based on 'degenerative changes' ignores *Pasiechnyk v. WSIB* (2015), which established that **work-related aggravation of degenerative conditions is compensable**. Yes, imaging shows degeneration, but my work (overhead reaching [X] times/shift for [Y] years) **accelerated this degeneration**, causing my current disability. WSIB must prove work was NOT a significant contributing factor—absence of work contribution is WSIB's burden, not mine."
+> "WSIB's denial based on 'degenerative changes' ignores *Pasiechnyk v. Saskatchewan (Workers' Compensation Board), [1997] 3 S.C.R. 1221 (SCC)*, which established that **work-related aggravation of degenerative conditions is compensable**. Yes, imaging shows degeneration, but my work (overhead reaching [X] times/shift for [Y] years) **accelerated this degeneration**, causing my current disability. WSIB must prove work was NOT a significant contributing factor—absence of work contribution is WSIB's burden, not mine."
 
 ---
 
@@ -467,7 +467,7 @@ From our analysis of 99,036 ONWSIAT (Ontario Workplace Safety & Insurance Appeal
 **Appeal Strategy:**
 - Medical evidence: Orthopedic surgeon opinion: "Patient's rotator cuff tear directly caused by 15 years of repetitive overhead lifting"
 - Work task analysis: Job description + coworker witness statement documenting 100+ overhead reaches/shift
-- Legal argument: *Pasiechnyk* (2015) - work-accelerated degeneration is compensable
+- Legal argument: *Pasiechnyk v. Saskatchewan (Workers' Compensation Board), [1997] 3 S.C.R. 1221 (SCC)* - work-accelerated degeneration is compensable
 - Counter aging defense: "Functional baseline was normal before this job. Tear developed AFTER 15 years of overhead work."
 
 **Outcome:**
@@ -548,7 +548,7 @@ From our analysis of 99,036 ONWSIAT (Ontario Workplace Safety & Insurance Appeal
 
 **Q: Can I claim a shoulder injury if I'm over 50?**
 
-A: **YES.** Age is not a defense if work contributed to your condition. *Pasiechnyk* (2015) explicitly rejects age-based denials. WSIB must prove work was NOT a significant factor (their burden, not yours).
+A: **YES.** Age is not a defense if work contributed to your condition. *Pasiechnyk v. Saskatchewan (Workers' Compensation Board), [1997] 3 S.C.R. 1221 (SCC)* explicitly rejects age-based denials. WSIB must prove work was NOT a significant factor (their burden, not yours).
 
 ---
 

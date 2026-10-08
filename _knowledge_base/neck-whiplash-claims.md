@@ -366,7 +366,7 @@ From our analysis of 99,036 tribunal decisions (2020-2026):
    - "Dr. [Specialist] states: 'Patient's pre-existing mild degeneration was asymptomatic. The workplace motor vehicle accident caused acute disc herniation superimposed on chronic degeneration, resulting in current radiculopathy and disability.'"
 
 **Age is NOT a defense:**
-- *Pasiechnyk* (2015): Age-related degeneration doesn't disqualify claim if work contributed
+- *Pasiechnyk v. Saskatchewan (Workers' Compensation Board), [1997] 3 S.C.R. 1221 (SCC): Age-related degeneration doesn't disqualify claim if work contributed
 - General population over 40: ~50% have asymptomatic disc degeneration
 - **Your degeneration became SYMPTOMATIC because of work = work-caused disability**
 
@@ -401,7 +401,7 @@ From our analysis of 99,036 tribunal decisions (2020-2026):
 > "Your MRI shows degenerative disc disease at C5-C6 and C6-C7. Our consultant concluded these are age-related changes predating your workplace accident. Claim denied."
 
 **Your appeal:**
-> "WSIB's denial violates *Pasiechnyk v. WSIB* (2015). Pre-existing degeneration + workplace incident = compensable IF incident caused 'greater severity.'
+> "WSIB's denial violates *Pasiechnyk v. Saskatchewan (Workers' Compensation Board), [1997] 3 S.C.R. 1221 (SCC). Pre-existing degeneration + workplace incident = compensable IF incident caused 'greater severity.'
 >
 > **Functional Baseline Before Accident:**
 > - No neck pain or functional limitations

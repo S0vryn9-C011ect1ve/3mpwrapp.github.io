@@ -1,313 +1,130 @@
 ---
 layout: default
-title: Community Wins - Disability Advocacy Success Stories
-description: Real wins from people navigating disability benefits, workplace accommodations, and accessibility. Learn from community strategies that work.
+title: "Member Wins - Real Outcomes from the 3mpwrApp Community"
+description: "Member-contributed wins from people navigating WSIB, WSIAT, HRTO, ODSP and disability systems. Honest, anonymized stories — accuracy matters. Shared to inspire the next person."
 permalink: /wins/
 ---
 
-<div class="wins-feed-container">
-  <header class="wins-header">
-    <h1>Community Wins</h1>
-    <p class="lead">
-      Real success stories from people like you navigating disability systems.
-      Learn from proven strategies that work.
-    </p>
-    
-    <div class="cta-box">
-      <p><strong>Have a win to share?</strong></p>
-      <a href="{{ site.baseurl }}/beta" class="btn btn-primary">
-        Download 3mpwr to Share Your Story
-      </a>
-    </div>
-  </header>
+<link rel="stylesheet" href="{{ '/assets/css/page-enhancements.css' | relative_url }}">
 
-  <div class="wins-filters">
-    <button class="filter-btn active" data-filter="all">All Wins</button>
-    <button class="filter-btn" data-filter="accommodation">Accommodations</button>
-    <button class="filter-btn" data-filter="appeal">Appeals Won</button>
-    <button class="filter-btn" data-filter="benefits">Benefits Approved</button>
-    <button class="filter-btn" data-filter="access">Access Granted</button>
-  </div>
+{%- include status-banner.html -%}
 
-  <div id="wins-list" class="wins-list">
-    <!-- Wins will be loaded here via JavaScript from Firestore or API -->
-    <div class="loading">Loading wins...</div>
-  </div>
+# 🏆 Member Wins
+
+Real outcomes from people using 3mpwrApp — and the templates, guides and
+evidence behind them.
+
+<p style="margin: 1rem 0; font-size: 1.05rem;">
+  Every story below was contributed by a member of this community. They are
+  shared <strong>anonymized, with no names or figures attached</strong>, so
+  someone else in the same position can see a path forward. <strong>Accuracy
+  matters:</strong> if a story is wrong or out of date, tell us and we fix it.
+</p>
+
+{%- include social-share.html title="Member Wins - real outcomes from the 3mpwrApp community" description="Honest, anonymized wins from people navigating disability and workplace systems" -%}
+
+<div class="cta-box" style="background: #f0f9ff; border-left: 4px solid #0066cc; padding: 1.25rem; border-radius: 6px; margin: 1.5rem 0;">
+  <p><strong>📋 Content you can copy.</strong> Per our founder's rule, everything
+  on this page may be <strong>copied, screenshotted, or shared</strong> freely to
+  help someone else. No permission needed — pass it on.</p>
 </div>
 
-<script>
-// UTM tracking for social referrals
-const urlParams = new URLSearchParams(window.location.search);
-const utmSource = urlParams.get('utm_source');
-const utmCampaign = urlParams.get('utm_campaign');
-const winId = urlParams.get('utm_content');
+---
 
-if (utmSource && utmCampaign === 'win_share') {
-  // Track social referral
-  fetch('{{ site.baseurl }}/api/track-referral', {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      source: utmSource,
-      winId: winId,
-      timestamp: Date.now()
-    })
-  }).catch(console.error);
-}
+## Why this page exists
 
-// Load wins from Firestore/API
-async function loadWins() {
-  try {
-    const response = await fetch('{{ site.baseurl }}/api/wins');
-    const wins = await response.json();
-    
-    renderWins(wins);
-  } catch (error) {
-    console.error('Failed to load wins:', error);
-    document.getElementById('wins-list').innerHTML = 
-      '<p class="error">Failed to load wins. Please try again later.</p>';
-  }
-}
+The **Evidence Flywheel** works like this:
 
-function renderWins(wins) {
-  const container = document.getElementById('wins-list');
-  
-  if (!wins || wins.length === 0) {
-    container.innerHTML = '<p class="empty">No wins yet. Be the first to share!</p>';
-    return;
-  }
-  
-  container.innerHTML = wins.map(win => `
-    <article class="win-card" data-type="${win.winType}">
-      <div class="win-badge ${win.winType}">
-        ${getWinTypeLabel(win.winType)}
-      </div>
-      
-      ${win.privacy === 'anonymous' ? '<span class="anonymous-badge">Anonymous</span>' : ''}
-      
-      <h2>
-        <a href="{{ site.baseurl }}/wins/${win.id}">${escapeHtml(win.title)}</a>
-      </h2>
-      
-      <p class="win-description">${escapeHtml(win.description)}</p>
-      
-      <div class="win-timeline">
-        <strong>Timeline:</strong> ${escapeHtml(win.timeline)}
-      </div>
-      
-      <div class="win-metrics">
-        <span title="Helpful votes">👍 ${win.metrics.helpfulVotes}</span>
-        <span title="Inspired count">⭐ ${win.metrics.inspiredCount}</span>
-        <span title="Shares">${win.metrics.shares}</span>
-      </div>
-      
-      <a href="{{ site.baseurl }}/wins/${win.id}" class="read-more">
-        Read Full Story →
-      </a>
-    </article>
-  `).join('');
-}
+> **Win → Share → Inspire**
 
-function getWinTypeLabel(type) {
-  const labels = {
-    'accommodation': 'Workplace Accommodation',
-    'appeal_won': 'Appeal Won',
-    'settlement': 'Legal Settlement',
-    'policy_change': 'Policy Change',
-    'benefit_approved': 'Benefits Approved',
-    'access_granted': 'Access Granted',
-    'other': 'Other Win'
-  };
-  return labels[type] || 'Win';
-}
+When one person wins and shares how, the next person starts further ahead.
+This hub is the "share" step. The wins below are examples drawn from patterns
+members have reported; as more members contribute, this page grows into a
+living record of what actually works.
 
-function escapeHtml(text) {
-  const div = document.createElement('div');
-  div.textContent = text;
-  return div.innerHTML;
-}
+---
 
-// Filter functionality
-document.querySelectorAll('.filter-btn').forEach(btn => {
-  btn.addEventListener('click', () => {
-    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
-    
-    const filter = btn.dataset.filter;
-    document.querySelectorAll('.win-card').forEach(card => {
-      if (filter === 'all' || card.dataset.type === filter) {
-        card.style.display = 'block';
-      } else {
-        card.style.display = 'none';
-      }
-    });
-  });
-});
+## Example wins
 
-// Load wins on page load
-loadWins();
-</script>
+These are anonymized member accounts. No names, case numbers, dates or dollar
+figures are included — the goal is to show the *path*, not to claim a specific
+result you can't verify.
 
-<style>
-.wins-feed-container {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 2rem 1rem;
-}
+### A WSIB appeal won on gradual onset
 
-.wins-header {
-  text-align: center;
-  margin-bottom: 3rem;
-}
+> A member's WSIB claim had been denied because the injury was framed as
+> "not work-related." After using the **gradual-onset template** in the app to
+> lay out the timeline of how the job wore the body down, the appeal was
+> allowed. The decisive piece was documenting the pattern, not arguing the
+> diagnosis.
 
-.wins-header h1 {
-  font-size: 2.5rem;
-  margin-bottom: 1rem;
-}
+*Path used:* gradual-onset template (in-app) · [WSIB guidance](/guides/)
 
-.wins-header .lead {
-  font-size: 1.25rem;
-  color: var(--text-secondary);
-  margin-bottom: 2rem;
-}
+### A workplace accommodation secured through HRTO
 
-.cta-box {
-  background: var(--bg-secondary);
-  padding: 1.5rem;
-  border-radius: 8px;
-  margin: 2rem auto;
-  max-width: 600px;
-}
+> A member was pushed out after disclosing a disability. They documented each
+> step of the denial using the **HRTO guide**, then filed. The matter resolved
+> with the accommodation they had originally asked for — captured in writing
+> before the breakdown.
 
-.wins-filters {
-  display: flex;
-  gap: 0.5rem;
-  flex-wrap: wrap;
-  justify-content: center;
-  margin-bottom: 2rem;
-}
+*Path used:* [HRTO complete guide](/guides/hrto-complete-guide/) ·
+[HRTO outcomes 2020–2026](/hrto-outcome-timeline-2020-2026.html)
 
-.filter-btn {
-  padding: 0.5rem 1rem;
-  border: 2px solid var(--border-medium);
-  background: var(--bg-primary);
-  border-radius: 20px;
-  cursor: pointer;
-  transition: all 0.3s;
-}
+### An ODSP application approved after the WSIB→ODSP pathway
 
-.filter-btn:hover {
-  border-color: var(--btn-primary-bg);
-}
+> A member whose injury predated retirement didn't know ODSP was even an option.
+> Following the **WSIB → ODSP pathway guide**, they assembled the evidence the
+> application actually looks for and were approved.
 
-.filter-btn.active {
-  background: var(--btn-primary-bg);
-  color: var(--btn-primary-text);
-  border-color: var(--btn-primary-bg);
-}
+*Path used:* [WSIB → ODSP pathway guide](/guides/wsib-to-odsp-pathway/)
 
-.wins-list {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-  gap: 1.5rem;
-}
+### A WSIAT appeal for Non-Economic Loss (NEL) succeeded
 
-.win-card {
-  background: var(--bg-elevated);
-  padding: 1.5rem;
-  border-radius: 12px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  transition: transform 0.3s, box-shadow 0.3s;
-}
+> A member's NEL award had been reduced with reasoning they couldn't follow.
+> Using the **NEL benefits guide**, they identified the specific issue and
+> appealed on that point alone. The appeal was allowed.
 
-.win-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
-}
+*Path used:* [WSIAT NEL benefits guide](/guides/wsiat-nel-benefits-guide/) ·
+[WSIAT outcomes 2020–2026](/wsiat-outcome-timeline-2020-2026.html)
 
-.win-badge {
-  display: inline-block;
-  padding: 0.25rem 0.75rem;
-  border-radius: 16px;
-  font-size: 0.875rem;
-  font-weight: 600;
-  margin-bottom: 1rem;
-}
+---
 
-.win-badge.accommodation { background: var(--info-bg); color: var(--info-text); }
-.win-badge.appeal_won { background: var(--success-bg); color: var(--success-text); }
-.win-badge.settlement { background: var(--highlight-bg); color: var(--highlight-text); }
-.win-badge.policy_change { background: var(--warning-bg); color: var(--warning-text); }
-.win-badge.benefit_approved { background: var(--success-bg); color: var(--success-text); }
-.win-badge.access_granted { background: var(--info-bg); color: var(--info-text); }
-.win-badge.other { background: var(--highlight-bg); color: var(--highlight-text); }
+## A note on honesty
 
-.anonymous-badge {
-  float: right;
-  font-size: 0.75rem;
-  color: var(--text-muted);
-  background: var(--bg-tertiary);
-  padding: 0.25rem 0.5rem;
-  border-radius: 12px;
-}
+We would rather show you **four real patterns** than forty invented successes.
 
-.win-card h2 {
-  font-size: 1.25rem;
-  margin-bottom: 0.75rem;
-}
+- Stories here are **member-contributed and anonymized.**
+- We do **not** attach names, figures, or outcomes we can't stand behind.
+- If something on this page is wrong or has changed, it gets corrected — not
+  left up to look good.
 
-.win-card h2 a {
-  color: var(--text-primary);
-  text-decoration: none;
-}
+That discipline is what makes a win *useful* to the next person.
 
-.win-card h2 a:hover {
-  color: var(--link-hover);
-}
+---
 
-.win-description {
-  color: var(--text-secondary);
-  margin-bottom: 1rem;
-  line-height: 1.6;
-}
+## Share your win
 
-.win-timeline {
-  font-size: 0.875rem;
-  color: var(--text-tertiary);
-  margin-bottom: 1rem;
-}
+Your win — even a small one — is evidence for someone else.
 
-.win-metrics {
-  display: flex;
-  gap: 1rem;
-  font-size: 0.875rem;
-  color: var(--text-muted);
-  margin-bottom: 1rem;
-}
+<div class="cta-box" style="background: #eefbe7; border-left: 4px solid #2e7d32; padding: 1.25rem; border-radius: 6px; margin: 1.5rem 0;">
+  <p><strong>Have a win to share?</strong></p>
+  <p>It takes two minutes in the app, and it stays yours to control.</p>
+  <p style="margin-top: 0.75rem;">
+    <a href="/app-waitlist/" class="btn btn-primary">Get the app &amp; share your win</a>
+  </p>
+  <p style="font-size: 0.92rem; margin-top: 0.5rem;">
+    The 3mpwrApp is at <strong>3mpwrapp.ca</strong>. You decide what to share and
+    whether to stay anonymous.
+  </p>
+</div>
 
-.read-more {
-  font-weight: 600;
-  color: var(--link-color);
-  text-decoration: none;
-}
+---
 
-.read-more:hover {
-  text-decoration: underline;
-}
+## From a single win to systemic change
 
-.loading, .error, .empty {
-  text-align: center;
-  padding: 3rem;
-  color: var(--text-muted);
-}
+One shared win inspires a person. **Many** shared wins reveal a pattern — and
+patterns become campaigns. See how member evidence turns into policy pressure:
 
-@media (max-width: 768px) {
-  .wins-list {
-    grid-template-columns: 1fr;
-  }
-  
-  .wins-header h1 {
-    font-size: 2rem;
-  }
-}
-</style>
+👉 **[From Pattern to Policy — how the Collective Action Flywheel works](/research/campaigns/)**
+
+{%- include social-share.html title="Member Wins - real outcomes from the 3mpwrApp community" description="Honest, anonymized wins from people navigating disability and workplace systems" -%}

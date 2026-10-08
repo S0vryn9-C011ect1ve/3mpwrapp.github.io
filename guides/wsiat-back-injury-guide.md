@@ -281,7 +281,7 @@ Based on deep-dive analysis:
 
 ## External Resources
 
-- **WSIAT Official Site:** [wsiat.on.ca](https://www.wsiat.on.ca/)
+- **WSIAT Official Site:** [wsiat.ca](https://www.wsiat.ca/)
 - **WSIB Chronic Pain Policy:** 18-02-14
 - **WSIB SIEF Policy:** 19-02-06
 - **AMA Guides:** Chapter 15 (Spine and Pelvis)

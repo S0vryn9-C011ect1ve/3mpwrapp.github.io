@@ -321,6 +321,19 @@
             opacity: 1;
         }
 
+        /* Screen-reader-only utility for accessible table alternatives */
+        .sr-only {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            white-space: nowrap;
+            border: 0;
+        }
+
         .tooltip-title {
             font-weight: 600;
             margin-bottom: 5px;
@@ -446,12 +459,26 @@
             </div>
         </div>
 
-        <div id="heatmap-container"></div>
+        <div id="heatmap-container" role="img" aria-label="Tribunal decision heatmap: decision volume by year and month (2020-2026)"></div>
+
+        <table class="sr-only" id="heatmap-data-table">
+            <caption>Tribunal decision volume, worker win rate, and abandonment rate by year and month — text alternative to the heatmap above</caption>
+            <thead>
+                <tr>
+                    <th scope="col">Year</th>
+                    <th scope="col">Month</th>
+                    <th scope="col">Decision Volume</th>
+                    <th scope="col">Worker Win Rate (%)</th>
+                    <th scope="col">Abandonment Rate (%)</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
 
         <div class="insights" id="insights-section">
             <h2>💡 Key Insights</h2>
             <div class="insight-box">
-                <strong>Loading insights...</strong> Select a tribunal and metric to see patterns.
+                <strong>Decision insights</strong> Use the controls above to switch tribunal and metric. Select values to see patterns, or load the COVID-19 analysis below.
             </div>
         </div>
     </div>
@@ -468,27 +495,55 @@
         let data = [];
         let covidData = null;
 
+        // Fetch with a hard timeout so the page can NEVER hang on a spinner.
+        async function fetchWithTimeout(url, ms = 10000) {
+            const controller = new AbortController();
+            const timer = setTimeout(() => controller.abort(), ms);
+            try {
+                const response = await fetch(url, { signal: controller.signal });
+                if (!response.ok) throw new Error('HTTP ' + response.status);
+                return await response.json();
+            } finally {
+                clearTimeout(timer);
+            }
+        }
+
         // Load outcome statistics
         async function loadData() {
             try {
-                const response = await fetch('/data/outcome-by-year.json');
-                const json = await response.json();
+                const json = await fetchWithTimeout('/data/outcome-by-year.json');
                 data = json.years;
                 console.log('Loaded outcome data:', data);
                 generateHeatmapData();
             } catch (error) {
                 console.error('Error loading data:', error);
+                showDataUnavailable('outcome');
             }
         }
 
         // Load COVID analysis
         async function loadCovidAnalysis() {
             try {
-                const response = await fetch('/data/covid-impact-analysis.json');
-                covidData = await response.json();
+                covidData = await fetchWithTimeout('/data/covid-impact-analysis.json');
                 displayCovidInsights();
             } catch (error) {
                 console.error('Error loading COVID analysis:', error);
+                showDataUnavailable('covid');
+            }
+        }
+
+        // Graceful, non-hanging fallback when a dataset cannot be loaded.
+        function showDataUnavailable(kind) {
+            const container = document.getElementById('heatmap-container');
+            const insights = document.getElementById('insights-section');
+            if (kind === 'outcome' && container && !container.querySelector('svg')) {
+                container.innerHTML = '<div class="insight-box" role="status" style="border-left-color:#c92a2a;">' +
+                    '<strong>Data temporarily unavailable.</strong> The decision-volume dataset could not be loaded right now. Please try again later.</div>';
+            }
+            if (kind === 'covid' && insights) {
+                insights.innerHTML = '<h2>💡 Key Insights</h2>' +
+                    '<div class="insight-box" role="status" style="border-left-color:#c92a2a;">' +
+                    '<strong>COVID-19 analysis temporarily unavailable.</strong> The COVID impact dataset could not be loaded right now.</div>';
             }
         }
 
@@ -516,11 +571,17 @@
             });
 
             createHeatmap(heatmapData);
+            updateDataTable(heatmapData);
         }
 
         // Create heatmap visualization
         function createHeatmap(heatmapData) {
             const container = document.getElementById('heatmap-container');
+            const tribunal = document.getElementById('tribunal-select').value;
+            const metric = document.getElementById('metric-select').value;
+            container.setAttribute('aria-label',
+                'Tribunal decision heatmap for ' + tribunal + ' showing ' + metric +
+                ' across years 2020 to 2026 and months January to December. A data table with the same values follows this chart.');
             container.innerHTML = '';
 
             const width = (years.length * cellSize) + margin.left + margin.right;
@@ -535,7 +596,6 @@
                 .attr('transform', `translate(${margin.left}, ${margin.top})`);
 
             // Color scale
-            const metric = document.getElementById('metric-select').value;
             const values = heatmapData.map(d => d[metric]);
             const colorScale = d3.scaleSequential()
                 .domain([d3.min(values), d3.max(values)])
@@ -646,6 +706,24 @@
             
             periodsBox.innerHTML += '</ul>';
             insightsSection.appendChild(periodsBox);
+        }
+
+        // Build an accessible text alternative (data table) from the rendered heatmap data.
+        function updateDataTable(heatmapData) {
+            const table = document.getElementById('heatmap-data-table');
+            if (!table) return;
+            const tbody = table.querySelector('tbody');
+            tbody.innerHTML = '';
+            heatmapData.forEach(d => {
+                const tr = document.createElement('tr');
+                tr.innerHTML =
+                    '<td>' + d.year + '</td>' +
+                    '<td>' + d.month + '</td>' +
+                    '<td>' + d.volume + '</td>' +
+                    '<td>' + (d.winRate !== null ? d.winRate.toFixed(1) : 'N/A') + '</td>' +
+                    '<td>' + d.abandonmentRate.toFixed(1) + '</td>';
+                tbody.appendChild(tr);
+            });
         }
 
         // Initialize

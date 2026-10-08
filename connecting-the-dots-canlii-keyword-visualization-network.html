@@ -547,7 +547,20 @@
                 border: 3px solid #000000;
             }
         }
-    </style>
+    
+        /* Screen-reader-only utility for accessible table alternatives */
+        .sr-only {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            white-space: nowrap;
+            border: 0;
+        }
+</style>
 </head>
 <body>
     <!-- Site Navigation -->
@@ -666,7 +679,13 @@
             </div>
         </div>
 
-        <div id="network-container">
+        <div id="network-container" role="img" aria-label="Keyword co-occurrence network from 98,992 tribunal decisions (2020-2026). Node size = frequency, links = co-occurrence counts. A data table of all keyword co-occurrences follows.">
+        <table class="sr-only" id="canlii-cooc-table">
+            <caption>Tribunal keyword co-occurrence counts — text alternative to the network above</caption>
+            <thead><tr><th scope="col">Keyword A</th><th scope="col">Keyword B</th><th scope="col">Co-occurrences</th></tr></thead>
+            <tbody></tbody>
+        </table>
+
             <div class="zoom-controls">
                 <button class="zoom-btn" id="zoom-in" title="Zoom In">+</button>
                 <button class="zoom-btn" id="zoom-reset" title="Reset Zoom">⟲</button>
@@ -1281,6 +1300,9 @@
         window.addEventListener('resize', () => {
             renderNetwork();
         });
+    </script>
+    <script>
+        (function(){try{var tb=document.getElementById('canlii-cooc-table').querySelector('tbody');Object.keys(coOccurrenceData).forEach(function(src){var targets=coOccurrenceData[src];Object.keys(targets).forEach(function(tgt){var tr=document.createElement('tr');tr.innerHTML='<td>'+src+'</td><td>'+tgt+'</td><td>'+targets[tgt].toLocaleString()+'</td>';tb.appendChild(tr);});});}catch(e){console.error('canlii table',e);}})();
     </script>
 </body>
 </html>

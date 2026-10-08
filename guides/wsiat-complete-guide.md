@@ -19,7 +19,7 @@ layout: guide
 - **Classification Rate:** 83.4% (9,536 cases with determined outcomes)
 - **Unknown:** 16.6% (1,894 cases remain unclear)
 - **Major Breakthrough:** Multi-pass machine learning with cross-tribunal similarity matching reduced unknown outcomes from 52.7% → 16.6%
-- **Worker Win Rate:** 89.1% from explicitly classified outcomes showing clear "appeal allowed" language
+- **Worker Win Rate (reported):** WSIAT's published statistics report roughly **65-73% favorable outcomes** for workers (see methodology note). Our internal ML-classified subset is exploratory, not a guaranteed outcome.
 - **Average Processing Time:** 18-24 months
 - **Data Source:** CanLII API + v3.0 Super Enhanced ML Classification (42,452 training cases)
 
@@ -54,8 +54,8 @@ The **Workplace Safety and Insurance Appeals Tribunal (WSIAT)** is Ontario's fin
 - **Independence:** Separate from WSIB (not bound by WSIB policies)
 - **Authority:** Can overturn WSIB decisions based on merits of evidence
 - **Cost:** **FREE** - no filing fees, legal aid available
-- **Success Rate:** **89.1% worker wins** from 393 clear outcomes (2020-2026 classified data) - **appeals demonstrably work**
-- **Data Note:** 77% of decisions have unclear outcomes in keyword analysis, but classification of 99,036 recent decisions shows consistent 85-95% yearly win rates
+- **Success Rate (reported):** WSIAT's published statistics report roughly **65-73% favorable outcomes** for workers. Our own ML-classified subset (e.g., 393 clearly-worded decisions) is too selective to be a success rate—treat it as exploratory, not a guaranteed outcome.
+- **Methodology note:** WSIAT does not publish a single official "win rate." Figures cited as ~65-73% come from FOI/WSIB published data showing 27-35% of worker appeals were denied (i.e., ~65-73% were not denied). Rates vary by claim type and evidence; see our [Data Limitations](/data-limitations/) page.
 
 ### What Can Be Appealed?
 
@@ -618,21 +618,21 @@ Subject: Narrative Medical-Legal Report - [Your Name]
 10. **Giving Up Too Early** ❌
     - Even denied claims can succeed on appeal
     - New evidence can be gathered
-    - Success rate is 68.7% - better odds than WSIB initial decision
+    - Reported success rates vary; WSIAT's published statistics indicate roughly 65-73% favorable outcomes for workers (exploratory, not a guaranteed result).
 
 ---
 
 ## Additional Resources
 
 ### Official Resources
-- **WSIAT Website:** [wsiat.on.ca](http://www.wsiat.on.ca)
+- **WSIAT Website:** [wsiat.ca](http://www.wsiat.ca)
 - **WSIAT Decisions Database:** Search 99,036+ decisions for similar cases
 - **Office of Worker Adviser:** 1-800-435-8980
 - **Office of Employer Adviser:** 1-800-387-0774
 
 ### 3mpwrApp Research Tools
 - **WSIAT Success Rate Tracker** - Real-time analysis
-- [Cross-Tribunal Success Comparison](./cross-tribunal-success-rates.html) - Compare WSIAT vs HRTO vs ONSBT
+- [Cross-Tribunal Success Comparison](/cross-tribunal-success-rates.html) - Compare WSIAT vs HRTO vs ONSBT
 - [Temporal Evolution Chart](./temporal-evolution.html) - Success rates over time
 - [Industry-Injury Matrix](./injury-industry-matrix.html) - Pattern analysis
 
@@ -644,7 +644,7 @@ Subject: Narrative Medical-Legal Report - [Your Name]
 
 ## Conclusion
 
-WSIAT is your **best chance** to overturn an unfair WSIB decision. With a **68.7% success rate**, appeals are frequently successful when proper evidence is presented.
+WSIAT is your **best chance** to overturn an unfair WSIB decision. WSIAT's published statistics indicate roughly 65-73% favorable outcomes for workers—exploratory, not a guaranteed result—and appeals can succeed with strong evidence, but outcomes vary by case.
 
 **Key Takeaways:**
 1. File within 6 months deadline

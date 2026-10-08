@@ -60,7 +60,7 @@ The **Ontario Social Benefits Tribunal (ONSBT)** is an independent tribunal that
 |---------|-------|-------|------|
 | **Jurisdiction** | ODSP/OW decisions | WSIB appeals | Discrimination |
 | **Cost** | Free | Free | Free |
-| **Success Rate** | 40-60% (est.) | 68.7% | 2.66% (hearing) |
+| **Success Rate** | 40-60% (est.) | ~65-73% (reported) | 2.66% (hearing) |
 | **Timeline** | 6-12 months | 18-24 months | 12-24 months |
 | **Legal Aid** | Yes (clinics) | Yes (OWA) | Yes (HRLSC) |
 

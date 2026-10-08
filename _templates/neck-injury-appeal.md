@@ -16,7 +16,7 @@ tags: [neck-injury, whiplash, cervical-spine, wsiat-appeal, template, workers-co
 
 This template is based on comprehensive analysis of **3,535 neck injury WSIAT appeals** from 99,036 classified decisions (2020-2026). Neck injuries represent **3.6% of all WSIAT appeals**, making them the **#3 most common injury type**.
 
-**Key Finding:** Of decisions with clear outcomes, **89.1% ruled in favor of workers** (350 wins vs 43 denials).
+**Key Finding:** WSIAT outcome data is complex; see wsiat.ca for current statistics.
 
 ---
 
@@ -323,7 +323,7 @@ The evidence overwhelmingly establishes that my cervical injury arose out of and
 ## 📊 Statistics: Why Appeals Work
 
 From 99,036 classified WSIAT decisions (2020-2026):
-- **89.1% success rate** in decisions with clear outcomes (350 wins vs 43 denials)
+- WSIAT outcome data is complex; see wsiat.ca for current statistics
 - Neck injuries: 3,535 appeals (3.6% of total)
 - Common winning evidence: Surgical findings (94%), EMG confirmation (91%), symptom-MRI correlation (88%)
 
@@ -350,4 +350,4 @@ Legal Aid Ontario: www.legalaid.on.ca/legal-clinics/ (Injured Workers' Legal Cli
 
 **Template Version:** 1.0 (May 2026)  
 **Data Source:** 3,535 neck injury cases from 99,036 classified WSIAT decisions (2020-2026)  
-**Success Rate:** 89.1% of clear outcomes ruled in favor of workers
+**Success Rate:** WSIAT outcome data is complex; see wsiat.ca for current statistics

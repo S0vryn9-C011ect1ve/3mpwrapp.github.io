@@ -55,7 +55,20 @@
             0% { transform: rotate(0deg); }
             100% { transform: rotate(360deg); }
         }
-    </style>
+    
+        /* Screen-reader-only utility for accessible table alternatives */
+        .sr-only {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            white-space: nowrap;
+            border: 0;
+        }
+</style>
     <script>
         // Fallback JavaScript redirect in case meta refresh doesn't work
         window.location.href = '/connecting-the-dots-canlii-keyword-visualization-network.html';
@@ -70,6 +83,9 @@
         <strong>Connecting the Dots CanLII Keyword Visualization Network</strong></p>
         <p>If you're not redirected automatically, <a href="/connecting-the-dots-canlii-keyword-visualization-network.html">click here</a>.</p>
     </div>
+    <script>
+        (function(){try{var tb=document.getElementById('denial-cooc-table').querySelector('tbody');if(typeof coOccurrenceData!=='undefined'){Object.keys(coOccurrenceData).forEach(function(src){var targets=coOccurrenceData[src];Object.keys(targets).forEach(function(tgt){var tr=document.createElement('tr');tr.innerHTML='<td>'+src+'</td><td>'+tgt+'</td><td>'+targets[tgt].toLocaleString()+'</td>';tb.appendChild(tr);});});}}catch(e){console.error('denial table',e);}})();
+    </script>
 </body>
 </html>
 
@@ -407,7 +423,13 @@
             </div>
         </div>
 
-        <div id="network-container"></div>
+        <div id="network-container" role="img" aria-label="Tribunal keyword network visualization (redirects to the CanLII keyword network). A data table of keyword co-occurrences follows."></div>
+        <table class="sr-only" id="denial-cooc-table">
+            <caption>Tribunal keyword co-occurrence counts — text alternative to the network above</caption>
+            <thead><tr><th scope="col">Keyword A</th><th scope="col">Keyword B</th><th scope="col">Co-occurrences</th></tr></thead>
+            <tbody></tbody>
+        </table>
+
 
         <div class="legend">
             <h3>Legend</h3>

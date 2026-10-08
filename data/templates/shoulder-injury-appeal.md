@@ -137,7 +137,7 @@ WSIB's denial based on "degenerative changes" ignores Ontario's leading case on 
 
 **Legal Standard:**
 
-*Pasiechnyk v. Ontario (Workplace Safety and Insurance Board)*, 2015 ONCA 667:
+*Pasiechnyk v. Saskatchewan (Workers' Compensation Board), [1997] 3 S.C.R. 1221 (SCC)*:
 
 > **Work-related aggravation of pre-existing degenerative conditions IS compensable** if work was a significant contributing factor.
 
@@ -174,7 +174,7 @@ WSIB's denial based on my age (age violates *Pasiechnyk* and constitutes age dis
 
 **Legal Standard:**
 
-*Pasiechnyk* (2015) explicitly rejects age-based denials:
+*Pasiechnyk v. Saskatchewan (Workers' Compensation Board), [1997] 3 S.C.R. 1221 (SCC)* explicitly rejects age-based denials:
 
 > "The presence of age-related degeneration does NOT disqualify a claim if workplace exposure contributed to the injury."
 
@@ -428,7 +428,7 @@ WSIB states: *[Quote denial: "You reported symptoms developing gradually over ti
 
 WSIB states: *[Quote: "Your MRI shows degenerative changes consistent with normal aging, not a workplace injury."]*
 
-**This violates *Pasiechnyk* (2015):**
+**This violates *Pasiechnyk v. Saskatchewan (Workers' Compensation Board), [1997] 3 S.C.R. 1221 (SCC)*:**
 
 1. ***Pasiechnyk* establishes: Work-related aggravation of degenerative conditions = compensable**
 
@@ -531,7 +531,7 @@ WSIB states: *[Quote: "The mechanism described does not involve sufficient force
   - Supervisor statements (if supportive)
 
 ☐ **Legal/Research Documents:**
-  - Copy of *Pasiechnyk v. WSIB* decision (2015 ONCA 667)
+  - Copy of *Pasiechnyk v. Saskatchewan (Workers' Compensation Board), [1997] 3 S.C.R. 1221 (SCC)* decision
   - Copy of relevant WSIAT decisions (No. 2157/09, No. 1827/12, etc.)
   - Medical research on occupational shoulder injuries
 
@@ -572,7 +572,7 @@ I respectfully request WSIAT:
 My shoulder injury is an occupational disease caused by [cumulative trauma from repetitive work / workplace accident]. WSIB's denial contradicts:
 
 - The *Workplace Safety and Insurance Act* (Section 15(1))
-- *Pasiechnyk v. WSIB* (2015) —work-aggravated degeneration is compensable
+- *Pasiechnyk v. Saskatchewan (Workers' Compensation Board), [1997] 3 S.C.R. 1221 (SCC)* —work-aggravated degeneration is compensable
 - WSIAT precedent (Decisions No. 2157/09, 1827/12)
 - Medical evidence from my treating doctors
 - Basic principles of workplace safety and fairness
@@ -627,7 +627,7 @@ My shoulder injury is an occupational disease caused by [cumulative trauma from 
 **1,391 shoulder injury cases analyzed** → Patterns extracted → This template created
 - Most common denials: "Pre-existing" (16% of shoulder cases), "chronic pain" co-occurrence (107 cases), "impairment rating" disputes (818 cases system-wide)
 - Winning arguments identified: Independent medical evidence, functional capacity evaluations, biomechanical expert opinions
-- Legal citations from successful appeals: *Pasiechnyk v. WSIB*, WSIAT Decision No. 2157/09, No. 1827/12
+- Legal citations from successful appeals: *Pasiechnyk v. Saskatchewan (Workers' Compensation Board), [1997] 3 S.C.R. 1221 (SCC)*, WSIAT Decision No. 2157/09, No. 1827/12
 
 **Example from case data:**
 > Rotator cuff tear denied as "pre-existing degenerative" → Worker appealed with biomechanical expert proving lifting mechanism caused tear → Won at tribunal citing aggravation principle

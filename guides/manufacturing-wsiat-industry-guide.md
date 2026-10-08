@@ -341,7 +341,7 @@ Based on analysis of 99,036 WSIAT decisions:
 1. **Get this guide:** everything it covers is on this page — a downloadable PDF is not available yet
 2. **Find templates:** [Manufacturing Templates) - filter by your injury type
 3. **Join community:** [3mpwrApp Community](https://3mpwrapp.ca/community/) - connect with other manufacturing workers
-4. **Get representation:** [Find free legal help](https://3mpwrapp.ca/resources/legal-clinics/)
+4. **Get representation:** [Find free legal help](https://www.legalaid.on.ca/legal-clinics/)
 5. **Report unsafe conditions:** [MOL Hotline](tel:1-877-202-0008) - anonymous reporting available
 
 ---

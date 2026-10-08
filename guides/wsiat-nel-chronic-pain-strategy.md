@@ -335,7 +335,7 @@ $78,327 × 1.00 × 0.15 = **$11,749**
 
 ## External Resources
 
-- **WSIAT Official Site:** [wsiat.on.ca](https://www.wsiat.on.ca/)
+- **WSIAT Official Site:** [wsiat.ca](https://www.wsiat.ca/)
 - **WSIB Chronic Pain Policy:** 18-02-14
 - **AMA Guides:** 6th Edition (no chronic pain chapter - that's the problem!)
 - **Budapest Criteria for CRPS:** International diagnostic standard

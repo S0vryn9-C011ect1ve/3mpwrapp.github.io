@@ -315,7 +315,7 @@ Based on our 6,876 chronic pain decision analysis:
 
 ## External Resources
 
-- **WSIAT Official Site:** [wsiat.on.ca](https://www.wsiat.on.ca/)
+- **WSIAT Official Site:** [wsiat.ca](https://www.wsiat.ca/)
 - **WSIB Chronic Pain Policy:** 18-02-14 (Chronic Pain)
 - **Canadian Pain Society:** Evidence-based pain management guidelines
 - **Legal Aid Ontario:** Free legal assistance for low-income workers

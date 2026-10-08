@@ -57,7 +57,7 @@ ONWSIB records collected by year:
 **Related Resources:**
 - [**ONWSIB Skip Strategy Guide**](/guides/onwsib-skip-strategy-guide/) - Why many workers skip internal review and go straight to WSIAT
 - [**WSIAT Full Analysis**](//research/tribunal-transparency/wsiat-vs-bc-wcat-transparency-divide/) - The independent appeals tribunal (next step after ONWSIB)
-- [**ONWSIB in App**](https://3mpwrapp.ca/resources/onwsib-analysis) - Analyze ONWSIB decisions interactively
+- [**ONWSIB Skip Strategy Guide**](/guides/onwsib-skip-strategy-guide/) - Analyze ONWSIB decisions interactively
 - [**Visualization: ONWSIB vs ONSBT Outcomes**](/data/visualizations/onsbt-onwsib-classification-2020-2026.json) - Classification breakdown
 - [**Interactive Chart: Outcome Tiers**](/data/visualizations/onsbt-onwsib-classification-2020-2026.json) - See Tier A/B/C distribution
 
@@ -276,7 +276,7 @@ The central ONWSIB issue is not speed of collection. It is **outcome completenes
 
 2. **Workplace Safety and Insurance Board (WSIB) Ontario.** About WSIB. Available at: [https://www.wsib.ca/en/about-wsib](https://www.wsib.ca/en/about-wsib)
 
-3. **Workplace Safety and Insurance Appeals Tribunal (WSIAT).** Annual Reports 2020-2025. Available at: [https://www.wsiat.on.ca/en/aboutUs/annualReports.html](https://www.wsiat.on.ca/en/aboutUs/annualReports.html)
+3. **Workplace Safety and Insurance Appeals Tribunal (WSIAT).** Annual Reports 2020-2025. Available at: [https://www.wsiat.ca/en/aboutUs/annualReports.html](https://www.wsiat.ca/en/aboutUs/annualReports.html)
 
 4. **Institute for Work & Health (IWH).** (2022). Life After Work Injury Study. Available at: [https://www.iwh.on.ca/projects/life-after-work-injury-study](https://www.iwh.on.ca/projects/life-after-work-injury-study)
 

@@ -429,7 +429,7 @@ If you answered "yes" to all three, proceed. Otherwise, your energy is better sp
 - [**ONSBT Complete Guide**]({{ '/guides/onsbt-complete-guide/' | relative_url }}) - Social benefits tribunal appeal
 - [**HRTO Complete Guide**]({{ '/guides/hrto-complete-guide/' | relative_url }}) - Human rights tribunal appeal
 - **Cross-Tribunal Comparison** - Outcome analysis for context
-- [**ONCA Precedent Overview**](https://3mpwrapp.ca/resources/articles/onca-precedent-overview) - Interactive analysis
+- [**ONCA Precedent Overview**](/blog/2026/05/08/onca-precedent-overview/) - Interactive analysis
 
 ---
 

@@ -230,7 +230,7 @@ Document repetitive motions:
 >
 > **Legal Standard:**
 > - *Decision No. 2157/09 (WSIAT):* 'Cumulative workplace trauma qualifies as accident under WSIA'
-> - *WSIA* Section 15(1): 'Accident' includes injuries from repetitive work
+> - *WSIA* Section 13(1): 'Accident' includes injuries from repetitive work
 > - **Gradual onset from repetitive work = compensable**
 >
 > **My Occupational Exposure:**

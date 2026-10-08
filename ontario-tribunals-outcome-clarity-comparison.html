@@ -163,7 +163,7 @@
         </div>
 
         <div class="chart-container">
-            <svg id="comparison-chart" width="100%" height="600"></svg>
+            <svg id="comparison-chart" width="100%" height="600" role="img" aria-label="Grouped bar chart comparing outcome clarity across five Ontario tribunals (WSIAT, ONSBT, HRTO, ONCA, ONWSIB): clear versus unclear outcomes. A data table with the same values follows this chart."></svg>
         </div>
 
         <div class="legend">
@@ -378,6 +378,8 @@
         // Unclear bars (bottom)
         barGroups.append("rect")
             .attr("class", "bar bar-unclear")
+            .attr("role", "img")
+            .attr("aria-label", d => d.tribunal + " unclear outcomes: " + d.unclear.toLocaleString() + " (" + d.percentUnclear + "% of " + d.total.toLocaleString() + ")")
             .attr("x", 0)
             .attr("y", d => yScale(d.unclear))
             .attr("width", xScale.bandwidth())
@@ -402,6 +404,8 @@
         // Clear bars (top)
         barGroups.append("rect")
             .attr("class", "bar bar-clear")
+            .attr("role", "img")
+            .attr("aria-label", d => d.tribunal + " clear outcomes: " + d.clear.toLocaleString() + " (" + d.percentClear + "% of " + d.total.toLocaleString() + ")")
             .attr("x", 0)
             .attr("y", d => yScale(d.total))
             .attr("width", xScale.bandwidth())
