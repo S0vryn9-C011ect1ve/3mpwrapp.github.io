@@ -1,8 +1,17 @@
 {
   "year": 2026,
   "version": "1.0",
-  "lastUpdated": "2026-10-08T02:30:00-04:00",
+  "lastUpdated": "2026-10-08T03:00:00-04:00",
   "entries": [
+    {
+      "id": "wn-2026-10-08-research-pipeline-all-angles",
+      "title": "🔭 Research page now shows the full pipeline + live public flywheel visual",
+      "summary": "The /research/ page gained an 'All Angles' section mapping every intake source — Reddit Daily Digest, X, Themis Justice Watch, News, and CanLII — into the evidence ledger that powers the guides, KBs and templates. Added a public flywheels-public.html visual (969 evidence cards, by community/jurisdiction/source) so visitors see the engine in action without touching the private ops dashboard.",
+      "date": "2026-10-08T03:00:00-04:00",
+      "category": "feature",
+      "repo": "website",
+      "commitSha": "pending"
+    },
     {
       "id": "wn-2026-10-08-research-hub-communities",
       "title": "🌐 Research hub expanded to every community + CanLII scraping resume",

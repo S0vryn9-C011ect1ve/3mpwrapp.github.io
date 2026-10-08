@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>3mpwrapp Flywheels — Evidence in Action</title>
+<style>
+  :root {
+    --bg: #0f1623; --card: #1a2332; --card2: #222e42; --text: #e8edf5;
+    --muted: #9fb0c8; --accent: #4ea1ff; --accent2: #7ee0a8; --warn: #ffb454;
+    --border: #2b3a52;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.55; padding: 2rem 1rem 4rem;
+  }
+  .wrap { max-width: 960px; margin: 0 auto; }
+  h1 { font-size: 1.9rem; margin: 0 0 .25rem; }
+  .sub { color: var(--muted); margin: 0 0 2rem; }
+  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 1rem; margin-bottom: 2rem; }
+  .stat { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 1.1rem; text-align: center; }
+  .stat .n { font-size: 2rem; font-weight: 800; color: var(--accent); }
+  .stat .l { color: var(--muted); font-size: .85rem; }
+  section { background: var(--card); border: 1px solid var(--border); border-radius: 14px; padding: 1.4rem 1.5rem; margin-bottom: 1.5rem; }
+  h2 { font-size: 1.2rem; margin: 0 0 1rem; border-left: 4px solid var(--accent); padding-left: .6rem; }
+  .bar { display: flex; align-items: center; gap: .75rem; margin: .5rem 0; }
+  .bar .name { width: 200px; flex-shrink: 0; color: var(--text); font-size: .9rem; }
+  .bar .track { flex: 1; background: var(--card2); border-radius: 6px; height: 22px; overflow: hidden; }
+  .bar .fill { height: 100%; background: linear-gradient(90deg, var(--accent), var(--accent2)); border-radius: 6px; }
+  .bar .val { width: 56px; text-align: right; color: var(--muted); font-variant-numeric: tabular-nums; }
+  .feed { display: grid; gap: .75rem; }
+  .card { background: var(--card2); border: 1px solid var(--border); border-radius: 10px; padding: .85rem 1rem; }
+  .card a { color: var(--accent); text-decoration: none; font-weight: 600; }
+  .card a:hover { text-decoration: underline; }
+  .tags { margin-top: .4rem; display: flex; flex-wrap: wrap; gap: .35rem; }
+  .tag { font-size: .72rem; background: #2c3a54; color: var(--muted); padding: .15rem .5rem; border-radius: 999px; }
+  .meta { color: var(--muted); font-size: .8rem; margin-top: .25rem; }
+  .note { color: var(--warn); font-size: .85rem; margin-top: .75rem; }
+  footer { color: var(--muted); font-size: .8rem; text-align: center; margin-top: 2rem; }
+  .err { color: var(--warn); padding: 1rem; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>🌀 3mpwrapp Flywheels — Evidence in Action</h1>
+  <p class="sub">A public window into how community signal becomes guides, knowledge bases, and templates.
+     Every card below started as a Reddit post, an X thread, a Themis legal watch, or a CanLII decision.</p>
+
+  <div class="stats" id="stats"><div class="stat"><div class="n">…</div><div class="l">loading</div></div></div>
+
+  <section>
+    <h2>Where the evidence comes from</h2>
+    <div id="sources"></div>
+  </section>
+
+  <section>
+    <h2>Communities served</h2>
+    <div id="communities"></div>
+  </section>
+
+  <section>
+    <h2>Jurisdictions</h2>
+    <div id="jurisdictions"></div>
+  </section>
+
+  <section>
+    <h2>CanLII verification status</h2>
+    <div id="canlii"></div>
+    <p class="note">CanLII verification is currently paused — social-evidence cards are tagged <code>unverified_social</code> until cross-checked against tribunal records.</p>
+  </section>
+
+  <section>
+    <h2>Latest findings</h2>
+    <div class="feed" id="feed"></div>
+  </section>
+
+  <footer id="footer">Public snapshot · sourced from the 3mpwrapp evidence ledger.</footer>
+</div>
+
+<script>
+const SRC_LABELS = {
+  reddit: "Reddit Daily Digest", x: "X (Twitter)", themis_justice_watch: "Themis — Justice Watch",
+  "wsib-research-dossier": "WSIB Research Dossier", manual_curation: "Manual Curation"
+};
+const pretty = s => s.replace(/_/g, " ").replace(/\b\w/g, c => c.toUpperCase());
+
+function bar(name, val, max) {
+  const pct = max ? (val / max * 100) : 0;
+  return `<div class="bar"><div class="name" title="${name}">${name}</div>`
+    + `<div class="track"><div class="fill" style="width:${pct}%"></div></div>`
+    + `<div class="val">${val}</div></div>`;
+}
+
+function render(d) {
+  // stats
+  const stats = [
+    ["Total cards", d.total],
+    ["Verified", d.verified],
+    ["Communities", Object.keys(d.by_community).length],
+    ["Jurisdictions", Object.keys(d.by_jurisdiction).length],
+    ["Sources", Object.keys(d.by_source).length]
+  ];
+  document.getElementById("stats").innerHTML = stats.map(([l, n]) =>
+    `<div class="stat"><div class="n">${n}</div><div class="l">${l}</div></div>`).join("");
+
+  // sources
+  const smax = Math.max(...Object.values(d.by_source));
+  document.getElementById("sources").innerHTML = Object.entries(d.by_source)
+    .sort((a, b) => b[1] - a[1])
+    .map(([k, v]) => bar(SRC_LABELS[k] || k, v, smax)).join("");
+
+  // communities
+  const cmax = Math.max(...Object.values(d.by_community));
+  document.getElementById("communities").innerHTML = Object.entries(d.by_community)
+    .sort((a, b) => b[1] - a[1])
+    .map(([k, v]) => bar(pretty(k), v, cmax)).join("");
+
+  // jurisdictions
+  const jmax = Math.max(...Object.values(d.by_jurisdiction));
+  document.getElementById("jurisdictions").innerHTML = Object.entries(d.by_jurisdiction)
+    .sort((a, b) => b[1] - a[1])
+    .map(([k, v]) => bar(k, v, jmax)).join("");
+
+  // canlii
+  const camax = Math.max(...Object.values(d.canlii_status));
+  document.getElementById("canlii").innerHTML = Object.entries(d.canlii_status)
+    .sort((a, b) => b[1] - a[1])
+    .map(([k, v]) => bar(pretty(k), v, camax)).join("");
+
+  // feed
+  document.getElementById("feed").innerHTML = (d.recent || []).map(c => {
+    const tags = [...(c.communities || []).map(pretty), c.jurisdiction, ...(c.flywheels || [])]
+      .map(t => `<span class="tag">${t}</span>`).join("");
+    const link = c.url ? `<a href="${c.url}" target="_blank" rel="noopener">${c.title || "(untitled)"}</a>`
+                       : `<span>${c.title || "(untitled)"}</span>`;
+    return `<div class="card">${link}<div class="meta">${SRC_LABELS[c.source] || c.source} · ${c.date || ""}</div>`
+      + `<div class="tags">${tags}</div></div>`;
+  }).join("");
+
+  document.getElementById("footer").textContent =
+    `Public snapshot generated ${d.generated} · sourced from the 3mpwrapp evidence ledger (${d.total} cards). The live ops dashboard is private to the operator.`;
+}
+
+fetch("/assets/data/flywheels-snapshot.json")
+  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then(render)
+  .catch(e => {
+    document.getElementById("stats").innerHTML =
+      `<div class="err">Could not load flywheel snapshot (${e.message}). The page may be viewed offline.</div>`;
+  });
+</script>
+</body>
+</html>
