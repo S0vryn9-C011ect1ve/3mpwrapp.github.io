@@ -140,7 +140,7 @@ function render(d) {
   }).join("");
 
   document.getElementById("footer").textContent =
-    `Public snapshot generated ${d.generated} · sourced from the 3mpwrapp evidence ledger (${d.total} cards). The live ops dashboard is private to the operator.`;
+    `Public snapshot generated ${d.generated} · sourced from the 3mpwrapp evidence ledger (${d.total} cards).`;
 }
 
 fetch("/assets/data/flywheels-snapshot.json")
