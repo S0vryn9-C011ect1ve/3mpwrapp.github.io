@@ -17,8 +17,8 @@
     "procedural": 2151,
     "unclear": 8806,
     "clearOutcomes": 393,
-    "winRate": 89.1,
-    "winRateNote": "Calculated from 393 decisions with clear outcomes (allowed + partial vs denied)"
+    "winRate": 73.5,
+    "winRateNote": "Canonical favorable rate 73.5% (438/596 from 649 classified decisions, keyword-inferred — not an official WSIAT rate). 89.1% was a retracted subset figure."
   },
   "outcomeDistribution": [
     { "outcome": "Unclear", "count": 8806, "percentage": 77.0, "description": "No clear outcome language detected" },
@@ -158,10 +158,10 @@
     }
   },
   "keyInsights": [
-    "89.1% worker win rate from clear outcomes (350 wins / 393 decisions)",
+    "73.5% favorable outcomes (438/596 from 649 classified decisions, keyword-inferred — not an official WSIAT rate)",
     "77% of decisions have unclear outcomes despite keyword classification",
-    "Consistent 85-95% win rate across all years (2020-2026)",
-    "Only 43 denials detected vs 350 wins (8.1x more wins than losses)",
+    "Favorable outcome rate ~73.5% (438/596 from 649 classified, keyword-inferred; CanLII lacks structured outcome labels)",
+    "Keyword-inferred favorable outcomes substantially exceed denials in classified subsets (canonical 73.5%, 438/596 from 649 classified)",
     "18.8% of cases are procedural matters (not substantive appeals)",
     "54.3% of classifications have low confidence (ambiguous language)"
   ],

@@ -52,7 +52,7 @@ permalink: /knowledge-base/outcome-prediction-accuracy/
 ### Low Confidence (<60% probability)
 - **What we show:** "Outcome unknown" or no prediction displayed
 - **Example:** "Allowed (48% confidence)" = AI is guessing—don't trust it
-- **Not deployed:** 99,036 WSIAT decisions (2020-2026) flagged low-confidence
+- **Not deployed:** 98,992 WSIAT decisions (2020-2026) flagged low-confidence
 
 ---
 
@@ -148,7 +148,7 @@ permalink: /knowledge-base/outcome-prediction-accuracy/
 ## Ongoing Improvements
 
 ### What We're Doing to Increase Accuracy
-1. **Requesting official outcome data from WSIAT** (covers 99,036 low-confidence cases)
+1. **Requesting official outcome data from WSIAT** (covers 98,992 low-confidence cases)
 2. **Adding full decision text** (when available) instead of keywords only
 3. **Retraining model quarterly** as new decisions are published
 4. **Integrating user feedback** ("Was this prediction accurate?") to identify weak spots

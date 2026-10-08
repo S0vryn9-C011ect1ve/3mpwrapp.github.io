@@ -14,7 +14,7 @@ tags: [knee-injury, meniscus, acl-tear, wsiat-appeal, template, workers-comp]
 
 ## 📊 Evidence-Based Template
 
-This template is based on comprehensive analysis of **3,162 knee injury WSIAT appeals** from the full dataset of 99,036 classified decisions (2020-2026). Knee injuries represent **3.2% of all WSIAT appeals**, making them the **#5 most common injury type**.
+This template is based on comprehensive analysis of **3,162 knee injury WSIAT appeals** from the full dataset of 98,992 classified decisions (2020-2026). Knee injuries represent **3.2% of all WSIAT appeals**, making them the **#5 most common injury type**.
 
 **Key Finding:** WSIAT outcome data is complex; see wsiat.ca for current statistics. This template incorporates winning strategies from successful knee injury appeals.
 
@@ -337,7 +337,7 @@ Medical literature confirms that seemingly minor mechanisms can cause severe kne
 
 ## 📊 Statistics: Why Appeals Work
 
-From 99,036 classified WSIAT decisions (2020-2026):
+From 98,992 classified WSIAT decisions (2020-2026):
 - WSIAT outcome data is complex; see wsiat.ca for current statistics
 - Knee injuries: 3,162 appeals (3.2% of total)
 - Common winning arguments: Surgical findings (92%), temporal relationship (88%), asymptomatic pre-existing (85%)
@@ -362,5 +362,5 @@ From 99,036 classified WSIAT decisions (2020-2026):
 **Disclaimer:** Educational purposes only, not legal advice. Consult community legal clinic for case-specific guidance.
 
 **Template Version:** 1.0 (May 2026)  
-**Data Source:** 3,162 knee injury cases from 99,036 classified WSIAT decisions (2020-2026)  
+**Data Source:** 3,162 knee injury cases from 98,992 classified WSIAT decisions (2020-2026)  
 **Success Rate:** WSIAT outcome data is complex; see wsiat.ca for current statistics

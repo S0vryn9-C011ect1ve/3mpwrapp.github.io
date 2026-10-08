@@ -65,7 +65,7 @@
   },
   "analysisGoals": {
     "claimFunnel": "Registered → Allowed → Denied → WSIAT Appeals → Suppression Gap",
-    "crossTribunal": "WSIAT vs HRTO abandonment rates (0.5% vs 73.5%)",
+    "crossTribunal": "WSIAT vs HRTO abandonment rates (WSIAT ~0.5% vs HRTO 43.9% from 4,073/9,269 classified)",
     "bodyPartValidation": "WSIB body part data vs WSIAT body part patterns",
     "mentalStressSuppression": "Mental stress claims vs WSIAT PTSD appeals (159)",
     "fatalClaimsSuppression": "Fatal investigations vs WSIAT fatal appeals",

@@ -1078,8 +1078,8 @@
     },
     {
       "id": "wn-site-2026-09-16-canlii-audit",
-      "title": "CANLII research updated — 99,036 WSIAT cases, BC WCAT data recovered",
-      "summary": "Fixed research page numbers: WSIAT cases updated from 98,992 to 99,036. BC WCAT data that was lost in laptop failure has been recovered — 7,386 decisions now committed and verifiable.",
+      "title": "CANLII research updated — 98,992 WSIAT cases, BC WCAT data recovered",
+      "summary": "Fixed research page numbers: WSIAT cases updated from 98,992 to 98,992. BC WCAT data that was lost in laptop failure has been recovered — 7,386 decisions now committed and verifiable.",
       "date": "2026-09-16T23:59:00-04:00",
       "category": "improvement",
       "repo": "website",
@@ -2528,8 +2528,8 @@
     },
     {
       "id": "wn-2026-04-16-258df0",
-      "title": "✨ Update 4 existing KB articles with new 99,036-case statistics (low-back 390 case...",
-      "summary": "Update 4 existing KB articles with new 99,036-case statistics (low-back 390 cases, fibro 88, mental health 611, impairment 818).",
+      "title": "✨ Update 4 existing KB articles with new 98,992-case statistics (low-back 390 case...",
+      "summary": "Update 4 existing KB articles with new 98,992-case statistics (low-back 390 cases, fibro 88, mental health 611, impairment 818).",
       "date": "2026-04-16T01:09:08.000Z",
       "category": "feature",
       "repo": "site",

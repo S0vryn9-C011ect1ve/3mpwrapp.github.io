@@ -80,7 +80,7 @@ personalized: true
     </p>
     <div style="margin: 1.5rem 0; padding: 1rem; background: rgba(0,0,0,0.3); border-radius: 8px; display: inline-block;">
       <p style="margin: 0; font-weight: 600; font-size: 1.1rem;">
-        <span aria-hidden="true">🚀</span> 134,920 cases analyzed (99,036 WSIAT + 35,928 other tribunals) &nbsp;|&nbsp; <span aria-hidden="true">📊</span> 500+ keyword patterns &nbsp;|&nbsp; <span aria-hidden="true">🔗</span> Live interactive D3.js network &nbsp;|&nbsp; <span aria-hidden="true">🕸️</span> Flywheel-connected &nbsp;|&nbsp; <span aria-hidden="true">📚</span> Guides &amp; KBs linked
+        <span aria-hidden="true">🚀</span> 134,920 cases analyzed (98,992 WSIAT + 35,928 other tribunals) &nbsp;|&nbsp; <span aria-hidden="true">📊</span> 500+ keyword patterns &nbsp;|&nbsp; <span aria-hidden="true">🔗</span> Live interactive D3.js network &nbsp;|&nbsp; <span aria-hidden="true">🕸️</span> Flywheel-connected &nbsp;|&nbsp; <span aria-hidden="true">📚</span> Guides &amp; KBs linked
       </p>
     </div>
     <div style="margin-top: 1.5rem; display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">

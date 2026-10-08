@@ -30,7 +30,7 @@ We just completed our BC tribunal data collection, and the results are worse tha
 
 | Tribunal | Province | Cases | Unknown Outcomes | Rate |
 |----------|----------|-------|------------------|------|
-| **WSIAT** | Ontario | 99,036 | 10,491 | **91.8%** |
+| **WSIAT** | Ontario | 98,992 | 10,491 | **91.8%** |
 | **BC WCAT** | British Columbia | 7,386 | 7,386 | **100.0%** ⚠️ |
 | **ONWSIB** | Ontario | 120 | 112 | **93.3%** |
 | **ONSBT** | Ontario | 818 | 780 | **95.4%** |
@@ -427,7 +427,7 @@ That's why we're building 3mpwrApp. That's why we're fighting for data access. T
 
 **Tribunal Data & Transparency:**
 - Feature Spotlight: CanLII Database - Ontario WSIB & HRTO Cases (Expanding Canada-Wide) - Searchable database of 34,928+ tribunal decisions with AI-powered outcome predictions
-- Cross-Tribunal Comparison: HRTO's 73.5% Abandonment vs WSIAT's 65-73% Worker Success - Why do human rights cases fail when workers' comp cases succeed?
+- Cross-Tribunal Comparison: HRTO's 43.9% Abandonment (4,073/9,269) vs WSIAT's 73.5% Worker Success (438/596 from 649 classified, keyword-inferred) - Why do human rights cases fail when workers' comp cases succeed?
 - [HRTO Abandonment Analysis: Email Issues in 70.1% of Abandoned Cases](/human-rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/) - Digital barriers blocking vulnerable claimants from justice
 
 **Claim Suppression Research:**

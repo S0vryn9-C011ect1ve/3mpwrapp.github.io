@@ -1,8 +1,17 @@
 {
   "year": 2026,
   "version": "1.0",
-  "lastUpdated": "2026-10-08T08:30:00-04:00",
+  "lastUpdated": "2026-10-08T09:15:00-04:00",
   "entries": [
+    {
+      "id": "wn-2026-10-08-sitewide-numbers-winrate-sweep",
+      "title": "🔢 Site-wide number + win-rate reconciliation",
+      "summary": "Full sweep: every retired 99,036 WSIAT count → 98,992 across 161 content files (KB, guides, posts, blog, docs). Win-rate contradictions reconciled to the canonical evidence-based figure — WSIAT favorable 73.5% (438/596 from 649 classified, keyword-inferred; not an official WSIAT rate); HRTO allowed 5.4% (503/9,269, VERIFIED); HRTO abandonment 43.9% (4,073/9,269, VERIFIED). Retracted 89.1% / 0.7% 'applicant victory' and the mislabeled '73.5% HRTO abandonment' removed from all visualization/data JSON and the blog. Source-of-truth doc and historical whats-new changelog intentionally retained.",
+      "date": "2026-10-08T09:15:00-04:00",
+      "category": "improvement",
+      "repo": "website",
+      "commitSha": "pending"
+    },
     {
       "id": "wn-2026-10-08-research-winrate-reconcile",
       "title": "📊 Win-rate reconciliation + 98,992 corrections",

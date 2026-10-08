@@ -1,8 +1,8 @@
 # WSIAT Deep Dive Analysis Report
-## Super Detective Mode 🕵️ - 99,036 Decisions
+## Super Detective Mode 🕵️ - 98,992 Decisions
 
 **Generated:** 2026-04-30  
-**Total Decisions:** 99,036  
+**Total Decisions:** 98,992  
 **Analysis Depth:** 9 advanced pattern categories  
 **Data Source:** [WSIAT Open Data Portal](https://www.wsiat.ca/en/home/opendata_decisions.html) - Official CSV export
 

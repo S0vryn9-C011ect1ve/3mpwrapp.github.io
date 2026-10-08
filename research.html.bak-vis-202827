@@ -1,0 +1,684 @@
+---
+layout: default
+title: Research - Data Analysis & Tribunal Decision Database
+description: Interactive visualizations and analysis of 230,000+ tribunal decisions. Evidence-based advocacy tools for workers' compensation appeals.
+---
+
+<style>
+  .research-hero {
+    background: linear-gradient(135deg, #0066cc 0%, #004d99 100%);
+    color: #ffffff;
+    padding: 3rem 2rem;
+    border-radius: 12px;
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .research-hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: #ffffff;
+  }
+  
+  .research-hero p {
+    font-size: 1.2rem;
+    max-width: 800px;
+    margin: 0 auto 1.5rem;
+    opacity: 0.95;
+  }
+  
+  .milestone-badge {
+    background: #4caf50;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 1rem;
+  }
+  
+  .milestone-badge {
+    background: #4caf50;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 1rem;
+  }
+  
+  .cta-buttons {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 1.5rem;
+  }
+  
+  .btn-primary {
+    background: #ffffff;
+    color: #004d99;
+    padding: 0.9rem 2rem;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1.05rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    transition: all 0.3s;
+  }
+  
+  .btn-secondary {
+    background: transparent;
+    color: #ffffff;
+    border: 2px solid rgba(255,255,255,0.7);
+    padding: 0.9rem 2rem;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1.05rem;
+    transition: all 0.3s;
+  }
+  
+  .btn-primary:hover, .btn-secondary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  }
+  
+  .info-box {
+    background: #f0f7ff;
+    border-left: 4px solid #0066cc;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  
+  .info-box strong {
+    color: #003d7a;
+  }
+  
+  .info-box a {
+    color: #003d7a;
+    text-decoration: underline;
+  }
+  
+  .section-box {
+    border: 3px solid #2e7d32;
+    border-radius: 12px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    background: #f1f8e9;
+  }
+  
+  .section-box h2 {
+    margin-top: 0;
+    color: #1b5e20;
+    font-size: 1.5rem;
+  }
+  
+  .section-box p {
+    color: #1b5e20;
+  }
+  
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 1.2rem;
+    margin-top: 1.5rem;
+  }
+  
+  .card {
+    background: #ffffff;
+    padding: 1.5rem;
+    border-radius: 8px;
+    border-left: 4px solid #4caf50;
+  }
+  
+  .card h3 {
+    margin-top: 0;
+    font-size: 1.1rem;
+    color: #1b5e20;
+  }
+  
+  .card p {
+    font-size: 0.95rem;
+    color: #333333;
+    margin-bottom: 1rem;
+  }
+  
+  .card ul {
+    margin: 0 0 0 1.2rem;
+    font-size: 0.95rem;
+    color: #333333;
+  }
+  
+  .card a {
+    color: #0066cc;
+    text-decoration: underline;
+  }
+  
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+  }
+  
+  .stat-box {
+    background: #1e40af;
+    color: #ffffff;
+    padding: 1.5rem;
+    border-radius: 8px;
+    text-align: center;
+    border: 2px solid #1e3a8a;
+  }
+  
+  .stat-number {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  .methodology-section {
+    background: #ffffff;
+    border: 2px solid #e0e0e0;
+    border-radius: 12px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .visualization-card {
+    background: #ffffff;
+    border: 2px solid #e0e0e0;
+    border-radius: 12px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    transition: all 0.3s;
+  }
+  
+  .visualization-card:hover {
+    border-color: #667eea;
+    box-shadow: 0 8px 24px rgba(102, 126, 234, 0.15);
+    transform: translateY(-2px);
+  }
+  
+  .badge {
+    display: inline-block;
+    padding: 0.4rem 0.8rem;
+    background: #3949ab;
+    color: #ffffff;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .badge-green {
+    background: #005a00;
+  }
+  
+  .badge-purple {
+    background: #5a189a;
+  }
+  
+  .badge-orange {
+    background: #e65100;
+  }
+  
+  @media (prefers-color-scheme: dark) {
+    .info-box {
+      background: #142133;
+      border-left-color: #9ecbff;
+    }
+    
+    .info-box strong {
+      color: #9ecbff;
+    }
+    
+    .info-box a {
+      color: #9ecbff;
+      text-decoration: underline;
+    }
+    
+    .section-box {
+      background: #1a2e1a;
+      border-color: #4caf50;
+    }
+    
+    .section-box h2 {
+      color: #81c784;
+    }
+    
+    .section-box p {
+      color: #e0e0e0;
+    }
+    
+    .card {
+      background: #1a1a1a;
+      color: #e0e0e0;
+      border-left-color: #81c784;
+    }
+    
+    .card h3 {
+      color: #81c784;
+    }
+    
+    .card p, .card li {
+      color: #d0d0d0;
+    }
+    
+    .card a {
+      color: #4DB8FF;
+    }
+    
+    .methodology-section,
+    .visualization-card {
+      background: #1a1a1a;
+      color: #e0e0e0;
+      border-color: #444;
+    }
+  }
+  
+  /* High Contrast Mode - Enhanced Readability */
+  @media (prefers-contrast: high) {
+    .research-hero {
+      background: #000000;
+      color: #ffffff;
+      border: 3px solid #ffffff;
+    }
+    
+    .btn-primary {
+      background: #ffff00;
+      color: #000000;
+      border: 3px solid #000000;
+    }
+    
+    .btn-secondary {
+      background: #000000;
+      color: #ffffff;
+      border: 3px solid #ffffff;
+    }
+    
+    .info-box {
+      background: #000000;
+      color: #ffffff;
+      border: 3px solid #ffffff;
+    }
+    
+    .info-box strong,
+    .info-box a {
+      color: #ffff00;
+      font-weight: 700;
+    }
+    
+    .section-box {
+      background: #000000;
+      color: #ffffff;
+      border: 3px solid #ffffff;
+    }
+    
+    .section-box h2,
+    .section-box p {
+      color: #ffffff;
+    }
+    
+    .card {
+      background: #000000;
+      color: #ffffff;
+      border: 3px solid #ffffff;
+    }
+    
+    .card h3,
+    .card p,
+    .card li {
+      color: #ffffff;
+    }
+    
+    .card a {
+      color: #ffff00;
+      text-decoration: underline;
+    }
+    
+    .stat-box {
+      background: #000000;
+      color: #ffffff;
+      border: 3px solid #ffffff;
+    }
+    
+    .methodology-section,
+    .visualization-card {
+      background: #000000;
+      color: #ffffff;
+      border: 3px solid #ffffff;
+    }
+    
+    .badge {
+      background: #ffff00;
+      color: #000000;
+      border: 2px solid #000000;
+    }
+  }
+  
+  @media (prefers-reduced-motion: reduce) {
+    .visualization-card, .btn-primary, .btn-secondary {
+      transition: none;
+    }
+    
+    .visualization-card:hover, .btn-primary:hover, .btn-secondary:hover {
+      transform: none;
+    }
+  }
+</style>
+
+<div class="research-hero">
+  <span class="milestone-badge">🎉 v3.0 Complete: 85.1% Ontario Classification</span>
+  <h1>We Analyzed 230,392 Records.<br>Here's What It Means for You.</h1>
+  <p>
+    People win appeals when they understand what's required and have the right evidence. Denials follow a playbook.
+    We turned four years of tribunal data into tools you can use right now — for injured workers, persons with disabilities, and anyone navigating these systems. <strong>Ontario v3.0 complete May 15, 2026: 50,161 cases, 85.1% classified.</strong>
+  </p>
+  <div class="cta-buttons">
+    <a href="#advocacy-tools" class="btn-primary">I Need Help Now</a>
+    <a href="#data-visualizations" class="btn-secondary">Explore the Data</a>
+  </div>
+</div>
+
+<div class="info-box">
+  <p style="margin: 0; line-height: 2;">
+    <strong>Data Transparency:</strong>
+    Proven data clearly labelled | Inferred patterns disclosed upfront | Win rates are estimated from classified decisions only (91.8% of WSIAT decisions lack clear outcome metadata) | All code and data open source
+    <a href="#methodology" style="font-weight: 600;">See full methodology</a>
+  </p>
+</div>
+
+<div class="info-box" style="border-left-color: #ff9800; background: #fff3e0;">
+  <p style="margin: 0; line-height: 1.8; color: #212121;"><strong>📋 Accuracy Audit — 2026-07-20 (post laptop-failure recovery):</strong>
+  Figures on this page were reviewed against the recovered Ontario scrape. The headline <strong>230,392 = 127,600 tribunal decisions + 102,792 employer records</strong> (raw, pre-dedupe; the Ontario tribunal figure is itself the sum of WSIAT 99,036 + HRTO 9,269 + ONSBT 13,798 + ONWSIB 463 + ONCA 5,034). Outcome classification covers only ~12–15% of tribunal decisions (CanLII API lacks structured outcome labels — outcomes are keyword-inferred). <strong>BC WCAT collection was recovered and committed (7,386 decisions, 2020–2026) — verifiable; outcomes remain keyword-inferred.</strong> Cross-post success-rate figures should be treated as exploratory, not definitive. Per-tribunal curated sizes: WSIAT 98,992 · HRTO 62,093 (9,269 classified) · ONSBT 13,798 · ONCA 5,034.</p>
+</div>
+
+<div id="advocacy-tools" class="section-box">
+  <h2>Start Here If You Need Help</h2>
+  <p style="font-size: 1.05rem; margin-bottom: 1.5rem;">
+    Injured, denied, or helping someone who is? Go straight to the tools. Skip the data.
+  </p>
+  
+  <div class="card-grid">
+    <div class="card">
+      <h3>I Got Denied - I Need to Appeal</h3>
+      <p>You need a strategy now. Start with the guide built from 99,036 real decisions.</p>
+      <ul>
+        <li><a href="/guides/wsiat-complete-guide/">WSIAT Complete Appeal Guide</a></li>
+        <li><a href="/templates/pre-existing-appeal/">Pre-Existing Condition Template</a></li>
+        <li><a href="/templates/chronic-pain-appeal/">Chronic Pain Appeal Template</a></li>
+        <li><a href="/templates/back-injury-appeal/">Back Injury Appeal Template</a></li>
+      </ul>
+    </div>
+    
+    <div class="card">
+      <h3>I Want to Understand What's Happening</h3>
+      <p>See the tactics WSIB uses. Know what you're up against before you file.</p>
+      <ul>
+        <li><a href="/knowledge-base/pre-existing-conditions/">How "Pre-Existing" Denials Work</a></li>
+        <li><a href="/knowledge-base/chronic-pain-claims/">Chronic Pain Claim Strategy</a></li>
+        <li><a href="/knowledge-base/claim-suppression-retaliation/">Recognizing Employer Retaliation</a></li>
+        <li><a href="/blog/2026/04/15/wsib-exposed-statistical-evidence-proves-systematic-manipulation/">What the Data Reveals</a></li>
+      </ul>
+    </div>
+    
+    <div class="card">
+      <h3>Browse All Guides and Templates</h3>
+      <p>Musculoskeletal, neurological, legal strategy - 24+ guides built from real cases.</p>
+      <ul>
+        <li><a href="#injury-guides">All Knowledge Base Articles</a></li>
+        <li><a href="#appeal-templates">All Appeal Templates</a></li>
+        <li><a href="/app-waitlist/">Share Your Outcome (App)</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div id="data-visualizations" class="section-box" style="border-color: #1565c0; background: #e8f0fe;">
+  <h2 style="color: #004d99;">Go Deeper Into the Data</h2>
+  <p style="color: #004d99; font-size: 1.05rem; margin-bottom: 1.5rem;">
+    Researchers, policy analysts, advocates with clients - the full dataset and methodology are below.
+  </p>
+  
+  <div class="card-grid">
+    <div class="card" style="border-left-color: #1976d2;">
+      <h3 style="color: #004d99;">Interactive Visualizations</h3>
+      <p>5 live charts. Filter, zoom, explore 230,392 records yourself.</p>
+      <a href="#visualizations" style="font-weight: 600;">View Charts</a>
+    </div>
+    
+    <div class="card" style="border-left-color: #1976d2;">
+      <h3 style="color: #004d99;">Raw Data Downloads</h3>
+      <p>127,600 Ontario tribunal decisions + 102,792 employer records. 100% open source. No paywalls.</p>
+      <a href="/research-data-sources/" style="font-weight: 600;">Download Data</a>
+    </div>
+    
+    <div class="card" style="border-left-color: #1976d2;">
+      <h3 style="color: #004d99;">Methodology and Statistical Methods</h3>
+      <p>Peer-reviewable methods. Confidence intervals. Limitations disclosed.</p>
+      <a href="#methodology" style="font-weight: 600;">Read Methodology</a>
+    </div>
+  </div>
+</div>
+
+<section class="stats-grid">
+  <div class="stat-box">
+    <div class="stat-number">230,392</div>
+    <small>Total Records Analyzed</small>
+  </div>
+  <div class="stat-box">
+    <div class="stat-number">127,600</div>
+    <small>Tribunal Decisions</small>
+  </div>
+  <div class="stat-box">
+    <div class="stat-number">102,792</div>
+    <small>Employer Safety Records</small>
+  </div>
+  <div class="stat-box">
+    <div class="stat-number">6+ Years</div>
+    <small>Data Coverage</small>
+  </div>
+</section>
+
+<div id="methodology" class="methodology-section">
+  <h2>Research Standards and Methodology</h2>
+  
+  <h3>What We Can PROVE:</h3>
+  <ul>
+    <li><strong>127,600 decisions analyzed</strong> across 5 Ontario systems (WSIAT: 99,036 | HRTO: 9,269 | ONSBT: 13,798 | ONWSIB: 463 | ONCA: 5,034)</li>
+    <li><strong>91.8% missing outcome metadata</strong> for WSIAT (only 8.2% of cases have clear win/loss categorization)</li>
+    <li><strong>Statistical anomalies detected</strong> in decision volumes (July 2023: 39 decisions vs. 154 average, Z = -2.94, p = 0.003)</li>
+    <li><strong>Body part bias measured</strong> (knee injuries show 20% pre-existing denial rate vs. 13.3% baseline, chi-squared = 32.7, p < 0.001)</li>
+    <li><strong>Delay tactics quantified</strong> (reconsideration adds 2.0 years vs. 0.5 for direct appeals)</li>
+  </ul>
+  
+  <h3>Statistical Methods Used:</h3>
+  <ul>
+    <li><strong>Anomaly detection</strong> - Z-score analysis, p-values</li>
+    <li><strong>Co-occurrence networks</strong> - Which denial tactics cluster together</li>
+    <li><strong>Temporal trend analysis</strong> - Patterns over time</li>
+    <li><strong>Chi-square tests</strong> - Body part bias, keyword associations</li>
+    <li><strong>Confidence intervals</strong> - All proportions reported with 95% CIs</li>
+    <li><strong>Effect sizes</strong> - Cohen's h for proportional differences</li>
+    <li><strong>Bonferroni correction</strong> - For multiple testing</li>
+    <li><strong>Sensitivity analysis</strong> - Robustness to missing data</li>
+  </ul>
+  
+  <h3>Data Transparency:</h3>
+  <ul>
+    <li><strong>All code open source:</strong> <a href="https://github.com/S0vryn9-C011ect1ve/3mpwrapp.github.io">GitHub Repository</a></li>
+    <li><strong>Raw data public:</strong> <a href="https://github.com/S0vryn9-C011ect1ve/3mpwrapp.github.io/tree/main/data/tribunal-decisions">tribunal-decisions/</a></li>
+    <li><strong>Community review welcomed:</strong> Find errors? Email <a href="mailto:empowrapp08162025@gmail.com">empowrapp08162025@gmail.com</a></li>
+    <li><strong>Replication instructions:</strong> Run scripts/scrape-*.mjs + scripts/analyze-*.mjs for each tribunal</li>
+  </ul>
+  
+  <h3>Limitations We Acknowledge:</h3>
+  <ul>
+    <li><strong>Missing Data:</strong> 91.8% of WSIAT decisions lack clear outcome categorization</li>
+    <li><strong>No Internal Documents:</strong> We don't have WSIB internal policy documents or adjudicator performance data</li>
+    <li><strong>Limited Representation Data:</strong> Only 3.6% of cases mention lawyers</li>
+    <li><strong>Regional Breakdowns:</strong> Not available in public CanLII data</li>
+  </ul>
+  
+  <p><strong>Full methodology available in blog posts</strong> - See Related Blog Posts section below</p>
+</div>
+
+<div id="visualizations">
+  <h2>Interactive Data Visualizations</h2>
+  
+  <div class="visualization-card">
+    <h3>WSIAT Outcome Timeline (2020-2026)</h3>
+    <p class="badge badge-green">99,036 Decisions</p>
+    <p>Monthly decision volumes and outcome patterns over 6 years. Identify seasonal trends, policy changes, and anomalies.</p>
+    <p><a href="/wsiat-outcome-timeline-2020-2026.html" style="font-weight: 600;">View Interactive Chart →</a></p>
+  </div>
+  
+  <div class="visualization-card">
+    <h3>HRTO Outcome Timeline (2020-2026)</h3>
+    <p class="badge badge-purple">9,269 Decisions</p>
+    <p>Human Rights Tribunal outcomes by month. Track discrimination patterns and case resolution trends.</p>
+    <p><a href="/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/" style="font-weight: 600;">View Interactive Chart →</a></p>
+  </div>
+  
+  <div class="visualization-card">
+    <h3>Cross-Tribunal Comparison</h3>
+    <p class="badge">5 Tribunals</p>
+    <p>Compare decision patterns across WSIAT, HRTO, ONSBT, ONWSIB, and ONCA. Identify systemic differences.</p>
+    <p><a href="/tribunal-navigator.html" style="font-weight: 600;">View Interactive Chart →</a></p>
+  </div>
+  
+  <div class="visualization-card">
+    <h3>Employer Safety Heatmap</h3>
+    <p class="badge badge-orange">102,792 Records</p>
+    <p>Workplace injury rates by industry and region. Interactive map shows which employers have highest injury rates.</p>
+    <p><a href="/employer-safety-heatmap.html" style="font-weight: 600;">View Interactive Map →</a></p>
+  </div>
+  
+  <div class="visualization-card">
+    <h3>Keyword Network Analysis</h3>
+    <p class="badge">13,000+ Keywords</p>
+    <p>Discover how denial tactics cluster together. Interactive network shows which keywords predict denial.</p>
+    <p><a href="/connecting-the-dots-wsiat-keyword-network.html" style="font-weight: 600;">View Network Graph →</a></p>
+  </div>
+</div>
+
+<div id="injury-guides" class="methodology-section">
+  <h2>Injury-Specific Knowledge Base</h2>
+  <p>Evidence-based guides for specific injury types, built from real tribunal decisions:</p>
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-top: 1rem;">
+    <div>
+      <h3>Musculoskeletal</h3>
+      <ul>
+        <li><a href="/knowledge-base/low-back-pain-claims/">Back Injuries</a></li>
+        <li><a href="/knowledge-base/shoulder-rotator-cuff-claims/">Shoulder Injuries</a></li>
+        <li><a href="/knowledge-base/knee-injury-claims/">Knee Injuries</a></li>
+        <li><a href="/knowledge-base/">Repetitive Strain</a></li>
+      </ul>
+    </div>
+    
+    <div>
+      <h3>Neurological</h3>
+      <ul>
+        <li><a href="/knowledge-base/chronic-pain-claims/">Chronic Pain</a></li>
+        <li><a href="/knowledge-base/concussion-tbi-claims/">Concussion/TBI</a></li>
+        <li><a href="/knowledge-base/">Mental Health Claims</a></li>
+      </ul>
+    </div>
+    
+    <div>
+      <h3>Legal Strategy</h3>
+      <ul>
+        <li><a href="/knowledge-base/pre-existing-conditions/">Pre-Existing Conditions</a></li>
+        <li><a href="/knowledge-base/claim-suppression-retaliation/">Employer Retaliation</a></li>
+        <li><a href="/knowledge-base/">IME Challenges</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div id="appeal-templates" class="methodology-section">
+  <h2>Appeal Templates</h2>
+  <p>Ready-to-use templates with evidence-based arguments:</p>
+  <ul>
+    <li><a href="/templates/pre-existing-appeal/">Pre-Existing Condition Appeal Template</a></li>
+    <li><a href="/templates/chronic-pain-appeal/">Chronic Pain Appeal Template</a></li>
+    <li><a href="/templates/back-injury-appeal/">Back Injury Appeal Template</a></li>
+    <li><a href="/templates/shoulder-injury-appeal/">Shoulder Injury Appeal Template</a></li>
+    <li><a href="/templates/knee-injury-appeal/">Knee Injury Appeal Template</a></li>
+    <li>Concussion/TBI Appeal Template</li>
+    <li><a href="/templates/mental-health-appeal/">Mental Health Appeal Template</a></li>
+  </ul>
+</div>
+
+<div class="methodology-section">
+  <h2 id="every-research-page">Every research page on this site</h2>
+<p>Nothing published below is hidden. All 15 research pages, grouped by what they
+answer.</p>
+
+<h3>Tribunal outcome audits (2020&ndash;2026)</h3>
+<ul>
+<li><a href="/community-updates/research/tribunal-analysis/2026/04/26/onsbt-2020-2026-comprehensive-analysis/">ONSBT 2020&ndash;2026: seven years of decisions</a></li>
+<li><a href="/community-updates/research/access-to-justice/2026/04/26/onsbt-outcome-classification-audit-update/">ONSBT tiered outcome classification</a></li>
+<li><a href="/community-updates/research/workers-compensation/2026/04/26/onwsib-outcome-gap-audit-update/">ONWSIB 2020&ndash;2026 outcome gap audit</a></li>
+<li><a href="/wsib/research/transparency/2026/04/20/wsib-transparency-gap-outcome-obscurity-REVISED/">WSIAT pattern analysis: worker victory rates</a></li>
+<li><a href="/community-updates/research/2026/05/08/onca-precedent-overview/">ONCA precedent overview</a></li>
+</ul>
+
+<h3>Accessibility and discrimination at tribunal</h3>
+<ul>
+<li><a href="/community-updates/research/accessibility/tribunal-analysis/2026/04/26/onsbt-accessibility-barriers-vulnerable-communities/">Hidden barriers in ONSBT</a></li>
+<li><a href="/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/">HRTO disability discrimination patterns</a></li>
+<li><a href="/human%20rights/research/access%20to%20justice/2026/04/20/hrto-email-crisis-abandonment-epidemic/">HRTO abandonment analysis</a></li>
+</ul>
+
+<h3>Employer tactics and retaliation</h3>
+<ul>
+<li><a href="/research/employer-retaliation/claim-suppression/workers-rights/2026/04/16/claim-suppression-playbook-employer-retaliation/">Employer tactics to suppress claims</a></li>
+<li><a href="/knowledge-base/claim-suppression-retaliation/">Claim suppression and retaliation (summary)</a></li>
+<li><a href="/knowledge-base/information-asymmetry-narrative-control/">Information asymmetry: who controls the record</a></li>
+</ul>
+
+<h3>Legislative analysis</h3>
+<ul>
+<li><a href="/research/advocacy/legislation/2026/04/17/bill-86-MeredithActmain/">Bill 86 &mdash; Meredith Act</a></li>
+<li><a href="/research/legislation/advocacy/2026/05/11/bill-105-power-act-analysis/">Bill 105 &mdash; POWER Act</a></li>
+<li><a href="/research/legislation/advocacy/comparison/2026/05/11/bill-86-vs-bill-105-comparison/">Bill 86 vs Bill 105</a></li>
+<li><a href="/knowledge-base/bill-86-meredith-act/">Bill 86 (short reference)</a> &middot;
+<a href="/knowledge-base/bill-105-wsib-lockin/">Bill 105 (short reference)</a></li>
+</ul>
+
+<h3>Tools built from this research</h3>
+<ul>
+<li><a href="/community-updates/research/2026/05/15/ontario-legal-intelligence-system-launch/">Ontario Legal Intelligence System v3.0</a></li>
+<li><a href="/community-updates/research/2026/04/25/feature-spotlight-canlii-database-ontario-wsib-hrto-cases-expanding-canada-wide/">CanLII database coverage</a></li>
+<li><a href="/research/community/transparency/2026/04/17/beta-tester-contribution-claim-suppression/">How one beta tester changed the research</a></li>
+<li><a href="/knowledge-base/canlii-wsib-precedents/">CANLII WSIB precedents</a></li>
+</ul>
+
+<p><strong>Legislative status changes.</strong> Confirm any bill's current status on
+<a href="https://www.ontariolegislature.ca" target="_blank" rel="noopener noreferrer">ontariolegislature.ca</a>
+before relying on these pages. None of this is legal advice.</p>
+
+    <h2>Related Blog Posts</h2>
+  <ul>
+    <li><a href="/blog/2026/04/15/wsib-exposed-statistical-evidence-proves-systematic-manipulation/">WSIB Exposed: Statistical Evidence Proves Systematic Manipulation</a></li>
+    <li><a href="/community-updates/research/disability-justice/tribunal-analysis/2026/05/14/hrto-disability-discrimination-patterns-analysis/">HRTO Disability Discrimination Patterns Analysis</a></li>
+    <li><a href="/blog/2026/05/08/onca-precedent-overview/">ONCA Precedent Overview</a></li>
+  </ul>
+</div>
+
+<div style="background: #f0f7ff; border-left: 4px solid #0066cc; border-radius: 8px; padding: 1.5rem; margin-top: 2rem;">
+  <h3 style="margin-top: 0; color: #004d99;">Contribute to the Data</h3>
+  <p>
+    This research improves when workers share their outcomes. Every case you report makes the pattern clearer for the next person.
+  </p>
+  <p>
+    <a href="/app-waitlist/" style="font-weight: 600; color: #0066cc;">Share Your Case Outcome →</a>
+  </p>
+</div>

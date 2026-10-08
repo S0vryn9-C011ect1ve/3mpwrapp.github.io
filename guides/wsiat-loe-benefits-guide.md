@@ -341,7 +341,7 @@ Based on our 10,838 LOE decision analysis:
 
 This guide is based on:
 - 10,838 WSIAT decisions mentioning LOE (1987-2026)
-- 99,036 total WSIAT decisions analyzed
+- 98,992 total WSIAT decisions analyzed
 - Official WSIAT CSV export from [WSIAT Open Data Portal](https://www.wsiat.ca/en/home/opendata_decisions.html)
 - Pattern analysis generated April 2026
 - Deep-dive co-occurrence analysis: LOE + Loss of Earnings (9,217 cases, 9.31%)
@@ -359,7 +359,7 @@ Being straight about this, because a wrong dollar figure can cost someone an app
 
 | Content | Status |
 |---|---|
-| Decision-pattern counts (10,838 LOE decisions, 10.94% of appeals) | **Verified** — computed from the WSIAT Open Data export of 99,036 decisions |
+| Decision-pattern counts (10,838 LOE decisions, 10.94% of appeals) | **Verified** — computed from the WSIAT Open Data export of 98,992 decisions |
 | The 85% LOE formula | **Verified** against the WSIB loss-of-earnings page, 2026-10-04 |
 | Worked examples using the 85% formula | **Verified arithmetic** — the examples are ours, not WSIB's |
 | The annual statutory maximum LOE | **Removed — could not verify.** See the warning above |

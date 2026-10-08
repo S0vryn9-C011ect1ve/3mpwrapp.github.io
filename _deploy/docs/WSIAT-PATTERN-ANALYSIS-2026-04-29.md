@@ -2,7 +2,7 @@
 ## 98,992 Decisions Analyzed (1987-2026)
 
 **Generated:** 2026-04-30  
-**Total Decisions:** 99,036  
+**Total Decisions:** 98,992  
 **Year Range:** 1987-2026 (40 years)
 
 ---
@@ -49,7 +49,7 @@ This report analyzes 98,992 WSIAT decisions spanning 40 years (1987-2026) to ide
 
 | Decision Type | Count | % of Total |
 |---------------|-------|------------|
-| Standard Decision | 99,036 | 100.00% |
+| Standard Decision | 98,992 | 100.00% |
 | Reconsideration | 0 | 0.00% |
 | Interim Decision | 0 | 0.00% |
 | Leave to Appeal | 0 | 0.00% |
@@ -140,7 +140,7 @@ This report analyzes 98,992 WSIAT decisions spanning 40 years (1987-2026) to ide
 
 | Metric | Value |
 |--------|-------|
-| Total Decisions | 99,036 |
+| Total Decisions | 98,992 |
 | Decisions with Keywords | 82,111 |
 | Decisions with Summaries | (To be calculated) |
 | Decisions with Vice-Chair Data | 98,992 |

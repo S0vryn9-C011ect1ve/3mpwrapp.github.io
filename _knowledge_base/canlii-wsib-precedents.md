@@ -65,7 +65,7 @@ The book **_Insurance Bad Faith_ by Gordon G. Hilliker (LexisNexis)** documents 
 
 ## 📊 Pattern Data (3mpwrApp CanLII Corpus)
 
-From **99,036 WSIAT decisions (2020–2026)**:
+From **98,992 WSIAT decisions (2020–2026)**:
 
 | Pattern | Signal | Source |
 |---------|--------|--------|
