@@ -1,8 +1,17 @@
 {
   "year": 2026,
   "version": "1.0",
-  "lastUpdated": "2026-10-08T06:30:00-04:00",
+  "lastUpdated": "2026-10-08T07:00:00-04:00",
   "entries": [
+    {
+      "id": "wn-2026-10-08-research-number-legitimacy",
+      "title": "🔢 Research page: number legitimacy reconciled",
+      "summary": "Aligned /research/ counts to the canonical source-of-truth (DATA_SOURCES_METHODOLOGY.md): WSIAT standalone figures now use 98,992 (re-verified Open Data parse; 99,036 is the retired extraction-manifest figure used in the 127,600 sum). Explicitly separated HRTO 9,269 (classified decisions) from 62,093 (applications, INFERRED) so the two are never mis-added. Added scope footnotes for every tribunal count. All arithmetic verified: 230,392 = 127,600 + 102,792; 127,600 = 99,036+9,269+13,798+463+5,034.",
+      "date": "2026-10-08T07:00:00-04:00",
+      "category": "improvement",
+      "repo": "website",
+      "commitSha": "pending"
+    },
     {
       "id": "wn-2026-10-08-research-four-doors",
       "title": "🚪 Research page: four-door navigation",
