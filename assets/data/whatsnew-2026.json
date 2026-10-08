@@ -1,8 +1,26 @@
 {
   "year": 2026,
   "version": "1.0",
-  "lastUpdated": "2026-10-08T07:00:00-04:00",
+  "lastUpdated": "2026-10-08T08:00:00-04:00",
   "entries": [
+    {
+      "id": "wn-2026-10-08-research-help-all-users",
+      "title": "🆘 I Need Help room now serves every community",
+      "summary": "Expanded the I Need Help room on /research/ beyond injured workers. Added a 'Find Help for Your Situation' block linking to real guides/templates for veterans (VAC/VRAB), seniors (OAS/GIS), persons with disabilities, caregivers/families, human rights/UNCRPD, and public allies. Updated the door description to reflect the full user base. All 9 linked pages verified live (HTTP 200).",
+      "date": "2026-10-08T08:00:00-04:00",
+      "category": "improvement",
+      "repo": "website",
+      "commitSha": "pending"
+    },
+    {
+      "id": "wn-2026-10-08-research-four-rooms",
+      "title": "🚪 Research page: four rooms restructure (phase 2)",
+      "summary": "Folded all /research/ content into four labeled rooms so each audience lands fast: I Need Help (advocacy/appeal tools) · Explore the Research (guides/KB/templates by community) · Explore the Data (visualizations + findings) · Methodology & Sources (how data was collected, what's proven, limits). The four doors at the top now jump to each room. No content lost; original section ids preserved inside rooms.",
+      "date": "2026-10-08T07:30:00-04:00",
+      "category": "improvement",
+      "repo": "website",
+      "commitSha": "20d3cf2"
+    },
     {
       "id": "wn-2026-10-08-research-number-legitimacy",
       "title": "🔢 Research page: number legitimacy reconciled",
