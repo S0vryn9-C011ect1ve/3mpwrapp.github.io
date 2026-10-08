@@ -6,8 +6,8 @@
     <atom:link href="https://3mpwrapp.pages.dev/feeds/curated.xml" rel="self" type="application/rss+xml" />
     <description>Daily curated news on disability rights, accessibility, and benefits across Canada</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 07 Oct 2026 18:36:55 GMT</lastBuildDate>
-    <pubDate>Wed, 07 Oct 2026 18:36:55 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:35:32 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Oct 2026 18:35:32 GMT</pubDate>
     <generator>3mpwr App Curator v2.0</generator>
     <image>
       <url>https://3mpwrapp.pages.dev/assets/images/logo.png</url>
@@ -23,8 +23,81 @@
       <title>The Disability Bulletin</title>
       <link>https://linktr.ee/thedisabilitybulletin</link>
       <guid isPermaLink="true">https://linktr.ee/thedisabilitybulletin</guid>
-      <description><![CDATA[The Disability Bulletin covers disability rights news, advocacy updates, and community stories from across Canada. Visit for the latest issue.]]></description>
-      <pubDate>Wed, 07 Oct 2026 18:36:55 GMT</pubDate>
+      <description><![CDATA[Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.]]></description>
+      <pubDate>Thu, 08 Oct 2026 18:35:32 GMT</pubDate>
+      <category>Critical</category>
+      <dc:creator>3mpwr App Curator</dc:creator>
+    </item>
+
+    <item>
+      <title>America Licks Its Chops at a ‘Free’ Alberta</title>
+      <link>https://thetyee.ca/Analysis/2026/10/08/US-Licks-Chops-Free-Alberta/</link>
+      <guid isPermaLink="true">https://thetyee.ca/Analysis/2026/10/08/US-Licks-Chops-Free-Alberta/</guid>
+      <description><![CDATA[The aptly named DARC papers lay out Trumpists’ anti-Canada aims. Is Premier Smith a student?]]></description>
+      <pubDate>Thu, 08 Oct 2026 07:20:00 GMT</pubDate>
+      <category>Critical</category>
+      <dc:creator>3mpwr App Curator</dc:creator>
+    </item>
+
+    <item>
+      <title>Manitoba Government Returns to Legislature With Focus on Affordability and Health Care</title>
+      <link>https://news.gov.mb.ca/news/index.html?item=75557</link>
+      <guid isPermaLink="true">https://news.gov.mb.ca/news/index.html?item=75557</guid>
+      <pubDate>Tue, 29 Sep 2026 18:30:00 GMT</pubDate>
+      <category>Critical</category>
+      <dc:creator>3mpwr App Curator</dc:creator>
+    </item>
+
+    <item>
+      <title>Elon Musk wants to see Canada dismantled</title>
+      <link>https://rabble.ca/politics/canadian-politics/elon-musk-wants-to-see-canada-dismantled/</link>
+      <guid isPermaLink="true">https://rabble.ca/politics/canadian-politics/elon-musk-wants-to-see-canada-dismantled/</guid>
+      <pubDate>Thu, 08 Oct 2026 17:35:48 GMT</pubDate>
+      <category>Critical</category>
+      <dc:creator>3mpwr App Curator</dc:creator>
+    </item>
+
+    <item>
+      <title>Premier Meets With Mark Wiseman, Canada&apos;s Ambassador to the United States</title>
+      <link>https://news.gov.mb.ca/news/index.html?item=75638</link>
+      <guid isPermaLink="true">https://news.gov.mb.ca/news/index.html?item=75638</guid>
+      <pubDate>Thu, 08 Oct 2026 16:00:00 GMT</pubDate>
+      <category>Critical</category>
+      <dc:creator>3mpwr App Curator</dc:creator>
+    </item>
+
+    <item>
+      <title>Manitoba Government Releases First-Quarter Fiscal and Economic Update</title>
+      <link>https://news.gov.mb.ca/news/index.html?item=75559</link>
+      <guid isPermaLink="true">https://news.gov.mb.ca/news/index.html?item=75559</guid>
+      <pubDate>Tue, 29 Sep 2026 18:00:00 GMT</pubDate>
+      <category>Critical</category>
+      <dc:creator>3mpwr App Curator</dc:creator>
+    </item>
+
+    <item>
+      <title>Manitoba Government Opens Nominations for 2027 Manitoba Healthy Aging Awards</title>
+      <link>https://news.gov.mb.ca/news/index.html?item=75637</link>
+      <guid isPermaLink="true">https://news.gov.mb.ca/news/index.html?item=75637</guid>
+      <pubDate>Wed, 07 Oct 2026 19:33:00 GMT</pubDate>
+      <category>Critical</category>
+      <dc:creator>3mpwr App Curator</dc:creator>
+    </item>
+
+    <item>
+      <title>Manitoba Government Funds Livestock Investigation Unit</title>
+      <link>https://news.gov.mb.ca/news/index.html?item=75657</link>
+      <guid isPermaLink="true">https://news.gov.mb.ca/news/index.html?item=75657</guid>
+      <pubDate>Thu, 08 Oct 2026 17:45:00 GMT</pubDate>
+      <category>Critical</category>
+      <dc:creator>3mpwr App Curator</dc:creator>
+    </item>
+
+    <item>
+      <title>Manitoba Government to Protect Brandon Residential School Cemetery</title>
+      <link>https://news.gov.mb.ca/news/index.html?item=75558</link>
+      <guid isPermaLink="true">https://news.gov.mb.ca/news/index.html?item=75558</guid>
+      <pubDate>Tue, 29 Sep 2026 19:35:00 GMT</pubDate>
       <category>Critical</category>
       <dc:creator>3mpwr App Curator</dc:creator>
     </item>
