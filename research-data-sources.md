@@ -46,7 +46,7 @@ layout: page
 
 ### WSIAT Decisions Bulk Data (3mpwrApp Extraction)
 
-**Dataset:** 99,036 decisions (2016-2025)
+**Dataset:** 98,992 decisions (2016-2025) — re-verified WSIAT Open Data parse (2026-04-29); live file 2026-10-07 = 96,025
 
 **Format:** JSON, CSV available
 
@@ -370,7 +370,7 @@ layout: page
 - **NEER:** 91,814 employer records (2017-2020)
 - **CAD-7:** 38,922 employer records (2017-2020)
 - **Premium Rates:** 664 classifications (2016-2020)
-- **HRTO:** 62,093 applications (aggregate, 2016-2025)
+- **HRTO:** 62,093 applications (aggregate counts, 2016-2025) — INFERRED (from 39 quarterly XLSX reports; applications, not individual cases)
 - **ONSBT:** 292 appeals (sample)
 
 **Format:** JSON (structured data)
@@ -386,7 +386,7 @@ layout: page
 **Data Visualization:** [Cross-Tribunal Success Rates Chart](/cross-tribunal-success-rates.html)
 
 **Key Statistics:**
-- **WSIAT:** ~65-73% favorable outcomes (reported range; exploratory, not a guaranteed success rate)
+- **WSIAT:** 73.5% favorable outcomes (438/596 classified decisions with a determinable outcome, from 649 classified — keyword-inferred, exploratory, NOT an official WSIAT rate). A broader keyword sweep estimates lower (12.0% from 6,040 decisions); independent advocacy groups report 60-70% for represented appellants.
 - **HRTO:** 2.66% final hearing rate (60% settle at mediation)
 - **ONSBT:** 40-60% estimated (limited public data)
 
@@ -424,7 +424,7 @@ layout: page
 - **Purpose:** Extract all 230,392 records from source files
 - **Language:** Node.js (ES modules)
 - **Dependencies:** ExcelJS v4.4.0
-- **Runtime:** 23.4 seconds (99,036 WSIAT + 130,736 employer records)
+- **Runtime:** 23.4 seconds (98,992 WSIAT + 102,792 employer records; total extracted = 230,392)
 
 **Key Features:**
 - Dynamic header detection (handles varying CSV structures)

@@ -1,8 +1,17 @@
 {
   "year": 2026,
   "version": "1.0",
-  "lastUpdated": "2026-10-08T08:00:00-04:00",
+  "lastUpdated": "2026-10-08T08:30:00-04:00",
   "entries": [
+    {
+      "id": "wn-2026-10-08-research-winrate-reconcile",
+      "title": "📊 Win-rate reconciliation + 98,992 corrections",
+      "summary": "Reconciled win-rate contradictions across the research data pages to the canonical evidence-based figure: WSIAT favorable outcome 73.5% (438/596 classified decisions with determinable outcome, from 649 classified — keyword-inferred). Fixed retired 99,036 WSIAT count → 98,992 on research-data-sources.md and data-limitations.md; labelled HRTO 62,093 as INFERRED applications; retired the contradictory 99,036+130,736 decomposition. Added the 73.5% receipt to /cross-tribunal-success-rates and /research-data-sources. Retracted 89.1%/63.1% remain only in data JSON / legacy files (flagged for follow-up).",
+      "date": "2026-10-08T08:30:00-04:00",
+      "category": "improvement",
+      "repo": "website",
+      "commitSha": "pending"
+    },
     {
       "id": "wn-2026-10-08-research-help-all-users",
       "title": "🆘 I Need Help room now serves every community",

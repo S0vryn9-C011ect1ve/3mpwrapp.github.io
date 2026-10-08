@@ -36,7 +36,7 @@ Many researchers hide their limitations in footnotes. We put ours front and cent
 
 ### 2. Counted Injury Patterns
 
-**Method:** Computer searched all 99,036 WSIAT decisions for injury keywords
+**Method:** Computer searched all 98,992 WSIAT decisions for injury keywords
 
 **Found:** 10 injury types with exact counts
 - Back/Spine: 15,177 cases (15.3%)
@@ -64,11 +64,11 @@ Many researchers hide their limitations in footnotes. We put ours front and cent
 
 ### 1. Success Rates: The 6.1% Problem {#success-rate-limitation}
 
-**What we tried:** Find outcome (allowed/denied) for all 99,036 decisions
+**What we tried:** Find outcome (allowed/denied) for all 98,992 decisions
 
 **Method:** Computer searched for keywords: "allowed", "denied", "dismissed", "partially allowed"
 
-**Result:** Only 6,040 out of 99,036 decisions (6.1%) had clear outcome keywords
+**Result:** Only 6,040 out of 98,992 decisions (6.1%) had clear outcome keywords
 
 **What this means:**
 - ✅ We KNOW: 726 allowed, 5,314 denied, from those 6,040 cases
