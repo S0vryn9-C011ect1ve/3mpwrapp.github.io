@@ -26,7 +26,6 @@ personalized: true
 
 {%- include accessibility-toolbar.html -%}
 {%- include building-public-hero.html -%}
-{%- include building-public-hero.html -%}
 
 <!-- Who 3mpwrapp Serves -->
 <section class="value-props" style="margin-bottom:4rem" aria-label="Who 3mpwrapp serves">
@@ -93,7 +92,7 @@ personalized: true
         <span aria-hidden="true">📊</span>
         <span>All Research Tools</span>
       </a>
-      <a href="/flywheels/" style="display: inline-flex; align-items: center; gap: 0.75rem; padding: 1rem 2rem; background: rgba(0,0,0,0.35); color: #fff; border: 2px solid rgba(255,255,255,0.5); border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 1.1rem; transition: all 0.3s;" onmouseover="this.style.background='rgba(0,0,0,0.5)'" onmouseout="this.style.background='rgba(0,0,0,0.35)'">
+      <a href="/flywheels-public.html" style="display: inline-flex; align-items: center; gap: 0.75rem; padding: 1rem 2rem; background: rgba(0,0,0,0.35); color: #fff; border: 2px solid rgba(255,255,255,0.5); border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 1.1rem; transition: all 0.3s;" onmouseover="this.style.background='rgba(0,0,0,0.5)'" onmouseout="this.style.background='rgba(0,0,0,0.35)'">
         <span aria-hidden="true">🕸️</span>
         <span>Flywheels</span>
       </a>

@@ -11947,6 +11947,15 @@
       "category": "improvement",
       "repo": "website",
       "commitSha": "pending"
+    },
+    {
+      "id": "wn-2026-10-08-homepage-review-fixes",
+      "title": "🏠 Homepage: fixed duplicate hero + broken flywheels link",
+      "summary": "Final proofread of the homepage: removed a duplicated hero include (building-public-hero.html was rendered twice), and fixed a 404 — the 'Flywheels' button pointed to /flywheels/ (does not exist) instead of the live public visual at /flywheels-public.html. 22 other internal links verified live (HTTP 200). Note: the CanLII Keyword Network stat '134,920 cases (98,992 WSIAT + 35,928 other tribunals)' is internally consistent and intentionally broader than /research/'s 127,600 Ontario-only figure (it includes BC WCAT); scope is clarified in the section text.",
+      "date": "2026-10-08T10:30:00-04:00",
+      "category": "improvement",
+      "repo": "website",
+      "commitSha": "pending"
     }
   ]
 }
