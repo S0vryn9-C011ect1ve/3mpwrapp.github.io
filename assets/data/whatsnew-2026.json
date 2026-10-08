@@ -1,8 +1,17 @@
 {
   "year": 2026,
   "version": "1.0",
-  "lastUpdated": "2026-10-05T20:00:00-04:00",
+  "lastUpdated": "2026-10-08T02:30:00-04:00",
   "entries": [
+    {
+      "id": "wn-2026-10-08-research-hub-communities",
+      "title": "🌐 Research hub expanded to every community + CanLII scraping resume",
+      "summary": "The /research/ page now links guides, knowledge bases and templates across every community we serve — injured workers, veterans, seniors, caregivers, persons with disabilities, and human-rights / UNCRPD / legal — plus a note that CanLII decision-data scraping is resuming (BC WCAT 2020–2026 already collected: 7,386 decisions via the free CanLII API).",
+      "date": "2026-10-08T02:30:00-04:00",
+      "category": "feature",
+      "repo": "website",
+      "commitSha": "ef834030"
+    },
     {
       "id": "wn-2026-10-07-accuracy-audit",
       "title": "🧹 Sitewide accuracy audit: fabricated citation, wrong domain, inflated win-rates fixed",
