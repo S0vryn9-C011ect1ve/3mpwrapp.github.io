@@ -18,6 +18,8 @@ toc: true
 
 ---
 
+> **📋 ACCURACY NOTE (2026-10-08):** The 63.1% below is from this post's original 2,000-decision keyword sample (411 allowed of 651 detected outcomes). The current **canonical** WSIAT favorable-outcome estimate is **73.5% (438/596 from 649 classified decisions, keyword-inferred — not an official WSIAT rate)**; see [Data Sources & Methodology](/docs/data-sources-methodology/). The 411/651 = 63.1% sample result is retained as a historical finding.
+
 **Advanced pattern matching analysis of 2,000 WSIAT decisions (2020-2026) detected 651 outcomes with a 63.1% worker victory rate in detected outcomes. 67.5% of decisions remain undetected from keywords alone, reflecting CanLII metadata/API limitations for outcome labeling.**
 
 ---

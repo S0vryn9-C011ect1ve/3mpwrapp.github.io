@@ -90,7 +90,7 @@ Our analysis of [98,992 WSIAT decisions](https://www.wsiat.ca/en/home/opendata_d
 - **158 denied** (26.5%)
 - **10,781 unresolved** (94.3% pending/withdrawn)
 
-**Comparison context:** Human Rights Tribunal of Ontario (HRTO) shows 0.7% applicant victory / 73.5% abandonment among *detected* outcomes (keyword-inferred, not a merits census). WSIAT's 73.5% rate is from WSIAT's own 649 classified decisions — the two are not directly comparable (different tribunals, different measured outcomes).
+**Comparison context:** Human Rights Tribunal of Ontario (HRTO) shows 5.4% allowed (503/9,269, VERIFIED) / 43.9% abandonment (4,073/9,269, VERIFIED) among classified decisions. WSIAT's 73.5% favorable rate is from WSIAT's own 649 classified decisions (438/596, keyword-inferred) — the two are not directly comparable (different tribunals, different measured outcomes).
 
 ---
 

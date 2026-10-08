@@ -150,7 +150,7 @@ const tribunals = [
       auditCI?.hrto
     ),
     keyFinding: '73.5% abandonment rate, 70.1% cite email issues',
-    successRate: '0.7% applicant victory',
+    successRate: '5.4% allowed (503/9,269, VERIFIED)',
   },
   {
     ...generateTribunalSummary(

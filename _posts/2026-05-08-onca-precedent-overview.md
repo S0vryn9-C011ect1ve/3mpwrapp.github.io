@@ -262,7 +262,7 @@ While **zero direct workplace injury appeals** (WSIAT → Divisional Court → O
 |--------|-------|---------------------|
 | **ONCA** | 5,034 | 13.2% appeal success (upper appellate layer) — keyword-inferred |
 | **WSIAT** | 98,992 | Outcome rates are keyword-inferred; see WSIAT post. (Prior cross-post figures of "73.5% grant" were inconsistent with HRTO's own WSIAT comparison and are retracted as definitive.) |
-| **HRTO** | 62,093 (3,186 deep-analyzed) | 0.7% applicant victory / 73.5% abandonment **among detected outcomes** (keyword-inferred, not a merits census) |
+| **HRTO** | 62,093 (3,186 deep-analyzed) | 5.4% allowed / 43.9% abandonment **among classified decisions** (VERIFIED — 503/9,269 allowed; 4,073/9,269 abandoned) |
 | **ONSBT** | 13,798 | 67.4% success among classified appeals (keyword-inferred) |
 
 > **📋 ACCURACY AUDIT — 2026-07-20:** The original success-rate cross-table (WSIAT 73.5% / HRTO 12.7% / ONSBT 47.2%) contained figures that contradict each tribunal's own post and were computed from keyword-inferred outcomes. They are replaced above with each tribunal's own reported, disclosed figures and labeled exploratory. Do not cite cross-post success rates as definitive.
@@ -396,7 +396,7 @@ ONCA precedents become useful when:
 ### ⚖️ Tribunal-Level Analysis (Start Here for Success Rates)
 
 - [**WSIAT Analysis**](/investigations/wsib/data-analysis/2026/04/30/suppression-gap) - 98,992 decisions (outcome rates keyword-inferred)
-- [**HRTO Analysis**](/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/) - 62,093 decisions (0.7% applicant victory among detected outcomes)
+- [**HRTO Analysis**](/blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/) - 62,093 decisions (5.4% allowed / 43.9% abandonment among classified decisions, VERIFIED)
 - [**ONSBT Analysis**](/blog/2026/04/26/onsbt-2020-2026-comprehensive-analysis/) - 13,798 decisions (67.4% success among classified)
 
 ### 🔧 Practical Guides
