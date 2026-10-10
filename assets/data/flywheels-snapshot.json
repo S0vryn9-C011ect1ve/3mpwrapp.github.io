@@ -1,35 +1,36 @@
 {
-  "total": 1105,
+  "total": 1207,
   "verified": 5,
   "by_community": {
-    "disability": 481,
-    "injured_workers": 326,
-    "welfare_social": 255,
-    "accessibility": 181,
-    "elderly": 66,
-    "veterans": 36,
+    "disability": 528,
+    "injured_workers": 340,
+    "welfare_social": 275,
+    "accessibility": 228,
+    "elderly": 70,
+    "veterans": 39,
     "vulnerable_communities": 2
   },
   "by_jurisdiction": {
-    "INTL": 485,
-    "CA-ON": 435,
-    "CA-FED": 100,
-    "CA-AB": 62,
+    "INTL": 521,
+    "CA-ON": 473,
+    "CA-FED": 118,
+    "CA-AB": 68,
     "CA-BC": 21,
+    "CA-YT": 4,
     "CA-TERR": 1,
     "CA": 1
   },
   "by_source": {
-    "x": 516,
-    "reddit": 436,
-    "news": 136,
+    "x": 606,
+    "reddit": 439,
+    "news": 145,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 1088,
+    "unverified_social": 1190,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -38,217 +39,220 @@
   },
   "recent": [
     {
-      "id": "84798bb74713",
-      "source": "x",
-      "title": "@winter_canada @fordnation Yeah but Ford wants to build a zillion data centers in Ontario so Canadian's data stays in Canada. Somehow all the injured workers paperwork in the hands of a Texas company ",
+      "id": "1wzxzhy",
+      "source": "reddit",
+      "title": "\"Let me know if you ever need help\"",
       "communities": [
-        "injured_workers"
+        "disability"
       ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-08",
+      "jurisdiction": "INTL",
+      "date": "2026-10-09",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://x.com/lawn_ornamental/status/2091306754097152202"
+      "url": "https://www.reddit.com/r/disability/comments/1wzxzhy/let_me_know_if_you_ever_need_help/"
     },
     {
-      "id": "fe7a624d4609",
+      "id": "1x0x5wo",
+      "source": "reddit",
+      "title": "My brother went nearly 10 years without a way to communicate. I built him a switch-accessible hub of tools and games using AI.",
+      "communities": [
+        "accessibility"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-10-09",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://v.redd.it/g06fnt0s3auh1"
+    },
+    {
+      "id": "1wz7zxj",
+      "source": "reddit",
+      "title": "[X] A Russian telling a Czech veteran who fought in Ukraine since the beginning of the war and lost his leg there that he's scared to join the Ukrainian Armed Forces.",
+      "communities": [
+        "veterans"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-10-09",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://i.redd.it/6e7d0y13pvth1.png"
+    },
+    {
+      "id": "57c3817ffb29",
       "source": "x",
-      "title": "A part-time worker is injured and can’t work for you. But they also have another part-time job.  Could your WSIB claim potentially involve wage loss from their other employment? It might.  Understandi",
+      "title": "We’re pleased to share that the OEA has received a successful WSIAT decision in the WSIB redactions appeal – Decision No. 1391/24.  This case concerned the WSIB’s position that decisions to withhold m",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/askoea/status/2108165524429664530"
+      "url": "https://x.com/askoea/status/2108637322866528747"
     },
     {
-      "id": "2962077541d1",
+      "id": "7699bfd92de5",
       "source": "x",
-      "title": "Un employé à temps partiel est blessé et ne peut plus travailler pour vous. Or, il occupe également un autre emploi à temps partiel.  Votre demande d’indemnisation auprès de la WSIB pourrait-elle comp",
+      "title": "I made it to the 9th, even with two crock pots and meal planning. I will now coast on what is in my fridge and pantry for the next few weeks. That's #odsp after sky-high rents, that's #ow and #wsib fa",
+      "communities": [
+        "disability",
+        "injured_workers",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-09",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/ODSPoor/status/2108627506718748856"
+    },
+    {
+      "id": "7cde3c2b72cc",
+      "source": "x",
+      "title": "I have compiled my interviews based on decades of living with disabilities, repeated homelessness, multiple mental illnesses, invasive addictions, and also new lived experience based advocacy and acti",
+      "communities": [
+        "disability",
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-09",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/ODSPoor/status/1996854687862079751"
+    },
+    {
+      "id": "22291ded484d",
+      "source": "x",
+      "title": "@MarkJCarney @WSIB Hire more Police for government crimes they can start @WSIB's SINECURE that might take a while ....,  Good to hear WSIB laid off 500 of its obese &amp; ignoble staff.  Good RIDDANCE",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/AskoeaFR/status/2108165513914486823"
+      "url": "https://x.com/DaveOakes2022/status/2108616371080982918"
     },
     {
-      "id": "67bc2cc10ca8",
+      "id": "eda2ff604afc",
       "source": "x",
-      "title": "RETWEET To REMIND @fordnation @TrevorJonesCKL That #Nov5 Is the 11 Year Anniversary Of The Prescription Over-Ruled #Whistleblower Report that EXPOSED #WSIB for ignoring dr's, interfering in medical ca",
+      "title": "Consider this scenario: A worker has a history of attendance or performance issues. After a workplace injury, they return on modified duties - but the same workplace concerns continue. Can the employe",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/occupywsib/status/2108146969185309028"
+      "url": "https://x.com/askoea/status/2108596223007412560"
     },
     {
-      "id": "40157d621bf3",
+      "id": "21aa442fb4b9",
       "source": "x",
-      "title": "If imma wsib my life",
+      "title": "#Doug Ford  Today's 64,000,00 question: seeing how Doug Ford is hell bent on destroying wsib by giving billions of injured workers money back to corporations , Today's question is when will ford resto",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/JOHNNYSMITxfrs/status/2108108183969452426"
+      "url": "https://x.com/cottageboy51/status/2108571523241886137"
     },
     {
-      "id": "2e3cfe4a89be",
+      "id": "c889795952c5",
       "source": "x",
-      "title": "Employers often have lengthy histories of workplace safety violations. #injuredworkers #WCB #WSIB",
+      "title": "2/8  My Ontario Labour Relations Board proceeding concerned workplace harassment and serious questions about the independence of the investigation into my complaints.  The WSIB accepted that I had suf",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/CdnAdvocacy/status/2108021858700583351"
+      "url": "https://x.com/likeDavyWatts/status/2108387963633602992"
     },
     {
-      "id": "e1e1b6a7fd3b",
+      "id": "46e0456b354c",
       "source": "x",
-      "title": "I can't get my WSIB benefits which I paid for but this goat fucker can get millions, MF scum..!!!",
+      "title": "WSIB called pushing MAID, I told them to FUCKOFF https://t.co/cYKr5hQsI2",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/Frizelburger/status/2108016078353993732"
+      "url": "https://x.com/DaveOakes2022/status/2108338896006512934"
     },
     {
-      "id": "ce01d8b08c8a",
+      "id": "915dda3e192e",
       "source": "x",
-      "title": "@rawdeal7777777 @divergentTea WSIB",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-08",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/othercathy/status/2107979832281690304"
-    },
-    {
-      "id": "982432fb13d6",
-      "source": "x",
-      "title": "WSIB",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-08",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/MzSirius7/status/2107921213062369463"
-    },
-    {
-      "id": "9f4a905fd425",
-      "source": "x",
-      "title": "@fordnation This worker have no insurance WSIB is a scam",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-08",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/I0452/status/2107919813582754058"
-    },
-    {
-      "id": "676129bb0c67",
-      "source": "x",
-      "title": "@WSIB Please do something about these ridiculous wait times to speak with CSR. As a Worker Representative this is beyond frustrating.@OCEU  @cupenat #OntarioCompensationEmployeesUnion",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-08",
-      "flywheels": [
-        "collective_action",
-        "evidence"
-      ],
-      "url": "https://x.com/HeatherLonger/status/2107842644139225224"
-    },
-    {
-      "id": "db9ca7f9b629",
-      "source": "x",
-      "title": "@AndrewLawton Riddle me this too please if i had lost job due to months of increasing bullying at work that lead to death threats and gangstalking etc and filed for WSIB and was denied but was elogibl",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-08",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/DisabledAdvoc/status/2107838738286211461"
-    },
-    {
-      "id": "0417e09eb5ca",
-      "source": "x",
-      "title": "@rawdeal7777777 Daycare,  WSIB administration",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-08",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/eggplant49/status/2107829040073867615"
-    },
-    {
-      "id": "13c7806ce15d",
-      "source": "x",
-      "title": "@rawdeal7777777 WSIB",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-08",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/DorothyNoronha/status/2107812259279843587"
-    },
-    {
-      "id": "255c233f424f",
-      "source": "x",
-      "title": "@TheBreakdownAB Dani, last time I checked, my drivers license and health care say “Alberta” on them.  You are completely mis directing blame, you have not rebuilt a seniors facility, your WCB HAS comp",
+      "title": "@PierrePoilievre Dismissed and paperworked to poverty by WSIB I refused unsafe work because the bully kept subtly threatening and intimidating me throughout the days following I couldnt bring myself t",
       "communities": [
         "injured_workers",
-        "elderly"
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-09",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/DisabledAdvoc/status/2108300410247164243"
+    },
+    {
+      "id": "58e3472ba313",
+      "source": "x",
+      "title": "Do you suspect that your #Employee is NOT #Injured the way the way he says he is, and is able to #ReturntoWork? Call us at 1-888-703-2912 to discuss HOW we are able to help you. #WSIB #Ontario #Brampt",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-09",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/piplus3/status/2108227226793660762"
+    },
+    {
+      "id": "e0a02123c2d6",
+      "source": "x",
+      "title": "The 1964 CPP White Paper set a floor: reasonable minimum income at retirement, on disability, and for dependents.   Private plans were meant to go over that floor, not under it.   Alberta WCB Policy 0",
+      "communities": [
+        "disability",
+        "injured_workers"
       ],
       "jurisdiction": "CA-AB",
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://x.com/camrealjasper/status/1946287510117888032"
+      "url": "https://x.com/TheTideRises333/status/2108254989156225336"
+    },
+    {
+      "id": "96635bd1f2bf",
+      "source": "x",
+      "title": "ANALYSIS: Statistics show that there would be far less workplace injuries: if people weren’t forced to work: UBI experts say https://t.co/xMZyxwlKrq",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-10-09",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/KeyOfBart/status/2108264381759029281"
     }
   ],
-  "generated": "2026-10-08"
+  "generated": "2026-10-09"
 }
