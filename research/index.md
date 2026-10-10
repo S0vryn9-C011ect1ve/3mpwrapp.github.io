@@ -32,6 +32,7 @@ the guides, knowledge bases, and templates that apply to you.
 
 ## 🏘️ Communities we serve
 
+- [Indigenous Communities](#indigenous-health-disability)
 - [Injured Workers & WSIB/WSIAT](#injured-workers--wsibwsiat)
 - [Veterans (VAC / VRAB)](#veterans-vac--vrab)
 - [Seniors](#seniors)
@@ -41,6 +42,9 @@ the guides, knowledge bases, and templates that apply to you.
 - [Law & CanLII Precedents](#law--canlii-precedents)
 
 ## 📚 Guides (by community)
+
+### Indigenous Communities
+- [Indigenous Health & Disability — Coverage Analysis](/research/indigenous-health-disability/) — verified NIHB / Indigenous Services Canada tracking from `3mpwrapp_coverage_gap_analysis.json` (First Nations / Inuit); user-guide sections (`#indigenous-languages`, `#indigenous-rights`); crisis resources (`.service-card.indigenous`); events (`indigenous-peoples` 2026-06-21, `indigenous-disability` 2026-11-01). Full scope: health, disability rights (`indigenous_disability_rights` / `indigenous_accessibility`), cultural protocols (`indigenousProtocols`), traditional knowledge (`traditionalKnowledge`), ceremonial (`ceremonial`), land acknowledgment (`landAcknowledgment`), data sovereignty (`indigenousDataSovereignty`), plus language support (6+ languages). Nothing invented.
 
 ### Injured Workers & WSIB/WSIAT
 - [WSIAT Complete Guide](/guides/wsiat-complete-guide/)
@@ -139,6 +143,23 @@ the guides, knowledge bases, and templates that apply to you.
 - [WSIAT vs BC WCAT — transparency divide](/research/tribunal-transparency/wsiat-vs-bc-wcat-transparency-divide/)
 - [From Pattern to Policy](/research/campaigns/) — how member evidence becomes collective action
 - [Member Wins](/wins/) — real outcomes from the community
+
+<a name="indigenous-health-disability"></a>
+## 🌿 Indigenous Communities — Health, Disability & Rights
+
+**Verified (not invented) — full scope, not language-only.**
+
+- **Health:** Indigenous health access tracked through NIHB (Non-Insured Health Benefits) / Indigenous Services Canada — referenced in `3mpwrapp_coverage_gap_analysis.json` (First Nations / Inuit).
+- **Disability rights:** `indigenous_disability_rights` and `indigenous_accessibility` categories tracked across the app settings (`indigenousProtocols`, `indigenousDataSovereignty`) and user-base confirmation.
+- **Cultural protocols & traditional knowledge:** `indigenousProtocols`, `traditionalKnowledge`, `ceremonial` — verified feature settings (indigenous-language settings).
+- **Land acknowledgment:** `landAcknowledgment` — verified in settings and user-guide section `#indigenous-rights`.
+- **Data sovereignty:** `indigenousDataSovereignty` — verified feature setting.
+- **Language support:** Indigenous Language Support (6+ languages) — site post (`feature-spotlight-indigenous-language-support` 2026-03-24), dev diary (2026-04-24 / 07-02).
+- **Crisis resources:** `.service-card.indigenous` — verified in `crisis-resources.md`.
+- **Events tracked:** `indigenous-peoples` (2026-06-21, National Indigenous Peoples Day), `indigenous-disability` (2026-11-01, Indigenous Disability Awareness Month) — verified in events data.
+- **References verified, not fabricated:** `docs/development/user-guide.md` sections (`#indigenous-languages`, `#indigenous-rights`); `assets/data/whatsnew-2026.json` entry (`wn-2026-10-09-indigenous-full-verification`).
+
+---
 
 ## 🔄 CanLII decision-data scraping — resuming soon
 
