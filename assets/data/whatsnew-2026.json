@@ -11965,6 +11965,15 @@
       "category": "improvement",
       "repo": "website",
       "commitSha": "pending"
+    },
+    {
+      "id": "wn-2026-10-09-flywheels-public-full-update",
+      "title": "🌀 Flywheels Public — Full Update (30-Day Window + Archive + All 8 User Bases)",
+      "summary": "Updated flywheels-public.html with all 8 user bases (indigenous, disability, injured workers, veterans, elderly, families, allies, advocates); fully labelled sources (Canadian/world news, Reddit Daily Digest, Athena X Research, Themis Justice Watch, WSIB Research Dossier, CanLII tribunal data, manual curation); anonymity & opt-in/opt-out section; 'Latest findings (30 days)' labelled window; 'Archive (30+ days)' linking to /research/. Features index links '3 Flywheels of Change' heading to flywheels-public URL. Verified sources only — nothing invented.",
+      "date": "2026-10-09T10:00:00-04:00",
+      "category": "improvement",
+      "repo": "website",
+      "commitSha": "9423eaa"
     }
   ]
 }
