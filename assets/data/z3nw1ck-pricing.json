@@ -1,0 +1,59 @@
+{
+  "updated": "2026-10-09",
+  "source": "AE Z3nw1ck Seasonal Pricing 2026-10-08.md (Obsidian vault)",
+  "locked": true,
+  "seasonal": {
+    "Hello fall": {
+      "candle_2_5oz": 7.5,
+      "wax_melt": 8.5,
+      "collection": "Seasonal"
+    },
+    "Santa's pipe": {
+      "candle_2_5oz": 7.5,
+      "wax_melt": 8.5,
+      "collection": "Seasonal"
+    },
+    "note": "Limited time only — 2.5oz tins priced above Classic ($5) and below Premium ($9/$10)"
+  },
+  "classic": {
+    "Satsuma": {
+      "melt": 6,
+      "2oz": 5,
+      "5oz": 10,
+      "incense_20pk": 8
+    },
+    "Fruit Loops": {
+      "melt": 6,
+      "2oz": 5,
+      "5oz": 10,
+      "incense_20pk": 8
+    },
+    "Simple Daydreams": {
+      "melt": 6,
+      "2oz": 5,
+      "5oz": 10,
+      "incense_20pk": 8
+    },
+    "Cap'n Crunch Berries": {
+      "melt": 6,
+      "2oz": 5,
+      "5oz": 10,
+      "incense_20pk": 8
+    }
+  },
+  "premium": {
+    "Monkey Farts": {
+      "melt": 10,
+      "2oz": 9,
+      "5oz": 16,
+      "incense_20pk": 12
+    },
+    "Bourbon & Sandalwood": {
+      "melt": 10,
+      "2oz": 9,
+      "5oz": 16,
+      "incense_20pk": 12
+    }
+  },
+  "autonomous_refresh_note": "Pricing must stay synchronized with Obsidian vault. Check AE Z3nw1ck Locked Pricing / Seasonal Pricing files before any quote or update."
+}
