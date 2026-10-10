@@ -30,6 +30,8 @@ rm -rf _site
 # public_suffix because the default gem is already activated. Cost us a full
 # evening on 2026-10-04. Do not "simplify" this back.
 "$RUBY" -S bundle exec jekyll build 2>&1 | tail -4
+# Preserve standalone research.html (not Jekyll-generated) through rebuild
+cp research.html _site/research.html 2>/dev/null || true
 mv Gemfile.bak Gemfile 2>/dev/null || true
 mv Gemfile.lock.bak Gemfile.lock 2>/dev/null || true
 
