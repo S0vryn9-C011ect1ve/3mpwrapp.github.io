@@ -186,8 +186,11 @@ description: 3mpwrApp empowers Canada's disability and injured-worker community 
   <summary>Detailed: Who We Serve & How</summary>
   <div class="details-content">
     <ul>
-      <li>🦽 <strong>Persons with disabilities</strong> - All disabilities welcomed: physical, cognitive, mental health, chronic illness, invisible disabilities, and more</li>
-      <li>🏗️ <strong>Injured workers</strong> - Workplace injuries, occupational diseases, repetitive strain, psychological injuries</li>
+      <li>🦽 <strong>Persons with disabilities</strong> — All types: physical, cognitive, mental health, chronic illness, invisible disabilities, and more</li>
+      <li>🏗️ <strong>Injured workers</strong> — Workplace injuries, occupational diseases, psychological injuries</li>
+      <li>🌿 <strong>Indigenous peoples</strong> — First Nations, Métis, Inuit; including Indigenous language, health, disability, and treaty rights</li>
+      <li>🎖️ <strong>Veterans</strong> — Military-to-civilian transition, disability benefits, VAC/VRAB support</li>
+      <li>👴 <strong>Seniors / elderly</strong> — Age-related accessibility, benefits navigation, plain-language guides</li>
       <li>💙 <strong>Family supporters & caregivers</strong> - Parents, spouses, partners, siblings, chosen family</li>
       <li>🤝 <strong>Allies</strong> - Non-disabled people committed to disability justice and accessibility</li>
       <li>🛠️ <strong>Union members</strong> - Collective organizing for workers' rights and disability accommodations</li>

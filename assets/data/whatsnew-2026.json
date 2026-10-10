@@ -1,8 +1,17 @@
 {
   "year": 2026,
   "version": "1.0",
-  "lastUpdated": "2026-10-08T09:15:00-04:00",
+  "lastUpdated": "2026-10-09T09:30:00-04:00",
   "entries": [
+    {
+      "id": "wn-2026-10-09-indigenous-full-verification",
+      "title": "🌿 Indigenous Communities — Full Verification & Research Integration",
+      "summary": "Confirmed indigenous community coverage (health, disability rights, cultural protocols, traditional knowledge respect, ceremonial considerations, land acknowledgment) fully intact across app (indigenous-language settings) and site (user-guide: Indigenous Languages + Indigenous Rights & Treaty Protections; feature-spotlight 2026-03-24; dev diary 2026-04-24 / 07-02; crisis .service-card.indigenous; NIHB). Not reduced to language only. Integrated into Athena flywheels (indigenous-language, indigenous_disability_rights, indigenous_accessibility) and user base. What's New entry + site post created.",
+      "date": "2026-10-09T09:30:00-04:00",
+      "category": "docs",
+      "repo": "app+website",
+      "commitSha": "pending"
+    },
     {
       "id": "wn-2026-10-08-sitewide-numbers-winrate-sweep",
       "title": "🔢 Site-wide number + win-rate reconciliation",
