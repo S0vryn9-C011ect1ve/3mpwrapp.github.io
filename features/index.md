@@ -61,7 +61,7 @@ Every feature, guide, resource, and research section links directly to each comm
 |---|---|---|
 | **5 essential tools** | **17 important tools** | **All 31 features** |
 | For crisis, brain fog, bad days | For ongoing advocacy | For full power |
-| [See what's in Simple Mode](#simple-features) | [See what's in Standard Mode](#standard-features) | [All features shown below](#all-features) |
+| [See what's in Simple Mode](#simple-features) | [See what's in Standard Mode](#standard-features) | [All features shown below → Flywheels Public](https://www.3mpwrapp.ca/flywheels-public#all-features) |
 
 [Learn how to change your mode →](/user-guide/#complexity-mode)
 
