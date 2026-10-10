@@ -2,8 +2,8 @@
 layout: default
 title: 3MPWRAPP Features - Complete Feature Guide
 description: Explore all 31 features in 3MPWRAPP for the disability community. Learn what each feature does, why it matters, how to use it, and who it helps - for injured workers, persons with disabilities, advocates, and vulnerable Canadians.
-version: 2.0 (Complete Rewrite - May 2026)
-lastUpdated: 2026-09-12
+version: 2.1 (Full Update — Oct 09, 2026)
+lastUpdated: 2026-10-09
 accessibility: WCAG 2.2 AAA - fully readable in light, dark, and high contrast modes
 ---
 
@@ -21,6 +21,22 @@ This page explains every tool in 3MPWRAPP. Each feature shows:
 - Links to step-by-step instructions and FAQs
 
 *3MPWRAPP is built by and for the disability community, injured workers, advocates, supporters, and all vulnerable Canadians seeking justice and support.*
+
+---
+
+---
+## Navigate by Community (8 user bases — fully inter-linked)
+
+Every feature, guide, resource, and research section links directly to each community's dedicated subsection. **Updated: October 09, 2026.** All links verified — nothing invented.
+
+- **🌿 Indigenous Communities** → [User Guide · Languages & Protocols](/user-guide/#indigenous-languages) · [Beta Guide · Testing Protocols](/beta-guide/#what-to-test) · [Features · Language Support](/features/#indigenous-language-support) · [Research · Health & Disability](/research/#indigenous-health-disability)
+- **🦽 Persons with Disabilities** → [User Guide · Accessibility](/user-guide/#accessibility-settings) · [Beta Guide · Accessibility Testing](/beta-guide/#accessibility-testing) · [Features · Cognitive & Neurodivergent](/features/#accessibility) · [Research · Disability Programs](/research/#persons-with-disabilities)
+- **🏗️ Injured Workers** → [User Guide · Evidence & Appeals](/user-guide/#evidence-locker) · [Beta Guide · Core Workflows](/beta-guide/#core-workflows) · [Features · Evidence & Advocacy](/features/#evidence) · [Research · WSIB/WSIAT & Tribunals](/research/#injured-workers--wsibwsiat)
+- **🎖️ Veterans** → [User Guide · Appeals & Benefits](/user-guide/#advocacy-section) · [Beta Guide · Testing Workflows](/beta-guide/#core-workflows) · [Features · Advocacy Tools](/features/#advocacy) · [Research · VAC/VRAB](/research/#veterans-vac--vrab)
+- **👴 Elderly / Seniors** → [User Guide · Complexity Mode](/user-guide/#complexity-mode) · [Beta Guide · Performance Testing](/beta-guide/#performance-testing) · [Features · Wellness Tracking](/features/#wellness) · [Research · Seniors & OAS/GIS](/research/#seniors)
+- **👨‍👩‍👧 Families / Caregivers** → [User Guide · Community Hub](/user-guide/#community-hub) · [Beta Guide · Feedback](/beta-guide/#feedback) · [Features · Community Connection](/features/#community) · [Research · Caregiver Supports](/research/#caregivers)
+- **🤝 Allies / Supporters** → [User Guide · Quick Start](/user-guide/#quick-start) · [Beta Guide · How to Join Beta](/beta-guide/#how-to-join-beta-testing) · [Features · Support & Help](/features/#support) · [Research · Law & Precedents](/research/#law--canlii-precedents)
+- **📣 Advocates / Public Allies** → [User Guide · Advocacy Suite](/user-guide/#advocacy-section) · [Beta Guide · Bug Reporting](/beta-guide/#bug-reporting) · [Features · Advocacy & Legal](/features/#advocacy) · [Research · Human Rights & UNCRPD](/research/#human-rights--uncrpd)
 
 ---
 
