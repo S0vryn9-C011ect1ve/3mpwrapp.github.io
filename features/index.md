@@ -67,7 +67,7 @@ Every feature, guide, resource, and research section links directly to each comm
 
 ---
 
-## The 3 Flywheels of Change
+## The 3 Flywheels of Change → [Public Flywheels](https://www.3mpwrapp.ca/flywheels-public)
 
 **Our most critical assets. These flywheels create exponential impact by turning individual evidence into collective knowledge.**
 
