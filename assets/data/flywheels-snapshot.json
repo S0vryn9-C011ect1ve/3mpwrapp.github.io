@@ -1,36 +1,37 @@
 {
-  "total": 1207,
+  "total": 1271,
   "verified": 5,
   "by_community": {
-    "disability": 528,
-    "injured_workers": 340,
-    "welfare_social": 275,
-    "accessibility": 228,
-    "elderly": 70,
-    "veterans": 39,
+    "disability": 558,
+    "injured_workers": 347,
+    "welfare_social": 292,
+    "accessibility": 252,
+    "elderly": 73,
+    "veterans": 40,
     "vulnerable_communities": 2
   },
   "by_jurisdiction": {
-    "INTL": 521,
-    "CA-ON": 473,
-    "CA-FED": 118,
-    "CA-AB": 68,
+    "INTL": 545,
+    "CA-ON": 495,
+    "CA-FED": 128,
+    "CA-AB": 69,
     "CA-BC": 21,
+    "CA-NT": 7,
     "CA-YT": 4,
     "CA-TERR": 1,
     "CA": 1
   },
   "by_source": {
-    "x": 606,
-    "reddit": 439,
-    "news": 145,
+    "x": 656,
+    "reddit": 443,
+    "news": 155,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 1190,
+    "unverified_social": 1254,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -39,220 +40,225 @@
   },
   "recent": [
     {
-      "id": "1wzxzhy",
-      "source": "reddit",
-      "title": "\"Let me know if you ever need help\"",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-10-09",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.reddit.com/r/disability/comments/1wzxzhy/let_me_know_if_you_ever_need_help/"
-    },
-    {
-      "id": "1x0x5wo",
-      "source": "reddit",
-      "title": "My brother went nearly 10 years without a way to communicate. I built him a switch-accessible hub of tools and games using AI.",
-      "communities": [
-        "accessibility"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-10-09",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://v.redd.it/g06fnt0s3auh1"
-    },
-    {
-      "id": "1wz7zxj",
-      "source": "reddit",
-      "title": "[X] A Russian telling a Czech veteran who fought in Ukraine since the beginning of the war and lost his leg there that he's scared to join the Ukrainian Armed Forces.",
-      "communities": [
-        "veterans"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-10-09",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://i.redd.it/6e7d0y13pvth1.png"
-    },
-    {
-      "id": "57c3817ffb29",
+      "id": "825dd55ffb64",
       "source": "x",
-      "title": "We’re pleased to share that the OEA has received a successful WSIAT decision in the WSIB redactions appeal – Decision No. 1391/24.  This case concerned the WSIB’s position that decisions to withhold m",
+      "title": "Province-wide WSIB staffing cuts will impact hundreds of workers, including 155 workers in Waterloo. @OCEU1750 president: \"[This] will hurt injured workers in Ontario — the same injured workers that t",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/askoea/status/2108637322866528747"
+      "url": "https://x.com/CFifeKW/status/2090462710563819637"
     },
     {
-      "id": "7699bfd92de5",
+      "id": "5cd40f359730",
       "source": "x",
-      "title": "I made it to the 9th, even with two crock pots and meal planning. I will now coast on what is in my fridge and pantry for the next few weeks. That's #odsp after sky-high rents, that's #ow and #wsib fa",
-      "communities": [
-        "disability",
-        "injured_workers",
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-09",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/ODSPoor/status/2108627506718748856"
-    },
-    {
-      "id": "7cde3c2b72cc",
-      "source": "x",
-      "title": "I have compiled my interviews based on decades of living with disabilities, repeated homelessness, multiple mental illnesses, invasive addictions, and also new lived experience based advocacy and acti",
-      "communities": [
-        "disability",
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-09",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/ODSPoor/status/1996854687862079751"
-    },
-    {
-      "id": "22291ded484d",
-      "source": "x",
-      "title": "@MarkJCarney @WSIB Hire more Police for government crimes they can start @WSIB's SINECURE that might take a while ....,  Good to hear WSIB laid off 500 of its obese &amp; ignoble staff.  Good RIDDANCE",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-09",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/DaveOakes2022/status/2108616371080982918"
-    },
-    {
-      "id": "eda2ff604afc",
-      "source": "x",
-      "title": "Consider this scenario: A worker has a history of attendance or performance issues. After a workplace injury, they return on modified duties - but the same workplace concerns continue. Can the employe",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-09",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/askoea/status/2108596223007412560"
-    },
-    {
-      "id": "21aa442fb4b9",
-      "source": "x",
-      "title": "#Doug Ford  Today's 64,000,00 question: seeing how Doug Ford is hell bent on destroying wsib by giving billions of injured workers money back to corporations , Today's question is when will ford resto",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-09",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/cottageboy51/status/2108571523241886137"
-    },
-    {
-      "id": "c889795952c5",
-      "source": "x",
-      "title": "2/8  My Ontario Labour Relations Board proceeding concerned workplace harassment and serious questions about the independence of the investigation into my complaints.  The WSIB accepted that I had suf",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-09",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/likeDavyWatts/status/2108387963633602992"
-    },
-    {
-      "id": "46e0456b354c",
-      "source": "x",
-      "title": "WSIB called pushing MAID, I told them to FUCKOFF https://t.co/cYKr5hQsI2",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-09",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/DaveOakes2022/status/2108338896006512934"
-    },
-    {
-      "id": "915dda3e192e",
-      "source": "x",
-      "title": "@PierrePoilievre Dismissed and paperworked to poverty by WSIB I refused unsafe work because the bully kept subtly threatening and intimidating me throughout the days following I couldnt bring myself t",
+      "title": "They can go through the human rights tribunal.  You can sue WSIB and your employer. You can name names, even if you are told you can't. A friend of mine did and the company fired the health &amp; safe",
       "communities": [
         "injured_workers",
         "welfare_social"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/DisabledAdvoc/status/2108300410247164243"
+      "url": "https://x.com/DrAlexMHorton/status/2108857427873423385"
     },
     {
-      "id": "58e3472ba313",
+      "id": "b165835b699b",
       "source": "x",
-      "title": "Do you suspect that your #Employee is NOT #Injured the way the way he says he is, and is able to #ReturntoWork? Call us at 1-888-703-2912 to discuss HOW we are able to help you. #WSIB #Ontario #Brampt",
+      "title": "WSIB reports Most dangerous  violence in the workplace  Educational Assistants (Elementary/Secondary): 635 claims  Correctional Services Officers: 345 claims  Police Officers: 322 claims  Nurses Aides",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/piplus3/status/2108227226793660762"
+      "url": "https://x.com/DrAlexMHorton/status/2108855296869245022"
     },
     {
-      "id": "e0a02123c2d6",
+      "id": "ea6e8f9b2e22",
       "source": "x",
-      "title": "The 1964 CPP White Paper set a floor: reasonable minimum income at retirement, on disability, and for dependents.   Private plans were meant to go over that floor, not under it.   Alberta WCB Policy 0",
+      "title": "@jamiewestndp Reminds me of WSIB. A day doesn't go by that I don't hear an ad in the radio or see something on Facebook or a podcast, meanwhile they lay off hundreds in the north!",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-10",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/dshyminsky/status/2108770563736932488"
+    },
+    {
+      "id": "e49cc9cd7f8a",
+      "source": "x",
+      "title": "職場での転倒事故防止を啓蒙するカナダの公共CMです。「私チーフシェフに昇進、結婚もするから幸せ！」という女性が転倒して大やけどをして絶叫する。原因は床が汚れていたから。 / “The Chef - WSIB Workplace Safety Ad” https://t.co/A1hlULVvgv",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-10",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/hakaiya2/status/2108724923963519073"
+    },
+    {
+      "id": "40c18c135546",
+      "source": "x",
+      "title": "@BowdenWend52722 @sarobertson_ Standing/living in On, Poilievre fails to mention 600 jobs lost from #Conservative Premier Doug Ford closing Ontario WSIB offices and sending the jobs to the U.S., award",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-10",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/sturgeon_sue/status/2108674686553047439"
+    },
+    {
+      "id": "9e23cef1568c",
+      "source": "x",
+      "title": "So 3 AM Saturday email from disability means whole Thanksgiving weekend has changed, and I am now housebound, mostly bedbound, because of the conditions ODSP has attached to me getting a new wheelchai",
       "communities": [
         "disability",
-        "injured_workers"
+        "welfare_social"
       ],
-      "jurisdiction": "CA-AB",
-      "date": "2026-10-09",
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-10",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://x.com/TheTideRises333/status/2108254989156225336"
+      "url": "https://x.com/livingklife/status/2108849069204361641"
     },
     {
-      "id": "96635bd1f2bf",
+      "id": "c9a71835dfbd",
       "source": "x",
-      "title": "ANALYSIS: Statistics show that there would be far less workplace injuries: if people weren’t forced to work: UBI experts say https://t.co/xMZyxwlKrq",
+      "title": "@ggrmcd @fordnation @fordnation and @SylviaJonesMPP are murderers.  plain and simple.  Their policies on healthcare, housing, ODSP and OW are all contributing to rising death tolls in Ontario",
       "communities": [
-        "injured_workers"
+        "disability",
+        "welfare_social"
       ],
-      "jurisdiction": "INTL",
-      "date": "2026-10-09",
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-10",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://x.com/KeyOfBart/status/2108264381759029281"
+      "url": "https://x.com/FeckiTea_Foo/status/2108800418318807549"
+    },
+    {
+      "id": "bbfc0de1104b",
+      "source": "x",
+      "title": "@TheJasonPugh @AndrewLawton That's more than a year's income for a single ODSP recipient. More than twice my income, I have a full housing subsidy in my cooperative housing.",
+      "communities": [
+        "disability",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-10",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/ToddKaighin/status/2108798082079154687"
+    },
+    {
+      "id": "e19beb20bfbf",
+      "source": "x",
+      "title": "Good night ODSP mom still needing help with fresh food goal $50 e-transfer/PP panther226@hotmail.com and peanut butter and pads or anything from our WL https://t.co/hcrtLm0GK2 pls repost @nejsnave @Ci",
+      "communities": [
+        "disability",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-10",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/JTkksmom/status/2108778063236305011"
+    },
+    {
+      "id": "c12c7bfa1354",
+      "source": "x",
+      "title": "@Mutualaidboost2 https://t.co/PjJkHDNNvZ   $710.38  behind on current bills  210.28 balance  Any and all #help is/would be greatly appreciated #MutualAid #ODSP #disabled #poverty #MutualAidRequest   E",
+      "communities": [
+        "disability",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-10",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/doubledouble416/status/2108751667147530414"
+    },
+    {
+      "id": "b62f7918fbc0",
+      "source": "x",
+      "title": "@jamiewestndp lol that's almost as laughable as believing the NDP are fighting for people on ODSP ! LOL. https://t.co/7EA01Z3rXv",
+      "communities": [
+        "disability",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-10",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/The280Times/status/2108742410457031019"
+    },
+    {
+      "id": "415e95105153",
+      "source": "x",
+      "title": "@Mutualaidboost2 $710.38  behind on current bills  210.28 balance  Any and all #help is/would be greatly appreciated #MutualAid #ODSP #disabled #poverty #MutualAidRequest   E-transfer doubledouble416@",
+      "communities": [
+        "disability",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-10",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/doubledouble416/status/2108740148066181357"
+    },
+    {
+      "id": "ea927ce3cc96",
+      "source": "x",
+      "title": "Canadian Thanksgiving 🦃🇨🇦 very soon October 12th. Anything on #Amazonwishlist is appreciated. #odspoverty #odsp #mutualaidboost #mutualaidcanada  E-Transfer: Orvillelloyddouglas@gmail.com https://t.co",
+      "communities": [
+        "disability",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-10",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/OrvilleLloyd/status/2108725563128975769"
+    },
+    {
+      "id": "4667cc8ed535",
+      "source": "x",
+      "title": "Monday is Canadian Thanksgiving 🇨🇦🦃 $300 help a lot for bills, $100 food, laundry, transportation. $200 fall clothes jacket, sweaters, jeans, men underwear.#odsp #mutualaid #mutualaidrequest  E-Transf",
+      "communities": [
+        "disability",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-10",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/OrvilleLloyd/status/2108713601754099884"
     }
   ],
-  "generated": "2026-10-09"
+  "generated": "2026-10-10"
 }
