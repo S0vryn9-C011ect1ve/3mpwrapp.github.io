@@ -1,10 +1,10 @@
 {
-  "total": 1271,
+  "total": 1276,
   "verified": 5,
   "by_community": {
-    "disability": 558,
+    "disability": 562,
     "injured_workers": 347,
-    "welfare_social": 292,
+    "welfare_social": 293,
     "accessibility": 252,
     "elderly": 73,
     "veterans": 40,
@@ -12,8 +12,8 @@
   },
   "by_jurisdiction": {
     "INTL": 545,
-    "CA-ON": 495,
-    "CA-FED": 128,
+    "CA-ON": 499,
+    "CA-FED": 129,
     "CA-AB": 69,
     "CA-BC": 21,
     "CA-NT": 7,
@@ -23,15 +23,15 @@
   },
   "by_source": {
     "x": 656,
-    "reddit": 443,
-    "news": 155,
+    "reddit": 444,
+    "news": 159,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 1254,
+    "unverified_social": 1259,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -39,6 +39,80 @@
     "manual_curated": 1
   },
   "recent": [
+    {
+      "id": "1x2xlor",
+      "source": "reddit",
+      "title": "Laidoff After 9 Years",
+      "communities": [
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-FED",
+      "date": "2026-10-11",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://www.reddit.com/r/PersonalFinanceCanada/comments/1x2xlor/laidoff_after_9_years/"
+    },
+    {
+      "id": "news-61cb464741bb",
+      "source": "news",
+      "title": "Chronic Pain Lasts Longer For Women Than Men, But A New Study Might Find An Opioid-Free Solution - BGR",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-11",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVVBrbk83UDFTZGVVZ3JfdUpiQk5EQXFXVzZQNUoyUzZCWXVJUjhiZzZIV2VMNFV3aTZBMy1nRGhxaUpPcmh2dkNieUJGa2JRNV9MZ1VsM2VQZ3hfRDRjOTRucnpMOC0tTVRVWjlZRVJvVEhKMHJvNTdiNEhicEYwMklzeFZsdERZUDhNa056a1ZtWVIwMmRibnJVTTl0SUM0eWNZd3hn?oc=5"
+    },
+    {
+      "id": "news-1c8be335b843",
+      "source": "news",
+      "title": "United Nations launches month-long celebration of disability inclusion - United Nations in Philippines",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-11",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ2FGR2dxSWhhczRKVTU4RGRqc1NzbTNuXzRZYVNOeVQxRUxNUlpuTzNIQ2ZUdzU5RV9WWDh2ZGRSeVV5d29iVlpCb2kyT21na2dfemhHa1h0RWJ3M1BwdWNMZzI1eGhOV3RsX2NjZjJRVVVLMmVHU3F1ekU0RFRwOGdZaGZybnRaWUxsQUd1aG40a21kR2lpQUhvTnFWcC0yeTljWVZ1cw?oc=5"
+    },
+    {
+      "id": "news-affec0062ea6",
+      "source": "news",
+      "title": "65th Abbie Rogers Civitan Camp welcomes developmentally disabled adults to weekend-long fun - KWQC",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-11",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORTd1QVp0bkVLZGtSdlBNOFEzWU9DX3lrQldmdXQ5YlFRN0hKVjV0SVZldjNFZldLWjVPdXZidkxqb1Q5QldSb3M4bTh5N0tIQjRkZ2NEVllVak5rRTdLZU5Wa0NXaG5yWmVScS02RWd4SEZoZUI4dGlSUl9EcXJpRDAyalJMckhkN3ZTUmVwZUttYXZ3X1pNTlFVaVphR0RpZXlsZGJpcUx0QlBLR0tjS21Dd3dIdGktVjJnaFNZb0Vzc0doVGc?oc=5"
+    },
+    {
+      "id": "news-72f36bebdb22",
+      "source": "news",
+      "title": "65th Abbie Rogers Civitan Camp welcomes developmentally disabled adults to weekend-long fun - ABC7 WWSB",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-11",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYmNRcklJa2lDYnZVUGFwZkthZmF1bFNjNmtJaVdRcHpiUkRzZkNUUm82OGxvM1V5SGo4Q2d0VTI3YTBZLVl0SmNJM1dCYkMwUmR6eHMxOHNZWjFWbW5CSFBrbmlsdU1WVll1SUU5M3JNXzV2eURxbXJ4M0tRMmllTkNzRTVDbWlBdVRUY255djU5ZHctVXZFdHZIbGtXR0NFY0pvRGt4VEx4MV9LSEtLQmplZFBCRTJRQ0FWTzNpOThnT1oxMUFHcHFsWUMwZw?oc=5"
+    },
     {
       "id": "825dd55ffb64",
       "source": "x",
@@ -183,82 +257,7 @@
         "knowledge"
       ],
       "url": "https://x.com/JTkksmom/status/2108778063236305011"
-    },
-    {
-      "id": "c12c7bfa1354",
-      "source": "x",
-      "title": "@Mutualaidboost2 https://t.co/PjJkHDNNvZ   $710.38  behind on current bills  210.28 balance  Any and all #help is/would be greatly appreciated #MutualAid #ODSP #disabled #poverty #MutualAidRequest   E",
-      "communities": [
-        "disability",
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-10",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/doubledouble416/status/2108751667147530414"
-    },
-    {
-      "id": "b62f7918fbc0",
-      "source": "x",
-      "title": "@jamiewestndp lol that's almost as laughable as believing the NDP are fighting for people on ODSP ! LOL. https://t.co/7EA01Z3rXv",
-      "communities": [
-        "disability",
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-10",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/The280Times/status/2108742410457031019"
-    },
-    {
-      "id": "415e95105153",
-      "source": "x",
-      "title": "@Mutualaidboost2 $710.38  behind on current bills  210.28 balance  Any and all #help is/would be greatly appreciated #MutualAid #ODSP #disabled #poverty #MutualAidRequest   E-transfer doubledouble416@",
-      "communities": [
-        "disability",
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-10",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/doubledouble416/status/2108740148066181357"
-    },
-    {
-      "id": "ea927ce3cc96",
-      "source": "x",
-      "title": "Canadian Thanksgiving 🦃🇨🇦 very soon October 12th. Anything on #Amazonwishlist is appreciated. #odspoverty #odsp #mutualaidboost #mutualaidcanada  E-Transfer: Orvillelloyddouglas@gmail.com https://t.co",
-      "communities": [
-        "disability",
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-10",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/OrvilleLloyd/status/2108725563128975769"
-    },
-    {
-      "id": "4667cc8ed535",
-      "source": "x",
-      "title": "Monday is Canadian Thanksgiving 🇨🇦🦃 $300 help a lot for bills, $100 food, laundry, transportation. $200 fall clothes jacket, sweaters, jeans, men underwear.#odsp #mutualaid #mutualaidrequest  E-Transf",
-      "communities": [
-        "disability",
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-10",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/OrvilleLloyd/status/2108713601754099884"
     }
   ],
-  "generated": "2026-10-10"
+  "generated": "2026-10-11"
 }
