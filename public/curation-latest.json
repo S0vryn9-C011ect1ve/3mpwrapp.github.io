@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-11",
-  "timestamp": "2026-10-11T17:29:25.334Z",
-  "count": 6,
+  "date": "2026-10-12",
+  "timestamp": "2026-10-12T21:02:29.352Z",
+  "count": 3,
   "minScore": 3.5,
   "items": [
     {
@@ -9,42 +9,21 @@
       "link": "https://linktr.ee/thedisabilitybulletin",
       "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
       "score": 10,
-      "pubDate": "2026-10-11T17:29:25.313Z"
+      "pubDate": "2026-10-12T21:02:29.350Z"
     },
     {
-      "title": "Governments of Canada and Manitoba Support Workforce Training in Industrial Data Literacy and Applied AI in Aerospace and Manufacturing",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75503",
+      "title": "Manitoba Government Hires 17 Psychiatrists to Expand Mental Health-Care Access",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75504",
       "description": "",
-      "score": 23,
-      "pubDate": "Thu, 24 Sep 2026 14:19:00 CDT"
+      "score": 19.4,
+      "pubDate": "Fri, 25 Sep 2026 13:30:00 CDT"
     },
     {
-      "title": "Manitoba Government Supports Selkirk and District Curling Club with $80,000 Grant for Renovations",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75501",
-      "description": "",
-      "score": 9.5,
-      "pubDate": "Thu, 24 Sep 2026 13:20:00 CDT"
-    },
-    {
-      "title": "Manitoba Government Invests $100,000 in Dauphin's Maamawi Park",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75585",
-      "description": "",
-      "score": 7.5,
-      "pubDate": "Fri, 02 Oct 2026 14:59:00 CDT"
-    },
-    {
-      "title": "Manitoba Government Invests $100,000 in Petersfield Walking Trail Project",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75502",
-      "description": "",
-      "score": 7.5,
-      "pubDate": "Thu, 24 Sep 2026 13:27:00 CDT"
-    },
-    {
-      "title": "Measles Update #115",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75584",
-      "description": "",
-      "score": 4.5,
-      "pubDate": "Fri, 02 Oct 2026 13:44:00 CDT"
+      "title": "‘Defeat These Questions’: A Senator’s Fiery Rebuke to the UCP Referendum",
+      "link": "https://thetyee.ca/Opinion/2026/10/12/Senator-Fiery-Rebuke-UCP-Referendum/",
+      "description": "Paula Simons stood to urge fellow Albertans to reject ‘a scurrilous smear campaign’ against newcomers.",
+      "score": 3.9000000000000004,
+      "pubDate": "Mon, 12 Oct 2026 07:30:00 +0000"
     }
   ]
 }
