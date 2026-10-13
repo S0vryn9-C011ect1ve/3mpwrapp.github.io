@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-12",
-  "timestamp": "2026-10-12T21:02:29.352Z",
-  "count": 3,
+  "date": "2026-10-13",
+  "timestamp": "2026-10-13T19:00:52.869Z",
+  "count": 5,
   "minScore": 3.5,
   "items": [
     {
@@ -9,21 +9,35 @@
       "link": "https://linktr.ee/thedisabilitybulletin",
       "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
       "score": 10,
-      "pubDate": "2026-10-12T21:02:29.350Z"
+      "pubDate": "2026-10-13T19:00:52.801Z"
     },
     {
-      "title": "Manitoba Government Hires 17 Psychiatrists to Expand Mental Health-Care Access",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75504",
+      "title": "Manitoba Government Invests $69,790 in Portage la Prairie's Community Safety and Well-Being Plan",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75697",
       "description": "",
-      "score": 19.4,
-      "pubDate": "Fri, 25 Sep 2026 13:30:00 CDT"
+      "score": 10.5,
+      "pubDate": "Tue, 13 Oct 2026 11:59:00 CDT"
     },
     {
-      "title": "‘Defeat These Questions’: A Senator’s Fiery Rebuke to the UCP Referendum",
-      "link": "https://thetyee.ca/Opinion/2026/10/12/Senator-Fiery-Rebuke-UCP-Referendum/",
-      "description": "Paula Simons stood to urge fellow Albertans to reject ‘a scurrilous smear campaign’ against newcomers.",
-      "score": 3.9000000000000004,
-      "pubDate": "Mon, 12 Oct 2026 07:30:00 +0000"
+      "title": "Why Is Public Transit a Phantom Election Issue?",
+      "link": "https://thetyee.ca/Opinion/2026/10/13/Public-Transit-Phantom-Election-Issue/",
+      "description": "It’s a popular policy measure that wins votes. But the leading provincial parties haven’t come out strong on the issue.",
+      "score": 5,
+      "pubDate": "Tue, 13 Oct 2026 07:20:00 +0000"
+    },
+    {
+      "title": "Manitoba Government Invests More Than $1.2 Million in Festivals Across Manitoba",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75698",
+      "description": "",
+      "score": 7.5,
+      "pubDate": "Tue, 13 Oct 2026 12:04:00 CDT"
+    },
+    {
+      "title": "A Big Newspaper Seemed to Menace Avi Lewis. Then, Media Crickets",
+      "link": "https://thetyee.ca/Opinion/2026/10/13/Big-Newspaper-Seemed-Menace-Avi-Lewis/",
+      "description": "Many saw a call to violence in the National Post article. Why isn’t that news?",
+      "score": 4.5,
+      "pubDate": "Tue, 13 Oct 2026 07:30:00 +0000"
     }
   ]
 }
