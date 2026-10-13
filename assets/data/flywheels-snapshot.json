@@ -1,37 +1,38 @@
 {
-  "total": 1276,
+  "total": 1367,
   "verified": 5,
   "by_community": {
-    "disability": 562,
-    "injured_workers": 347,
-    "welfare_social": 293,
-    "accessibility": 252,
-    "elderly": 73,
+    "disability": 603,
+    "injured_workers": 364,
+    "welfare_social": 317,
+    "accessibility": 287,
+    "elderly": 75,
     "veterans": 40,
     "vulnerable_communities": 2
   },
   "by_jurisdiction": {
-    "INTL": 545,
-    "CA-ON": 499,
-    "CA-FED": 129,
-    "CA-AB": 69,
+    "INTL": 576,
+    "CA-ON": 539,
+    "CA-FED": 146,
+    "CA-AB": 71,
     "CA-BC": 21,
     "CA-NT": 7,
     "CA-YT": 4,
     "CA-TERR": 1,
-    "CA": 1
+    "CA": 1,
+    "CA-NL": 1
   },
   "by_source": {
-    "x": 656,
-    "reddit": 444,
-    "news": 159,
+    "x": 736,
+    "reddit": 446,
+    "news": 168,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 1259,
+    "unverified_social": 1350,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -40,224 +41,218 @@
   },
   "recent": [
     {
-      "id": "1x2xlor",
-      "source": "reddit",
-      "title": "Laidoff After 9 Years",
-      "communities": [
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-FED",
-      "date": "2026-10-11",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.reddit.com/r/PersonalFinanceCanada/comments/1x2xlor/laidoff_after_9_years/"
-    },
-    {
-      "id": "news-61cb464741bb",
-      "source": "news",
-      "title": "Chronic Pain Lasts Longer For Women Than Men, But A New Study Might Find An Opioid-Free Solution - BGR",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-11",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVVBrbk83UDFTZGVVZ3JfdUpiQk5EQXFXVzZQNUoyUzZCWXVJUjhiZzZIV2VMNFV3aTZBMy1nRGhxaUpPcmh2dkNieUJGa2JRNV9MZ1VsM2VQZ3hfRDRjOTRucnpMOC0tTVRVWjlZRVJvVEhKMHJvNTdiNEhicEYwMklzeFZsdERZUDhNa056a1ZtWVIwMmRibnJVTTl0SUM0eWNZd3hn?oc=5"
-    },
-    {
-      "id": "news-1c8be335b843",
-      "source": "news",
-      "title": "United Nations launches month-long celebration of disability inclusion - United Nations in Philippines",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-11",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ2FGR2dxSWhhczRKVTU4RGRqc1NzbTNuXzRZYVNOeVQxRUxNUlpuTzNIQ2ZUdzU5RV9WWDh2ZGRSeVV5d29iVlpCb2kyT21na2dfemhHa1h0RWJ3M1BwdWNMZzI1eGhOV3RsX2NjZjJRVVVLMmVHU3F1ekU0RFRwOGdZaGZybnRaWUxsQUd1aG40a21kR2lpQUhvTnFWcC0yeTljWVZ1cw?oc=5"
-    },
-    {
-      "id": "news-affec0062ea6",
-      "source": "news",
-      "title": "65th Abbie Rogers Civitan Camp welcomes developmentally disabled adults to weekend-long fun - KWQC",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-11",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORTd1QVp0bkVLZGtSdlBNOFEzWU9DX3lrQldmdXQ5YlFRN0hKVjV0SVZldjNFZldLWjVPdXZidkxqb1Q5QldSb3M4bTh5N0tIQjRkZ2NEVllVak5rRTdLZU5Wa0NXaG5yWmVScS02RWd4SEZoZUI4dGlSUl9EcXJpRDAyalJMckhkN3ZTUmVwZUttYXZ3X1pNTlFVaVphR0RpZXlsZGJpcUx0QlBLR0tjS21Dd3dIdGktVjJnaFNZb0Vzc0doVGc?oc=5"
-    },
-    {
-      "id": "news-72f36bebdb22",
-      "source": "news",
-      "title": "65th Abbie Rogers Civitan Camp welcomes developmentally disabled adults to weekend-long fun - ABC7 WWSB",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-11",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYmNRcklJa2lDYnZVUGFwZkthZmF1bFNjNmtJaVdRcHpiUkRzZkNUUm82OGxvM1V5SGo4Q2d0VTI3YTBZLVl0SmNJM1dCYkMwUmR6eHMxOHNZWjFWbW5CSFBrbmlsdU1WVll1SUU5M3JNXzV2eURxbXJ4M0tRMmllTkNzRTVDbWlBdVRUY255djU5ZHctVXZFdHZIbGtXR0NFY0pvRGt4VEx4MV9LSEtLQmplZFBCRTJRQ0FWTzNpOThnT1oxMUFHcHFsWUMwZw?oc=5"
-    },
-    {
-      "id": "825dd55ffb64",
+      "id": "45013cb0b1c6",
       "source": "x",
-      "title": "Province-wide WSIB staffing cuts will impact hundreds of workers, including 155 workers in Waterloo. @OCEU1750 president: \"[This] will hurt injured workers in Ontario — the same injured workers that t",
+      "title": "@Corruptario4eva It isn't about police. These are the stats conducted by WSIB. I have a family member who is in the RCMP who agrees about the violence in schools and how dangerous Educational Assistan",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-10",
+      "date": "2026-10-12",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/CFifeKW/status/2090462710563819637"
+      "url": "https://x.com/DrAlexMHorton/status/2109316436430585896"
     },
     {
-      "id": "5cd40f359730",
+      "id": "a6e63252f137",
       "source": "x",
-      "title": "They can go through the human rights tribunal.  You can sue WSIB and your employer. You can name names, even if you are told you can't. A friend of mine did and the company fired the health &amp; safe",
-      "communities": [
-        "injured_workers",
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-10",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/DrAlexMHorton/status/2108857427873423385"
-    },
-    {
-      "id": "b165835b699b",
-      "source": "x",
-      "title": "WSIB reports Most dangerous  violence in the workplace  Educational Assistants (Elementary/Secondary): 635 claims  Correctional Services Officers: 345 claims  Police Officers: 322 claims  Nurses Aides",
+      "title": "@fightthewcb @TheActionNet @WSIB I wonder how much $$$ #WSIB spent on these advertisement's while NOT paying #InjuredWorkers🤬  @fordnation @TrevorJonesCKL @MaritStiles @LiseVaugeois @jamiewestndp @Way",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-10",
+      "date": "2026-10-12",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/DrAlexMHorton/status/2108855296869245022"
+      "url": "https://x.com/occupywsib/status/2109280516260389169"
     },
     {
-      "id": "ea6e8f9b2e22",
+      "id": "a83037dfe97c",
       "source": "x",
-      "title": "@jamiewestndp Reminds me of WSIB. A day doesn't go by that I don't hear an ad in the radio or see something on Facebook or a podcast, meanwhile they lay off hundreds in the north!",
+      "title": "WSIB is PUSHING MAID = FUCKOFF  Complaint filed to medical regulator over MP saying fentanyl 'readily available' in MAID report https://t.co/BHyKnZLQ0B via @CJ_ThunderBay",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-10",
+      "date": "2026-10-12",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/dshyminsky/status/2108770563736932488"
+      "url": "https://x.com/DaveOakes2022/status/2109082183956881733"
     },
     {
-      "id": "e49cc9cd7f8a",
+      "id": "7561ea1b122f",
       "source": "x",
-      "title": "職場での転倒事故防止を啓蒙するカナダの公共CMです。「私チーフシェフに昇進、結婚もするから幸せ！」という女性が転倒して大やけどをして絶叫する。原因は床が汚れていたから。 / “The Chef - WSIB Workplace Safety Ad” https://t.co/A1hlULVvgv",
+      "title": "@fordnation  HATES injured workers. After all look how the @WSIB treats employers with billion dollar rebates compared to the victims, injured workers, being revictimized! https://t.co/50LU6yk3oh",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-10",
+      "date": "2026-10-12",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/hakaiya2/status/2108724923963519073"
+      "url": "https://x.com/fightthewcb/status/2109078972562559081"
     },
     {
-      "id": "40c18c135546",
+      "id": "1c92080b415c",
       "source": "x",
-      "title": "@BowdenWend52722 @sarobertson_ Standing/living in On, Poilievre fails to mention 600 jobs lost from #Conservative Premier Doug Ford closing Ontario WSIB offices and sending the jobs to the U.S., award",
+      "title": "@DrAlexMHorton Surprised @WSIB even said anything they are the kings of claim suppression!",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-10",
+      "date": "2026-10-12",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/sturgeon_sue/status/2108674686553047439"
+      "url": "https://x.com/fightthewcb/status/2109064863129452703"
     },
     {
-      "id": "9e23cef1568c",
+      "id": "87c604002d8b",
       "source": "x",
-      "title": "So 3 AM Saturday email from disability means whole Thanksgiving weekend has changed, and I am now housebound, mostly bedbound, because of the conditions ODSP has attached to me getting a new wheelchai",
+      "title": "@WSIB has over $40 billion in surpluses but their response is to cut staff and close off8ces! https://t.co/gsmuOYqqPN",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-12",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/fightthewcb/status/2109064681558069621"
+    },
+    {
+      "id": "9591fed4028e",
+      "source": "x",
+      "title": "@LeslynLewis WSIB is cruel and unusual punishment now their calling PUSHING the MAID program =FO🤠seriously folks WTF is wrong with the government the ignoble staff @WSIB's sinecure ripped off the 6-bi",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-12",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/DaveOakes2022/status/2109051445526118536"
+    },
+    {
+      "id": "7ed0ba341b91",
+      "source": "x",
+      "title": "@jasrajshallan Injured @WORK Canadians who don’t own a home say they never expect to own one. After 46 years of WSIB's totalitarianism government, the dream of homeownership is slipping away. It was g",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-12",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/DaveOakes2022/status/2109032277934325880"
+    },
+    {
+      "id": "4c0d9a043b05",
+      "source": "x",
+      "title": "I just wrote a @theactionnet letter: Tell Your MPP to Stop @WSIB Office Closures.   Write one here: https://t.co/u4AXyJES6l",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-12",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/fightthewcb/status/2108938617678651569"
+    },
+    {
+      "id": "16107907e566",
+      "source": "x",
+      "title": "I'll explain so you can understand. This cleanup fund is paid for by oil companies to the province (similar to how WCB works) so the province can dictate the level of required funding per company base",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-AB",
+      "date": "2026-10-12",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/fringe_canuk/status/1935056896245002372"
+    },
+    {
+      "id": "f26f7a67557d",
+      "source": "x",
+      "title": "@memeticsisyphus It’s not the labor. Native Americans have to pay for workers comp, liability, payroll taxes, auto insurance, safety equipment, permits and licensing. Illegals skirt around all this th",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-10-12",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/daexpadition/status/2108928581107950034"
+    },
+    {
+      "id": "70e381a00dc4",
+      "source": "x",
+      "title": "Landscaping Pros;- Experienced, Top and Well Maintained Gear, Liscensed Bonded Insured - Ohio Workers Comp Coverage #SpringCleanUps #LawnMaintenance  #LandscapePlantings Commercial Residential  Enhanc",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-10-12",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/kevingoodmanBBN/status/1907287876183945606"
+    },
+    {
+      "id": "7f0b0dd3841c",
+      "source": "x",
+      "title": "Doubling ODSP rates is long overdue so I'm glad to see this. I do wonder about the use of the word \"integrity\" in eligibility requirements, however. Without more information, it sounds like Stephanie ",
       "communities": [
         "disability",
         "welfare_social"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-10",
+      "date": "2026-10-12",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://x.com/livingklife/status/2108849069204361641"
+      "url": "https://x.com/TheresaLubowitz/status/2109604674231742558"
     },
     {
-      "id": "c9a71835dfbd",
+      "id": "87f65bb4a4ac",
       "source": "x",
-      "title": "@ggrmcd @fordnation @fordnation and @SylviaJonesMPP are murderers.  plain and simple.  Their policies on healthcare, housing, ODSP and OW are all contributing to rising death tolls in Ontario",
+      "title": "For people living with disabilities who rely on ODSP, support should provide a foundation for stability and independence, not leave them struggling to afford basic necessities.  That means strengtheni",
       "communities": [
         "disability",
         "welfare_social"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-10",
+      "date": "2026-10-12",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://x.com/FeckiTea_Foo/status/2108800418318807549"
+      "url": "https://x.com/stephaniebowman/status/2109313243126587642"
     },
     {
-      "id": "bbfc0de1104b",
+      "id": "846fbc9d3241",
       "source": "x",
-      "title": "@TheJasonPugh @AndrewLawton That's more than a year's income for a single ODSP recipient. More than twice my income, I have a full housing subsidy in my cooperative housing.",
+      "title": "@KAF_KellyAF @ElectricCanvass Im ODSP. I truly wish I could help you.",
       "communities": [
         "disability",
         "welfare_social"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-10",
+      "date": "2026-10-12",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://x.com/ToddKaighin/status/2108798082079154687"
-    },
-    {
-      "id": "e19beb20bfbf",
-      "source": "x",
-      "title": "Good night ODSP mom still needing help with fresh food goal $50 e-transfer/PP panther226@hotmail.com and peanut butter and pads or anything from our WL https://t.co/hcrtLm0GK2 pls repost @nejsnave @Ci",
-      "communities": [
-        "disability",
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-10",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/JTkksmom/status/2108778063236305011"
+      "url": "https://x.com/ToddKaighin/status/2109450194026668441"
     }
   ],
-  "generated": "2026-10-11"
+  "generated": "2026-10-12"
 }
