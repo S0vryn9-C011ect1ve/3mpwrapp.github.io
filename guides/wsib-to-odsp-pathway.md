@@ -106,7 +106,7 @@ We analyzed **14,298 Ontario Social Benefits Tribunal (ONSBT) decisions** from 2
 | Feature | WSIB | ODSP |
 |---------|------|------|
 | **Eligibility Test** | Injury arose out of employment | Disability substantially impairs ADLs, continuous/recurrent 1+ years |
-| **Income Provided** | LOE: 85% of net pre-injury earnings | **$1,436/month** (single, from July 1 2026) + benefits |
+| **Income Provided** | LOE: 85% of net pre-injury earnings (Bill 105 proposes 90%) | **$1,436/month** (single, from July 1 2026) + benefits |
 | **Asset Limit** | None (can have unlimited assets) | $40,000 single, $50,000 couple |
 | **Work Incentives** | Limited (earnings reduce benefits) | **You can earn $1,000/month free** if you have a disability. The $200 + 50% rule applies to other income |
 | **Health Benefits** | Limited (treatment for injury only) | Comprehensive (drugs, dental, vision, mobility devices) |

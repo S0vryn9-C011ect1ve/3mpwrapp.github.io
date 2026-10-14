@@ -10,6 +10,7 @@ excerpt: "Analysis of 9,269 HRTO decisions shows 43.9% abandonment rate with 91.
 image: /assets/images/hrto-email-crisis.png
 image_alt: "HRTO case abandonment analysis showing correlation between email issues and case abandonments"
 toc: true
+permalink: /blog/2026/04/20/hrto-email-crisis-abandonment-epidemic/
 ---
 
 > **📋 ACCURACY AUDIT — 2026-07-20 (post laptop-failure recovery).** This post originally reported HRTO figures from a "2,274 detected-outcome subset" that does NOT exist in the committed repository. The full committed HRTO dataset is **9,269 records (2020–2026), 100% outcome-classified**: **4,073 abandonments (43.9%)**, **503 allowed/successful (5.4%)**, email-delivery keywords in **4,680 cases (50.5%)**, and **91.9% of abandoned cases cite email issues**. All prior figures (3,186 cases, 73.5% abandonment, 0.7% victory, 70.1% email, 36.6% undeliverable) are **retracted and replaced** with the committed-data figures above. BC WCAT collection was **interrupted by the laptop failure** and is incomplete. Outcome rates remain keyword-inferred.

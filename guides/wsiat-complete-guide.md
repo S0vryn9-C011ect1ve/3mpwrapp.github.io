@@ -681,3 +681,38 @@ them — particularly any deadline, which is unforgiving of a wrong number.
   any page here says.
 
 *Found a figure that's wrong or out of date? [Tell us](/contact/).*
+
+## Recent 2026 WSIAT Decisions (Case Notes)
+
+> Summarized from UL Lawyers case notes (published Oct 13, 2026). Primary sources are the linked CanLII decisions — verify against the original before relying on any point.
+
+### 2026 ONWSIAT 905 — Re-employment obligation breached by firing for injury-causing conduct (s. 41 WSIA)
+- **Date:** Aug 6, 2026 (Decision No. 506/26)
+- **CanLII:** https://www.canlii.org/en/on/onwsiat/doc/2026/2026onwsiat905/2026onwsiat905.html
+- **Facts:** Employer fired an injured millwright one week after a hand laceration — citing a safety violation that was the *same conduct* that caused the injury — and before any return to duties.
+- **Holding:** The Tribunal found the employer breached its s. 41 re-employment obligation. The obligation includes an implied duty to *maintain* the employment relationship after injury, not merely to offer work once recovered. Because the worker was terminated before returning, the s. 41(10) presumption did not apply, but a breach was still found on a balance of probabilities.
+- **Result:** LOE benefits from termination through Apr 30, 2021; penalty question referred to WSIB; permanent-impairment and psychotraumatic-disability claims denied.
+- **Takeaway:** A dismissal for the very conduct that caused the injury does not automatically shield an employer from a re-employment breach.
+
+### 2026 ONWSIAT 633 — Workplace harassment / modified-duty stress as a compensable injury
+- **Date:** June 3, 2026 (Decision No. 1388/24I)
+- **CanLII:** https://www.canlii.org/en/on/onwsiat/doc/2026/2026onwsiat633/2026onwsiat633.html
+- **Holding:** Substantial work-related stressors — including harassment and poorly managed modified-duty conditions — can ground a compensable injury (here, including a shoulder condition), not just a single traumatic accident.
+- **Limits:** A "substantial" threshold applies; ordinary friction / routine management does not qualify. A successful WSIAT claim is generally mutually exclusive with a civil suit against the employer (the WSIA trade-off).
+
+### 2026 ONWSIAT 345 — Benefit entitlement can be redetermined on review
+- **Date:** May 29, 2026 (Decision No. 152/26)
+- **CanLII:** https://www.canlii.org/en/on/onwsiat/doc/2026/2026onwsiat345/2026onwsiat345.html
+- **Holding:** WSIAT is not bound by how WSIB characterized a claim; on review it can revisit whether the injury is work-related and redetermine entitlement.
+- **Takeaway:** A WSIB denial/reduction is not final. Appeal deadline is generally 6 months from the WSIB decision (limited extension discretion).
+
+### 2026 ONWSIAT 438 — Withdrawing a WSIB claim does not automatically extinguish entitlement
+- **Date:** June 19, 2026 (Decision No. 694/25)
+- **CanLII:** https://www.canlii.org/en/on/onwsiat/doc/2026/2026onwsiat438/2026onwsiat438.html
+- **Holding:** WSIAT reviews whether a withdrawal was truly voluntary and informed (pressure, no legal advice, misunderstanding of rights). Withdrawal is not automatically final.
+- **Limits:** A clear, deliberate, informed withdrawal won't be undone merely on regret; strict appeal timelines still apply.
+
+### 2026 ONWSIAT 744 — Employer file access over worker objection (Practice Direction #3)
+- **Date:** July 7, 2026 (Decision No. 607/26I)
+- **CanLII:** https://www.canlii.org/en/on/onwsiat/doc/2026/2026onwsiat744/2026onwsiat744.html
+- **Holding:** Withholding consent triggers a Vice-Chair review; relevant claim documents are generally released, but sensitive medical records unrelated to the period in dispute may be withheld/redacted (proportionality: relevance must outweigh sensitivity).

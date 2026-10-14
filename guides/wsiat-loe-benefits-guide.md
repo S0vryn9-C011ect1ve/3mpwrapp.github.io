@@ -56,7 +56,7 @@ permalink: /guides/wsiat-loe-benefits/
 
 ### Step 2: Apply LOE Formula
 
-**LOE = 85% of (Pre-Injury Earnings - Post-Injury Earnings)**
+**LOE = 85% of (Pre-Injury Earnings - Post-Injury Earnings)** — *Bill 105 (Ontario, 2026) raises this to **90%** of pre-injury earnings (cap $121,700); verify the effective date (the related s. 44.1 lock-in removal is set for Jan 1, 2027).*
 
 The 85% figure is confirmed on the
 [WSIB loss of earnings page](https://www.wsib.ca/en/loss-earnings-benefit).

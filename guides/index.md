@@ -279,7 +279,7 @@ Based on 40 years of WSIAT pattern analysis, we've created comprehensive guides 
 <div style="padding: 1rem; background: #f0f9ff; border-left: 4px solid #0066cc; border-radius: 4px; margin: 1rem 0;">
 <strong>What's covered:</strong>
 <ul style="margin: 0.5rem 0 0 1.2rem;">
-  <li>LOE calculation formula (85% of wage loss)</li>
+  <li>LOE calculation formula (85% of wage loss — rising to 90% under Bill 105)</li>
   <li>Challenging "deemed earnings"</li>
   <li>Pre-injury earnings disputes (overtime, bonuses)</li>
   <li>Non-cooperation traps and how to avoid</li>
