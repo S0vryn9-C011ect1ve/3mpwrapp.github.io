@@ -1,21 +1,22 @@
 {
-  "total": 1367,
+  "total": 1442,
   "verified": 5,
   "by_community": {
-    "disability": 603,
-    "injured_workers": 364,
-    "welfare_social": 317,
-    "accessibility": 287,
-    "elderly": 75,
+    "disability": 630,
+    "injured_workers": 380,
+    "welfare_social": 336,
+    "accessibility": 318,
+    "elderly": 80,
     "veterans": 40,
-    "vulnerable_communities": 2
+    "vulnerable_communities": 2,
+    "public_allies": 1
   },
   "by_jurisdiction": {
-    "INTL": 576,
-    "CA-ON": 539,
-    "CA-FED": 146,
-    "CA-AB": 71,
-    "CA-BC": 21,
+    "INTL": 599,
+    "CA-ON": 580,
+    "CA-FED": 153,
+    "CA-AB": 73,
+    "CA-BC": 23,
     "CA-NT": 7,
     "CA-YT": 4,
     "CA-TERR": 1,
@@ -23,16 +24,16 @@
     "CA-NL": 1
   },
   "by_source": {
-    "x": 736,
+    "x": 803,
     "reddit": 446,
-    "news": 168,
+    "news": 176,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 1350,
+    "unverified_social": 1425,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -41,218 +42,224 @@
   },
   "recent": [
     {
-      "id": "45013cb0b1c6",
-      "source": "x",
-      "title": "@Corruptario4eva It isn't about police. These are the stats conducted by WSIB. I have a family member who is in the RCMP who agrees about the violence in schools and how dangerous Educational Assistan",
+      "id": "news-c311e493332c",
+      "source": "news",
+      "title": "Abandoned Senior Dog Has a Long Road to Recovery, but He Finally Has People in His Corner - Yahoo",
       "communities": [
-        "injured_workers"
+        "elderly",
+        "public_allies"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-12",
+      "date": "2026-10-14",
       "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/DrAlexMHorton/status/2109316436430585896"
-    },
-    {
-      "id": "a6e63252f137",
-      "source": "x",
-      "title": "@fightthewcb @TheActionNet @WSIB I wonder how much $$$ #WSIB spent on these advertisement's while NOT paying #InjuredWorkers🤬  @fordnation @TrevorJonesCKL @MaritStiles @LiseVaugeois @jamiewestndp @Way",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-12",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/occupywsib/status/2109280516260389169"
-    },
-    {
-      "id": "a83037dfe97c",
-      "source": "x",
-      "title": "WSIB is PUSHING MAID = FUCKOFF  Complaint filed to medical regulator over MP saying fentanyl 'readily available' in MAID report https://t.co/BHyKnZLQ0B via @CJ_ThunderBay",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-12",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/DaveOakes2022/status/2109082183956881733"
-    },
-    {
-      "id": "7561ea1b122f",
-      "source": "x",
-      "title": "@fordnation  HATES injured workers. After all look how the @WSIB treats employers with billion dollar rebates compared to the victims, injured workers, being revictimized! https://t.co/50LU6yk3oh",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-12",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/fightthewcb/status/2109078972562559081"
-    },
-    {
-      "id": "1c92080b415c",
-      "source": "x",
-      "title": "@DrAlexMHorton Surprised @WSIB even said anything they are the kings of claim suppression!",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-12",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/fightthewcb/status/2109064863129452703"
-    },
-    {
-      "id": "87c604002d8b",
-      "source": "x",
-      "title": "@WSIB has over $40 billion in surpluses but their response is to cut staff and close off8ces! https://t.co/gsmuOYqqPN",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-12",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/fightthewcb/status/2109064681558069621"
-    },
-    {
-      "id": "9591fed4028e",
-      "source": "x",
-      "title": "@LeslynLewis WSIB is cruel and unusual punishment now their calling PUSHING the MAID program =FO🤠seriously folks WTF is wrong with the government the ignoble staff @WSIB's sinecure ripped off the 6-bi",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-12",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/DaveOakes2022/status/2109051445526118536"
-    },
-    {
-      "id": "7ed0ba341b91",
-      "source": "x",
-      "title": "@jasrajshallan Injured @WORK Canadians who don’t own a home say they never expect to own one. After 46 years of WSIB's totalitarianism government, the dream of homeownership is slipping away. It was g",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-12",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/DaveOakes2022/status/2109032277934325880"
-    },
-    {
-      "id": "4c0d9a043b05",
-      "source": "x",
-      "title": "I just wrote a @theactionnet letter: Tell Your MPP to Stop @WSIB Office Closures.   Write one here: https://t.co/u4AXyJES6l",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-12",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/fightthewcb/status/2108938617678651569"
-    },
-    {
-      "id": "16107907e566",
-      "source": "x",
-      "title": "I'll explain so you can understand. This cleanup fund is paid for by oil companies to the province (similar to how WCB works) so the province can dictate the level of required funding per company base",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-AB",
-      "date": "2026-10-12",
-      "flywheels": [
+        "evidence",
         "knowledge"
       ],
-      "url": "https://x.com/fringe_canuk/status/1935056896245002372"
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZVFiS2FIUlBQNW5BN09FUkZnaWJJRVNxbmFJZzBLU3U4TUNaZmlUXzdBTWxSN0swTWNMOVUzTTI1S0ZZYlAwMVp2UndseC1yUVBjQ0VJbDlxQnZ6aDJ2VmZsN0poLUVBdTVlazFOenpWSUt1Q2phMU5BT3pvUVhBcEp6RHVuRVVDMWxHOTl3QQ?oc=5"
     },
     {
-      "id": "f26f7a67557d",
-      "source": "x",
-      "title": "@memeticsisyphus It’s not the labor. Native Americans have to pay for workers comp, liability, payroll taxes, auto insurance, safety equipment, permits and licensing. Illegals skirt around all this th",
+      "id": "news-bccf7b326388",
+      "source": "news",
+      "title": "How Homeowners With Long-Term Medical Challenges Use a Social Security Disability Lawyer to Protect What They Have Built - finehomesandliving.com",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-14",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQZ3pIVVJwMkdNYVpseW5uSnA5WWRJM0h4SzNxVENPU2hNN24xRjBIRHhsUlVacUVrQkJKTXlFMmdOQXBNWVh2Z0FlNWtkZlZ0YXBRNWJwSGhQQjVUOFN5OHhhS09aUWM3eS1OcmtzallZOXMzRm42SU4xOGdDU1RkSTZRdDVTNGtHZzU2NVRWaGI2elBUdmEwR3lSdklGcnhXVkhVZUd2UlVCLVEzbnJXdWw4ei1tOHNFYWlhMlVlOWJoMnlHemwxSHM2SDJQbUxudGxjLXlDUVdvNlVKdGZIcF82TURCUTRxYWlITVhpWTVFLXpWV2EwRjRVclBUY3h3MEI4V3lpcktiWmxpejhWZGVCaFEya2hxbVlxeFBPQQ?oc=5"
+    },
+    {
+      "id": "news-0d6be57c4568",
+      "source": "news",
+      "title": "Chiles High School senior long snapper earns football offers from Cornell and MIT with strong academics - WTXL ABC 27",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-14",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZmlXTDNISFVLOFNDLVJXS3NoVUxwNldZc1ptdG1uRFRoSGp6bmowWkh1c1VibXVzT01ReElnVm1NZkNGeTNDVFp0QzRiZlZxNW1fZ0dxTUVQQXRVRHRSWU5JSkgtenZMYm1weUx2NDVkNFY5MnNEM0pNcGRpZm5zLXpYYmVBMFoyVnl0MlllUjg2bXVMQ1V5TnR4eERTZjRvd3o2MkEtUGR1ZHVweV81VHdXS3dZa2Z1ZDhrTjEtY3RWdlZwejdWNHB0NFQtTlA0WFNN?oc=5"
+    },
+    {
+      "id": "news-d6870b663086",
+      "source": "news",
+      "title": "Tag: accuweather senior long-range meteorologist joe lundberg - Berkshire eagle",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-14",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbmtDaWVzZjBINWVTWDNKVjNYbXg3SnYyTWVPRHRORmFHWUlRX0thYWdmZ1dNNWx5VlU1SWVycTB2M0EyZjY0UFVJN3plSV92R1EtaDdoSW5XWGlOVGVVV3hkaHUwdXRoRVhhaThBNFJuYjE2aW1uQmh6ei1vaDF4UGdpOWthMUxodm1RWWRFT1YzY3lCeE12cnpZSHJVcWN6STZz?oc=5"
+    },
+    {
+      "id": "news-334e070469f1",
+      "source": "news",
+      "title": "Prolonged Deprivation of Wages Can Warrant Monetary Compensation as Public-Law Remedy: Supreme Court - LawBeat",
       "communities": [
         "injured_workers"
       ],
-      "jurisdiction": "INTL",
-      "date": "2026-10-12",
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-14",
       "flywheels": [
-        "evidence"
+        "evidence",
+        "knowledge"
       ],
-      "url": "https://x.com/daexpadition/status/2108928581107950034"
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOLWp0YWRqTHNWd0pyeWFzcGxhX3hILVVuOGlfUVVGUHdjTmp4QkRKbk9rRG1zLTNCTzBFQ2JvekVpTFpOSUZPWkhYX1QwbWNJeDVfVU05blNHTFY2TTRrbkh3Zy05aXFrWWlGcjdJalZGcWZaRlZXQkZQSjJPVmVHVGhEeC1heEc3MVljYmgtR2V5QWQtakhhV01qelhuS2hVN19MR1p5ZXRVX1VCaUhjQ1U3NE5OUEloWlZLUzctQVlNeXM5c2pQYzhXNUEzYjJkemZ1X081emtfSkhKb25ucHMyNWtRTFZxZ3fSAeoBQVVfeXFMTi1qdGFkakxzVndKcnlhc3BsYV94SC1VbjhpX1FVRlB3Y05qeEJESm5Pa0Rtcy0zQk8wRUNib3pFaUxaTklGT1pIWF9UMG1jSXg1X1VNOW5TR0xWNk00a25Id2ctOWlxa1lpRnI3SWpWRnFmWkZWV0JGUEoyT1ZlR1RoRHgtYXhHNzFZY2JoLUdleUFkLWpIYVdNanpYbktoVTdfTEdaeWV0VV9VQmlIY0NVNzROTlBJaFpWS1M3LUFZTXlzOXNqUGM4VzVBM2IyZHpmdV9PNXprX0pISm9ubnBzMjVrUUxWcWd3?oc=5"
     },
     {
-      "id": "70e381a00dc4",
+      "id": "news-43bb0ce3a437",
+      "source": "news",
+      "title": "Chiles High School senior long snapper earns football offers from Cornell and MIT with strong academics - WTXL ABC 27",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-14",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRHF5TVJlZUZ2Zk5BcEk3RDVoRDRzbWNNdTgzMTAtSkpybWVudW1BQnBiWHRLRG1sYzJ5LVJfX2ZGVU1nY0l6WlM2OTJVV21STnhMbW9JUWF3WjFYMVNOcWhhWmZDNEt1cHhIX2pZam5YOHQtMzJBSlk3QXY2eWFIaFZUQ25GVUNoVkpJeG1lQVByYk1fQTNCRlNsaDVnNklQYzR3aGpLZGJCZTAtUXVkZ2lqZ3JHcEdZb1RYRGtmZjk1aF9QUEtyLUhZYS1zZ1pRcE5iMGs1VGtLUk40?oc=5"
+    },
+    {
+      "id": "news-f52090d51c41",
+      "source": "news",
+      "title": "‘Voting By Mail is My Lifeline’: Voter With Disability Shares Importance of Mail-In Voting - American Civil Liberties Union",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-14",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOF9TZ3ZlcjhRRGNuVW5rendLeDFIVVlnRERJUXN5aWc4Vm9vcVFDQXRMcXRxRkFULU9WX3NTMVhodnRzOFpHdHJsZ19TaDlieVJhZmQ2QWdUNi1vZEN3aklZOEVUVGNwV0ptT2NCUEJVZnlNd3RmQ3Q5eURXb1dEQUtfOG9WdmFOVl90RzAyZ2JJUGhyVk5VX3FlUWZST2gxOHVnRDVJREJyYTZwRVE2QjlfTW1VOEZyNjFKb1RxaEt4RTd6Tnc?oc=5"
+    },
+    {
+      "id": "news-99644d45a1ec",
+      "source": "news",
+      "title": "UnitedHealthcare Long-Term Disability Denials & Appeals (2026) - Sokolove Law",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-14",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRklrdXVRbU9ibHE5MDVEZ0ptZGQ5YkdGZS14OGhTR014cFlOQ2NHczJUN1pjb2t3ZW9sZkd1ZW51SHFDbm9URUt0WEV4YjJSTGlJNlRMT3h0S3ctRHRDa01vUkJCVUw2S3lKLUlJbjV0Wkl2RzhwZUxvNTZ3cGtFalVwWnNQUFp2OGp0djg0RGJZRjFvNEJQM2U1ME1tT2VXb1JzeUlTOEVZeHZNUkdtWUkzVnpmdmpMNk1PcjhR?oc=5"
+    },
+    {
+      "id": "f9858d34ea43",
       "source": "x",
-      "title": "Landscaping Pros;- Experienced, Top and Well Maintained Gear, Liscensed Bonded Insured - Ohio Workers Comp Coverage #SpringCleanUps #LawnMaintenance  #LandscapePlantings Commercial Residential  Enhanc",
+      "title": "Retweet to DEMAND @TrevorJonesCKL @fordnation PASS #Bill57, Respecting #InjuredWorkersWorkers Act(Workplace Safety &amp; Insurance Amendment), 2022 https://t.co/m80nVLwsEG #KeepTheFocusOnInjuredWorker",
       "communities": [
         "injured_workers"
       ],
-      "jurisdiction": "INTL",
-      "date": "2026-10-12",
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-13",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/kevingoodmanBBN/status/1907287876183945606"
+      "url": "https://x.com/occupywsib/status/2110016135806496979"
     },
     {
-      "id": "7f0b0dd3841c",
+      "id": "cff7d8874732",
       "source": "x",
-      "title": "Doubling ODSP rates is long overdue so I'm glad to see this. I do wonder about the use of the word \"integrity\" in eligibility requirements, however. Without more information, it sounds like Stephanie ",
+      "title": "🛡️ Safer Workplaces, Stronger Businesses! 🚀  We’re delighted to have the Workplace Safety and Insurance Board (@WSIB) as an exhibitor at the CanadianSME Small Business Summit 2026, presented by @Amazo",
       "communities": [
-        "disability",
-        "welfare_social"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "flywheels": [
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://x.com/TheresaLubowitz/status/2109604674231742558"
+      "url": "https://x.com/canadian_sme/status/2110015354021765313"
     },
     {
-      "id": "87f65bb4a4ac",
+      "id": "0bb822aca4dc",
       "source": "x",
-      "title": "For people living with disabilities who rely on ODSP, support should provide a foundation for stability and independence, not leave them struggling to afford basic necessities.  That means strengtheni",
+      "title": "[OCT 29 - WEBINAR SERIES] Sharing information in teams  https://t.co/opgAttuJjM  #mentalhealth #addiction #addictionsagency #CMHA #Alzheimer  #AlzheimerSociety #psychologypractice #psychiatricfacility",
       "communities": [
-        "disability",
-        "welfare_social"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "flywheels": [
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://x.com/stephaniebowman/status/2109313243126587642"
+      "url": "https://x.com/KateDewhirst/status/2109977627385565513"
     },
     {
-      "id": "846fbc9d3241",
+      "id": "208e4c8160b6",
       "source": "x",
-      "title": "@KAF_KellyAF @ElectricCanvass Im ODSP. I truly wish I could help you.",
+      "title": "@fordnation Waiting in emergency room  12 hours, injured workers abused by WSIB , More potholes in ONT then Gaza , the list go On ....",
       "communities": [
-        "disability",
-        "welfare_social"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "flywheels": [
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://x.com/ToddKaighin/status/2109450194026668441"
+      "url": "https://x.com/I0452/status/2109976151997501841"
+    },
+    {
+      "id": "0f71247bfce8",
+      "source": "x",
+      "title": "@DrAlexMHorton Yup I was beaten up many time last year but wsib gives you 60% of your pay and I can't afford to use it",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-13",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/shanheighington/status/2109819890957963336"
+    },
+    {
+      "id": "fce352122cba",
+      "source": "x",
+      "title": "@whtaboutthatguy Since WSIB has been sold to the US, there probably will not be one. As this report is so buried it is hard to find. Coverups by the CONS Republican Party. Ford doesn't want the public",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-13",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/DrAlexMHorton/status/2109733601562816677"
+    },
+    {
+      "id": "24e5f742ddea",
+      "source": "x",
+      "title": "@WSIB https://t.co/Hjp87ptDDt",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-13",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/OhCanadaLady/status/2109722351701201170"
     }
   ],
-  "generated": "2026-10-12"
+  "generated": "2026-10-14"
 }
