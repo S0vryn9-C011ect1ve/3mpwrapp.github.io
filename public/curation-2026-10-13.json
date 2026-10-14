@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-13",
+  "timestamp": "2026-10-13T19:00:52.869Z",
+  "count": 5,
+  "minScore": 3.5,
+  "items": [
+    {
+      "title": "The Disability Bulletin",
+      "link": "https://linktr.ee/thedisabilitybulletin",
+      "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
+      "score": 10,
+      "pubDate": "2026-10-13T19:00:52.801Z"
+    },
+    {
+      "title": "Manitoba Government Invests $69,790 in Portage la Prairie's Community Safety and Well-Being Plan",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75697",
+      "description": "",
+      "score": 10.5,
+      "pubDate": "Tue, 13 Oct 2026 11:59:00 CDT"
+    },
+    {
+      "title": "Why Is Public Transit a Phantom Election Issue?",
+      "link": "https://thetyee.ca/Opinion/2026/10/13/Public-Transit-Phantom-Election-Issue/",
+      "description": "It’s a popular policy measure that wins votes. But the leading provincial parties haven’t come out strong on the issue.",
+      "score": 5,
+      "pubDate": "Tue, 13 Oct 2026 07:20:00 +0000"
+    },
+    {
+      "title": "Manitoba Government Invests More Than $1.2 Million in Festivals Across Manitoba",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75698",
+      "description": "",
+      "score": 7.5,
+      "pubDate": "Tue, 13 Oct 2026 12:04:00 CDT"
+    },
+    {
+      "title": "A Big Newspaper Seemed to Menace Avi Lewis. Then, Media Crickets",
+      "link": "https://thetyee.ca/Opinion/2026/10/13/Big-Newspaper-Seemed-Menace-Avi-Lewis/",
+      "description": "Many saw a call to violence in the National Post article. Why isn’t that news?",
+      "score": 4.5,
+      "pubDate": "Tue, 13 Oct 2026 07:30:00 +0000"
+    }
+  ]
+}

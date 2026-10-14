@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-10",
+  "timestamp": "2026-10-10T17:06:06.393Z",
+  "count": 7,
+  "minScore": 3.5,
+  "items": [
+    {
+      "title": "The Disability Bulletin",
+      "link": "https://linktr.ee/thedisabilitybulletin",
+      "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
+      "score": 10,
+      "pubDate": "2026-10-10T17:06:06.390Z"
+    },
+    {
+      "title": "Preventing Youth Homelessness, One Youth at a Time",
+      "link": "https://thetyee.ca/Presents/2026/10/09/Preventing-Youth-Homelessness/",
+      "description": "At Directions Youth Services, support begins with asking what we can learn together.",
+      "score": 9,
+      "pubDate": "Sat, 10 Oct 2026 00:30:00 +0000"
+    },
+    {
+      "title": "The Québec Election Result Is Worse Than You Think",
+      "link": "https://thetyee.ca/Analysis/2026/10/09/Quebec-Election-Result-Worse-Than-You-Think/",
+      "description": "How this Parti Québecois is poised to put Carney and Canada in a bind.",
+      "score": 10.5,
+      "pubDate": "Fri, 09 Oct 2026 19:30:00 +0000"
+    },
+    {
+      "title": "Manitoba Government Expands Maryland Park School to Meet Growing Student Population in Brandon",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75678",
+      "description": "",
+      "score": 7.5,
+      "pubDate": "Fri, 09 Oct 2026 15:21:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Invests More Than $8 Million in New 24-7 Safe Space  for Indigenous Women and Their Children in Thompson",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75581",
+      "description": "",
+      "score": 7.5,
+      "pubDate": "Fri, 02 Oct 2026 10:30:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Celebrates Conservation Officers Recognition Day",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75580",
+      "description": "",
+      "score": 7.5,
+      "pubDate": "Thu, 01 Oct 2026 15:38:00 CDT"
+    },
+    {
+      "title": "Manitoba Recognizes Yellowquill University College as First Degree-Granting Institution Owned and Operated by First Nations",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75677",
+      "description": "",
+      "score": 4.5,
+      "pubDate": "Fri, 09 Oct 2026 14:55:00 CDT"
+    }
+  ]
+}
