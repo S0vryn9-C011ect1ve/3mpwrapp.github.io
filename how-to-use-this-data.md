@@ -9,7 +9,7 @@ permalink: /how-to-use-this-data/
 
 **You deserve to understand this research.** We analyzed 98,992 workplace injury appeal decisions to help YOU fight for your rights. Here's how to use it.
 
-> **📊 Data-source note (2026-09-16):** Our working total of **98,992 WSIAT decisions (1987–2026)** is the **CanLII scrape committed to this repo**. A separate **WSIAT Open Data Portal** export reports **98,992** decisions — a 44-record difference (`wsiat-2025.json`'s 44 records are in the CanLII scrape but not the Portal export's bucket). Both describe the same tribunal; we use the CanLII-committed 98,992.
+> **📊 Data-source note (2026-09-16):** Our working total of **98,992 WSIAT decisions (1987–2026)** is the count reported by the **WSIAT Open Data Portal** (hosted by WSIB at `wsib.ca/en/open-data/wsiat-database`). Our local analysis is based on a working sample drawn from this corpus. A separate **WSIAT Open Data Portal** export also reports **98,992** decisions. Both describe the same tribunal; we use the Portal-reported 98,992.
 
 ---
 
@@ -318,3 +318,8 @@ We wrote detailed guides for common situations.
 ---
 
 *Last updated: April 30, 2026 | Data source: 98,992 WSIAT decisions (1987-2026)*
+
+
+---
+
+**Data note (2026-10-15):** Figures citing "98,992" refer to the *WSIAT Open Data Portal's* published-decision metadata. The live Portal count was **96,025** as of 2026-10-07. 3mpwrapp's locally outcome-classified corpus is **11,430** ONWSIAT decisions (`onwsiat-outcomes-3-tier-consolidated.json`, 2026-04-26): 649 resolved (5.7%), 73.5% worker-win among decisive outcomes, 94.3% unresolved.

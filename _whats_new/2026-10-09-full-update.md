@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2026-10-09 — Full Update: Indigenous Verification + Flywheels + Accessibility + Deploy Fix
+title: "2026-10-09 — Full Update: Indigenous Verification + Flywheels + Accessibility + Deploy Fix"
 date: 2026-10-09
 description: All verified work completed today — indigenous communities card verified and deployed, verified source notes, flywheels-public confirmed with 8 user bases / latest 30d / archive, accessibility (light/dark/high-contrast) verified across site, deploy script fixed.
 ---

@@ -133,3 +133,8 @@ personalized: true
     <div><h3>Support</h3><ul style="list-style:none;padding:0"><li><a href="/contact/">Contact Us</a></li><li><a href="/crisis-resources/">Crisis Resources</a></li><li><a href="/newsletter/">Newsletter</a></li><li><a href="/site-map/">Site Map</a></li><li><a href="/beta/">Beta Testing</a></li></ul></div>
   </div>
 </section>
+
+
+---
+
+**Data note (2026-10-15):** Figures citing "98,992" refer to the *WSIAT Open Data Portal's* published-decision metadata. The live Portal count was **96,025** as of 2026-10-07. 3mpwrapp's locally outcome-classified corpus is **11,430** ONWSIAT decisions (`onwsiat-outcomes-3-tier-consolidated.json`, 2026-04-26): 649 resolved (5.7%), 73.5% worker-win among decisive outcomes, 94.3% unresolved.

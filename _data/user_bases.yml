@@ -1,0 +1,90 @@
+# Canonical 9 user bases — shared across the site and the flywheels page.
+# Fields: id, label, icon, description, links (reuse only real, existing URLs).
+- id: injured_workers
+  label: "Injured Workers"
+  icon: "🏗️"
+  description: "WSIB/WSIAT claimants navigating appeals, evidence, and deadlines."
+  links:
+    - { text: "Research · WSIB/WSIAT & Tribunals", url: "/research/#injured-workers--wsibwsiat" }
+    - { text: "Features · Evidence & Advocacy", url: "/features/#evidence" }
+    - { text: "User Guide · Evidence & Appeals", url: "/user-guide/#evidence-locker" }
+    - { text: "WSIAT Complete Guide", url: "/guides/wsiat-complete-guide/" }
+
+- id: persons_with_disabilities
+  label: "Persons with Disabilities"
+  icon: "🦽"
+  description: "People seeking benefits, accessibility settings, and community support."
+  links:
+    - { text: "Research · Disability Programs", url: "/research/#persons-with-disabilities" }
+    - { text: "Features · Cognitive & Neurodivergent", url: "/features/#accessibility" }
+    - { text: "User Guide · Accessibility", url: "/user-guide/#accessibility-settings" }
+    - { text: "Disability Federal Benefits Guide", url: "/guides/disability-federal-benefits/" }
+
+- id: indigenous
+  label: "Indigenous Communities"
+  icon: "🌿"
+  description: "First Nations, Inuit, and Métis communities — health, disability rights, and cultural protocols."
+  links:
+    - { text: "Research · Health & Disability", url: "/research/#indigenous-health-disability" }
+    - { text: "Features · Language Support", url: "/features/#indigenous-language-support" }
+    - { text: "User Guide · Languages & Protocols", url: "/user-guide/#indigenous-languages" }
+
+- id: families
+  label: "Families (Caregivers)"
+  icon: "👨‍👩‍👧"
+  description: "Family members and caregivers organizing support, benefits, and evidence."
+  links:
+    - { text: "Research · Caregiver Supports", url: "/research/#caregivers" }
+    - { text: "Features · Community Connection", url: "/features/#community" }
+    - { text: "User Guide · Community Hub", url: "/user-guide/#community-hub" }
+    - { text: "Caregiver Benefits Canada Guide", url: "/guides/caregivers-benefits-canada/" }
+
+- id: seniors
+  label: "Seniors / Elders"
+  icon: "👴"
+  description: "Older adults navigating OAS/GIS, benefits, and accessible tools."
+  links:
+    - { text: "Research · Seniors & OAS/GIS", url: "/research/#seniors" }
+    - { text: "Features · Wellness Tracking", url: "/features/#wellness" }
+    - { text: "User Guide · Complexity Mode", url: "/user-guide/#complexity-mode" }
+    - { text: "Seniors OAS/GIS Benefits Guide", url: "/guides/seniors-oas-gis-benefits/" }
+
+- id: veterans
+  label: "Veterans"
+  icon: "🎖️"
+  description: "Veterans and families navigating VAC/VRAB benefits and appeals."
+  links:
+    - { text: "Research · VAC/VRAB", url: "/research/#veterans-vac--vrab" }
+    - { text: "Features · Advocacy Tools", url: "/features/#advocacy" }
+    - { text: "User Guide · Appeals & Benefits", url: "/user-guide/#advocacy-section" }
+    - { text: "Veterans VAC Benefits Guide", url: "/guides/veterans-vac-benefits/" }
+
+- id: public
+  label: "Public"
+  icon: "🌐"
+  description: "Members of the public following the research, data, and methodology in the open."
+  links:
+    - { text: "Data Sources & Methodology", url: "/docs/DATA_SOURCES_METHODOLOGY/" }
+    - { text: "Research · Law & Precedents", url: "/research/#law--canlii-precedents" }
+    - { text: "Features · Support & Help", url: "/features/#support" }
+    - { text: "User Guide · Quick Start", url: "/user-guide/#quick-start" }
+
+- id: allies
+  label: "Allies"
+  icon: "🤝"
+  description: "Supporters amplifying community research, campaigns, and advocacy."
+  links:
+    - { text: "Research · Law & Precedents", url: "/research/#law--canlii-precedents" }
+    - { text: "Features · Support & Help", url: "/features/#support" }
+    - { text: "Beta Guide · How to Join", url: "/beta-guide/#how-to-join-beta-testing" }
+    - { text: "User Guide · Quick Start", url: "/user-guide/#quick-start" }
+
+- id: advocates
+  label: "Advocates"
+  icon: "📣"
+  description: "Advocates working on human rights, UNCRPD, and legal precedent."
+  links:
+    - { text: "Research · Human Rights & UNCRPD", url: "/research/#human-rights--uncrpd" }
+    - { text: "Features · Advocacy & Legal", url: "/features/#advocacy" }
+    - { text: "User Guide · Advocacy Suite", url: "/user-guide/#advocacy-section" }
+    - { text: "HRTO Complete Guide", url: "/guides/hrto-complete-guide/" }

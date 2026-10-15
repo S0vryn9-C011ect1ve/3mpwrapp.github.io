@@ -351,3 +351,8 @@ Legal Aid Ontario: www.legalaid.on.ca/legal-clinics/ (Injured Workers' Legal Cli
 **Template Version:** 1.0 (May 2026)  
 **Data Source:** 3,535 neck injury cases from 98,992 classified WSIAT decisions (2020-2026)  
 **Success Rate:** WSIAT outcome data is complex; see wsiat.ca for current statistics
+
+
+---
+
+**Data note (2026-10-15):** Figures citing "98,992" refer to the *WSIAT Open Data Portal's* published-decision metadata. The live Portal count was **96,025** as of 2026-10-07. 3mpwrapp's locally outcome-classified corpus is **11,430** ONWSIAT decisions (`onwsiat-outcomes-3-tier-consolidated.json`, 2026-04-26): 649 resolved (5.7%), 73.5% worker-win among decisive outcomes, 94.3% unresolved.

@@ -11,13 +11,14 @@
 - **Source:** CanLII (Canadian Legal Information Institute) - Canada's free, public legal database
 - **Database:** WSIAT (Workplace Safety and Insurance Appeals Tribunal) decisions
 - **Time Period:** January 1, 2020 → December 31, 2026  
-- **Total Cases Analyzed:** **98,992 tribunal decisions**
-- **Coverage:** Estimated 95%+ of all published WSIAT decisions in this period
+- **Published decisions (WSIAT Open Data Portal metadata):** **98,992** (live Portal count was **96,025** as of 2026-10-07)
+- **Locally outcome-classified corpus:** **11,430** ONWSIAT decisions (`onwsiat-outcomes-3-tier-consolidated.json`, 2026-04-26)
+- **Coverage:** The 98,992 figure is Portal *metadata* (a count of published decisions), not a locally re-classified dataset. Our actual analyzed corpus is 11,430.
 
 **Data Quality:**
 - **Structured metadata:** Case IDs, dates, citations, keywords (from CanLII)
 - **Full text:** HTML decision documents (parsed for keyword analysis)
-- **Missing data:** 10,491 cases (91.8%) have no outcome metadata in CanLII (this is itself a finding—see "outcome obscurity")
+- **Missing data:** 10,491 cases (91.8%) have no outcome metadata field in CanLII; our 3-tier inference resolved 649 (5.7%) with an explicit outcome and left 10,781 (94.3%) unresolved (see "outcome obscurity")
 
 **Collection Method:**
 - CanLII API queries filtered by database (`onwsiat`), date range, result batching
@@ -107,7 +108,7 @@ These are **direct observations** from the dataset—not interpretations:
 6. **"Obesity" keyword appears in 27 cases (0.24%)**
    - Evidence: Keyword count from CanLII metadata
    
-7. **Only 939 cases (8.2%) have outcome metadata; 10,491 (91.8%) have none**
+7. **Only 649 (5.7%) of 11,430 analyzed decisions have a machine-resolved outcome** (Granted 438 / Denied 158 / Deferred 30 / Other 23); 10,781 (94.3%) remain unresolved. CanLII itself provides no structured outcome field for 10,491 (91.8%).
    - Evidence: CanLII metadata field analysis
    
 8. **1.14-2.29 million estimated injured workers in Ontario (2020-2026)**
@@ -151,7 +152,7 @@ These are **interpretations** based on patterns—defensible but not absolute pr
 
 **A. Sample Size Adequacy**
 
-Question: Is 98,992 cases enough to draw conclusions?
+Question: Is our dataset enough to draw conclusions? (WSIAT Open Data Portal reports 98,992 published decisions as metadata; our locally outcome-classified corpus is 11,430 ONWSIAT decisions.)
 
 Answer: **YES** - this is 95%+ of all tribunal decisions in 6-year period
 - **Statistical power:** For pattern detection, n > 1,000 is considered robust
@@ -254,7 +255,7 @@ Answer: **YES, and we acknowledge them:**
 **We're transparent about gaps in our analysis:**
 
 ❌ **We DON'T have:**
-1. **True worker win rates** (91.8% of outcomes missing—we can't calculate)
+1. **True worker win rates** (~91.8% of outcomes lack structured data in CanLII; our 3-tier inference resolved 649/11,430, with a 73.5% worker-win rate among decisive outcomes — but this is NOT representative of all appeals)
 2. **WSIB internal documents** (policy memos proving intent to delay/deny)
 3. **Adjudicator performance data** (which decision-makers allow more appeals)
 4. **Regional breakdowns** (Toronto vs. Ottawa vs. Thunder Bay success rates)
@@ -271,7 +272,7 @@ Answer: **YES, and we acknowledge them:**
 6. **Co-occurrence patterns** (which denial tactics appear together)
 
 **Future research needed:**
-- Crowdsource outcomes from workers (build 91.8% missing data)
+- Crowdsource outcomes from workers (fill the ~91.8% of cases with no CanLII outcome metadata)
 - FOIA requests for WSIB internal statistics (acceptance/denial rates by year)
 - Adjudicator-level analysis (identify systematic leniency/harshness)
 - Representation study (survey workers on whether they had lawyers)
@@ -307,7 +308,7 @@ Answer: **YES, and we acknowledge them:**
 
 **If you're an injured worker:**
 - ✅ USE patterns to understand your denial (search keywords in your letter)
-- ✅ USE templates/guides based on winning arguments from 98,992 cases
+- ✅ USE templates/guides based on winning arguments from the 11,430-case analyzed corpus (WSIAT Open Data Portal: 98,992 published decisions)
 - ✅ CITE statistics in appeals ("20% of knee injuries denied as pre-existing—I'm part of documented pattern")
 - ❌ DON'T claim "conspiracy" (weakens your case—stick to facts)
 
@@ -324,7 +325,7 @@ Answer: **YES, and we acknowledge them:**
 - ❌ DON'T sensationalize (stick to what data proves—already damning enough)
 
 **If you're a researcher:**
-- ✅ BUILD on our dataset (98,992 cases available on GitHub)
+- ✅ BUILD on our dataset (11,430 outcome-classified ONWSIAT decisions; 98,992 published decisions per WSIAT Open Data Portal metadata)
 - ✅ CHALLENGE our methods (peer review makes science stronger)
 - ✅ FILL gaps (crowdsource outcomes, adjudicator analysis, representation study)
 - ❌ DON'T take our interpretations as gospel (test alternative explanations)
@@ -336,7 +337,7 @@ Answer: **YES, and we acknowledge them:**
 **3mpwrApp's Three Flywheels:**
 
 1. **📚 Knowledge Base (16 Injury Guides)**
-   - Built from patterns in 98,992 cases
+   - Built from patterns in the 11,430-case analyzed corpus (WSIAT Open Data Portal metadata: 98,992 published decisions)
    - Shows what arguments work for shoulder, knee, chronic pain, etc.
    - Evidence: [Knowledge Base Index](https://3mpwrapp.ca/knowledge-base/)
 
@@ -346,14 +347,14 @@ Answer: **YES, and we acknowledge them:**
    - Evidence: [Template Library](https://3mpwrapp.ca//research/#templates)
 
 3. **🤝 Community Support (Peer Network)**
-   - Workers share outcomes (filling 91.8% data gap)
+   - Workers share outcomes (filling the ~91.8% CanLII outcome-metadata gap)
    - Crowdsourced win rates by injury type, region, representation
    - Join: [empowrapp08162025@gmail.com](mailto:empowrapp08162025@gmail.com)
 
 **How research → action:**
 
 ```
-Pattern Detection (98,992 cases)
+Pattern Detection (11,430 outcome-classified cases; 98,992 published per Portal metadata)
     ↓
 Knowledge Base (injury-specific guides)
     ↓
@@ -380,7 +381,7 @@ MORE DATA (feedback loop improves research)
 - Reconsideration adds 1.5 years
 - Pre-existing appears in 13.3% of cases
 - Knee injuries have 20% pre-existing rate
-- 91.8% of outcomes not published
+- 91.8% of outcomes lack structured publication in CanLII (our 3-tier inference resolved 5.7%)
 
 **QUESTION these interpretations** (our analysis, not absolute proof):
 - "Systematic manipulation" vs. "dysfunction" (we lean manipulation based on incentives + patterns)

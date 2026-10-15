@@ -1,8 +1,17 @@
 {
   "year": 2026,
   "version": "1.0",
-  "lastUpdated": "2026-10-09T09:30:00-04:00",
+  "lastUpdated": "2026-10-14T14:00:00-04:00",
   "entries": [
+    {
+      "id": "wn-2026-10-14-user-bases-flywheels-live",
+      "title": "🪶 Find help that fits YOU — 9 communities, and the 3 Flywheels of Change are now alive",
+      "summary": "You can now tell the app and site who you're here for — injured workers, persons with disabilities, Indigenous peoples, veterans, seniors, families, the public, allies, or advocates (pick any or all). From there everything personalizes: letter and form templates, the research, and the three Flywheels of Change (Collective Evidence, Win Detection, and AI Knowledge & Recommendations) now learn from and grow with your community. We also expanded workers' compensation help to cover all of Canada, coast to coast to coast. Behind the scenes we cleared hidden bugs so the app runs more reliably.",
+      "date": "2026-10-14T14:00:00-04:00",
+      "category": "feature",
+      "repo": "app+website",
+      "commitSha": "pending"
+    },
     {
       "id": "wn-2026-10-09-indigenous-full-verification",
       "title": "🌿 Indigenous Communities — Full Verification & Research Integration",

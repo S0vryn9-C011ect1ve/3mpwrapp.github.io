@@ -26,7 +26,7 @@ Many researchers hide their limitations in footnotes. We put ours front and cent
 **Source:** Public data from Ontario government tribunals and WSIB
 
 **What we got:**
-- ✅ **98,992 WSIAT decisions** (1987-2026) - every single publicly available decision
+- ✅ **98,992 WSIAT decisions** (1987-2026) — reported by the WSIAT Open Data Portal (the authoritative public corpus)
 - ✅ **91,814 NEER employers** (2017-2020) - large employers in safety program
 - ✅ **38,922 CAD-7 employers** (2017-2020) - small employers in safety program
 - ✅ **664 Premium Rate Groups** - industry classifications with rates

@@ -237,6 +237,11 @@
           </a>
         </li>
         <li>
+          <a href="{{ lang_prefix | append: '/flywheels' | relative_url }}" {% if page.url contains '/flywheels' %}aria-current="page"{% endif %}>
+            {% if page.lang == 'fr' %}Flywheels{% else %}Flywheels{% endif %}
+          </a>
+        </li>
+        <li>
           <a href="{{ lang_prefix | append: '/features' | relative_url }}" {% if page.url contains '/features' %}aria-current="page"{% endif %}>
             {% if page.lang == 'fr' %}Fonctionnalités{% else %}Features{% endif %}
           </a>

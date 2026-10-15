@@ -15,6 +15,7 @@ header_pages:
   - user-guide/index.md
   - beta-guide/index.md
   - research.md
+  - user-bases/index.md
   - faq.md
   - accessibility.md
   - support.md

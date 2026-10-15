@@ -91,6 +91,7 @@ decide a VAC claim — and a lack of WSIB coverage does not end your options.
 - [Human Rights & Disability Law in Canada](/knowledge-base/human-rights-law-canada/)
 - [WSIB Strike — Appeals Paused, What Injured Workers Should Do](/knowledge-base/wsib-strike-appeals-pause/)
 - [Who Tells Your Story? The Information Asymmetry Behind WSIB](/knowledge-base/information-asymmetry-narrative-control/)
+- [WSIB 2026 Accountability Watch — Lawsuit, Cuts & Claim Denials](/knowledge-base/wsib-2026-accountability-watch/)
 
 ---
 
@@ -112,3 +113,8 @@ decide a VAC claim — and a lack of WSIB coverage does not end your options.
 > 📱 **Also available in the app:** Key claim-type guidance is built into the 3mpwrApp mobile app under **Resources → Evidence Flywheel**. ([open the app](https://app.3mpwrapp.ca))
 
 **© 2026 3mpwrApp. All rights reserved.**
+
+
+---
+
+**Data note (2026-10-15):** Figures citing "98,992" refer to the *WSIAT Open Data Portal's* published-decision metadata. The live Portal count was **96,025** as of 2026-10-07. 3mpwrapp's locally outcome-classified corpus is **11,430** ONWSIAT decisions (`onwsiat-outcomes-3-tier-consolidated.json`, 2026-04-26): 649 resolved (5.7%), 73.5% worker-win among decisive outcomes, 94.3% unresolved.

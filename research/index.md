@@ -1,23 +1,24 @@
 ---
 layout: default
 title: "Research — evidence, data & methodology"
-description: "The research behind 3mpwrapp's guides: tribunal decision data, outcome visualizations, methodology, and how member evidence becomes collective action — spanning injured workers, veterans, seniors, caregivers, persons with disabilities, human rights, UNCRPD and the law."
+description: "The research behind 3mpwrapp's guides: tribunal decision data, outcome visualizations, methodology, and how member evidence becomes collective action — spanning injured workers, persons with disabilities, Indigenous communities, families (caregivers), seniors, veterans, public allies, advocates, and the human-rights / UNCRPD / legal communities."
 permalink: /research/
 ---
 
 ---
-## Navigate by Community (8 user bases — fully inter-linked)
+## Navigate by Community (9 user bases — fully inter-linked)
 
 Every feature, guide, resource, and research section links directly to each community's dedicated subsection. **Updated: October 09, 2026.** All links verified — nothing invented.
 
 - **🌿 Indigenous Communities** → [User Guide · Languages & Protocols](/user-guide/#indigenous-languages) · [Beta Guide · Testing Protocols](/beta-guide/#what-to-test) · [Features · Language Support](/features/#indigenous-language-support) · [Research · Health & Disability](/research/#indigenous-health-disability)
-- **🦽 Persons with Disabilities** → [User Guide · Accessibility](/user-guide/#accessibility-settings) · [Beta Guide · Accessibility Testing](/beta-guide/#accessibility-testing) · [Features · Cognitive & Neurodivergent](/features/#accessibility) · [Research · Disability Programs](/research/#persons-with-disabilities)
 - **🏗️ Injured Workers** → [User Guide · Evidence & Appeals](/user-guide/#evidence-locker) · [Beta Guide · Core Workflows](/beta-guide/#core-workflows) · [Features · Evidence & Advocacy](/features/#evidence) · [Research · WSIB/WSIAT & Tribunals](/research/#injured-workers--wsibwsiat)
+- **🦽 Persons with Disabilities** → [User Guide · Accessibility](/user-guide/#accessibility-settings) · [Beta Guide · Accessibility Testing](/beta-guide/#accessibility-testing) · [Features · Cognitive & Neurodivergent](/features/#accessibility) · [Research · Disability Programs](/research/#persons-with-disabilities)
 - **🎖️ Veterans** → [User Guide · Appeals & Benefits](/user-guide/#advocacy-section) · [Beta Guide · Testing Workflows](/beta-guide/#core-workflows) · [Features · Advocacy Tools](/features/#advocacy) · [Research · VAC/VRAB](/research/#veterans-vac--vrab)
-- **👴 Elderly / Seniors** → [User Guide · Complexity Mode](/user-guide/#complexity-mode) · [Beta Guide · Performance Testing](/beta-guide/#performance-testing) · [Features · Wellness Tracking](/features/#wellness) · [Research · Seniors & OAS/GIS](/research/#seniors)
-- **👨‍👩‍👧 Families / Caregivers** → [User Guide · Community Hub](/user-guide/#community-hub) · [Beta Guide · Feedback](/beta-guide/#feedback) · [Features · Community Connection](/features/#community) · [Research · Caregiver Supports](/research/#caregivers)
-- **🤝 Allies / Supporters** → [User Guide · Quick Start](/user-guide/#quick-start) · [Beta Guide · How to Join Beta](/beta-guide/#how-to-join-beta-testing) · [Features · Support & Help](/features/#support) · [Research · Law & Precedents](/research/#law--canlii-precedents)
-- **📣 Advocates / Public Allies** → [User Guide · Advocacy Suite](/user-guide/#advocacy-section) · [Beta Guide · Bug Reporting](/beta-guide/#bug-reporting) · [Features · Advocacy & Legal](/features/#advocacy) · [Research · Human Rights & UNCRPD](/research/#human-rights--uncrpd)
+- **👴 Seniors / Elders** → [User Guide · Complexity Mode](/user-guide/#complexity-mode) · [Beta Guide · Performance Testing](/beta-guide/#performance-testing) · [Features · Wellness Tracking](/features/#wellness) · [Research · Seniors & OAS/GIS](/research/#seniors)
+- **👨‍👩‍👧 Families (Caregivers)** → [User Guide · Community Hub](/user-guide/#community-hub) · [Beta Guide · Feedback](/beta-guide/#feedback) · [Features · Community Connection](/features/#community) · [Research · Caregiver Supports](/research/#caregivers)
+- **🤝 Allies** → [User Guide · Quick Start](/user-guide/#quick-start) · [Beta Guide · How to Join Beta](/beta-guide/#how-to-join-beta-testing) · [Features · Support & Help](/features/#support) · [Research · Law & Precedents](/research/#law--canlii-precedents)
+- **📣 Advocates** → [User Guide · Advocacy Suite](/user-guide/#advocacy-section) · [Beta Guide · Bug Reporting](/beta-guide/#bug-reporting) · [Features · Advocacy & Legal](/features/#advocacy) · [Research · Human Rights & UNCRPD](/research/#human-rights--uncrpd)
+- **🌐 Public** → [User Guide · Quick Start](/user-guide/#quick-start) · [Beta Guide · How to Join Beta](/beta-guide/#how-to-join-beta-testing) · [Features · Support & Help](/features/#support) · [Data Sources & Methodology](/docs/DATA_SOURCES_METHODOLOGY/)
 
 ---
 # 🔬 Research
@@ -25,21 +26,24 @@ Every feature, guide, resource, and research section links directly to each comm
 Every figure in the 3mpwrapp guides traces back to analysed decision data. This is the
 hub for that work — check it rather than take the guides on trust.
 
-**3mpwrapp serves:** injured workers & WSIB/WSIAT claimants, veterans (VAC/VRAB),
-seniors, caregivers, persons with disabilities, public allies, and the human-rights /
-UNCRPD / legal communities. The resources below are grouped by community so you can find
-the guides, knowledge bases, and templates that apply to you.
+**3mpwrapp serves:** injured workers & WSIB/WSIAT claimants, persons with disabilities,
+Indigenous communities, families (including caregivers), seniors, veterans (VAC/VRAB),
+public allies, advocates, and the human-rights / UNCRPD / legal communities. The
+resources below are grouped by community so you can find the guides, knowledge bases,
+and templates that apply to you.
 
 ## 🏘️ Communities we serve
 
 - [Indigenous Communities](#indigenous-health-disability)
 - [Injured Workers & WSIB/WSIAT](#injured-workers--wsibwsiat)
-- [Veterans (VAC / VRAB)](#veterans-vac--vrab)
-- [Seniors](#seniors)
-- [Caregivers](#caregivers)
 - [Persons with Disabilities](#persons-with-disabilities)
-- [Human Rights & UNCRPD](#human-rights--uncrpd)
-- [Law & CanLII Precedents](#law--canlii-precedents)
+- [Veterans (VAC / VRAB)](#veterans-vac--vrab)
+- [Seniors / Elders](#seniors)
+- [Families (Caregivers)](#caregivers)
+- [Allies](#law--canlii-precedents)
+- [Advocates](#human-rights--uncrpd)
+- [Public](/docs/DATA_SOURCES_METHODOLOGY/)
+- [Workers' Compensation Across Canada](#workers-comp-canada)
 
 ## 📚 Guides (by community)
 
@@ -177,6 +181,71 @@ outcome models current. Status:
 
 See [Data Sources & Methodology](/docs/DATA_SOURCES_METHODOLOGY/) for how scraped data becomes the
 figures you see in the guides.
+
+<a name="workers-comp-canada"></a>
+## 🇨🇦 Workers' Compensation Across Canada
+
+3mpwrapp's jurisdiction data spans all 13 provinces and territories plus federal and
+U.S. references, so the tools meet you **coast to coast to coast**. Canada's workers'
+compensation system is provincial and territorial — each has its own board and appeal
+tribunal:
+
+Canada's workers' compensation system is provincial and territorial. Each jurisdiction below links to its official board (verified live 2026-10-15). Appeal-tribunal pathways are noted where established:
+
+- **British Columbia — WorkSafeBC** ([worksafebc.com](https://www.worksafebc.com)). Appeals: Review Division → Workers' Compensation Appeal Tribunal (WCAT, [wcbc.ca](https://www.wcbc.ca)).
+- **Alberta — WCB Alberta** ([wcb.ab.ca](https://www.wcb.ab.ca)). Appeals: Appeal Commission.
+- **Saskatchewan — Saskatchewan Workers' Compensation Board** ([worksafesask.ca](https://www.worksafesask.ca)). Appeals: Appeal Commission.
+- **Manitoba — WCB Manitoba** ([wcb.mb.ca](https://www.wcb.mb.ca)). Appeals: Appeal Commission.
+- **Ontario — Workplace Safety & Insurance Board (WSIB)** ([wsib.ca](https://www.wsib.ca)). Appeals: Workplace Safety and Insurance Appeals Tribunal (WSIAT).
+- **Quebec — CNESST** ([cnesst.gouv.qc.ca](https://www.cnesst.gouv.qc.ca)). Appeals: Tribunal des accidents du travail et des maladies professionnelles (TATMP).
+- **New Brunswick — WorkSafeNB** ([worksafenb.ca](https://www.worksafenb.ca)). Appeals: Appeal Panel.
+- **Nova Scotia — WCB Nova Scotia** ([wcb.ns.ca](https://www.wcb.ns.ca)). Appeals: Appeal Tribunal.
+- **Prince Edward Island — Workers Compensation Board of PEI** ([wcb.pe.ca](https://www.wcb.pe.ca)). Appeals: Appeal Panel.
+- **Newfoundland & Labrador — WorkplaceNL** ([workplacenl.ca](https://workplacenl.ca)). Appeals: Appeal Tribunal.
+- **Yukon — Workers' Compensation** ([yukon.ca/workers-compensation](https://yukon.ca/workers-compensation)). Administered via the territorial government.
+- **Northwest Territories — WSCC NWT** ([wscc.nt.ca](https://www.wscc.nt.ca)). Appeals: Appeal Commission.
+- **Nunavut — WSCC Nunavut** ([wscc.nu.ca](https://www.wscc.nu.ca)). Appeals: Appeal Commission.
+- **Federal — Government Employees Compensation Act (GECA):** federal employees' claims are administered through the provincial/territorial board in their work location; federal labour standards fall under the Labour Program ([canada.ca](https://www.canada.ca/en/employment-social-development/services/labour-standards.html)).
+
+**Indigenous communities:** First Nations, Inuit, and Métis workers may access provincial/territorial boards **and** distinct nation-to-nation or Indigenous Services Canada pathways. 3mpwrapp respects data sovereignty: community-specific guidance will be co-developed WITH Indigenous nations only when those nations choose to lead it — 3mpwrapp does not presume or assert any partnership. See [Indigenous Services Canada](https://www.canada.ca/en/indigenous-services-canada.html) for federal programs.
+
+Jurisdiction-specific appeal guides for each board are expanding as part of the ongoing
+CanLII collection noted above. **Verify current premium rates, coverage rules, and
+benefit amounts on the official board site** — the facts here are structural, not
+benefit-rate data.
+
+## 🌿 Indigenous Communities — distinct pathways (data-sovereignty respecting)
+
+3mpwrapp recognizes that First Nations, Inuit, and Métis peoples are distinct nations with
+their own rights, laws, and service pathways. Our approach:
+
+- **No presumption.** Community-specific guidance will be co-developed WITH Indigenous nations and urban Indigenous organizations — we are not there yet; we do not assume or speak for nations.
+- **Language & protocol.** The app ships Indigenous language support and protocol-respecting onboarding (see [User Guide · Languages & Protocols](/user-guide/#indigenous-languages)).
+- **Federal doorway.** [Indigenous Services Canada](https://www.canada.ca/en/indigenous-services-canada.html) administers First Nations / Inuit / Métis programs (e.g., Non-Insured Health Benefits, Jordan's Principle).
+- **Nation organizations (verified live 2026-10-15):** [First Nations Health Authority (BC)](https://www.fnha.ca) · [Inuit Tapiriit Kanatami](https://www.itk.ca) · [Métis National Council](https://www.metisnation.ca).
+
+The workers'-compensation matrix above applies provincial/territorial boards; many Indigenous
+workers also have nation-to-nation or ISC pathways that run alongside them.
+
+## 🇨🇦 Federal Benefits by Community (program map)
+
+Canada's social programs are largely federal + provincial. Below is the federal layer per community
+(official sources; verify current eligibility on the linked site — not legal advice):
+
+- **🌿 Indigenous** — NIHB & Jordan's Principle via [Indigenous Services Canada](https://www.canada.ca/en/indigenous-services-canada.html).
+- **🦽 Persons with Disabilities** — [CPP Disability](https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-disability-benefit.html) · [Disability Tax Credit](https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities.html).
+- **🏗️ Injured Workers** — federal [EI sickness benefits](https://www.canada.ca/en/services/benefits/ei.html) + your provincial/territorial WCB (matrix above).
+- **🎖️ Veterans** — [Veterans Affairs Canada](https://www.veterans.gc.ca): disability pension, Pain & Suffering Compensation, rehabilitation.
+- **👴 Seniors / Elders** — [Old Age Security & GIS](https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security.html) · CPP retirement.
+- **👨‍👩‍👧 Families (Caregivers)** — [Canada Caregiver Credit](https://www.canada.ca/en/services/taxes.html) · [EI caregiving benefits](https://www.canada.ca/en/services/benefits/ei.html).
+- **🤝 Allies / 📣 Advocates / Public** — [Canada.ca Benefits hub](https://www.canada.ca/en/services/benefits.html).
+
+### Provincial & territorial programs (audit pending)
+Disability assistance, human-rights tribunals, healthcare, housing, and seniors programs are
+set **province-by-province**. Each province's official portal is the authoritative source
+(linked from the WCB matrix above for workers' compensation). The deep per-program matrices
+(disability / human-rights / healthcare / housing) are being populated from primary sources in
+the ongoing research audit — they are **not yet published** to avoid presenting unverified detail.
 
 ## ⚠️ A note on the numbers
 

@@ -439,3 +439,7 @@ You're not a customer. You're a contributor. Your struggle, your win, your knowl
 📱 Download: Available on iOS, Android, and web
 
 _Building this at $0 budget because every injured worker and person with disabilities deserves representation - even if they can't afford it._
+
+---
+
+**Data note (2026-10-15):** Figures citing "98,992" refer to the *WSIAT Open Data Portal's* published-decision metadata. The live Portal count was **96,025** as of 2026-10-07. 3mpwrapp's locally outcome-classified corpus is **11,430** ONWSIAT decisions (`onwsiat-outcomes-3-tier-consolidated.json`, 2026-04-26): 649 resolved (5.7%), 73.5% worker-win among decisive outcomes, 94.3% unresolved.

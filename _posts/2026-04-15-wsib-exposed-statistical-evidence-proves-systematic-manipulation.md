@@ -104,46 +104,29 @@ You'll see these terms throughout this investigation. Here's what they mean in p
 
 ---
 
-## 🎯 WSIAT Classification Results: 98,992 Decisions Analyzed
+## 🎯 WSIAT Outcome Classification (ONWSIAT, 2020–2026)
 
-**📅 UPDATE: May 1, 2026** - We've completed keyword-based classification of all 98,992 WSIAT tribunal decisions (2020-2026). Here's what the outcomes reveal:
+**📅 Data source:** `onwsiat-outcomes-3-tier-consolidated.json` (created 2026-04-26). **Analyzed corpus: 11,430 ONWSIAT decisions** with structured outcome classification.
+*Scale context: the WSIAT Open Data Portal reports **98,992** published decisions as metadata; the live Portal count was **96,025** as of 2026-10-07. Our locally analyzed corpus is 11,430 — the Portal figure is a metadata count, not a locally re-classified dataset.*
 
-### Outcome Distribution
+### Outcome Distribution (classified corpus, n = 11,430)
 
-| Outcome | Count | Percentage |
-|---------|-------|------------|
-| Unclear | 8,806 | 77.0% |
-| Other | 2,151 | 18.8% |
-| Allowed | 285 | 2.5% |
-| Remitted | 80 | 0.7% |
-| Partial | 65 | 0.6% |
-| Denied | 43 | 0.4% |
-| **TOTAL** | **98,992** | **100%** |
+| Outcome | Count | Share |
+|---------|-------|-------|
+| Unknown / unresolved | 10,781 | 94.3% |
+| Granted (worker win) | 438 | 3.8% |
+| Denied | 158 | 1.4% |
+| Deferred (back for reconsideration) | 30 | 0.3% |
+| Other | 23 | 0.2% |
+| **Resolved (Tier A/B)** | **649** | **5.7%** |
 
 ### What This Tells Us
 
-**77.0% of decisions have unclear outcomes** based on keyword analysis. This highlights the challenge injured workers face when trying to understand tribunal precedents—even reading the decisions, it's often unclear who won.
+**94.3% of classified decisions have no machine-resolved outcome** (10,781 of 11,430). Tribunal language is rarely explicit, so most outcomes stay "Unknown" — this obscurity is itself the core problem for injured workers trying to understand precedent.
 
-**Of the clear outcomes (393 decisions):**
-- **73.5% grant rate** in verified classified decisions (438 granted / 596 decisive from onwsiat-outcomes-3-tier-summary.json)
-- **26.5% are worker losses** in decisive cases (158 denied / 596 decisive)
-- **20.4% are remitted** (sent back for reconsideration - these are additional to wins/losses)
+**Of the 649 resolved decisions:** 438 granted vs 158 denied → **73.5% worker-win rate among decisive outcomes** (deferred/other excluded). This is *not* a representative success rate for all appeals — only for the small slice where the outcome was machine-resolved.
 
-**18.8% are procedural matters** (reconsiderations, withdrawals, time limit disputes, adjournments, etc.)
-
-### Year-by-Year Breakdown
-
-| Year | Total | Allowed | Partial | Denied | Remitted | Other | Unclear | Win Rate |
-|------|-------|---------|---------|--------|----------|-------|---------|----------|
-| 2020 | 2,077 | 8 | 11 | 1 | 0 | 443 | 1,614 | 95.0% |
-| 2021 | 1,207 | 27 | 3 | 6 | 8 | 209 | 954 | 83.3% |
-| 2022 | 2,091 | 54 | 5 | 10 | 19 | 321 | 1,682 | 85.5% |
-| 2023 | 1,571 | 53 | 9 | 3 | 13 | 279 | 1,214 | 95.4% |
-| 2024 | 1,971 | 63 | 7 | 11 | 22 | 366 | 1,502 | 86.4% |
-| 2025 | 1,522 | 58 | 15 | 12 | 15 | 320 | 1,102 | 85.9% |
-| 2026 | 146 | 20 | 2 | 0 | 3 | 41 | 80 | 100.0% |
-
-**Key Insight:** Our keyword-based analysis found an **85-95% worker-win rate among the small subset of decisions with clear outcome language** (most are "unclear"). This is not a representative success rate—WSIAT's reported favorable-outcome rate is ~65-73%. The high share of unclear outcomes is itself the problem: it obscures how workers actually fare.
+**Key Insight:** WSIB/WSIAT's own reported favorable-outcome rate is ~65–73% for represented appellants. Our 73.5% among resolved cases sits inside that band. The real finding is the **94.3% unresolved rate**: it obscures how workers actually fare and is why we report outcomes as "known/unknown" rather than a headline success rate. Per-year outcome detail from earlier keyword passes is superseded by this consolidated classification.
 
 ### Confidence Levels
 
@@ -970,3 +953,8 @@ Thunder Bay & District Injured Workers Support Group board members for reviewing
 *This analysis represents months of data extraction, statistical modeling, and legal research. We're releasing it publicly because injured workers deserve to know the truth. If you find errors, tell us. If you find more patterns, share them. This is community-driven advocacy, and the data belongs to everyone.*
 
 **#StackThoseReceipts #WSIBTransparency #InjuredWorkersDeserveBetter**
+
+
+---
+
+**Data note (2026-10-15):** Figures citing "98,992" refer to the *WSIAT Open Data Portal's* published-decision metadata. The live Portal count was **96,025** as of 2026-10-07. 3mpwrapp's locally outcome-classified corpus is **11,430** ONWSIAT decisions (`onwsiat-outcomes-3-tier-consolidated.json`, 2026-04-26): 649 resolved (5.7%), 73.5% worker-win among decisive outcomes, 94.3% unresolved.

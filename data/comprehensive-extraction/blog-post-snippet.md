@@ -1,4 +1,4 @@
-## 🎯 WSIAT Classification Results: 98,992 Decisions Analyzed
+## 🎯 WSIAT Outcome Classification (ONWSIAT, 2020–2026) — 11,430 decisions analyzed
 
 **📅 UPDATE: May 1, 2026** - We've completed keyword-based classification of all 98,992 WSIAT tribunal decisions (2020-2026). Here's what the outcomes reveal:
 
@@ -20,10 +20,10 @@
 
 ### What This Tells Us
 
-**77.0% of decisions have unclear outcomes** based on keyword analysis. This highlights the challenge injured workers face when trying to understand tribunal precedents—even reading the decisions, it's often unclear who won.
+**94.3% of classified decisions have no machine-resolved outcome** (10,781 of 11,430; from onwsiat-outcomes-3-tier-consolidated.json, 2026-04-26). This highlights the challenge injured workers face when trying to understand tribunal precedents—even reading the decisions, it's often unclear who won.
 
 **Of the clear outcomes (393 decisions):**
-- **89.1% are worker wins** (allowed or partial)
+- **73.5% worker-win rate among the 649 resolved decisions** (438 granted vs 158 denied; deferred/other excluded) — from onwsiat-outcomes-3-tier-summary.json
 - **0.4% are denials**
 - **0.7% are remitted** (sent back for reconsideration)
 
