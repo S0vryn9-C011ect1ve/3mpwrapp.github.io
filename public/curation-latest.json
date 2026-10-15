@@ -1,106 +1,36 @@
 {
-  "date": "2026-10-14",
-  "timestamp": "2026-10-14T16:45:47.267Z",
-  "count": 14,
+  "date": "2026-10-15",
+  "timestamp": "2026-10-15T16:31:31.608Z",
+  "count": 4,
   "minScore": 3.5,
   "items": [
     {
       "title": "The Disability Bulletin",
       "link": "https://linktr.ee/thedisabilitybulletin",
-      "description": "The Disability Bulletin covers disability rights news, advocacy updates, and community stories from across Canada. Visit for the latest issue.",
+      "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
       "score": 10,
-      "pubDate": "2026-10-14T16:45:47.263Z"
+      "pubDate": "2026-10-15T16:31:31.605Z"
     },
     {
-      "title": "Manitoba Delegation Joins Team Canada Trade Mission to India",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75717",
+      "title": "Manitoba Government Invests $5 Million to Expand Autism Services for Children and Families",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75738",
       "description": "",
-      "score": 15,
-      "pubDate": "Tue, 13 Oct 2026 14:33:00 CDT"
+      "score": 12.5,
+      "pubDate": "Wed, 14 Oct 2026 13:58:00 CDT"
     },
     {
-      "title": "Manitoba Government Announces Stronger Supports for Youth Aging out of Child and Family Services Care",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75537",
-      "description": "",
-      "score": 15.3,
-      "pubDate": "Mon, 28 Sep 2026 10:28:00 CDT"
-    },
-    {
-      "title": "Manitoba Government Adds Community Capacity to Help Patients Move to the Right Care",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75619",
-      "description": "",
-      "score": 13.9,
-      "pubDate": "Tue, 06 Oct 2026 12:54:00 CDT"
-    },
-    {
-      "title": "Manitoba Government Expands Cabinet with New Roles for First Responders and Accessibility",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75538",
-      "description": "",
-      "score": 11.5,
-      "pubDate": "Mon, 28 Sep 2026 13:30:00 CDT"
-    },
-    {
-      "title": "Surrey’s Election Is Drama-Filled. Here Are the Top Issues",
-      "link": "https://thetyee.ca/News/2026/10/14/Surrey-Election-Drama-Filled/",
-      "description": "Incumbent Mayor Brenda Locke is facing off against her bitter rival Doug McCallum over public safety, land deals and health care.",
-      "score": 8.9,
-      "pubDate": "Wed, 14 Oct 2026 07:10:00 +0000"
-    },
-    {
-      "title": "Manitoba Government Now Accepting Nominations for 2026-27 Excellence in Education Awards",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75617",
-      "description": "",
-      "score": 9.5,
-      "pubDate": "Tue, 06 Oct 2026 11:45:00 CDT"
-    },
-    {
-      "title": "Manitoba Government Introduces Legislation to Improve Safety for Cannabis Store Workers",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75597",
-      "description": "",
-      "score": 9.5,
-      "pubDate": "Mon, 05 Oct 2026 13:41:00 CDT"
-    },
-    {
-      "title": "Manitoba Government Introduces Amendments to Further Protect Survivors of Intimate Partner Violence",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75598",
+      "title": "Manitoba Government Invests $67,000 toward Winkler Parks and Recreation Plan",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75737",
       "description": "",
       "score": 7.5,
-      "pubDate": "Mon, 05 Oct 2026 14:35:00 CDT"
+      "pubDate": "Wed, 14 Oct 2026 13:20:00 CDT"
     },
     {
-      "title": "Manitoba Government Commits to Expanding Presumptive Coverage for All Firefighters",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75518",
-      "description": "",
-      "score": 7.5,
-      "pubDate": "Sat, 26 Sep 2026 13:54:00 CDT"
-    },
-    {
-      "title": "Eby Criticized for Taking a Spot in Limited $10-a-Day Child Care",
-      "link": "https://thetyee.ca/News/2026/10/13/Eby-Criticized-Limited-Government-Subsidized-Child-Care-Spot/",
-      "description": "Conservatives have yet to release a child-care policy while Greens have big plans.",
-      "score": 4.4,
-      "pubDate": "Tue, 13 Oct 2026 20:01:00 +0000"
-    },
-    {
-      "title": "Advance in-person voting for Alberta referendum starts this week",
-      "link": "https://rabble.ca/politics/canadian-politics/advance-in-person-voting-for-alberta-referendum-starts-this-week/",
-      "description": "",
-      "score": 3.5999999999999996,
-      "pubDate": "Tue, 13 Oct 2026 19:14:27 +0000"
-    },
-    {
-      "title": "Alberta Chief Electoral Officer: Only official political parties can have referendum scrutineers",
-      "link": "https://rabble.ca/politics/canadian-politics/alberta-chief-electoral-officer-only-official-political-parties-can-have-referendum-scrutineers/",
-      "description": "",
-      "score": 3.5999999999999996,
-      "pubDate": "Tue, 13 Oct 2026 19:08:42 +0000"
-    },
-    {
-      "title": "Please Advise! Who Will Win in Alberta’s Referendum?",
-      "link": "https://thetyee.ca/Opinion/2026/10/14/Please-Advise-Alberta-Referendum/",
-      "description": "No one, says Dr. Steve. But there is one big loser.",
-      "score": 3.5999999999999996,
-      "pubDate": "Wed, 14 Oct 2026 07:30:00 +0000"
+      "title": "Vancouver Parties Split on Making Roads Safer",
+      "link": "https://thetyee.ca/News/2026/10/14/Vancouver-Parties-Split-Making-Roads-Safer-Banana-Barriers/",
+      "description": "From traffic-calming barriers to safer streets, the parties have different ideas about how to protect people on the road.",
+      "score": 4,
+      "pubDate": "Wed, 14 Oct 2026 19:45:00 +0000"
     }
   ]
 }
