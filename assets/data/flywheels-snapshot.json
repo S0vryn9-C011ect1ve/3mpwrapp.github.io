@@ -1,20 +1,20 @@
 {
-  "total": 1442,
+  "total": 1499,
   "verified": 5,
   "by_community": {
-    "disability": 630,
-    "injured_workers": 380,
-    "welfare_social": 336,
-    "accessibility": 318,
-    "elderly": 80,
+    "disability": 646,
+    "injured_workers": 390,
+    "accessibility": 347,
+    "welfare_social": 346,
+    "elderly": 83,
     "veterans": 40,
     "vulnerable_communities": 2,
-    "public_allies": 1
+    "public_allies": 2
   },
   "by_jurisdiction": {
-    "INTL": 599,
-    "CA-ON": 580,
-    "CA-FED": 153,
+    "INTL": 623,
+    "CA-ON": 605,
+    "CA-FED": 161,
     "CA-AB": 73,
     "CA-BC": 23,
     "CA-NT": 7,
@@ -24,16 +24,16 @@
     "CA-NL": 1
   },
   "by_source": {
-    "x": 803,
+    "x": 855,
     "reddit": 446,
-    "news": 176,
+    "news": 181,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 1425,
+    "unverified_social": 1482,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -163,102 +163,103 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRklrdXVRbU9ibHE5MDVEZ0ptZGQ5YkdGZS14OGhTR014cFlOQ2NHczJUN1pjb2t3ZW9sZkd1ZW51SHFDbm9URUt0WEV4YjJSTGlJNlRMT3h0S3ctRHRDa01vUkJCVUw2S3lKLUlJbjV0Wkl2RzhwZUxvNTZ3cGtFalVwWnNQUFp2OGp0djg0RGJZRjFvNEJQM2U1ME1tT2VXb1JzeUlTOEVZeHZNUkdtWUkzVnpmdmpMNk1PcjhR?oc=5"
     },
     {
-      "id": "f9858d34ea43",
+      "id": "d5dccdc173a2",
       "source": "x",
-      "title": "Retweet to DEMAND @TrevorJonesCKL @fordnation PASS #Bill57, Respecting #InjuredWorkersWorkers Act(Workplace Safety &amp; Insurance Amendment), 2022 https://t.co/m80nVLwsEG #KeepTheFocusOnInjuredWorker",
+      "title": "Utilisez-vous les bonnes heures de travail lors de la planification du retour d'un travailleur à des tâches modifiées?  Lorsqu'un travailleur blessé a des horaires irréguliers, la WSIB peut utiliser d",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/occupywsib/status/2110016135806496979"
+      "url": "https://x.com/AskoeaFR/status/2110338674449674258"
     },
     {
-      "id": "cff7d8874732",
+      "id": "fd7982fd79a8",
       "source": "x",
-      "title": "🛡️ Safer Workplaces, Stronger Businesses! 🚀  We’re delighted to have the Workplace Safety and Insurance Board (@WSIB) as an exhibitor at the CanadianSME Small Business Summit 2026, presented by @Amazo",
+      "title": "Are you using the right hours when planning a worker’s return to modified duties?  When an injured worker has irregular hours, the WSIB may use short-term and long-term averages when determining pre-i",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/canadian_sme/status/2110015354021765313"
+      "url": "https://x.com/askoea/status/2110338515632321001"
     },
     {
-      "id": "0bb822aca4dc",
+      "id": "9c9e872a4b18",
       "source": "x",
-      "title": "[OCT 29 - WEBINAR SERIES] Sharing information in teams  https://t.co/opgAttuJjM  #mentalhealth #addiction #addictionsagency #CMHA #Alzheimer  #AlzheimerSociety #psychologypractice #psychiatricfacility",
+      "title": "@Oceanbreeze473 What is wsib",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/KateDewhirst/status/2109977627385565513"
+      "url": "https://x.com/donnymadill/status/2110172764816761086"
     },
     {
-      "id": "208e4c8160b6",
+      "id": "014e62c523da",
       "source": "x",
-      "title": "@fordnation Waiting in emergency room  12 hours, injured workers abused by WSIB , More potholes in ONT then Gaza , the list go On ....",
+      "title": "I’m going to have the grok bot try to login into my business accounts and do all the admin work for me.   Review timesheets, pay employees. Submit cra remittances and quarterly WSIB payments.   The wh",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/I0452/status/2109976151997501841"
+      "url": "https://x.com/BaxterSaxster/status/2110118754667413861"
     },
     {
-      "id": "0f71247bfce8",
+      "id": "8ce2d4ca5a38",
       "source": "x",
-      "title": "@DrAlexMHorton Yup I was beaten up many time last year but wsib gives you 60% of your pay and I can't afford to use it",
+      "title": "@fordnation Uncle Doug fix Ontario WSIB system",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/shanheighington/status/2109819890957963336"
+      "url": "https://x.com/I0452/status/2110096869380546882"
     },
     {
-      "id": "fce352122cba",
+      "id": "5787632c96bb",
       "source": "x",
-      "title": "@whtaboutthatguy Since WSIB has been sold to the US, there probably will not be one. As this report is so buried it is hard to find. Coverups by the CONS Republican Party. Ford doesn't want the public",
+      "title": "@alberasaurus @Teachers__Unite My union, OECTA, does not talk about pay. And frankly, according to WSIB, educators are victims of violent incidents more often than police officers and fire fighters. T",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "flywheels": [
+        "collective_action",
         "evidence"
       ],
-      "url": "https://x.com/DrAlexMHorton/status/2109733601562816677"
+      "url": "https://x.com/steph11676/status/2110076457598763301"
     },
     {
-      "id": "24e5f742ddea",
+      "id": "e1221f3067d8",
       "source": "x",
-      "title": "@WSIB https://t.co/Hjp87ptDDt",
+      "title": "From ₹201 crore invested in 2017 to ₹550 crore realised: WSIB-backed investor exits DASNAC  https://t.co/YDxZHBvROW",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/OhCanadaLady/status/2109722351701201170"
+      "url": "https://x.com/livemint/status/2110048116087144695"
     }
   ],
   "generated": "2026-10-14"
