@@ -1,21 +1,21 @@
 {
-  "total": 1499,
+  "total": 1585,
   "verified": 5,
   "by_community": {
-    "disability": 646,
-    "injured_workers": 390,
-    "accessibility": 347,
-    "welfare_social": 346,
-    "elderly": 83,
-    "veterans": 40,
+    "disability": 677,
+    "injured_workers": 414,
+    "accessibility": 378,
+    "welfare_social": 366,
+    "elderly": 87,
+    "veterans": 41,
     "vulnerable_communities": 2,
     "public_allies": 2
   },
   "by_jurisdiction": {
-    "INTL": 623,
-    "CA-ON": 605,
-    "CA-FED": 161,
-    "CA-AB": 73,
+    "INTL": 659,
+    "CA-ON": 644,
+    "CA-FED": 170,
+    "CA-AB": 75,
     "CA-BC": 23,
     "CA-NT": 7,
     "CA-YT": 4,
@@ -24,16 +24,16 @@
     "CA-NL": 1
   },
   "by_source": {
-    "x": 855,
-    "reddit": 446,
-    "news": 181,
+    "x": 937,
+    "reddit": 449,
+    "news": 182,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 1482,
+    "unverified_social": 1568,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -42,225 +42,218 @@
   },
   "recent": [
     {
-      "id": "news-c311e493332c",
-      "source": "news",
-      "title": "Abandoned Senior Dog Has a Long Road to Recovery, but He Finally Has People in His Corner - Yahoo",
-      "communities": [
-        "elderly",
-        "public_allies"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-14",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZVFiS2FIUlBQNW5BN09FUkZnaWJJRVNxbmFJZzBLU3U4TUNaZmlUXzdBTWxSN0swTWNMOVUzTTI1S0ZZYlAwMVp2UndseC1yUVBjQ0VJbDlxQnZ6aDJ2VmZsN0poLUVBdTVlazFOenpWSUt1Q2phMU5BT3pvUVhBcEp6RHVuRVVDMWxHOTl3QQ?oc=5"
-    },
-    {
-      "id": "news-bccf7b326388",
-      "source": "news",
-      "title": "How Homeowners With Long-Term Medical Challenges Use a Social Security Disability Lawyer to Protect What They Have Built - finehomesandliving.com",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-14",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQZ3pIVVJwMkdNYVpseW5uSnA5WWRJM0h4SzNxVENPU2hNN24xRjBIRHhsUlVacUVrQkJKTXlFMmdOQXBNWVh2Z0FlNWtkZlZ0YXBRNWJwSGhQQjVUOFN5OHhhS09aUWM3eS1OcmtzallZOXMzRm42SU4xOGdDU1RkSTZRdDVTNGtHZzU2NVRWaGI2elBUdmEwR3lSdklGcnhXVkhVZUd2UlVCLVEzbnJXdWw4ei1tOHNFYWlhMlVlOWJoMnlHemwxSHM2SDJQbUxudGxjLXlDUVdvNlVKdGZIcF82TURCUTRxYWlITVhpWTVFLXpWV2EwRjRVclBUY3h3MEI4V3lpcktiWmxpejhWZGVCaFEya2hxbVlxeFBPQQ?oc=5"
-    },
-    {
-      "id": "news-0d6be57c4568",
-      "source": "news",
-      "title": "Chiles High School senior long snapper earns football offers from Cornell and MIT with strong academics - WTXL ABC 27",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-14",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZmlXTDNISFVLOFNDLVJXS3NoVUxwNldZc1ptdG1uRFRoSGp6bmowWkh1c1VibXVzT01ReElnVm1NZkNGeTNDVFp0QzRiZlZxNW1fZ0dxTUVQQXRVRHRSWU5JSkgtenZMYm1weUx2NDVkNFY5MnNEM0pNcGRpZm5zLXpYYmVBMFoyVnl0MlllUjg2bXVMQ1V5TnR4eERTZjRvd3o2MkEtUGR1ZHVweV81VHdXS3dZa2Z1ZDhrTjEtY3RWdlZwejdWNHB0NFQtTlA0WFNN?oc=5"
-    },
-    {
-      "id": "news-d6870b663086",
-      "source": "news",
-      "title": "Tag: accuweather senior long-range meteorologist joe lundberg - Berkshire eagle",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-14",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbmtDaWVzZjBINWVTWDNKVjNYbXg3SnYyTWVPRHRORmFHWUlRX0thYWdmZ1dNNWx5VlU1SWVycTB2M0EyZjY0UFVJN3plSV92R1EtaDdoSW5XWGlOVGVVV3hkaHUwdXRoRVhhaThBNFJuYjE2aW1uQmh6ei1vaDF4UGdpOWthMUxodm1RWWRFT1YzY3lCeE12cnpZSHJVcWN6STZz?oc=5"
-    },
-    {
-      "id": "news-334e070469f1",
-      "source": "news",
-      "title": "Prolonged Deprivation of Wages Can Warrant Monetary Compensation as Public-Law Remedy: Supreme Court - LawBeat",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-14",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOLWp0YWRqTHNWd0pyeWFzcGxhX3hILVVuOGlfUVVGUHdjTmp4QkRKbk9rRG1zLTNCTzBFQ2JvekVpTFpOSUZPWkhYX1QwbWNJeDVfVU05blNHTFY2TTRrbkh3Zy05aXFrWWlGcjdJalZGcWZaRlZXQkZQSjJPVmVHVGhEeC1heEc3MVljYmgtR2V5QWQtakhhV01qelhuS2hVN19MR1p5ZXRVX1VCaUhjQ1U3NE5OUEloWlZLUzctQVlNeXM5c2pQYzhXNUEzYjJkemZ1X081emtfSkhKb25ucHMyNWtRTFZxZ3fSAeoBQVVfeXFMTi1qdGFkakxzVndKcnlhc3BsYV94SC1VbjhpX1FVRlB3Y05qeEJESm5Pa0Rtcy0zQk8wRUNib3pFaUxaTklGT1pIWF9UMG1jSXg1X1VNOW5TR0xWNk00a25Id2ctOWlxa1lpRnI3SWpWRnFmWkZWV0JGUEoyT1ZlR1RoRHgtYXhHNzFZY2JoLUdleUFkLWpIYVdNanpYbktoVTdfTEdaeWV0VV9VQmlIY0NVNzROTlBJaFpWS1M3LUFZTXlzOXNqUGM4VzVBM2IyZHpmdV9PNXprX0pISm9ubnBzMjVrUUxWcWd3?oc=5"
-    },
-    {
-      "id": "news-43bb0ce3a437",
-      "source": "news",
-      "title": "Chiles High School senior long snapper earns football offers from Cornell and MIT with strong academics - WTXL ABC 27",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-14",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRHF5TVJlZUZ2Zk5BcEk3RDVoRDRzbWNNdTgzMTAtSkpybWVudW1BQnBiWHRLRG1sYzJ5LVJfX2ZGVU1nY0l6WlM2OTJVV21STnhMbW9JUWF3WjFYMVNOcWhhWmZDNEt1cHhIX2pZam5YOHQtMzJBSlk3QXY2eWFIaFZUQ25GVUNoVkpJeG1lQVByYk1fQTNCRlNsaDVnNklQYzR3aGpLZGJCZTAtUXVkZ2lqZ3JHcEdZb1RYRGtmZjk1aF9QUEtyLUhZYS1zZ1pRcE5iMGs1VGtLUk40?oc=5"
-    },
-    {
-      "id": "news-f52090d51c41",
-      "source": "news",
-      "title": "‘Voting By Mail is My Lifeline’: Voter With Disability Shares Importance of Mail-In Voting - American Civil Liberties Union",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-14",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOF9TZ3ZlcjhRRGNuVW5rendLeDFIVVlnRERJUXN5aWc4Vm9vcVFDQXRMcXRxRkFULU9WX3NTMVhodnRzOFpHdHJsZ19TaDlieVJhZmQ2QWdUNi1vZEN3aklZOEVUVGNwV0ptT2NCUEJVZnlNd3RmQ3Q5eURXb1dEQUtfOG9WdmFOVl90RzAyZ2JJUGhyVk5VX3FlUWZST2gxOHVnRDVJREJyYTZwRVE2QjlfTW1VOEZyNjFKb1RxaEt4RTd6Tnc?oc=5"
-    },
-    {
-      "id": "news-99644d45a1ec",
-      "source": "news",
-      "title": "UnitedHealthcare Long-Term Disability Denials & Appeals (2026) - Sokolove Law",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-14",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRklrdXVRbU9ibHE5MDVEZ0ptZGQ5YkdGZS14OGhTR014cFlOQ2NHczJUN1pjb2t3ZW9sZkd1ZW51SHFDbm9URUt0WEV4YjJSTGlJNlRMT3h0S3ctRHRDa01vUkJCVUw2S3lKLUlJbjV0Wkl2RzhwZUxvNTZ3cGtFalVwWnNQUFp2OGp0djg0RGJZRjFvNEJQM2U1ME1tT2VXb1JzeUlTOEVZeHZNUkdtWUkzVnpmdmpMNk1PcjhR?oc=5"
-    },
-    {
-      "id": "d5dccdc173a2",
+      "id": "400e56df925d",
       "source": "x",
-      "title": "Utilisez-vous les bonnes heures de travail lors de la planification du retour d'un travailleur à des tâches modifiées?  Lorsqu'un travailleur blessé a des horaires irréguliers, la WSIB peut utiliser d",
+      "title": "Emails was sent to ABC News David Muir and CBS Tony Dokoupil about a story about injured workers being mistreated by their companies they worked for, on their news program many times without any reply",
       "communities": [
         "injured_workers"
       ],
+      "jurisdiction": "INTL",
+      "date": "2026-10-15",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/MovementInjured/status/2110513854476091854"
+    },
+    {
+      "id": "888ee698d07c",
+      "source": "x",
+      "title": "Is your company that you work for Greedy?  99% of companies are greedy and they refuse benefits to injured workers ! If you have a job accident and cant work for a long time/never Do you believe your ",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-10-15",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/MovementInjured/status/2110476866197090365"
+    },
+    {
+      "id": "ed1a60a84738",
+      "source": "x",
+      "title": "How many bad days are you having injured workers? Members for The Movement",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-10-15",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/MovementInjured/status/2110400204197519738"
+    },
+    {
+      "id": "e9967be304fd",
+      "source": "x",
+      "title": "@ODSPoor If government would stop allowing houses our homes to be used as a business model for greedy corporations it would solve homelessness for the most part! Second force @WSIB to PROPERLY care fo",
+      "communities": [
+        "disability",
+        "injured_workers",
+        "welfare_social"
+      ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/AskoeaFR/status/2110338674449674258"
+      "url": "https://x.com/fightthewcb/status/2110702354160853327"
     },
     {
-      "id": "fd7982fd79a8",
+      "id": "743f3f56bf20",
       "source": "x",
-      "title": "Are you using the right hours when planning a worker’s return to modified duties?  When an injured worker has irregular hours, the WSIB may use short-term and long-term averages when determining pre-i",
+      "title": "If a worker reports a workplace conflict that is causing significant psychological stress; the employer should take the concern seriously and investigate the circumstances.  WSIB mental stress claims ",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/askoea/status/2110338515632321001"
+      "url": "https://x.com/askoea/status/2110702228352749604"
     },
     {
-      "id": "9c9e872a4b18",
+      "id": "492177b906ae",
       "source": "x",
-      "title": "@Oceanbreeze473 What is wsib",
+      "title": "- Greenbelt scandal - Skills jobs scandal -  @WSIB stealing billions from injured workers forcing taxpayers to care for us  - now OSAP Seems @fordnation is acting more like Trump everyday! Just waitin",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/donnymadill/status/2110172764816761086"
+      "url": "https://x.com/fightthewcb/status/2110701410111172867"
     },
     {
-      "id": "014e62c523da",
+      "id": "59b106d0d8b2",
       "source": "x",
-      "title": "I’m going to have the grok bot try to login into my business accounts and do all the admin work for me.   Review timesheets, pay employees. Submit cra remittances and quarterly WSIB payments.   The wh",
+      "title": "It does seem like a death sentence when you are injured at work, as the @WSIB treats us like animals! What is worse the courts mock our existence @ONCA_en @SCJOntario_en https://t.co/LxslfYvkkd",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/BaxterSaxster/status/2110118754667413861"
+      "url": "https://x.com/fightthewcb/status/2110695052854890510"
     },
     {
-      "id": "8ce2d4ca5a38",
+      "id": "7dca77a7589c",
       "source": "x",
-      "title": "@fordnation Uncle Doug fix Ontario WSIB system",
+      "title": "@fordnation Fix the WSIB system , injured workers getting dragged to work by WSIB to avoid paying benefits",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/I0452/status/2110096869380546882"
+      "url": "https://x.com/I0452/status/2110557204525006867"
     },
     {
-      "id": "5787632c96bb",
+      "id": "04d144c9c814",
       "source": "x",
-      "title": "@alberasaurus @Teachers__Unite My union, OECTA, does not talk about pay. And frankly, according to WSIB, educators are victims of violent incidents more often than police officers and fire fighters. T",
+      "title": "#PIP_Conf Kitchener #sponsorspotlight:  @Bruce_Power @enovapower @WSIB @BCRSP @MilwaukeeTool  @Workplace_Med  @homeandsafety  @tapreport  @ProaxTech  @AirdBerlis  @Manulife  @ToyotaMfgCanada  @atscorp",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-14",
+      "date": "2026-10-15",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/WSPS_NEWS/status/2110473541867180448"
+    },
+    {
+      "id": "91d29928b063",
+      "source": "x",
+      "title": "RT No money for #InjuredWorkers YET in 2026 @fordnation created another \"independent, non-profit, board-governed organization\" called #WorkSafeOntarioFund with seed funding from the Workplace Safety &",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-15",
       "flywheels": [
         "collective_action",
         "evidence"
       ],
-      "url": "https://x.com/steph11676/status/2110076457598763301"
+      "url": "https://x.com/occupywsib/status/2110472429357203915"
     },
     {
-      "id": "e1221f3067d8",
+      "id": "69217a9b54ad",
       "source": "x",
-      "title": "From ₹201 crore invested in 2017 to ₹550 crore realised: WSIB-backed investor exits DASNAC  https://t.co/YDxZHBvROW",
+      "title": "Thank you to our partners! @WSIB  @lpsmediaoffice  @LdnOntFire  @MLPS911  #LawsonResearchInstitute #LondonHealthSciencesResearchInstitute",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/livemint/status/2110048116087144695"
+      "url": "https://x.com/FanshaweCollege/status/2110436073801466214"
+    },
+    {
+      "id": "cc00dbe8fcce",
+      "source": "x",
+      "title": "A milestone day for innovation and #WorkplaceSafety. Fanshawe officially opened the WSIB Centre of Excellence in Immersive Technologies Simulation for Workplace Safety, leveraging #XR and #AI to suppo",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-15",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/FanshaweCollege/status/2110436069250642049"
+    },
+    {
+      "id": "06ba8a6e5ebc",
+      "source": "x",
+      "title": "WSIB billing, one that quietly costs Ontario docs money.  Form 8 filed electronically pays $85, code 8ME. The identical report on paper pays $65. Progress reports, same split. $60 electronic, $45 pape",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-15",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/scribeberryai/status/2110404975226507389"
+    },
+    {
+      "id": "448b4b51ae94",
+      "source": "x",
+      "title": "Follow Occupy WSIB on Instagram https://t.co/681Al6HTNc",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-15",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/occupywsib/status/2110365211874205754"
+    },
+    {
+      "id": "8bea92aeccbf",
+      "source": "x",
+      "title": "He’s just selling off the land to developers!  Feels like the Greenbelt, Science Centre, 413, Ontario Place, Wilmots Farms, Water surveillance,Wasaga_Beach, Brandford Pass, Kemptville Farms, WSIB, Ser",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-15",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/imherenow1/status/2110353111931929049"
     }
   ],
-  "generated": "2026-10-14"
+  "generated": "2026-10-15"
 }
