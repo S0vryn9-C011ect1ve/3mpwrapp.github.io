@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Daily News Curation - 2026-10-17"
+date: 2026-10-17
+tags: [highlights]
+categories: [curation, news]
+excerpt: "Today's curated disability rights, accessibility, and social policy news from across Canada."
+---
+
+# Daily News Curation - 2026-10-17
+
+Curated 7 items from disability, accessibility, and social policy sources.
+
+## 🌟 Featured: The Disability Bulletin
+
+### The Disability Bulletin
+Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.
+📍 [Read More](https://linktr.ee/thedisabilitybulletin)
+
+---
+
+## Additional Stories
+
+### 1. My Seventeen-Hour Wait in an Edmonton Emergency Room
+I was worried for my daughter’s safety. And I wondered what provincial health savings cost us.
+[Source](https://thetyee.ca/Culture/2026/10/16/Seventeen-Hour-Wait-Edmonton-ER/)
+**Score:** 13.50
+
+### 2. Workers mobilize against Bill C-39 across Canada
+Rabble.ca — progressive Canadian news
+[Source](https://rabble.ca/labour/workers-mobilize-against-bill-c-39-across-canada/)
+**Score:** 10.50
+
+### 3. Manitoba records highest workplace injury rate for third year
+Rabble.ca — progressive Canadian news
+[Source](https://rabble.ca/labour/manitoba-records-highest-workplace-injury-rate-for-third-year/)
+**Score:** 10.50
+
+### 4. Manitoba Public Health Declares Measles Outbreak Over
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75797)
+**Score:** 12.00
+
+### 5. Manitoba Government Invests in Seniors, Moves Forward on 380 New Personal Care Home Beds
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75578)
+**Score:** 10.10
+
+### 6. Provincial and Territorial Ministers Meet to Discuss Federal Health Funding and Concerns of Imminent Fiscal Cliffs
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75577)
+**Score:** 6.50
+

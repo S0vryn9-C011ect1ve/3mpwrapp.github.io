@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-16",
-  "timestamp": "2026-10-16T16:16:43.688Z",
-  "count": 12,
+  "date": "2026-10-17",
+  "timestamp": "2026-10-17T15:11:25.863Z",
+  "count": 7,
   "minScore": 3.5,
   "items": [
     {
@@ -9,84 +9,49 @@
       "link": "https://linktr.ee/thedisabilitybulletin",
       "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
       "score": 10,
-      "pubDate": "2026-10-16T16:16:43.683Z"
+      "pubDate": "2026-10-17T15:11:25.860Z"
     },
     {
-      "title": "Manitoba Government Returns to Legislature With Focus on Affordability and Health Care",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75557",
-      "description": "",
-      "score": 15.6,
-      "pubDate": "Tue, 29 Sep 2026 13:30:00 CDT"
+      "title": "My Seventeen-Hour Wait in an Edmonton Emergency Room",
+      "link": "https://thetyee.ca/Culture/2026/10/16/Seventeen-Hour-Wait-Edmonton-ER/",
+      "description": "I was worried for my daughter’s safety. And I wondered what provincial health savings cost us.",
+      "score": 13.5,
+      "pubDate": "Fri, 16 Oct 2026 23:10:00 +0000"
     },
     {
-      "title": "Elon Musk wants to see Canada dismantled",
-      "link": "https://rabble.ca/politics/canadian-politics/elon-musk-wants-to-see-canada-dismantled/",
-      "description": "",
-      "score": 10.5,
-      "pubDate": "Thu, 08 Oct 2026 17:35:48 +0000"
-    },
-    {
-      "title": "Premier Meets With Mark Wiseman, Canada's Ambassador to the United States",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75638",
+      "title": "Workers mobilize against Bill C-39 across Canada",
+      "link": "https://rabble.ca/labour/workers-mobilize-against-bill-c-39-across-canada/",
       "description": "",
       "score": 10.5,
-      "pubDate": "Thu, 08 Oct 2026 11:00:00 CDT"
+      "pubDate": "Fri, 16 Oct 2026 19:06:35 +0000"
     },
     {
-      "title": "Manitoba Government Releases First-Quarter Fiscal and Economic Update",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75559",
+      "title": "Manitoba records highest workplace injury rate for third year",
+      "link": "https://rabble.ca/labour/manitoba-records-highest-workplace-injury-rate-for-third-year/",
+      "description": "",
+      "score": 10.5,
+      "pubDate": "Thu, 08 Oct 2026 21:05:17 +0000"
+    },
+    {
+      "title": "Manitoba Public Health Declares Measles Outbreak Over",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75797",
       "description": "",
       "score": 12,
-      "pubDate": "Tue, 29 Sep 2026 13:00:00 CDT"
+      "pubDate": "Fri, 16 Oct 2026 14:38:00 CDT"
     },
     {
-      "title": "Manitoba Government Supports Major Rehabilitation of Thompson Regional Airport",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75777",
+      "title": "Manitoba Government Invests in Seniors, Moves Forward on 380 New Personal Care Home Beds",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75578",
       "description": "",
-      "score": 9.5,
-      "pubDate": "Fri, 16 Oct 2026 10:45:00 CDT"
+      "score": 10.1,
+      "pubDate": "Thu, 01 Oct 2026 12:47:00 CDT"
     },
     {
-      "title": "Manitoba Government Introduces Legislation to Strengthen Manitoba Hydro and Improve Financial Accountability",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75758",
+      "title": "Provincial and Territorial Ministers Meet to Discuss Federal Health Funding and Concerns of Imminent Fiscal Cliffs",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75577",
       "description": "",
-      "score": 9.5,
-      "pubDate": "Thu, 15 Oct 2026 14:07:00 CDT"
-    },
-    {
-      "title": "Manitoba Government Invests $568,400 to Support North Point Douglas Women's Centre Expansion Project",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75757",
-      "description": "",
-      "score": 9.5,
-      "pubDate": "Thu, 15 Oct 2026 12:48:00 CDT"
-    },
-    {
-      "title": "Manitoba Government Opens Nominations for 2027 Manitoba Healthy Aging Awards",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75637",
-      "description": "",
-      "score": 11,
-      "pubDate": "Wed, 07 Oct 2026 14:33:00 CDT"
-    },
-    {
-      "title": "Manitoba Government Funds Livestock Investigation Unit",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75657",
-      "description": "",
-      "score": 7.5,
-      "pubDate": "Thu, 08 Oct 2026 12:45:00 CDT"
-    },
-    {
-      "title": "Manitoba Government to Protect Brandon Residential School Cemetery",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75558",
-      "description": "",
-      "score": 7.5,
-      "pubDate": "Tue, 29 Sep 2026 14:35:00 CDT"
-    },
-    {
-      "title": "Why Grand Forks Has Put Money into Health Care",
-      "link": "https://thetyee.ca/News/2026/10/16/Grand-Forks-Money-Health-Care/",
-      "description": "It’s a provincial duty, but some BC towns have started funding local medical clinics. Where does this lead?",
-      "score": 6.1000000000000005,
-      "pubDate": "Fri, 16 Oct 2026 07:40:00 +0000"
+      "score": 6.5,
+      "pubDate": "Thu, 01 Oct 2026 12:32:00 CDT"
     }
   ]
 }

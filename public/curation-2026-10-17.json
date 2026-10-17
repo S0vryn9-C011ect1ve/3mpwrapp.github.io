@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-17",
+  "timestamp": "2026-10-17T15:11:25.863Z",
+  "count": 7,
+  "minScore": 3.5,
+  "items": [
+    {
+      "title": "The Disability Bulletin",
+      "link": "https://linktr.ee/thedisabilitybulletin",
+      "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
+      "score": 10,
+      "pubDate": "2026-10-17T15:11:25.860Z"
+    },
+    {
+      "title": "My Seventeen-Hour Wait in an Edmonton Emergency Room",
+      "link": "https://thetyee.ca/Culture/2026/10/16/Seventeen-Hour-Wait-Edmonton-ER/",
+      "description": "I was worried for my daughter’s safety. And I wondered what provincial health savings cost us.",
+      "score": 13.5,
+      "pubDate": "Fri, 16 Oct 2026 23:10:00 +0000"
+    },
+    {
+      "title": "Workers mobilize against Bill C-39 across Canada",
+      "link": "https://rabble.ca/labour/workers-mobilize-against-bill-c-39-across-canada/",
+      "description": "",
+      "score": 10.5,
+      "pubDate": "Fri, 16 Oct 2026 19:06:35 +0000"
+    },
+    {
+      "title": "Manitoba records highest workplace injury rate for third year",
+      "link": "https://rabble.ca/labour/manitoba-records-highest-workplace-injury-rate-for-third-year/",
+      "description": "",
+      "score": 10.5,
+      "pubDate": "Thu, 08 Oct 2026 21:05:17 +0000"
+    },
+    {
+      "title": "Manitoba Public Health Declares Measles Outbreak Over",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75797",
+      "description": "",
+      "score": 12,
+      "pubDate": "Fri, 16 Oct 2026 14:38:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Invests in Seniors, Moves Forward on 380 New Personal Care Home Beds",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75578",
+      "description": "",
+      "score": 10.1,
+      "pubDate": "Thu, 01 Oct 2026 12:47:00 CDT"
+    },
+    {
+      "title": "Provincial and Territorial Ministers Meet to Discuss Federal Health Funding and Concerns of Imminent Fiscal Cliffs",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75577",
+      "description": "",
+      "score": 6.5,
+      "pubDate": "Thu, 01 Oct 2026 12:32:00 CDT"
+    }
+  ]
+}
