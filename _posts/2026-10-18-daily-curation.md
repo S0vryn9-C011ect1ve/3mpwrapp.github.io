@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Daily News Curation - 2026-10-18"
+date: 2026-10-18
+tags: [highlights]
+categories: [curation, news]
+excerpt: "Today's curated disability rights, accessibility, and social policy news from across Canada."
+---
+
+# Daily News Curation - 2026-10-18
+
+Curated 7 items from disability, accessibility, and social policy sources.
+
+## 🌟 Featured: The Disability Bulletin
+
+### The Disability Bulletin
+Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.
+📍 [Read More](https://linktr.ee/thedisabilitybulletin)
+
+---
+
+## Additional Stories
+
+### 1. Manitoba Government Signs Bilateral Housing Agreement with Manitoba M�tis Federation
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75817)
+**Score:** 9.50
+
+### 2. Manitoba Government Invests More Than $300,000 to Upgrade Arts and Recreation Infrastructure in Westman
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75759)
+**Score:** 7.50
+
+### 3. Manitoba Government Expands Maryland Park School to Meet Growing Student Population in Brandon
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75678)
+**Score:** 7.50
+
+### 4. Manitoba Government Invests More Than $8 Million in New 24-7 Safe Space  for Indigenous Women and Their Children in Thompson
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75581)
+**Score:** 7.50
+
+### 5. Manitoba Government Celebrates Conservation Officers Recognition Day
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75580)
+**Score:** 7.50
+
+### 6. Manitoba Recognizes Yellowquill University College as First Degree-Granting Institution Owned and Operated by First Nations
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75677)
+**Score:** 4.50
+

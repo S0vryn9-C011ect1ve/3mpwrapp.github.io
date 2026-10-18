@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-17",
-  "timestamp": "2026-10-17T15:11:25.863Z",
+  "date": "2026-10-18",
+  "timestamp": "2026-10-18T15:32:48.861Z",
   "count": 7,
   "minScore": 3.5,
   "items": [
@@ -9,49 +9,49 @@
       "link": "https://linktr.ee/thedisabilitybulletin",
       "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
       "score": 10,
-      "pubDate": "2026-10-17T15:11:25.860Z"
+      "pubDate": "2026-10-18T15:32:48.857Z"
     },
     {
-      "title": "My Seventeen-Hour Wait in an Edmonton Emergency Room",
-      "link": "https://thetyee.ca/Culture/2026/10/16/Seventeen-Hour-Wait-Edmonton-ER/",
-      "description": "I was worried for my daughter’s safety. And I wondered what provincial health savings cost us.",
-      "score": 13.5,
-      "pubDate": "Fri, 16 Oct 2026 23:10:00 +0000"
-    },
-    {
-      "title": "Workers mobilize against Bill C-39 across Canada",
-      "link": "https://rabble.ca/labour/workers-mobilize-against-bill-c-39-across-canada/",
+      "title": "Manitoba Government Signs Bilateral Housing Agreement with Manitoba M�tis Federation",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75817",
       "description": "",
-      "score": 10.5,
-      "pubDate": "Fri, 16 Oct 2026 19:06:35 +0000"
+      "score": 9.5,
+      "pubDate": "Sat, 17 Oct 2026 16:22:00 CDT"
     },
     {
-      "title": "Manitoba records highest workplace injury rate for third year",
-      "link": "https://rabble.ca/labour/manitoba-records-highest-workplace-injury-rate-for-third-year/",
+      "title": "Manitoba Government Invests More Than $300,000 to Upgrade Arts and Recreation Infrastructure in Westman",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75759",
       "description": "",
-      "score": 10.5,
-      "pubDate": "Thu, 08 Oct 2026 21:05:17 +0000"
+      "score": 7.5,
+      "pubDate": "Sat, 17 Oct 2026 11:00:00 CDT"
     },
     {
-      "title": "Manitoba Public Health Declares Measles Outbreak Over",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75797",
+      "title": "Manitoba Government Expands Maryland Park School to Meet Growing Student Population in Brandon",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75678",
       "description": "",
-      "score": 12,
-      "pubDate": "Fri, 16 Oct 2026 14:38:00 CDT"
+      "score": 7.5,
+      "pubDate": "Fri, 09 Oct 2026 15:21:00 CDT"
     },
     {
-      "title": "Manitoba Government Invests in Seniors, Moves Forward on 380 New Personal Care Home Beds",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75578",
+      "title": "Manitoba Government Invests More Than $8 Million in New 24-7 Safe Space  for Indigenous Women and Their Children in Thompson",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75581",
       "description": "",
-      "score": 10.1,
-      "pubDate": "Thu, 01 Oct 2026 12:47:00 CDT"
+      "score": 7.5,
+      "pubDate": "Fri, 02 Oct 2026 10:30:00 CDT"
     },
     {
-      "title": "Provincial and Territorial Ministers Meet to Discuss Federal Health Funding and Concerns of Imminent Fiscal Cliffs",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75577",
+      "title": "Manitoba Government Celebrates Conservation Officers Recognition Day",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75580",
       "description": "",
-      "score": 6.5,
-      "pubDate": "Thu, 01 Oct 2026 12:32:00 CDT"
+      "score": 7.5,
+      "pubDate": "Thu, 01 Oct 2026 15:38:00 CDT"
+    },
+    {
+      "title": "Manitoba Recognizes Yellowquill University College as First Degree-Granting Institution Owned and Operated by First Nations",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75677",
+      "description": "",
+      "score": 4.5,
+      "pubDate": "Fri, 09 Oct 2026 14:55:00 CDT"
     }
   ]
 }
