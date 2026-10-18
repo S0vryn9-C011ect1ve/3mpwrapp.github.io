@@ -1,24 +1,24 @@
 {
-  "total": 1609,
+  "total": 1615,
   "verified": 5,
   "by_community": {
-    "disability": 691,
+    "disability": 694,
     "injured_workers": 414,
     "accessibility": 379,
     "welfare_social": 366,
-    "elderly": 97,
+    "elderly": 100,
     "veterans": 41,
-    "public_allies": 3,
+    "public_allies": 4,
     "vulnerable_communities": 2
   },
   "by_jurisdiction": {
-    "CA-ON": 667,
+    "CA-ON": 672,
     "INTL": 659,
     "CA-FED": 170,
     "CA-AB": 76,
     "CA-BC": 23,
     "CA-NT": 7,
-    "CA-YT": 4,
+    "CA-YT": 5,
     "CA-TERR": 1,
     "CA": 1,
     "CA-NL": 1
@@ -26,14 +26,14 @@
   "by_source": {
     "x": 937,
     "reddit": 449,
-    "news": 206,
+    "news": 212,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 1592,
+    "unverified_social": 1598,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -41,6 +41,97 @@
     "manual_curated": 1
   },
   "recent": [
+    {
+      "id": "news-2b730f9bd6b0",
+      "source": "news",
+      "title": "New AI Risk Score Predicts Long-Term Disability After Stroke Using Routine Blood Tests - Bioengineer.org",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-17",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZkdZSkVCV2FnZnVrRWZkZmk2MmxfZDBXLTZOQ252dzRjN1lIMzNJdWE3QmxabzNRSVYzdzJKUVk0b2F1dFptX1czQnpQbU5mckN3YS0tblYweWVlSnhZbE8xZG9ZVUE3VkY2c0FsRkx3V0JldU5Qc0VjLUpPWmJWaGc2aWJ5bURpYUlSN01JQ3Y1MG5BM2liMHh1clVLNXgtdUtaWjdROG9zNW9YZW8xTQ?oc=5"
+    },
+    {
+      "id": "news-c8063aa40df8",
+      "source": "news",
+      "title": "‘Long time coming’: Box Elder hoists first outright region football title in 23 years - Standard-Examiner",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-17",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbzFqRE9kR0hxc2NpdkVzU2JJbTVzLVowc2sxcEdjdHBzemVyay1fOW43VEFxQmJydFZGSlBIM3gwNDl0b0JtVzhlYUdkSkc5MjctVWJxUHR5QWlYdWx0Ym5XVzlhalFEX2t4aFlGeUlYSXNRMmFjUkF0cldONVNYeHBGckt5ZTdGZmp5Y3l2bE83cFpDR2llZkRTSVpQTnRCbGN0TEptOUJCYVFEek5OdDVLYXprVVRhY1JLOVFkUXZBdHhqMnZzOHFVTVlOVG9lcnE4R3VB?oc=5"
+    },
+    {
+      "id": "news-0dca01db9f6a",
+      "source": "news",
+      "title": "Ending long wait for senior semi-final and supporting a teammate 18 years after brother's death - The 42",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-17",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZHA3TGpwTEJtYm14ZEZTb21KMVdtNWF4RXJFVUl5TE9yN1V1YkVTNm44YmlycHZFeTkyVmk5cWNmbEhkT0xKdjJBUnVPc3dXZFJMUHYwdkNIUld3d2NDWTFXQnVuWjlNRWRXVTFDSWFhNFI2Y2ZRMnFua1NDcWRuOVJVQVFGM0NzN2ZuSFVBQQ?oc=5"
+    },
+    {
+      "id": "news-57859b97591f",
+      "source": "news",
+      "title": "65th Abbie Rogers Civitan Camp welcomes developmentally disabled adults to weekend-long fun - WDAM-TV",
+      "communities": [
+        "disability",
+        "public_allies"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-17",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVlZHUVFGU284dWoycDU0ZHQtUVBuOUFNN1IweFFEc3BvXzd0RjROR3FQQXZvSEdkUU1MVjl3b0pHbnZFZmpQQ0JFNWlIMjh5QUNTbUl2SUdaVndraUVsQ240d3FDdzdUQ0F4WGcwZTUyRG5DclpMdEdZYUZsSFNLWmRWbVlrR21CMU9rZ0tFQUpkaUZ2R0ltYzFhQUxEbXBYY2pRZ3RTQy1ralhxSXhSQkktVFI2VmlEWUFaOGtn0gHSAUFVX3lxTFAzYlBfVVZreDNRbXdydGJCY3pqYnZFRUl0SU5NclJZVkJYakdvYXZSWDE2dFRiVGNnUC0wZTdXNzFNbUtZRXlKUldWTzNMTF85ZjJKb09jWURfT3loVG1Tdml0eWluWHktbEZPU3hVNGxYMmdsS2pTblgtTGZEaHViSnBUT3JxM2stZWN6UWpxbk1vX1gzWW1OSnJ5UXAzVVhTTU4tV3d3a2owOHRhZ3d1MXpTY0JKQjFydjN4bmwyZnJlWHhlMGVDVkpJYW42NEZVZw?oc=5"
+    },
+    {
+      "id": "news-d48f3de1292d",
+      "source": "news",
+      "title": "Furlani flies to first major senior long jump gold in Nanjing - European Athletics",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-YT",
+      "date": "2026-10-17",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS3dXX3RxXzIxcHF0bEI3YWlMenlleG52V042aUROOENLMVozakxJMU1tWFM5MXdOd0RhQzFmQmlXUnFiODdYUk9YcnpHNm9TTUdqVW9iMDBFYmtHNXVZcUxJV3o3SWp4amllR2NBNjFMcFhfLXZBZGJsUDdKRk50ZUZ0NEVmWDdUZXpSMWdXbTNXR09Vc1AxTmtkZU56UDFLWHlNQWVhbEg?oc=5"
+    },
+    {
+      "id": "news-0048620de5c2",
+      "source": "news",
+      "title": "UAB-sponsored benefit options include employee-paid short-term and UAB provided long-term disability insurance - The University of Alabama at Birmingham",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-17",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZENnblp5QUNLdWM0MGVJSlRSYTB1dlJhZ2k5Wm05Y1lfMW9fS2pfNExRNzk1MTYtLUxvTXdKSUFIWFVtYmFmNDFaZkdDYmlQZHdqTXMzSzdkQlNKbmtLQXdMUlRUVTNSM2FZTTlPSGpIUFNoZDBrWmNRdnlXQkY4VGRvM1plaTZWR1haTTNMd2Z5UkZvakItelk0RzdZSHJ3VVdXZFdLZTY5SjltUDU2YlA1akFWR01YWG9qcXo5dkNJYTR1TzB2RklVbjUwMDNoT0NON3daem9TckRKUnQtTUM3ME5Mdw?oc=5"
+    },
     {
       "id": "news-397ea4ff38c6",
       "source": "news",
@@ -176,98 +267,7 @@
         "knowledge"
       ],
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaTFZM1FMVndZTmpqY25OZnExUlRsQkx4ZXo0RzI4cXI4dTVpOWk0U1gxdllZR0NyQmVrcnJFNEFwMW1JUW85MWNDamFhaEQtLWE3aDhpSXotODRpZENIbDN5ci1yWERDalNQM2stbndkQzg5VmliblY2anNNd2lSbjM4Q0RiMFphT3BhVHlFQ2JuN2k3XzE4WUQ1Q1lSRWxfSGVNbmpGODFZYWRoVWJfMm5VdXE1eXlIUFRJQ281bXJIZw?oc=5"
-    },
-    {
-      "id": "news-e2bac77e3425",
-      "source": "news",
-      "title": "Furlani flies to first outdoor senior long jump title in Tokyo | News | Tokyo 25 - worldathletics.org",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-16",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNOTF6QWZjeUxqdnhydzRBRTI2OWlqbnNFWkVCckk3T3ZmMEJFOXc1MU5CNW43eHpaYkFsNkhHN0N5ODVSVjI0UDBYM0wwbHVxYmpYUjNjY1hHNmhDZXdWRF9DaV9ZdHljQWdPSFNraUFCYkdHZzhZeDczWVpCaEp4MjJ5WWZ0ZUF6TTdRbTYyRTNxVW1ZMHY2dE5fbFdYWjgxRVNqR3VCemxtb0g4RmRJODRoMzVyUVNqRGF0SXMtR0lMdFR6WGt5UHJSaUpsVTR4WkZLT2RubVhoeDRIVUpiUF93Qm5JWnlCTG44cU5TTXBXbXM0VHVEZDJJckNKTDhBUUFGTjM5dzBCYUM0cGc?oc=5"
-    },
-    {
-      "id": "news-641fb3c4aa5a",
-      "source": "news",
-      "title": "Genetic info would be shielded from life, disability, long-term care insurance under Nebraska bill - Nebraska Examiner",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-16",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVVdnRkFIYm81UHlPLUh2R1p2cmxJRjJtTEh4RWY2T3c3NHZBNHp2LTd0OEVjLWdjRWY5QnBUN292Snd0TnlaOEd5eF8zbDY3VUF3Q0hNYUtFSzZDMDRBN0JZRmJNb19TZmtuWlV5RDBFbkFzZUxwMDNFSjdpRTFEanNwYVlKS3ZsWE1wTjdrd2ZoSGM0VjYxenhKOXZOVHdmZ3h3bkxtZ2hzVEZQRXdKS3NCYnQtVTAwYXJHbGVlODRUT2JKWUdybFBQMEVNckhVd0JF?oc=5"
-    },
-    {
-      "id": "news-91844adb28b2",
-      "source": "news",
-      "title": "Cerebrospinal fluid oligoclonal immunoglobulin gamma bands and long-term disability progression in multiple sclerosis: a retrospective cohort study - Nature",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-16",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tU1hJcWdwQmJfaXJPQlN1ZmZ3bkIxSFprWVZWNUcySS1rUWN4ZlBscl9ubmpVcnhEUUlfVDdGM3dNUmd6bksza2JwTXFRby15WHhBOFFTM0hXWFZaNmww?oc=5"
-    },
-    {
-      "id": "news-f5f058a0e876",
-      "source": "news",
-      "title": "Population with disability - European Commission",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-16",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWjNKd0JCTWlIdXdQcWNmTnIxX2c0eUREaC1EZzNFN3BRQ3puUzdNTWpPMUJqTzZGV1cxSTcwaGlfNVU3d0toak5ZSnRiVVE2TlBYVTBMeEZLLTJuYlFLV1RWM2JycFhueTBpMk1Wa0luR0xYZXg5RzVBc3pZcDJyUFRoU0FYSXpIQXN5TlMxazVZcFl6aFN2Ng?oc=5"
-    },
-    {
-      "id": "news-11f31506d89f",
-      "source": "news",
-      "title": "Pennsylvania disability advocates, long-term care facilities plan for Medicaid losses - WHYY",
-      "communities": [
-        "disability",
-        "public_allies"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-16",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdkNDY0ozOGZtZlBoNEt4R3B4SzUtaHFGSlgwMGNpUkdUUzE3UXdCS2JhZFNJSWtxZmIyWm5KUGRRZHdjbXpFb2U0UXFaZUpUWjE0cTc5N2FNLXA0UlZxcVd3OVV5c1dEWjM4dm4yMEg1Mmh3RlBXVmlVUzFjd1h4c0xYRGdIcVNZSGhoYTQzMTFIdXpCa3lNQmFhREVidw?oc=5"
-    },
-    {
-      "id": "news-6a15ab0c0e9f",
-      "source": "news",
-      "title": "Senior Long-Term Care in Tennessee: Trends and Options - TN.gov",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-16",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRVVyclFDRUxWWWRJdDJhZ0dKUnRPUFEtUENQVkUwOWdfZDFUNkc3cVFCLVk3VFk2TnI3dndudkhVMmRFZmlSV3RDVDZVNWFoN3Uzb3JvaWk3bHhzSDBlek1Xb1ZFQVo5NFFNUDE4V3U4NmtYTGJCSDZDT3NwZ09hbWN4eXRhdnF1am1fb2RHUExqaC0yTm9jckJreDluZGxxMXBXVlRLYVlnNFlSaVgtMVVoQ0RSWjZhb010UUpqam8yclA5bXhzTWx2SU1oMXJiSDNxMEJNLUpGQTZZeG1FMHpSWENTdm1uT3d6d0tnajFFcm9SejZGZVFJbHc?oc=5"
     }
   ],
-  "generated": "2026-10-16"
+  "generated": "2026-10-17"
 }
