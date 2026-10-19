@@ -1,39 +1,39 @@
 {
-  "total": 1615,
+  "total": 1768,
   "verified": 5,
   "by_community": {
-    "disability": 694,
-    "injured_workers": 414,
-    "accessibility": 379,
-    "welfare_social": 366,
-    "elderly": 100,
-    "veterans": 41,
-    "public_allies": 4,
+    "disability": 754,
+    "accessibility": 455,
+    "injured_workers": 442,
+    "welfare_social": 403,
+    "elderly": 105,
+    "veterans": 42,
+    "public_allies": 5,
     "vulnerable_communities": 2
   },
   "by_jurisdiction": {
-    "CA-ON": 672,
-    "INTL": 659,
-    "CA-FED": 170,
-    "CA-AB": 76,
+    "CA-ON": 727,
+    "INTL": 723,
+    "CA-FED": 197,
+    "CA-AB": 82,
     "CA-BC": 23,
     "CA-NT": 7,
     "CA-YT": 5,
-    "CA-TERR": 1,
+    "CA-TERR": 2,
     "CA": 1,
     "CA-NL": 1
   },
   "by_source": {
-    "x": 937,
+    "x": 1088,
     "reddit": 449,
-    "news": 212,
+    "news": 214,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 1598,
+    "unverified_social": 1751,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -42,232 +42,219 @@
   },
   "recent": [
     {
-      "id": "news-2b730f9bd6b0",
-      "source": "news",
-      "title": "New AI Risk Score Predicts Long-Term Disability After Stroke Using Routine Blood Tests - Bioengineer.org",
+      "id": "791ac73de893",
+      "source": "x",
+      "title": "Injured on the Job? 👷⚖️  A workplace injury can leave you facing medical expenses, lost wages, and uncertainty about what comes next. You don’t have to navigate the workers’ compensation process alone",
       "communities": [
-        "disability"
+        "injured_workers"
       ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-17",
+      "jurisdiction": "INTL",
+      "date": "2026-10-18",
       "flywheels": [
-        "evidence",
         "knowledge"
       ],
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZkdZSkVCV2FnZnVrRWZkZmk2MmxfZDBXLTZOQ252dzRjN1lIMzNJdWE3QmxabzNRSVYzdzJKUVk0b2F1dFptX1czQnpQbU5mckN3YS0tblYweWVlSnhZbE8xZG9ZVUE3VkY2c0FsRkx3V0JldU5Qc0VjLUpPWmJWaGc2aWJ5bURpYUlSN01JQ3Y1MG5BM2liMHh1clVLNXgtdUtaWjdROG9zNW9YZW8xTQ?oc=5"
+      "url": "https://x.com/InjuryTrialAtty/status/2111095690218578233"
     },
     {
-      "id": "news-c8063aa40df8",
-      "source": "news",
-      "title": "‘Long time coming’: Box Elder hoists first outright region football title in 23 years - Standard-Examiner",
+      "id": "6e7c647715dc",
+      "source": "x",
+      "title": "What about the workers who died and were injured prior to 2002 who were illegally barred from bringing their cases to work safe when WCB transitioned?  Your government was repeatedly told the transiti",
       "communities": [
-        "elderly"
+        "injured_workers"
       ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-17",
+      "jurisdiction": "INTL",
+      "date": "2026-10-18",
       "flywheels": [
-        "evidence",
         "knowledge"
       ],
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbzFqRE9kR0hxc2NpdkVzU2JJbTVzLVowc2sxcEdjdHBzemVyay1fOW43VEFxQmJydFZGSlBIM3gwNDl0b0JtVzhlYUdkSkc5MjctVWJxUHR5QWlYdWx0Ym5XVzlhalFEX2t4aFlGeUlYSXNRMmFjUkF0cldONVNYeHBGckt5ZTdGZmp5Y3l2bE83cFpDR2llZkRTSVpQTnRCbGN0TEptOUJCYVFEek5OdDVLYXprVVRhY1JLOVFkUXZBdHhqMnZzOHFVTVlOVG9lcnE4R3VB?oc=5"
+      "url": "https://x.com/vachon49995/status/2110710935128322428"
     },
     {
-      "id": "news-0dca01db9f6a",
-      "source": "news",
-      "title": "Ending long wait for senior semi-final and supporting a teammate 18 years after brother's death - The 42",
+      "id": "a9dbae4fe965",
+      "source": "x",
+      "title": "@PhoenixRizin09 @UFCW @UFCW175633 @WSIB Where is the accountability with the workers compensation system when dangerous employers are encouraged and rewarded to have dangerous workplaces with FAKE @WS",
       "communities": [
-        "elderly"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "flywheels": [
-        "evidence",
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZHA3TGpwTEJtYm14ZEZTb21KMVdtNWF4RXJFVUl5TE9yN1V1YkVTNm44YmlycHZFeTkyVmk5cWNmbEhkT0xKdjJBUnVPc3dXZFJMUHYwdkNIUld3d2NDWTFXQnVuWjlNRWRXVTFDSWFhNFI2Y2ZRMnFua1NDcWRuOVJVQVFGM0NzN2ZuSFVBQQ?oc=5"
+      "url": "https://x.com/fightthewcb/status/2111151071016226929"
     },
     {
-      "id": "news-57859b97591f",
-      "source": "news",
-      "title": "65th Abbie Rogers Civitan Camp welcomes developmentally disabled adults to weekend-long fun - WDAM-TV",
+      "id": "3a3a9cf93e6d",
+      "source": "x",
+      "title": "Washington State   Washington State Investment Board (WSIB)  Washington State Investment Board (WSIB) manages retirement and public trust assets in Washington State, overseeing approximately $244 bill",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-18",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/Susan_Dupres/status/2111523518991237428"
+    },
+    {
+      "id": "4fdfa91b725b",
+      "source": "x",
+      "title": "@TheThanigasalam You are not! Staples, closing Service Ontario offices, WSIB managed by a US firm, hospital building given to US firms. You need to stop selling these falsehoods to Ontario.",
       "communities": [
         "disability",
-        "public_allies"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "flywheels": [
-        "evidence",
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVlZHUVFGU284dWoycDU0ZHQtUVBuOUFNN1IweFFEc3BvXzd0RjROR3FQQXZvSEdkUU1MVjl3b0pHbnZFZmpQQ0JFNWlIMjh5QUNTbUl2SUdaVndraUVsQ240d3FDdzdUQ0F4WGcwZTUyRG5DclpMdEdZYUZsSFNLWmRWbVlrR21CMU9rZ0tFQUpkaUZ2R0ltYzFhQUxEbXBYY2pRZ3RTQy1ralhxSXhSQkktVFI2VmlEWUFaOGtn0gHSAUFVX3lxTFAzYlBfVVZreDNRbXdydGJCY3pqYnZFRUl0SU5NclJZVkJYakdvYXZSWDE2dFRiVGNnUC0wZTdXNzFNbUtZRXlKUldWTzNMTF85ZjJKb09jWURfT3loVG1Tdml0eWluWHktbEZPU3hVNGxYMmdsS2pTblgtTGZEaHViSnBUT3JxM2stZWN6UWpxbk1vX1gzWW1OSnJ5UXAzVVhTTU4tV3d3a2owOHRhZ3d1MXpTY0JKQjFydjN4bmwyZnJlWHhlMGVDVkpJYW42NEZVZw?oc=5"
+      "url": "https://x.com/cdrs1019/status/2111517599423226053"
     },
     {
-      "id": "news-d48f3de1292d",
-      "source": "news",
-      "title": "Furlani flies to first major senior long jump gold in Nanjing - European Athletics",
+      "id": "64ea127d2a8a",
+      "source": "x",
+      "title": "@fightthewcb @UFCW @UFCW175633 @WSIB This is interesting. https://t.co/WrE7sWPtzT",
       "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-YT",
-      "date": "2026-10-17",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS3dXX3RxXzIxcHF0bEI3YWlMenlleG52V042aUROOENLMVozakxJMU1tWFM5MXdOd0RhQzFmQmlXUnFiODdYUk9YcnpHNm9TTUdqVW9iMDBFYmtHNXVZcUxJV3o3SWp4amllR2NBNjFMcFhfLXZBZGJsUDdKRk50ZUZ0NEVmWDdUZXpSMWdXbTNXR09Vc1AxTmtkZU56UDFLWHlNQWVhbEg?oc=5"
-    },
-    {
-      "id": "news-0048620de5c2",
-      "source": "news",
-      "title": "UAB-sponsored benefit options include employee-paid short-term and UAB provided long-term disability insurance - The University of Alabama at Birmingham",
-      "communities": [
-        "disability"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "flywheels": [
-        "evidence",
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZENnblp5QUNLdWM0MGVJSlRSYTB1dlJhZ2k5Wm05Y1lfMW9fS2pfNExRNzk1MTYtLUxvTXdKSUFIWFVtYmFmNDFaZkdDYmlQZHdqTXMzSzdkQlNKbmtLQXdMUlRUVTNSM2FZTTlPSGpIUFNoZDBrWmNRdnlXQkY4VGRvM1plaTZWR1haTTNMd2Z5UkZvakItelk0RzdZSHJ3VVdXZFdLZTY5SjltUDU2YlA1akFWR01YWG9qcXo5dkNJYTR1TzB2RklVbjUwMDNoT0NON3daem9TckRKUnQtTUM3ME5Mdw?oc=5"
+      "url": "https://x.com/TheTideRises333/status/2111436486117896400"
     },
     {
-      "id": "news-397ea4ff38c6",
-      "source": "news",
-      "title": "Canadian elder care providers building a new type of long-term care facility - constructconnect.com",
+      "id": "1cc7a7d4ce62",
+      "source": "x",
+      "title": "@DavidPiccini But when he gets hurt at work he is SCREWED by the @WSIB because of his age!  Your government are hypocrites!",
       "communities": [
-        "elderly"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-16",
+      "date": "2026-10-18",
       "flywheels": [
-        "evidence",
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWGRoQUZvdHB5YkJsSHFPQW9NckRwMlV1eV9xZE1HcDVaSmZWMzl2am1wOThaMzhlWUpoS3J2c1B2am9ydFVocmJreVJBQ0dQcVhFTXhCVmliZjZoUE5vZmRWZnJ5eDZ4eDNNbHZ2ZkJrNmRlSkFOMEdLNFRZMWVNM2owUjhCUmRmZG9IVElaSkl2ME4xMmNtUGRWS2Fpay1zOXBVWFhnTXZRaGNpRVRVRktxUmI5NmxWaklfejFlazJhTkZObU9lbV8zR3pwSzlqc0ZFMg?oc=5"
+      "url": "https://x.com/fightthewcb/status/2111255738685215204"
     },
     {
-      "id": "news-51ed2e4c22dd",
-      "source": "news",
-      "title": "Cullman Police: Man charged with elder abuse, kidnapping after allegedly injuring father before hours-long standoff - WBRC",
+      "id": "39c550f7827f",
+      "source": "x",
+      "title": "@fordnation When @ONIWG had their convention why did you not attend or send your buddy Jeffery Lang from the @WSIB ? Is it because YOU and Jeff HATE injured workers!🤔",
       "communities": [
-        "elderly"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-16",
+      "date": "2026-10-18",
       "flywheels": [
-        "evidence",
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNmc2anF1dVJiLVF4Y2p6VDgwRkVId1ZMT0FWMFZJd0owd1d4dW1yX0ljNjh6X3ZuaFFxUzZGT1c4WU9ZVEdyeVlqcjlHbmg5MEJoZHNJZ0M0OXUxZ05lRlJqQnV5SEtJcUdDcldrZHNuMFZpb01CNFJxaTR2dmhMOUhfSUlydEJkaTNWRzhKWHE2WTdvVkwydlJhWnNfN1liVXE1ckxLYWxNdXFldHpNQjRCeWhzVVliQy1nSDFYeG9TWFNwRmRaYkU1SXE4TTZjRllhRkVKd0Y0NEd1ejZZ?oc=5"
+      "url": "https://x.com/fightthewcb/status/2111226994268549484"
     },
     {
-      "id": "news-85d822e18f94",
-      "source": "news",
-      "title": "Proving long-term disability for depression: legal requirements to meet - Lexpert",
+      "id": "6fa61833a632",
+      "source": "x",
+      "title": "@OntarioPCParty You have a Texas firm plowing Ontario’s 400 series highways.  Wsib just went to a Texas company.",
       "communities": [
-        "disability"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-16",
+      "date": "2026-10-18",
       "flywheels": [
-        "evidence",
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdzFGZlZ5S0FlMGtGdFV4REhnYzZWNFhVTURzb3ZoLV8ta01weEdsYUE3NVR6QWIyWm5XM3VJRzU1Y19xaXdXS01tNUdmOGpiLVRuS3M1dW5HVkMxQkhRUDloc1BwZWdqZTdlVmNyRnFkNUJRZS0xR0FYVnlKWXZKSnl4b3hfT1B3bTMwQ0hXbE9iaWtzRGNuckg2NTRSUEo1eThLTzNRMC1xZUJHMmVaSndTSkZGdw?oc=5"
+      "url": "https://x.com/waldenspond1854/status/2111195316158685401"
     },
     {
-      "id": "news-8a84bbaf81d7",
-      "source": "news",
-      "title": "Long COVID Appears to Have Led to a Surge of the Disabled in the Workplace - Liberty Street Economics",
+      "id": "8cfc95bd88b5",
+      "source": "x",
+      "title": "@OntarioPCParty There's a misprint from Doug, I've only seen \"Buy American\" from Doug. Wsib, nuclear reactors, spa's ....",
       "communities": [
-        "disability"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-16",
+      "date": "2026-10-18",
       "flywheels": [
-        "evidence",
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaTlna0J4QmxyM3lsRGRRMUVTOGRLbGhkQTJ6OUNFZlZodjAxNDBsU1hJOEM3TTVjVWVsRDJaTVdwWDM0Z2lWWWFwSV9LSGhuTHkwWEJma0FPUHBvaVBmcFkxVUQydUluVm5UcnJQRmtEd05UM3V3TVI1a0UwS0pSZFNPSzNRY0JaRjhSNklFdmtfNUVhZlEyZnNpLTBUNXE2eVdmSHJKckR1OE1tNFpzVUVsMDJ3UXpscTNpYmhTekk5bVQ0RHpVdw?oc=5"
+      "url": "https://x.com/grannyk666/status/2111177256626196817"
     },
     {
-      "id": "news-64e7bb02587a",
-      "source": "news",
-      "title": "Long COVID: An Often Invisible Disability - The American Association of Immunologists",
+      "id": "11cdcd7d709b",
+      "source": "x",
+      "title": "Do you own a #business, and your #employee is home collecting #WSIB benefits meanwhile you know he is NOT hurt the way he says he is? Call us at 1-888-703-2912 to discuss HOW we are able to help you. ",
       "communities": [
-        "disability"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-16",
+      "date": "2026-10-18",
       "flywheels": [
-        "evidence",
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wMU9FUElmRllodVIweWJMQ2VrNEptOGRqS2FuYmRUeFg5YW40WWY2SlpQdEVpY0pHTk9IWElBQS01c21mZkVXME5XOThOT3pubGtPcjlFeVNOMmNVemJNNkZodnp6Y0tWd0J0T1JUSENwMnMtQUhSb2I1dmNhdw?oc=5"
+      "url": "https://x.com/piplus3/status/2111171045835088259"
     },
     {
-      "id": "news-cc29c56db8c7",
-      "source": "news",
-      "title": "The employment of disabled people 2025 - GOV.UK",
+      "id": "c12dfb99fca9",
+      "source": "x",
+      "title": "https://t.co/fL3JiKesoR  Solidarity with Injured Workers and Workers at the WSIB",
       "communities": [
-        "disability"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-16",
+      "date": "2026-10-18",
       "flywheels": [
-        "evidence",
-        "knowledge"
+        "collective_action",
+        "evidence"
       ],
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRDRtZkJ2MVQwb2Q5aXdvckRXbzBWWFUxNFoydExMOTFPNFNlX01WZjUwRlYtZ2RTUDhtNEJ0N3VFUHdiSlBTRGdvdU9ILWF0RkNUSEhGUk12bk5HcjFFSWhIZWdCdnJmYXQyV0JhV3ZYUXFwX3lEQWxwcWU5cS1EaWlGZjh6TjByZ19KMHJhQ0xMb1BQMG9UMG1ObHZnbnozNDRNWlZEbDRlamVMSDRVMnhiT0tRZmFWclE?oc=5"
+      "url": "https://x.com/SmilingFlower/status/2111156233407271239"
     },
     {
-      "id": "news-a1b0e0e32d02",
-      "source": "news",
-      "title": "Long-COVID rate among disabled people double that of able-bodied - CIDRAP",
+      "id": "bb4cd2291a79",
+      "source": "x",
+      "title": "Safety made simple. Success made possible - now with a $1,000 incentive.  As part of a WSIB‑funded health and safety research project, Ontario businesses with 5–50 employees can take advantage of a ne",
       "communities": [
-        "disability"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-16",
+      "date": "2026-10-18",
       "flywheels": [
-        "evidence",
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLW9SR0FPSkNwYndhVUNDR1VmM2JCN2dkUDFOZ0IwSUhfWl9nN0NpSVAwR1ZObVg1eE1SNTNqZHFfZ2ppOVRZRGtHVFk0V1VmakcxVVdjTlZrX0hCMUxjLThwcTNwc3piNjdQd0hGb3liR2VRTFBoTU5UamZPazhMMFF6cmJjUldsenBpbjdNMmZHcHAtLXZN?oc=5"
+      "url": "https://x.com/WSPS_NEWS/status/2111156219234701376"
     },
     {
-      "id": "news-0609a53b186b",
-      "source": "news",
-      "title": "Long COVID Leaves Newly Disabled People Facing Old Barriers - UConn Today",
+      "id": "be23b0ab69ec",
+      "source": "x",
+      "title": "@ODSPoor Sadly sounds like how injured workers are treated by the @WSIB",
       "communities": [
-        "accessibility",
-        "disability"
+        "disability",
+        "injured_workers",
+        "welfare_social"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-16",
+      "date": "2026-10-18",
       "flywheels": [
-        "evidence",
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOazNjQk1GQkoycUNIQUp6VkRwa1lmczZwdGNsZnd6Sjk4VVVSM0VYYURwa1JhcDFiazhEVjctcjFSdkQ1aVhOVmxOTnpOaHI2ZmlieTNLS0JhUEZ5eU8yckd4cTk2TWdZWUpRTWVQM3ZIcS1CazBmNDZSZVlicU4zRGRFQXp1N2IzSkRNUG9xbnZpdXZhUHUw?oc=5"
+      "url": "https://x.com/fightthewcb/status/2111151370644361275"
     },
     {
-      "id": "news-421dd9c26a87",
-      "source": "news",
-      "title": "I want a Long COVID language revolution — not language imposed onto my sick, disabled body - The Sick Times",
+      "id": "fdcfc73995a6",
+      "source": "x",
+      "title": "@fightthewcb @UFCW @UFCW175633 @WSIB bayshore.....the worst employer!!! Schedules 1 psw for 2 person transfer when its very clear  Hoyer Lift  transfer always requires 2 trained staff... I got severel",
       "communities": [
-        "disability"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-16",
+      "date": "2026-10-18",
       "flywheels": [
-        "evidence",
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaTFZM1FMVndZTmpqY25OZnExUlRsQkx4ZXo0RzI4cXI4dTVpOWk0U1gxdllZR0NyQmVrcnJFNEFwMW1JUW85MWNDamFhaEQtLWE3aDhpSXotODRpZENIbDN5ci1yWERDalNQM2stbndkQzg5VmliblY2anNNd2lSbjM4Q0RiMFphT3BhVHlFQ2JuN2k3XzE4WUQ1Q1lSRWxfSGVNbmpGODFZYWRoVWJfMm5VdXE1eXlIUFRJQ281bXJIZw?oc=5"
+      "url": "https://x.com/PhoenixRizin09/status/2111146944089223400"
     }
   ],
-  "generated": "2026-10-17"
+  "generated": "2026-10-18"
 }
