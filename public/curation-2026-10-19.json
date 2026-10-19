@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-19",
+  "timestamp": "2026-10-19T18:28:56.319Z",
+  "count": 3,
+  "minScore": 3.5,
+  "items": [
+    {
+      "title": "The Disability Bulletin",
+      "link": "https://linktr.ee/thedisabilitybulletin",
+      "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
+      "score": 10,
+      "pubDate": "2026-10-19T18:28:56.315Z"
+    },
+    {
+      "title": "Manitoba Government Invests $100,000 in Dauphin's Maamawi Park",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75585",
+      "description": "",
+      "score": 7.5,
+      "pubDate": "Fri, 02 Oct 2026 14:59:00 CDT"
+    },
+    {
+      "title": "Measles Update #115",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75584",
+      "description": "",
+      "score": 4.5,
+      "pubDate": "Fri, 02 Oct 2026 13:44:00 CDT"
+    }
+  ]
+}

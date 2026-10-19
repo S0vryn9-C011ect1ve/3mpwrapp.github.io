@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-18",
-  "timestamp": "2026-10-18T15:32:48.861Z",
-  "count": 7,
+  "date": "2026-10-19",
+  "timestamp": "2026-10-19T18:28:56.319Z",
+  "count": 3,
   "minScore": 3.5,
   "items": [
     {
@@ -9,49 +9,21 @@
       "link": "https://linktr.ee/thedisabilitybulletin",
       "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
       "score": 10,
-      "pubDate": "2026-10-18T15:32:48.857Z"
+      "pubDate": "2026-10-19T18:28:56.315Z"
     },
     {
-      "title": "Manitoba Government Signs Bilateral Housing Agreement with Manitoba M�tis Federation",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75817",
-      "description": "",
-      "score": 9.5,
-      "pubDate": "Sat, 17 Oct 2026 16:22:00 CDT"
-    },
-    {
-      "title": "Manitoba Government Invests More Than $300,000 to Upgrade Arts and Recreation Infrastructure in Westman",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75759",
+      "title": "Manitoba Government Invests $100,000 in Dauphin's Maamawi Park",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75585",
       "description": "",
       "score": 7.5,
-      "pubDate": "Sat, 17 Oct 2026 11:00:00 CDT"
+      "pubDate": "Fri, 02 Oct 2026 14:59:00 CDT"
     },
     {
-      "title": "Manitoba Government Expands Maryland Park School to Meet Growing Student Population in Brandon",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75678",
-      "description": "",
-      "score": 7.5,
-      "pubDate": "Fri, 09 Oct 2026 15:21:00 CDT"
-    },
-    {
-      "title": "Manitoba Government Invests More Than $8 Million in New 24-7 Safe Space  for Indigenous Women and Their Children in Thompson",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75581",
-      "description": "",
-      "score": 7.5,
-      "pubDate": "Fri, 02 Oct 2026 10:30:00 CDT"
-    },
-    {
-      "title": "Manitoba Government Celebrates Conservation Officers Recognition Day",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75580",
-      "description": "",
-      "score": 7.5,
-      "pubDate": "Thu, 01 Oct 2026 15:38:00 CDT"
-    },
-    {
-      "title": "Manitoba Recognizes Yellowquill University College as First Degree-Granting Institution Owned and Operated by First Nations",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75677",
+      "title": "Measles Update #115",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75584",
       "description": "",
       "score": 4.5,
-      "pubDate": "Fri, 09 Oct 2026 14:55:00 CDT"
+      "pubDate": "Fri, 02 Oct 2026 13:44:00 CDT"
     }
   ]
 }
