@@ -1,39 +1,40 @@
 {
-  "total": 1768,
+  "total": 1835,
   "verified": 5,
   "by_community": {
-    "disability": 754,
-    "accessibility": 455,
-    "injured_workers": 442,
-    "welfare_social": 403,
-    "elderly": 105,
+    "disability": 774,
+    "accessibility": 487,
+    "injured_workers": 453,
+    "welfare_social": 417,
+    "elderly": 112,
     "veterans": 42,
-    "public_allies": 5,
+    "public_allies": 7,
     "vulnerable_communities": 2
   },
   "by_jurisdiction": {
-    "CA-ON": 727,
-    "INTL": 723,
-    "CA-FED": 197,
+    "CA-ON": 762,
+    "INTL": 752,
+    "CA-FED": 198,
     "CA-AB": 82,
     "CA-BC": 23,
     "CA-NT": 7,
     "CA-YT": 5,
     "CA-TERR": 2,
+    "CA-SK": 2,
     "CA": 1,
     "CA-NL": 1
   },
   "by_source": {
-    "x": 1088,
+    "x": 1146,
     "reddit": 449,
-    "news": 214,
+    "news": 223,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 1751,
+    "unverified_social": 1818,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -42,219 +43,220 @@
   },
   "recent": [
     {
-      "id": "791ac73de893",
+      "id": "dca3cdccb418",
       "source": "x",
-      "title": "Injured on the Job? 👷⚖️  A workplace injury can leave you facing medical expenses, lost wages, and uncertainty about what comes next. You don’t have to navigate the workers’ compensation process alone",
+      "title": "The issue with homelessness is not just a local city matter which can be resolved with a new mayor!  First, is the fact that Ontario and Canada DUMPED social housing on local governments with no finan",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-19",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/fightthewcb/status/2112139492186374324"
+    },
+    {
+      "id": "cf23fa1e1fc0",
+      "source": "x",
+      "title": "Why Do Doctors Hate Workers Comp? [Comprehensive Answer] So many doctors will not accept workers comp insurance as payment Read all about in this article now! Members for The Movement https://t.co/0Ct",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "INTL",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://x.com/InjuryTrialAtty/status/2111095690218578233"
+      "url": "https://x.com/MovementInjured/status/2111887645538213958"
     },
     {
-      "id": "6e7c647715dc",
+      "id": "fa20719a1254",
       "source": "x",
-      "title": "What about the workers who died and were injured prior to 2002 who were illegally barred from bringing their cases to work safe when WCB transitioned?  Your government was repeatedly told the transiti",
+      "title": "Read why everyone Hates Workers Comp in this article! Members for The Movement https://t.co/r8S9IXv1Ph",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "INTL",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://x.com/vachon49995/status/2110710935128322428"
+      "url": "https://x.com/MovementInjured/status/2111886902273941913"
     },
     {
-      "id": "a9dbae4fe965",
+      "id": "94bd1f985b21",
       "source": "x",
-      "title": "@PhoenixRizin09 @UFCW @UFCW175633 @WSIB Where is the accountability with the workers compensation system when dangerous employers are encouraged and rewarded to have dangerous workplaces with FAKE @WS",
+      "title": "Inside The Long Retreat of Workers’ Compensation in New York! Read this whole article about how phony nyswc system is and who is running it &amp; the injured worker has no chance ! Members for The Mov",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-10-19",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/MovementInjured/status/2111884714940174780"
+    },
+    {
+      "id": "9c979f5c398a",
+      "source": "x",
+      "title": "Looking for ways to better manage your WSIB claim costs and keep premium rates more controlled over time?  Strengthening your health and safety approach is one of the most effective long-term strategi",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/fightthewcb/status/2111151071016226929"
+      "url": "https://x.com/askoea/status/2112151790833508436"
     },
     {
-      "id": "3a3a9cf93e6d",
+      "id": "22b4975c9b9e",
       "source": "x",
-      "title": "Washington State   Washington State Investment Board (WSIB)  Washington State Investment Board (WSIB) manages retirement and public trust assets in Washington State, overseeing approximately $244 bill",
+      "title": "Vous cherchez des moyens de mieux gérer les coûts liés à vos demandes d’indemnisation auprès de la Commission de la sécurité professionnelle et de l’assurance contre les accidents du travail (WSIB) et",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/Susan_Dupres/status/2111523518991237428"
+      "url": "https://x.com/AskoeaFR/status/2112151784638533699"
     },
     {
-      "id": "4fdfa91b725b",
+      "id": "a879f904d213",
       "source": "x",
-      "title": "@TheThanigasalam You are not! Staples, closing Service Ontario offices, WSIB managed by a US firm, hospital building given to US firms. You need to stop selling these falsehoods to Ontario.",
+      "title": "@fordnation You call the workers world class but you allow the @WSIB to treat them like criminals when they are injured! Cutting 500 staff and closing 10 office while sitting on a $40 billion surplus!",
       "communities": [
-        "disability",
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/cdrs1019/status/2111517599423226053"
+      "url": "https://x.com/fightthewcb/status/2112140043896729938"
     },
     {
-      "id": "64ea127d2a8a",
+      "id": "0181589e160b",
       "source": "x",
-      "title": "@fightthewcb @UFCW @UFCW175633 @WSIB This is interesting. https://t.co/WrE7sWPtzT",
+      "title": "A missed WSIB clearance or expired insurance certificate can cost an Ontario contractor a job. RivetRoster collects and tracks subcontractor credentials, then alerts teams before licences, coverage, o",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/TheTideRises333/status/2111436486117896400"
+      "url": "https://x.com/newonpolsia/status/2111890534298202285"
     },
     {
-      "id": "1cc7a7d4ce62",
+      "id": "bacbc6fb7f58",
       "source": "x",
-      "title": "@DavidPiccini But when he gets hurt at work he is SCREWED by the @WSIB because of his age!  Your government are hypocrites!",
+      "title": "@fightthewcb How's the WSIB fight going Fuck-Wit?  Sweet Jesus  The Ultimate Socialist Cunt  Once everyone is on WSIB who the fuck is paying the taxes to keep WSIB going Douche Bag?",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/fightthewcb/status/2111255738685215204"
+      "url": "https://x.com/ronmortgageguy/status/2111831959047663635"
     },
     {
-      "id": "39c550f7827f",
+      "id": "26392c82bb16",
       "source": "x",
-      "title": "@fordnation When @ONIWG had their convention why did you not attend or send your buddy Jeffery Lang from the @WSIB ? Is it because YOU and Jeff HATE injured workers!🤔",
+      "title": "Never discount what you say @fordnation does want to be King but my point is we have a King.  You are right about a rally problem is people especially injured workers fear speaking out as the @WSIB pe",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-18",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/fightthewcb/status/2111226994268549484"
-    },
-    {
-      "id": "6fa61833a632",
-      "source": "x",
-      "title": "@OntarioPCParty You have a Texas firm plowing Ontario’s 400 series highways.  Wsib just went to a Texas company.",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-18",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/waldenspond1854/status/2111195316158685401"
-    },
-    {
-      "id": "8cfc95bd88b5",
-      "source": "x",
-      "title": "@OntarioPCParty There's a misprint from Doug, I've only seen \"Buy American\" from Doug. Wsib, nuclear reactors, spa's ....",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-18",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/grannyk666/status/2111177256626196817"
-    },
-    {
-      "id": "11cdcd7d709b",
-      "source": "x",
-      "title": "Do you own a #business, and your #employee is home collecting #WSIB benefits meanwhile you know he is NOT hurt the way he says he is? Call us at 1-888-703-2912 to discuss HOW we are able to help you. ",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-18",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/piplus3/status/2111171045835088259"
-    },
-    {
-      "id": "c12dfb99fca9",
-      "source": "x",
-      "title": "https://t.co/fL3JiKesoR  Solidarity with Injured Workers and Workers at the WSIB",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "flywheels": [
         "collective_action",
         "evidence"
       ],
-      "url": "https://x.com/SmilingFlower/status/2111156233407271239"
+      "url": "https://x.com/fightthewcb/status/2111808726629806474"
     },
     {
-      "id": "bb4cd2291a79",
+      "id": "c3f2b9242ef2",
       "source": "x",
-      "title": "Safety made simple. Success made possible - now with a $1,000 incentive.  As part of a WSIB‑funded health and safety research project, Ontario businesses with 5–50 employees can take advantage of a ne",
+      "title": "@fightthewcb @fordnation @OntLiberal @OntarioNDP I understand you like to discount everything I say. However, if you get all your WSIB-misused workers and their families, plus homeless individuals, to",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/WSPS_NEWS/status/2111156219234701376"
+      "url": "https://x.com/DrAlexMHorton/status/2111806617943519348"
     },
     {
-      "id": "be23b0ab69ec",
+      "id": "426f956c47fb",
       "source": "x",
-      "title": "@ODSPoor Sadly sounds like how injured workers are treated by the @WSIB",
+      "title": "Please RT nothing in yet need some relief help with $100  OTC meds feels like I'm dying I had very bad vertigo last night also need food  tissues ginger ale etc  gemini_girl1973@hotmail.com  #ODSP #Mu",
       "communities": [
         "disability",
-        "injured_workers",
         "welfare_social"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "flywheels": [
-        "evidence"
+        "knowledge"
       ],
-      "url": "https://x.com/fightthewcb/status/2111151370644361275"
+      "url": "https://x.com/CanadianbabyEH/status/2112131682279047290"
     },
     {
-      "id": "fdcfc73995a6",
+      "id": "2caf5a33cb9a",
       "source": "x",
-      "title": "@fightthewcb @UFCW @UFCW175633 @WSIB bayshore.....the worst employer!!! Schedules 1 psw for 2 person transfer when its very clear  Hoyer Lift  transfer always requires 2 trained staff... I got severel",
+      "title": "You can get welfare or ODSP and survive on $800–$1,200 a month, renting some shitty room somewhere. It’s not a good life, but people do it.  The reality is, having a criminal record from years ago can",
       "communities": [
-        "injured_workers"
+        "disability",
+        "welfare_social"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "flywheels": [
-        "evidence"
+        "knowledge"
       ],
-      "url": "https://x.com/PhoenixRizin09/status/2111146944089223400"
+      "url": "https://x.com/RecoveryRoofer/status/2112090681824989556"
+    },
+    {
+      "id": "52c68721f12c",
+      "source": "x",
+      "title": "@RadicalJesus44 https://t.co/SxNaPuy3tT  $710.38  behind on current bills  122.07 balance  Any and all #help is/would be greatly appreciated #MutualAid #ODSP #disabled #poverty #MutualAidRequest   E-t",
+      "communities": [
+        "disability",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-19",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/doubledouble416/status/2112030637662031969"
+    },
+    {
+      "id": "bdf11107678c",
+      "source": "x",
+      "title": "applying for odsp makes me wanna blow my shit smooth off but I think I have a good enough case I fucking hope",
+      "communities": [
+        "disability",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-19",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/LesbianBiting/status/2112028834807550018"
     }
   ],
-  "generated": "2026-10-18"
+  "generated": "2026-10-19"
 }
