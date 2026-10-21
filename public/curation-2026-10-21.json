@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-21",
+  "timestamp": "2026-10-21T16:48:56.880Z",
+  "count": 6,
+  "minScore": 3.5,
+  "items": [
+    {
+      "title": "The Disability Bulletin",
+      "link": "https://linktr.ee/thedisabilitybulletin",
+      "description": "The Disability Bulletin covers disability rights news, advocacy updates, and community stories from across Canada. Visit for the latest issue.",
+      "score": 10,
+      "pubDate": "2026-10-21T16:48:56.876Z"
+    },
+    {
+      "title": "Manitoba Government Changes Regulations to Limit Rent Hikes and Expand Rent Control to Keep Rent Affordable: Premier",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75837",
+      "description": "",
+      "score": 9.5,
+      "pubDate": "Tue, 20 Oct 2026 12:57:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Invests $69,790 in Portage la Prairie's Community Safety and Well-Being Plan",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75697",
+      "description": "",
+      "score": 10.5,
+      "pubDate": "Tue, 13 Oct 2026 11:59:00 CDT"
+    },
+    {
+      "title": "What BC’s Parties Are Promising on Health-Care Access",
+      "link": "https://thetyee.ca/News/2026/10/21/What-BC-Parties-Promising-Health-Care/",
+      "description": "The NDP commit to hiring and expansion. The Conservatives are offering private vouchers. The Greens want community health clinics.",
+      "score": 8.9,
+      "pubDate": "Wed, 21 Oct 2026 07:40:00 +0000"
+    },
+    {
+      "title": "Manitoba Government Invests More Than $1.2 Million in Festivals Across Manitoba",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75698",
+      "description": "",
+      "score": 7.5,
+      "pubDate": "Tue, 13 Oct 2026 12:04:00 CDT"
+    },
+    {
+      "title": "More than three-quarters of Albertans reject separation referendum",
+      "link": "https://rabble.ca/politics/canadian-politics/more-than-three-quarters-of-albertans-reject-separation-referendum/",
+      "description": "",
+      "score": 3.5999999999999996,
+      "pubDate": "Tue, 20 Oct 2026 16:55:57 +0000"
+    }
+  ]
+}

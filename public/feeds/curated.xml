@@ -6,8 +6,8 @@
     <atom:link href="https://3mpwrapp.pages.dev/feeds/curated.xml" rel="self" type="application/rss+xml" />
     <description>Daily curated news on disability rights, accessibility, and benefits across Canada</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 20 Oct 2026 16:31:24 GMT</lastBuildDate>
-    <pubDate>Tue, 20 Oct 2026 16:31:24 GMT</pubDate>
+    <lastBuildDate>Wed, 21 Oct 2026 16:48:56 GMT</lastBuildDate>
+    <pubDate>Wed, 21 Oct 2026 16:48:56 GMT</pubDate>
     <generator>3mpwr App Curator v2.0</generator>
     <image>
       <url>https://3mpwrapp.pages.dev/assets/images/logo.png</url>
@@ -23,29 +23,55 @@
       <title>The Disability Bulletin</title>
       <link>https://linktr.ee/thedisabilitybulletin</link>
       <guid isPermaLink="true">https://linktr.ee/thedisabilitybulletin</guid>
-      <description><![CDATA[Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.]]></description>
-      <pubDate>Tue, 20 Oct 2026 16:31:24 GMT</pubDate>
+      <description><![CDATA[The Disability Bulletin covers disability rights news, advocacy updates, and community stories from across Canada. Visit for the latest issue.]]></description>
+      <pubDate>Wed, 21 Oct 2026 16:48:56 GMT</pubDate>
       <category>Critical</category>
       <dc:creator>3mpwr App Curator</dc:creator>
     </item>
 
     <item>
-      <title>Alberta Gives Its Answer: ‘The Separation Stuff Is Crap’</title>
-      <link>https://thetyee.ca/News/2026/10/20/Alberta-Gives-Answer-Separation-Crap/</link>
-      <guid isPermaLink="true">https://thetyee.ca/News/2026/10/20/Alberta-Gives-Answer-Separation-Crap/</guid>
-      <description><![CDATA[Voters soundly reject pursuing a split from Canada. But anti-immigrant proposals were winning.]]></description>
-      <pubDate>Tue, 20 Oct 2026 14:19:00 GMT</pubDate>
+      <title>Manitoba Government Changes Regulations to Limit Rent Hikes and Expand Rent Control to Keep Rent Affordable: Premier</title>
+      <link>https://news.gov.mb.ca/news/index.html?item=75837</link>
+      <guid isPermaLink="true">https://news.gov.mb.ca/news/index.html?item=75837</guid>
+      <pubDate>Tue, 20 Oct 2026 17:57:00 GMT</pubDate>
       <category>Critical</category>
       <dc:creator>3mpwr App Curator</dc:creator>
     </item>
 
     <item>
-      <title>The Separatist Dream Is Over. Danielle Smith Might Be Too</title>
-      <link>https://thetyee.ca/News/2026/10/20/Separatist-Dream-Over-Smith-Might-Be-Too/</link>
-      <guid isPermaLink="true">https://thetyee.ca/News/2026/10/20/Separatist-Dream-Over-Smith-Might-Be-Too/</guid>
-      <description><![CDATA[The UCP government faces a major reckoning after a costly referendum.]]></description>
-      <pubDate>Tue, 20 Oct 2026 15:20:00 GMT</pubDate>
+      <title>Manitoba Government Invests $69,790 in Portage la Prairie&apos;s Community Safety and Well-Being Plan</title>
+      <link>https://news.gov.mb.ca/news/index.html?item=75697</link>
+      <guid isPermaLink="true">https://news.gov.mb.ca/news/index.html?item=75697</guid>
+      <pubDate>Tue, 13 Oct 2026 16:59:00 GMT</pubDate>
       <category>Critical</category>
+      <dc:creator>3mpwr App Curator</dc:creator>
+    </item>
+
+    <item>
+      <title>What BC’s Parties Are Promising on Health-Care Access</title>
+      <link>https://thetyee.ca/News/2026/10/21/What-BC-Parties-Promising-Health-Care/</link>
+      <guid isPermaLink="true">https://thetyee.ca/News/2026/10/21/What-BC-Parties-Promising-Health-Care/</guid>
+      <description><![CDATA[The NDP commit to hiring and expansion. The Conservatives are offering private vouchers. The Greens want community health clinics.]]></description>
+      <pubDate>Wed, 21 Oct 2026 07:40:00 GMT</pubDate>
+      <category>Critical</category>
+      <dc:creator>3mpwr App Curator</dc:creator>
+    </item>
+
+    <item>
+      <title>Manitoba Government Invests More Than $1.2 Million in Festivals Across Manitoba</title>
+      <link>https://news.gov.mb.ca/news/index.html?item=75698</link>
+      <guid isPermaLink="true">https://news.gov.mb.ca/news/index.html?item=75698</guid>
+      <pubDate>Tue, 13 Oct 2026 17:04:00 GMT</pubDate>
+      <category>Critical</category>
+      <dc:creator>3mpwr App Curator</dc:creator>
+    </item>
+
+    <item>
+      <title>More than three-quarters of Albertans reject separation referendum</title>
+      <link>https://rabble.ca/politics/canadian-politics/more-than-three-quarters-of-albertans-reject-separation-referendum/</link>
+      <guid isPermaLink="true">https://rabble.ca/politics/canadian-politics/more-than-three-quarters-of-albertans-reject-separation-referendum/</guid>
+      <pubDate>Tue, 20 Oct 2026 16:55:57 GMT</pubDate>
+      <category>High Priority</category>
       <dc:creator>3mpwr App Curator</dc:creator>
     </item>
 
