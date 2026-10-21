@@ -1,18 +1,18 @@
 {
-  "total": 1835,
+  "total": 1842,
   "verified": 5,
   "by_community": {
-    "disability": 774,
+    "disability": 778,
     "accessibility": 487,
     "injured_workers": 453,
-    "welfare_social": 417,
-    "elderly": 112,
+    "welfare_social": 418,
+    "elderly": 115,
     "veterans": 42,
-    "public_allies": 7,
+    "public_allies": 8,
     "vulnerable_communities": 2
   },
   "by_jurisdiction": {
-    "CA-ON": 762,
+    "CA-ON": 769,
     "INTL": 752,
     "CA-FED": 198,
     "CA-AB": 82,
@@ -27,14 +27,14 @@
   "by_source": {
     "x": 1146,
     "reddit": 449,
-    "news": 223,
+    "news": 230,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 1818,
+    "unverified_social": 1825,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -42,6 +42,113 @@
     "manual_curated": 1
   },
   "recent": [
+    {
+      "id": "news-6d7f8090d947",
+      "source": "news",
+      "title": "The ‘activity trap’: fear of losing benefits is stopping some disabled people from exercising - The Conversation",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-20",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb2N4cjRoUGpRTUxMSnNfeUhyTG5yQmM3cGd4QnpOWURsOTNSN3ZZOWRUSExBTUUzU0RoQ2o3VkE0YV8tWWgtYTh0T2c3SGZYajFzd3owUXJweW04QVZKcFBOY25zYWg1MDM3Y0tDcWFJVWh4ZDVPbDM0MzQ5MFN6RXNXRklqYklPd2llSnJrLXRjcFBjQkxBZWhQbkNNUVVfek5IYXhPWlVkRzRHV29sZmRzcExIckkzLVNqRjZZeU9XUzQ?oc=5"
+    },
+    {
+      "id": "news-4fb024d0775c",
+      "source": "news",
+      "title": "Immunic to showcase phase 2 long-term MS disability data at MSToronto2026 - Proactive financial news",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-20",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOODZncFVTRTktYmVzcmZjSlNnMW1mOGJEeUFnTGNjU0ZVSFZQQjZod2tla0Y5ZDY4Q2hNaUREbE43RVlOSVU0LWtXcjlpZjFFWHpmMGI2Y08xMXhPT2ZOWVoyNG9rSDdrMGFQTTh1MmxBSDY3ZDhfN0JueGlFeGFhZF90dG8xY3RqbG01Y21udEc4S3VnT2hUQXhGY2F5cjhwZnUwRjhKaGl5LUVWZE9WMGlLNUV3SVNrYmM0X3RoRm40X3BLTVR2Rm43X1dVbHJVckE?oc=5"
+    },
+    {
+      "id": "news-d66d633e1ab3",
+      "source": "news",
+      "title": "Man charged with elder abuse, kidnapping after allegedly injuring father before hours-long standoff - WAGM",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-20",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMVN6T3RaSE02eXF1czdmaGZkWWdkbVFtQXc3dnhNR2J2dEpyQTRWRnZMVnRxU1Q0TjB5cXgtM2tZbElwR2hGSkcySU1hYkU4RE4zbmpIcWRzSlMzUnVtRDRRUXdXbjFFaHF4UHdGQk1CRFRVRG9jRkNZbGxqRTFuWkhJU1B5MGcxd2dHNzB3dXEyY0U4eFpOMFV0V2stWWdXUXgyYURJZ2lCWDVTVTZndFU0b1VDeXVrNHpnRWFTRHI2aXRqWWQwVThKUFphUdIB4gFBVV95cUxQblZTUmpCU05iWU93MVVZaWtxQU1hWlFXMFRlbW9BYk9adGhxQmRYRzZsbktpd2g5ZnpOUE9GVFdUVlBCTEFhY05iQlFJTDFIQURBamVTME5BZ05pazMtLXZCQkxqMzJnRHZxMUlMUEJZOS0zMnRDSE5TNERVZ3pDWnYtN0piTHktTnlxUXBES3loRW0tMTREM2x4RXFnTjRhdkhKN0QyZkloaXBmSElQUDlINFBxeVVIWFlEUUVUTVBFcmFqLVgxRS1CdGZFa2J5M1BVdi1kQ1dHTXJrZVEzUVdB?oc=5"
+    },
+    {
+      "id": "news-ccebc9cd5190",
+      "source": "news",
+      "title": "Opinion | The military’s stance on disabled Americans no longer makes sense - The Washington Post",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-20",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkZZaUZwUFdGcDBiaFRuaXNPX205b1NJaFdTQnM0eFZGLXhvZG1sWkhSN1U4MEZSUmZJbHFEY3UzU0tJQng2TmhsUnJwZ0k5REQtOFFNUlFzd0RBMzJiTzFjdFBPdDRpVW5Sb19KUTNuQ1JMd3l0UFZJV2NRbGRqTFBDUF9xanBGMDJfelVIWkNPNnlwSGxQLXRn?oc=5"
+    },
+    {
+      "id": "news-55f5d8a84547",
+      "source": "news",
+      "title": "Royal Bank of Canada Gains Fitch Upgrade on Legacy Senior Long-Term Debt - The Globe and Mail",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-20",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLWdxdjJGM1pQMjljOGtReUJ5b29lQnpvdUVTTC1JNVBKSmhiTHdVY2JlX0VqY1I3enpPRXFFQTlRdnZaMVYwNk81WWhwTlJNTzlUSFNsNncweWFHOHU4SU1SWkx6SEJ1NzRqTHdLY1BneUlraWlRdGxUN0U2anpNSnRzSkpEaTAyNUFNUV9LOFowMlR1Z2FvTnl1UFBQTmlYTmpwMWxzLUlmLTZUUmpDMUZmMTBTeF9WV0h3bW9Va3VESC1JRUVRX19yaW04RWtFaDNBYzYtbEdQX3RzVTRoU29JV2loR1hobjVJ?oc=5"
+    },
+    {
+      "id": "news-d12978523fc5",
+      "source": "news",
+      "title": "65th Abbie Rogers Civitan Camp welcomes developmentally disabled adults to weekend-long fun - AZ Family",
+      "communities": [
+        "disability",
+        "public_allies",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-20",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZUJQTGdPS0NtWDdlS0JLMHp3WWZVM19ZV3FOREFYVzhpNWpSZlRYNkE3LUotaTFvRUVLVXJBaTY0ZkY2cTBUS3VnSExhVU5FTG9ONi1uZVR6dDhNcVBOaGtuY2NKQ1dBZ3hybFRNeUw3UUZGZ3EzeFdKWTBZc1pncTlDN2dJVzE4ejVCU3dTT3lrY0FtSnZ3UU1rYnpuel91NnowSEpJRGxQRkRVancyaFNZR3Vaa3k2dUlvVUVHZkxISV9VOFdOOWxSSQ?oc=5"
+    },
+    {
+      "id": "news-f9ee140249d5",
+      "source": "news",
+      "title": "Somalia claims it killed senior Shabaab leader - The Long War Journal",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-20",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM1VqRHI1UV9JRkJJUjd0RnV1MmtWb0VjYmlOLS1xOHVkR3owVmhFZkxMM1lzZHpzaHMzZk9jX1ZhOGt2V0toX0xUdUdJQ25KLWZYUmhXYThlVlJQdGd0UGRjVmUyN21qVERpNVE4Z2dVNW5QcU9hNHhCcVFNdTRQUHJwX1I2Yi1uVnBXVnRxaWFPcHJ2Yl9QR2JlYk9XSTY1?oc=5"
+    },
     {
       "id": "dca3cdccb418",
       "source": "x",
@@ -153,110 +260,7 @@
         "evidence"
       ],
       "url": "https://x.com/newonpolsia/status/2111890534298202285"
-    },
-    {
-      "id": "bacbc6fb7f58",
-      "source": "x",
-      "title": "@fightthewcb How's the WSIB fight going Fuck-Wit?  Sweet Jesus  The Ultimate Socialist Cunt  Once everyone is on WSIB who the fuck is paying the taxes to keep WSIB going Douche Bag?",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-19",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/ronmortgageguy/status/2111831959047663635"
-    },
-    {
-      "id": "26392c82bb16",
-      "source": "x",
-      "title": "Never discount what you say @fordnation does want to be King but my point is we have a King.  You are right about a rally problem is people especially injured workers fear speaking out as the @WSIB pe",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-19",
-      "flywheels": [
-        "collective_action",
-        "evidence"
-      ],
-      "url": "https://x.com/fightthewcb/status/2111808726629806474"
-    },
-    {
-      "id": "c3f2b9242ef2",
-      "source": "x",
-      "title": "@fightthewcb @fordnation @OntLiberal @OntarioNDP I understand you like to discount everything I say. However, if you get all your WSIB-misused workers and their families, plus homeless individuals, to",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-19",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/DrAlexMHorton/status/2111806617943519348"
-    },
-    {
-      "id": "426f956c47fb",
-      "source": "x",
-      "title": "Please RT nothing in yet need some relief help with $100  OTC meds feels like I'm dying I had very bad vertigo last night also need food  tissues ginger ale etc  gemini_girl1973@hotmail.com  #ODSP #Mu",
-      "communities": [
-        "disability",
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-19",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/CanadianbabyEH/status/2112131682279047290"
-    },
-    {
-      "id": "2caf5a33cb9a",
-      "source": "x",
-      "title": "You can get welfare or ODSP and survive on $800–$1,200 a month, renting some shitty room somewhere. It’s not a good life, but people do it.  The reality is, having a criminal record from years ago can",
-      "communities": [
-        "disability",
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-19",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/RecoveryRoofer/status/2112090681824989556"
-    },
-    {
-      "id": "52c68721f12c",
-      "source": "x",
-      "title": "@RadicalJesus44 https://t.co/SxNaPuy3tT  $710.38  behind on current bills  122.07 balance  Any and all #help is/would be greatly appreciated #MutualAid #ODSP #disabled #poverty #MutualAidRequest   E-t",
-      "communities": [
-        "disability",
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-19",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/doubledouble416/status/2112030637662031969"
-    },
-    {
-      "id": "bdf11107678c",
-      "source": "x",
-      "title": "applying for odsp makes me wanna blow my shit smooth off but I think I have a good enough case I fucking hope",
-      "communities": [
-        "disability",
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-19",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/LesbianBiting/status/2112028834807550018"
     }
   ],
-  "generated": "2026-10-19"
+  "generated": "2026-10-20"
 }
