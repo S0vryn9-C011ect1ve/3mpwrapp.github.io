@@ -1,50 +1,92 @@
 {
-  "date": "2026-10-21",
-  "timestamp": "2026-10-21T16:48:56.880Z",
-  "count": 6,
+  "date": "2026-10-22",
+  "timestamp": "2026-10-22T16:49:10.305Z",
+  "count": 12,
   "minScore": 3.5,
   "items": [
     {
       "title": "The Disability Bulletin",
       "link": "https://linktr.ee/thedisabilitybulletin",
-      "description": "The Disability Bulletin covers disability rights news, advocacy updates, and community stories from across Canada. Visit for the latest issue.",
+      "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
       "score": 10,
-      "pubDate": "2026-10-21T16:48:56.876Z"
+      "pubDate": "2026-10-22T16:49:10.301Z"
     },
     {
-      "title": "Manitoba Government Changes Regulations to Limit Rent Hikes and Expand Rent Control to Keep Rent Affordable: Premier",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75837",
+      "title": "Governments of Canada and Manitoba Partner with Peguis First Nation and Fisher River Cree Nation for Phase 1 Flood Mitigation",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75857",
+      "description": "",
+      "score": 18,
+      "pubDate": "Wed, 21 Oct 2026 13:05:00 CDT"
+    },
+    {
+      "title": "Manitoba Delegation Joins Team Canada Trade Mission to India",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75717",
+      "description": "",
+      "score": 15,
+      "pubDate": "Tue, 13 Oct 2026 14:33:00 CDT"
+    },
+    {
+      "title": "Queer Organizations Sound Alarm over Conservative Anti-Trans Rhetoric",
+      "link": "https://thetyee.ca/News/2026/10/22/Queer-Organizations-Alarm-Conservative-Anti-Trans-Rhetoric/",
+      "description": "MLAs have tried to pass legislation that would strip away human rights and limit access to health care.",
+      "score": 11.9,
+      "pubDate": "Thu, 22 Oct 2026 07:30:00 +0000"
+    },
+    {
+      "title": "Manitoba Government Adds Community Capacity to Help Patients Move to the Right Care",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75619",
+      "description": "",
+      "score": 13.9,
+      "pubDate": "Tue, 06 Oct 2026 12:54:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Holds Town Hall on New Bridgwater Personal Care Home",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75858",
+      "description": "",
+      "score": 9.9,
+      "pubDate": "Wed, 21 Oct 2026 14:00:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Now Accepting Nominations for 2026-27 Excellence in Education Awards",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75617",
       "description": "",
       "score": 9.5,
-      "pubDate": "Tue, 20 Oct 2026 12:57:00 CDT"
+      "pubDate": "Tue, 06 Oct 2026 11:45:00 CDT"
     },
     {
-      "title": "Manitoba Government Invests $69,790 in Portage la Prairie's Community Safety and Well-Being Plan",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75697",
+      "title": "Manitoba Government Introduces Legislation to Improve Safety for Cannabis Store Workers",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75597",
       "description": "",
-      "score": 10.5,
-      "pubDate": "Tue, 13 Oct 2026 11:59:00 CDT"
+      "score": 9.5,
+      "pubDate": "Mon, 05 Oct 2026 13:41:00 CDT"
     },
     {
-      "title": "What BC’s Parties Are Promising on Health-Care Access",
-      "link": "https://thetyee.ca/News/2026/10/21/What-BC-Parties-Promising-Health-Care/",
-      "description": "The NDP commit to hiring and expansion. The Conservatives are offering private vouchers. The Greens want community health clinics.",
-      "score": 8.9,
-      "pubDate": "Wed, 21 Oct 2026 07:40:00 +0000"
-    },
-    {
-      "title": "Manitoba Government Invests More Than $1.2 Million in Festivals Across Manitoba",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75698",
+      "title": "Manitoba Government Introduces Amendments to Further Protect Survivors of Intimate Partner Violence",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75598",
       "description": "",
       "score": 7.5,
-      "pubDate": "Tue, 13 Oct 2026 12:04:00 CDT"
+      "pubDate": "Mon, 05 Oct 2026 14:35:00 CDT"
     },
     {
-      "title": "More than three-quarters of Albertans reject separation referendum",
-      "link": "https://rabble.ca/politics/canadian-politics/more-than-three-quarters-of-albertans-reject-separation-referendum/",
+      "title": "Advance in-person voting for Alberta referendum starts this week",
+      "link": "https://rabble.ca/politics/canadian-politics/advance-in-person-voting-for-alberta-referendum-starts-this-week/",
       "description": "",
       "score": 3.5999999999999996,
-      "pubDate": "Tue, 20 Oct 2026 16:55:57 +0000"
+      "pubDate": "Tue, 13 Oct 2026 19:14:27 +0000"
+    },
+    {
+      "title": "Province Provides Update on Repairs to Provincial Trunk Highway 83 Shell River Bridge",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75860",
+      "description": "",
+      "score": 4.5,
+      "pubDate": "Thu, 22 Oct 2026 10:46:00 CDT"
+    },
+    {
+      "title": "Province Provides Update on Provincial Trunk Highway 10 Stoney Creek Bridge Closure and Repairs",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75859",
+      "description": "",
+      "score": 4.5,
+      "pubDate": "Thu, 22 Oct 2026 10:35:00 CDT"
     }
   ]
 }
