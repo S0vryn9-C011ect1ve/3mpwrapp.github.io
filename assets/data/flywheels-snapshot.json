@@ -1,22 +1,22 @@
 {
-  "total": 1842,
+  "total": 1853,
   "verified": 5,
   "by_community": {
-    "disability": 778,
+    "disability": 783,
     "accessibility": 487,
-    "injured_workers": 453,
+    "injured_workers": 455,
     "welfare_social": 418,
-    "elderly": 115,
+    "elderly": 119,
     "veterans": 42,
     "public_allies": 8,
     "vulnerable_communities": 2
   },
   "by_jurisdiction": {
-    "CA-ON": 769,
-    "INTL": 752,
+    "CA-ON": 778,
+    "INTL": 753,
     "CA-FED": 198,
     "CA-AB": 82,
-    "CA-BC": 23,
+    "CA-BC": 24,
     "CA-NT": 7,
     "CA-YT": 5,
     "CA-TERR": 2,
@@ -27,14 +27,14 @@
   "by_source": {
     "x": 1146,
     "reddit": 449,
-    "news": 230,
+    "news": 241,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 1825,
+    "unverified_social": 1836,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -42,6 +42,171 @@
     "manual_curated": 1
   },
   "recent": [
+    {
+      "id": "news-ef8a91e0bddb",
+      "source": "news",
+      "title": "Huntingdon Co. senior center to reopen after months-long closure - WJAC",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-21",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWWJaUHRtaWlUUnRld1RHcFVHVllmMS1qT3hPQ0VDTG1jd3liZXZyNkpaWlNhb0tVUDc3NFZzUGNUb2tfbTNRWWxRNWdlaDdDcmVxN0VMWnBLVVlIZzlnbkpNeHNMQ2t4T2N5TXFTOFNYTDlNS1dsdjhyLXZsbUR5aEFpTks5d1lhZWRFT2FFY2Q3eTZfWWFWYQ?oc=5"
+    },
+    {
+      "id": "news-0bf17904c9ed",
+      "source": "news",
+      "title": "Vinh Long province issues new regulations on compensation, support, and resettlement when the State reclaims land. - Vietnam.vn",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-21",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdlRHbVVJWVExV3BTa1htMUdFNXhIZUpwbmtzbWU0VmdVb3JTVXl3YXBlMHh2UUdsZnNVYnBHNkIycDc4WjlsTkJJOGxEY01ELWlIZzRHajZZZW4tczNIT0kwRkhNWEtTTWljR2JuVUFfZXMzVnRxekh2TkpTSlFOdEU5a2Zmd3pSZWJkZkw0bTJXVkk3OU5EWUdRVmFZcXVqM0xoSXljLTFBT3BfRXlqSU84U3ozZw?oc=5"
+    },
+    {
+      "id": "news-2606e14b4eb5",
+      "source": "news",
+      "title": "Man charged with elder abuse, kidnapping after allegedly injuring father before hours-long standoff - WPTA | 21Alive | Fort Wayne, IN",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-21",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYU9QN0JHQV80WTN1RHUyVUxOcmx0TUtMWHNnd1M5ZGdMcjlqOGNxbjNNUGFhTERqZzAycXpVd0M2VE1sOW8yOWVsUlh0eFVQLXpuUlpfc0tSdS1EdjhVR21ndC10Q1A0RlNkSkxJVmllWVFOQ0U3TFJjM2JhWWhDU2psckF1TVktM05hdko1VmhvQlVXV2hDalBFVUl1RmlGaG45RjQybTJvWFE4S3hmdUZhR3dfX0pGaXZFSlQzYjItTTRrZl9ManIyUzZDNzNyWlhIRNIB6AFBVV95cUxPV0xtMEpqaWtCLUdEaXoyU1NzdUt0a2t3UU02U3F2WUF6anMtbGJWODFFLVpaRnhnREc2ZHN0SjA2SUhHRDRMTk5WUENmdjZvS21IR3dUTWo3dTFmWnVoaFFJOXl4RnF6M1NxUjI5VC1JakRfamwtc2Jfek5MUnJZNXRQamh2WDdGS3lHODhCd0NXU0FEWnFHU2lkQnprV1NhSmhROGtzb0gyam5VUE5obmZUaEdsUmVzRTktWVl1NHF5WFdxWTVrVGltakxacThlMnNoVGFHVHNLNXZpbUNaeWlpSG10Zzh0?oc=5"
+    },
+    {
+      "id": "news-911d71455239",
+      "source": "news",
+      "title": "J&K Handicapped Association Seeks Action on Long-Pending Disability Rights Demands - Brighter Kashmir",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-21",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeldvbGpaSTlpRWVpaURWRXFSVlFfOTdqc2NncHVON1Q3dFlxbzJFdjQ5V191V19yak9fbVNZQlhnMG1TSmxPdXp0THIzVG53dFVZMXNxamhET01HajVyYkVEZU5rYTliLVZOSVN5SDVIMzFCeV9kNEExWmJ3Q3BwVkluVDlwZktJcjAwNTc3NE5EQXpZTlZGTVl3YVkwZEhDLUtNdEZFYUZ5OFl0S2c?oc=5"
+    },
+    {
+      "id": "news-2f3c72e774df",
+      "source": "news",
+      "title": "Long-Term Intravenous Lidocaine Relatively Safe for Patients With Chronic Pain - Clinical Pain Advisor",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-21",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYUNPalp1cDBJZ0pOdzJUT0NUUG1ZVmt1RE15U2JkektjbDc0NC1KVW5VNE1wVHFyVXpmd2YtQlJaWkNtQkZTTjd0Zlh3Mm9maGlJQ0FDMHFZRHU2YWo1MDg0bkxlQnBuMS1hWmV0Y0JfSzJjTHFxamtrZll1ODJTdS15dmJFS2oxZEYw?oc=5"
+    },
+    {
+      "id": "news-5db23751cdb0",
+      "source": "news",
+      "title": "Immigration, the Long-Term Care Workforce, and Elder Outcomes in the US - The University of Chicago Press: Journals",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-21",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MbVA4Rkx5V0ljMWxjY01WbC1TQ3pyYnhRUFdQYW1DWjl3WmVpMkpGaDRvck9yLWVYSWlyNUc0NzZ4REd3bENxd2JRaGZSSDNVeDdjZkl6Z0lRUDB1SFBLMzRn?oc=5"
+    },
+    {
+      "id": "news-d4698f92f0d4",
+      "source": "news",
+      "title": "Midwest Access: Senior Moments - Types of Long-Term Care and What is Best for Your Loved One? - KTTC",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-21",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZnNMd1k5a0xyNl9QbWNKMm84TWplNy1pSTBKSUQyQjY0ak8ySWJyUVFLOVk5SERUMjhzMm5ZbnhFZjdyRndsWXhmR1llSlk3THZFd3dnUU9HOFJhWVJKRThGWnFSOURwS1BvZzZiMWtGb01fVTAwVVlRWTMyS2cwbkZQcVM2WGs3cXhjTHdiRGUydVNMYVVkWktqZ2lHV3owZTZYc3BfSXFHOUkxSTRCYm55WUZnSUVz?oc=5"
+    },
+    {
+      "id": "news-05add491e791",
+      "source": "news",
+      "title": "Justice Department Backs Off Disability Rights Enforcement - Disability Scoop",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-21",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQelJlRjNNSnlLTjV1OGFWaVQza1dnOVZyRmRKZFlxbGRqV3FNRHkxN1hHM2pUWGY4QzU3bkJXZTY4LVlNZDNkY3dEcWpPSXRCVnpuWXRyaVVaM3RIQ3h3Qklod1R5NlprVDQ2dHAzNW52M2tLcGVNZjlQZnBENzQ0cFN0VHVXMjBjdHhSMDYyOVlTanFISThFUjF3aGQ0a212ZFRFOFI0NzFQSVp5?oc=5"
+    },
+    {
+      "id": "news-91c7af76b05c",
+      "source": "news",
+      "title": "UK drivers mis-sold car finance face longer wait for compensation payouts - Yahoo Finance UK",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-21",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdGRSZVUzSDZyRVBjU3RlejctSkNmQXZkdnUzTExfbldWNWRuTm84REZJZkd1NDBkR1NZT1ozVHdINThpS0xQal9hV2dvUWFsQkJjanM5b003alZDdnpjS0g1czZSb190R1RCaWt4cTBQb0Q4MEVsYzU0T0o2RlNEaUcyZkdJYUk?oc=5"
+    },
+    {
+      "id": "news-257ca1d95da4",
+      "source": "news",
+      "title": "A Tsunami of Disability Is Coming as a Result of ‘Long COVID’ - Scientific American",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-BC",
+      "date": "2026-10-21",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTm5oZUo2Y1RpY241U1NTdHdmOGktcjZQbnU1M3RhbnY0ME1Hc3VkMFlKVldRMzJMZWNoSTRPVmtPNXJKY2Q5cjhJRzFPOVlkQk9rWFFJVGFYQ09ZcS1NTUVFOEhJeXVkTEJtcFhYOWhfVjExTy1IR1E1ZWlwQUpKNjJZcngwVzB4V2pNNDRXOTQzU2hoeTVZNkR5ZWs3NTV1b1kyLThWZ2M3ZE9JUGlvM3NYeWJmQQ?oc=5"
+    },
+    {
+      "id": "news-0f3a5d1871f2",
+      "source": "news",
+      "title": "Shifting Focus to Long-Term Disability and Novel Therapeutic Pathways in Multiple Sclerosis - Pharmacy Times",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-10-21",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONDV1TVE4amJhbDBPNjlFX3YwWXNNMEtLY3B1VVkyYkpVbzhzcTMyajVIQzl3cVVmelBHeWEtd3VHNG9teUlMelliNHNYdDR2c2lPV2E4Z2N0dXlYdnlFMFhvTTRodW02emhiQVlVRlFlcXZkN2NZZEJpZEJXa1pMNGtSRHJuSWExdUVNZnlHWEpRSGxIWVJ5dTlZY1BLX2JSTGlwLW1MYVVrZ21xVVpGbk0yWE1rdU1HOE9FQzg5SFFTYjBx?oc=5"
+    },
     {
       "id": "news-6d7f8090d947",
       "source": "news",
@@ -101,166 +266,7 @@
         "knowledge"
       ],
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkZZaUZwUFdGcDBiaFRuaXNPX205b1NJaFdTQnM0eFZGLXhvZG1sWkhSN1U4MEZSUmZJbHFEY3UzU0tJQng2TmhsUnJwZ0k5REQtOFFNUlFzd0RBMzJiTzFjdFBPdDRpVW5Sb19KUTNuQ1JMd3l0UFZJV2NRbGRqTFBDUF9xanBGMDJfelVIWkNPNnlwSGxQLXRn?oc=5"
-    },
-    {
-      "id": "news-55f5d8a84547",
-      "source": "news",
-      "title": "Royal Bank of Canada Gains Fitch Upgrade on Legacy Senior Long-Term Debt - The Globe and Mail",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-20",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLWdxdjJGM1pQMjljOGtReUJ5b29lQnpvdUVTTC1JNVBKSmhiTHdVY2JlX0VqY1I3enpPRXFFQTlRdnZaMVYwNk81WWhwTlJNTzlUSFNsNncweWFHOHU4SU1SWkx6SEJ1NzRqTHdLY1BneUlraWlRdGxUN0U2anpNSnRzSkpEaTAyNUFNUV9LOFowMlR1Z2FvTnl1UFBQTmlYTmpwMWxzLUlmLTZUUmpDMUZmMTBTeF9WV0h3bW9Va3VESC1JRUVRX19yaW04RWtFaDNBYzYtbEdQX3RzVTRoU29JV2loR1hobjVJ?oc=5"
-    },
-    {
-      "id": "news-d12978523fc5",
-      "source": "news",
-      "title": "65th Abbie Rogers Civitan Camp welcomes developmentally disabled adults to weekend-long fun - AZ Family",
-      "communities": [
-        "disability",
-        "public_allies",
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-20",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZUJQTGdPS0NtWDdlS0JLMHp3WWZVM19ZV3FOREFYVzhpNWpSZlRYNkE3LUotaTFvRUVLVXJBaTY0ZkY2cTBUS3VnSExhVU5FTG9ONi1uZVR6dDhNcVBOaGtuY2NKQ1dBZ3hybFRNeUw3UUZGZ3EzeFdKWTBZc1pncTlDN2dJVzE4ejVCU3dTT3lrY0FtSnZ3UU1rYnpuel91NnowSEpJRGxQRkRVancyaFNZR3Vaa3k2dUlvVUVHZkxISV9VOFdOOWxSSQ?oc=5"
-    },
-    {
-      "id": "news-f9ee140249d5",
-      "source": "news",
-      "title": "Somalia claims it killed senior Shabaab leader - The Long War Journal",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-20",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM1VqRHI1UV9JRkJJUjd0RnV1MmtWb0VjYmlOLS1xOHVkR3owVmhFZkxMM1lzZHpzaHMzZk9jX1ZhOGt2V0toX0xUdUdJQ25KLWZYUmhXYThlVlJQdGd0UGRjVmUyN21qVERpNVE4Z2dVNW5QcU9hNHhCcVFNdTRQUHJwX1I2Yi1uVnBXVnRxaWFPcHJ2Yl9QR2JlYk9XSTY1?oc=5"
-    },
-    {
-      "id": "dca3cdccb418",
-      "source": "x",
-      "title": "The issue with homelessness is not just a local city matter which can be resolved with a new mayor!  First, is the fact that Ontario and Canada DUMPED social housing on local governments with no finan",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-19",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/fightthewcb/status/2112139492186374324"
-    },
-    {
-      "id": "cf23fa1e1fc0",
-      "source": "x",
-      "title": "Why Do Doctors Hate Workers Comp? [Comprehensive Answer] So many doctors will not accept workers comp insurance as payment Read all about in this article now! Members for The Movement https://t.co/0Ct",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-10-19",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/MovementInjured/status/2111887645538213958"
-    },
-    {
-      "id": "fa20719a1254",
-      "source": "x",
-      "title": "Read why everyone Hates Workers Comp in this article! Members for The Movement https://t.co/r8S9IXv1Ph",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-10-19",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/MovementInjured/status/2111886902273941913"
-    },
-    {
-      "id": "94bd1f985b21",
-      "source": "x",
-      "title": "Inside The Long Retreat of Workers’ Compensation in New York! Read this whole article about how phony nyswc system is and who is running it &amp; the injured worker has no chance ! Members for The Mov",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-10-19",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/MovementInjured/status/2111884714940174780"
-    },
-    {
-      "id": "9c979f5c398a",
-      "source": "x",
-      "title": "Looking for ways to better manage your WSIB claim costs and keep premium rates more controlled over time?  Strengthening your health and safety approach is one of the most effective long-term strategi",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-19",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/askoea/status/2112151790833508436"
-    },
-    {
-      "id": "22b4975c9b9e",
-      "source": "x",
-      "title": "Vous cherchez des moyens de mieux gérer les coûts liés à vos demandes d’indemnisation auprès de la Commission de la sécurité professionnelle et de l’assurance contre les accidents du travail (WSIB) et",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-19",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/AskoeaFR/status/2112151784638533699"
-    },
-    {
-      "id": "a879f904d213",
-      "source": "x",
-      "title": "@fordnation You call the workers world class but you allow the @WSIB to treat them like criminals when they are injured! Cutting 500 staff and closing 10 office while sitting on a $40 billion surplus!",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-19",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/fightthewcb/status/2112140043896729938"
-    },
-    {
-      "id": "0181589e160b",
-      "source": "x",
-      "title": "A missed WSIB clearance or expired insurance certificate can cost an Ontario contractor a job. RivetRoster collects and tracks subcontractor credentials, then alerts teams before licences, coverage, o",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-19",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/newonpolsia/status/2111890534298202285"
     }
   ],
-  "generated": "2026-10-20"
+  "generated": "2026-10-21"
 }
