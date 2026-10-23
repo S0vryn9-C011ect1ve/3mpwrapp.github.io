@@ -1,40 +1,42 @@
 {
-  "total": 1853,
+  "total": 1959,
   "verified": 5,
   "by_community": {
-    "disability": 783,
-    "accessibility": 487,
-    "injured_workers": 455,
-    "welfare_social": 418,
-    "elderly": 119,
+    "disability": 831,
+    "accessibility": 525,
+    "injured_workers": 479,
+    "welfare_social": 443,
+    "elderly": 122,
     "veterans": 42,
     "public_allies": 8,
     "vulnerable_communities": 2
   },
   "by_jurisdiction": {
-    "CA-ON": 778,
-    "INTL": 753,
-    "CA-FED": 198,
-    "CA-AB": 82,
+    "CA-ON": 827,
+    "INTL": 776,
+    "CA-FED": 219,
+    "CA-AB": 92,
     "CA-BC": 24,
     "CA-NT": 7,
     "CA-YT": 5,
     "CA-TERR": 2,
     "CA-SK": 2,
+    "CA-MB": 2,
     "CA": 1,
-    "CA-NL": 1
+    "CA-NL": 1,
+    "CA-NU": 1
   },
   "by_source": {
-    "x": 1146,
+    "x": 1249,
     "reddit": 449,
-    "news": 241,
+    "news": 244,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 1836,
+    "unverified_social": 1942,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -43,230 +45,218 @@
   },
   "recent": [
     {
-      "id": "news-ef8a91e0bddb",
-      "source": "news",
-      "title": "Huntingdon Co. senior center to reopen after months-long closure - WJAC",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-21",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWWJaUHRtaWlUUnRld1RHcFVHVllmMS1qT3hPQ0VDTG1jd3liZXZyNkpaWlNhb0tVUDc3NFZzUGNUb2tfbTNRWWxRNWdlaDdDcmVxN0VMWnBLVVlIZzlnbkpNeHNMQ2t4T2N5TXFTOFNYTDlNS1dsdjhyLXZsbUR5aEFpTks5d1lhZWRFT2FFY2Q3eTZfWWFWYQ?oc=5"
-    },
-    {
-      "id": "news-0bf17904c9ed",
-      "source": "news",
-      "title": "Vinh Long province issues new regulations on compensation, support, and resettlement when the State reclaims land. - Vietnam.vn",
+      "id": "5c061cc76710",
+      "source": "x",
+      "title": "@ToddLlewellyn Another reason to switch to Medicare for All.  Get rid of workers comp. Canada manages just fine without denying employees access to healthcare for workers injured on the job.",
       "communities": [
         "injured_workers"
       ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-21",
+      "jurisdiction": "CA-FED",
+      "date": "2026-10-22",
       "flywheels": [
-        "evidence",
         "knowledge"
       ],
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdlRHbVVJWVExV3BTa1htMUdFNXhIZUpwbmtzbWU0VmdVb3JTVXl3YXBlMHh2UUdsZnNVYnBHNkIycDc4WjlsTkJJOGxEY01ELWlIZzRHajZZZW4tczNIT0kwRkhNWEtTTWljR2JuVUFfZXMzVnRxekh2TkpTSlFOdEU5a2Zmd3pSZWJkZkw0bTJXVkk3OU5EWUdRVmFZcXVqM0xoSXljLTFBT3BfRXlqSU84U3ozZw?oc=5"
+      "url": "https://x.com/DogMomToIsabell/status/2112654899305689591"
     },
     {
-      "id": "news-2606e14b4eb5",
-      "source": "news",
-      "title": "Man charged with elder abuse, kidnapping after allegedly injuring father before hours-long standoff - WPTA | 21Alive | Fort Wayne, IN",
+      "id": "14decc2c01bd",
+      "source": "x",
+      "title": "📢 Standing together at Queen’s Park to speak out against WSIB office closures and fight for accessible services, workers’ rights, and the support injured workers deserve.  Joined by Jamie West, Lise V",
       "communities": [
-        "elderly"
+        "injured_workers",
+        "accessibility"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "flywheels": [
-        "evidence",
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYU9QN0JHQV80WTN1RHUyVUxOcmx0TUtMWHNnd1M5ZGdMcjlqOGNxbjNNUGFhTERqZzAycXpVd0M2VE1sOW8yOWVsUlh0eFVQLXpuUlpfc0tSdS1EdjhVR21ndC10Q1A0RlNkSkxJVmllWVFOQ0U3TFJjM2JhWWhDU2psckF1TVktM05hdko1VmhvQlVXV2hDalBFVUl1RmlGaG45RjQybTJvWFE4S3hmdUZhR3dfX0pGaXZFSlQzYjItTTRrZl9ManIyUzZDNzNyWlhIRNIB6AFBVV95cUxPV0xtMEpqaWtCLUdEaXoyU1NzdUt0a2t3UU02U3F2WUF6anMtbGJWODFFLVpaRnhnREc2ZHN0SjA2SUhHRDRMTk5WUENmdjZvS21IR3dUTWo3dTFmWnVoaFFJOXl4RnF6M1NxUjI5VC1JakRfamwtc2Jfek5MUnJZNXRQamh2WDdGS3lHODhCd0NXU0FEWnFHU2lkQnprV1NhSmhROGtzb0gyam5VUE5obmZUaEdsUmVzRTktWVl1NHF5WFdxWTVrVGltakxacThlMnNoVGFHVHNLNXZpbUNaeWlpSG10Zzh0?oc=5"
+      "url": "https://x.com/CUPEOntario/status/2112629102842610055"
     },
     {
-      "id": "news-911d71455239",
-      "source": "news",
-      "title": "J&K Handicapped Association Seeks Action on Long-Pending Disability Rights Demands - Brighter Kashmir",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-21",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeldvbGpaSTlpRWVpaURWRXFSVlFfOTdqc2NncHVON1Q3dFlxbzJFdjQ5V191V19yak9fbVNZQlhnMG1TSmxPdXp0THIzVG53dFVZMXNxamhET01HajVyYkVEZU5rYTliLVZOSVN5SDVIMzFCeV9kNEExWmJ3Q3BwVkluVDlwZktJcjAwNTc3NE5EQXpZTlZGTVl3YVkwZEhDLUtNdEZFYUZ5OFl0S2c?oc=5"
-    },
-    {
-      "id": "news-2f3c72e774df",
-      "source": "news",
-      "title": "Long-Term Intravenous Lidocaine Relatively Safe for Patients With Chronic Pain - Clinical Pain Advisor",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-21",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYUNPalp1cDBJZ0pOdzJUT0NUUG1ZVmt1RE15U2JkektjbDc0NC1KVW5VNE1wVHFyVXpmd2YtQlJaWkNtQkZTTjd0Zlh3Mm9maGlJQ0FDMHFZRHU2YWo1MDg0bkxlQnBuMS1hWmV0Y0JfSzJjTHFxamtrZll1ODJTdS15dmJFS2oxZEYw?oc=5"
-    },
-    {
-      "id": "news-5db23751cdb0",
-      "source": "news",
-      "title": "Immigration, the Long-Term Care Workforce, and Elder Outcomes in the US - The University of Chicago Press: Journals",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-21",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MbVA4Rkx5V0ljMWxjY01WbC1TQ3pyYnhRUFdQYW1DWjl3WmVpMkpGaDRvck9yLWVYSWlyNUc0NzZ4REd3bENxd2JRaGZSSDNVeDdjZkl6Z0lRUDB1SFBLMzRn?oc=5"
-    },
-    {
-      "id": "news-d4698f92f0d4",
-      "source": "news",
-      "title": "Midwest Access: Senior Moments - Types of Long-Term Care and What is Best for Your Loved One? - KTTC",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-21",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZnNMd1k5a0xyNl9QbWNKMm84TWplNy1pSTBKSUQyQjY0ak8ySWJyUVFLOVk5SERUMjhzMm5ZbnhFZjdyRndsWXhmR1llSlk3THZFd3dnUU9HOFJhWVJKRThGWnFSOURwS1BvZzZiMWtGb01fVTAwVVlRWTMyS2cwbkZQcVM2WGs3cXhjTHdiRGUydVNMYVVkWktqZ2lHV3owZTZYc3BfSXFHOUkxSTRCYm55WUZnSUVz?oc=5"
-    },
-    {
-      "id": "news-05add491e791",
-      "source": "news",
-      "title": "Justice Department Backs Off Disability Rights Enforcement - Disability Scoop",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-21",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQelJlRjNNSnlLTjV1OGFWaVQza1dnOVZyRmRKZFlxbGRqV3FNRHkxN1hHM2pUWGY4QzU3bkJXZTY4LVlNZDNkY3dEcWpPSXRCVnpuWXRyaVVaM3RIQ3h3Qklod1R5NlprVDQ2dHAzNW52M2tLcGVNZjlQZnBENzQ0cFN0VHVXMjBjdHhSMDYyOVlTanFISThFUjF3aGQ0a212ZFRFOFI0NzFQSVp5?oc=5"
-    },
-    {
-      "id": "news-91c7af76b05c",
-      "source": "news",
-      "title": "UK drivers mis-sold car finance face longer wait for compensation payouts - Yahoo Finance UK",
+      "id": "70fb5489462b",
+      "source": "x",
+      "title": "Injured workers deserve BETTER. Period. 😤⚖️  You give a company valuable years of your life. You show up, work hard, do your job, and help build their business.  Then you get hurt on the job, and sudd",
       "communities": [
         "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-21",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdGRSZVUzSDZyRVBjU3RlejctSkNmQXZkdnUzTExfbldWNWRuTm84REZJZkd1NDBkR1NZT1ozVHdINThpS0xQal9hV2dvUWFsQkJjanM5b003alZDdnpjS0g1czZSb190R1RCaWt4cTBQb0Q4MEVsYzU0T0o2RlNEaUcyZkdJYUk?oc=5"
-    },
-    {
-      "id": "news-257ca1d95da4",
-      "source": "news",
-      "title": "A Tsunami of Disability Is Coming as a Result of ‘Long COVID’ - Scientific American",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "CA-BC",
-      "date": "2026-10-21",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTm5oZUo2Y1RpY241U1NTdHdmOGktcjZQbnU1M3RhbnY0ME1Hc3VkMFlKVldRMzJMZWNoSTRPVmtPNXJKY2Q5cjhJRzFPOVlkQk9rWFFJVGFYQ09ZcS1NTUVFOEhJeXVkTEJtcFhYOWhfVjExTy1IR1E1ZWlwQUpKNjJZcngwVzB4V2pNNDRXOTQzU2hoeTVZNkR5ZWs3NTV1b1kyLThWZ2M3ZE9JUGlvM3NYeWJmQQ?oc=5"
-    },
-    {
-      "id": "news-0f3a5d1871f2",
-      "source": "news",
-      "title": "Shifting Focus to Long-Term Disability and Novel Therapeutic Pathways in Multiple Sclerosis - Pharmacy Times",
-      "communities": [
-        "disability"
       ],
       "jurisdiction": "INTL",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "flywheels": [
-        "evidence",
         "knowledge"
       ],
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONDV1TVE4amJhbDBPNjlFX3YwWXNNMEtLY3B1VVkyYkpVbzhzcTMyajVIQzl3cVVmelBHeWEtd3VHNG9teUlMelliNHNYdDR2c2lPV2E4Z2N0dXlYdnlFMFhvTTRodW02emhiQVlVRlFlcXZkN2NZZEJpZEJXa1pMNGtSRHJuSWExdUVNZnlHWEpRSGxIWVJ5dTlZY1BLX2JSTGlwLW1MYVVrZ21xVVpGbk0yWE1rdU1HOE9FQzg5SFFTYjBx?oc=5"
+      "url": "https://x.com/RohanLawPC/status/2112240691065573630"
     },
     {
-      "id": "news-6d7f8090d947",
-      "source": "news",
-      "title": "The ‘activity trap’: fear of losing benefits is stopping some disabled people from exercising - The Conversation",
+      "id": "5f4ee592e4ea",
+      "source": "x",
+      "title": "@StephenBlais Liberal MPP speaking at the Bill 105 Committee hearings about how cruel the @WSIB can be to all injured workers by forcing them to endure needless administrative hurdles to get basic hel",
       "communities": [
-        "disability"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-20",
+      "date": "2026-10-22",
       "flywheels": [
-        "evidence",
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb2N4cjRoUGpRTUxMSnNfeUhyTG5yQmM3cGd4QnpOWURsOTNSN3ZZOWRUSExBTUUzU0RoQ2o3VkE0YV8tWWgtYTh0T2c3SGZYajFzd3owUXJweW04QVZKcFBOY25zYWg1MDM3Y0tDcWFJVWh4ZDVPbDM0MzQ5MFN6RXNXRklqYklPd2llSnJrLXRjcFBjQkxBZWhQbkNNUVVfek5IYXhPWlVkRzRHV29sZmRzcExIckkzLVNqRjZZeU9XUzQ?oc=5"
+      "url": "https://x.com/fightthewcb/status/2113238952031498390"
     },
     {
-      "id": "news-4fb024d0775c",
-      "source": "news",
-      "title": "Immunic to showcase phase 2 long-term MS disability data at MSToronto2026 - Proactive financial news",
+      "id": "fa919d18a677",
+      "source": "x",
+      "title": "WSIB job cuts causing a ‘crisis,’ union says https://t.co/qYgQjAJmRn",
       "communities": [
-        "disability"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-20",
+      "date": "2026-10-22",
       "flywheels": [
-        "evidence",
-        "knowledge"
+        "collective_action",
+        "evidence"
       ],
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOODZncFVTRTktYmVzcmZjSlNnMW1mOGJEeUFnTGNjU0ZVSFZQQjZod2tla0Y5ZDY4Q2hNaUREbE43RVlOSVU0LWtXcjlpZjFFWHpmMGI2Y08xMXhPT2ZOWVoyNG9rSDdrMGFQTTh1MmxBSDY3ZDhfN0JueGlFeGFhZF90dG8xY3RqbG01Y21udEc4S3VnT2hUQXhGY2F5cjhwZnUwRjhKaGl5LUVWZE9WMGlLNUV3SVNrYmM0X3RoRm40X3BLTVR2Rm43X1dVbHJVckE?oc=5"
+      "url": "https://x.com/BNNBloomberg/status/2113208861649690837"
     },
     {
-      "id": "news-d66d633e1ab3",
-      "source": "news",
-      "title": "Man charged with elder abuse, kidnapping after allegedly injuring father before hours-long standoff - WAGM",
+      "id": "0ee589edc471",
+      "source": "x",
+      "title": "WSIB job cuts causing a ‘crisis,’ union says https://t.co/KbgoSarFnS",
       "communities": [
-        "elderly"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-20",
+      "date": "2026-10-22",
       "flywheels": [
-        "evidence",
-        "knowledge"
+        "collective_action",
+        "evidence"
       ],
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMVN6T3RaSE02eXF1czdmaGZkWWdkbVFtQXc3dnhNR2J2dEpyQTRWRnZMVnRxU1Q0TjB5cXgtM2tZbElwR2hGSkcySU1hYkU4RE4zbmpIcWRzSlMzUnVtRDRRUXdXbjFFaHF4UHdGQk1CRFRVRG9jRkNZbGxqRTFuWkhJU1B5MGcxd2dHNzB3dXEyY0U4eFpOMFV0V2stWWdXUXgyYURJZ2lCWDVTVTZndFU0b1VDeXVrNHpnRWFTRHI2aXRqWWQwVThKUFphUdIB4gFBVV95cUxQblZTUmpCU05iWU93MVVZaWtxQU1hWlFXMFRlbW9BYk9adGhxQmRYRzZsbktpd2g5ZnpOUE9GVFdUVlBCTEFhY05iQlFJTDFIQURBamVTME5BZ05pazMtLXZCQkxqMzJnRHZxMUlMUEJZOS0zMnRDSE5TNERVZ3pDWnYtN0piTHktTnlxUXBES3loRW0tMTREM2x4RXFnTjRhdkhKN0QyZkloaXBmSElQUDlINFBxeVVIWFlEUUVUTVBFcmFqLVgxRS1CdGZFa2J5M1BVdi1kQ1dHTXJrZVEzUVdB?oc=5"
+      "url": "https://x.com/CTVNewsNorthern/status/2113182326809149494"
     },
     {
-      "id": "news-ccebc9cd5190",
-      "source": "news",
-      "title": "Opinion | The military’s stance on disabled Americans no longer makes sense - The Washington Post",
+      "id": "21d481bdeaed",
+      "source": "x",
+      "title": "@WSIB It was a week before Christmas &amp; Ralph Singer cuts of my lost wage benefit &amp; denies all prescriptions for the year...  I was happy to hear 500 nasty people lost their job @WSIB's sinecur",
       "communities": [
-        "disability"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-20",
+      "date": "2026-10-22",
       "flywheels": [
-        "evidence",
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkZZaUZwUFdGcDBiaFRuaXNPX205b1NJaFdTQnM0eFZGLXhvZG1sWkhSN1U4MEZSUmZJbHFEY3UzU0tJQng2TmhsUnJwZ0k5REQtOFFNUlFzd0RBMzJiTzFjdFBPdDRpVW5Sb19KUTNuQ1JMd3l0UFZJV2NRbGRqTFBDUF9xanBGMDJfelVIWkNPNnlwSGxQLXRn?oc=5"
+      "url": "https://x.com/DaveOakes2022/status/2113135107444019404"
+    },
+    {
+      "id": "fd996bfda0dd",
+      "source": "x",
+      "title": "@liberal_party You get hurt at work then government fucks you because they hire ignoble people  Government insurance is useless close the WSIB         if injured workers can't get it what good is it  ",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-22",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/DaveOakes2022/status/2113129722112860644"
+    },
+    {
+      "id": "76736093423b",
+      "source": "x",
+      "title": "@fordnation You are a traitor, what's on your phone, where's my WSIB benefits, how much of our stolen tax dollars are you spending to go after heros Lich &amp; Barber, you are a maniac..!!!",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-22",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/Frizelburger/status/2113087666300289425"
+    },
+    {
+      "id": "305c0afda33b",
+      "source": "x",
+      "title": "@radiogirl985 @fordnation @MonteMcNaughton Dr S. Ron Ellis was the Chair of the Ontario Workplace Safety &amp;  Insurance Appeals Tribunal . He wrote an excellent book on WSIB called “Unjust by Design",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-22",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/deeb_nina/status/2113077588000178368"
+    },
+    {
+      "id": "357d4436b422",
+      "source": "x",
+      "title": "@zaidiekb Of course not. Many factors e.g. Ford’s changes to the 2018 rental guidelines caused rents to increase 40%.  His contracting U.S, corporations increased unemployment. Example, WSIB jobs lost",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-22",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/KathleenAldrid9/status/2113054685792002064"
+    },
+    {
+      "id": "585392883535",
+      "source": "x",
+      "title": "@jamiewestndp Most dangerous employer with 4 Workplace fatalities. Yet ZEREO criminal charges and how much did the @WSIB gives them in safety rebates?  We don't know as the @WSIB is refusing to tell u",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-22",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/fightthewcb/status/2113048577794597014"
+    },
+    {
+      "id": "1e1bd38ef7d4",
+      "source": "x",
+      "title": "#ONpoli #DougFord @fordnation @MonteMcNaughton #WSIB #audit #taxpayers #money #accountability",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-22",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/radiogirl985/status/2113024102675988661"
+    },
+    {
+      "id": "fb192330629a",
+      "source": "x",
+      "title": "Despite promises from WSIB that there will be no disruptions; the number of unaddressed claims has increased from 400 to nearly 6000!!!  This is why MPP Lise Vaugeois and I have called on the Auditor ",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-22",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/jamiewestndp/status/2112681333029790031"
+    },
+    {
+      "id": "4f21c8953ccf",
+      "source": "x",
+      "title": "@fordnation Fix WSIB if you really care about worker !! injured workers are suffering from WSIB behaviour  there been treated like criminals",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-22",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/I0452/status/2112981788578513321"
     }
   ],
-  "generated": "2026-10-21"
+  "generated": "2026-10-22"
 }
