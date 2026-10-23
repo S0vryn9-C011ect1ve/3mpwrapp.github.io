@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-23",
+  "timestamp": "2026-10-23T16:40:32.154Z",
+  "count": 8,
+  "minScore": 3.5,
+  "items": [
+    {
+      "title": "The Disability Bulletin",
+      "link": "https://linktr.ee/thedisabilitybulletin",
+      "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
+      "score": 10,
+      "pubDate": "2026-10-23T16:40:32.119Z"
+    },
+    {
+      "title": "What BC Farmers Are Asking for This Election",
+      "link": "https://thetyee.ca/News/2026/10/23/What-BC-Farmers-Asking-Election/",
+      "description": "With some of the highest land costs in Canada, BC growers say they need more farmland protected to keep local food affordable.",
+      "score": 14.5,
+      "pubDate": "Fri, 23 Oct 2026 07:10:00 +0000"
+    },
+    {
+      "title": "Manitoba Government Invests $5 Million to Expand Autism Services for Children and Families",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75738",
+      "description": "",
+      "score": 12.5,
+      "pubDate": "Wed, 14 Oct 2026 13:58:00 CDT"
+    },
+    {
+      "title": "Late stage capitalism is ruining Halloween in Canada",
+      "link": "https://rabble.ca/economy/late-stage-capitalism-is-ruining-halloween-in-canada/",
+      "description": "",
+      "score": 10.5,
+      "pubDate": "Thu, 22 Oct 2026 20:04:14 +0000"
+    },
+    {
+      "title": "Manitoba Government Invests $73,793 in Equipment Upgrades at Hobbs Manor in Brandon",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75861",
+      "description": "",
+      "score": 7.5,
+      "pubDate": "Thu, 22 Oct 2026 15:00:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Invests $67,000 toward Winkler Parks and Recreation Plan",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75737",
+      "description": "",
+      "score": 7.5,
+      "pubDate": "Wed, 14 Oct 2026 13:20:00 CDT"
+    },
+    {
+      "title": "Most of Ontario’s public school teachers will vote to strike next month",
+      "link": "https://rabble.ca/labour/most-of-ontarios-public-school-teachers-will-vote-to-strike-next-month/",
+      "description": "",
+      "score": 4,
+      "pubDate": "Thu, 22 Oct 2026 21:01:05 +0000"
+    },
+    {
+      "title": "New Retention and Recruitment Office Helps Bring 18 Physicians to Prairie Mountain Health",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75862",
+      "description": "",
+      "score": 3.5,
+      "pubDate": "Thu, 22 Oct 2026 13:47:00 CDT"
+    }
+  ]
+}
