@@ -1,21 +1,21 @@
 {
-  "total": 1959,
+  "total": 2034,
   "verified": 5,
   "by_community": {
-    "disability": 831,
-    "accessibility": 525,
-    "injured_workers": 479,
-    "welfare_social": 443,
-    "elderly": 122,
-    "veterans": 42,
+    "disability": 858,
+    "accessibility": 552,
+    "injured_workers": 500,
+    "welfare_social": 461,
+    "elderly": 127,
+    "veterans": 43,
     "public_allies": 8,
-    "vulnerable_communities": 2
+    "vulnerable_communities": 3
   },
   "by_jurisdiction": {
-    "CA-ON": 827,
-    "INTL": 776,
-    "CA-FED": 219,
-    "CA-AB": 92,
+    "CA-ON": 873,
+    "INTL": 797,
+    "CA-FED": 224,
+    "CA-AB": 95,
     "CA-BC": 24,
     "CA-NT": 7,
     "CA-YT": 5,
@@ -27,16 +27,16 @@
     "CA-NU": 1
   },
   "by_source": {
-    "x": 1249,
+    "x": 1320,
     "reddit": 449,
-    "news": 244,
+    "news": 248,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 1942,
+    "unverified_social": 2017,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -45,218 +45,218 @@
   },
   "recent": [
     {
-      "id": "5c061cc76710",
+      "id": "88a1c1f1361b",
       "source": "x",
-      "title": "@ToddLlewellyn Another reason to switch to Medicare for All.  Get rid of workers comp. Canada manages just fine without denying employees access to healthcare for workers injured on the job.",
+      "title": "CFIB welcomes the Ontario government announcement today that the average Workplace Safety and Insurance Board (WSIB) premium rate will decrease again in 2027. Most of our 40,000 members in all sectors",
       "communities": [
         "injured_workers"
       ],
-      "jurisdiction": "CA-FED",
-      "date": "2026-10-22",
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-23",
       "flywheels": [
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://x.com/DogMomToIsabell/status/2112654899305689591"
+      "url": "https://x.com/cfibON/status/2113281525173112983"
     },
     {
-      "id": "14decc2c01bd",
+      "id": "bcf8eda8cd9e",
       "source": "x",
-      "title": "📢 Standing together at Queen’s Park to speak out against WSIB office closures and fight for accessible services, workers’ rights, and the support injured workers deserve.  Joined by Jamie West, Lise V",
+      "title": "Cutting costs to business and screwing everyday Ontarians!  Why do you HATE injured workers so much!   Our only crime was to be injured by our employer's Workplace!  One day a judge will see that the ",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-23",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/fightthewcb/status/2113599115422532022"
+    },
+    {
+      "id": "689549aceedf",
+      "source": "x",
+      "title": "@WSIB while their privacy policy states they are not using AI, the WSIB is actually DOUBLING DOWN and moving ahead with FULL implementation of AI in decision-making and all other aspects.   There is a",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-23",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/fightthewcb/status/2113596272447828089"
+    },
+    {
+      "id": "309d2b64cbc3",
+      "source": "x",
+      "title": "👀 4 🦌  Stagg 24b 1️⃣3️⃣0️⃣  Stagg 26b 1️⃣2️⃣5️⃣  🦅sp  6️⃣0️⃣  WFP sp  1️⃣3️⃣0️⃣  WSiB  2️⃣0️⃣5️⃣  EHTSBx2  8️⃣0️⃣/1️⃣5️⃣0️⃣🍐  EHTSiB  1️⃣1️⃣0️⃣  8️⃣5️⃣0️⃣ lot  No ♻️atm https://t.co/9e84VouWqw",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-23",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/RareBourbonHub/status/2113574910182240287"
+    },
+    {
+      "id": "c008a1459261",
+      "source": "x",
+      "title": "Small businesses power Ontario’s economy, and we’re making sure they can keep growing.  This #SmallBusinessWeek, WSIB is delivering $160 million in premium savings, while our government is cutting sma",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-23",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/RobFlackEML/status/2113475418074271875"
+    },
+    {
+      "id": "cec2cc4c5fba",
+      "source": "x",
+      "title": "Ontario HVAC contractors shouldn’t lose jobs to missed renewals and paperwork. I built Rivet &amp; Rafter to track deadlines and manage licensing, insurance, safety, and WSIB documents for independent",
       "communities": [
         "injured_workers",
-        "accessibility"
+        "veterans"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/CUPEOntario/status/2112629102842610055"
+      "url": "https://x.com/newonpolsia/status/2113468118781800646"
     },
     {
-      "id": "70fb5489462b",
+      "id": "0acd2690c2cd",
       "source": "x",
-      "title": "Injured workers deserve BETTER. Period. 😤⚖️  You give a company valuable years of your life. You show up, work hard, do your job, and help build their business.  Then you get hurt on the job, and sudd",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-10-22",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/RohanLawPC/status/2112240691065573630"
-    },
-    {
-      "id": "5f4ee592e4ea",
-      "source": "x",
-      "title": "@StephenBlais Liberal MPP speaking at the Bill 105 Committee hearings about how cruel the @WSIB can be to all injured workers by forcing them to endure needless administrative hurdles to get basic hel",
+      "title": "A strong health and safety culture is reflected in the decisions people make every day. Congratulations to Pronghorn Controls, winner of The WSIB Award for Canada’s Best Health &amp; Safety Culture at",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/fightthewcb/status/2113238952031498390"
+      "url": "https://x.com/COSmagazine/status/2113459142157320349"
     },
     {
-      "id": "fa919d18a677",
+      "id": "57beef7c5fbd",
       "source": "x",
-      "title": "WSIB job cuts causing a ‘crisis,’ union says https://t.co/qYgQjAJmRn",
+      "title": "@depthofghost That's an incredible haul.  I can't speak to the ER12 or WSiB, but just wait until you try the Big Easy. It's completely unique.   Congratulations.",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "flywheels": [
-        "collective_action",
         "evidence"
       ],
-      "url": "https://x.com/BNNBloomberg/status/2113208861649690837"
+      "url": "https://x.com/baldhead_j/status/2113449847483191333"
     },
     {
-      "id": "0ee589edc471",
+      "id": "248d665ae80f",
       "source": "x",
-      "title": "WSIB job cuts causing a ‘crisis,’ union says https://t.co/KbgoSarFnS",
+      "title": "Small businesses power Ontario’s economy, and we’re making sure they can keep growing. This #SmallBusinessWeek, WSIB is delivering $160M in savings, while our govt is cutting small business taxes by $",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "flywheels": [
-        "collective_action",
         "evidence"
       ],
-      "url": "https://x.com/CTVNewsNorthern/status/2113182326809149494"
+      "url": "https://x.com/DeepakAnandMPP/status/2113439909952593970"
     },
     {
-      "id": "21d481bdeaed",
+      "id": "5e61f9bd1910",
       "source": "x",
-      "title": "@WSIB It was a week before Christmas &amp; Ralph Singer cuts of my lost wage benefit &amp; denies all prescriptions for the year...  I was happy to hear 500 nasty people lost their job @WSIB's sinecur",
+      "title": "@TrevorJonesCKL @memafoods @ninatangri @KingaSurmaMPP @WSIB WSIB drives heavily injured workers to suicide.  It needs to be dismantled, and rebuilt from the ground up.",
+      "communities": [
+        "disability",
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-23",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/ghost0zz5143458/status/2113432632679625141"
+    },
+    {
+      "id": "6ec3f4fc4c7d",
+      "source": "x",
+      "title": "Small businesses are the heart of King and Vaughan.  This #SmallBusinessWeek, Ontario is saving businesses $160 million with lower WSIB premiums, building off @ninatangri and @fordnation’s 30% small b",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/DaveOakes2022/status/2113135107444019404"
+      "url": "https://x.com/Sflecce/status/2113414770174894561"
     },
     {
-      "id": "fd996bfda0dd",
+      "id": "a8614017b84e",
       "source": "x",
-      "title": "@liberal_party You get hurt at work then government fucks you because they hire ignoble people  Government insurance is useless close the WSIB         if injured workers can't get it what good is it  ",
+      "title": "Imagine championing the loss of WSIB jobs as a way to “keep workers on the job! Make it make sense! @CUPEOntario",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/DaveOakes2022/status/2113129722112860644"
+      "url": "https://x.com/waltonmom/status/2113400778568110080"
     },
     {
-      "id": "76736093423b",
+      "id": "d25681f28424",
       "source": "x",
-      "title": "@fordnation You are a traitor, what's on your phone, where's my WSIB benefits, how much of our stolen tax dollars are you spending to go after heros Lich &amp; Barber, you are a maniac..!!!",
+      "title": "Ontario is continuing to lead the country in lowering costs for businesses!  At @memafoods today with Ministers @ninatangri and @KingaSurmaMPP, where we highlighted the @WSIB’s latest premium rate red",
+      "communities": [
+        "disability",
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-23",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/TrevorJonesCKL/status/2113319849724121405"
+    },
+    {
+      "id": "abca9ba8cde9",
+      "source": "x",
+      "title": "📉 The lowering of WSIB premium rates for 2027 is welcome news!  👏 PCA applauds this reduction, which builds on significant savings delivered over the past several years and allows contractors to reinv",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/Frizelburger/status/2113087666300289425"
+      "url": "https://x.com/PCACanada/status/2113386378138673503"
     },
     {
-      "id": "305c0afda33b",
+      "id": "3ede5b4b643a",
       "source": "x",
-      "title": "@radiogirl985 @fordnation @MonteMcNaughton Dr S. Ron Ellis was the Chair of the Ontario Workplace Safety &amp;  Insurance Appeals Tribunal . He wrote an excellent book on WSIB called “Unjust by Design",
+      "title": "When Ontario businesses grow, workers and families benefit.  With WSIB premium rate cuts saving businesses $160 million next year and our government reducing small business taxes by $1.1 billion, we’r",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/deeb_nina/status/2113077588000178368"
-    },
-    {
-      "id": "357d4436b422",
-      "source": "x",
-      "title": "@zaidiekb Of course not. Many factors e.g. Ford’s changes to the 2018 rental guidelines caused rents to increase 40%.  His contracting U.S, corporations increased unemployment. Example, WSIB jobs lost",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-22",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/KathleenAldrid9/status/2113054685792002064"
-    },
-    {
-      "id": "585392883535",
-      "source": "x",
-      "title": "@jamiewestndp Most dangerous employer with 4 Workplace fatalities. Yet ZEREO criminal charges and how much did the @WSIB gives them in safety rebates?  We don't know as the @WSIB is refusing to tell u",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-22",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/fightthewcb/status/2113048577794597014"
-    },
-    {
-      "id": "1e1bd38ef7d4",
-      "source": "x",
-      "title": "#ONpoli #DougFord @fordnation @MonteMcNaughton #WSIB #audit #taxpayers #money #accountability",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-22",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/radiogirl985/status/2113024102675988661"
-    },
-    {
-      "id": "fb192330629a",
-      "source": "x",
-      "title": "Despite promises from WSIB that there will be no disruptions; the number of unaddressed claims has increased from 400 to nearly 6000!!!  This is why MPP Lise Vaugeois and I have called on the Auditor ",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-22",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/jamiewestndp/status/2112681333029790031"
-    },
-    {
-      "id": "4f21c8953ccf",
-      "source": "x",
-      "title": "@fordnation Fix WSIB if you really care about worker !! injured workers are suffering from WSIB behaviour  there been treated like criminals",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-22",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/I0452/status/2112981788578513321"
+      "url": "https://x.com/zeeinmilton/status/2113374993794916357"
     }
   ],
-  "generated": "2026-10-22"
+  "generated": "2026-10-23"
 }
