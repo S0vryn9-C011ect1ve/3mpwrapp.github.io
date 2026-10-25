@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-25",
+  "timestamp": "2026-10-25T15:44:25.134Z",
+  "count": 3,
+  "minScore": 3.5,
+  "items": [
+    {
+      "title": "The Disability Bulletin",
+      "link": "https://linktr.ee/thedisabilitybulletin",
+      "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
+      "score": 10,
+      "pubDate": "2026-10-25T15:44:25.131Z"
+    },
+    {
+      "title": "Workers mobilize against Bill C-39 across Canada",
+      "link": "https://rabble.ca/labour/workers-mobilize-against-bill-c-39-across-canada/",
+      "description": "",
+      "score": 10.5,
+      "pubDate": "Fri, 16 Oct 2026 19:06:35 +0000"
+    },
+    {
+      "title": "Manitoba Public Health Declares Measles Outbreak Over",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75797",
+      "description": "",
+      "score": 12,
+      "pubDate": "Fri, 16 Oct 2026 14:38:00 CDT"
+    }
+  ]
+}
