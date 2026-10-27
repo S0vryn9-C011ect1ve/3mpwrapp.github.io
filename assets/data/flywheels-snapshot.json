@@ -1,21 +1,21 @@
 {
-  "total": 2204,
+  "total": 2272,
   "verified": 5,
   "by_community": {
-    "disability": 913,
-    "accessibility": 626,
-    "injured_workers": 538,
-    "welfare_social": 498,
-    "elderly": 137,
-    "veterans": 43,
+    "disability": 938,
+    "accessibility": 653,
+    "injured_workers": 555,
+    "welfare_social": 513,
+    "elderly": 140,
+    "veterans": 44,
     "public_allies": 8,
     "vulnerable_communities": 3
   },
   "by_jurisdiction": {
-    "CA-ON": 965,
-    "INTL": 858,
-    "CA-FED": 236,
-    "CA-AB": 100,
+    "CA-ON": 1005,
+    "INTL": 881,
+    "CA-FED": 240,
+    "CA-AB": 101,
     "CA-BC": 24,
     "CA-NT": 7,
     "CA-YT": 5,
@@ -27,16 +27,16 @@
     "CA-NU": 1
   },
   "by_source": {
-    "x": 1478,
+    "x": 1540,
     "reddit": 449,
-    "news": 260,
+    "news": 266,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 2187,
+    "unverified_social": 2255,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -45,219 +45,216 @@
   },
   "recent": [
     {
-      "id": "4a16b7b8a5a7",
+      "id": "ba8a3145372f",
       "source": "x",
-      "title": "@CaptainDick12 WSIB protects both businesses &amp; workers- sometimes one group more than another. WSIB is compulsory insurance to cover injured workers who wud otherwise have to sue for compensation.",
+      "title": "@LiseVaugeois does an excellent job of explaining how dealing with the @WSIB is living a life of purgatory! She also mentions how fair #Bill86 was for workers AND employers, but @fordnation dismissed ",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/Nahanni_/status/2113999592224334211"
+      "url": "https://x.com/fightthewcb/status/2114688495704785163"
     },
     {
-      "id": "8d096c578935",
+      "id": "ec084e0ae8f1",
       "source": "x",
-      "title": "@ukesuicide I Am 16. Just turned Wsib me hapy Biryhday or else we Both get ear cancer",
+      "title": "What Rights Do Injured Workers Have After an Indiana Trench-Collapse Accident?  https://t.co/HUgilDjPrl",
       "communities": [
         "injured_workers"
       ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-25",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/EVILsecretmello/status/2114277929857470601"
-    },
-    {
-      "id": "9570595dd085",
-      "source": "x",
-      "title": "@MuddyWadders @WokerJay @CP24 They can claim PTSD and be on WSIB until retirement.",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-25",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/CDNinvestigator/status/2114193711756186061"
-    },
-    {
-      "id": "bef0b9fd93cb",
-      "source": "x",
-      "title": "First we must address the history of abuses of workers in Toronto in regards to housing and the working poor  A city of workers unhoused.  We need to change the tax system , WSIB look at growing cases",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-25",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/SmilingFlower/status/2114156841923952988"
-    },
-    {
-      "id": "522ecab13d9b",
-      "source": "x",
-      "title": "If I could address one issue as a councillor, it would be homelessness. Through a housing-first approach, we can deliver dignity to people in need and ensure our public spaces are safe and welcoming. ",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-25",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/beynate/status/2114139407812845658"
-    },
-    {
-      "id": "e038170f8c0b",
-      "source": "x",
-      "title": "@WokerJay @CP24 And can go on WSIB at anytime, full pay until pension kicks in.   Lots of great options for him.",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-25",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/CDNinvestigator/status/2114121765219627160"
-    },
-    {
-      "id": "53cd679a5bc2",
-      "source": "x",
-      "title": "@DrAlexMHorton @fordnation Or gets his American run WSIB to cut people off despite injuries.",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-25",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/grannyk666/status/2114063970336485659"
-    },
-    {
-      "id": "76fcc6fb90e9",
-      "source": "x",
-      "title": "Yes the WSIB is completely corrupt as it was run by the provincial Ontario @fordnation Injured workers will never see a reimbursement for all the fraud either.  All Ford says is use MAID.",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-25",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/DrAlexMHorton/status/2114003402321445295"
-    },
-    {
-      "id": "d286bf549f8e",
-      "source": "x",
-      "title": "@DrAlexMHorton No one asks how did the @WSIB get these so called reductions.  Eventually it will be shown the WSIB has committed FRAUD!",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-25",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/fightthewcb/status/2113670909114331167"
-    },
-    {
-      "id": "1e2baf100ec3",
-      "source": "x",
-      "title": "@Nahanni_ WSIB was set up as an insurance policy for businesses in case an employee is injured.  It removes the risk of a worker suing a business for lost wages if they are injured. It does NOT protec",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-25",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/CaptainDick12/status/2113997895359754433"
-    },
-    {
-      "id": "6a779e0360e8",
-      "source": "x",
-      "title": "@Nahanni_ BetterUp is a management training team that trained every Manager in the WSIB to find efficiencies. At the same time WSIB consolidated offices into one regional team to reduce staffing. It i",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-25",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/CaptainDick12/status/2113991583096082483"
-    },
-    {
-      "id": "eccb86f32642",
-      "source": "x",
-      "title": "@nejsnave @mutualaidinca @Canadiancrazy  @Ciel2114  Hi lovelies. I try not to post my Amazon list cause I know so many need help but I’m running out of things so I’m posting mine now. Disabled on odsp",
-      "communities": [
-        "disability",
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-25",
+      "jurisdiction": "INTL",
+      "date": "2026-10-26",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://x.com/delicatebliss/status/2114322345427157014"
+      "url": "https://x.com/DelventhalLaw/status/2114387164981072357"
     },
     {
-      "id": "e0e2ae39f78b",
+      "id": "3c7eb45c83f0",
       "source": "x",
-      "title": "@fordnation Doug ford giveth and taketh away from Ontario tax payers...  1. No odsp increases that level it with the cost of living increases.. . https://t.co/CqFHbqI99N Ontario works increases that b",
+      "title": "Employers have three business days to file the Form 7 reporting an injury or illness to the WSIB. If the deadline is approaching and details are still outstanding, submit the Form 7 with the informati",
       "communities": [
-        "disability",
-        "welfare_social"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "flywheels": [
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://x.com/DaveTully366710/status/2114320185788190961"
+      "url": "https://x.com/askoea/status/2114688500943483281"
     },
     {
-      "id": "c1393f6ece6f",
+      "id": "efbc68fca29a",
       "source": "x",
-      "title": "@odsppoverty @losinghopein ODSP mom needing help with WL items and bills $150 anything helps e-transfer panther226@hotmail.com and https://t.co/hcrtLm0GK2 my daughter loves the Nutella biscuits",
+      "title": "L’employeur dispose d’un délai de trois jours ouvrables pour faire parvenir à la Commission de la sécurité professionnelle et de l'assurance contre les accidents du travail (WSIB) le formulaire 7 décl",
       "communities": [
-        "disability",
-        "welfare_social"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "flywheels": [
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://x.com/JTkksmom/status/2114214070584836131"
+      "url": "https://x.com/AskoeaFR/status/2114688499018269147"
     },
     {
-      "id": "dd03ac46775e",
+      "id": "c9bc525a5330",
       "source": "x",
-      "title": "@2021Northern @KJJTax I know for a fact that people who’ve been living on pensions like CPP &amp; ODSP no longer can afford to keep up. We are normalizing people living in sheds in this country,incent",
+      "title": "WSIB's ignoble staff ripped off the 6-billion-dollar surplus of the backs of the fucking disabled. Now it's the   PROCEEDS OF YEARS OF GOVERNMENT CRIMES  The service @WSIB was cruel and unusual punish",
       "communities": [
         "disability",
-        "welfare_social"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "flywheels": [
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://x.com/foerster_edgar/status/2114212262244134919"
+      "url": "https://x.com/DaveOakes2022/status/2114581829634429355"
+    },
+    {
+      "id": "d0a3ecdb0ee9",
+      "source": "x",
+      "title": "@picardonhealth @ianhanomansing @globeandmail #Ontario From a healthcare worker's perspective in regards to #WSIB @OCEU1750 Currently when there is a Workplace Accident which requires healthcare and t",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-26",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/SmilingFlower/status/2114451223978103235"
+    },
+    {
+      "id": "0c0640106ae9",
+      "source": "x",
+      "title": "@bruce_barrett you can be sure that your  $40 cash lawn guy will have to charge you HST now and have a WSIB certification.",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-26",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/daily_chime/status/2114422260983312582"
+    },
+    {
+      "id": "e81140961838",
+      "source": "x",
+      "title": "WSIB/WCB IS \"PUSHING\" MAID",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-26",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/DaveOakes2022/status/2114420969607659739"
+    },
+    {
+      "id": "7a1f4fb6ed8a",
+      "source": "x",
+      "title": "Did a pop-up #injuredworkers picket today on Oliver St in #ldnont to help #KeepTheFocusOnInjuredWorkers &amp; spread awareness about the need for @fordnation/@TrevorJonesCKL to STOP #WSIB from deeming",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-26",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/occupywsib/status/2114417770939273362"
+    },
+    {
+      "id": "9e89e6edd7f9",
+      "source": "x",
+      "title": "@Mat8uia @CanadianPM A government ignoble SKANK called me from WSIB's sinecure PUSHING the MAID program, I said WTF is wrong with you fucking A-holes &amp; hung up   WSIB has a 6-billion-dollar surplu",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-26",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/DaveOakes2022/status/2114401546272436721"
+    },
+    {
+      "id": "be5bfe1e6cc1",
+      "source": "x",
+      "title": "@YogeshMadhukarr Is this a real question? You have a billion illegal agencies run by Indians that are undercutting the wages.  In addition to that, dont pay their own workerss Wsib, dont get paid sick",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-26",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/gengk21/status/2114383354996850872"
+    },
+    {
+      "id": "2077ff56d04f",
+      "source": "x",
+      "title": "@Nahanni_ The mandate of WSIB is important. If you look at Number 4, under Administration, it is supposed to be independent of the Government however Doug Ford arranged the contract in Texas and Ford ",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-26",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/CaptainDick12/status/2114382963680985251"
+    },
+    {
+      "id": "c302f1870b5f",
+      "source": "x",
+      "title": "Ontario contractors shouldn’t lose work because a licence, WSIB clearance, or insurance document expired unnoticed. I built CrewCairn to track key documents, send expiry reminders, and make proof of c",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-26",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/newonpolsia/status/2114378189380399472"
+    },
+    {
+      "id": "fbfdc3bc5635",
+      "source": "x",
+      "title": "@MuddyWadders @WokerJay @CP24 Ontario has presumed PTSD exposure legislation. Any first responder with very little scrutiny can make a claim with WSIB, and have salary until retirement. Look it up.",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-26",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/CDNinvestigator/status/2114364836825936287"
+    },
+    {
+      "id": "d42282a71102",
+      "source": "x",
+      "title": "Ontario’s Workplace Safety and Insurance Board is lowering rates to $1.18 per $100 of insurable payroll for 2027. That’s down from $1.23 in 2026. @WSIB  https://t.co/QCrEOeWDGk https://t.co/PzmbmUfYmK",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-26",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/growernews/status/2114354952382423266"
     }
   ],
-  "generated": "2026-10-25"
+  "generated": "2026-10-26"
 }
