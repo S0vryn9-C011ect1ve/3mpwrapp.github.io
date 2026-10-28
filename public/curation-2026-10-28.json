@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-28",
+  "timestamp": "2026-10-28T18:01:31.310Z",
+  "count": 4,
+  "minScore": 3.5,
+  "items": [
+    {
+      "title": "The Disability Bulletin",
+      "link": "https://linktr.ee/thedisabilitybulletin",
+      "description": "The Disability Bulletin covers disability rights news, advocacy updates, and community stories from across Canada. Visit for the latest issue.",
+      "score": 10,
+      "pubDate": "2026-10-28T18:01:31.272Z"
+    },
+    {
+      "title": "What Will Data Centres Mean for Our Energy, Environment and Communities?",
+      "link": "https://thetyee.ca/Presents/2026/10/28/AI-Energy-Environment-Community/",
+      "description": "Join leading experts on Nov. 19 for a timely conversation about Canada’s AI future.",
+      "score": 11.5,
+      "pubDate": "Wed, 28 Oct 2026 07:30:00 +0000"
+    },
+    {
+      "title": "Every Paper in One BC Region Closed. Reporters Refused to Give Up",
+      "link": "https://thetyee.ca/News/2026/10/28/Every-Paper-One-BC-Region-Closed/",
+      "description": "First in a Tyee series on scrappy journalists making local news deserts bloom.",
+      "score": 9.5,
+      "pubDate": "Wed, 28 Oct 2026 07:40:00 +0000"
+    },
+    {
+      "title": "Conflicting claims about separatist leaders’ status with Alberta Prosperity Project swirl on social media",
+      "link": "https://rabble.ca/politics/canadian-politics/conflicting-claims-about-separatist-leaders-status-with-alberta-prosperity-project-swirl-on-social-media/",
+      "description": "",
+      "score": 4.9,
+      "pubDate": "Wed, 28 Oct 2026 16:09:04 +0000"
+    }
+  ]
+}
