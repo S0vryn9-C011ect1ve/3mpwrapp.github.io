@@ -1,36 +1,64 @@
 {
-  "date": "2026-10-28",
-  "timestamp": "2026-10-28T18:01:31.310Z",
-  "count": 4,
+  "date": "2026-10-29",
+  "timestamp": "2026-10-29T18:10:49.525Z",
+  "count": 8,
   "minScore": 3.5,
   "items": [
     {
       "title": "The Disability Bulletin",
       "link": "https://linktr.ee/thedisabilitybulletin",
-      "description": "The Disability Bulletin covers disability rights news, advocacy updates, and community stories from across Canada. Visit for the latest issue.",
+      "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
       "score": 10,
-      "pubDate": "2026-10-28T18:01:31.272Z"
+      "pubDate": "2026-10-29T18:10:49.520Z"
     },
     {
-      "title": "What Will Data Centres Mean for Our Energy, Environment and Communities?",
-      "link": "https://thetyee.ca/Presents/2026/10/28/AI-Energy-Environment-Community/",
-      "description": "Join leading experts on Nov. 19 for a timely conversation about Canada’s AI future.",
-      "score": 11.5,
-      "pubDate": "Wed, 28 Oct 2026 07:30:00 +0000"
+      "title": "Separatism in Alberta Is Not Done",
+      "link": "https://thetyee.ca/Analysis/2026/10/29/Separatism-Alberta-Not-Done/",
+      "description": "Why the fervour for splitting from Canada persists and must be taken seriously.",
+      "score": 14.4,
+      "pubDate": "Thu, 29 Oct 2026 07:20:00 +0000"
     },
     {
-      "title": "Every Paper in One BC Region Closed. Reporters Refused to Give Up",
-      "link": "https://thetyee.ca/News/2026/10/28/Every-Paper-One-BC-Region-Closed/",
-      "description": "First in a Tyee series on scrappy journalists making local news deserts bloom.",
-      "score": 9.5,
-      "pubDate": "Wed, 28 Oct 2026 07:40:00 +0000"
-    },
-    {
-      "title": "Conflicting claims about separatist leaders’ status with Alberta Prosperity Project swirl on social media",
-      "link": "https://rabble.ca/politics/canadian-politics/conflicting-claims-about-separatist-leaders-status-with-alberta-prosperity-project-swirl-on-social-media/",
+      "title": "Manitoba Government Advocacy Helps Expand Access to Spinal Muscular Atrophy Treatment",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75917",
       "description": "",
-      "score": 4.9,
-      "pubDate": "Wed, 28 Oct 2026 16:09:04 +0000"
+      "score": 10.1,
+      "pubDate": "Wed, 28 Oct 2026 15:27:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Changes Regulations to Limit Rent Hikes and Expand Rent Control to Keep Rent Affordable: Premier",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75837",
+      "description": "",
+      "score": 9.5,
+      "pubDate": "Tue, 20 Oct 2026 12:57:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Invests $69,790 in Portage la Prairie's Community Safety and Well-Being Plan",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75697",
+      "description": "",
+      "score": 10.5,
+      "pubDate": "Tue, 13 Oct 2026 11:59:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Invests More Than $1.2 Million in Festivals Across Manitoba",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75698",
+      "description": "",
+      "score": 7.5,
+      "pubDate": "Tue, 13 Oct 2026 12:04:00 CDT"
+    },
+    {
+      "title": "Privatization has left Ontario with growing need for publicly-funded medical testing",
+      "link": "https://rabble.ca/health/privatization-has-left-ontario-with-growing-need-for-publicly-funded-medical-testing/",
+      "description": "",
+      "score": 4.6,
+      "pubDate": "Wed, 28 Oct 2026 19:12:59 +0000"
+    },
+    {
+      "title": "Province Advises Clocks will not Change this Weekend as Manitoba Moves to Permanent Daylight Saving Time",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75937",
+      "description": "",
+      "score": 4.5,
+      "pubDate": "Thu, 29 Oct 2026 11:43:00 CDT"
     }
   ]
 }

@@ -1,0 +1,58 @@
+---
+layout: post
+title: "Daily News Curation - 2026-10-29"
+date: 2026-10-29
+tags: [highlights]
+categories: [curation, news]
+excerpt: "Today's curated disability rights, accessibility, and social policy news from across Canada."
+---
+
+# Daily News Curation - 2026-10-29
+
+Curated 8 items from disability, accessibility, and social policy sources.
+
+## 🌟 Featured: The Disability Bulletin
+
+### The Disability Bulletin
+Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.
+📍 [Read More](https://linktr.ee/thedisabilitybulletin)
+
+---
+
+## Additional Stories
+
+### 1. Separatism in Alberta Is Not Done
+Why the fervour for splitting from Canada persists and must be taken seriously.
+[Source](https://thetyee.ca/Analysis/2026/10/29/Separatism-Alberta-Not-Done/)
+**Score:** 14.40
+
+### 2. Manitoba Government Advocacy Helps Expand Access to Spinal Muscular Atrophy Treatment
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75917)
+**Score:** 10.10
+
+### 3. Manitoba Government Changes Regulations to Limit Rent Hikes and Expand Rent Control to Keep Rent Affordable: Premier
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75837)
+**Score:** 9.50
+
+### 4. Manitoba Government Invests $69,790 in Portage la Prairie's Community Safety and Well-Being Plan
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75697)
+**Score:** 10.50
+
+### 5. Manitoba Government Invests More Than $1.2 Million in Festivals Across Manitoba
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75698)
+**Score:** 7.50
+
+### 6. Privatization has left Ontario with growing need for publicly-funded medical testing
+Rabble.ca — progressive Canadian news
+[Source](https://rabble.ca/health/privatization-has-left-ontario-with-growing-need-for-publicly-funded-medical-testing/)
+**Score:** 4.60
+
+### 7. Province Advises Clocks will not Change this Weekend as Manitoba Moves to Permanent Daylight Saving Time
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75937)
+**Score:** 4.50
+
