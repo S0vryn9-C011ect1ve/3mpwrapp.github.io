@@ -1,18 +1,18 @@
 {
-  "total": 2350,
+  "total": 2357,
   "verified": 5,
   "by_community": {
-    "disability": 965,
-    "accessibility": 685,
-    "injured_workers": 575,
+    "disability": 967,
+    "accessibility": 686,
+    "injured_workers": 576,
     "welfare_social": 527,
-    "elderly": 149,
+    "elderly": 153,
     "veterans": 44,
     "public_allies": 8,
-    "vulnerable_communities": 3
+    "vulnerable_communities": 4
   },
   "by_jurisdiction": {
-    "CA-ON": 1044,
+    "CA-ON": 1051,
     "INTL": 908,
     "CA-FED": 247,
     "CA-AB": 102,
@@ -30,14 +30,14 @@
   "by_source": {
     "x": 1610,
     "reddit": 449,
-    "news": 274,
+    "news": 281,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 2333,
+    "unverified_social": 2340,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -45,6 +45,113 @@
     "manual_curated": 1
   },
   "recent": [
+    {
+      "id": "news-e9fd45c9d685",
+      "source": "news",
+      "title": "The B.C. Conservatives promised long-awaited changes in disability policy. Will they follow through? - CTV News",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-29",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN0dHeHJOM2xfTklMdDcyNXVUREdmVzRXd25UT1c2TVZjVUxFMmxjM3dybmtadUxpYkZScjYxVEROelhLQTIyV0FFRVc5bXVYRE1OazB6b1lCemRwUDN3bWhaczUxVldLWlVvWDVVTjJLdXhybWpMMk9mTF9wYklfYXBnczk5ZW0tZlMxc1lGNkpYQ3M5LUxCZ0lfbFh6dGc3cDg3eU0ycnRVX1pvaWQzTk1MdkdOR2JFTVR0bFlzRWZOMVZKa2JycnVWWi1KSjZRLVFuVw?oc=5"
+    },
+    {
+      "id": "news-d4f3656558b3",
+      "source": "news",
+      "title": "Brookdale Senior Living (BKD): Favorable Senior Housing Demographics Reaffirm Long-Term Thesis - Yahoo Finance",
+      "communities": [
+        "elderly",
+        "vulnerable_communities"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-29",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWjZmVlREdEw1LURUWUw0TW1NaU5LWUlQbmdTa0sxRmRIZlh2YzNaZXl6ckhJYTA1S21OVW5JcnVpMjAxSElfY195NnItRW1ZWG1kalRpN3VfWnFvNTBuSjRDRkFwN2FLSDh4VjdHVXJKZUUxUm1RYlJUS2ptTm5zb2lqUTFQb203RDNldWN6ekJKeG1DMjJ6cng1ajBGZUtRTlhycg?oc=5"
+    },
+    {
+      "id": "news-fbdbe1844a24",
+      "source": "news",
+      "title": "Meerim ZHUMANAZAROVA (KGZ) vs. Jia LONG (CHN) | 2026 Senior World Championships | Gold Medal | WW 68Kg - United World Wrestling",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-29",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS3gxUmZJTS0yU1lDbWxMV0k3ME9EbU9BRndZanV0RXZWSElRc3RUTUlxZlZWUUlaMjBxa3VEN1A5YlBvbm9XRzZZY3YwMmp4TnZlSk5HTlc5QVJDaHhNVE5YLTZQOXk1d1V1Z3U1ZnlpblFULVczd3B1bzVPWHRFaWxiWFlZSkFiaGZSNURYSlM3SjQxMkd5dGdCaXVUUmh2clhwaXpUQTJpZDVpRWpsdjRoQ1NJdw?oc=5"
+    },
+    {
+      "id": "news-909100196d48",
+      "source": "news",
+      "title": "The Elder Scrolls VI: Sentinel Is Reportedly The Official Title Of Bethesda's Long-Awaited Fantasy RPG - PlayStation Universe",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-29",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMURnLTVCWERPZS1wb0pRamxBNERsc3BBYWk4dm96M0gycmZManNMV09NQm96VGZpZ2xiOGNDTkJpQXZPWV9YZ2V0WTlZdGZMcS1CQ1BXWGY3X0NxN0NIWVlxOUk5aTl6bzREMGJXdGFjQ2lsZlpkb2F2Z3FieTJDUW9KZ0wwZEhPZ216NjVqUWhjMy0xUkJ5Z1BxN282cXRmV0pwSllYV0lwb1J2NmsxdG9VeWtwYVM0N3FOTFdDN05fa2Rw?oc=5"
+    },
+    {
+      "id": "news-7dc3c5fa0a98",
+      "source": "news",
+      "title": "Lesotho dam authority must pay M90-million in long-overdue compensation - GroundUp",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-29",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeEpUYmFibjJiMzRub0xXcVotZmp6ZXhjX2lvdDhUZ3o0RVM3eUotZ2FHTEJxUktFTmRLaEFnQlVXN2JvQlF2dTVWUlJZeUE5VTFPUWQxVjBqdFp1cDJGbjdiU0tUb0NfdFRHOUJoMVI3TlBGblo3eG5yY01VTG1GaGlKVkJESFJrM3AxRndJalY4SlVrbVpYQjVmVmw5UHBvQUR6dXlYNA?oc=5"
+    },
+    {
+      "id": "news-2a5a001ae436",
+      "source": "news",
+      "title": "Long Awaited Disabled Parking Barrier Installed Outside Enniscorthy Building Serving 23 Adults - South East Radio",
+      "communities": [
+        "accessibility",
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-29",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT3NVOGtqd2NqaE4yNmIxNHpMcmRaeU9rTVZuLXh3YzJEd3pzOVZ3M3VTMzlOWGExS0Z0Y2IxWDFodHVOTlhvZmRuM1djR2hHejZsYVBuWERSY0pTb3B3N01SZmVaa0ZEaFpUblFKYmtnc3RaRDUySmVSWmszUU1jblYxaTRSMWhrcnoxRUhTUi1uWThjdGpfeTRYSGdaWERlUUNhcWJXTmpZbEMzQlVEUjRKS3E4WFd2eGlQcnZ6TnJKQ2ZLblVMSjV0TzJ6am5vTi0wNw?oc=5"
+    },
+    {
+      "id": "news-3597ee8fdb62",
+      "source": "news",
+      "title": "Alberta’s senior care expansion program is a real estate subsidy - Policy Alternatives",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-29",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdjNkYmotUThzY1pFS2c4LWRUdnFjbC1rRlRiYjNVUkR3cFllYzg3RVhwQTVqMHJvS05hZ1dHZWVUdEZxM09mMHlXdVhoZmpDdVdqWndzQ0tFV3hmdVZONkJFWjZYbUoteTdNUTZfeDRxVnZ3V0tXU0JNbExVMGJuVVNsajJ1SUJ3Z2NtZGJTelRpaVRrTW9GeVkwNk5Zcm52UlNybjBubjh1M3ZaTlpBS1dn?oc=5"
+    },
     {
       "id": "f025685e680b",
       "source": "x",
@@ -156,106 +263,7 @@
         "evidence"
       ],
       "url": "https://x.com/DaveOakes2022/status/2114791234858561785"
-    },
-    {
-      "id": "2d9af35b7115",
-      "source": "x",
-      "title": "What makes me so pissed off is that no body is doing anything for the injured worker to live better Workers Comp in all states is a big crap of SHIT/Scam !  Joe B. (Founder of This Movement)",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-10-27",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/MovementInjured/status/2114902090757685488"
-    },
-    {
-      "id": "32a6dd8df93f",
-      "source": "x",
-      "title": "[OCT 29 - WEBINAR SERIES] Sharing information in teams  https://t.co/opgAttuJjM  #mentalhealth #addiction #addictionsagency #CMHA #Alzheimer #AlzheimerSociety #psychologypractice  #psychiatricfacility",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-27",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/KateDewhirst/status/2115051110561980585"
-    },
-    {
-      "id": "9ce9a4f852ae",
-      "source": "x",
-      "title": "@LiseVaugeois Not like there is ANY accountability with the @WSIB",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-27",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/fightthewcb/status/2115020354963779701"
-    },
-    {
-      "id": "d36f43a8fb85",
-      "source": "x",
-      "title": "@RobPrimo1 Of course you use the that word. Is that why your client at CL assaulted you because you called him that? You are not employed Rob. Unless you consider disability and WSIB payments, employm",
-      "communities": [
-        "disability",
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-27",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/gaudall2/status/2114897749384876403"
-    },
-    {
-      "id": "2607f0596dce",
-      "source": "x",
-      "title": "@johnfkjuniorq So WSIB is cancelled Doug?",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-27",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/aylwardCA/status/2114860734895022098"
-    },
-    {
-      "id": "c9a300edba28",
-      "source": "x",
-      "title": "@Ryansarai1981 WSIB - \"Oh, you worked 22 years as an off road trucker?  Well lets retrain you as a 'network administrator.'  What's that?  You want an education in business, so you can take your exper",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-27",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/ghost0zz5143458/status/2114822607962812436"
-    },
-    {
-      "id": "8793f901af50",
-      "source": "x",
-      "title": "Why is the WSIB eliminating 717 jobs, closing regional offices?  They are replacing workers with AI.  WSIB's CEO Jeff Lang recently gave a presentation on how \"WSIB is deploying AI at extraordinary sc",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-27",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/LiseVaugeois/status/2114819604295884806"
     }
   ],
-  "generated": "2026-10-27"
+  "generated": "2026-10-29"
 }
