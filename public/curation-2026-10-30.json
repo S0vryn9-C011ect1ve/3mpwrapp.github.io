@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-30",
+  "timestamp": "2026-10-30T17:49:24.113Z",
+  "count": 10,
+  "minScore": 3.5,
+  "items": [
+    {
+      "title": "The Disability Bulletin",
+      "link": "https://linktr.ee/thedisabilitybulletin",
+      "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
+      "score": 10,
+      "pubDate": "2026-10-30T17:49:24.110Z"
+    },
+    {
+      "title": "Governments of Canada and Manitoba Partner with Peguis First Nation and Fisher River Cree Nation for Phase 1 Flood Mitigation",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75857",
+      "description": "",
+      "score": 18,
+      "pubDate": "Wed, 21 Oct 2026 13:05:00 CDT"
+    },
+    {
+      "title": "The Tyee Podcast: Inside Canada’s AI Data Centre Fervour",
+      "link": "https://thetyee.ca/Tyeenews/2026/10/30/Tyee-Podcast-AI-Data-Centre-Fervour/",
+      "description": "Labour reporter Isaac Phan Nay on the data centres coming to your town, and what you can do about it.",
+      "score": 14.5,
+      "pubDate": "Fri, 30 Oct 2026 07:30:00 +0000"
+    },
+    {
+      "title": "Manitoba Delegation Joins Team Canada Trade Mission to India",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75717",
+      "description": "",
+      "score": 15,
+      "pubDate": "Tue, 13 Oct 2026 14:33:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Delivers on Affordability, Health Care and Stronger Protections for Manitobans",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75939",
+      "description": "",
+      "score": 14.5,
+      "pubDate": "Thu, 29 Oct 2026 16:05:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Holds Town Hall on New Bridgwater Personal Care Home",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75858",
+      "description": "",
+      "score": 9.5,
+      "pubDate": "Wed, 21 Oct 2026 14:00:00 CDT"
+    },
+    {
+      "title": "Why a Local Journalist Resurrected a Beloved Northern Newspaper",
+      "link": "https://thetyee.ca/News/2026/10/30/Local-Journalist-Resurrected-Beloved-Northern-Newspaper/",
+      "description": "The Alaska Highway News helped build the Peace region. Now, a blue-collar reporter is working to rebuild the outlet.",
+      "score": 7.5,
+      "pubDate": "Fri, 30 Oct 2026 07:20:00 +0000"
+    },
+    {
+      "title": "Manitoba Justice Reports In-Custody Death",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75938",
+      "description": "",
+      "score": 7.5,
+      "pubDate": "Thu, 29 Oct 2026 15:15:00 CDT"
+    },
+    {
+      "title": "Province Provides Update on Repairs to Provincial Trunk Highway 83 Shell River Bridge",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75860",
+      "description": "",
+      "score": 4.5,
+      "pubDate": "Thu, 22 Oct 2026 10:46:00 CDT"
+    },
+    {
+      "title": "Province Provides Update on Provincial Trunk Highway 10 Stoney Creek Bridge Closure and Repairs",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75859",
+      "description": "",
+      "score": 4.5,
+      "pubDate": "Thu, 22 Oct 2026 10:35:00 CDT"
+    }
+  ]
+}
