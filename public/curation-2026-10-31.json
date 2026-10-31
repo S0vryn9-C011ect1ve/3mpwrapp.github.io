@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-31",
+  "timestamp": "2026-10-31T16:58:39.017Z",
+  "count": 6,
+  "minScore": 3.5,
+  "items": [
+    {
+      "title": "The Disability Bulletin",
+      "link": "https://linktr.ee/thedisabilitybulletin",
+      "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
+      "score": 10,
+      "pubDate": "2026-10-31T16:58:39.015Z"
+    },
+    {
+      "title": "Manitoba Government Invests $5 Million to Expand Autism Services for Children and Families",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75738",
+      "description": "",
+      "score": 12.5,
+      "pubDate": "Wed, 14 Oct 2026 13:58:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Invests $73,793 in Equipment Upgrades at Hobbs Manor in Brandon",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75861",
+      "description": "",
+      "score": 7.5,
+      "pubDate": "Thu, 22 Oct 2026 15:00:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Invests $67,000 toward Winkler Parks and Recreation Plan",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75737",
+      "description": "",
+      "score": 7.5,
+      "pubDate": "Wed, 14 Oct 2026 13:20:00 CDT"
+    },
+    {
+      "title": "Elizabeth Holmes Reminds Me of Danielle Smith. It’s Eerie",
+      "link": "https://thetyee.ca/Culture/2026/10/30/Elizabeth-Holmes-Reminds-Me-of-Danielle-Smith/",
+      "description": "‘You Can See Everything’ captures a brand of deceit familiar to watchers of Alberta politics.",
+      "score": 3.9000000000000004,
+      "pubDate": "Sat, 31 Oct 2026 00:10:00 +0000"
+    },
+    {
+      "title": "Province Reminds Manitobans Clocks will not Change this Weekend",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75940",
+      "description": "",
+      "score": 4.5,
+      "pubDate": "Sat, 31 Oct 2026 10:00:00 CDT"
+    }
+  ]
+}
