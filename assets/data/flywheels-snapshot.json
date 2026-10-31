@@ -1,18 +1,18 @@
 {
-  "total": 2357,
+  "total": 2362,
   "verified": 5,
   "by_community": {
-    "disability": 967,
+    "disability": 969,
     "accessibility": 686,
-    "injured_workers": 576,
+    "injured_workers": 577,
     "welfare_social": 527,
-    "elderly": 153,
+    "elderly": 156,
     "veterans": 44,
     "public_allies": 8,
     "vulnerable_communities": 4
   },
   "by_jurisdiction": {
-    "CA-ON": 1051,
+    "CA-ON": 1056,
     "INTL": 908,
     "CA-FED": 247,
     "CA-AB": 102,
@@ -30,14 +30,14 @@
   "by_source": {
     "x": 1610,
     "reddit": 449,
-    "news": 281,
+    "news": 286,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 2340,
+    "unverified_social": 2345,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -45,6 +45,82 @@
     "manual_curated": 1
   },
   "recent": [
+    {
+      "id": "news-236ecb3050bf",
+      "source": "news",
+      "title": "Long Covid Disabled Millions of Workers. Then Came Trump 2.0. - Mother Jones",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-30",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSzBfQzVhT2hTWk1CNHNnc1RDZThSdFd6RVkwZ0JLdndGNXdrVk5EaGs1X3ZGckI2RHRqTzdCeE94ODFkQmFaVGdhZ1FBNTV4NzNzS05XWWxGZ1Zic3FxVDByWFVyV2tQdmhqZE1sVVIzNTBGT25tWEdLQXRvUHkxdi1XdWdzUlpUTXZfS1A0WmJWdGJlUkExRTdVTGphTVEySjJWbFdXRGJIdw?oc=5"
+    },
+    {
+      "id": "news-65aba222237b",
+      "source": "news",
+      "title": "Can Sienna Senior Living (TSX:SIA) Extend Its Long Growth Streak? - Kalkine Media",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-30",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR2tpTHVGVUZ3ejZBcTRlWVVpbWk5MThEQmV6Nm5UZWl6Z1Q0elJ0ajk5TGtueXJJcnJmTXNRYTRab0tKQS1lS3JpT3pQSWlhVUxEY3N1M1VZbWhSWnMyQUtkUGF2eTBlXzFzc0RMR09QNFZpV0JxTV9fRzRGTUc3eVNnR1p6b1FibWhJd2tiQTVxM3pBU1pBbFlNZnBqVFVEN1BYYjlHMFhoMzQ?oc=5"
+    },
+    {
+      "id": "news-94b68892d9a8",
+      "source": "news",
+      "title": "Older Adults Face Long-Term Disability and Higher One-Year Mortality After a Hip Fracture - 헬스조선",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-30",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbjhLZk8yVkZSNjFPdlphMHhJZHROYjBTWnFLX0V4VFJKYXlVcW5yS3lCVm54aUk4c1NRMEw3aHVKeUdYVXpfRzg2ZHBsVHB4TmF5TTlzNmV3RVFSWC1PWElCOUlXWGtmYXhPbUFRWlc2d3NzbzJfak40dnZTR1dzTlduTEd0a3c0alE?oc=5"
+    },
+    {
+      "id": "news-7460a782b3fa",
+      "source": "news",
+      "title": "Boys Cross Country: R.A. Long senior advances to state race - Longview Daily News",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-30",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUjAyZzdBNTRxcWRqZWY1c3FLWEQxcWllTHdkSmkwaVpxVlFMV0xQMGRWU242MElVUHBDODEtdTNHaV9lR3hZakpMc24zcVFwczFMS0JGRzV2UnpBZ0U0dllUenQ4NEFUM0ZhUFVCN3FMUTd2azVxZnVvcC14MnJ5UUdja3l3SW1wZ1p2ekZqeHE1WlFwUW14Z3VWYk91aTA?oc=5"
+    },
+    {
+      "id": "news-8574a08ac64a",
+      "source": "news",
+      "title": "Hedge fund senior PM pay potential dwarfs long-only compensation - Hedgeweek",
+      "communities": [
+        "elderly",
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-30",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMl9xOWlWY3podzFHYl9qTi1ETG9kcThZZFJGNTd6QjhRYy1CV01FNUFWWGZEcVRyOE02QV93cmVNbGhYSkdaWnFIQTMzLUQzWXRvUi1kdmdPU0prTklGenBxQUpfSHM1TjN6cmRnS1NSZ1Nlbm4xMFBORkxIS3dCSzFBYnV0ZHEzeXVJbGlmOHRNUDl5YkE?oc=5"
+    },
     {
       "id": "news-e9fd45c9d685",
       "source": "news",
@@ -193,77 +269,7 @@
         "evidence"
       ],
       "url": "https://x.com/DaveOakes2022/status/2114793905787207859"
-    },
-    {
-      "id": "20f4fe0b3717",
-      "source": "x",
-      "title": "@CHCHNews Injured workers in Canada can't get lost wage benefits to buy food &amp; medicine in Canada.  WSIB perpetually denies service now WSIB has a 6-billion-dollar surplus The PROCEEDS OF YEARS OF",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-27",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/DaveOakes2022/status/2114793411152920889"
-    },
-    {
-      "id": "deef83f9d825",
-      "source": "x",
-      "title": "@ctvottawa Injured workers in Canada can't get lost wage benefits to buy food &amp; medicine in Canada.  WSIB perpetually denies service now WSIB has a 6-billion-dollar surplus The PROCEEDS OF YEARS O",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-27",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/DaveOakes2022/status/2114793237185736983"
-    },
-    {
-      "id": "d805d89abe0b",
-      "source": "x",
-      "title": "@AnneDre27042271 @WSIB Injured workers in Canada can't get lost wage benefits to buy food &amp; medicine in Canada.  WSIB perpetually denies service now WSIB has a 6-billion-dollar surplus The PROCEED",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-27",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/DaveOakes2022/status/2114792529967374829"
-    },
-    {
-      "id": "fdf0b3f305e9",
-      "source": "x",
-      "title": "@AndrewScheer Injured workers in Canada can't get lost wage benefits to buy food &amp; medicine in Canada.  WSIB perpetually denies service now WSIB has a 6-billion-dollar surplus The PROCEEDS OF YEAR",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-27",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/DaveOakes2022/status/2114792152958218243"
-    },
-    {
-      "id": "64f20aca35e4",
-      "source": "x",
-      "title": "Injured workers in Canada can't get lost wage benefits to buy food &amp; medicine in Canada. Because WSIB denies service now they have a 6-billion-dollar surplus  The PRROCEEDS OF YEARS OF GOVERNMENT ",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-27",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/DaveOakes2022/status/2114791234858561785"
     }
   ],
-  "generated": "2026-10-29"
+  "generated": "2026-10-30"
 }
