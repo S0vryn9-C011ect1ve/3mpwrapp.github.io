@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-01",
+  "timestamp": "2026-11-01T17:44:39.581Z",
+  "count": 9,
+  "minScore": 3.5,
+  "items": [
+    {
+      "title": "The Disability Bulletin",
+      "link": "https://linktr.ee/thedisabilitybulletin",
+      "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
+      "score": 10,
+      "pubDate": "2026-11-01T17:44:39.577Z"
+    },
+    {
+      "title": "Protecting the right to strike in Canada",
+      "link": "https://rabble.ca/podcast/protecting-the-right-to-strike-in-canada/",
+      "description": "",
+      "score": 10.5,
+      "pubDate": "Fri, 23 Oct 2026 17:40:00 +0000"
+    },
+    {
+      "title": "Manitoba Government Supports Major Rehabilitation of Thompson Regional Airport",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75777",
+      "description": "",
+      "score": 9.5,
+      "pubDate": "Fri, 16 Oct 2026 10:45:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Introduces Legislation to Strengthen Manitoba Hydro and Improve Financial Accountability",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75758",
+      "description": "",
+      "score": 9.5,
+      "pubDate": "Thu, 15 Oct 2026 14:07:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Invests $568,400 to Support North Point Douglas Women's Centre Expansion Project",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75757",
+      "description": "",
+      "score": 9.5,
+      "pubDate": "Thu, 15 Oct 2026 12:48:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Bans One-To-One Communication Between School Staff and Students on Unmonitored Platforms",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75878",
+      "description": "",
+      "score": 8.5,
+      "pubDate": "Fri, 23 Oct 2026 14:15:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Invests $100,000 in Brandon Makerspace",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75877",
+      "description": "",
+      "score": 7.5,
+      "pubDate": "Fri, 23 Oct 2026 11:59:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Funds Livestock Investigation Unit",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75657",
+      "description": "",
+      "score": 7.5,
+      "pubDate": "Thu, 08 Oct 2026 12:45:00 CDT"
+    },
+    {
+      "title": "Province Advises Snowplows Ready as Blizzard Conditions Forecast for Northern Manitoba",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75879",
+      "description": "",
+      "score": 4.5,
+      "pubDate": "Fri, 23 Oct 2026 15:54:00 CDT"
+    }
+  ]
+}
