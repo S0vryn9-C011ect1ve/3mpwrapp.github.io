@@ -1,25 +1,25 @@
 {
-  "total": 2362,
+  "total": 2367,
   "verified": 5,
   "by_community": {
-    "disability": 969,
+    "disability": 970,
     "accessibility": 686,
-    "injured_workers": 577,
+    "injured_workers": 578,
     "welfare_social": 527,
-    "elderly": 156,
+    "elderly": 159,
     "veterans": 44,
     "public_allies": 8,
     "vulnerable_communities": 4
   },
   "by_jurisdiction": {
-    "CA-ON": 1056,
+    "CA-ON": 1059,
     "INTL": 908,
     "CA-FED": 247,
     "CA-AB": 102,
     "CA-BC": 24,
     "CA-NT": 7,
+    "CA-NB": 6,
     "CA-YT": 5,
-    "CA-NB": 4,
     "CA-TERR": 2,
     "CA-SK": 2,
     "CA-MB": 2,
@@ -30,14 +30,14 @@
   "by_source": {
     "x": 1610,
     "reddit": 449,
-    "news": 286,
+    "news": 291,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 2345,
+    "unverified_social": 2350,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -45,6 +45,81 @@
     "manual_curated": 1
   },
   "recent": [
+    {
+      "id": "news-6cbab02f29bd",
+      "source": "news",
+      "title": "Senior dog inspires thousands to call for longer hours at West Van SPCA - North Shore News",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-31",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNTNkNkhmYzRhX3V4RVdsaEtRcHhSTUdnUWI5VnRCOXdYMzBDamw2RTV0Z1EwUFpUU2RMM0JfU3EyN1A4eHlwRVM0WjFQdXN3QWtkR1Rha190QXFsdm13VDdLeU9fZ0VTOVJPTG45b3FySGhjWTlUX3RDQl8tLTBiOTZCN1BFd1BXZ0ZwRWdhQXlPSF85T0FCTk9iVjB1T2dPMm56cGFaZnhGemEzVGdzeFNpUVM?oc=5"
+    },
+    {
+      "id": "news-9a2407b7904c",
+      "source": "news",
+      "title": "Bereaved families to receive full asbestos compensation in long-awaited change - Bournemouth Echo",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-31",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0RYMWpXYlhXZUpmM3lvYmpVei1uNWltTkE5SzNRS0NPajZhUWpJdmowMjFWLUJTS2xlbk04SEduY0QzZUlMTU96OFd5aWJmTkdTaTBqN053cGUybW80S2pHejBYQmc3MGxsbjhnaUg1akVQWUZFR1hLUHNxYm1ySHUydmQwSGRLaWo5Y3pHckx0RnFMXzE4OGtvRGlHb3I1QkRv?oc=5"
+    },
+    {
+      "id": "news-d94fdac80061",
+      "source": "news",
+      "title": "GWAS of extended prescription analgesic use identifies genetic loci in chronic pain - Nature",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-10-31",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93WHI4bFIzRDZnLWh3aHNJYkFqWGMyWk10NTUyc29JLXZOaENFQXNuaGFVeEVNLTBaYkxHOHdMQlg3aldLZnkxLVJJNXNMLVRGTFk4ZGVWbllkcFA4X0JZ?oc=5"
+    },
+    {
+      "id": "news-95df475c4605",
+      "source": "news",
+      "title": "Elsipogtog to get First Nation-run elder care facility — a first for N.B. - CBC",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-NB",
+      "date": "2026-10-31",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTWxLZWFIT1YyT2lYblptblRyNXF0QVNtcEFPY3NkZG1VWFk1Q2huS1RldURYUGlFVldxa3JseG5qeGVJNmFVcTVYTmFsUGdlcThTZE82MV9zWnlwdWRSeVZmUHJkaFIxOFdGenN0RUl3OHlxS2pOQnBCaXRvbDdBRkJQRFNXb1JWM2w0ZFlMLVctemNvMmk2UjdZSQ?oc=5"
+    },
+    {
+      "id": "news-037eac812dd3",
+      "source": "news",
+      "title": "Q&A with Senior Long Snapper Erik Schlecker - North Carolina Central University Athletics",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-NB",
+      "date": "2026-10-31",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT1hmbjVyWjdQdEJsdHJxclM2cDJReTNUckYtWlc1eWVFSzFXZnFYNS0yVTlncUlaNnJPbkpoTU9WLTVxN2RUYkhnUFM2MEtEcjhnWHdBd3JqN2tLNllIb3NKZGpzV3hvN04wQ0gzQ2JIaXp2cThzdzRzUGZNZy1pU1ZZRFU3Q1pMT2V0UGFfRlozaDRPMVhTYmhKaw?oc=5"
+    },
     {
       "id": "news-236ecb3050bf",
       "source": "news",
@@ -196,80 +271,7 @@
         "knowledge"
       ],
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeEpUYmFibjJiMzRub0xXcVotZmp6ZXhjX2lvdDhUZ3o0RVM3eUotZ2FHTEJxUktFTmRLaEFnQlVXN2JvQlF2dTVWUlJZeUE5VTFPUWQxVjBqdFp1cDJGbjdiU0tUb0NfdFRHOUJoMVI3TlBGblo3eG5yY01VTG1GaGlKVkJESFJrM3AxRndJalY4SlVrbVpYQjVmVmw5UHBvQUR6dXlYNA?oc=5"
-    },
-    {
-      "id": "news-2a5a001ae436",
-      "source": "news",
-      "title": "Long Awaited Disabled Parking Barrier Installed Outside Enniscorthy Building Serving 23 Adults - South East Radio",
-      "communities": [
-        "accessibility",
-        "disability"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-29",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT3NVOGtqd2NqaE4yNmIxNHpMcmRaeU9rTVZuLXh3YzJEd3pzOVZ3M3VTMzlOWGExS0Z0Y2IxWDFodHVOTlhvZmRuM1djR2hHejZsYVBuWERSY0pTb3B3N01SZmVaa0ZEaFpUblFKYmtnc3RaRDUySmVSWmszUU1jblYxaTRSMWhrcnoxRUhTUi1uWThjdGpfeTRYSGdaWERlUUNhcWJXTmpZbEMzQlVEUjRKS3E4WFd2eGlQcnZ6TnJKQ2ZLblVMSjV0TzJ6am5vTi0wNw?oc=5"
-    },
-    {
-      "id": "news-3597ee8fdb62",
-      "source": "news",
-      "title": "Alberta’s senior care expansion program is a real estate subsidy - Policy Alternatives",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-29",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdjNkYmotUThzY1pFS2c4LWRUdnFjbC1rRlRiYjNVUkR3cFllYzg3RVhwQTVqMHJvS05hZ1dHZWVUdEZxM09mMHlXdVhoZmpDdVdqWndzQ0tFV3hmdVZONkJFWjZYbUoteTdNUTZfeDRxVnZ3V0tXU0JNbExVMGJuVVNsajJ1SUJ3Z2NtZGJTelRpaVRrTW9GeVkwNk5Zcm52UlNybjBubjh1M3ZaTlpBS1dn?oc=5"
-    },
-    {
-      "id": "f025685e680b",
-      "source": "x",
-      "title": "@fordnation Injured workers in Canada can't get lost wage benefits to buy food &amp; medicine in Canada. Because WSIB denies service now they have a 6-billion-dollar surplus PRROCEEDS OF YEARS OF GOVE",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-27",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/DaveOakes2022/status/2114796169499214287"
-    },
-    {
-      "id": "4a9bef308f22",
-      "source": "x",
-      "title": "@fordnation Injured workers in Canada can't get lost wage benefits to buy food &amp; medicine in Canada. Because WSIB denies service now they have a 6-billion-dollar surplus     PRROCEEDS OF YEARS OF ",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-27",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/DaveOakes2022/status/2114795924035920107"
-    },
-    {
-      "id": "b16b28d4a01a",
-      "source": "x",
-      "title": "@siomoCTV Injured workers in Canada can't get lost wage benefits to buy food &amp; medicine in Canada.  WSIB perpetually denies service now WSIB has a 6-billion-dollar surplus      PROCEEDS OF YEARS O",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-27",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/DaveOakes2022/status/2114793905787207859"
     }
   ],
-  "generated": "2026-10-30"
+  "generated": "2026-10-31"
 }
