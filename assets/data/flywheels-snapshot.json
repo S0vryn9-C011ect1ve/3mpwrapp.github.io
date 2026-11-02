@@ -1,18 +1,18 @@
 {
-  "total": 2367,
+  "total": 2372,
   "verified": 5,
   "by_community": {
-    "disability": 970,
+    "disability": 971,
     "accessibility": 686,
     "injured_workers": 578,
     "welfare_social": 527,
-    "elderly": 159,
+    "elderly": 163,
     "veterans": 44,
     "public_allies": 8,
-    "vulnerable_communities": 4
+    "vulnerable_communities": 5
   },
   "by_jurisdiction": {
-    "CA-ON": 1059,
+    "CA-ON": 1063,
     "INTL": 908,
     "CA-FED": 247,
     "CA-AB": 102,
@@ -20,8 +20,8 @@
     "CA-NT": 7,
     "CA-NB": 6,
     "CA-YT": 5,
+    "CA-SK": 3,
     "CA-TERR": 2,
-    "CA-SK": 2,
     "CA-MB": 2,
     "CA": 1,
     "CA-NL": 1,
@@ -30,14 +30,14 @@
   "by_source": {
     "x": 1610,
     "reddit": 449,
-    "news": 291,
+    "news": 296,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 2350,
+    "unverified_social": 2355,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -45,6 +45,82 @@
     "manual_curated": 1
   },
   "recent": [
+    {
+      "id": "news-2caf4bf3ddcb",
+      "source": "news",
+      "title": "NHP - Senior Housing Pivot And Deleveraging Will Reshape Long-Term Outlook For This Healthcare REIT - Simply Wall St",
+      "communities": [
+        "elderly",
+        "vulnerable_communities"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-01",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPc25aSktvTjhsNDRMSURKclluQWJPX3luRW1OazROMW93Rjc4dzVaNmdzd29lNm1rZTYtWVRveTlKZWVTZHhEVjBFUXpUQ195cE54d1JSWWxhUHJSTWhDbmo3Y3FqLThrNk54Z0NHdk1FeU52SUV1bWpoWW1lVEdiMzZfcXlxSGFfa0Zsa3VPckxEajFnRUdfaVlDRjFNa05rUkhFRzBLZUhnMWlyNGtieG91YXd4YUJDcldGdjRVSVppRE0tTEpoLXlSMWxadFd5OENWanZLcGVKcXZXclpVaWozeWFHWk1veTR2Z0ZXdXE1UXo5R0xkd05lcFNJUkJPNHowTlV4Yzl0VkNRR1UxOW5OOGp5bm9aYmhwUFgybTVGNXlzNTRSRlF3?oc=5"
+    },
+    {
+      "id": "news-1eedba1f0798",
+      "source": "news",
+      "title": "The Elder Scrolls 6 Has the Perfect Date for Its Long-Awaited Reveal - GameRant",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-01",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMURILUFZQjdXVlFKMHNtVURJdUk0VjV6UnNyMmhGb3FaYXNuT0lvUS1TZDByN2hycFBIMkQxaF9oY012TUtQVGJ5SUtoMmdKSXR3anhUb0xoR25HZklIOXpVSVg0dmpEZ1Y3REZmUkp0UjlDUFNLX2YtejBveHpLV0NZbHotQVk?oc=5"
+    },
+    {
+      "id": "news-f696aad7796c",
+      "source": "news",
+      "title": "Senior Iranian official warns next conflict will be long \"war of surprises\" - JFeed",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-01",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU0hpSjJNLVlPNzF0cU9WS3QzLWhUYlVTMEIzSndqWUFmN0Fla0ZYcmM3SVZ0NFpZLUdoaHdFWXA4WU8yeDBMQnk3WFlTZWZfeGEydWJYTGxWN3FvbWI5ZGZfVjF0OEdUb1ZUWUI5N1M4QTlVeFFNSTlwSy1aMWZQVWxEaFh6dWo0a3dVVVQtYWJRQXNwMF8xSkx5Tnc4bmhKd1gtMWdTSERWYnBBcFpJV29VSQ?oc=5"
+    },
+    {
+      "id": "news-82a24dc0397d",
+      "source": "news",
+      "title": "Chronic pain: New therapies to help long-term sufferers - DW.com",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-01",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHRVVW5TemRmQVl6U2x0UWZHaU5La1FUM3A2SWtGaXlDM3M5TkNlY0xwckpTU2JzX29FeW8xNFRCbGJvOXZZUU9BdnJQRDloUGVhbnBGUVY0MU9jTjRGZU5YWDZOaVpseWg4NGxSeXVSRDkxRU5QaXhueW9FVEZIVENlVHVnZzJRNjdxd3k3VUVOQ2RnVWc?oc=5"
+    },
+    {
+      "id": "news-922a8ad270e4",
+      "source": "news",
+      "title": "New Brunswick building 624 long-term care beds as part of new senior care plan - CTV News",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-SK",
+      "date": "2026-11-01",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM1ZLc3FkRE1FbVo2WHRndFZLdFZqQ25lZGNCMW9lZ0syOW05UWFIRkF4R1p3UXcySTk2RGlneGdzeGF1bm51TjRPVGhjQTJqOHlwbF9wNUZkMkhQbGI2TThDcHNhOVVxRnNjNlQ5MTRtbG1uc0FQWUJESUtfUmwxVHJmSDlnU281c2ZSSWUyYXV4bkdJUWlFRVhDamp0Vzl2aEVUakJDMUdQOGdPTUdmNGh6ZjljNEd6WWx1emlPQVdnM1RxQXhTc0hWT18tQQ?oc=5"
+    },
     {
       "id": "news-6cbab02f29bd",
       "source": "news",
@@ -195,83 +271,7 @@
         "knowledge"
       ],
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMl9xOWlWY3podzFHYl9qTi1ETG9kcThZZFJGNTd6QjhRYy1CV01FNUFWWGZEcVRyOE02QV93cmVNbGhYSkdaWnFIQTMzLUQzWXRvUi1kdmdPU0prTklGenBxQUpfSHM1TjN6cmRnS1NSZ1Nlbm4xMFBORkxIS3dCSzFBYnV0ZHEzeXVJbGlmOHRNUDl5YkE?oc=5"
-    },
-    {
-      "id": "news-e9fd45c9d685",
-      "source": "news",
-      "title": "The B.C. Conservatives promised long-awaited changes in disability policy. Will they follow through? - CTV News",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-29",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN0dHeHJOM2xfTklMdDcyNXVUREdmVzRXd25UT1c2TVZjVUxFMmxjM3dybmtadUxpYkZScjYxVEROelhLQTIyV0FFRVc5bXVYRE1OazB6b1lCemRwUDN3bWhaczUxVldLWlVvWDVVTjJLdXhybWpMMk9mTF9wYklfYXBnczk5ZW0tZlMxc1lGNkpYQ3M5LUxCZ0lfbFh6dGc3cDg3eU0ycnRVX1pvaWQzTk1MdkdOR2JFTVR0bFlzRWZOMVZKa2JycnVWWi1KSjZRLVFuVw?oc=5"
-    },
-    {
-      "id": "news-d4f3656558b3",
-      "source": "news",
-      "title": "Brookdale Senior Living (BKD): Favorable Senior Housing Demographics Reaffirm Long-Term Thesis - Yahoo Finance",
-      "communities": [
-        "elderly",
-        "vulnerable_communities"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-29",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWjZmVlREdEw1LURUWUw0TW1NaU5LWUlQbmdTa0sxRmRIZlh2YzNaZXl6ckhJYTA1S21OVW5JcnVpMjAxSElfY195NnItRW1ZWG1kalRpN3VfWnFvNTBuSjRDRkFwN2FLSDh4VjdHVXJKZUUxUm1RYlJUS2ptTm5zb2lqUTFQb203RDNldWN6ekJKeG1DMjJ6cng1ajBGZUtRTlhycg?oc=5"
-    },
-    {
-      "id": "news-fbdbe1844a24",
-      "source": "news",
-      "title": "Meerim ZHUMANAZAROVA (KGZ) vs. Jia LONG (CHN) | 2026 Senior World Championships | Gold Medal | WW 68Kg - United World Wrestling",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-29",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS3gxUmZJTS0yU1lDbWxMV0k3ME9EbU9BRndZanV0RXZWSElRc3RUTUlxZlZWUUlaMjBxa3VEN1A5YlBvbm9XRzZZY3YwMmp4TnZlSk5HTlc5QVJDaHhNVE5YLTZQOXk1d1V1Z3U1ZnlpblFULVczd3B1bzVPWHRFaWxiWFlZSkFiaGZSNURYSlM3SjQxMkd5dGdCaXVUUmh2clhwaXpUQTJpZDVpRWpsdjRoQ1NJdw?oc=5"
-    },
-    {
-      "id": "news-909100196d48",
-      "source": "news",
-      "title": "The Elder Scrolls VI: Sentinel Is Reportedly The Official Title Of Bethesda's Long-Awaited Fantasy RPG - PlayStation Universe",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-29",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMURnLTVCWERPZS1wb0pRamxBNERsc3BBYWk4dm96M0gycmZManNMV09NQm96VGZpZ2xiOGNDTkJpQXZPWV9YZ2V0WTlZdGZMcS1CQ1BXWGY3X0NxN0NIWVlxOUk5aTl6bzREMGJXdGFjQ2lsZlpkb2F2Z3FieTJDUW9KZ0wwZEhPZ216NjVqUWhjMy0xUkJ5Z1BxN282cXRmV0pwSllYV0lwb1J2NmsxdG9VeWtwYVM0N3FOTFdDN05fa2Rw?oc=5"
-    },
-    {
-      "id": "news-7dc3c5fa0a98",
-      "source": "news",
-      "title": "Lesotho dam authority must pay M90-million in long-overdue compensation - GroundUp",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-29",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeEpUYmFibjJiMzRub0xXcVotZmp6ZXhjX2lvdDhUZ3o0RVM3eUotZ2FHTEJxUktFTmRLaEFnQlVXN2JvQlF2dTVWUlJZeUE5VTFPUWQxVjBqdFp1cDJGbjdiU0tUb0NfdFRHOUJoMVI3TlBGblo3eG5yY01VTG1GaGlKVkJESFJrM3AxRndJalY4SlVrbVpYQjVmVmw5UHBvQUR6dXlYNA?oc=5"
     }
   ],
-  "generated": "2026-10-31"
+  "generated": "2026-11-01"
 }
