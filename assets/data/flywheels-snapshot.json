@@ -1,19 +1,19 @@
 {
-  "total": 2372,
+  "total": 2393,
   "verified": 5,
   "by_community": {
-    "disability": 971,
-    "accessibility": 686,
-    "injured_workers": 578,
-    "welfare_social": 527,
-    "elderly": 163,
-    "veterans": 44,
+    "disability": 977,
+    "accessibility": 692,
+    "injured_workers": 586,
+    "welfare_social": 530,
+    "elderly": 170,
+    "veterans": 45,
     "public_allies": 8,
     "vulnerable_communities": 5
   },
   "by_jurisdiction": {
-    "CA-ON": 1063,
-    "INTL": 908,
+    "CA-ON": 1071,
+    "INTL": 920,
     "CA-FED": 247,
     "CA-AB": 102,
     "CA-BC": 24,
@@ -22,22 +22,22 @@
     "CA-YT": 5,
     "CA-SK": 3,
     "CA-TERR": 2,
+    "CA-NL": 2,
     "CA-MB": 2,
     "CA": 1,
-    "CA-NL": 1,
     "CA-NU": 1
   },
   "by_source": {
     "x": 1610,
-    "reddit": 449,
-    "news": 296,
+    "reddit": 463,
+    "news": 303,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 2355,
+    "unverified_social": 2376,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -46,232 +46,226 @@
   },
   "recent": [
     {
-      "id": "news-2caf4bf3ddcb",
-      "source": "news",
-      "title": "NHP - Senior Housing Pivot And Deleveraging Will Reshape Long-Term Outlook For This Healthcare REIT - Simply Wall St",
+      "id": "1xlrbgs",
+      "source": "reddit",
+      "title": "Rant on the \"get a job\" people",
       "communities": [
         "elderly",
-        "vulnerable_communities"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-01",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPc25aSktvTjhsNDRMSURKclluQWJPX3luRW1OazROMW93Rjc4dzVaNmdzd29lNm1rZTYtWVRveTlKZWVTZHhEVjBFUXpUQ195cE54d1JSWWxhUHJSTWhDbmo3Y3FqLThrNk54Z0NHdk1FeU52SUV1bWpoWW1lVEdiMzZfcXlxSGFfa0Zsa3VPckxEajFnRUdfaVlDRjFNa05rUkhFRzBLZUhnMWlyNGtieG91YXd4YUJDcldGdjRVSVppRE0tTEpoLXlSMWxadFd5OENWanZLcGVKcXZXclpVaWozeWFHWk1veTR2Z0ZXdXE1UXo5R0xkd05lcFNJUkJPNHowTlV4Yzl0VkNRR1UxOW5OOGp5bm9aYmhwUFgybTVGNXlzNTRSRlF3?oc=5"
-    },
-    {
-      "id": "news-1eedba1f0798",
-      "source": "news",
-      "title": "The Elder Scrolls 6 Has the Perfect Date for Its Long-Awaited Reveal - GameRant",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-01",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMURILUFZQjdXVlFKMHNtVURJdUk0VjV6UnNyMmhGb3FaYXNuT0lvUS1TZDByN2hycFBIMkQxaF9oY012TUtQVGJ5SUtoMmdKSXR3anhUb0xoR25HZklIOXpVSVg0dmpEZ1Y3REZmUkp0UjlDUFNLX2YtejBveHpLV0NZbHotQVk?oc=5"
-    },
-    {
-      "id": "news-f696aad7796c",
-      "source": "news",
-      "title": "Senior Iranian official warns next conflict will be long \"war of surprises\" - JFeed",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-01",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU0hpSjJNLVlPNzF0cU9WS3QzLWhUYlVTMEIzSndqWUFmN0Fla0ZYcmM3SVZ0NFpZLUdoaHdFWXA4WU8yeDBMQnk3WFlTZWZfeGEydWJYTGxWN3FvbWI5ZGZfVjF0OEdUb1ZUWUI5N1M4QTlVeFFNSTlwSy1aMWZQVWxEaFh6dWo0a3dVVVQtYWJRQXNwMF8xSkx5Tnc4bmhKd1gtMWdTSERWYnBBcFpJV29VSQ?oc=5"
-    },
-    {
-      "id": "news-82a24dc0397d",
-      "source": "news",
-      "title": "Chronic pain: New therapies to help long-term sufferers - DW.com",
-      "communities": [
         "disability"
       ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-01",
+      "jurisdiction": "INTL",
+      "date": "2026-11-02",
       "flywheels": [
-        "evidence",
         "knowledge"
       ],
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHRVVW5TemRmQVl6U2x0UWZHaU5La1FUM3A2SWtGaXlDM3M5TkNlY0xwckpTU2JzX29FeW8xNFRCbGJvOXZZUU9BdnJQRDloUGVhbnBGUVY0MU9jTjRGZU5YWDZOaVpseWg4NGxSeXVSRDkxRU5QaXhueW9FVEZIVENlVHVnZzJRNjdxd3k3VUVOQ2RnVWc?oc=5"
+      "url": "https://www.reddit.com/r/ChronicPain/comments/1xlrbgs/rant_on_the_get_a_job_people/"
     },
     {
-      "id": "news-922a8ad270e4",
-      "source": "news",
-      "title": "New Brunswick building 624 long-term care beds as part of new senior care plan - CTV News",
+      "id": "1xlpenz",
+      "source": "reddit",
+      "title": "What happens if you change employer while you're on WorkCover?",
       "communities": [
-        "elderly"
+        "welfare_social",
+        "injured_workers"
       ],
-      "jurisdiction": "CA-SK",
-      "date": "2026-11-01",
+      "jurisdiction": "INTL",
+      "date": "2026-11-02",
       "flywheels": [
-        "evidence",
         "knowledge"
       ],
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM1ZLc3FkRE1FbVo2WHRndFZLdFZqQ25lZGNCMW9lZ0syOW05UWFIRkF4R1p3UXcySTk2RGlneGdzeGF1bm51TjRPVGhjQTJqOHlwbF9wNUZkMkhQbGI2TThDcHNhOVVxRnNjNlQ5MTRtbG1uc0FQWUJESUtfUmwxVHJmSDlnU281c2ZSSWUyYXV4bkdJUWlFRVhDamp0Vzl2aEVUakJDMUdQOGdPTUdmNGh6ZjljNEd6WWx1emlPQVdnM1RxQXhTc0hWT18tQQ?oc=5"
+      "url": "https://www.reddit.com/r/WorkcoverVic/comments/1xlpenz/what_happens_if_you_change_employer_while_youre/"
     },
     {
-      "id": "news-6cbab02f29bd",
-      "source": "news",
-      "title": "Senior dog inspires thousands to call for longer hours at West Van SPCA - North Shore News",
+      "id": "1xlebyw",
+      "source": "reddit",
+      "title": "WSIB CERTIFICATE",
       "communities": [
-        "elderly"
+        "veterans",
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-31",
+      "date": "2026-11-02",
       "flywheels": [
-        "evidence",
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNTNkNkhmYzRhX3V4RVdsaEtRcHhSTUdnUWI5VnRCOXdYMzBDamw2RTV0Z1EwUFpUU2RMM0JfU3EyN1A4eHlwRVM0WjFQdXN3QWtkR1Rha190QXFsdm13VDdLeU9fZ0VTOVJPTG45b3FySGhjWTlUX3RDQl8tLTBiOTZCN1BFd1BXZ0ZwRWdhQXlPSF85T0FCTk9iVjB1T2dPMm56cGFaZnhGemEzVGdzeFNpUVM?oc=5"
+      "url": "https://www.reddit.com/r/OntarioWSIB/comments/1xlebyw/wsib_certificate/"
     },
     {
-      "id": "news-9a2407b7904c",
+      "id": "1xllijz",
+      "source": "reddit",
+      "title": "How long does it take to receive settlement counter offer",
+      "communities": [
+        "disability",
+        "injured_workers"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-11-02",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://www.reddit.com/r/WorkersComp/comments/1xllijz/how_long_does_it_take_to_receive_settlement/"
+    },
+    {
+      "id": "1xlpnua",
+      "source": "reddit",
+      "title": "Jobs that can be done lying down?",
+      "communities": [
+        "accessibility",
+        "disability"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-11-02",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://www.reddit.com/r/disability/comments/1xlpnua/jobs_that_can_be_done_lying_down/"
+    },
+    {
+      "id": "1xlqdlq",
+      "source": "reddit",
+      "title": "At the end of my rope",
+      "communities": [
+        "elderly",
+        "disability"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-11-02",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://www.reddit.com/r/ChronicPain/comments/1xlqdlq/at_the_end_of_my_rope/"
+    },
+    {
+      "id": "1xlfnry",
+      "source": "reddit",
+      "title": "Bill 105",
+      "communities": [
+        "welfare_social",
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-02",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://www.reddit.com/r/OntarioWSIB/comments/1xlfnry/bill_105/"
+    },
+    {
+      "id": "1xlh65c",
+      "source": "reddit",
+      "title": "LibreBridge Mini - Open Switch Interface",
+      "communities": [
+        "accessibility"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-11-02",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://www.reddit.com/r/accessibility/comments/1xlh65c/librebridge_mini_open_switch_interface/"
+    },
+    {
+      "id": "1xldi27",
+      "source": "reddit",
+      "title": "Tech for Alzheimer’s patients",
+      "communities": [
+        "accessibility"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-11-02",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://www.reddit.com/r/AssistiveTechnology/comments/1xldi27/tech_for_alzheimers_patients/"
+    },
+    {
+      "id": "1xlrg4z",
+      "source": "reddit",
+      "title": "EN 301 549 V4.1.1 is out, but as of 3 November 2026 no version of it is cited in the Official Journal under the European Accessibility Act",
+      "communities": [
+        "accessibility"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-11-02",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://www.reddit.com/r/accessibility/comments/1xlrg4z/en_301_549_v411_is_out_but_as_of_3_november_2026/"
+    },
+    {
+      "id": "1xlvkrq",
+      "source": "reddit",
+      "title": "Has anyone else had a really supportive WorkCover agent?",
+      "communities": [
+        "welfare_social",
+        "injured_workers"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-11-02",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://www.reddit.com/r/WorkcoverVic/comments/1xlvkrq/has_anyone_else_had_a_really_supportive_workcover/"
+    },
+    {
+      "id": "1xlvwr2",
+      "source": "reddit",
+      "title": "Insurers Help! psychological injury fraud",
+      "communities": [
+        "disability",
+        "injured_workers"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-11-02",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://www.reddit.com/r/WorkersComp/comments/1xlvwr2/insurers_help_psychological_injury_fraud/"
+    },
+    {
+      "id": "1xlply9",
+      "source": "reddit",
+      "title": "Jobs that can be done lying down?",
+      "communities": [
+        "accessibility",
+        "disability"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-11-02",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://www.reddit.com/r/disability/comments/1xlply9/jobs_that_can_be_done_lying_down/"
+    },
+    {
+      "id": "1xltvan",
+      "source": "reddit",
+      "title": "Building a speech tool for people who stutter, looking for honest beta feedback (mods, remove if not allowed)",
+      "communities": [
+        "accessibility"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-11-02",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://www.reddit.com/r/AssistiveTechnology/comments/1xltvan/building_a_speech_tool_for_people_who_stutter/"
+    },
+    {
+      "id": "news-60dca37cf933",
       "source": "news",
-      "title": "Bereaved families to receive full asbestos compensation in long-awaited change - Bournemouth Echo",
+      "title": "Lesotho dam authority must pay M90m in long-overdue compensation - Bizcommunity",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-10-31",
+      "date": "2026-11-02",
       "flywheels": [
         "evidence",
         "knowledge"
       ],
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0RYMWpXYlhXZUpmM3lvYmpVei1uNWltTkE5SzNRS0NPajZhUWpJdmowMjFWLUJTS2xlbk04SEduY0QzZUlMTU96OFd5aWJmTkdTaTBqN053cGUybW80S2pHejBYQmc3MGxsbjhnaUg1akVQWUZFR1hLUHNxYm1ySHUydmQwSGRLaWo5Y3pHckx0RnFMXzE4OGtvRGlHb3I1QkRv?oc=5"
-    },
-    {
-      "id": "news-d94fdac80061",
-      "source": "news",
-      "title": "GWAS of extended prescription analgesic use identifies genetic loci in chronic pain - Nature",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-31",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93WHI4bFIzRDZnLWh3aHNJYkFqWGMyWk10NTUyc29JLXZOaENFQXNuaGFVeEVNLTBaYkxHOHdMQlg3aldLZnkxLVJJNXNMLVRGTFk4ZGVWbllkcFA4X0JZ?oc=5"
-    },
-    {
-      "id": "news-95df475c4605",
-      "source": "news",
-      "title": "Elsipogtog to get First Nation-run elder care facility — a first for N.B. - CBC",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-NB",
-      "date": "2026-10-31",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTWxLZWFIT1YyT2lYblptblRyNXF0QVNtcEFPY3NkZG1VWFk1Q2huS1RldURYUGlFVldxa3JseG5qeGVJNmFVcTVYTmFsUGdlcThTZE82MV9zWnlwdWRSeVZmUHJkaFIxOFdGenN0RUl3OHlxS2pOQnBCaXRvbDdBRkJQRFNXb1JWM2w0ZFlMLVctemNvMmk2UjdZSQ?oc=5"
-    },
-    {
-      "id": "news-037eac812dd3",
-      "source": "news",
-      "title": "Q&A with Senior Long Snapper Erik Schlecker - North Carolina Central University Athletics",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-NB",
-      "date": "2026-10-31",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT1hmbjVyWjdQdEJsdHJxclM2cDJReTNUckYtWlc1eWVFSzFXZnFYNS0yVTlncUlaNnJPbkpoTU9WLTVxN2RUYkhnUFM2MEtEcjhnWHdBd3JqN2tLNllIb3NKZGpzV3hvN04wQ0gzQ2JIaXp2cThzdzRzUGZNZy1pU1ZZRFU3Q1pMT2V0UGFfRlozaDRPMVhTYmhKaw?oc=5"
-    },
-    {
-      "id": "news-236ecb3050bf",
-      "source": "news",
-      "title": "Long Covid Disabled Millions of Workers. Then Came Trump 2.0. - Mother Jones",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-30",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSzBfQzVhT2hTWk1CNHNnc1RDZThSdFd6RVkwZ0JLdndGNXdrVk5EaGs1X3ZGckI2RHRqTzdCeE94ODFkQmFaVGdhZ1FBNTV4NzNzS05XWWxGZ1Zic3FxVDByWFVyV2tQdmhqZE1sVVIzNTBGT25tWEdLQXRvUHkxdi1XdWdzUlpUTXZfS1A0WmJWdGJlUkExRTdVTGphTVEySjJWbFdXRGJIdw?oc=5"
-    },
-    {
-      "id": "news-65aba222237b",
-      "source": "news",
-      "title": "Can Sienna Senior Living (TSX:SIA) Extend Its Long Growth Streak? - Kalkine Media",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-30",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR2tpTHVGVUZ3ejZBcTRlWVVpbWk5MThEQmV6Nm5UZWl6Z1Q0elJ0ajk5TGtueXJJcnJmTXNRYTRab0tKQS1lS3JpT3pQSWlhVUxEY3N1M1VZbWhSWnMyQUtkUGF2eTBlXzFzc0RMR09QNFZpV0JxTV9fRzRGTUc3eVNnR1p6b1FibWhJd2tiQTVxM3pBU1pBbFlNZnBqVFVEN1BYYjlHMFhoMzQ?oc=5"
-    },
-    {
-      "id": "news-94b68892d9a8",
-      "source": "news",
-      "title": "Older Adults Face Long-Term Disability and Higher One-Year Mortality After a Hip Fracture - 헬스조선",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-30",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbjhLZk8yVkZSNjFPdlphMHhJZHROYjBTWnFLX0V4VFJKYXlVcW5yS3lCVm54aUk4c1NRMEw3aHVKeUdYVXpfRzg2ZHBsVHB4TmF5TTlzNmV3RVFSWC1PWElCOUlXWGtmYXhPbUFRWlc2d3NzbzJfak40dnZTR1dzTlduTEd0a3c0alE?oc=5"
-    },
-    {
-      "id": "news-7460a782b3fa",
-      "source": "news",
-      "title": "Boys Cross Country: R.A. Long senior advances to state race - Longview Daily News",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-30",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUjAyZzdBNTRxcWRqZWY1c3FLWEQxcWllTHdkSmkwaVpxVlFMV0xQMGRWU242MElVUHBDODEtdTNHaV9lR3hZakpMc24zcVFwczFMS0JGRzV2UnpBZ0U0dllUenQ4NEFUM0ZhUFVCN3FMUTd2azVxZnVvcC14MnJ5UUdja3l3SW1wZ1p2ekZqeHE1WlFwUW14Z3VWYk91aTA?oc=5"
-    },
-    {
-      "id": "news-8574a08ac64a",
-      "source": "news",
-      "title": "Hedge fund senior PM pay potential dwarfs long-only compensation - Hedgeweek",
-      "communities": [
-        "elderly",
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-10-30",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMl9xOWlWY3podzFHYl9qTi1ETG9kcThZZFJGNTd6QjhRYy1CV01FNUFWWGZEcVRyOE02QV93cmVNbGhYSkdaWnFIQTMzLUQzWXRvUi1kdmdPU0prTklGenBxQUpfSHM1TjN6cmRnS1NSZ1Nlbm4xMFBORkxIS3dCSzFBYnV0ZHEzeXVJbGlmOHRNUDl5YkE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORjJhblI3eG90Y1NaTU52S0RoSHFkRUNickxvSENpQ3dWTnVOSDI0WFY0dlQ2QUtGMldyNkZLOHZoX2VkazZROW11QWUwSkFmcEFVa2RycVY2QkJNOU1PWEJqY3IyVUVsMFFOcjg2RmwzMHNuLWpzN3BnNklVVmFmcU5VZ3VwN3J4ZW5lNk5ZOUxQOEE0NE9Qb3ZiM0ZPcDl5bDJkQktpb0VBZU1PUGc?oc=5"
     }
   ],
-  "generated": "2026-11-01"
+  "generated": "2026-11-02"
 }
