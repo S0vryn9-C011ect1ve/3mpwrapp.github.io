@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-02",
-  "timestamp": "2026-11-02T21:30:03.760Z",
-  "count": 7,
+  "date": "2026-11-03",
+  "timestamp": "2026-11-03T19:15:34.379Z",
+  "count": 9,
   "minScore": 3.5,
   "items": [
     {
@@ -9,49 +9,63 @@
       "link": "https://linktr.ee/thedisabilitybulletin",
       "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
       "score": 10,
-      "pubDate": "2026-11-02T21:30:03.756Z"
+      "pubDate": "2026-11-03T19:15:34.373Z"
     },
     {
-      "title": "Paul Parks, ER physician and prominent defender of public health care, seeks Alberta NDP nomination in Cypress-Medicine Hat",
-      "link": "https://rabble.ca/politics/canadian-politics/paul-parks-er-physician-and-prominent-defender-of-public-health-care-seeks-alberta-ndp-nomination-in-cypress-medicine-hat/",
-      "description": "",
-      "score": 11.9,
-      "pubDate": "Mon, 02 Nov 2026 19:26:42 +0000"
+      "title": "Election Meddling? Trump Is No One to Point Fingers",
+      "link": "https://thetyee.ca/Analysis/2026/11/03/Election-Meddling-Trump-Point-Fingers/",
+      "description": "The Alberta file makes a mockery of US claims against Canada. Here’s why.",
+      "score": 15,
+      "pubDate": "Tue, 03 Nov 2026 08:40:00 +0000"
     },
     {
-      "title": "Manitoba Public Health Declares Measles Outbreak Over",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75797",
+      "title": "Canada’s in its free-trade rebound era",
+      "link": "https://rabble.ca/politics/canadian-politics/canadas-in-its-free-trade-rebound-era/",
       "description": "",
       "score": 10.5,
-      "pubDate": "Fri, 16 Oct 2026 14:38:00 CDT"
+      "pubDate": "Tue, 03 Nov 2026 19:10:22 +0000"
     },
     {
-      "title": "After Testing, No Further Rabid Skunks Found in Vancouver",
-      "link": "https://thetyee.ca/News/2026/11/02/No-Further-Rabid-Skunks-Vancouver/",
-      "description": "A ‘small number’ of people received post-exposure care. The skunk  tested positive for the bat variant.",
-      "score": 6,
-      "pubDate": "Mon, 02 Nov 2026 08:10:00 +0000"
-    },
-    {
-      "title": "It Was Considered a News Desert. Then Came the Crime Wave",
-      "link": "https://thetyee.ca/News/2026/11/02/News-Desert-Then-Came-Crime-Wave/",
-      "description": "Michael Popove traded a Downtown Eastside SRO for a career as a news anchor. His background helped him cover Dawson Creek’s gang violence.",
-      "score": 6.5,
-      "pubDate": "Mon, 02 Nov 2026 08:30:00 +0000"
-    },
-    {
-      "title": "Alberta Justice Minister rejects Elections Alberta's suggestion of using old electoral map",
-      "link": "https://rabble.ca/politics/canadian-politics/alberta-justice-minister-rejects-elections-albertas-suggestion-of-using-old-electoral-map/",
+      "title": "Manitoba Government Signs Bilateral Housing Agreement with Manitoba M�tis Federation",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75817",
       "description": "",
-      "score": 3.9000000000000004,
-      "pubDate": "Mon, 02 Nov 2026 19:31:44 +0000"
+      "score": 9.5,
+      "pubDate": "Sat, 17 Oct 2026 16:22:00 CDT"
     },
     {
-      "title": "Alberta Chief Electoral Officer offers graceful exit for UCP from risky gerrymandering strategy",
-      "link": "https://rabble.ca/politics/canadian-politics/alberta-chief-electoral-officer-offers-graceful-exit-for-ucp-from-risky-gerrymandering-strategy/",
+      "title": "Manitoba Government Invests More Than $300,000 to Upgrade Arts and Recreation Infrastructure in Westman",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75759",
       "description": "",
-      "score": 3.9000000000000004,
-      "pubDate": "Mon, 02 Nov 2026 19:00:02 +0000"
+      "score": 7.5,
+      "pubDate": "Sat, 17 Oct 2026 11:00:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Expands Maryland Park School to Meet Growing Student Population in Brandon",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75678",
+      "description": "",
+      "score": 7.5,
+      "pubDate": "Fri, 09 Oct 2026 15:21:00 CDT"
+    },
+    {
+      "title": "The Deceptions That Crippled a Renewable Energy Industry",
+      "link": "https://thetyee.ca/Analysis/2026/11/03/Deceptions-Killed-Alberta-Renewable-Energy-Industry/",
+      "description": "Alberta invokes ‘agriculture first’ to block wind and solar while putting gas plants on prime land.",
+      "score": 4.5,
+      "pubDate": "Tue, 03 Nov 2026 21:45:00 +0000"
+    },
+    {
+      "title": "Manitoba Recognizes Yellowquill University College as First Degree-Granting Institution Owned and Operated by First Nations",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75677",
+      "description": "",
+      "score": 4.5,
+      "pubDate": "Fri, 09 Oct 2026 14:55:00 CDT"
+    },
+    {
+      "title": "New Retention and Recruitment Office Helps Bring 18 Physicians to Prairie Mountain Health",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75862",
+      "description": "",
+      "score": 3.5,
+      "pubDate": "Thu, 22 Oct 2026 13:47:00 CDT"
     }
   ]
 }

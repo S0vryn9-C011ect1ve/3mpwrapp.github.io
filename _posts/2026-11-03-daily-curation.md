@@ -1,0 +1,63 @@
+---
+layout: post
+title: "Daily News Curation - 2026-11-03"
+date: 2026-11-03
+tags: [highlights]
+categories: [curation, news]
+excerpt: "Today's curated disability rights, accessibility, and social policy news from across Canada."
+---
+
+# Daily News Curation - 2026-11-03
+
+Curated 9 items from disability, accessibility, and social policy sources.
+
+## 🌟 Featured: The Disability Bulletin
+
+### The Disability Bulletin
+Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.
+📍 [Read More](https://linktr.ee/thedisabilitybulletin)
+
+---
+
+## Additional Stories
+
+### 1. Election Meddling? Trump Is No One to Point Fingers
+The Alberta file makes a mockery of US claims against Canada. Here’s why.
+[Source](https://thetyee.ca/Analysis/2026/11/03/Election-Meddling-Trump-Point-Fingers/)
+**Score:** 15.00
+
+### 2. Canada’s in its free-trade rebound era
+Rabble.ca — progressive Canadian news
+[Source](https://rabble.ca/politics/canadian-politics/canadas-in-its-free-trade-rebound-era/)
+**Score:** 10.50
+
+### 3. Manitoba Government Signs Bilateral Housing Agreement with Manitoba M�tis Federation
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75817)
+**Score:** 9.50
+
+### 4. Manitoba Government Invests More Than $300,000 to Upgrade Arts and Recreation Infrastructure in Westman
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75759)
+**Score:** 7.50
+
+### 5. Manitoba Government Expands Maryland Park School to Meet Growing Student Population in Brandon
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75678)
+**Score:** 7.50
+
+### 6. The Deceptions That Crippled a Renewable Energy Industry
+Alberta invokes ‘agriculture first’ to block wind and solar while putting gas plants on prime land.
+[Source](https://thetyee.ca/Analysis/2026/11/03/Deceptions-Killed-Alberta-Renewable-Energy-Industry/)
+**Score:** 4.50
+
+### 7. Manitoba Recognizes Yellowquill University College as First Degree-Granting Institution Owned and Operated by First Nations
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75677)
+**Score:** 4.50
+
+### 8. New Retention and Recruitment Office Helps Bring 18 Physicians to Prairie Mountain Health
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75862)
+**Score:** 3.50
+
