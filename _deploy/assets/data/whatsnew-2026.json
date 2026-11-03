@@ -1,8 +1,188 @@
 {
   "year": 2026,
   "version": "1.0",
-  "lastUpdated": "2026-10-05T20:00:00-04:00",
+  "lastUpdated": "2026-11-03T12:00:00-05:00",
   "entries": [
+    {
+      "id": "wn-2026-11-03-bill-105-status-refresh",
+      "title": "📜 Bill 105 (WSIB) status refresh — still not law; third reading ordered",
+      "summary": "We re-checked Ontario Bill 105 (Protecting Ontario's Workers and Economic Resilience Act, 2026). Official status remains Ordered for Third Reading (committee amended May 25, 2026) — not Royal Assent. Lock-in removal is still the core risk for long-term injured workers; LOE 85%→90%, post-65 path, and expanded coverage stay proposed only. Benefits Planner will not switch to “new law” math until Royal Assent is verified. Advocacy: IWC/coalition WSIB implementation letter endorsements due Fri Nov 13, 2026. Full guide: /knowledge-base/bill-105-wsib-lockin/",
+      "date": "2026-11-03T12:00:00-05:00",
+      "category": "docs",
+      "repo": "website",
+      "commitSha": "pending"
+    },
+    {
+      "id": "wn-2026-10-14-user-bases-flywheels-live",
+      "title": "🪶 Find help that fits YOU — 9 communities, and the 3 Flywheels of Change are now alive",
+      "summary": "You can now tell the app and site who you're here for — injured workers, persons with disabilities, Indigenous peoples, veterans, seniors, families, the public, allies, or advocates (pick any or all). From there everything personalizes: letter and form templates, the research, and the three Flywheels of Change (Collective Evidence, Win Detection, and AI Knowledge & Recommendations) now learn from and grow with your community. We also expanded workers' compensation help to cover all of Canada, coast to coast to coast. Behind the scenes we cleared hidden bugs so the app runs more reliably.",
+      "date": "2026-10-14T14:00:00-04:00",
+      "category": "feature",
+      "repo": "app+website",
+      "commitSha": "pending"
+    },
+    {
+      "id": "wn-2026-10-09-indigenous-full-verification",
+      "title": "🌿 Indigenous Communities — Full Verification & Research Integration",
+      "summary": "Confirmed indigenous community coverage (health, disability rights, cultural protocols, traditional knowledge respect, ceremonial considerations, land acknowledgment) fully intact across app (indigenous-language settings) and site (user-guide: Indigenous Languages + Indigenous Rights & Treaty Protections; feature-spotlight 2026-03-24; dev diary 2026-04-24 / 07-02; crisis .service-card.indigenous; NIHB). Not reduced to language only. Integrated into Athena flywheels (indigenous-language, indigenous_disability_rights, indigenous_accessibility) and user base. What's New entry + site post created.",
+      "date": "2026-10-09T09:30:00-04:00",
+      "category": "docs",
+      "repo": "app+website",
+      "commitSha": "pending"
+    },
+    {
+      "id": "wn-2026-10-08-sitewide-numbers-winrate-sweep",
+      "title": "🔢 Site-wide number + win-rate reconciliation",
+      "summary": "Full sweep: every retired 99,036 WSIAT count → 98,992 across 161 content files (KB, guides, posts, blog, docs). Win-rate contradictions reconciled to the canonical evidence-based figure — WSIAT favorable 73.5% (438/596 from 649 classified, keyword-inferred; not an official WSIAT rate); HRTO allowed 5.4% (503/9,269, VERIFIED); HRTO abandonment 43.9% (4,073/9,269, VERIFIED). Retracted 89.1% / 0.7% 'applicant victory' and the mislabeled '73.5% HRTO abandonment' removed from all visualization/data JSON and the blog. Source-of-truth doc and historical whats-new changelog intentionally retained.",
+      "date": "2026-10-08T09:15:00-04:00",
+      "category": "improvement",
+      "repo": "website",
+      "commitSha": "pending"
+    },
+    {
+      "id": "wn-2026-10-08-research-winrate-reconcile",
+      "title": "📊 Win-rate reconciliation + 98,992 corrections",
+      "summary": "Reconciled win-rate contradictions across the research data pages to the canonical evidence-based figure: WSIAT favorable outcome 73.5% (438/596 classified decisions with determinable outcome, from 649 classified — keyword-inferred). Fixed retired 99,036 WSIAT count → 98,992 on research-data-sources.md and data-limitations.md; labelled HRTO 62,093 as INFERRED applications; retired the contradictory 99,036+130,736 decomposition. Added the 73.5% receipt to /cross-tribunal-success-rates and /research-data-sources. Retracted 89.1%/63.1% remain only in data JSON / legacy files (flagged for follow-up).",
+      "date": "2026-10-08T08:30:00-04:00",
+      "category": "improvement",
+      "repo": "website",
+      "commitSha": "pending"
+    },
+    {
+      "id": "wn-2026-10-08-research-help-all-users",
+      "title": "🆘 I Need Help room now serves every community",
+      "summary": "Expanded the I Need Help room on /research/ beyond injured workers. Added a 'Find Help for Your Situation' block linking to real guides/templates for veterans (VAC/VRAB), seniors (OAS/GIS), persons with disabilities, caregivers/families, human rights/UNCRPD, and public allies. Updated the door description to reflect the full user base. All 9 linked pages verified live (HTTP 200).",
+      "date": "2026-10-08T08:00:00-04:00",
+      "category": "improvement",
+      "repo": "website",
+      "commitSha": "pending"
+    },
+    {
+      "id": "wn-2026-10-08-research-four-rooms",
+      "title": "🚪 Research page: four rooms restructure (phase 2)",
+      "summary": "Folded all /research/ content into four labeled rooms so each audience lands fast: I Need Help (advocacy/appeal tools) · Explore the Research (guides/KB/templates by community) · Explore the Data (visualizations + findings) · Methodology & Sources (how data was collected, what's proven, limits). The four doors at the top now jump to each room. No content lost; original section ids preserved inside rooms.",
+      "date": "2026-10-08T07:30:00-04:00",
+      "category": "improvement",
+      "repo": "website",
+      "commitSha": "20d3cf2"
+    },
+    {
+      "id": "wn-2026-10-08-research-number-legitimacy",
+      "title": "🔢 Research page: number legitimacy reconciled",
+      "summary": "Aligned /research/ counts to the canonical source-of-truth (DATA_SOURCES_METHODOLOGY.md): WSIAT standalone figures now use 98,992 (re-verified Open Data parse; 99,036 is the retired extraction-manifest figure used in the 127,600 sum). Explicitly separated HRTO 9,269 (classified decisions) from 62,093 (applications, INFERRED) so the two are never mis-added. Added scope footnotes for every tribunal count. All arithmetic verified: 230,392 = 127,600 + 102,792; 127,600 = 99,036+9,269+13,798+463+5,034.",
+      "date": "2026-10-08T07:00:00-04:00",
+      "category": "improvement",
+      "repo": "website",
+      "commitSha": "pending"
+    },
+    {
+      "id": "wn-2026-10-08-research-four-doors",
+      "title": "🚪 Research page: four-door navigation",
+      "summary": "Added a four-door navigation block to /research/ so different audiences land fast: I Need Help (#advocacy-tools), Explore the Research (#communities), Explore the Data (#data-visualizations), Methodology & Sources (#methodology). Additive nav only — no content changed. Full four-room content restructure scoped as a planned phase 2.",
+      "date": "2026-10-08T06:30:00-04:00",
+      "category": "improvement",
+      "repo": "website",
+      "commitSha": "pending"
+    },
+    {
+      "id": "wn-2026-10-08-research-number-harmonize",
+      "title": "🔢 Research page: number clarity + careful language",
+      "summary": "Added a 'How these numbers relate' explainer to /research/ (230,392 = 127,600 tribunal + 102,792 employer; WSIAT 99,036 raw / 98,992 curated; 50,161 cases classified at 85.1%). Reconciled the 99,036 vs 98,992 WSIAT figures and softened 'playbook'/'tactics' wording to 'recurring denial patterns and language' so the page doesn't imply proven intentional coordination.",
+      "date": "2026-10-08T06:00:00-04:00",
+      "category": "improvement",
+      "repo": "website",
+      "commitSha": "pending"
+    },
+    {
+      "id": "wn-2026-10-08-news-full-canada",
+      "title": "📰 News watch now covers ALL of Canada (no exclusions)",
+      "summary": "Expanded the news intake from Thunder Bay + Ontario only to full Canadian coverage — every major locality, all 10 provinces + 3 territories, Canada-wide, and world. Relevance-gated to the main user base (injured workers, disability, seniors/elderly, veterans, vulnerable communities, families, public allies). Ledger now 1,099 cards (news: 130).",
+      "date": "2026-10-08T05:00:00-04:00",
+      "category": "feature",
+      "repo": "website",
+      "commitSha": "pending"
+    },
+    {
+      "id": "wn-2026-10-08-news-pipeline",
+      "title": "📰 News now feeds the research pipeline (local → world)",
+      "summary": "Added a news intake pipeline that pulls Google News RSS across four scopes — local (Thunder Bay), provincial (Ontario), Canada-wide, and world — relevance-gated to the main user base (injured workers, disability, seniors/elderly, veterans, vulnerable communities, families, public allies). 95 news cards ingested into the evidence ledger on first run; now visible in the public flywheel visual.",
+      "date": "2026-10-08T04:00:00-04:00",
+      "category": "feature",
+      "repo": "website",
+      "commitSha": "pending"
+    },
+    {
+      "id": "wn-2026-10-08-research-pipeline-all-angles",
+      "title": "🔭 Research page now shows the full pipeline + live public flywheel visual",
+      "summary": "The /research/ page gained an 'All Angles' section mapping every intake source — Reddit Daily Digest, X, Themis Justice Watch, News, and CanLII — into the evidence ledger that powers the guides, KBs and templates. Added a public flywheels-public.html visual (969 evidence cards, by community/jurisdiction/source) so visitors see the engine in action.",
+      "date": "2026-10-08T03:00:00-04:00",
+      "category": "feature",
+      "repo": "website",
+      "commitSha": "pending"
+    },
+    {
+      "id": "wn-2026-10-08-research-hub-communities",
+      "title": "🌐 Research hub expanded to every community + CanLII scraping resume",
+      "summary": "The /research/ page now links guides, knowledge bases and templates across every community we serve — injured workers, veterans, seniors, caregivers, persons with disabilities, and human-rights / UNCRPD / legal — plus a note that CanLII decision-data scraping is resuming (BC WCAT 2020–2026 already collected: 7,386 decisions via the free CanLII API).",
+      "date": "2026-10-08T02:30:00-04:00",
+      "category": "feature",
+      "repo": "website",
+      "commitSha": "ef834030"
+    },
+    {
+      "id": "wn-2026-10-07-accuracy-audit",
+      "title": "🧹 Sitewide accuracy audit: fabricated citation, wrong domain, inflated win-rates fixed",
+      "summary": "Corrected the fabricated Pasiechnyk v. Ontario (WSIB) 2015 citation to the real SCC case across the live knowledge base; fixed wsiat.on.ca → wsiat.ca; reconciled 89.1%/68.7%/98.9%/90.4% headline stats to honest ~65–73% ranges with verified/disclaimed labels.",
+      "date": "2026-10-07T21:00:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "a43b3c6"
+    },
+    {
+      "id": "wn-2026-10-07-viz-a11y",
+      "title": "♿ Repaired broken tribunal heatmap + added ARIA/tables to all 16 visualizations",
+      "summary": "The tribunal decision heatmap no longer hangs on a 404 (real aggregated data + fetch timeout fallback). Every D3 visualization now has a screen-reader table alternative and ARIA roles/labels.",
+      "date": "2026-10-07T21:05:00-04:00",
+      "category": "fix",
+      "repo": "website",
+      "commitSha": "a43b3c6"
+    },
+    {
+      "id": "wn-2026-10-07-methodology",
+      "title": "📊 Data Sources & Methodology published — single source of truth for all stats",
+      "summary": "A canonical reconciliation of every contradictory figure on the site (WSIAT 98,992 vs 99,036, HRTO 9,269 vs 62,093, win-rate 63.1% vs 73.5%) with verified/inferred labels and source URLs.",
+      "date": "2026-10-07T21:10:00-04:00",
+      "category": "docs",
+      "repo": "website",
+      "commitSha": "a43b3c6"
+    },
+    {
+      "id": "wn-2026-10-07-new-communities",
+      "title": "🎯 New community guides: Veterans, Seniors, Caregivers, Federal Disabilities, UNCRPD & Human Rights",
+      "summary": "Built out the communities that had zero or near-zero coverage: Veterans (VAC/VRAB), Seniors (OAS/GIS/Allowance/CPP-D/GAINS), Caregivers (EI/METC/OCO), Federal Disabilities (CPP-D/DTC/CDB/RDSP), UNCRPD, and HRTO/CHRT human-rights tribunals — all with official-source verification.",
+      "date": "2026-10-07T21:15:00-04:00",
+      "category": "feature",
+      "repo": "website",
+      "commitSha": "a43b3c6"
+    },
+    {
+      "id": "wn-2026-10-07-flywheels",
+      "title": "🔗 New flywheel pages: Member Wins hub + From Pattern to Policy",
+      "summary": "Evidence Flywheel now has a public Member Wins hub (share your win) and a From Pattern to Policy page linking member evidence to collective campaigns. Both wired into the guides + research indexes.",
+      "date": "2026-10-07T21:20:00-04:00",
+      "category": "feature",
+      "repo": "website",
+      "commitSha": "a43b3c6"
+    },
+    {
+      "id": "wn-2026-10-07-app-crosslinks",
+      "title": "🔗 App resources now cross-link to full website guides + mentor/AI explainers",
+      "summary": "The app's knowledge-base and WSIB-appeals screens now link out to the full website guides (WSIAT/HRTO/ONSBT/ONCA) and surface the in-app mentor + AI-explainer features — completing the Knowledge Network flywheel.",
+      "date": "2026-10-07T21:25:00-04:00",
+      "category": "feature",
+      "repo": "app",
+      "commitSha": "a43b3c6"
+    },
     {
       "id": "wn-2026-10-01-whatsnew-archive",
       "title": "🗂️ Fixed What's New archive grouping by month (JS bug)",
@@ -1078,8 +1258,8 @@
     },
     {
       "id": "wn-site-2026-09-16-canlii-audit",
-      "title": "CANLII research updated — 98,992 WSIAT cases, BC WCAT data recovered",
-      "summary": "Fixed research page numbers: WSIAT cases updated from 98,992 to 98,992. BC WCAT data that was lost in laptop failure has been recovered — 7,386 decisions now committed and verifiable.",
+      "title": "CANLII research updated — 99,036 WSIAT cases, BC WCAT data recovered",
+      "summary": "Fixed research page numbers: WSIAT cases updated from 98,992 to 99,036. BC WCAT data that was lost in laptop failure has been recovered — 7,386 decisions now committed and verifiable.",
       "date": "2026-09-16T23:59:00-04:00",
       "category": "improvement",
       "repo": "website",
@@ -2528,8 +2708,8 @@
     },
     {
       "id": "wn-2026-04-16-258df0",
-      "title": "✨ Update 4 existing KB articles with new 98,992-case statistics (low-back 390 case...",
-      "summary": "Update 4 existing KB articles with new 98,992-case statistics (low-back 390 cases, fibro 88, mental health 611, impairment 818).",
+      "title": "✨ Update 4 existing KB articles with new 99,036-case statistics (low-back 390 case...",
+      "summary": "Update 4 existing KB articles with new 99,036-case statistics (low-back 390 cases, fibro 88, mental health 611, impairment 818).",
       "date": "2026-04-16T01:09:08.000Z",
       "category": "feature",
       "repo": "site",
@@ -11785,6 +11965,33 @@
       "category": "fix",
       "repo": "app",
       "archived": false
+    },
+    {
+      "id": "wn-2026-10-08-research-review-fixes",
+      "title": "🔧 Research page: fixed broken badges + chart count",
+      "summary": "Final proofread of /research/: fixed 5 visualization cards that displayed raw CSS class names as visible text (badge-purple/blue/orange) — now show real decision counts (HRTO 9,269, ONWSIB 463, ONCA 5,034, ONSBT 13,798, heatmap 'Issue Categories'); labelled 2 empty badges (Injury × Industry, Defence Shifts); corrected the '5 live charts' claim to 11; updated one research-link label away from the retired 'worker victory rates' phrasing. All 15 sampled internal links verified live (HTTP 200).",
+      "date": "2026-10-08T10:00:00-04:00",
+      "category": "improvement",
+      "repo": "website",
+      "commitSha": "pending"
+    },
+    {
+      "id": "wn-2026-10-08-homepage-review-fixes",
+      "title": "🏠 Homepage: fixed duplicate hero + broken flywheels link",
+      "summary": "Final proofread of the homepage: removed a duplicated hero include (building-public-hero.html was rendered twice), and fixed a 404 — the 'Flywheels' button pointed to /flywheels/ (does not exist) instead of the live public visual at /flywheels-public.html. 22 other internal links verified live (HTTP 200). Note: the CanLII Keyword Network stat '134,920 cases (98,992 WSIAT + 35,928 other tribunals)' is internally consistent and intentionally broader than /research/'s 127,600 Ontario-only figure (it includes BC WCAT); scope is clarified in the section text.",
+      "date": "2026-10-08T10:30:00-04:00",
+      "category": "improvement",
+      "repo": "website",
+      "commitSha": "pending"
+    },
+    {
+      "id": "wn-2026-10-09-flywheels-public-full-update",
+      "title": "🌀 Flywheels Public — Full Update (30-Day Window + Archive + All 8 User Bases)",
+      "summary": "Updated flywheels-public.html with all 8 user bases (indigenous, disability, injured workers, veterans, elderly, families, allies, advocates); fully labelled sources (Canadian/world news, Reddit Daily Digest, Athena X Research, Themis Justice Watch, WSIB Research Dossier, CanLII tribunal data, manual curation); anonymity & opt-in/opt-out section; 'Latest findings (30 days)' labelled window; 'Archive (30+ days)' linking to /research/. Features index links '3 Flywheels of Change' heading to flywheels-public URL. Verified sources only — nothing invented.",
+      "date": "2026-10-09T10:00:00-04:00",
+      "category": "improvement",
+      "repo": "website",
+      "commitSha": "9423eaa"
     }
   ]
 }
