@@ -2,6 +2,7 @@
 layout: page
 title: "Bill 105 — WSIB Lock-In Removal (Ontario)"
 permalink: /knowledge-base/bill-105-wsib-lockin/
+lastUpdated: 2026-11-03
 ---
 
 # Bill 105: WSIB "Lock-In" Removal (Ontario), 2026
@@ -10,7 +11,13 @@ permalink: /knowledge-base/bill-105-wsib-lockin/
 
 Bill 105 (Ontario) proposes to remove the **72-month "lock-in" period** under the Workplace Safety and Insurance Act (WSIA). The lock-in currently caps how long WSIB can review and **suspend or reduce benefits** after a claim is approved.
 
-**Status:** 🔴 Lock-in removal (s. 44.1, WSIA) is scheduled to come into force **January 1, 2027** (per the bill's commencement provisions — Ontario Legislative Assembly). The LOE rate increase (85%→90%, cap $121,700) and age-65 extensions are part of the same bill. Track @NAFTELWORLD, @samoosterhoff and injured-worker advocates for Royal Assent / proclamation updates.
+**Status (verified 2026-11-03):** 🔴 **NOT law yet.** Ontario Legislative Assembly status: **Ordered for Third Reading** (amended by Standing Committee on Finance and Economic Affairs; report adopted **May 25, 2026**). **Not Royal Assent.** Legislature returned **Oct 27, 2026** — third reading can be called anytime.
+
+**If enacted,** some Schedule 9 pieces may commence on dates written into the bill (commencement language has pointed at **January 1, 2027** for lock-in-related changes) — that is **not** the same as “already in force.” Until Royal Assent + proclamation, treat every change as **proposed only** (`pending_enactment`).
+
+**Same bill package (still proposed):** LOE **85%→90%** (cap often cited **$121,700** for 2026 — confirm annually), path for **LOE past age 65**, expanded mandatory coverage (e.g. private residential care / group homes), **new LOE offsets** (regs TBD), and **removal of the 72-month lock-in** (core risk for long-term / permanently injured workers).
+
+**Do not** change Benefits Planner math to 90% as current law until Royal Assent is re-verified.
 
 **Why it matters for injured workers:**
 - Removes the statutory deadline that protects workers from **decades-later benefit suspension**
@@ -95,12 +102,17 @@ Our analysis of **98,992 WSIAT decisions (2020–2026)** shows the systemic patt
 
 ## 📚 Advocacy Action (quick links)
 
-- **ONIWG Lobby Kit:** https://share.google/eQCvOjr3eaTHA3PAb
+- **Time-sensitive (by Fri Nov 13, 2026):** Endorse the IWC/coalition letter to WSIB on Bill 105 *implementation policies* (lock-in, offsets, LOE past 65, transparency). Email **workerscompisaright@gmail.com** with subject **Bill 105 Letter Endorsement** (org name + contact; logo optional). Details: https://iwclc.org/iwc-news/
+- **ONIWG / lobby kit:** https://injuredworkersonline.org/bill-105-lobby-kit/
 - **UFCW e-action (tell your MPP):** https://ufcw175.com/bill-105-stand-up-for-injured-workers/
 - **IWC Submissions on Schedule 9:** https://injuredworkersonline.org/documents/iwc-submissions-to-the-minister-re-bill-105-schedule-9/
-- **Bill 105 text (OLA):** https://www.ola.org/en/legislative-business/bills/parliament-44/session-1/bill-105
+- **Bill 105 text + status (OLA):** https://www.ola.org/en/legislative-business/bills/parliament-44/session-1/bill-105
+- **CBC plain-language lock-in risk (Sep 10–11, 2026):** https://www.cbc.ca/news/canada/toronto/bill-105-wsib-injured-workers-lock-in-9.7337854
 
-*Last updated: 2026-10-14 — monitored by Athena Research (S0vryn9). Sources: CanLII, injuredworkersonline.org, OPSEU/SEFPO, Ontario NDP, CBC News, UFCW 175&633, TBNewsWatch.*
+### Accuracy note
+This is **legal information, not legal advice.** Gains (90% LOE, post-65 path, coverage expansion) do **not** cancel the lock-in-removal risk. Confirm contested claims with a worker clinic before relying on them.
+
+*Last updated: **2026-11-03** — 3mpwrapp / Athena + Chief of Staff re-verify. OLA: Ordered for Third Reading; not Royal Assent. Sources: OLA, CBC, Goldblatt Partners, WSIB Policy Agenda 2026, IWC, OPSEU/SEFPO, ONIWG, UFCW, TBNewsWatch.*
 
 
 ---

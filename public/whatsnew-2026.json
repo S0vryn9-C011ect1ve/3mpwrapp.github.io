@@ -1,8 +1,17 @@
 {
   "year": 2026,
   "version": "1.0",
-  "lastUpdated": "2026-09-13T05:45:09.000Z",
+  "lastUpdated": "2026-11-03T12:00:00-05:00",
   "entries": [
+    {
+      "id": "wn-2026-11-03-bill-105-status-refresh",
+      "title": "📜 Bill 105 (WSIB) status refresh — still not law; third reading ordered",
+      "summary": "We re-checked Ontario Bill 105 (Protecting Ontario's Workers and Economic Resilience Act, 2026). Official status remains Ordered for Third Reading (committee amended May 25, 2026) — not Royal Assent. Lock-in removal is still the core risk for long-term injured workers; LOE 85%→90%, post-65 path, and expanded coverage stay proposed only. Benefits Planner will not switch to “new law” math until Royal Assent is verified. Advocacy: IWC/coalition WSIB implementation letter endorsements due Fri Nov 13, 2026. Full guide: /knowledge-base/bill-105-wsib-lockin/",
+      "date": "2026-11-03T12:00:00-05:00",
+      "category": "docs",
+      "repo": "website",
+      "commitSha": "pending"
+    },
     {
       "id": "wn-post-2026-09-13-bill-86-meredith-act",
       "title": "New KB Article — Bill 86 (Meredith Act)",
