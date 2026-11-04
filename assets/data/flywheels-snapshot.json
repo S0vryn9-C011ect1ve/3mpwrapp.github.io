@@ -1,18 +1,18 @@
 {
-  "total": 2393,
+  "total": 2403,
   "verified": 5,
   "by_community": {
-    "disability": 977,
+    "disability": 978,
     "accessibility": 692,
-    "injured_workers": 586,
+    "injured_workers": 587,
     "welfare_social": 530,
-    "elderly": 170,
+    "elderly": 178,
     "veterans": 45,
-    "public_allies": 8,
+    "public_allies": 11,
     "vulnerable_communities": 5
   },
   "by_jurisdiction": {
-    "CA-ON": 1071,
+    "CA-ON": 1081,
     "INTL": 920,
     "CA-FED": 247,
     "CA-AB": 102,
@@ -30,14 +30,14 @@
   "by_source": {
     "x": 1610,
     "reddit": 463,
-    "news": 303,
+    "news": 313,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 2376,
+    "unverified_social": 2386,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -45,6 +45,159 @@
     "manual_curated": 1
   },
   "recent": [
+    {
+      "id": "news-e08a582de770",
+      "source": "news",
+      "title": "Senior’s Advocate Concerned Recent Government Supports Won’t Provide Long-Term Relief - VOCM",
+      "communities": [
+        "elderly",
+        "public_allies"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-03",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wUkM0ZWVCNVB0SVdFeGVvM1VvcDYtYkFfREhuSkVWYzhJeUJxTnV4SW5TYWRSTjMyVXYza3VDM3RHZENaaXBEMEdVQQ?oc=5"
+    },
+    {
+      "id": "news-e5e236398bcd",
+      "source": "news",
+      "title": "Bank executive pay: Compensation design can help reduce excessive risk-taking - CEPR",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-03",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2pyS3dqZllRSGd6Y2hSeHR6a2pQUEZreGhkcWEzQmF5VTBFMm1LMTdKQmdxQjl0bjlFRHVJbGd2UVVJQWdHSW5ianYzc1dkUkVabkc1RVRocnBoYUctUThkNVN5TUt2QlhYSzlsOFM0QnBiZnJDUGdtWWNvQjRlcW80NmZZOFZFWklEUmpsdkVDMEN6ZDRHQ2RIU2pPaUQzNmoyb0Nhd2ZqWmc?oc=5"
+    },
+    {
+      "id": "news-cfea3201b66f",
+      "source": "news",
+      "title": "The Elder Scrolls 6 is still a long way off, Bethesda warns: 'It'll be some time before we're ready to share more' - PC Gamer",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-03",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTVAtTEdpQkJvUi1SUldiZ0tHWEZKSmpGOTdJN1dwR2FpU3ZfclVIbTNVaU1CM2x0T2pueGg5NllnS1M4ekVpbHJBdEhHWU1fZFZjOElzMlRDanFPNXFJV0lTRXd3WU5rTG9ZemtQWFY3WVRKdVlLWGF0VHZEWU9wRXlTQ0R3T0pxMnVzSjlnYUtJRFNaeEJCd0pkcWF1TjNnTmh1algtNi1rUndiZHFDWEtSX1lRZzQzZ2RnaTRBb2czU0Y2SkMyaFJhSC1nWk5JZ0ZLeXE4NkxlVlZiMjlWdk5Ta2lTVjhvZG5CZjJB?oc=5"
+    },
+    {
+      "id": "news-3b8d8b21c611",
+      "source": "news",
+      "title": "'Embark on your next journey to Tamriel' — Bethesda confirms The Elder Scrolls 6: Sentinel as the name of the next entry in the RPG series alongside a cryptic teaser, but a release date is still unknown - TechRadar",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-03",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNVE1SVjZJdFpDUHdlN3VDcFRYc0RkWTBNeXdpUG1hUmtTVk4yUVJpTEdCanRPZU95d2V2U0RXcDRWUHRSS2hwalNWb3RzcWMwMjM2S1NLZFNTWWZZZEJOWjFkdlRlZnVTNU5oMUU3NXJwSWVoRWwycFJqMjlzcFowSFVtbGdZV0ZWQ2I4dmdPcWx5Z19BR0RXRGtKX1JtMllCM1NfRE5YNnduZUFPSVo4a05Oc3F4TW9DcWJ3YlpLM01jd3d4aWxuLVlQWTJZRDRvbl95V3J1cU5WN3liTk43WG1lS3BUX0ZmZkJLTDFkX25wMVV5NkJQdXR0LTQtczY3Q0pFZnhiYlhLT3VTODB2WW1R?oc=5"
+    },
+    {
+      "id": "news-cb48c62c57f2",
+      "source": "news",
+      "title": "Elder Scrolls VI name officially revealed after a nearly decade-long wait - The Independent",
+      "communities": [
+        "elderly",
+        "public_allies"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-03",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLTFYenl2S2ZxblIzTEZvZDVYWk15eW1IamllaGJBUU9sNW0zd0Z3QmlVNm1tVlB3d1pDVklRaVd1SzRDREw4bFBxQUk1dzJrUnNndk51NTJkOUpwM2JFZjRfMzZpanFnclVZaDdoWHJ4S1V5eUUzcDNiVXlwVFBBYzFkeWx4ODFITTVFQlFIbzlaLWY0U0E?oc=5"
+    },
+    {
+      "id": "news-317b181366a6",
+      "source": "news",
+      "title": "The Structural Pressures Behind Senior Living and Long-Term Care Distress - Epstein Becker Green",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-03",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU1JqcVd6enpORmpmWTh1LXJjVnFqTVVlQ0gwN0lQLXZGODM1cVJSSFZEeFl3NWVjei1oS0FXUmx0RFNab3pGby1WZjdpVDVmTGpQS09LZnZmS0h6UVZwWjI2UFZkbHZzbVFjTWw0T0JKNVZvUkZ1TzRRMjE1UW9CNFcxSS1SU1FTNjNTeDl3REFqeE9hUjVNc2hNa3JkUXU5TjRPT2ttalNkRWVtRlBhSFFYdExFdw?oc=5"
+    },
+    {
+      "id": "news-ff51b2bf35f5",
+      "source": "news",
+      "title": "Long lines at Laurel Beltsville Senior Center - WUSA9",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-03",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd2pSc0w0NnFuVklYaGZCaUVmVHV4TVlkMmlQaFdyMUs1NGx3Mnp1RWpjY0hvWEN5Nm1TZGhTU3JHbGpnc3BMMzBYbFpnQVEtXzJOTzZZTW5KMzE1bUlzbU5GRmxSMDBQZ2h0Y1d5WlpraHcxWWc0YWY3Tm54UVJydG9qTEc5UGpVcVJOY3JzODIzVDRrdGtTSUg1MHBmSkNhVkZRaFFSVGpuRjdwdkwwVkMtc255amNSNThXNjJrUENNSE1nRXpkVHhhNnpHX3lWZVNR?oc=5"
+    },
+    {
+      "id": "news-7b93498f2c5d",
+      "source": "news",
+      "title": "Senior hits milestone as J.P. Stevens breaks long playoff win drought - NJ.com",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-03",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVTRMUTNTcTlmbURISTQ4XzNwV3RkcFZJQ0lLMEh4U1hMY3pfVy1DQU1JZDhWY1hMb1ZSUEw2Ykt4M0pROTRtOFdkT2JrODlVbnlBV21jaXp6dmZUejdiWXF1SVg5enIzRFhoT1RIQjhTdGV5aHB0aEpTdWd2R0xYMjNyejFmdldGZlpiRkd1RVhaNDNrejFmN00zZkdvS1JtTDZHU3pmUUpvVDY0bGhlZE1wdU5YQXc?oc=5"
+    },
+    {
+      "id": "news-86ec910ccc57",
+      "source": "news",
+      "title": "When Does COVID-19 Become A Disability? 'Long-Haulers' Push For Answers And Benefits - NPR",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-03",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbnBIYmc0aHpRd0JxYWNlVV95SWJ0b19icldtNlJZY1d2Rk1CT1VOSXRpYjNGLUIybWpVOE9IaXF2MHl5MF81ZEcwU1YwVlhLY0RoSzdwQUZsa0VYTno5YkVGNk1mS1ptdGRVdFlPX0NiUjRyNDk0TmZnR0M2bUctX1A2cDFYNGV1VFFqX0NxN1AzeEZDNnkyTWFxNEczQUU4UnJsRXBrSEhqS29mLVZBUGdHeEdJamFEOUwzZjZUYzZwRWVWUjNMQmdyOUp2My15OE5aZHFiZnFSREE?oc=5"
+    },
+    {
+      "id": "news-2d59dcce73cc",
+      "source": "news",
+      "title": "The Elder Scrolls VI: Sentinel Officially Revealed, Teasing Long-Rumored Setting - GameFragger.com",
+      "communities": [
+        "elderly",
+        "public_allies"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-03",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPREhPa192M1Y2UGViS1g2eF9qSVBQLXZtalVLMEp2QUhUa3hOd1hDWFBLd01RWGEwREpUMXRVNERLcVE5MVlLS1lmTzJocEgtMWlQcHhjMjFHLXdkUWltX1Zib1FaN0tmMi1aLWRYdEx3RVkxcTM1VnlIQlFDQkstTzhhOFVHQ0lYdkRoUDRfelpNekpJMUFiZ0tvMndSUkJIRGtDeWM4a2trT0ZPS2JUVFZDWVA4TkFWdGx4anFwYmw0MnZXN1lhdFpabk1SRUloV2c?oc=5"
+    },
     {
       "id": "1xlrbgs",
       "source": "reddit",
@@ -119,153 +272,7 @@
         "knowledge"
       ],
       "url": "https://www.reddit.com/r/disability/comments/1xlpnua/jobs_that_can_be_done_lying_down/"
-    },
-    {
-      "id": "1xlqdlq",
-      "source": "reddit",
-      "title": "At the end of my rope",
-      "communities": [
-        "elderly",
-        "disability"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-02",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.reddit.com/r/ChronicPain/comments/1xlqdlq/at_the_end_of_my_rope/"
-    },
-    {
-      "id": "1xlfnry",
-      "source": "reddit",
-      "title": "Bill 105",
-      "communities": [
-        "welfare_social",
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-02",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://www.reddit.com/r/OntarioWSIB/comments/1xlfnry/bill_105/"
-    },
-    {
-      "id": "1xlh65c",
-      "source": "reddit",
-      "title": "LibreBridge Mini - Open Switch Interface",
-      "communities": [
-        "accessibility"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-02",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.reddit.com/r/accessibility/comments/1xlh65c/librebridge_mini_open_switch_interface/"
-    },
-    {
-      "id": "1xldi27",
-      "source": "reddit",
-      "title": "Tech for Alzheimer’s patients",
-      "communities": [
-        "accessibility"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-02",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.reddit.com/r/AssistiveTechnology/comments/1xldi27/tech_for_alzheimers_patients/"
-    },
-    {
-      "id": "1xlrg4z",
-      "source": "reddit",
-      "title": "EN 301 549 V4.1.1 is out, but as of 3 November 2026 no version of it is cited in the Official Journal under the European Accessibility Act",
-      "communities": [
-        "accessibility"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-02",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.reddit.com/r/accessibility/comments/1xlrg4z/en_301_549_v411_is_out_but_as_of_3_november_2026/"
-    },
-    {
-      "id": "1xlvkrq",
-      "source": "reddit",
-      "title": "Has anyone else had a really supportive WorkCover agent?",
-      "communities": [
-        "welfare_social",
-        "injured_workers"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-02",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.reddit.com/r/WorkcoverVic/comments/1xlvkrq/has_anyone_else_had_a_really_supportive_workcover/"
-    },
-    {
-      "id": "1xlvwr2",
-      "source": "reddit",
-      "title": "Insurers Help! psychological injury fraud",
-      "communities": [
-        "disability",
-        "injured_workers"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-02",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.reddit.com/r/WorkersComp/comments/1xlvwr2/insurers_help_psychological_injury_fraud/"
-    },
-    {
-      "id": "1xlply9",
-      "source": "reddit",
-      "title": "Jobs that can be done lying down?",
-      "communities": [
-        "accessibility",
-        "disability"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-02",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.reddit.com/r/disability/comments/1xlply9/jobs_that_can_be_done_lying_down/"
-    },
-    {
-      "id": "1xltvan",
-      "source": "reddit",
-      "title": "Building a speech tool for people who stutter, looking for honest beta feedback (mods, remove if not allowed)",
-      "communities": [
-        "accessibility"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-02",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.reddit.com/r/AssistiveTechnology/comments/1xltvan/building_a_speech_tool_for_people_who_stutter/"
-    },
-    {
-      "id": "news-60dca37cf933",
-      "source": "news",
-      "title": "Lesotho dam authority must pay M90m in long-overdue compensation - Bizcommunity",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-02",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORjJhblI3eG90Y1NaTU52S0RoSHFkRUNickxvSENpQ3dWTnVOSDI0WFY0dlQ2QUtGMldyNkZLOHZoX2VkazZROW11QWUwSkFmcEFVa2RycVY2QkJNOU1PWEJqY3IyVUVsMFFOcjg2RmwzMHNuLWpzN3BnNklVVmFmcU5VZ3VwN3J4ZW5lNk5ZOUxQOEE0NE9Qb3ZiM0ZPcDl5bDJkQktpb0VBZU1PUGc?oc=5"
     }
   ],
-  "generated": "2026-11-02"
+  "generated": "2026-11-03"
 }
