@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Daily News Curation - 2026-11-04"
+date: 2026-11-04
+tags: [highlights]
+categories: [curation, news]
+excerpt: "Today's curated disability rights, accessibility, and social policy news from across Canada."
+---
+
+# Daily News Curation - 2026-11-04
+
+Curated 3 items from disability, accessibility, and social policy sources.
+
+## 🌟 Featured: The Disability Bulletin
+
+### The Disability Bulletin
+The Disability Bulletin covers disability rights news, advocacy updates, and community stories from across Canada. Visit for the latest issue.
+📍 [Read More](https://linktr.ee/thedisabilitybulletin)
+
+---
+
+## Additional Stories
+
+### 1. ‘Bordering on Heroism’: How Tumbler Ridge’s Only Reporter Covered a Tragedy
+Local reporters are first on the scene of breaking news. They remain long after the news cycle moves on.
+[Source](https://thetyee.ca/News/2026/11/04/Bordering-Heroism-Tumbler-Ridge-Reporter/)
+**Score:** 12.50
+
+### 2. Manitoba Government Reopens Adult Day Program in Winnipeg's Charleswood Neighbourhood
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75897)
+**Score:** 10.50
+
