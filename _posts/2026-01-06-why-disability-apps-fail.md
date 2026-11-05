@@ -170,10 +170,10 @@ Everyone from disability advocates to policy makers to product teams should be w
 This conversation matters. If you work in disability policy, healthcare, tech, or accessibility—or if you're part of the disability community—share this with people who need to hear it.
 
 **Share on:**
-- [Post on X](https://x.com/intent/tweet?text=The%20Power%20of%203mpwrApp%3A%20How%20We're%20Building%20Different%20-%20compounding%20community%20knowledge%20and%20the%20flywheel%20approach%20to%20systemic%20change&url=https%3A%2F%2F3mpwrapp.pages.dev%2Fblog%2F2026-01-06-the-power-of-3mpwrapp-how-were-building-different&hashtags=disability,accessibility,technology)
-- [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2F3mpwrapp.pages.dev%2Fblog%2F2026-01-06-the-power-of-3mpwrapp-how-were-building-different)
-- [Post on Bluesky](https://bsky.app/intent/compose?text=The%20Power%20of%203mpwrApp%3A%20How%20We're%20Building%20Different%20-%20compounding%20community%20knowledge%20and%20the%20flywheel%20approach%20to%20systemic%20change.%20https%3A%2F%2F3mpwrapp.pages.dev%2Fblog%2F2026-01-06-the-power-of-3mpwrapp-how-were-building-different)
-- [Toot on Mastodon](https://mastodon.social/share?text=The%20Power%20of%203mpwrApp%3A%20How%20We're%20Building%20Different%20-%20compounding%20community%20knowledge%20and%20the%20flywheel%20approach%20to%20systemic%20change.%20https%3A%2F%2F3mpwrapp.pages.dev%2Fblog%2F2026-01-06-the-power-of-3mpwrapp-how-were-building-different)
+- [Post on X](https://x.com/intent/tweet?text=The%20Power%20of%203mpwrApp%3A%20How%20We're%20Building%20Different%20-%20compounding%20community%20knowledge%20and%20the%20flywheel%20approach%20to%20systemic%20change&url=https%3A%2F%2F3mpwrapp.ca%2Fblog%2F2026-01-06-the-power-of-3mpwrapp-how-were-building-different&hashtags=disability,accessibility,technology)
+- [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2F3mpwrapp.ca%2Fblog%2F2026-01-06-the-power-of-3mpwrapp-how-were-building-different)
+- [Post on Bluesky](https://bsky.app/intent/compose?text=The%20Power%20of%203mpwrApp%3A%20How%20We're%20Building%20Different%20-%20compounding%20community%20knowledge%20and%20the%20flywheel%20approach%20to%20systemic%20change.%20https%3A%2F%2F3mpwrapp.ca%2Fblog%2F2026-01-06-the-power-of-3mpwrapp-how-were-building-different)
+- [Toot on Mastodon](https://mastodon.social/share?text=The%20Power%20of%203mpwrApp%3A%20How%20We're%20Building%20Different%20-%20compounding%20community%20knowledge%20and%20the%20flywheel%20approach%20to%20systemic%20change.%20https%3A%2F%2F3mpwrapp.ca%2Fblog%2F2026-01-06-the-power-of-3mpwrapp-how-were-building-different)
 
 ---
 

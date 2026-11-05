@@ -32,7 +32,7 @@ The Energy Forecast learns your patterns over time. After a few weeks of trackin
 - The Pacing Partner is not nagging - it is self-advocacy in action
 ---
 ## Ready to Try It?
-1. **Download 3mpwrApp** - [3mpwrapp.pages.dev](https://3mpwrapp.pages.dev/)
+1. **Download 3mpwrApp** - [3mpwrapp.ca](https://3mpwrapp.ca/)
 2. **Sign up or explore as guest** - no commitment needed
 3. **Find this feature** - search or browse main navigation
 ---

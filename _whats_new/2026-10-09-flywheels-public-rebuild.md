@@ -20,4 +20,4 @@ description: flywheels-public.html rebuilt with all 15 recent cards embedded sta
 ### Source verification
 - All embedded data from `assets/data/flywheels-snapshot.json` (1105 total cards, 15 recent, 5 verified, 7 communities, 7 jurisdictions, 6 sources).
 - Nothing fabricated or invented.
-- Deployed live: `https://3ddb8b24.3mpwrapp.pages.dev`
+- Deployed live: `https://3mpwrapp.ca`

@@ -32,7 +32,7 @@ All evidence is encrypted on-device using AES-256-GCM - the same standard used i
 - Encrypted local storage means your data never leaves your device without your permission
 ---
 ## Ready to Try It?
-1. **Download 3mpwrApp** - [3mpwrapp.pages.dev](https://3mpwrapp.pages.dev/)
+1. **Download 3mpwrApp** - [3mpwrapp.ca](https://3mpwrapp.ca/)
 2. **Sign up or explore as guest** - no commitment needed
 3. **Find this feature** - search or browse main navigation
 ---

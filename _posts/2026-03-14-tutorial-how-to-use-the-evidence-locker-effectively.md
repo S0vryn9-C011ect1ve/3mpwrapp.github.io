@@ -53,7 +53,7 @@ All evidence is encrypted on-device using AES-256-GCM Ã¢â‚¬" the same stan
 
 ## Ready to Try It?
 
-1. **Download 3mpwrApp** Ã¢â‚¬" [3mpwrapp.pages.dev](https://3mpwrapp.ca/)
+1. **Download 3mpwrApp** Ã¢â‚¬" [3mpwrapp.ca](https://3mpwrapp.ca/)
 2. **Sign up or explore as guest** Ã¢â‚¬" no commitment needed
 3. **Find this feature** Ã¢â‚¬" search or browse main navigation
 

@@ -1122,7 +1122,7 @@ image_alt: "3mpwrApp Events - Accessible community gatherings and workshops"
       </li>
     </ol>
     <p style="margin-top: 1rem; padding: 0.75rem; background: #d1fae5; border-radius: 6px; border-left: 4px solid #10b981;">
-      <strong>💡 For immediate updates:</strong> Check the website at <a href="/events/">3mpwrapp.pages.dev/events</a> which updates every 5 minutes!
+      <strong>💡 For immediate updates:</strong> Check the website at <a href="/events/">3mpwrapp.ca/events</a> which updates every 5 minutes!
     </p>
   </div>
 </details>
@@ -1583,7 +1583,7 @@ image_alt: "3mpwrApp Events - Accessible community gatherings and workshops"
         </ul>
       </li>
     </ol>
-    <p style="margin-top: 1rem;"><strong>💡 For immediate updates:</strong> Check the website at <a href="/events/">3mpwrapp.pages.dev/events</a> which updates every 5 minutes!</p>
+    <p style="margin-top: 1rem;"><strong>💡 For immediate updates:</strong> Check the website at <a href="/events/">3mpwrapp.ca/events</a> which updates every 5 minutes!</p>
   </div>
 </details>
 

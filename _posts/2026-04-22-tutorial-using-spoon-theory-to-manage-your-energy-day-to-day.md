@@ -53,7 +53,7 @@ The Energy Forecast learns your patterns over time. After a few weeks of trackin
 
 ## Ready to Try It?
 
-1. **Download 3mpwrApp** — [3mpwrapp.pages.dev](https://3mpwrapp.ca/)
+1. **Download 3mpwrApp** — [3mpwrapp.ca](https://3mpwrapp.ca/)
 2. **Sign up or explore as guest** — no commitment needed
 3. **Find this feature** — search or browse main navigation
 

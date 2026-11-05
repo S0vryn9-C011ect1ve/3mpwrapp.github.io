@@ -32,7 +32,7 @@ Everything you configure saves automatically. Switch between Simple Mode and ful
 - All accessibility preferences persist across sessions - you configure once
 ---
 ## Ready to Try It?
-1. **Download 3mpwrApp** - [3mpwrapp.pages.dev](https://3mpwrapp.pages.dev/)
+1. **Download 3mpwrApp** - [3mpwrapp.ca](https://3mpwrapp.ca/)
 2. **Sign up or explore as guest** - no commitment needed
 3. **Find this feature** - search or browse main navigation
 ---

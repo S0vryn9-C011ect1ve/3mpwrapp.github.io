@@ -12,7 +12,7 @@
  * with the token in the URL.
  * 
  * Location: functions/gdrive-callback.ts
- * Deployed to: https://3mpwrapp.pages.dev/gdrive-callback
+ * Deployed to: https://3mpwrapp.ca/gdrive-callback
  */
 
 interface PagesContext {

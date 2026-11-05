@@ -8,7 +8,7 @@
 - ✅ **Jekyll Built**: `_site/demo/index.html` exists
 - ✅ **Auto-Deploy**: GitHub Pages will deploy to https://3mpwrapp.ca/demo/ automatically
 
-**Embedded App URL**: `https://3mpwrapp-beta.pages.dev/`
+**Embedded App URL**: `https://app.3mpwrapp.ca/`
 
 ---
 
@@ -99,7 +99,7 @@ EXPO_PUBLIC_SENTRY_DSN=<your-sentry-dsn>
 1. Go to: **Deployments** tab
 2. Click "Retry deployment" or "Create deployment"
 3. Wait for build to complete (3-5 minutes)
-4. Check deployment URL: `https://3mpwrapp-beta.pages.dev/`
+4. Check deployment URL: `https://app.3mpwrapp.ca/`
 
 ---
 
@@ -111,7 +111,7 @@ EXPO_PUBLIC_SENTRY_DSN=<your-sentry-dsn>
 2. Select your OAuth 2.0 Client ID
 3. Under "Authorized redirect URIs", add:
    ```
-   https://3mpwrapp-beta.pages.dev/gdrive-callback
+   https://app.3mpwrapp.ca/gdrive-callback
    https://3mpwrapp.ca/gdrive-callback
    ```
 4. Click "Save"
@@ -128,7 +128,7 @@ The PWA app has these files configured:
 
 #### 4.1 Test Direct PWA App
 
-1. **Open**: https://3mpwrapp-beta.pages.dev/
+1. **Open**: https://app.3mpwrapp.ca/
 2. **Check**:
    - ✅ App loads (not blank page)
    - ✅ Navigation tabs appear
@@ -245,7 +245,7 @@ git push origin main
 - [ ] Verify live at https://3mpwrapp.ca/demo/
 - [ ] Test responsive design on mobile
 
-### PWA App (3mpwrapp-beta.pages.dev)
+### PWA App (app.3mpwrapp.ca)
 - [ ] Cloudflare Pages project created
 - [ ] Build settings configured (output: dist-web)
 - [ ] Environment variables added
@@ -296,7 +296,7 @@ git push origin main
 | Resource | URL |
 |----------|-----|
 | Demo Page | https://3mpwrapp.ca/demo/ |
-| PWA App (Direct) | https://3mpwrapp-beta.pages.dev/ |
+| PWA App (Direct) | https://app.3mpwrapp.ca/ |
 | Cloudflare Dashboard | https://dash.cloudflare.com/ |
 | Google Cloud Console | https://console.cloud.google.com/ |
 | GitHub Repo (Marketing) | https://github.com/S0vryn9-C011ect1ve/3mpwrapp.github.io |

@@ -270,7 +270,7 @@ We're 100% community-funded, no investors, no profit motive. We can innovate fre
 ## Try It Yourself
 
 **All features are live NOW on our website:**
-1. Visit [3mpwrapp.pages.dev](https://3mpwrapp.ca)
+1. Visit [3mpwrapp.ca](https://3mpwrapp.ca)
 2. Look for the toolbar at the top of any page
 3. Try the features:
    - Click "ðŸ’™ Need a break?" for calming break mode

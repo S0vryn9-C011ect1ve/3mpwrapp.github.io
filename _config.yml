@@ -1,7 +1,7 @@
 title: 3mpwrApp™
 description: Practical tools and community for injured workers and persons with disabilities.
 baseurl: ""
-url: "https://3mpwrapp.ca"  # Primary custom domain
+url: "https://3mpwrapp.ca"  # Canonical. Never *.pages.dev or github.io site URL
 
 # Theme and markdown
 markdown: kramdown

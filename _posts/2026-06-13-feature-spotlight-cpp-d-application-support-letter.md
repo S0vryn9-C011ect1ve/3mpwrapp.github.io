@@ -36,7 +36,7 @@ Input -> Process -> Output -> Downstream effect:
 ---
 ## Getting Started
 Ready to try CPP-D Application Support Letter? Here's how to get started:
-1. **Open 3mpwrApp** - Start here: https://3mpwrapp.pages.dev/
+1. **Open 3mpwrApp** - Start here: https://3mpwrapp.ca/
 2. **Complete setup** - Takes just 5 minutes
 3. **Find the feature** - Look for "CPP-D Application Support Letter" in your app
 4. **Follow the guide** - In-app tutorials walk you through each step

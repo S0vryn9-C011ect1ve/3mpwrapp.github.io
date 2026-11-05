@@ -210,7 +210,7 @@ We detected axios 1.14.0/1.14.1/0.30.4 compromise reports on March 31 at approxi
 ## Questions & Answers
 
 **Q: How do I know if a security alert is really from you?**  
-A: Legitimate alerts come from empowrapp08162025@gmail.com and are always posted on our blog at 3mpwrapp.pages.dev. We will NEVER ask for passwords via email.
+A: Legitimate alerts come from empowrapp08162025@gmail.com and are always posted on our blog at 3mpwrapp.ca. We will NEVER ask for passwords via email.
 
 **Q: What data do you collect that could be at risk?**  
 A: We follow a "bring your own cloud" model. Your personal data stays on YOUR devices or YOUR cloud accounts (Google Drive, Dropbox). We don't host your sensitive information.

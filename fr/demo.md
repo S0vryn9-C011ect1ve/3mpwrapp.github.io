@@ -124,7 +124,7 @@ lang: fr
 **Prêt à explorer ?** Notre version Web bêta est maintenant disponible directement dans votre navigateur.
 
 <div class="cta-buttons">
-  <a href="https://app-3mpwrapp.pages.dev/" target="_blank" rel="noopener noreferrer" class="btn-primary">
+  <a href="https://app.3mpwrapp.ca/" target="_blank" rel="noopener noreferrer" class="btn-primary">
     🌐 Lancer l'application Web bêta →
   </a>
   <a href="/fr/features/" class="btn-secondary">
@@ -314,7 +314,7 @@ lang: fr
 ## 🚀 Prêt à essayer ?
 
 <div class="cta-buttons">
-  <a href="https://app-3mpwrapp.pages.dev/" target="_blank" rel="noopener noreferrer" class="btn-primary">
+  <a href="https://app.3mpwrapp.ca/" target="_blank" rel="noopener noreferrer" class="btn-primary">
     🌐 Lancer l'application Web bêta →
   </a>
   <a href="/fr/app-waitlist" class="btn-secondary">
@@ -354,7 +354,7 @@ Courriel : empowrapp08162025@gmail.com
 - [Guide d'accessibilité](/fr/accessibility)
 
 **Communauté :**  
-- [Forums communautaires](https://app-3mpwrapp.pages.dev/community)
+- [Forums communautaires](https://app.3mpwrapp.ca/community)
 - [Retour d'information bêta](/fr/feedback/)
 
 ---

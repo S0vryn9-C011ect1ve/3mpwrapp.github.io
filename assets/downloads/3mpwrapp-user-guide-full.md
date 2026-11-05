@@ -779,7 +779,7 @@ Read through sections in order. Each builds on previous information.
 **Need help?**
 - **In the app:** Settings → Contact Support
 - **Email:** empowrapp08162025@gmail.com
-- **Website:** 3mpwrapp.pages.dev
+- **Website:** 3mpwrapp.ca
 - **Community:** Join our community channels for peer support
 
 **Report accessibility issues:**
@@ -810,7 +810,7 @@ Read through sections in order. Each builds on previous information.
 
 ---
 
-*For the complete 15,000-word guide with all sections fully detailed, download the PDF version from: [3mpwrapp.github.io/downloads/user-guide-full.pdf](https://3mpwrapp.github.io/downloads/user-guide-full.pdf)*
+*For the complete 15,000-word guide with all sections fully detailed, download the PDF version from: [3mpwrapp.github.io/downloads/user-guide-full.pdf](https://3mpwrapp.ca/downloads/user-guide-full.pdf)*
 
 *© 2025 3mpwrApp. This guide is licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). You are free to share and adapt this guide with attribution.*
 
