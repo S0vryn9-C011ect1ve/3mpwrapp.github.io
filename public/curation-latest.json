@@ -1,29 +1,29 @@
 {
-  "date": "2026-11-04",
-  "timestamp": "2026-11-04T19:30:06.511Z",
+  "date": "2026-11-05",
+  "timestamp": "2026-11-05T19:39:46.585Z",
   "count": 3,
   "minScore": 3.5,
   "items": [
     {
       "title": "The Disability Bulletin",
       "link": "https://linktr.ee/thedisabilitybulletin",
-      "description": "The Disability Bulletin covers disability rights news, advocacy updates, and community stories from across Canada. Visit for the latest issue.",
+      "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
       "score": 10,
-      "pubDate": "2026-11-04T19:30:06.508Z"
+      "pubDate": "2026-11-05T19:39:46.582Z"
     },
     {
-      "title": "‘Bordering on Heroism’: How Tumbler Ridge’s Only Reporter Covered a Tragedy",
-      "link": "https://thetyee.ca/News/2026/11/04/Bordering-Heroism-Tumbler-Ridge-Reporter/",
-      "description": "Local reporters are first on the scene of breaking news. They remain long after the news cycle moves on.",
-      "score": 12.5,
-      "pubDate": "Wed, 04 Nov 2026 08:40:00 +0000"
+      "title": "Enemies of Public Health Care Roost in Toronto",
+      "link": "https://thetyee.ca/Analysis/2026/11/05/Enemies-Public-Health-Care-Roost-Toronto/",
+      "description": "US dark money-backed groups gather today to hone their attack on Canada’s medicare.",
+      "score": 20,
+      "pubDate": "Thu, 05 Nov 2026 08:40:00 +0000"
     },
     {
-      "title": "Manitoba Government Reopens Adult Day Program in Winnipeg's Charleswood Neighbourhood",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75897",
+      "title": "Manitoba Government Announces Start of Construction on Neonatal Intensive Care Unit at Brandon Regional Health Centre",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75957",
       "description": "",
-      "score": 10.5,
-      "pubDate": "Mon, 26 Oct 2026 13:29:00 CDT"
+      "score": 13.4,
+      "pubDate": "Thu, 05 Nov 2026 14:25:00 EST"
     }
   ]
 }
