@@ -1,20 +1,20 @@
 {
-  "total": 2403,
+  "total": 2426,
   "verified": 5,
   "by_community": {
-    "disability": 978,
-    "accessibility": 692,
-    "injured_workers": 587,
-    "welfare_social": 530,
-    "elderly": 178,
-    "veterans": 45,
+    "disability": 986,
+    "accessibility": 696,
+    "injured_workers": 593,
+    "welfare_social": 533,
+    "elderly": 182,
+    "veterans": 46,
     "public_allies": 11,
-    "vulnerable_communities": 5
+    "vulnerable_communities": 6
   },
   "by_jurisdiction": {
-    "CA-ON": 1081,
-    "INTL": 920,
-    "CA-FED": 247,
+    "CA-ON": 1088,
+    "INTL": 935,
+    "CA-FED": 248,
     "CA-AB": 102,
     "CA-BC": 24,
     "CA-NT": 7,
@@ -29,15 +29,15 @@
   },
   "by_source": {
     "x": 1610,
-    "reddit": 463,
-    "news": 313,
+    "reddit": 484,
+    "news": 315,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 2386,
+    "unverified_social": 2409,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -46,233 +46,218 @@
   },
   "recent": [
     {
-      "id": "news-e08a582de770",
-      "source": "news",
-      "title": "Senior’s Advocate Concerned Recent Government Supports Won’t Provide Long-Term Relief - VOCM",
-      "communities": [
-        "elderly",
-        "public_allies"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-03",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wUkM0ZWVCNVB0SVdFeGVvM1VvcDYtYkFfREhuSkVWYzhJeUJxTnV4SW5TYWRSTjMyVXYza3VDM3RHZENaaXBEMEdVQQ?oc=5"
-    },
-    {
-      "id": "news-e5e236398bcd",
-      "source": "news",
-      "title": "Bank executive pay: Compensation design can help reduce excessive risk-taking - CEPR",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-03",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2pyS3dqZllRSGd6Y2hSeHR6a2pQUEZreGhkcWEzQmF5VTBFMm1LMTdKQmdxQjl0bjlFRHVJbGd2UVVJQWdHSW5ianYzc1dkUkVabkc1RVRocnBoYUctUThkNVN5TUt2QlhYSzlsOFM0QnBiZnJDUGdtWWNvQjRlcW80NmZZOFZFWklEUmpsdkVDMEN6ZDRHQ2RIU2pPaUQzNmoyb0Nhd2ZqWmc?oc=5"
-    },
-    {
-      "id": "news-cfea3201b66f",
-      "source": "news",
-      "title": "The Elder Scrolls 6 is still a long way off, Bethesda warns: 'It'll be some time before we're ready to share more' - PC Gamer",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-03",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTVAtTEdpQkJvUi1SUldiZ0tHWEZKSmpGOTdJN1dwR2FpU3ZfclVIbTNVaU1CM2x0T2pueGg5NllnS1M4ekVpbHJBdEhHWU1fZFZjOElzMlRDanFPNXFJV0lTRXd3WU5rTG9ZemtQWFY3WVRKdVlLWGF0VHZEWU9wRXlTQ0R3T0pxMnVzSjlnYUtJRFNaeEJCd0pkcWF1TjNnTmh1algtNi1rUndiZHFDWEtSX1lRZzQzZ2RnaTRBb2czU0Y2SkMyaFJhSC1nWk5JZ0ZLeXE4NkxlVlZiMjlWdk5Ta2lTVjhvZG5CZjJB?oc=5"
-    },
-    {
-      "id": "news-3b8d8b21c611",
-      "source": "news",
-      "title": "'Embark on your next journey to Tamriel' — Bethesda confirms The Elder Scrolls 6: Sentinel as the name of the next entry in the RPG series alongside a cryptic teaser, but a release date is still unknown - TechRadar",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-03",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNVE1SVjZJdFpDUHdlN3VDcFRYc0RkWTBNeXdpUG1hUmtTVk4yUVJpTEdCanRPZU95d2V2U0RXcDRWUHRSS2hwalNWb3RzcWMwMjM2S1NLZFNTWWZZZEJOWjFkdlRlZnVTNU5oMUU3NXJwSWVoRWwycFJqMjlzcFowSFVtbGdZV0ZWQ2I4dmdPcWx5Z19BR0RXRGtKX1JtMllCM1NfRE5YNnduZUFPSVo4a05Oc3F4TW9DcWJ3YlpLM01jd3d4aWxuLVlQWTJZRDRvbl95V3J1cU5WN3liTk43WG1lS3BUX0ZmZkJLTDFkX25wMVV5NkJQdXR0LTQtczY3Q0pFZnhiYlhLT3VTODB2WW1R?oc=5"
-    },
-    {
-      "id": "news-cb48c62c57f2",
-      "source": "news",
-      "title": "Elder Scrolls VI name officially revealed after a nearly decade-long wait - The Independent",
-      "communities": [
-        "elderly",
-        "public_allies"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-03",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLTFYenl2S2ZxblIzTEZvZDVYWk15eW1IamllaGJBUU9sNW0zd0Z3QmlVNm1tVlB3d1pDVklRaVd1SzRDREw4bFBxQUk1dzJrUnNndk51NTJkOUpwM2JFZjRfMzZpanFnclVZaDdoWHJ4S1V5eUUzcDNiVXlwVFBBYzFkeWx4ODFITTVFQlFIbzlaLWY0U0E?oc=5"
-    },
-    {
-      "id": "news-317b181366a6",
-      "source": "news",
-      "title": "The Structural Pressures Behind Senior Living and Long-Term Care Distress - Epstein Becker Green",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-03",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU1JqcVd6enpORmpmWTh1LXJjVnFqTVVlQ0gwN0lQLXZGODM1cVJSSFZEeFl3NWVjei1oS0FXUmx0RFNab3pGby1WZjdpVDVmTGpQS09LZnZmS0h6UVZwWjI2UFZkbHZzbVFjTWw0T0JKNVZvUkZ1TzRRMjE1UW9CNFcxSS1SU1FTNjNTeDl3REFqeE9hUjVNc2hNa3JkUXU5TjRPT2ttalNkRWVtRlBhSFFYdExFdw?oc=5"
-    },
-    {
-      "id": "news-ff51b2bf35f5",
-      "source": "news",
-      "title": "Long lines at Laurel Beltsville Senior Center - WUSA9",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-03",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd2pSc0w0NnFuVklYaGZCaUVmVHV4TVlkMmlQaFdyMUs1NGx3Mnp1RWpjY0hvWEN5Nm1TZGhTU3JHbGpnc3BMMzBYbFpnQVEtXzJOTzZZTW5KMzE1bUlzbU5GRmxSMDBQZ2h0Y1d5WlpraHcxWWc0YWY3Tm54UVJydG9qTEc5UGpVcVJOY3JzODIzVDRrdGtTSUg1MHBmSkNhVkZRaFFSVGpuRjdwdkwwVkMtc255amNSNThXNjJrUENNSE1nRXpkVHhhNnpHX3lWZVNR?oc=5"
-    },
-    {
-      "id": "news-7b93498f2c5d",
-      "source": "news",
-      "title": "Senior hits milestone as J.P. Stevens breaks long playoff win drought - NJ.com",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-03",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVTRMUTNTcTlmbURISTQ4XzNwV3RkcFZJQ0lLMEh4U1hMY3pfVy1DQU1JZDhWY1hMb1ZSUEw2Ykt4M0pROTRtOFdkT2JrODlVbnlBV21jaXp6dmZUejdiWXF1SVg5enIzRFhoT1RIQjhTdGV5aHB0aEpTdWd2R0xYMjNyejFmdldGZlpiRkd1RVhaNDNrejFmN00zZkdvS1JtTDZHU3pmUUpvVDY0bGhlZE1wdU5YQXc?oc=5"
-    },
-    {
-      "id": "news-86ec910ccc57",
-      "source": "news",
-      "title": "When Does COVID-19 Become A Disability? 'Long-Haulers' Push For Answers And Benefits - NPR",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-03",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbnBIYmc0aHpRd0JxYWNlVV95SWJ0b19icldtNlJZY1d2Rk1CT1VOSXRpYjNGLUIybWpVOE9IaXF2MHl5MF81ZEcwU1YwVlhLY0RoSzdwQUZsa0VYTno5YkVGNk1mS1ptdGRVdFlPX0NiUjRyNDk0TmZnR0M2bUctX1A2cDFYNGV1VFFqX0NxN1AzeEZDNnkyTWFxNEczQUU4UnJsRXBrSEhqS29mLVZBUGdHeEdJamFEOUwzZjZUYzZwRWVWUjNMQmdyOUp2My15OE5aZHFiZnFSREE?oc=5"
-    },
-    {
-      "id": "news-2d59dcce73cc",
-      "source": "news",
-      "title": "The Elder Scrolls VI: Sentinel Officially Revealed, Teasing Long-Rumored Setting - GameFragger.com",
-      "communities": [
-        "elderly",
-        "public_allies"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-03",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPREhPa192M1Y2UGViS1g2eF9qSVBQLXZtalVLMEp2QUhUa3hOd1hDWFBLd01RWGEwREpUMXRVNERLcVE5MVlLS1lmTzJocEgtMWlQcHhjMjFHLXdkUWltX1Zib1FaN0tmMi1aLWRYdEx3RVkxcTM1VnlIQlFDQkstTzhhOFVHQ0lYdkRoUDRfelpNekpJMUFiZ0tvMndSUkJIRGtDeWM4a2trT0ZPS2JUVFZDWVA4TkFWdGx4anFwYmw0MnZXN1lhdFpabk1SRUloV2c?oc=5"
-    },
-    {
-      "id": "1xlrbgs",
+      "id": "1xhcsn9",
       "source": "reddit",
-      "title": "Rant on the \"get a job\" people",
+      "title": "TIL Adam DeVine was hit by a cement truck at age 11, breaking every bone in his legs. He spent two weeks in a coma, underwent 26 surgeries, and used a wheelchair during recovery. Today, he supports Ch...",
       "communities": [
         "elderly",
         "disability"
       ],
       "jurisdiction": "INTL",
-      "date": "2026-11-02",
+      "date": "2026-11-04",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://www.reddit.com/r/ChronicPain/comments/1xlrbgs/rant_on_the_get_a_job_people/"
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xhcsn9/til_adam_devine_was_hit_by_a_cement_truck_at_age/"
     },
     {
-      "id": "1xlpenz",
+      "id": "1xi69d8",
       "source": "reddit",
-      "title": "What happens if you change employer while you're on WorkCover?",
+      "title": "BREAKING: Defense Secretary Pete Hegseth, Claims President Trump’s “Great Triumphal Arch” Will Help Defend Washington From Drones, But The DOJ Says He Won’t Be Available To Testify As Vietnam Veterans...",
       "communities": [
-        "welfare_social",
+        "veterans"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-11-04",
+      "flywheels": [
+        "collective_action",
+        "evidence"
+      ],
+      "url": "https://www.reddit.com/r/InterstellarKinetics/comments/1xi69d8/breaking_defense_secretary_pete_hegseth_claims/"
+    },
+    {
+      "id": "1xls79d",
+      "source": "reddit",
+      "title": "Elderly couple facing homelessness in November",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-FED",
+      "date": "2026-11-04",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://www.reddit.com/r/Calgary/comments/1xls79d/elderly_couple_facing_homelessness_in_november/"
+    },
+    {
+      "id": "1xn9j46",
+      "source": "reddit",
+      "title": "What would be your disabled drag name?",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-11-04",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://www.reddit.com/r/disability/comments/1xn9j46/what_would_be_your_disabled_drag_name/"
+    },
+    {
+      "id": "1xhzjb1",
+      "source": "reddit",
+      "title": "OHIP coverage",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-11-04",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://www.reddit.com/r/noburp/comments/1xhzjb1/ohip_coverage/"
+    },
+    {
+      "id": "1xneac1",
+      "source": "reddit",
+      "title": "We discuss our limitations a lot but,",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-11-04",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://www.reddit.com/r/disability/comments/1xneac1/we_discuss_our_limitations_a_lot_but/"
+    },
+    {
+      "id": "1xnhmsj",
+      "source": "reddit",
+      "title": "Extreme burnout/stress leave",
+      "communities": [
         "injured_workers"
       ],
       "jurisdiction": "INTL",
-      "date": "2026-11-02",
+      "date": "2026-11-04",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://www.reddit.com/r/WorkcoverVic/comments/1xlpenz/what_happens_if_you_change_employer_while_youre/"
+      "url": "https://www.reddit.com/r/WorkcoverVic/comments/1xnhmsj/extreme_burnoutstress_leave/"
     },
     {
-      "id": "1xlebyw",
+      "id": "1xn0ory",
       "source": "reddit",
-      "title": "WSIB CERTIFICATE",
+      "title": "Xmas hamper",
       "communities": [
-        "veterans",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-04",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://www.reddit.com/r/OntarioWorks/comments/1xn0ory/xmas_hamper/"
+    },
+    {
+      "id": "1xnhiut",
+      "source": "reddit",
+      "title": "What is the difference between provisional liability and full liability?",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-11-04",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://www.reddit.com/r/WorkcoverVic/comments/1xnhiut/what_is_the_difference_between_provisional/"
+    },
+    {
+      "id": "1xnezm6",
+      "source": "reddit",
+      "title": "FOI requests? Any internal pull?",
+      "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-02",
+      "date": "2026-11-04",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://www.reddit.com/r/OntarioWSIB/comments/1xlebyw/wsib_certificate/"
+      "url": "https://www.reddit.com/r/OntarioWSIB/comments/1xnezm6/foi_requests_any_internal_pull/"
     },
     {
-      "id": "1xllijz",
+      "id": "1xncq66",
       "source": "reddit",
-      "title": "How long does it take to receive settlement counter offer",
+      "title": "amputation of my middle finger after a workplace accident. Looking for advice.",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-11-04",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://www.reddit.com/r/WorkersComp/comments/1xncq66/amputation_of_my_middle_finger_after_a_workplace/"
+    },
+    {
+      "id": "1xnn8op",
+      "source": "reddit",
+      "title": "Been waiting 7 buissness days for claim approval",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-04",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://www.reddit.com/r/OntarioWSIB/comments/1xnn8op/been_waiting_7_buissness_days_for_claim_approval/"
+    },
+    {
+      "id": "1xn0ht1",
+      "source": "reddit",
+      "title": "I built a free app that shows whether station elevators in Berlin & Brandenburg are working",
+      "communities": [
+        "accessibility"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-11-04",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://www.reddit.com/r/accessibility/comments/1xn0ht1/i_built_a_free_app_that_shows_whether_station/"
+    },
+    {
+      "id": "1xngdgg",
+      "source": "reddit",
+      "title": "Unsure if I should apply",
       "communities": [
         "disability",
-        "injured_workers"
+        "welfare_social"
       ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-02",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://www.reddit.com/r/WorkersComp/comments/1xllijz/how_long_does_it_take_to_receive_settlement/"
-    },
-    {
-      "id": "1xlpnua",
-      "source": "reddit",
-      "title": "Jobs that can be done lying down?",
-      "communities": [
-        "accessibility",
-        "disability"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-02",
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-04",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://www.reddit.com/r/disability/comments/1xlpnua/jobs_that_can_be_done_lying_down/"
+      "url": "https://www.reddit.com/r/Odsp/comments/1xngdgg/unsure_if_i_should_apply/"
+    },
+    {
+      "id": "1xnmwf9",
+      "source": "reddit",
+      "title": "Tips for dealing with flare-ups",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-11-04",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://www.reddit.com/r/ChronicPain/comments/1xnmwf9/tips_for_dealing_with_flareups/"
     }
   ],
-  "generated": "2026-11-03"
+  "generated": "2026-11-04"
 }
