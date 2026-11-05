@@ -1,8 +1,26 @@
 {
   "year": 2026,
   "version": "1.0",
-  "lastUpdated": "2026-11-03T12:00:00-05:00",
+  "lastUpdated": "2026-11-05T12:00:00-05:00",
   "entries": [
+    {
+      "id": "wn-2026-11-05-pwa-install-spa",
+      "title": "Web app loads more reliably — install, refresh, and deep links",
+      "summary": "The web app at app.3mpwrapp.ca now includes an install manifest, a service worker, and a fallback so refreshing or opening a deep link (for example /about) stays in the app instead of showing a missing page.",
+      "date": "2026-11-05T12:00:00-05:00",
+      "category": "improvement",
+      "repo": "app",
+      "commitSha": "pending"
+    },
+    {
+      "id": "wn-2026-11-05-demo-live-pwa-and-stamps",
+      "title": "Try 3mpwrapp on the demo page — live app + document stamps",
+      "summary": "The Try 3mpwrapp page now embeds the real web app at app.3mpwrapp.ca (not a preview link). You can also try document stamps (date, case number, document type) on sample text in your browser. Nothing is uploaded.",
+      "date": "2026-11-05T12:00:00-05:00",
+      "category": "feature",
+      "repo": "website",
+      "commitSha": "df244a7"
+    },
     {
       "id": "wn-2026-11-03-bill-105-status-refresh",
       "title": "📜 Bill 105 (WSIB) status refresh — still not law; third reading ordered",
