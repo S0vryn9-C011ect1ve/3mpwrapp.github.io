@@ -209,6 +209,60 @@ permalink: /demo/
       font-size: 0.85rem;
     }
   }
+
+  .stamp-demo {
+    max-width: 900px;
+    margin: 0 auto 3rem;
+    padding: 1.5rem;
+    border: 2px solid var(--homepage-feature-border);
+    border-radius: 12px;
+    background: var(--homepage-card-bg);
+  }
+  .stamp-demo h2 {
+    margin-top: 0;
+    color: var(--text-color);
+    font-size: 1.5rem;
+  }
+  .stamp-demo p {
+    color: var(--homepage-card-secondary);
+    line-height: 1.6;
+  }
+  .stamp-doc {
+    font-family: ui-monospace, Consolas, monospace;
+    white-space: pre-wrap;
+    padding: 1rem;
+    border: 1px solid var(--homepage-feature-border);
+    border-radius: 8px;
+    min-height: 8rem;
+    background: #fff;
+    color: #111;
+  }
+  .stamp-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin: 1rem 0;
+  }
+  .stamp-actions button {
+    min-height: 44px;
+    min-width: 44px;
+    padding: 0.75rem 1.25rem;
+    font-weight: 600;
+    border-radius: 8px;
+    cursor: pointer;
+    border: 2px solid var(--homepage-primary-btn-bg);
+    background: var(--homepage-primary-btn-bg);
+    color: var(--homepage-primary-btn-text);
+  }
+  .stamp-actions button[data-kind="reset"] {
+    background: transparent;
+    color: var(--text-color);
+    border-color: var(--homepage-secondary-btn-border);
+  }
+  .stamp-status {
+    min-height: 1.5rem;
+    font-weight: 600;
+  }
 </style>
 
 <!-- Hero Section -->
@@ -250,9 +304,56 @@ permalink: /demo/
       allow="clipboard-read; clipboard-write"
       loading="lazy"
       onload="this.setAttribute('data-loaded', 'true')"
-    ></iframe>
+    </iframe>
   </div>
 </div>
+
+<section class="stamp-demo" id="document-stamping" aria-labelledby="stamp-heading">
+  <h2 id="stamp-heading">Document stamping (demo)</h2>
+  <p>This runs in your browser only. Nothing is uploaded. Sample text, not a real claim file.</p>
+  <div id="stamp-doc" class="stamp-doc" role="textbox" aria-readonly="true" aria-label="Sample document">WSIB correspondence — SAMPLE ONLY
+Claimant: A. Example
+File: not a real claim</div>
+  <div class="stamp-actions">
+    <button type="button" data-kind="date">Stamp date</button>
+    <button type="button" data-kind="case">Stamp case number</button>
+    <button type="button" data-kind="type">Stamp document type</button>
+    <button type="button" data-kind="reset">Reset</button>
+  </div>
+  <p id="stamp-status" class="stamp-status" role="status" aria-live="polite"></p>
+</section>
+<script>
+(function () {
+  var SAMPLE = "WSIB correspondence — SAMPLE ONLY\\nClaimant: A. Example\\nFile: not a real claim";
+  var doc = document.getElementById("stamp-doc");
+  var status = document.getElementById("stamp-status");
+  var stamps = { date: false, case: false, type: false };
+  function lineDate() {
+    var d = new Date();
+    return "STAMP DATE: " + d.toISOString().slice(0, 10);
+  }
+  function render() {
+    var lines = [SAMPLE];
+    if (stamps.date) lines.push(lineDate());
+    if (stamps.case) lines.push("STAMP CASE: DEMO-0001");
+    if (stamps.type) lines.push("STAMP TYPE: Correspondence");
+    doc.textContent = lines.join("\\n");
+  }
+  document.querySelector(".stamp-demo").addEventListener("click", function (e) {
+    var btn = e.target.closest("button[data-kind]");
+    if (!btn) return;
+    var kind = btn.getAttribute("data-kind");
+    if (kind === "reset") {
+      stamps.date = stamps.case = stamps.type = false;
+      status.textContent = "Stamps cleared.";
+    } else {
+      stamps[kind] = true;
+      status.textContent = "Applied " + kind + " stamp.";
+    }
+    render();
+  });
+})();
+</script>
 
 <!-- What You Can Do -->
 <div class="demo-info">
