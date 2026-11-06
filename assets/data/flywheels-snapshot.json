@@ -1,18 +1,18 @@
 {
-  "total": 2426,
+  "total": 2428,
   "verified": 5,
   "by_community": {
     "disability": 986,
     "accessibility": 696,
     "injured_workers": 593,
     "welfare_social": 533,
-    "elderly": 182,
+    "elderly": 184,
     "veterans": 46,
     "public_allies": 11,
     "vulnerable_communities": 6
   },
   "by_jurisdiction": {
-    "CA-ON": 1088,
+    "CA-ON": 1090,
     "INTL": 935,
     "CA-FED": 248,
     "CA-AB": 102,
@@ -30,14 +30,14 @@
   "by_source": {
     "x": 1610,
     "reddit": 484,
-    "news": 315,
+    "news": 317,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 2409,
+    "unverified_social": 2411,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -45,6 +45,36 @@
     "manual_curated": 1
   },
   "recent": [
+    {
+      "id": "news-8bba67932dae",
+      "source": "news",
+      "title": "Woman, 101, Won Gold at a Track and Field Meet for Seniors. Her 6 Tips for a Long Life - TODAY.com",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-05",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWjlCZzR2RmpNSG9GOTlEd04xc3ZZWTZ5bkVqWGp3YmtVX1kwUnZTRzQwRGJqck1VaG45cDMySElyQVNVQ1diTTBWcmswY2RtZG82VmpNQ1lVemctVkFLTlczMTdGS2hiVlI5bTFPY2hGc3NqRmZzT2p6dWt5ejI3amdaMnNXVHNZdkZWVHQ5NVVQVGNmenZ5NVBBSlc?oc=5"
+    },
+    {
+      "id": "news-ca979744ebd3",
+      "source": "news",
+      "title": "The Elder Scrolls 6 Release Date’s Long Wait Could Stretch into 2029 - NoobFeed",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-05",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wYWlDNWtha2o0WkJsY3ctWmZvakdsY3puOEpIeC1TVzFNNDJzTlhxbUhxYXJrdEhjdllocHRRWW0wdlZ5V3NYazJybWN3MHMwWERKRkNLM0t6Um1uTGdkTmljQkExbTVhMUpKd2NHeDljMWlpaUlV?oc=5"
+    },
     {
       "id": "1xhcsn9",
       "source": "reddit",
@@ -228,36 +258,7 @@
         "knowledge"
       ],
       "url": "https://www.reddit.com/r/accessibility/comments/1xn0ht1/i_built_a_free_app_that_shows_whether_station/"
-    },
-    {
-      "id": "1xngdgg",
-      "source": "reddit",
-      "title": "Unsure if I should apply",
-      "communities": [
-        "disability",
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-04",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.reddit.com/r/Odsp/comments/1xngdgg/unsure_if_i_should_apply/"
-    },
-    {
-      "id": "1xnmwf9",
-      "source": "reddit",
-      "title": "Tips for dealing with flare-ups",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-04",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.reddit.com/r/ChronicPain/comments/1xnmwf9/tips_for_dealing_with_flareups/"
     }
   ],
-  "generated": "2026-11-04"
+  "generated": "2026-11-05"
 }
