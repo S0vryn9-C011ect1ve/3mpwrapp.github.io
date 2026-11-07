@@ -1,18 +1,18 @@
 {
-  "total": 2428,
+  "total": 2430,
   "verified": 5,
   "by_community": {
-    "disability": 986,
+    "disability": 987,
     "accessibility": 696,
     "injured_workers": 593,
-    "welfare_social": 533,
+    "welfare_social": 534,
     "elderly": 184,
     "veterans": 46,
     "public_allies": 11,
     "vulnerable_communities": 6
   },
   "by_jurisdiction": {
-    "CA-ON": 1090,
+    "CA-ON": 1092,
     "INTL": 935,
     "CA-FED": 248,
     "CA-AB": 102,
@@ -30,14 +30,14 @@
   "by_source": {
     "x": 1610,
     "reddit": 484,
-    "news": 317,
+    "news": 319,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 2411,
+    "unverified_social": 2413,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -45,6 +45,36 @@
     "manual_curated": 1
   },
   "recent": [
+    {
+      "id": "news-6ae4e4f14190",
+      "source": "news",
+      "title": "Regina family calls for more support in long-term care after 99-year-old assaulted - CTV News",
+      "communities": [
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-06",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMTROUDU3NWRaSGFLLXltTURiZ3Z3ZV9OaWxmQVdndXF2VGZ1Z3VkQk94WWM1SWc1RlFrSzVwemcxUFNpRUVuNFFkNTVsQlpTZHhSZXE3MTRzbU1DcmVIbTdOVU5rNVhWRE1PYUUzenFVRzJzVzZ2dnF0ZXVpVWlmUTUyb3FVSVVDdTZXS0Z4cXM3OVZVeHBiR2pfYWxUeFNHdmozNS1NbWltVm1SUFh5ZWRvaXBtcWxNUER0WkRR?oc=5"
+    },
+    {
+      "id": "news-efa913188376",
+      "source": "news",
+      "title": "10th Circ. Reinstates EEOC Long-COVID Disability Bias Case - Law360",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-06",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTjhFbkRVVkgyZkNoU3ZfNzRHVWVCbjJYZHVYMFJueUpwNEhsMDUtaVZ6dWsweXhDN28zRG1BVnJacURCMk8wVGVSX2p5QW1hZ0NJNHpSOHp4ZDFPQ2NFMVNjdFVKQ3Y3RHNZcDZJaG1RVUR3bUdLaGNPQ1lDN3JPX2FERXB6WjE0M1pzMHU0WDlsUlV4am9ObVB1bEVJQdIBckFVX3lxTE1zZmZEUHNfN0FUcTlSc29tMGFTaW1iZTVUcW9sSkZGRHFzNC1YX3ltTkREZXRYQ0xkbjN5emdfZ1FtVExpNW9CdGM0SEpOMGJJZnJLaVJ1YkR3TEhjREZUNVpNYTRGcW5HbFlQcWlwcG1lZw?oc=5"
+    },
     {
       "id": "news-8bba67932dae",
       "source": "news",
@@ -230,35 +260,7 @@
         "knowledge"
       ],
       "url": "https://www.reddit.com/r/WorkersComp/comments/1xncq66/amputation_of_my_middle_finger_after_a_workplace/"
-    },
-    {
-      "id": "1xnn8op",
-      "source": "reddit",
-      "title": "Been waiting 7 buissness days for claim approval",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-04",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://www.reddit.com/r/OntarioWSIB/comments/1xnn8op/been_waiting_7_buissness_days_for_claim_approval/"
-    },
-    {
-      "id": "1xn0ht1",
-      "source": "reddit",
-      "title": "I built a free app that shows whether station elevators in Berlin & Brandenburg are working",
-      "communities": [
-        "accessibility"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-04",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.reddit.com/r/accessibility/comments/1xn0ht1/i_built_a_free_app_that_shows_whether_station/"
     }
   ],
-  "generated": "2026-11-05"
+  "generated": "2026-11-06"
 }
