@@ -1,0 +1,63 @@
+---
+layout: post
+title: "Daily News Curation - 2026-11-07"
+date: 2026-11-07
+tags: [highlights]
+categories: [curation, news]
+excerpt: "Today's curated disability rights, accessibility, and social policy news from across Canada."
+---
+
+# Daily News Curation - 2026-11-07
+
+Curated 9 items from disability, accessibility, and social policy sources.
+
+## 🌟 Featured: The Disability Bulletin
+
+### The Disability Bulletin
+Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.
+📍 [Read More](https://linktr.ee/thedisabilitybulletin)
+
+---
+
+## Additional Stories
+
+### 1. Governments of Canada and Manitoba Partner with Peguis First Nation and Fisher River Cree Nation for Phase 1 Flood Mitigation
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75857)
+**Score:** 18.00
+
+### 2. Manitoba Delegation Joins Team Canada Trade Mission to India
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75717)
+**Score:** 15.00
+
+### 3. Manitoba Government Delivers on Affordability, Health Care and Stronger Protections for Manitobans
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75939)
+**Score:** 15.40
+
+### 4. Manitoba Government Holds Town Hall on New Bridgwater Personal Care Home
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75858)
+**Score:** 9.90
+
+### 5. Manitoba Justice Reports In-Custody Death
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75938)
+**Score:** 7.50
+
+### 6. A Fighter. A Leader. Meet Dr. Joanne Liu
+In a new book, the Montreal doctor offers a stirring call for change in how we approach international health.
+[Source](https://thetyee.ca/Culture/2026/11/06/Joanne-Liu-Doctors-Without-Borders-International-Health/)
+**Score:** 5.50
+
+### 7. Province Provides Update on Repairs to Provincial Trunk Highway 83 Shell River Bridge
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75860)
+**Score:** 4.50
+
+### 8. Province Provides Update on Provincial Trunk Highway 10 Stoney Creek Bridge Closure and Repairs
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75859)
+**Score:** 4.50
+

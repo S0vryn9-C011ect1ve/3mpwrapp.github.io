@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-06",
-  "timestamp": "2026-11-06T19:01:36.585Z",
-  "count": 10,
+  "date": "2026-11-07",
+  "timestamp": "2026-11-07T17:34:20.339Z",
+  "count": 9,
   "minScore": 3.5,
   "items": [
     {
@@ -9,70 +9,63 @@
       "link": "https://linktr.ee/thedisabilitybulletin",
       "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
       "score": 10,
-      "pubDate": "2026-11-06T19:01:36.581Z"
+      "pubDate": "2026-11-07T17:34:20.336Z"
     },
     {
-      "title": "Why 1,200 Miners Are on Strike in BC",
-      "link": "https://thetyee.ca/News/2026/11/06/Miners-Strike-BC/",
-      "description": "Long-running safety complaints are behind a labour dispute at one of Canada’s largest open-pit mines.",
-      "score": 10.5,
-      "pubDate": "Fri, 06 Nov 2026 08:40:00 +0000"
-    },
-    {
-      "title": "BC’s Little Sharks Get New Protections",
-      "link": "https://thetyee.ca/News/2026/11/06/BC-Little-Sharks-Get-New-Protections/",
-      "description": "In a ‘pretty rare’ move, Canada is adding over a dozen new aquatic creatures to the Species at Risk Act.",
-      "score": 10.5,
-      "pubDate": "Fri, 06 Nov 2026 08:20:00 +0000"
-    },
-    {
-      "title": "Manitoba Government Advocacy Helps Expand Access to Spinal Muscular Atrophy Treatment",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75917",
+      "title": "Governments of Canada and Manitoba Partner with Peguis First Nation and Fisher River Cree Nation for Phase 1 Flood Mitigation",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75857",
       "description": "",
-      "score": 10.5,
-      "pubDate": "Wed, 28 Oct 2026 15:27:00 CDT"
+      "score": 18,
+      "pubDate": "Wed, 21 Oct 2026 13:05:00 CDT"
     },
     {
-      "title": "Manitoba Government Changes Regulations to Limit Rent Hikes and Expand Rent Control to Keep Rent Affordable: Premier",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75837",
+      "title": "Manitoba Delegation Joins Team Canada Trade Mission to India",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75717",
       "description": "",
-      "score": 9.5,
-      "pubDate": "Tue, 20 Oct 2026 12:57:00 CDT"
+      "score": 15,
+      "pubDate": "Tue, 13 Oct 2026 14:33:00 CDT"
     },
     {
-      "title": "Manitoba Government Invests $69,790 in Portage la Prairie's Community Safety and Well-Being Plan",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75697",
+      "title": "Manitoba Government Delivers on Affordability, Health Care and Stronger Protections for Manitobans",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75939",
       "description": "",
-      "score": 10.5,
-      "pubDate": "Tue, 13 Oct 2026 11:59:00 CDT"
+      "score": 15.4,
+      "pubDate": "Thu, 29 Oct 2026 16:05:00 CDT"
     },
     {
-      "title": "Data Centre Bus Crash Under WorkSafe Investigation",
-      "link": "https://thetyee.ca/News/2026/11/05/Data-Centre-Worker-Bus-Crash-Under-WorkSafeBC-Investigation/",
-      "description": "How a shuttle bus ended up in a ditch off Highway 39 near Mackenzie, BC, is still largely unknown.",
-      "score": 5,
-      "pubDate": "Thu, 05 Nov 2026 19:52:00 +0000"
+      "title": "Manitoba Government Holds Town Hall on New Bridgwater Personal Care Home",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75858",
+      "description": "",
+      "score": 9.9,
+      "pubDate": "Wed, 21 Oct 2026 14:00:00 CDT"
     },
     {
-      "title": "Manitoba Government Invests More Than $1.2 Million in Festivals Across Manitoba",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75698",
+      "title": "Manitoba Justice Reports In-Custody Death",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75938",
       "description": "",
       "score": 7.5,
-      "pubDate": "Tue, 13 Oct 2026 12:04:00 CDT"
+      "pubDate": "Thu, 29 Oct 2026 15:15:00 CDT"
     },
     {
-      "title": "How Can We Save Local Journalism?",
-      "link": "https://thetyee.ca/News/2026/11/06/How-Can-We-Save-Local-Journalism/",
-      "description": "Corporate consolidation hasn’t worked. Could a return to ‘mom-and-pop’ news outlets be the future?",
-      "score": 4.5,
-      "pubDate": "Fri, 06 Nov 2026 08:10:00 +0000"
+      "title": "A Fighter. A Leader. Meet Dr. Joanne Liu",
+      "link": "https://thetyee.ca/Culture/2026/11/06/Joanne-Liu-Doctors-Without-Borders-International-Health/",
+      "description": "In a new book, the Montreal doctor offers a stirring call for change in how we approach international health.",
+      "score": 5.5,
+      "pubDate": "Sat, 07 Nov 2026 01:20:00 +0000"
     },
     {
-      "title": "Province Advises Clocks will not Change this Weekend as Manitoba Moves to Permanent Daylight Saving Time",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75937",
+      "title": "Province Provides Update on Repairs to Provincial Trunk Highway 83 Shell River Bridge",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75860",
       "description": "",
       "score": 4.5,
-      "pubDate": "Thu, 29 Oct 2026 11:43:00 CDT"
+      "pubDate": "Thu, 22 Oct 2026 10:46:00 CDT"
+    },
+    {
+      "title": "Province Provides Update on Provincial Trunk Highway 10 Stoney Creek Bridge Closure and Repairs",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75859",
+      "description": "",
+      "score": 4.5,
+      "pubDate": "Thu, 22 Oct 2026 10:35:00 CDT"
     }
   ]
 }
