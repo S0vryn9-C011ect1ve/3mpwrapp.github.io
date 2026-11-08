@@ -1,43 +1,43 @@
 {
-  "total": 2430,
+  "total": 2592,
   "verified": 5,
   "by_community": {
-    "disability": 987,
-    "accessibility": 696,
-    "injured_workers": 593,
-    "welfare_social": 534,
-    "elderly": 184,
-    "veterans": 46,
+    "disability": 1079,
+    "accessibility": 745,
+    "injured_workers": 629,
+    "welfare_social": 562,
+    "elderly": 186,
+    "veterans": 47,
     "public_allies": 11,
     "vulnerable_communities": 6
   },
   "by_jurisdiction": {
-    "CA-ON": 1092,
-    "INTL": 935,
-    "CA-FED": 248,
-    "CA-AB": 102,
+    "CA-ON": 1143,
+    "INTL": 979,
+    "CA-FED": 302,
+    "CA-AB": 112,
     "CA-BC": 24,
     "CA-NT": 7,
     "CA-NB": 6,
     "CA-YT": 5,
-    "CA-SK": 3,
-    "CA-TERR": 2,
+    "CA-SK": 4,
+    "CA-TERR": 3,
+    "CA-MB": 3,
     "CA-NL": 2,
-    "CA-MB": 2,
     "CA": 1,
     "CA-NU": 1
   },
   "by_source": {
-    "x": 1610,
+    "x": 1771,
     "reddit": 484,
-    "news": 319,
+    "news": 320,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 2413,
+    "unverified_social": 2575,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -46,221 +46,221 @@
   },
   "recent": [
     {
-      "id": "news-6ae4e4f14190",
-      "source": "news",
-      "title": "Regina family calls for more support in long-term care after 99-year-old assaulted - CTV News",
+      "id": "14319b9ff8ce",
+      "source": "x",
+      "title": "Academic and public health studies note that recent immigrants and foreign-born individuals consistently suffer a disproportionately higher rate of workplace accidents—sometimes 1.4 to 2 times higher ",
       "communities": [
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-06",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMTROUDU3NWRaSGFLLXltTURiZ3Z3ZV9OaWxmQVdndXF2VGZ1Z3VkQk94WWM1SWc1RlFrSzVwemcxUFNpRUVuNFFkNTVsQlpTZHhSZXE3MTRzbU1DcmVIbTdOVU5rNVhWRE1PYUUzenFVRzJzVzZ2dnF0ZXVpVWlmUTUyb3FVSVVDdTZXS0Z4cXM3OVZVeHBiR2pfYWxUeFNHdmozNS1NbWltVm1SUFh5ZWRvaXBtcWxNUER0WkRR?oc=5"
-    },
-    {
-      "id": "news-efa913188376",
-      "source": "news",
-      "title": "10th Circ. Reinstates EEOC Long-COVID Disability Bias Case - Law360",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-06",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTjhFbkRVVkgyZkNoU3ZfNzRHVWVCbjJYZHVYMFJueUpwNEhsMDUtaVZ6dWsweXhDN28zRG1BVnJacURCMk8wVGVSX2p5QW1hZ0NJNHpSOHp4ZDFPQ2NFMVNjdFVKQ3Y3RHNZcDZJaG1RVUR3bUdLaGNPQ1lDN3JPX2FERXB6WjE0M1pzMHU0WDlsUlV4am9ObVB1bEVJQdIBckFVX3lxTE1zZmZEUHNfN0FUcTlSc29tMGFTaW1iZTVUcW9sSkZGRHFzNC1YX3ltTkREZXRYQ0xkbjN5emdfZ1FtVExpNW9CdGM0SEpOMGJJZnJLaVJ1YkR3TEhjREZUNVpNYTRGcW5HbFlQcWlwcG1lZw?oc=5"
-    },
-    {
-      "id": "news-8bba67932dae",
-      "source": "news",
-      "title": "Woman, 101, Won Gold at a Track and Field Meet for Seniors. Her 6 Tips for a Long Life - TODAY.com",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-05",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWjlCZzR2RmpNSG9GOTlEd04xc3ZZWTZ5bkVqWGp3YmtVX1kwUnZTRzQwRGJqck1VaG45cDMySElyQVNVQ1diTTBWcmswY2RtZG82VmpNQ1lVemctVkFLTlczMTdGS2hiVlI5bTFPY2hGc3NqRmZzT2p6dWt5ejI3amdaMnNXVHNZdkZWVHQ5NVVQVGNmenZ5NVBBSlc?oc=5"
-    },
-    {
-      "id": "news-ca979744ebd3",
-      "source": "news",
-      "title": "The Elder Scrolls 6 Release Date’s Long Wait Could Stretch into 2029 - NoobFeed",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-05",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wYWlDNWtha2o0WkJsY3ctWmZvakdsY3puOEpIeC1TVzFNNDJzTlhxbUhxYXJrdEhjdllocHRRWW0wdlZ5V3NYazJybWN3MHMwWERKRkNLM0t6Um1uTGdkTmljQkExbTVhMUpKd2NHeDljMWlpaUlV?oc=5"
-    },
-    {
-      "id": "1xhcsn9",
-      "source": "reddit",
-      "title": "TIL Adam DeVine was hit by a cement truck at age 11, breaking every bone in his legs. He spent two weeks in a coma, underwent 26 surgeries, and used a wheelchair during recovery. Today, he supports Ch...",
-      "communities": [
-        "elderly",
-        "disability"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-04",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.reddit.com/r/todayilearned/comments/1xhcsn9/til_adam_devine_was_hit_by_a_cement_truck_at_age/"
-    },
-    {
-      "id": "1xi69d8",
-      "source": "reddit",
-      "title": "BREAKING: Defense Secretary Pete Hegseth, Claims President Trump’s “Great Triumphal Arch” Will Help Defend Washington From Drones, But The DOJ Says He Won’t Be Available To Testify As Vietnam Veterans...",
-      "communities": [
-        "veterans"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-04",
-      "flywheels": [
-        "collective_action",
-        "evidence"
-      ],
-      "url": "https://www.reddit.com/r/InterstellarKinetics/comments/1xi69d8/breaking_defense_secretary_pete_hegseth_claims/"
-    },
-    {
-      "id": "1xls79d",
-      "source": "reddit",
-      "title": "Elderly couple facing homelessness in November",
-      "communities": [
-        "elderly"
+        "injured_workers"
       ],
       "jurisdiction": "CA-FED",
-      "date": "2026-11-04",
+      "date": "2026-11-07",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://www.reddit.com/r/Calgary/comments/1xls79d/elderly_couple_facing_homelessness_in_november/"
+      "url": "https://x.com/ChinasCanada/status/2117602064645939344"
     },
     {
-      "id": "1xn9j46",
-      "source": "reddit",
-      "title": "What would be your disabled drag name?",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-04",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.reddit.com/r/disability/comments/1xn9j46/what_would_be_your_disabled_drag_name/"
-    },
-    {
-      "id": "1xhzjb1",
-      "source": "reddit",
-      "title": "OHIP coverage",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-04",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.reddit.com/r/noburp/comments/1xhzjb1/ohip_coverage/"
-    },
-    {
-      "id": "1xneac1",
-      "source": "reddit",
-      "title": "We discuss our limitations a lot but,",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-04",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.reddit.com/r/disability/comments/1xneac1/we_discuss_our_limitations_a_lot_but/"
-    },
-    {
-      "id": "1xnhmsj",
-      "source": "reddit",
-      "title": "Extreme burnout/stress leave",
+      "id": "6ceadcec681a",
+      "source": "x",
+      "title": "For over 30 years, The Law Offices of Adam Baron, P.A. have helped injured workers across South Florida understand their rights. Call 954-247-HURT for a free consultation.  #FloridaWorkersComp #AdamBa",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "INTL",
-      "date": "2026-11-04",
+      "date": "2026-11-07",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://www.reddit.com/r/WorkcoverVic/comments/1xnhmsj/extreme_burnoutstress_leave/"
+      "url": "https://x.com/AdamBaronLaw/status/2118748002961568002"
     },
     {
-      "id": "1xn0ory",
-      "source": "reddit",
-      "title": "Xmas hamper",
-      "communities": [
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-04",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.reddit.com/r/OntarioWorks/comments/1xn0ory/xmas_hamper/"
-    },
-    {
-      "id": "1xnhiut",
-      "source": "reddit",
-      "title": "What is the difference between provisional liability and full liability?",
+      "id": "49c60b061e3a",
+      "source": "x",
+      "title": "⚠️ Injured at work in New Jersey? Know your rights! Learn how to file a workers’ compensation claim, protect your benefits, and avoid costly mistakes. 💼⚖️ https://t.co/WLNdEhvB5W   #WorkersComp #NewJe",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "INTL",
-      "date": "2026-11-04",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.reddit.com/r/WorkcoverVic/comments/1xnhiut/what_is_the_difference_between_provisional/"
-    },
-    {
-      "id": "1xnezm6",
-      "source": "reddit",
-      "title": "FOI requests? Any internal pull?",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-04",
+      "date": "2026-11-07",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://www.reddit.com/r/OntarioWSIB/comments/1xnezm6/foi_requests_any_internal_pull/"
+      "url": "https://x.com/bjbroderick/status/2117753694972448776"
     },
     {
-      "id": "1xncq66",
-      "source": "reddit",
-      "title": "amputation of my middle finger after a workplace accident. Looking for advice.",
+      "id": "ed1041f2c3e1",
+      "source": "x",
+      "title": "Join IWBA today and add your name to the list of attorneys working to preserve and protect injured workers' rights!  IWBA membership gives you access to a world of continuing education tools and netwo",
       "communities": [
         "injured_workers"
       ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-04",
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-07",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://www.reddit.com/r/WorkersComp/comments/1xncq66/amputation_of_my_middle_finger_after_a_workplace/"
+      "url": "https://x.com/IWBATweets/status/2117640453260710168"
+    },
+    {
+      "id": "3e0f679beec9",
+      "source": "x",
+      "title": "What is even more infuriating knowing the majority of people with disabilities in poverty are injured workers. These were hard working canadians who only fell into poverty & homelessness after sufferi",
+      "communities": [
+        "disability",
+        "injured_workers",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-07",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/fightthewcb/status/2119044258556531121"
+    },
+    {
+      "id": "4d7b52155aa5",
+      "source": "x",
+      "title": "On June 1, 2026, #InjuredWorkerDay local Hamiltonians met at #Hamilton City Hall to raise concern of the HORRIFIC treatment of injured workers by the @WSIB including denying legitimate claims and clos",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-07",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/fightthewcb/status/2116492710395723860"
+    },
+    {
+      "id": "a72b56f147dd",
+      "source": "x",
+      "title": "@WendyGoodes 🤔destroying Ontario's workers compensation system by allowing the @WSIB  blaming injured workers for their injuries and not compensating them for anything!",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-07",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/fightthewcb/status/2115404503038017604"
+    },
+    {
+      "id": "1cfe9e050b8a",
+      "source": "x",
+      "title": "Ontario HVAC contractors shouldn't lose work because a renewal or insurance certificate slipped through the cracks. I built RivetNest to track licensing, WSIB, permits, insurance, and safety deadlines",
+      "communities": [
+        "injured_workers",
+        "veterans"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-07",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/newonpolsia/status/2119200458413855015"
+    },
+    {
+      "id": "6bd96cd352cf",
+      "source": "x",
+      "title": "@JonFraserTF @KHAID212 How many are milking WSIB, disability or sick days?",
+      "communities": [
+        "disability",
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-07",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/ICcrapdaily/status/2119197417291878400"
+    },
+    {
+      "id": "4fc424528259",
+      "source": "x",
+      "title": "@fordnation Why don't you visit injured workers and ask how are they treated by WSIB ?",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-07",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/I0452/status/2119108437019656508"
+    },
+    {
+      "id": "d6afa04016a9",
+      "source": "x",
+      "title": "@TWilsonOttawa @gary_srp I lost my job due to death threats towards me and ended up in poverty thru corrupt paperwork policies between boss/wsib ended up on odsp from the incident and abused in a ment",
+      "communities": [
+        "disability",
+        "injured_workers",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-07",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/DisabledAdvoc/status/2118843758556918061"
+    },
+    {
+      "id": "f727ee82bcbf",
+      "source": "x",
+      "title": "#sponsors  ▫️@ProaxTech ▫️@Bruce_Power ▫️@tapreport ▫️@WSIB ▫️@BCRSP ▫️@homeandsafety (ESA) ▫️@MilwaukeeTool ▫️@Manulife ▫️@OHSCanada ▫️@AirdBerlis ▫️@NPEIHydro",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-07",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/WSPS_NEWS/status/2118742477674877019"
+    },
+    {
+      "id": "4a98401439c5",
+      "source": "x",
+      "title": "@WiretapMediaHQ @LeadersFrontier Happens all the time with WSIB.    -Foreigner gets a job in Canada.  -Within weeks or days they get “injured” on the job. -Collects cheques indefinitely and returns ho",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-07",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/Fightin_Evil/status/2118737826418139292"
+    },
+    {
+      "id": "ad9267365844",
+      "source": "x",
+      "title": "@bowker_john And now WSIB claimants have to deal with American companies chosen and by influenced Doug Ford and the Conservatives make it  a hardship for the injured to deal with the claim process. Am",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-07",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/canuk2006/status/2118722859623436301"
+    },
+    {
+      "id": "dcd8c81817a9",
+      "source": "x",
+      "title": "“WSIB data shows that between 2020 to 2025 the rate of injuries resulting in lost-time claims at Amazon’s warehouse facilities in Ontario tripled — from about 1.5 per 100 workers in 2020 to about 3.5 ",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-07",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/bowker_john/status/2118710442012897502"
     }
   ],
-  "generated": "2026-11-06"
+  "generated": "2026-11-07"
 }
