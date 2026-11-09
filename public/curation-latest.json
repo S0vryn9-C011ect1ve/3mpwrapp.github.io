@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-08",
-  "timestamp": "2026-11-08T17:45:02.371Z",
-  "count": 5,
+  "date": "2026-11-09",
+  "timestamp": "2026-11-09T22:01:51.174Z",
+  "count": 9,
   "minScore": 3.5,
   "items": [
     {
@@ -9,35 +9,63 @@
       "link": "https://linktr.ee/thedisabilitybulletin",
       "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
       "score": 10,
-      "pubDate": "2026-11-08T17:45:02.368Z"
+      "pubDate": "2026-11-09T22:01:51.167Z"
     },
     {
-      "title": "Manitoba Government Invests $5 Million to Expand Autism Services for Children and Families",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75738",
+      "title": "Alberta May Adopt a US Health-Care Billing System",
+      "link": "https://thetyee.ca/News/2026/11/09/Alberta-US-Health-Care-Billing-System/",
+      "description": "The option is detailed in a ministry document obtained by The Tyee. Experts warn it could open doors to US insurers and care providers.",
+      "score": 9.5,
+      "pubDate": "Mon, 09 Nov 2026 08:10:00 +0000"
+    },
+    {
+      "title": "Manitoba Government Invests in Expanded Supports for Youth in Northern Manitoba",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75977",
       "description": "",
-      "score": 12.5,
-      "pubDate": "Wed, 14 Oct 2026 13:58:00 CDT"
+      "score": 9.5,
+      "pubDate": "Mon, 09 Nov 2026 14:37:00 EST"
     },
     {
-      "title": "Manitoba Government Invests $73,793 in Equipment Upgrades at Hobbs Manor in Brandon",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75861",
+      "title": "Manitoba Government Supports Major Rehabilitation of Thompson Regional Airport",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75777",
+      "description": "",
+      "score": 9.5,
+      "pubDate": "Fri, 16 Oct 2026 10:45:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Introduces Legislation to Strengthen Manitoba Hydro and Improve Financial Accountability",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75758",
+      "description": "",
+      "score": 9.5,
+      "pubDate": "Thu, 15 Oct 2026 14:07:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Invests $568,400 to Support North Point Douglas Women's Centre Expansion Project",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75757",
+      "description": "",
+      "score": 9.5,
+      "pubDate": "Thu, 15 Oct 2026 12:48:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Bans One-To-One Communication Between School Staff and Students on Unmonitored Platforms",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75878",
+      "description": "",
+      "score": 8.5,
+      "pubDate": "Fri, 23 Oct 2026 14:15:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Invests $100,000 in Brandon Makerspace",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75877",
       "description": "",
       "score": 7.5,
-      "pubDate": "Thu, 22 Oct 2026 15:00:00 CDT"
+      "pubDate": "Fri, 23 Oct 2026 11:59:00 CDT"
     },
     {
-      "title": "Manitoba Government Invests $67,000 toward Winkler Parks and Recreation Plan",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75737",
-      "description": "",
-      "score": 7.5,
-      "pubDate": "Wed, 14 Oct 2026 13:20:00 CDT"
-    },
-    {
-      "title": "Province Reminds Manitobans Clocks will not Change this Weekend",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75940",
+      "title": "Province Advises Snowplows Ready as Blizzard Conditions Forecast for Northern Manitoba",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75879",
       "description": "",
       "score": 4.5,
-      "pubDate": "Sat, 31 Oct 2026 10:00:00 CDT"
+      "pubDate": "Fri, 23 Oct 2026 15:54:00 CDT"
     }
   ]
 }
