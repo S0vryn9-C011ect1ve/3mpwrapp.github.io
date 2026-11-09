@@ -1,21 +1,21 @@
 {
-  "total": 2592,
+  "total": 2597,
   "verified": 5,
   "by_community": {
-    "disability": 1079,
+    "disability": 1081,
     "accessibility": 745,
     "injured_workers": 629,
     "welfare_social": 562,
-    "elderly": 186,
+    "elderly": 189,
     "veterans": 47,
     "public_allies": 11,
     "vulnerable_communities": 6
   },
   "by_jurisdiction": {
-    "CA-ON": 1143,
+    "CA-ON": 1146,
     "INTL": 979,
     "CA-FED": 302,
-    "CA-AB": 112,
+    "CA-AB": 114,
     "CA-BC": 24,
     "CA-NT": 7,
     "CA-NB": 6,
@@ -30,14 +30,14 @@
   "by_source": {
     "x": 1771,
     "reddit": 484,
-    "news": 320,
+    "news": 325,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 2575,
+    "unverified_social": 2580,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -45,6 +45,81 @@
     "manual_curated": 1
   },
   "recent": [
+    {
+      "id": "news-7e37b6c1b608",
+      "source": "news",
+      "title": "Why chronic pain is often overlooked as part of disability – and what can help - The Conversation",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-08",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONm5RNDV4bFZMWVV5OHZ1QzdBRFB1VHNZcEpEZUtlN00tY25hMHExb191aUxIWnpKdFhJQmJFZVBzMjI0cFFidTZuMmhMTk00ZW1ySVJYVTh5czlGdmh2SXJZbjRmR1lqMnc0NTBTUHBxUV9qa2lJaXYxcUFIZ2NweXVfUk5ET255Q2xZakZWYzFBSXVkb3VxM1V3V3JuSGRURmRnRV9DUjk1NHBCWk1rMw?oc=5"
+    },
+    {
+      "id": "news-a10a503a6dda",
+      "source": "news",
+      "title": "Senior Center hosts students seeking stories: Telling youngsters what it was like long ago - Shelter Island Reporter",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-08",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNElPMUVrWkNWaE5ZVl9UaUxhTUdiQkNyT2lHMnZCV21xZTFjNmpaTGlyY2JfLTh5OTFGa2hrbW9Vbk94aEF1RFFxcjFaYkxjbm1XbkY1YTJNNDdpM2R2cW9Xd1JCWHRuNW9rR2NHZ0pSVFR0UTd5N2hOajVENVJ5Q3VZZlJSRHg5c2FMOTR6ekpTWDdGTXhDUUphcG5ZQjRVd2tiODJNMHljVVhaQk5CQ2VOOXJWSFd0NE1lRmNFQU1YOGxxWGVvNXR5NUFlSmQ1VThyM2dqem1sa1pweUIwSA?oc=5"
+    },
+    {
+      "id": "news-d2538de37b69",
+      "source": "news",
+      "title": "Loukas Vatianou, a senior safety whose teammates call him ‘The General,’ takes charge on defense for Batavia - Daily Herald",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-08",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZGJTcmgxQXhsSTBQUmd1dVhyekVhLTZEeHJNQi12b2gwdkwxeEVWYnNpakhHVVdhNUlPaXNDY3ZOMGE4dHNWRVhyS3BaXzk1TjJpUWJiNlIyR3Jhc0ZJXzJGREFnZDVHWmxGRnd6TE9uMnk2aDlZM2FZblpPLVpld09ycEFCeEhFMEc3LVhUclJRaDRGREVQUkRlbDRVTmg5WjNoZEJDcGJvTUp5YWVEM25XQ0lpcFU1b2U5eHFBdThldWlXYnBjYzk4alNtWHRnOWRFN3JhSW1CeG95cWtaYjBn?oc=5"
+    },
+    {
+      "id": "news-84f5a5298b5c",
+      "source": "news",
+      "title": "Castleton Super Senior’s long-awaited wooden boat takes shape - WCAX",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-AB",
+      "date": "2026-11-08",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU2xnNUtoYmNEUlZmOERjU1lOSWdIYmdZalFSN1lyeFc5XzgweGdMaU4tcFFJV0JkdjJZS1czalY5cVE3aUJtSFpHVTFaWURfUkk5UXItTGFTa2M4YVdUUnVrVi1Gdmp3WFVyaVNrbmNyNkRkQUU5SF9BYnZVNWVEYXV4UDNodzVLY2gtRjdOSzNKd1RkVTQ2WtIBrAFBVV95cUxOTXdpMHVGQy1YaDNXWHhoelBGQUQ3YWRVWk05ZnVJV0VoaVh5NUZlTTRoVEZGQ0Q4RWxWeHJEczlsMGlQMkNvTUFTc1NWWDE3dTctOGVpWUZiLXBGZHd6YUFPNUdEY1dteVEtNG8zcmFyVUdpZW96bGNnODNoRUtubjBCS2oydmhSeXF5emRIT2tQcXZ5UzdqYzI4aWJ4SGJMNmZHbXNHTU1KbzJQ?oc=5"
+    },
+    {
+      "id": "news-95e31a6c526f",
+      "source": "news",
+      "title": "‘Life-changing’: parents welcome £10m UK play centre for disabled children - The Guardian",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-AB",
+      "date": "2026-11-08",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYXhacmhIa1NtX2RXemVjUTRSbXJ1RlVBMkhXWTZsQm9qV0YyQ2tOR25KT1JJR2lxU0VtU2k0c2c0bGhOLUVNY0NjY0tpNW1mUm9Ta1RfY1lZb2JmUUwtWnRtNml3aWpLWVNoazNRWUpEeXFVXzNHUy1fRWo2b2V2a0Y1dk1tek5hR1FmdURLRnVzWkZuenVSUTFaM0EzOERtNVZsYmpsRzItRnd6VHhET2hFOFY5eEE?oc=5"
+    },
     {
       "id": "14319b9ff8ce",
       "source": "x",
@@ -188,79 +263,7 @@
         "evidence"
       ],
       "url": "https://x.com/I0452/status/2119108437019656508"
-    },
-    {
-      "id": "d6afa04016a9",
-      "source": "x",
-      "title": "@TWilsonOttawa @gary_srp I lost my job due to death threats towards me and ended up in poverty thru corrupt paperwork policies between boss/wsib ended up on odsp from the incident and abused in a ment",
-      "communities": [
-        "disability",
-        "injured_workers",
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-07",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/DisabledAdvoc/status/2118843758556918061"
-    },
-    {
-      "id": "f727ee82bcbf",
-      "source": "x",
-      "title": "#sponsors  ▫️@ProaxTech ▫️@Bruce_Power ▫️@tapreport ▫️@WSIB ▫️@BCRSP ▫️@homeandsafety (ESA) ▫️@MilwaukeeTool ▫️@Manulife ▫️@OHSCanada ▫️@AirdBerlis ▫️@NPEIHydro",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-07",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/WSPS_NEWS/status/2118742477674877019"
-    },
-    {
-      "id": "4a98401439c5",
-      "source": "x",
-      "title": "@WiretapMediaHQ @LeadersFrontier Happens all the time with WSIB.    -Foreigner gets a job in Canada.  -Within weeks or days they get “injured” on the job. -Collects cheques indefinitely and returns ho",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-07",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/Fightin_Evil/status/2118737826418139292"
-    },
-    {
-      "id": "ad9267365844",
-      "source": "x",
-      "title": "@bowker_john And now WSIB claimants have to deal with American companies chosen and by influenced Doug Ford and the Conservatives make it  a hardship for the injured to deal with the claim process. Am",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-07",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/canuk2006/status/2118722859623436301"
-    },
-    {
-      "id": "dcd8c81817a9",
-      "source": "x",
-      "title": "“WSIB data shows that between 2020 to 2025 the rate of injuries resulting in lost-time claims at Amazon’s warehouse facilities in Ontario tripled — from about 1.5 per 100 workers in 2020 to about 3.5 ",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-07",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/bowker_john/status/2118710442012897502"
     }
   ],
-  "generated": "2026-11-07"
+  "generated": "2026-11-08"
 }
