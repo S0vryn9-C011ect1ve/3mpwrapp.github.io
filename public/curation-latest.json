@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-09",
-  "timestamp": "2026-11-09T22:01:51.174Z",
-  "count": 9,
+  "date": "2026-11-10",
+  "timestamp": "2026-11-10T19:27:02.023Z",
+  "count": 6,
   "minScore": 3.5,
   "items": [
     {
@@ -9,63 +9,42 @@
       "link": "https://linktr.ee/thedisabilitybulletin",
       "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
       "score": 10,
-      "pubDate": "2026-11-09T22:01:51.167Z"
+      "pubDate": "2026-11-10T19:27:01.996Z"
     },
     {
-      "title": "Alberta May Adopt a US Health-Care Billing System",
-      "link": "https://thetyee.ca/News/2026/11/09/Alberta-US-Health-Care-Billing-System/",
-      "description": "The option is detailed in a ministry document obtained by The Tyee. Experts warn it could open doors to US insurers and care providers.",
-      "score": 9.5,
-      "pubDate": "Mon, 09 Nov 2026 08:10:00 +0000"
+      "title": "The Downstream Doubts That Cloud LNG Canada’s Emission Claims",
+      "link": "https://thetyee.ca/Analysis/2026/11/10/Downstream-Doubts-LNG-Canada-Emission-Claims/",
+      "description": "Once it’s burned, gas processed at the Kitimat facility will produce more emissions than all other activities within BC.",
+      "score": 10.5,
+      "pubDate": "Tue, 10 Nov 2026 08:20:00 +0000"
     },
     {
-      "title": "Manitoba Government Invests in Expanded Supports for Youth in Northern Manitoba",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75977",
+      "title": "Manitoba Public Health Declares Measles Outbreak Over",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75797",
       "description": "",
-      "score": 9.5,
-      "pubDate": "Mon, 09 Nov 2026 14:37:00 EST"
+      "score": 11,
+      "pubDate": "Fri, 16 Oct 2026 14:38:00 CDT"
     },
     {
-      "title": "Manitoba Government Supports Major Rehabilitation of Thompson Regional Airport",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75777",
+      "title": "Manitoba Government Highlights Progress at Dauphin Regional Health Centre",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75998",
       "description": "",
-      "score": 9.5,
-      "pubDate": "Fri, 16 Oct 2026 10:45:00 CDT"
+      "score": 11,
+      "pubDate": "Tue, 10 Nov 2026 13:12:00 EST"
     },
     {
-      "title": "Manitoba Government Introduces Legislation to Strengthen Manitoba Hydro and Improve Financial Accountability",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75758",
-      "description": "",
-      "score": 9.5,
-      "pubDate": "Thu, 15 Oct 2026 14:07:00 CDT"
-    },
-    {
-      "title": "Manitoba Government Invests $568,400 to Support North Point Douglas Women's Centre Expansion Project",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75757",
-      "description": "",
-      "score": 9.5,
-      "pubDate": "Thu, 15 Oct 2026 12:48:00 CDT"
-    },
-    {
-      "title": "Manitoba Government Bans One-To-One Communication Between School Staff and Students on Unmonitored Platforms",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75878",
-      "description": "",
-      "score": 8.5,
-      "pubDate": "Fri, 23 Oct 2026 14:15:00 CDT"
-    },
-    {
-      "title": "Manitoba Government Invests $100,000 in Brandon Makerspace",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75877",
+      "title": "Manitoba Government Breaks Ground on Dauphin Centre for Justice",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75997",
       "description": "",
       "score": 7.5,
-      "pubDate": "Fri, 23 Oct 2026 11:59:00 CDT"
+      "pubDate": "Tue, 10 Nov 2026 12:46:00 EST"
     },
     {
-      "title": "Province Advises Snowplows Ready as Blizzard Conditions Forecast for Northern Manitoba",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75879",
+      "title": "Alberta Justice Minister rejects Elections Alberta's suggestion of using old electoral map",
+      "link": "https://rabble.ca/politics/canadian-politics/alberta-justice-minister-rejects-elections-albertas-suggestion-of-using-old-electoral-map/",
       "description": "",
-      "score": 4.5,
-      "pubDate": "Fri, 23 Oct 2026 15:54:00 CDT"
+      "score": 3.5999999999999996,
+      "pubDate": "Mon, 02 Nov 2026 19:31:44 +0000"
     }
   ]
 }
