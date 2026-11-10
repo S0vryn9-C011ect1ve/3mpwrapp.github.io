@@ -1,23 +1,23 @@
 {
-  "total": 2597,
+  "total": 2601,
   "verified": 5,
   "by_community": {
-    "disability": 1081,
+    "disability": 1082,
     "accessibility": 745,
     "injured_workers": 629,
     "welfare_social": 562,
-    "elderly": 189,
+    "elderly": 192,
     "veterans": 47,
     "public_allies": 11,
     "vulnerable_communities": 6
   },
   "by_jurisdiction": {
-    "CA-ON": 1146,
+    "CA-ON": 1149,
     "INTL": 979,
     "CA-FED": 302,
     "CA-AB": 114,
     "CA-BC": 24,
-    "CA-NT": 7,
+    "CA-NT": 8,
     "CA-NB": 6,
     "CA-YT": 5,
     "CA-SK": 4,
@@ -30,14 +30,14 @@
   "by_source": {
     "x": 1771,
     "reddit": 484,
-    "news": 325,
+    "news": 329,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 2580,
+    "unverified_social": 2584,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -45,6 +45,66 @@
     "manual_curated": 1
   },
   "recent": [
+    {
+      "id": "news-b2822c26e6bb",
+      "source": "news",
+      "title": "HHS Invests $9.7 Million to Prevent Elder Abuse and Exploitation - HHS.gov",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-09",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMHdYRERRZi1tM3B1X251Sk50Q0hheU0zTEVmVXRsTkt4SWpXcXFPT2xFRE9kakdMNmZPOFBXNTFLUGR6V2JxNFBzcUVNZldWSmJDRjR6bXIyNHBycmhDUnN4azhEZzZxN2NFdDBZaWtkNC1Bd1pycHJjczREdVcwRktaaWw5bnl4ZTZJVGdEMmx1WVVJc2hzWC05aDlPZ28wYXc?oc=5"
+    },
+    {
+      "id": "news-a0036816ec0f",
+      "source": "news",
+      "title": "Long-Term Care Insurance Premium Deductions Increase in 2027 - ElderLawAnswers",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-09",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMmtJcVp5SnNtb0s2c2hXb3lwdUE3VDZqZ3VpX1htUllBaDdoNXpuSkhUTDRZRjNrZkNnbUF2V1pSUmpkVkl1QzhJcERsQk5NVXk1S1QzV2Y3SENkbU1mWXBURlpDVERNQ2ctbkYybW5SZG54QXFiV203aEJqbVRBZlk4NTVuR3h3bm40TFBud09VSEN6N1dXUmJwYlNXQWM?oc=5"
+    },
+    {
+      "id": "news-9be6f89cc834",
+      "source": "news",
+      "title": "Wandsworth ordered to pay £1,400 after disabled boy’s long wait for home adaptations - London Daily News",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-09",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGpKcE1xZ3pHaG1DeHhTLVRFei1Pc0N3RWdDVTNJeW95NkdJMkpFdEs3SHFsZllvbnJZQ0dFTjlCQ01CdzRkUjg0S1BOWXRTNUtaRC1kLVJSR1BydUp2aHB6dHB5bHVCR1Y0QnFrU1AtYUdEOWxEdzI4U3NSSXpCVUdxbG9YZjJTZkoyUUNCZzZZSlRWeW1icGU2QVVOUEFiTXZDaWl1WVdzelJlTDhteHdB?oc=5"
+    },
+    {
+      "id": "news-fe7f79ea292d",
+      "source": "news",
+      "title": "Monmouth Women’s Basketball Senior Guard Gigi Gamble Named CAA Player of the Week - Monmouth University Athletics",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-NT",
+      "date": "2026-11-09",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ2dsQUVMUWV2Q0g0dFFKUVRWSEZNRlVsRUZFeFNmb244YVVLM0h6TEN4bHdZcG1OUkctcUpZUW40ZVhsalUtWGFtUmdtcEJWdm5fWmdYTzVORFVSd3VyYl9JNGJpVFAzdnAwUWV0UUYwQ1hQbGtZWkdwVUxNYmRqNksySjRfTXN1cUtrYUpTTTM5VGltWFpPb19ZZE5yUmJBUENBOE8tdWRxamNLRFZPYkxrcjlCeVVuT2k2OTJGQjdtNUJDTGlXbGhtblJNYTV0WXczZkhvOHp1UXFX?oc=5"
+    },
     {
       "id": "news-7e37b6c1b608",
       "source": "news",
@@ -205,65 +265,7 @@
         "evidence"
       ],
       "url": "https://x.com/fightthewcb/status/2116492710395723860"
-    },
-    {
-      "id": "a72b56f147dd",
-      "source": "x",
-      "title": "@WendyGoodes 🤔destroying Ontario's workers compensation system by allowing the @WSIB  blaming injured workers for their injuries and not compensating them for anything!",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-07",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/fightthewcb/status/2115404503038017604"
-    },
-    {
-      "id": "1cfe9e050b8a",
-      "source": "x",
-      "title": "Ontario HVAC contractors shouldn't lose work because a renewal or insurance certificate slipped through the cracks. I built RivetNest to track licensing, WSIB, permits, insurance, and safety deadlines",
-      "communities": [
-        "injured_workers",
-        "veterans"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-07",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/newonpolsia/status/2119200458413855015"
-    },
-    {
-      "id": "6bd96cd352cf",
-      "source": "x",
-      "title": "@JonFraserTF @KHAID212 How many are milking WSIB, disability or sick days?",
-      "communities": [
-        "disability",
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-07",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/ICcrapdaily/status/2119197417291878400"
-    },
-    {
-      "id": "4fc424528259",
-      "source": "x",
-      "title": "@fordnation Why don't you visit injured workers and ask how are they treated by WSIB ?",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-07",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/I0452/status/2119108437019656508"
     }
   ],
-  "generated": "2026-11-08"
+  "generated": "2026-11-09"
 }
