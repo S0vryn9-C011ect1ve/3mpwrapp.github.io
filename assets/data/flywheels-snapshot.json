@@ -1,18 +1,18 @@
 {
-  "total": 2601,
+  "total": 2603,
   "verified": 5,
   "by_community": {
     "disability": 1082,
     "accessibility": 745,
     "injured_workers": 629,
     "welfare_social": 562,
-    "elderly": 192,
+    "elderly": 194,
     "veterans": 47,
     "public_allies": 11,
     "vulnerable_communities": 6
   },
   "by_jurisdiction": {
-    "CA-ON": 1149,
+    "CA-ON": 1151,
     "INTL": 979,
     "CA-FED": 302,
     "CA-AB": 114,
@@ -30,14 +30,14 @@
   "by_source": {
     "x": 1771,
     "reddit": 484,
-    "news": 329,
+    "news": 331,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 2584,
+    "unverified_social": 2586,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -45,6 +45,36 @@
     "manual_curated": 1
   },
   "recent": [
+    {
+      "id": "news-a49503f99272",
+      "source": "news",
+      "title": "The Elder Scrolls 6’s Long Wait Explained - Den of Geek",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-10",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yTGpaYXBjUlVUX1lGbnNkaUVDU0NQUTZlS0paN0dlNUJieVYwdms3Y1U2b08yNlBfTXZ6OGxuV1ZDaFVReXF2Qk1GbzV4TGpBUkQtclhTazAzNWkxUFdFREdMOGVEeVZhME85cmxXdTJ4N0lSWEJHSnNoZnk?oc=5"
+    },
+    {
+      "id": "news-de0ccc097947",
+      "source": "news",
+      "title": "Former senior PSNI officer Emma Bond no longer the ‘preferred candidate’ for top English police job - The Irish News",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-10",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPUXRhOFF1YUVGRWdYclFIZldJSHBoNHd2NUNXS1ZYdUdJenZEN3pNS1ZXSDQyTjRBdk53dXBydUFqbHdZb25TdmV2WURYQndWSTFGMUNLdzZKa3dfUTdLX2VMVEJDU1AwNDNIU2N3dkxoblo3djBhX2haQmNGd1FuSVBhSk1UVlRjaUlYUDQ4dUhpZ1ViM1FmNjczczVHeEIzOHZ2dXUwdFZQWjFtSGtESDFlWk9TM2ROQXMwTExfb3daYk1aaTFDTF9iVldaOFpQTzJ6NmhGUm1KZU05TEh6WHFUN2dJZXFPYjJzNU1ZdmFzbjVRa0FOQktVQnJFc3BqYXpF?oc=5"
+    },
     {
       "id": "news-b2822c26e6bb",
       "source": "news",
@@ -235,37 +265,7 @@
         "knowledge"
       ],
       "url": "https://x.com/IWBATweets/status/2117640453260710168"
-    },
-    {
-      "id": "3e0f679beec9",
-      "source": "x",
-      "title": "What is even more infuriating knowing the majority of people with disabilities in poverty are injured workers. These were hard working canadians who only fell into poverty & homelessness after sufferi",
-      "communities": [
-        "disability",
-        "injured_workers",
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-07",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/fightthewcb/status/2119044258556531121"
-    },
-    {
-      "id": "4d7b52155aa5",
-      "source": "x",
-      "title": "On June 1, 2026, #InjuredWorkerDay local Hamiltonians met at #Hamilton City Hall to raise concern of the HORRIFIC treatment of injured workers by the @WSIB including denying legitimate claims and clos",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-07",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/fightthewcb/status/2116492710395723860"
     }
   ],
-  "generated": "2026-11-09"
+  "generated": "2026-11-10"
 }
