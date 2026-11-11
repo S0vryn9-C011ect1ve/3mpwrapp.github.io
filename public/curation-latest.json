@@ -1,50 +1,50 @@
 {
-  "date": "2026-11-10",
-  "timestamp": "2026-11-10T19:27:02.023Z",
+  "date": "2026-11-11",
+  "timestamp": "2026-11-11T19:21:56.014Z",
   "count": 6,
   "minScore": 3.5,
   "items": [
     {
       "title": "The Disability Bulletin",
       "link": "https://linktr.ee/thedisabilitybulletin",
-      "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
+      "description": "The Disability Bulletin covers disability rights news, advocacy updates, and community stories from across Canada. Visit for the latest issue.",
       "score": 10,
-      "pubDate": "2026-11-10T19:27:01.996Z"
+      "pubDate": "2026-11-11T19:21:56.011Z"
     },
     {
-      "title": "The Downstream Doubts That Cloud LNG Canada’s Emission Claims",
-      "link": "https://thetyee.ca/Analysis/2026/11/10/Downstream-Doubts-LNG-Canada-Emission-Claims/",
-      "description": "Once it’s burned, gas processed at the Kitimat facility will produce more emissions than all other activities within BC.",
+      "title": "Chronic Pain Costs Canada More than Cancer. But There’s a Fix",
+      "link": "https://thetyee.ca/News/2026/11/11/Chronic-Pain-Costs-Canada-More-Cancer/",
+      "description": "Believing patients and shortening treatment wait times will help everyone, experts say.",
+      "score": 13.5,
+      "pubDate": "Wed, 11 Nov 2026 08:10:00 +0000"
+    },
+    {
+      "title": "Canada’s in its free-trade rebound era",
+      "link": "https://rabble.ca/politics/canadian-politics/canadas-in-its-free-trade-rebound-era/",
+      "description": "",
       "score": 10.5,
-      "pubDate": "Tue, 10 Nov 2026 08:20:00 +0000"
+      "pubDate": "Tue, 03 Nov 2026 19:10:22 +0000"
     },
     {
-      "title": "Manitoba Public Health Declares Measles Outbreak Over",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75797",
+      "title": "Manitoba Government Signs Bilateral Housing Agreement with Manitoba M�tis Federation",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75817",
       "description": "",
-      "score": 11,
-      "pubDate": "Fri, 16 Oct 2026 14:38:00 CDT"
+      "score": 9.5,
+      "pubDate": "Sat, 17 Oct 2026 16:22:00 CDT"
     },
     {
-      "title": "Manitoba Government Highlights Progress at Dauphin Regional Health Centre",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75998",
-      "description": "",
-      "score": 11,
-      "pubDate": "Tue, 10 Nov 2026 13:12:00 EST"
-    },
-    {
-      "title": "Manitoba Government Breaks Ground on Dauphin Centre for Justice",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75997",
+      "title": "Manitoba Government Invests More Than $300,000 to Upgrade Arts and Recreation Infrastructure in Westman",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75759",
       "description": "",
       "score": 7.5,
-      "pubDate": "Tue, 10 Nov 2026 12:46:00 EST"
+      "pubDate": "Sat, 17 Oct 2026 11:00:00 CDT"
     },
     {
-      "title": "Alberta Justice Minister rejects Elections Alberta's suggestion of using old electoral map",
-      "link": "https://rabble.ca/politics/canadian-politics/alberta-justice-minister-rejects-elections-albertas-suggestion-of-using-old-electoral-map/",
+      "title": "New Retention and Recruitment Office Helps Bring 18 Physicians to Prairie Mountain Health",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75862",
       "description": "",
-      "score": 3.5999999999999996,
-      "pubDate": "Mon, 02 Nov 2026 19:31:44 +0000"
+      "score": 4.5,
+      "pubDate": "Thu, 22 Oct 2026 13:47:00 CDT"
     }
   ]
 }

@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-11",
+  "timestamp": "2026-11-11T19:21:56.014Z",
+  "count": 6,
+  "minScore": 3.5,
+  "items": [
+    {
+      "title": "The Disability Bulletin",
+      "link": "https://linktr.ee/thedisabilitybulletin",
+      "description": "The Disability Bulletin covers disability rights news, advocacy updates, and community stories from across Canada. Visit for the latest issue.",
+      "score": 10,
+      "pubDate": "2026-11-11T19:21:56.011Z"
+    },
+    {
+      "title": "Chronic Pain Costs Canada More than Cancer. But There’s a Fix",
+      "link": "https://thetyee.ca/News/2026/11/11/Chronic-Pain-Costs-Canada-More-Cancer/",
+      "description": "Believing patients and shortening treatment wait times will help everyone, experts say.",
+      "score": 13.5,
+      "pubDate": "Wed, 11 Nov 2026 08:10:00 +0000"
+    },
+    {
+      "title": "Canada’s in its free-trade rebound era",
+      "link": "https://rabble.ca/politics/canadian-politics/canadas-in-its-free-trade-rebound-era/",
+      "description": "",
+      "score": 10.5,
+      "pubDate": "Tue, 03 Nov 2026 19:10:22 +0000"
+    },
+    {
+      "title": "Manitoba Government Signs Bilateral Housing Agreement with Manitoba M�tis Federation",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75817",
+      "description": "",
+      "score": 9.5,
+      "pubDate": "Sat, 17 Oct 2026 16:22:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Invests More Than $300,000 to Upgrade Arts and Recreation Infrastructure in Westman",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75759",
+      "description": "",
+      "score": 7.5,
+      "pubDate": "Sat, 17 Oct 2026 11:00:00 CDT"
+    },
+    {
+      "title": "New Retention and Recruitment Office Helps Bring 18 Physicians to Prairie Mountain Health",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75862",
+      "description": "",
+      "score": 4.5,
+      "pubDate": "Thu, 22 Oct 2026 13:47:00 CDT"
+    }
+  ]
+}
