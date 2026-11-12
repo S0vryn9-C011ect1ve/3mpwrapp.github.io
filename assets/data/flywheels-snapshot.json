@@ -1,18 +1,18 @@
 {
-  "total": 2603,
+  "total": 2610,
   "verified": 5,
   "by_community": {
     "disability": 1082,
     "accessibility": 745,
     "injured_workers": 629,
     "welfare_social": 562,
-    "elderly": 194,
+    "elderly": 201,
     "veterans": 47,
     "public_allies": 11,
-    "vulnerable_communities": 6
+    "vulnerable_communities": 7
   },
   "by_jurisdiction": {
-    "CA-ON": 1151,
+    "CA-ON": 1158,
     "INTL": 979,
     "CA-FED": 302,
     "CA-AB": 114,
@@ -30,14 +30,14 @@
   "by_source": {
     "x": 1771,
     "reddit": 484,
-    "news": 331,
+    "news": 338,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 2586,
+    "unverified_social": 2593,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -45,6 +45,112 @@
     "manual_curated": 1
   },
   "recent": [
+    {
+      "id": "news-441bd81c2d8e",
+      "source": "news",
+      "title": "Long Trail senior earns National Merit, UVM scholarship - Manchester journal",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-11",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSkh1bUJSbEVhNWxFaS05N1FiMGpra05IY251VXFKTVVlSWk3NWt4V240Nk5qOG5tTnNmQU1JS0g0NDBmdUFoTEhDaWNQWHkxRTVscEFkRTVNTnl1Y1Rqd0VKY2NhX3h0R2ZmNTF4X29kaWZZZnduN1Zxd2VFSVZPSm0zQm15UWlSR0g4WXFpSC05Y3pUMURSY1lPSnZqZ2tRX2tmMjBMU3NQdnhLZjdKWg?oc=5"
+    },
+    {
+      "id": "news-ec202ae071ea",
+      "source": "news",
+      "title": "Ofori Panin Senior High School Marks 65 Years With Week-Long Celebration - Modern Ghana",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-11",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sQ0FmaFAtM0pLM0dldXJ1WGJldlFlT0dRaEJxS1Jkbk4zRnhVbmozOFZXX2drS0NiU3ZYdm91dU9nc3dfSS1jUUxpdW54bXpURHJZX1F6VkdpaWhRNmlPdXN4a9IBXEFVX3lxTFAtM25fUmVNdGtDa25MWmhwLVMxV0toLWVMVkgyVi1UcjNIU0dKLU5HV3kwYjJCUUhUdThIRV8zRFhhYnVvdXRHR3pwVmJZVzRLOGRrLXFYRGZHSjNO?oc=5"
+    },
+    {
+      "id": "news-8e79eecd96d4",
+      "source": "news",
+      "title": "Senior Housing Planned at Mok-dong CBS Site; Long-Term Jeonse Housing Near Nodeul Station - 아시아경제",
+      "communities": [
+        "elderly",
+        "vulnerable_communities"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-11",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IR2t4REVQODZHVl9BaXNrQW1CSDhHbUFuV0JwRndKNXozVFYzZGdiY3RkZUpaNVJ6Mk1ud1FCZ2hDelFfdGNkUTh6eUlOSnoxUW1pVUF2Zk1sSTd4WHhfWEF3MWdEQ0c1Z3JLS1d2VHVjUWt3cElKSlJIYzJ6VHc?oc=5"
+    },
+    {
+      "id": "news-73ffd303d201",
+      "source": "news",
+      "title": "Don’t Expect The Elder Scrolls 6 News Today Or Any Time Soon - TheGamer",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-11",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmZ4cHVONWlfcy0zX19KblhydUdmbFhuRFN2TnpwWjVad1pXaUZoTmEza3ZtVTl2YkNRZ2NaVmVJNHFYWGIyRU1BTUVydGQ1WEJfWlVfYmp4Nm5sbXpFYS1UQ190ellWZ3FRcXMtSHFTR1pQZXAxeFY4RVFVVEtLT3FFNjdHRkNiMk1jbnhYWVcyeGlNc3pQaA?oc=5"
+    },
+    {
+      "id": "news-227d82a1c1d6",
+      "source": "news",
+      "title": "Real Madrid legend lands first senior managerial job at Real Oviedo - The Real Champs",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-11",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLUFnSzJBNlRRVzVka1kzYTcxSzFDQ09adW82SHh5QmE1QVpfbmM1b0dWSklNUjRNNTFOTUdkWTdPOEloT01tcHVtbFhrQ0w2Y2NuMU9oT0NZNHZBZjhaX25YZy1LQ0tZUEdUUlN1ak9uUnd0MmN1TzBwZHZWWWxkQmxQUlE5Z2NmUW50RFBVbzQyWXBpWDRjbzlxT1J3WXlfRER6UnNnLV9mYkJ5b2U3Y3BycVE?oc=5"
+    },
+    {
+      "id": "news-f46c71d82b63",
+      "source": "news",
+      "title": "Andhra Pradesh HC to Take Up Long-Pending Contempt Cases Against Senior IAS Officers on November 13 - Indian Masterminds",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-11",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYzNFNUhoajNlVXBkODBwY0RPRUhsYzRGWG1WbDJTSmhKRE9UUFZLclBSczRGWW1vaGl0MkhCUmloQl9sWTE2YWV5OVlqX0ZnQnNITERiSU1BNFByYUZUTm02cFZPRVJNNTR0ME5fTjZHU3llOVRzODBZMFJHUE5YVWpzMjJUT2lEaXUxRjZDOVpjSnNPY0o2UE1BQlI?oc=5"
+    },
+    {
+      "id": "news-6e8255385e8f",
+      "source": "news",
+      "title": "AP: HC to Hear Long-Pending Contempt Cases Against Senior IAS Officers on November 13 - NorthBlockSouthBlock",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-11",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNmtEdDFWMnNQWFBvbzhVQzFaMS1FNE1uYjRvTFhWcGNaQjJIY2dxTE9JeUdlLV9xbGQ0YmlWNXlURER5Mlk4eGJRSS1NN09jS19SZXVNNVI0dXdPWG4wY0VWMld5U0hJQ1dNcU14M0NnVXJ2dVU4ZTZlWlpqQllidjZHalhneFFYdUNpR2VwODdHVG5BNU1IdktaNDNtQ0U5Zlo0TUo4MHgyNktBUTNLLUNkTEVBRXZSMUY2eDd5aw?oc=5"
+    },
     {
       "id": "news-a49503f99272",
       "source": "news",
@@ -164,108 +270,7 @@
         "knowledge"
       ],
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNElPMUVrWkNWaE5ZVl9UaUxhTUdiQkNyT2lHMnZCV21xZTFjNmpaTGlyY2JfLTh5OTFGa2hrbW9Vbk94aEF1RFFxcjFaYkxjbm1XbkY1YTJNNDdpM2R2cW9Xd1JCWHRuNW9rR2NHZ0pSVFR0UTd5N2hOajVENVJ5Q3VZZlJSRHg5c2FMOTR6ekpTWDdGTXhDUUphcG5ZQjRVd2tiODJNMHljVVhaQk5CQ2VOOXJWSFd0NE1lRmNFQU1YOGxxWGVvNXR5NUFlSmQ1VThyM2dqem1sa1pweUIwSA?oc=5"
-    },
-    {
-      "id": "news-d2538de37b69",
-      "source": "news",
-      "title": "Loukas Vatianou, a senior safety whose teammates call him ‘The General,’ takes charge on defense for Batavia - Daily Herald",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-08",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZGJTcmgxQXhsSTBQUmd1dVhyekVhLTZEeHJNQi12b2gwdkwxeEVWYnNpakhHVVdhNUlPaXNDY3ZOMGE4dHNWRVhyS3BaXzk1TjJpUWJiNlIyR3Jhc0ZJXzJGREFnZDVHWmxGRnd6TE9uMnk2aDlZM2FZblpPLVpld09ycEFCeEhFMEc3LVhUclJRaDRGREVQUkRlbDRVTmg5WjNoZEJDcGJvTUp5YWVEM25XQ0lpcFU1b2U5eHFBdThldWlXYnBjYzk4alNtWHRnOWRFN3JhSW1CeG95cWtaYjBn?oc=5"
-    },
-    {
-      "id": "news-84f5a5298b5c",
-      "source": "news",
-      "title": "Castleton Super Senior’s long-awaited wooden boat takes shape - WCAX",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-AB",
-      "date": "2026-11-08",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU2xnNUtoYmNEUlZmOERjU1lOSWdIYmdZalFSN1lyeFc5XzgweGdMaU4tcFFJV0JkdjJZS1czalY5cVE3aUJtSFpHVTFaWURfUkk5UXItTGFTa2M4YVdUUnVrVi1Gdmp3WFVyaVNrbmNyNkRkQUU5SF9BYnZVNWVEYXV4UDNodzVLY2gtRjdOSzNKd1RkVTQ2WtIBrAFBVV95cUxOTXdpMHVGQy1YaDNXWHhoelBGQUQ3YWRVWk05ZnVJV0VoaVh5NUZlTTRoVEZGQ0Q4RWxWeHJEczlsMGlQMkNvTUFTc1NWWDE3dTctOGVpWUZiLXBGZHd6YUFPNUdEY1dteVEtNG8zcmFyVUdpZW96bGNnODNoRUtubjBCS2oydmhSeXF5emRIT2tQcXZ5UzdqYzI4aWJ4SGJMNmZHbXNHTU1KbzJQ?oc=5"
-    },
-    {
-      "id": "news-95e31a6c526f",
-      "source": "news",
-      "title": "‘Life-changing’: parents welcome £10m UK play centre for disabled children - The Guardian",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "CA-AB",
-      "date": "2026-11-08",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYXhacmhIa1NtX2RXemVjUTRSbXJ1RlVBMkhXWTZsQm9qV0YyQ2tOR25KT1JJR2lxU0VtU2k0c2c0bGhOLUVNY0NjY0tpNW1mUm9Ta1RfY1lZb2JmUUwtWnRtNml3aWpLWVNoazNRWUpEeXFVXzNHUy1fRWo2b2V2a0Y1dk1tek5hR1FmdURLRnVzWkZuenVSUTFaM0EzOERtNVZsYmpsRzItRnd6VHhET2hFOFY5eEE?oc=5"
-    },
-    {
-      "id": "14319b9ff8ce",
-      "source": "x",
-      "title": "Academic and public health studies note that recent immigrants and foreign-born individuals consistently suffer a disproportionately higher rate of workplace accidents—sometimes 1.4 to 2 times higher ",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-FED",
-      "date": "2026-11-07",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/ChinasCanada/status/2117602064645939344"
-    },
-    {
-      "id": "6ceadcec681a",
-      "source": "x",
-      "title": "For over 30 years, The Law Offices of Adam Baron, P.A. have helped injured workers across South Florida understand their rights. Call 954-247-HURT for a free consultation.  #FloridaWorkersComp #AdamBa",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-07",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/AdamBaronLaw/status/2118748002961568002"
-    },
-    {
-      "id": "49c60b061e3a",
-      "source": "x",
-      "title": "⚠️ Injured at work in New Jersey? Know your rights! Learn how to file a workers’ compensation claim, protect your benefits, and avoid costly mistakes. 💼⚖️ https://t.co/WLNdEhvB5W   #WorkersComp #NewJe",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-07",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/bjbroderick/status/2117753694972448776"
-    },
-    {
-      "id": "ed1041f2c3e1",
-      "source": "x",
-      "title": "Join IWBA today and add your name to the list of attorneys working to preserve and protect injured workers' rights!  IWBA membership gives you access to a world of continuing education tools and netwo",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-07",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/IWBATweets/status/2117640453260710168"
     }
   ],
-  "generated": "2026-11-10"
+  "generated": "2026-11-11"
 }
