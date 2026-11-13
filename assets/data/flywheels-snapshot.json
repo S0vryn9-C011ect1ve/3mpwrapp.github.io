@@ -1,8 +1,8 @@
 {
-  "total": 2610,
+  "total": 2611,
   "verified": 5,
   "by_community": {
-    "disability": 1082,
+    "disability": 1083,
     "accessibility": 745,
     "injured_workers": 629,
     "welfare_social": 562,
@@ -12,7 +12,7 @@
     "vulnerable_communities": 7
   },
   "by_jurisdiction": {
-    "CA-ON": 1158,
+    "CA-ON": 1159,
     "INTL": 979,
     "CA-FED": 302,
     "CA-AB": 114,
@@ -30,14 +30,14 @@
   "by_source": {
     "x": 1771,
     "reddit": 484,
-    "news": 338,
+    "news": 339,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 2593,
+    "unverified_social": 2594,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -45,6 +45,21 @@
     "manual_curated": 1
   },
   "recent": [
+    {
+      "id": "news-295aa9ea7d1e",
+      "source": "news",
+      "title": "What San Diego Residents Should Know About Long-Term Disability and ERISA Claims - InsuranceNewsNet",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-12",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ2kxNEowUGVKVTJzelV5cUhTNlR0LXBUNS1nUVBVd1UwdFFGVlNSWU9EVEdqeVl4VFhaN0Zpclpwb3YyVUh0RGJjUHpWN2ExdVhUVUlDdnBnRWJUY1dZOFlZandJY1JrSDJLZ1hnb3dmSVJIUEk3Y2dRZkMxajB6SjVoOExKeFlkNUExZThzOEdSQWRtZ1UzcFNXZHhkVUdJQVZTbkh5SzdmaVZTTDQwS0hkUGJDZ01zOFE?oc=5"
+    },
     {
       "id": "news-441bd81c2d8e",
       "source": "news",
@@ -255,22 +270,7 @@
         "knowledge"
       ],
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONm5RNDV4bFZMWVV5OHZ1QzdBRFB1VHNZcEpEZUtlN00tY25hMHExb191aUxIWnpKdFhJQmJFZVBzMjI0cFFidTZuMmhMTk00ZW1ySVJYVTh5czlGdmh2SXJZbjRmR1lqMnc0NTBTUHBxUV9qa2lJaXYxcUFIZ2NweXVfUk5ET255Q2xZakZWYzFBSXVkb3VxM1V3V3JuSGRURmRnRV9DUjk1NHBCWk1rMw?oc=5"
-    },
-    {
-      "id": "news-a10a503a6dda",
-      "source": "news",
-      "title": "Senior Center hosts students seeking stories: Telling youngsters what it was like long ago - Shelter Island Reporter",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-08",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNElPMUVrWkNWaE5ZVl9UaUxhTUdiQkNyT2lHMnZCV21xZTFjNmpaTGlyY2JfLTh5OTFGa2hrbW9Vbk94aEF1RFFxcjFaYkxjbm1XbkY1YTJNNDdpM2R2cW9Xd1JCWHRuNW9rR2NHZ0pSVFR0UTd5N2hOajVENVJ5Q3VZZlJSRHg5c2FMOTR6ekpTWDdGTXhDUUphcG5ZQjRVd2tiODJNMHljVVhaQk5CQ2VOOXJWSFd0NE1lRmNFQU1YOGxxWGVvNXR5NUFlSmQ1VThyM2dqem1sa1pweUIwSA?oc=5"
     }
   ],
-  "generated": "2026-11-11"
+  "generated": "2026-11-12"
 }
