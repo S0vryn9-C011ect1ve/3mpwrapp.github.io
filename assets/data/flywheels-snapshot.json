@@ -1,43 +1,43 @@
 {
-  "total": 2611,
+  "total": 2744,
   "verified": 5,
   "by_community": {
-    "disability": 1083,
-    "accessibility": 745,
-    "injured_workers": 629,
-    "welfare_social": 562,
-    "elderly": 201,
-    "veterans": 47,
+    "disability": 1143,
+    "accessibility": 787,
+    "injured_workers": 663,
+    "welfare_social": 593,
+    "elderly": 205,
+    "veterans": 51,
     "public_allies": 11,
     "vulnerable_communities": 7
   },
   "by_jurisdiction": {
-    "CA-ON": 1159,
-    "INTL": 979,
-    "CA-FED": 302,
-    "CA-AB": 114,
+    "CA-ON": 1212,
+    "INTL": 1011,
+    "CA-FED": 335,
+    "CA-AB": 127,
     "CA-BC": 24,
     "CA-NT": 8,
     "CA-NB": 6,
     "CA-YT": 5,
-    "CA-SK": 4,
+    "CA-SK": 5,
+    "CA-MB": 4,
     "CA-TERR": 3,
-    "CA-MB": 3,
     "CA-NL": 2,
     "CA": 1,
     "CA-NU": 1
   },
   "by_source": {
-    "x": 1771,
+    "x": 1902,
     "reddit": 484,
-    "news": 339,
+    "news": 341,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 2594,
+    "unverified_social": 2727,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -46,231 +46,221 @@
   },
   "recent": [
     {
-      "id": "news-295aa9ea7d1e",
-      "source": "news",
-      "title": "What San Diego Residents Should Know About Long-Term Disability and ERISA Claims - InsuranceNewsNet",
+      "id": "c60f1c74c26c",
+      "source": "x",
+      "title": "In 2025 the @UN Committee on the Rights of Persons with Disabilities published its FINAL Report on Human Rights and Canada.  At page 16 the report it stated the following regarding injured workers:  \"",
       "communities": [
-        "disability"
+        "disability",
+        "injured_workers",
+        "welfare_social"
       ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-12",
+      "jurisdiction": "CA-FED",
+      "date": "2026-11-13",
       "flywheels": [
-        "evidence",
         "knowledge"
       ],
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ2kxNEowUGVKVTJzelV5cUhTNlR0LXBUNS1nUVBVd1UwdFFGVlNSWU9EVEdqeVl4VFhaN0Zpclpwb3YyVUh0RGJjUHpWN2ExdVhUVUlDdnBnRWJUY1dZOFlZandJY1JrSDJLZ1hnb3dmSVJIUEk3Y2dRZkMxajB6SjVoOExKeFlkNUExZThzOEdSQWRtZ1UzcFNXZHhkVUdJQVZTbkh5SzdmaVZTTDQwS0hkUGJDZ01zOFE?oc=5"
+      "url": "https://x.com/fightthewcb/status/2121012441467199995"
     },
     {
-      "id": "news-441bd81c2d8e",
-      "source": "news",
-      "title": "Long Trail senior earns National Merit, UVM scholarship - Manchester journal",
+      "id": "f701cb7b657d",
+      "source": "x",
+      "title": "@WabKinew Wab you don’t know me I am a Canadian, but my name is Charles Anthony. I’m injured worker what I ask you now man man is it such a big deal to have a bill of rights for injured workers worker",
       "communities": [
-        "elderly"
+        "injured_workers"
       ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-11",
+      "jurisdiction": "CA-FED",
+      "date": "2026-11-13",
       "flywheels": [
-        "evidence",
         "knowledge"
       ],
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSkh1bUJSbEVhNWxFaS05N1FiMGpra05IY251VXFKTVVlSWk3NWt4V240Nk5qOG5tTnNmQU1JS0g0NDBmdUFoTEhDaWNQWHkxRTVscEFkRTVNTnl1Y1Rqd0VKY2NhX3h0R2ZmNTF4X29kaWZZZnduN1Zxd2VFSVZPSm0zQm15UWlSR0g4WXFpSC05Y3pUMURSY1lPSnZqZ2tRX2tmMjBMU3NQdnhLZjdKWg?oc=5"
+      "url": "https://x.com/CharlesTabadp8/status/2121072982022095338"
     },
     {
-      "id": "news-ec202ae071ea",
-      "source": "news",
-      "title": "Ofori Panin Senior High School Marks 65 Years With Week-Long Celebration - Modern Ghana",
+      "id": "fd7efdeb5a98",
+      "source": "x",
+      "title": "@DavidPiccini Why are injured workers NOT entitled to full benefit of law?  Why are injured workers NOT entitle to the protections guaranteed by the Charter of Rights and Freedoms? Why do you ignore a",
       "communities": [
-        "elderly"
+        "injured_workers"
       ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-11",
+      "jurisdiction": "INTL",
+      "date": "2026-11-13",
       "flywheels": [
-        "evidence",
         "knowledge"
       ],
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sQ0FmaFAtM0pLM0dldXJ1WGJldlFlT0dRaEJxS1Jkbk4zRnhVbmozOFZXX2drS0NiU3ZYdm91dU9nc3dfSS1jUUxpdW54bXpURHJZX1F6VkdpaWhRNmlPdXN4a9IBXEFVX3lxTFAtM25fUmVNdGtDa25MWmhwLVMxV0toLWVMVkgyVi1UcjNIU0dKLU5HV3kwYjJCUUhUdThIRV8zRFhhYnVvdXRHR3pwVmJZVzRLOGRrLXFYRGZHSjNO?oc=5"
+      "url": "https://x.com/kubu_rick/status/2121068830504186298"
     },
     {
-      "id": "news-8e79eecd96d4",
-      "source": "news",
-      "title": "Senior Housing Planned at Mok-dong CBS Site; Long-Term Jeonse Housing Near Nodeul Station - 아시아경제",
+      "id": "72b15e5963d4",
+      "source": "x",
+      "title": "🚧 Injured at work? Pennsylvania workers' comp may cover doctor visits, hospital care, medications, and rehabilitation—even after you return to work.  At TozLaw, we help injured workers in #Scranton an",
       "communities": [
-        "elderly",
-        "vulnerable_communities"
+        "injured_workers"
       ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-11",
+      "jurisdiction": "INTL",
+      "date": "2026-11-13",
       "flywheels": [
-        "evidence",
         "knowledge"
       ],
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IR2t4REVQODZHVl9BaXNrQW1CSDhHbUFuV0JwRndKNXozVFYzZGdiY3RkZUpaNVJ6Mk1ud1FCZ2hDelFfdGNkUTh6eUlOSnoxUW1pVUF2Zk1sSTd4WHhfWEF3MWdEQ0c1Z3JLS1d2VHVjUWt3cElKSlJIYzJ6VHc?oc=5"
+      "url": "https://x.com/Toz_Law/status/2120921089757130783"
     },
     {
-      "id": "news-73ffd303d201",
-      "source": "news",
-      "title": "Don’t Expect The Elder Scrolls 6 News Today Or Any Time Soon - TheGamer",
+      "id": "423223be83e9",
+      "source": "x",
+      "title": "A $200k settlement secured for a day laborer who fell 10ft off a scaffold, NY.   When contractors deny responsibility, we fight for injured workers’ rights—ensuring access to medical care and compensa",
       "communities": [
-        "elderly"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-11",
+      "date": "2026-11-13",
       "flywheels": [
-        "evidence",
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmZ4cHVONWlfcy0zX19KblhydUdmbFhuRFN2TnpwWjVad1pXaUZoTmEza3ZtVTl2YkNRZ2NaVmVJNHFYWGIyRU1BTUVydGQ1WEJfWlVfYmp4Nm5sbXpFYS1UQ190ellWZ3FRcXMtSHFTR1pQZXAxeFY4RVFVVEtLT3FFNjdHRkNiMk1jbnhYWVcyeGlNc3pQaA?oc=5"
+      "url": "https://x.com/MDASRlaw/status/2120894659627004257"
     },
     {
-      "id": "news-227d82a1c1d6",
-      "source": "news",
-      "title": "Real Madrid legend lands first senior managerial job at Real Oviedo - The Real Champs",
+      "id": "d3230ca6b2d0",
+      "source": "x",
+      "title": "@PhoenixRizin09 BC Human Rights Tribunal: Ms. V v. Kamloops and District Elizabeth Fry Society, 2026 BCHRT 198 The Tribunal ordered a non-profit to disclose its workplace investigator’s witness interv",
       "communities": [
-        "elderly"
+        "injured_workers",
+        "welfare_social"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-11-13",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/TheTideRises333/status/2120854875940753881"
+    },
+    {
+      "id": "031f7658baef",
+      "source": "x",
+      "title": "The intersection of worker welfare, corporate liability, and human rights in South Africa’s mining sector is once again under intense scrutiny.   Proposed legislative reforms aimed at overhauling occu",
+      "communities": [
+        "injured_workers",
+        "welfare_social"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-11-13",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/esg_now/status/2120453830953336933"
+    },
+    {
+      "id": "da8c7fb4f467",
+      "source": "x",
+      "title": "When reporting insurable earnings to the WSIB, even familiar payroll items can raise questions. The main one is - what should employers consider when determining what belongs in their insurable earnin",
+      "communities": [
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-11",
+      "date": "2026-11-13",
       "flywheels": [
-        "evidence",
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLUFnSzJBNlRRVzVka1kzYTcxSzFDQ09adW82SHh5QmE1QVpfbmM1b0dWSklNUjRNNTFOTUdkWTdPOEloT01tcHVtbFhrQ0w2Y2NuMU9oT0NZNHZBZjhaX25YZy1LQ0tZUEdUUlN1ak9uUnd0MmN1TzBwZHZWWWxkQmxQUlE5Z2NmUW50RFBVbzQyWXBpWDRjbzlxT1J3WXlfRER6UnNnLV9mYkJ5b2U3Y3BycVE?oc=5"
+      "url": "https://x.com/askoea/status/2121226578902278241"
     },
     {
-      "id": "news-f46c71d82b63",
-      "source": "news",
-      "title": "Andhra Pradesh HC to Take Up Long-Pending Contempt Cases Against Senior IAS Officers on November 13 - Indian Masterminds",
+      "id": "85dd5f5825a4",
+      "source": "x",
+      "title": "Lorsqu’il s’agit de déclarer les gains assurables à la Commission de la sécurité professionnelle et de l’assurance contre les accidents du travail (WSIB), même les éléments courants de la paie peuvent",
       "communities": [
-        "elderly"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-11",
+      "date": "2026-11-13",
       "flywheels": [
-        "evidence",
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYzNFNUhoajNlVXBkODBwY0RPRUhsYzRGWG1WbDJTSmhKRE9UUFZLclBSczRGWW1vaGl0MkhCUmloQl9sWTE2YWV5OVlqX0ZnQnNITERiSU1BNFByYUZUTm02cFZPRVJNNTR0ME5fTjZHU3llOVRzODBZMFJHUE5YVWpzMjJUT2lEaXUxRjZDOVpjSnNPY0o2UE1BQlI?oc=5"
+      "url": "https://x.com/AskoeaFR/status/2121226575844921464"
     },
     {
-      "id": "news-6e8255385e8f",
-      "source": "news",
-      "title": "AP: HC to Hear Long-Pending Contempt Cases Against Senior IAS Officers on November 13 - NorthBlockSouthBlock",
+      "id": "2844f8bbd82c",
+      "source": "x",
+      "title": "@fordnation According to Workplace Safety and Insurance Board (WSIB) data — the most recent available, covering 2022 — transportation and warehousing accounted for 19% of all allowed traumatic workpla",
       "communities": [
-        "elderly"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-11",
+      "date": "2026-11-13",
       "flywheels": [
-        "evidence",
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNmtEdDFWMnNQWFBvbzhVQzFaMS1FNE1uYjRvTFhWcGNaQjJIY2dxTE9JeUdlLV9xbGQ0YmlWNXlURER5Mlk4eGJRSS1NN09jS19SZXVNNVI0dXdPWG4wY0VWMld5U0hJQ1dNcU14M0NnVXJ2dVU4ZTZlWlpqQllidjZHalhneFFYdUNpR2VwODdHVG5BNU1IdktaNDNtQ0U5Zlo0TUo4MHgyNktBUTNLLUNkTEVBRXZSMUY2eDd5aw?oc=5"
+      "url": "https://x.com/L0_0ney/status/2121214388824650099"
     },
     {
-      "id": "news-a49503f99272",
-      "source": "news",
-      "title": "The Elder Scrolls 6’s Long Wait Explained - Den of Geek",
+      "id": "7693477ee5e8",
+      "source": "x",
+      "title": "@PierrePoilievre @WSIB To answer what do we do now, remove you all, raid your pensions and dismantle this farce of a fucking Country.   It's look out for yourself but pay mass amount of taxes so the c",
       "communities": [
-        "elderly"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-10",
+      "date": "2026-11-13",
       "flywheels": [
-        "evidence",
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yTGpaYXBjUlVUX1lGbnNkaUVDU0NQUTZlS0paN0dlNUJieVYwdms3Y1U2b08yNlBfTXZ6OGxuV1ZDaFVReXF2Qk1GbzV4TGpBUkQtclhTazAzNWkxUFdFREdMOGVEeVZhME85cmxXdTJ4N0lSWEJHSnNoZnk?oc=5"
+      "url": "https://x.com/OmniG7/status/2121203570649288771"
     },
     {
-      "id": "news-de0ccc097947",
-      "source": "news",
-      "title": "Former senior PSNI officer Emma Bond no longer the ‘preferred candidate’ for top English police job - The Irish News",
+      "id": "28eb4d1c6ce4",
+      "source": "x",
+      "title": "@PierrePoilievre \"what do we do now\"   Well as a citizen who keeps ending up jobless dispite having a very good education, very good work ethic, very good attitude ect and can't rely on @WSIB after be",
       "communities": [
-        "elderly"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-10",
+      "date": "2026-11-13",
       "flywheels": [
-        "evidence",
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPUXRhOFF1YUVGRWdYclFIZldJSHBoNHd2NUNXS1ZYdUdJenZEN3pNS1ZXSDQyTjRBdk53dXBydUFqbHdZb25TdmV2WURYQndWSTFGMUNLdzZKa3dfUTdLX2VMVEJDU1AwNDNIU2N3dkxoblo3djBhX2haQmNGd1FuSVBhSk1UVlRjaUlYUDQ4dUhpZ1ViM1FmNjczczVHeEIzOHZ2dXUwdFZQWjFtSGtESDFlWk9TM2ROQXMwTExfb3daYk1aaTFDTF9iVldaOFpQTzJ6NmhGUm1KZU05TEh6WHFUN2dJZXFPYjJzNU1ZdmFzbjVRa0FOQktVQnJFc3BqYXpF?oc=5"
+      "url": "https://x.com/OmniG7/status/2121203187692572939"
     },
     {
-      "id": "news-b2822c26e6bb",
-      "source": "news",
-      "title": "HHS Invests $9.7 Million to Prevent Elder Abuse and Exploitation - HHS.gov",
+      "id": "316fca2bb1c8",
+      "source": "x",
+      "title": "\"The WSIB has identified motor vehicle incidents as the province’s leading cause of work-related fatalities every year for a decade, with trucks broadly involved in almost two-thirds of fatal incident",
       "communities": [
-        "elderly"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-09",
+      "date": "2026-11-13",
       "flywheels": [
-        "evidence",
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMHdYRERRZi1tM3B1X251Sk50Q0hheU0zTEVmVXRsTkt4SWpXcXFPT2xFRE9kakdMNmZPOFBXNTFLUGR6V2JxNFBzcUVNZldWSmJDRjR6bXIyNHBycmhDUnN4azhEZzZxN2NFdDBZaWtkNC1Bd1pycHJjczREdVcwRktaaWw5bnl4ZTZJVGdEMmx1WVVJc2hzWC05aDlPZ28wYXc?oc=5"
+      "url": "https://x.com/DirkaProut/status/2121132374297588187"
     },
     {
-      "id": "news-a0036816ec0f",
-      "source": "news",
-      "title": "Long-Term Care Insurance Premium Deductions Increase in 2027 - ElderLawAnswers",
+      "id": "27b52321687b",
+      "source": "x",
+      "title": "@LiseVaugeois WSIB announces millions for homeless military vets. Theft is such an ugly word but it does describe diverting funds from the intended purpose.",
       "communities": [
-        "elderly"
+        "injured_workers",
+        "veterans"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-09",
+      "date": "2026-11-13",
       "flywheels": [
-        "evidence",
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMmtJcVp5SnNtb0s2c2hXb3lwdUE3VDZqZ3VpX1htUllBaDdoNXpuSkhUTDRZRjNrZkNnbUF2V1pSUmpkVkl1QzhJcERsQk5NVXk1S1QzV2Y3SENkbU1mWXBURlpDVERNQ2ctbkYybW5SZG54QXFiV203aEJqbVRBZlk4NTVuR3h3bm40TFBud09VSEN6N1dXUmJwYlNXQWM?oc=5"
+      "url": "https://x.com/kubu_rick/status/2121065464583377270"
     },
     {
-      "id": "news-9be6f89cc834",
-      "source": "news",
-      "title": "Wandsworth ordered to pay £1,400 after disabled boy’s long wait for home adaptations - London Daily News",
+      "id": "49ac77adef41",
+      "source": "x",
+      "title": "@CP24 Why is @WSIB spending millions on homeless military vets when a survey of Toronto's homeless shows almost 80% are there because of @WSIB which doesn't spend a cent on them?",
       "communities": [
-        "disability"
+        "injured_workers",
+        "veterans"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-09",
+      "date": "2026-11-13",
       "flywheels": [
-        "evidence",
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGpKcE1xZ3pHaG1DeHhTLVRFei1Pc0N3RWdDVTNJeW95NkdJMkpFdEs3SHFsZllvbnJZQ0dFTjlCQ01CdzRkUjg0S1BOWXRTNUtaRC1kLVJSR1BydUp2aHB6dHB5bHVCR1Y0QnFrU1AtYUdEOWxEdzI4U3NSSXpCVUdxbG9YZjJTZkoyUUNCZzZZSlRWeW1icGU2QVVOUEFiTXZDaWl1WVdzelJlTDhteHdB?oc=5"
-    },
-    {
-      "id": "news-fe7f79ea292d",
-      "source": "news",
-      "title": "Monmouth Women’s Basketball Senior Guard Gigi Gamble Named CAA Player of the Week - Monmouth University Athletics",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-NT",
-      "date": "2026-11-09",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ2dsQUVMUWV2Q0g0dFFKUVRWSEZNRlVsRUZFeFNmb244YVVLM0h6TEN4bHdZcG1OUkctcUpZUW40ZVhsalUtWGFtUmdtcEJWdm5fWmdYTzVORFVSd3VyYl9JNGJpVFAzdnAwUWV0UUYwQ1hQbGtZWkdwVUxNYmRqNksySjRfTXN1cUtrYUpTTTM5VGltWFpPb19ZZE5yUmJBUENBOE8tdWRxamNLRFZPYkxrcjlCeVVuT2k2OTJGQjdtNUJDTGlXbGhtblJNYTV0WXczZkhvOHp1UXFX?oc=5"
-    },
-    {
-      "id": "news-7e37b6c1b608",
-      "source": "news",
-      "title": "Why chronic pain is often overlooked as part of disability – and what can help - The Conversation",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-08",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONm5RNDV4bFZMWVV5OHZ1QzdBRFB1VHNZcEpEZUtlN00tY25hMHExb191aUxIWnpKdFhJQmJFZVBzMjI0cFFidTZuMmhMTk00ZW1ySVJYVTh5czlGdmh2SXJZbjRmR1lqMnc0NTBTUHBxUV9qa2lJaXYxcUFIZ2NweXVfUk5ET255Q2xZakZWYzFBSXVkb3VxM1V3V3JuSGRURmRnRV9DUjk1NHBCWk1rMw?oc=5"
+      "url": "https://x.com/kubu_rick/status/2121064257043267656"
     }
   ],
-  "generated": "2026-11-12"
+  "generated": "2026-11-13"
 }
