@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-13",
-  "timestamp": "2026-11-13T19:21:02.096Z",
-  "count": 9,
+  "date": "2026-11-14",
+  "timestamp": "2026-11-14T17:45:50.586Z",
+  "count": 8,
   "minScore": 3.5,
   "items": [
     {
@@ -9,63 +9,56 @@
       "link": "https://linktr.ee/thedisabilitybulletin",
       "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
       "score": 10,
-      "pubDate": "2026-11-13T19:21:02.092Z"
+      "pubDate": "2026-11-14T17:45:50.583Z"
     },
     {
-      "title": "Rural Canada is not an innovation desert. It’s a blind spot",
-      "link": "https://policyoptions.irpp.org/2026/11/rural-canada-ai-funding/",
-      "description": "In October, the federal government added $500 million over five years to its regional artificial intelligence initiative, bringing the program’s total to $700 million. A month earlier, it launched a $13-million national AI literacy initiative with Amii, the Alberta Machine Intelligence Institute. The national strategy names rural communities as a priority and both programs deliver […]",
-      "score": 24.8,
-      "pubDate": "Fri, 13 Nov 2026 11:30:00 +0000"
-    },
-    {
-      "title": "The Tyee Podcast: The Rise, Fall and Return of DULF",
-      "link": "https://thetyee.ca/Tyeenews/2026/11/13/Rise-Fall-Return-Drug-User-Liberation-Front/",
-      "description": "Health reporter Michelle Gamage on how one local group tried to fight the toxic drug crisis on its own terms.",
-      "score": 14.5,
-      "pubDate": "Fri, 13 Nov 2026 22:43:00 +0000"
-    },
-    {
-      "title": "Alberta Conservatives recycle promise to build more urgent care centres",
-      "link": "https://rabble.ca/politics/canadian-politics/alberta-conservatives-recycle-promise-to-build-more-urgent-care-centres/",
+      "title": "More than 150 organizations call for a new approach to defining disability in Canada",
+      "link": "https://disabilityalliancebc.org/more-than-150-organizations-call-for-a-new-approach-to-defining-disability-in-canada/",
       "description": "",
-      "score": 11.5,
-      "pubDate": "Thu, 12 Nov 2026 20:20:57 +0000"
+      "score": 21.5,
+      "pubDate": "Tue, 27 Oct 2026 19:02:47 +0000"
     },
     {
-      "title": "Manitoba Government Announces Start of Construction on Neonatal Intensive Care Unit at Brandon Regional Health Centre",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75957",
-      "description": "",
-      "score": 14.6,
-      "pubDate": "Thu, 05 Nov 2026 14:25:00 EST"
-    },
-    {
-      "title": "Manitoba Government Partners with Treaty One Nations Inc. to Launch Grant Program",
-      "link": "https://news.gov.mb.ca/news/index.html?item=76038",
+      "title": "Manitoba Government Advocacy Helps Expand Access to Spinal Muscular Atrophy Treatment",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75917",
       "description": "",
       "score": 10.5,
-      "pubDate": "Fri, 13 Nov 2026 12:00:00 EST"
+      "pubDate": "Wed, 28 Oct 2026 15:27:00 CDT"
     },
     {
-      "title": "Manitoba Government Celebrates Reopening of Modernized Thompson Courthouse",
-      "link": "https://news.gov.mb.ca/news/index.html?item=76037",
+      "title": "Manitoba Government Changes Regulations to Limit Rent Hikes and Expand Rent Control to Keep Rent Affordable: Premier",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75837",
       "description": "",
-      "score": 7.5,
-      "pubDate": "Fri, 13 Nov 2026 10:18:00 EST"
+      "score": 10.6,
+      "pubDate": "Tue, 20 Oct 2026 12:57:00 CDT"
     },
     {
-      "title": "New Vancouver School Board Attempts to Improve Transparency",
-      "link": "https://thetyee.ca/News/2026/11/13/New-Vancouver-School-Board-Attempts-Improve-Transparency/",
-      "description": "Trustee Steve Cardwell pushes back against rules restricting public participation and how agendas are set.",
-      "score": 3.9000000000000004,
-      "pubDate": "Fri, 13 Nov 2026 23:35:00 +0000"
+      "title": "Letter to Minister Hajdu: Budget 2026 Recommendation to Double the Child Disability Benefit",
+      "link": "https://disabilityalliancebc.org/letter-to-minister-hajdu-budget-2026-recommendation-to-double-the-child-disability-benefit/",
+      "description": "",
+      "score": 9,
+      "pubDate": "Wed, 21 Oct 2026 21:56:05 +0000"
     },
     {
-      "title": "How Danielle Smith Blew Her Chance to Build a UCP Dynasty",
-      "link": "https://thetyee.ca/Opinion/2026/11/12/Danielle-Smith-Ignored-Ralph-Klein-Lessons-Blew-Dynasty-Chance/",
-      "description": "Ralph Klein’s lessons in governing for all Albertans were ignored.",
-      "score": 3.9000000000000004,
-      "pubDate": "Thu, 12 Nov 2026 19:44:00 +0000"
+      "title": "From Two Sad Stories, a Glint of Hope",
+      "link": "https://thetyee.ca/Culture/2026/11/13/From-Two-Sad-Stories-Glint-Hope/",
+      "description": "A grey whale washed up dead on sayayɩn, Texada Island. Now, it’s bound for a place of honour in a rebuilt interpretive centre.",
+      "score": 6,
+      "pubDate": "Sat, 14 Nov 2026 01:40:00 +0000"
+    },
+    {
+      "title": "Fourth Session of the 43rd Manitoba Legislature to Open Tuesday, Nov. 17 With Speech from the Throne",
+      "link": "https://news.gov.mb.ca/news/index.html?item=76057",
+      "description": "",
+      "score": 4.5,
+      "pubDate": "Fri, 13 Nov 2026 16:19:00 EST"
+    },
+    {
+      "title": "Province Advises Clocks will not Change this Weekend as Manitoba Moves to Permanent Daylight Saving Time",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75937",
+      "description": "",
+      "score": 4.5,
+      "pubDate": "Thu, 29 Oct 2026 11:43:00 CDT"
     }
   ]
 }
