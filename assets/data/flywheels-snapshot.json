@@ -1,21 +1,21 @@
 {
-  "total": 2744,
+  "total": 2808,
   "verified": 5,
   "by_community": {
-    "disability": 1143,
-    "accessibility": 787,
-    "injured_workers": 663,
-    "welfare_social": 593,
-    "elderly": 205,
-    "veterans": 51,
+    "disability": 1163,
+    "accessibility": 819,
+    "injured_workers": 673,
+    "welfare_social": 602,
+    "elderly": 210,
+    "veterans": 52,
     "public_allies": 11,
     "vulnerable_communities": 7
   },
   "by_jurisdiction": {
-    "CA-ON": 1212,
-    "INTL": 1011,
-    "CA-FED": 335,
-    "CA-AB": 127,
+    "CA-ON": 1241,
+    "INTL": 1038,
+    "CA-FED": 342,
+    "CA-AB": 128,
     "CA-BC": 24,
     "CA-NT": 8,
     "CA-NB": 6,
@@ -28,16 +28,16 @@
     "CA-NU": 1
   },
   "by_source": {
-    "x": 1902,
+    "x": 1957,
     "reddit": 484,
-    "news": 341,
+    "news": 350,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 2727,
+    "unverified_social": 2791,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -46,221 +46,226 @@
   },
   "recent": [
     {
-      "id": "c60f1c74c26c",
+      "id": "79b1c5dd92f3",
       "source": "x",
-      "title": "In 2025 the @UN Committee on the Rights of Persons with Disabilities published its FINAL Report on Human Rights and Canada.  At page 16 the report it stated the following regarding injured workers:  \"",
+      "title": "Injured workers are the heart of the work force! As we stand tall and proud ! Do You? Have you ever been injured on any job you had?? Let us know !  Members for The Movement",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-11-14",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/MovementInjured/status/2121436851307483219"
+    },
+    {
+      "id": "5ab1ca0aff82",
+      "source": "x",
+      "title": "It is one thing to have a disability and be stuck in poverty but to have it as a result of a workplace accident WHILE Intario's @WSIB is showing a record $40 billion PROFIT  and a record 50 year emplo",
       "communities": [
         "disability",
         "injured_workers",
         "welfare_social"
       ],
-      "jurisdiction": "CA-FED",
-      "date": "2026-11-13",
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-14",
       "flywheels": [
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://x.com/fightthewcb/status/2121012441467199995"
+      "url": "https://x.com/fightthewcb/status/2121573197413785874"
     },
     {
-      "id": "f701cb7b657d",
+      "id": "49e3c4289698",
       "source": "x",
-      "title": "@WabKinew Wab you don’t know me I am a Canadian, but my name is Charles Anthony. I’m injured worker what I ask you now man man is it such a big deal to have a bill of rights for injured workers worker",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-FED",
-      "date": "2026-11-13",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/CharlesTabadp8/status/2121072982022095338"
-    },
-    {
-      "id": "fd7efdeb5a98",
-      "source": "x",
-      "title": "@DavidPiccini Why are injured workers NOT entitled to full benefit of law?  Why are injured workers NOT entitle to the protections guaranteed by the Charter of Rights and Freedoms? Why do you ignore a",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-13",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/kubu_rick/status/2121068830504186298"
-    },
-    {
-      "id": "72b15e5963d4",
-      "source": "x",
-      "title": "🚧 Injured at work? Pennsylvania workers' comp may cover doctor visits, hospital care, medications, and rehabilitation—even after you return to work.  At TozLaw, we help injured workers in #Scranton an",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-13",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/Toz_Law/status/2120921089757130783"
-    },
-    {
-      "id": "423223be83e9",
-      "source": "x",
-      "title": "A $200k settlement secured for a day laborer who fell 10ft off a scaffold, NY.   When contractors deny responsibility, we fight for injured workers’ rights—ensuring access to medical care and compensa",
+      "title": "RT #injuredWorkers &amp; supporters should protest while Workplace Safety &amp; Insurance Board(#WSIB) President/CEO Jeffery Lang is speaking at the #ldnont Chamber of Commerce Power hour on Tuesday, ",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
+      "flywheels": [
+        "collective_action",
+        "evidence"
+      ],
+      "url": "https://x.com/occupywsib/status/2121412851176972643"
+    },
+    {
+      "id": "17ad429884fa",
+      "source": "x",
+      "title": "#SponsorSpotlight  ▫️@bruce_power ▫️@AirdBerlis ▫️@ProaxTech ▫️@bcrsp ▫️@homeandsafety ▫️@MilwaukeeTool ▫️@WSIB ▫️@tapreport ▫️@manulife ▫️@NPEIHydro ▫️@OHSCanada https://t.co/CALDoGaMOl",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-14",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/MDASRlaw/status/2120894659627004257"
+      "url": "https://x.com/WSPS_NEWS/status/2121347158150422973"
     },
     {
-      "id": "d3230ca6b2d0",
+      "id": "768db8eb8f3d",
       "source": "x",
-      "title": "@PhoenixRizin09 BC Human Rights Tribunal: Ms. V v. Kamloops and District Elizabeth Fry Society, 2026 BCHRT 198 The Tribunal ordered a non-profit to disclose its workplace investigator’s witness interv",
+      "title": "@DonaldBestCA @augeradam @TorontoPolice And in Ontario, they have presumptive PTSD diagnosis for any first responder. They can go on WSIB  at nearly full pay until 65    They get in a jam… call WSIB, ",
       "communities": [
-        "injured_workers",
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-14",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/CDNinvestigator/status/2121321599047721409"
+    },
+    {
+      "id": "f83ca8d3527e",
+      "source": "x",
+      "title": "It's not enough to know how to work with psychological injuries. You need a therapist who knows how to work with WSIB.   @BadgeLifeCanada   https://t.co/rZIJKtmKxJ",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-14",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/JonathanCOnP/status/2121290746703626243"
+    },
+    {
+      "id": "94cf77e3ad61",
+      "source": "x",
+      "title": "@HamiltonPolice officer talks about the difficulties of having a work injury as a police officer, trying to get help, and it being a psychological injury - PTSD!   Sad part is the officer never mentio",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-14",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/fightthewcb/status/2121240835928797525"
+    },
+    {
+      "id": "83eb00d93314",
+      "source": "x",
+      "title": "@B_and_B93 I've got to get more cans but it's not affordable to stock up on odsp",
+      "communities": [
+        "disability",
         "welfare_social"
       ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-13",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/TheTideRises333/status/2120854875940753881"
-    },
-    {
-      "id": "031f7658baef",
-      "source": "x",
-      "title": "The intersection of worker welfare, corporate liability, and human rights in South Africa’s mining sector is once again under intense scrutiny.   Proposed legislative reforms aimed at overhauling occu",
-      "communities": [
-        "injured_workers",
-        "welfare_social"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-13",
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-14",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://x.com/esg_now/status/2120453830953336933"
+      "url": "https://x.com/jendhana/status/2121578624105042039"
     },
     {
-      "id": "da8c7fb4f467",
+      "id": "a4649a1263c2",
       "source": "x",
-      "title": "When reporting insurable earnings to the WSIB, even familiar payroll items can raise questions. The main one is - what should employers consider when determining what belongs in their insurable earnin",
+      "title": "@MikeKapp6 @NedKurucMP @CTVNews @CHCHNews @CBCNews @NorthrnPrspectv @RebelNewsOnline @globalnews @brianlilley @CPC_HQ @PierrePoilievre Good luck with that.  ODSP is not a rubber stamp application proc",
       "communities": [
-        "injured_workers"
+        "disability",
+        "welfare_social"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/anthonybakker3/status/2121575225158496376"
+    },
+    {
+      "id": "efb2c5eac933",
+      "source": "x",
+      "title": "@anthonybakker3 @NedKurucMP @CTVNews @CHCHNews @CBCNews @NorthrnPrspectv @RebelNewsOnline @globalnews @brianlilley @CPC_HQ @PierrePoilievre She will probably apply for ODSP to protect any lawsuits aga",
+      "communities": [
+        "disability",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-14",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/askoea/status/2121226578902278241"
+      "url": "https://x.com/MikeKapp6/status/2121552846839599599"
     },
     {
-      "id": "85dd5f5825a4",
+      "id": "b4b43756acc5",
       "source": "x",
-      "title": "Lorsqu’il s’agit de déclarer les gains assurables à la Commission de la sécurité professionnelle et de l’assurance contre les accidents du travail (WSIB), même les éléments courants de la paie peuvent",
+      "title": "oh ok ok ok oko ko ok okok ok okok ok okok ok ok okok okk ook okk ook okok oasdfjkl sdfgbh fjklssdkliofj odsp;jn isjkn f dlksjndsdfjkn fs kfsik ifmojfnjseuiol ifunsre fuoweehbnuf fuiesniol ofn iuruisf",
       "communities": [
-        "injured_workers"
+        "disability",
+        "welfare_social"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/nakyubam/status/2121493982869893558"
+    },
+    {
+      "id": "fb4b8aa67f3f",
+      "source": "x",
+      "title": "@ODSPoor I'm so sorry.  I'm on ODSP but my housing is subsidized. But when I turn 65, what then?",
+      "communities": [
+        "disability",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-14",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/rangerwyld/status/2121300879701639583"
+    },
+    {
+      "id": "1dd94b4f3381",
+      "source": "x",
+      "title": "@MaxKingsleyEh @eeone Id love to go to quebec, i can speak french, dad was frlm there but id lose my odsp and go homeless there to start.",
+      "communities": [
+        "disability",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-14",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/ODSPoor/status/2121258832202432904"
+    },
+    {
+      "id": "a3e0931e87fd",
+      "source": "x",
+      "title": "@TrendPolCa Doug, You ok with number of Migrants that'll be on ODSP and OW after their Canada Resettlement Benefit runs out ?  #Toronto #Ontario @fordnation @BenMulroney @gregbradyx #CarneyLies #JolyM",
+      "communities": [
+        "disability",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-14",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/AskoeaFR/status/2121226575844921464"
+      "url": "https://x.com/Steve31873/status/2121253395738603728"
     },
     {
-      "id": "2844f8bbd82c",
+      "id": "574cf63a5996",
       "source": "x",
-      "title": "@fordnation According to Workplace Safety and Insurance Board (WSIB) data — the most recent available, covering 2022 — transportation and warehousing accounted for 19% of all allowed traumatic workpla",
+      "title": "I’m trying to raise $300 (I’d settle for $150 since we’re already halfway through the month) to get through November I’m on #ODSP &amp; get only $349/month (which is already gone)  etransfer: driftmag",
       "communities": [
-        "injured_workers"
+        "disability",
+        "welfare_social"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "flywheels": [
-        "evidence"
+        "knowledge"
       ],
-      "url": "https://x.com/L0_0ney/status/2121214388824650099"
-    },
-    {
-      "id": "7693477ee5e8",
-      "source": "x",
-      "title": "@PierrePoilievre @WSIB To answer what do we do now, remove you all, raid your pensions and dismantle this farce of a fucking Country.   It's look out for yourself but pay mass amount of taxes so the c",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-13",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/OmniG7/status/2121203570649288771"
-    },
-    {
-      "id": "28eb4d1c6ce4",
-      "source": "x",
-      "title": "@PierrePoilievre \"what do we do now\"   Well as a citizen who keeps ending up jobless dispite having a very good education, very good work ethic, very good attitude ect and can't rely on @WSIB after be",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-13",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/OmniG7/status/2121203187692572939"
-    },
-    {
-      "id": "316fca2bb1c8",
-      "source": "x",
-      "title": "\"The WSIB has identified motor vehicle incidents as the province’s leading cause of work-related fatalities every year for a decade, with trucks broadly involved in almost two-thirds of fatal incident",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-13",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/DirkaProut/status/2121132374297588187"
-    },
-    {
-      "id": "27b52321687b",
-      "source": "x",
-      "title": "@LiseVaugeois WSIB announces millions for homeless military vets. Theft is such an ugly word but it does describe diverting funds from the intended purpose.",
-      "communities": [
-        "injured_workers",
-        "veterans"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-13",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/kubu_rick/status/2121065464583377270"
-    },
-    {
-      "id": "49ac77adef41",
-      "source": "x",
-      "title": "@CP24 Why is @WSIB spending millions on homeless military vets when a survey of Toronto's homeless shows almost 80% are there because of @WSIB which doesn't spend a cent on them?",
-      "communities": [
-        "injured_workers",
-        "veterans"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-13",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/kubu_rick/status/2121064257043267656"
+      "url": "https://x.com/JesseVanasse/status/2121228401272873414"
     }
   ],
-  "generated": "2026-11-13"
+  "generated": "2026-11-14"
 }
