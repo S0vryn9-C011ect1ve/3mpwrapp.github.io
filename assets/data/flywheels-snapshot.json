@@ -1,21 +1,21 @@
 {
-  "total": 2874,
+  "total": 2908,
   "verified": 5,
   "by_community": {
-    "disability": 1183,
-    "accessibility": 849,
-    "injured_workers": 687,
-    "welfare_social": 618,
-    "elderly": 214,
+    "disability": 1196,
+    "accessibility": 862,
+    "injured_workers": 693,
+    "welfare_social": 623,
+    "elderly": 220,
     "veterans": 52,
     "public_allies": 11,
     "vulnerable_communities": 7
   },
   "by_jurisdiction": {
-    "CA-ON": 1274,
-    "INTL": 1066,
-    "CA-FED": 347,
-    "CA-AB": 128,
+    "CA-ON": 1290,
+    "INTL": 1075,
+    "CA-FED": 355,
+    "CA-AB": 129,
     "CA-BC": 24,
     "CA-NT": 8,
     "CA-NB": 6,
@@ -28,16 +28,16 @@
     "CA-NU": 1
   },
   "by_source": {
-    "x": 2020,
+    "x": 2049,
     "reddit": 484,
-    "news": 353,
+    "news": 358,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 2857,
+    "unverified_social": 2891,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -46,217 +46,221 @@
   },
   "recent": [
     {
-      "id": "5b573c2ba01b",
+      "id": "73edd222c775",
       "source": "x",
-      "title": "Just like workers compensation  when the government agency screws up the CONsrrvative governments punish the individuals who are in desperate need of the service.   The CONservative government in 1997",
+      "title": "Its almost the holiday's Where are you going to spend it at injured workers? With family, friends, alone ?  Members for The Movement",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-11-16",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/MovementInjured/status/2122110452746625429"
+    },
+    {
+      "id": "8c5dfaf2aad2",
+      "source": "x",
+      "title": "@TomTSEC Always has  CRA, MOL, MTO, WSIB, LABOUR BOARD, GST, MUNICIPAL, PROVINCIAL, FEDERAL LICENCES, PERMIT, just to start with.",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/fightthewcb/status/2121947325203366357"
+      "url": "https://x.com/Baddaddy1969_/status/2122313969839055301"
     },
     {
-      "id": "9148a56812e4",
+      "id": "77b0af93004f",
       "source": "x",
-      "title": "@fightthewcb @WSIB @fordnation @LiseVaugeois @jamiewestndp @MaritStiles @JohnFraserOS @MikeSchreiner DOUG FORD HAS THE STOLEN OSAP MONEY 💰",
+      "title": "When is @fordnation report card due out? - frequently misses work for \"feel good\" press appearances - does not play well with others - telling tenant advocate to get a job - increasing homelessnes sho",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/NucciJan/status/2121934375235571835"
+      "url": "https://x.com/fightthewcb/status/2122296514215018639"
     },
     {
-      "id": "054bc1edfc98",
+      "id": "3b03c6eb05f3",
       "source": "x",
-      "title": "@yuzumango123 Oh right your leg… hey I guess the wsib money is nice if you’ve received that yet 😭😭😭😅😅😅",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-15",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/slinkytea/status/2121796900810838431"
-    },
-    {
-      "id": "d09948d277fc",
-      "source": "x",
-      "title": "@JonathanCOnP @BadgeLifeCanada It takes up more than 30% of my work week and after years of learning to navigate WSIB, look out!! I am an advocate for many first responders, as it’s not easy dealing w",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-15",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/AliLifeDiva/status/2121787754208239866"
-    },
-    {
-      "id": "e61a37ae37c1",
-      "source": "x",
-      "title": "@JonathanCOnP The therapist will need a therapist after working with WSIB!",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-15",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/BadgeLifeCanada/status/2121786618147189076"
-    },
-    {
-      "id": "6365524525b9",
-      "source": "x",
-      "title": "@MaritStiles 🤔Im thinking injured workers should take up a collection and try and buy @fordnation to tell him to fire Jeffery Lang and appoint inured workers to the board of directors of the @WSIB  Al",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-15",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/fightthewcb/status/2121752823960608843"
-    },
-    {
-      "id": "667399976978",
-      "source": "x",
-      "title": "👎WSIB for not being their for workers butprotecting the employers! A worker with an injury, disc herniations that was caused while on the job with medical proof, yet they didn’t report the injuries im",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-15",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/Polikes/status/2121748191741944288"
-    },
-    {
-      "id": "ca900090e594",
-      "source": "x",
-      "title": "@PrivacyPrivee @IPCinfoprivacy @docdanielle @jessicabellto @OntarioNDP foreign ownership of business with sensistive data (health eg lifelabs &amp; dynacare) or govt services ( #ServiceOntario #WSIB) ",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-15",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/lexomatic/status/2121730996345209209"
-    },
-    {
-      "id": "86e8606fd8f9",
-      "source": "x",
-      "title": "Whistleblowers are saying that all medical documents/ reports through WSIB were released into the cloud yesterday, as the Ontario insurance company WSIB under @fordnation WAS SOLD to the US a couple o",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-15",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/DrAlexMHorton/status/2121616751041425811"
-    },
-    {
-      "id": "9ed0d709247a",
-      "source": "x",
-      "title": "@chrisgloverndp Hey @fordnation was only bought for $18 grand  Geese 🤔 I'll take up a collection from injured workers buy @fordnation and order him to FIRE Jeffery Lang and appoint injured workers to ",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-15",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/fightthewcb/status/2121727320457351602"
-    },
-    {
-      "id": "aca033b6e4fb",
-      "source": "x",
-      "title": "Wow and I wonder how much the @WSIB spent on ads DURRING the various past elections to support @fordnation  @LiseVaugeois @jamiewestndp @MaritStiles @JohnFraserOS @MikeSchreiner https://t.co/7MIXyJdtQ",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-15",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/fightthewcb/status/2121669859658342732"
-    },
-    {
-      "id": "8b697d88b028",
-      "source": "x",
-      "title": "🏗️ Planning a reno? Always get 3 quotes, check for WSIB coverage, and ask for references. OR skip all the stress and just call The HandyForce 😄 https://t.co/qTxINa8xEM #RenovationTips #HandyForce #Con",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-15",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/TheHandyForce/status/2121650761360634202"
-    },
-    {
-      "id": "9b5d154d1e0f",
-      "source": "x",
-      "title": "Ontario Employers Face New Limits on WSIB Cost Relief  How can the system balance worker protection and employer fairness?  Source: WSIB  Full article in the first comment.  #Ontario #WSIB #WorkplaceS",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-15",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/TheOntarioPostM/status/2121591931239014796"
-    },
-    {
-      "id": "2bf1fe6cc01f",
-      "source": "x",
-      "title": "@Frederi00008024 @FenixAmmunition I’m pretty sure he would get disability. If he had insurance, he’d have his doctor bills paid and if it happened on the job he’d get workers comp.   You hit 3 logical",
+      "title": "They say #mental #health matters—but where do workers report #psychological injuries? #WSIB Form 6 has sections for physical injuries, yet no clear space for mental health ones??? Reporting should ref",
       "communities": [
         "disability",
         "injured_workers"
       ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-15",
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-16",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/CigarGreat/status/2121828860551721394"
+      "url": "https://x.com/mHopePDSB/status/2122028253325951259"
     },
     {
-      "id": "e1435edcd01d",
+      "id": "d99a8416545f",
       "source": "x",
-      "title": "Sunday, November 15, 2026  What does empowering women mean?  What did you empower them to do?  I am a single female, living in my own apartment, paying my own bills.  I'm on ODSP because of the long t",
+      "title": "Let's talk about the local WSIB offices being closed and the surplus thats been handed back to employers #ontario #onpoli #wsib #dougford #frankdomenic🍁 https://t.co/Ig8nmj2SeE",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-16",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/TheFrankDomenic/status/2122021049164267593"
+    },
+    {
+      "id": "9653caf73d74",
+      "source": "x",
+      "title": "@LFairclo Lee is there anyway you can get our health records back from the USA? I'm on wsib and cppd and now all my information is there, ty",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-16",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/smiley37555/status/2122019958037135806"
+    },
+    {
+      "id": "f261dee1fd8f",
+      "source": "x",
+      "title": "@unMaskedRogue @jamesturner591 @maxcownie_ UK disability benefits payments are double what they are in Ontario. That’s why kids in Ontario are not getting ODSP for anxiety. You are commenting on a UK ",
       "communities": [
         "disability",
         "welfare_social"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://x.com/AmySeukeran/status/2121890917531451510"
+      "url": "https://x.com/SuzyQue64568715/status/2122233077585834233"
+    },
+    {
+      "id": "92d59c8d16a2",
+      "source": "x",
+      "title": "@DeleteLawz2024 @Felixmfdo @MarioNawfal Amir Farsoud (2022) – A 54-year-old Ontario man receiving disability benefits was offered MAID because he faced homelessness and couldn't afford alternative hou",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-16",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/NoSidesEver/status/2122023037684133894"
+    },
+    {
+      "id": "7c7d00cb7e7b",
+      "source": "x",
+      "title": "@FFS_WhatNow If welfare and disability benefits suddenly vanished, these people would miraculously get well enough to work. Its entitled laziness.",
+      "communities": [
+        "disability",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-16",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/OntarioHilbilly/status/2122002283298697250"
+    },
+    {
+      "id": "6bc7068092c7",
+      "source": "x",
+      "title": "@CanadianNPC420 Do everything in your power to milk the system aimed against you.  People clown on James Mason for living on Welfare in Colorado but who gives a fuck?  I use welfare and odsp and osap ",
+      "communities": [
+        "disability",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-16",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/canadafromguy88/status/2122292823705702558"
+    },
+    {
+      "id": "62a65a60c5ad",
+      "source": "x",
+      "title": "\"Ford spent nearly $46M on 2 ad campaigns, FOI docs reveal\"  #onpoli #onted #DougFord #Ontario #Foodbanks #HousingCrisis #ODSP #FordNation #FordsOntario https://t.co/qX9o9GsaQz",
+      "communities": [
+        "disability",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-16",
+      "flywheels": [
+        "collective_action"
+      ],
+      "url": "https://x.com/EmergencyAgent/status/2122126946330951852"
+    },
+    {
+      "id": "6010d82740cc",
+      "source": "x",
+      "title": "Don't miss these 3 tax breaks for Canadian families: Canada Child Benefit, childcare deductions, and the powerful Disability Tax Credit with RDSP access. #CashCanuck #TaxPlanning #CanadianFinance #Fin",
+      "communities": [
+        "disability",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-FED",
+      "date": "2026-11-16",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/Colton_Cyr/status/2122060950240972832"
+    },
+    {
+      "id": "ac021377ea74",
+      "source": "x",
+      "title": "We need @LDoerkson to do what the Liberals and @Dave_Eby refused to do: reverse the clawbacks on CPP-D from Provincial Disability Assistance!   @bc_disability @DisabAllianceBC @SpencerVanCity @Weather",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-FED",
+      "date": "2026-11-16",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/dugchugger/status/2122212790257713374"
+    },
+    {
+      "id": "d1ee356b2a44",
+      "source": "x",
+      "title": "Will @LDoerkson be the one to end the cruel clawback of CPP-D from Disability Assistance that both the Liberals and @Dave_Eby refused to do? It was the @bcndp who implemented it in the 1st place back ",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-FED",
+      "date": "2026-11-16",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/dugchugger/status/2122201956924215607"
+    },
+    {
+      "id": "c3fb9db8f253",
+      "source": "x",
+      "title": "🚨🚨 Last month, my husband and I separated. He cancelled all of our shared cards, and my account was left in the negative. My next CPP disability is Nov 26, and I’m in need of aid for groceries-$80, bi",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-16",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/ShelleyFos4906/status/2121994535920410740"
     }
   ],
-  "generated": "2026-11-15"
+  "generated": "2026-11-16"
 }
