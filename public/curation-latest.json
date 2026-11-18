@@ -1,85 +1,57 @@
 {
-  "date": "2026-11-17",
-  "timestamp": "2026-11-17T20:35:32.585Z",
-  "count": 11,
+  "date": "2026-11-18",
+  "timestamp": "2026-11-18T20:08:19.017Z",
+  "count": 7,
   "minScore": 3.5,
   "items": [
     {
       "title": "The Disability Bulletin",
       "link": "https://linktr.ee/thedisabilitybulletin",
-      "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
+      "description": "The Disability Bulletin covers disability rights news, advocacy updates, and community stories from across Canada. Visit for the latest issue.",
       "score": 10,
-      "pubDate": "2026-11-17T20:35:32.576Z"
+      "pubDate": "2026-11-18T20:08:19.014Z"
     },
     {
-      "title": "After the rupture: Canada’s pivot away from the U.S. must not stop at China",
-      "link": "https://policyoptions.irpp.org/2026/11/china-trade-diversification/",
-      "description": "The recent elections in the United States resulted in a decisive victory for Democrats, who regained control of both the House and the Senate, and handed the Republicans one of the worst midterm defeats in decades. What would appear to be a vote of non-confidence in Donald Trump is likely to hinder many of his […]",
-      "score": 16.5,
-      "pubDate": "Tue, 17 Nov 2026 14:58:48 +0000"
-    },
-    {
-      "title": "Planning for competition",
-      "link": "https://policyoptions.irpp.org/2026/11/canada-competition-plan/",
-      "description": "Canada needs more competition. On that, there is something close to an economic consensus. The OECD, IMF (Page 22) and Bank of Canada have all made the case that stronger competition and business dynamism are essential to lifting productivity. Higher productivity, in turn, is key to making life more affordable. Ottawa has already started to […]",
-      "score": 14.15,
-      "pubDate": "Tue, 17 Nov 2026 11:24:00 +0000"
-    },
-    {
-      "title": "In Walmart’s Shadow, a Little Fish Hangs On",
-      "link": "https://thetyee.ca/News/2026/11/17/Walmart-Shadow-Little-Fish-Hangs-On/",
-      "description": "‘We got pretty excited,’ say finders of an endangered sucker species. Now Surrey has Canada’s newest ‘key biodiversity area.’",
-      "score": 10.5,
-      "pubDate": "Tue, 17 Nov 2026 08:40:00 +0000"
-    },
-    {
-      "title": "Please Advise! Is Canada a Climate Baddie?",
-      "link": "https://thetyee.ca/Opinion/2026/11/17/Please-Advise-Canada-Climate-Baddie/",
-      "description": "We need to stand up to Trump! So screw those emissions goals?",
-      "score": 10.5,
-      "pubDate": "Tue, 17 Nov 2026 08:30:00 +0000"
-    },
-    {
-      "title": "Manitoba Government Invests in Expanded Supports for Youth in Northern Manitoba",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75977",
+      "title": "Manitoba Government Ready to Reopen Victoria Hospital's Emergency Department Next Summer",
+      "link": "https://news.gov.mb.ca/news/index.html?item=76138",
       "description": "",
-      "score": 9.5,
-      "pubDate": "Mon, 09 Nov 2026 14:37:00 EST"
+      "score": 14.5,
+      "pubDate": "Wed, 18 Nov 2026 11:58:00 EST"
     },
     {
-      "title": "Under Harper, Alberta’s Public Pension Fund Leans into Crypto",
-      "link": "https://thetyee.ca/News/2026/11/17/Harper-Alberta-Public-Pension-Fund-Crypto/",
-      "description": "Financial experts question AIMCo’s increased investment in bitcoin firms. Part 2 of a Tyee investigation.",
-      "score": 8.1,
-      "pubDate": "Tue, 17 Nov 2026 08:20:00 +0000"
+      "title": "Canada must curb predatory private equity buyouts",
+      "link": "https://policyoptions.irpp.org/2026/11/private-equity-resilience/",
+      "description": "It’s only a slight exaggeration to suggest that before much of Canada was a country, it was a company – the Hudson’s Bay Company. HBC was the economy, holding exclusive rights to trade and commerce. Its governance charter, the law of the land. It developed close relationships with Indigenous people, trading with them for the […]",
+      "score": 12.5,
+      "pubDate": "Wed, 18 Nov 2026 11:30:00 +0000"
     },
     {
-      "title": "Manitoba Government Bans One-To-One Communication Between School Staff and Students on Unmonitored Platforms",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75878",
+      "title": "Canada has become a nation of rentiers and rent-seekers",
+      "link": "https://rabble.ca/economy/canada-has-become-a-nation-of-rentiers-and-rent-seekers/",
       "description": "",
-      "score": 8.5,
-      "pubDate": "Fri, 23 Oct 2026 14:15:00 CDT"
+      "score": 10.5,
+      "pubDate": "Wed, 18 Nov 2026 19:32:46 +0000"
     },
     {
-      "title": "Manitoba Government Invests $100,000 in Brandon Makerspace",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75877",
+      "title": "Manitoba Government Highlights Progress at Dauphin Regional Health Centre",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75998",
+      "description": "",
+      "score": 12,
+      "pubDate": "Tue, 10 Nov 2026 13:12:00 EST"
+    },
+    {
+      "title": "Manitoba Government Announces Members of Lake Winnipeg Stewardship Advisory Group",
+      "link": "https://news.gov.mb.ca/news/index.html?item=76137",
       "description": "",
       "score": 7.5,
-      "pubDate": "Fri, 23 Oct 2026 11:59:00 CDT"
+      "pubDate": "Wed, 18 Nov 2026 13:00:00 EST"
     },
     {
-      "title": "UCP introduces ‘No More Fair Elections Act’ in Alberta Legislature",
-      "link": "https://rabble.ca/politics/canadian-politics/ucp-introduces-no-more-fair-elections-act-in-alberta-legislature/",
+      "title": "Manitoba Government Breaks Ground on Dauphin Centre for Justice",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75997",
       "description": "",
-      "score": 4.5,
-      "pubDate": "Tue, 17 Nov 2026 20:31:57 +0000"
-    },
-    {
-      "title": "Province Advises Snowplows Ready as Blizzard Conditions Forecast for Northern Manitoba",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75879",
-      "description": "",
-      "score": 4.5,
-      "pubDate": "Fri, 23 Oct 2026 15:54:00 CDT"
+      "score": 7.5,
+      "pubDate": "Tue, 10 Nov 2026 12:46:00 EST"
     }
   ]
 }

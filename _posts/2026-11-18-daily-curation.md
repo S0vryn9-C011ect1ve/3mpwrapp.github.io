@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Daily News Curation - 2026-11-18"
+date: 2026-11-18
+tags: [highlights]
+categories: [curation, news]
+excerpt: "Today's curated disability rights, accessibility, and social policy news from across Canada."
+---
+
+# Daily News Curation - 2026-11-18
+
+Curated 7 items from disability, accessibility, and social policy sources.
+
+## 🌟 Featured: The Disability Bulletin
+
+### The Disability Bulletin
+The Disability Bulletin covers disability rights news, advocacy updates, and community stories from across Canada. Visit for the latest issue.
+📍 [Read More](https://linktr.ee/thedisabilitybulletin)
+
+---
+
+## Additional Stories
+
+### 1. Manitoba Government Ready to Reopen Victoria Hospital's Emergency Department Next Summer
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=76138)
+**Score:** 14.50
+
+### 2. Canada must curb predatory private equity buyouts
+It’s only a slight exaggeration to suggest that before much of Canada was a country, it was a company – the Hudson’s Bay Company. HBC was the economy, holding exclusive rights to trade and commerce. Its governance charter, the law of the land. It developed close relationships with Indigenous people, trading with them for the […]
+[Source](https://policyoptions.irpp.org/2026/11/private-equity-resilience/)
+**Score:** 12.50
+
+### 3. Canada has become a nation of rentiers and rent-seekers
+Rabble.ca — progressive Canadian news
+[Source](https://rabble.ca/economy/canada-has-become-a-nation-of-rentiers-and-rent-seekers/)
+**Score:** 10.50
+
+### 4. Manitoba Government Highlights Progress at Dauphin Regional Health Centre
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75998)
+**Score:** 12.00
+
+### 5. Manitoba Government Announces Members of Lake Winnipeg Stewardship Advisory Group
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=76137)
+**Score:** 7.50
+
+### 6. Manitoba Government Breaks Ground on Dauphin Centre for Justice
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75997)
+**Score:** 7.50
+
