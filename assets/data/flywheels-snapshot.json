@@ -1,43 +1,44 @@
 {
-  "total": 2908,
+  "total": 2945,
   "verified": 5,
   "by_community": {
-    "disability": 1196,
-    "accessibility": 862,
-    "injured_workers": 693,
-    "welfare_social": 623,
-    "elderly": 220,
-    "veterans": 52,
-    "public_allies": 11,
+    "disability": 1210,
+    "accessibility": 874,
+    "injured_workers": 704,
+    "welfare_social": 628,
+    "elderly": 224,
+    "veterans": 53,
+    "public_allies": 12,
     "vulnerable_communities": 7
   },
   "by_jurisdiction": {
-    "CA-ON": 1290,
-    "INTL": 1075,
-    "CA-FED": 355,
-    "CA-AB": 129,
+    "CA-ON": 1305,
+    "INTL": 1088,
+    "CA-FED": 360,
+    "CA-AB": 131,
     "CA-BC": 24,
     "CA-NT": 8,
     "CA-NB": 6,
     "CA-YT": 5,
     "CA-SK": 5,
-    "CA-MB": 4,
+    "CA-MB": 5,
     "CA-TERR": 3,
     "CA-NL": 2,
     "CA": 1,
-    "CA-NU": 1
+    "CA-NU": 1,
+    "CA-ATL": 1
   },
   "by_source": {
-    "x": 2049,
+    "x": 2078,
     "reddit": 484,
-    "news": 358,
+    "news": 366,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 2891,
+    "unverified_social": 2928,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -46,221 +47,220 @@
   },
   "recent": [
     {
-      "id": "73edd222c775",
+      "id": "1d8db1446b9e",
       "source": "x",
-      "title": "Its almost the holiday's Where are you going to spend it at injured workers? With family, friends, alone ?  Members for The Movement",
+      "title": "Newfoundland and Labrador has introduced legislation to increase injured workers’ income replacement from 85% to 90% of net pre-injury earnings. If passed, the change will take effect Dec. 1, 2026, al",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ATL",
+      "date": "2026-11-17",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/RetailCouncil/status/2122344060769706159"
+    },
+    {
+      "id": "3ebc6a473618",
+      "source": "x",
+      "title": "🤔 Think you know how NY workers’ compensation works? Misconceptions can leave injured workers confused about their rights and benefits. ⚖️ Know the facts and protect your rights! https://t.co/2n8vBAxX",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "INTL",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://x.com/MovementInjured/status/2122110452746625429"
+      "url": "https://x.com/bjbroderick/status/2122494934674743729"
     },
     {
-      "id": "8c5dfaf2aad2",
+      "id": "f96eb582d1df",
       "source": "x",
-      "title": "@TomTSEC Always has  CRA, MOL, MTO, WSIB, LABOUR BOARD, GST, MUNICIPAL, PROVINCIAL, FEDERAL LICENCES, PERMIT, just to start with.",
+      "title": "Meet Zachary Dworken—tireless advocate for New York’s injured workers since 2015. He fights for your rights, challenges insurance carriers, and builds strong client relationships.   Need help after a ",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-11-17",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/MDASRlaw/status/2122383002973974538"
+    },
+    {
+      "id": "2fd0958cbe75",
+      "source": "x",
+      "title": "Tell the WSIB and the Government: Halt the Office Closures and Local Job Cuts",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/Baddaddy1969_/status/2122313969839055301"
+      "url": "https://x.com/SmilingFlower/status/2122669595127423120"
     },
     {
-      "id": "77b0af93004f",
+      "id": "d0362aee365b",
       "source": "x",
-      "title": "When is @fordnation report card due out? - frequently misses work for \"feel good\" press appearances - does not play well with others - telling tenant advocate to get a job - increasing homelessnes sho",
+      "title": "On November 10, we celebrated WSIB’s $1 million commitment to the London Veterans Village. This investment brings hope, opportunity and a brighter future for Veterans experiencing homelessness. Thank ",
+      "communities": [
+        "injured_workers",
+        "veterans"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-17",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/homes4heroesfdn/status/2122419599014543396"
+    },
+    {
+      "id": "492caa286b03",
+      "source": "x",
+      "title": "⏰Deadline  alert! Working with ASD or WSIAT? This workshop will help you understand the goals and challenges of legal submission writing and how to address them.👉 https://t.co/I9nIVnyB0k  #WorkersComp",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/fightthewcb/status/2122296514215018639"
+      "url": "https://x.com/Preventionlink/status/2122395906209128937"
     },
     {
-      "id": "3b03c6eb05f3",
+      "id": "5b4bf2bfc001",
       "source": "x",
-      "title": "They say #mental #health matters—but where do workers report #psychological injuries? #WSIB Form 6 has sections for physical injuries, yet no clear space for mental health ones??? Reporting should ref",
-      "communities": [
-        "disability",
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-16",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/mHopePDSB/status/2122028253325951259"
-    },
-    {
-      "id": "d99a8416545f",
-      "source": "x",
-      "title": "Let's talk about the local WSIB offices being closed and the surplus thats been handed back to employers #ontario #onpoli #wsib #dougford #frankdomenic🍁 https://t.co/Ig8nmj2SeE",
+      "title": "Manitoba’s Workers Compensation Board returned $212 million in rebates to employers over two years, but the Canadian Federation of Independent Business urges legislation to make such rebates mandatory",
       "communities": [
         "injured_workers"
       ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-16",
+      "jurisdiction": "CA-MB",
+      "date": "2026-11-17",
       "flywheels": [
-        "evidence"
+        "knowledge"
       ],
-      "url": "https://x.com/TheFrankDomenic/status/2122021049164267593"
+      "url": "https://x.com/winnipegsun/status/2122419543121236086"
     },
     {
-      "id": "9653caf73d74",
+      "id": "fd04a1b09545",
       "source": "x",
-      "title": "@LFairclo Lee is there anyway you can get our health records back from the USA? I'm on wsib and cppd and now all my information is there, ty",
+      "title": "My computer is malfunctioning. I'm in Safe mode right now. Also have been hustling washing dishes and busing tables to feed myself since august when I lost my workers comp for Bogus reasons and now ha",
       "communities": [
         "injured_workers"
       ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-16",
+      "jurisdiction": "INTL",
+      "date": "2026-11-17",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/smiley37555/status/2122019958037135806"
+      "url": "https://x.com/SpankyGolliher/status/2122605878142792049"
     },
     {
-      "id": "f261dee1fd8f",
+      "id": "82e437cfdd6b",
       "source": "x",
-      "title": "@unMaskedRogue @jamesturner591 @maxcownie_ UK disability benefits payments are double what they are in Ontario. That’s why kids in Ontario are not getting ODSP for anxiety. You are commenting on a UK ",
+      "title": "@tylerwatt So do the people on ODSP and no one, even you fights for them now.",
       "communities": [
         "disability",
         "welfare_social"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://x.com/SuzyQue64568715/status/2122233077585834233"
+      "url": "https://x.com/The280Times/status/2122672570294010275"
     },
     {
-      "id": "92d59c8d16a2",
+      "id": "2acafb0a1905",
       "source": "x",
-      "title": "@DeleteLawz2024 @Felixmfdo @MarioNawfal Amir Farsoud (2022) – A 54-year-old Ontario man receiving disability benefits was offered MAID because he faced homelessness and couldn't afford alternative hou",
+      "title": "Please RT URGENT nothing in yetI need to raise $315 for a return ticket up North 11 hours away I got bad news and need to go be with mom  anything amount helps   gemini_girl1973@hotmail.com  #ODSP #Mu",
+      "communities": [
+        "disability",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-17",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/CanadianbabyEH/status/2122655588941271501"
+    },
+    {
+      "id": "919e9de03bb5",
+      "source": "x",
+      "title": "It being legal, me having autism but no family support nor income apart from ODSP, with the exception of finding empty beer cans, which takes a large amount of time and effort for a very small amount ",
+      "communities": [
+        "disability",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-17",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/wellandcanal/status/2122632554364719221"
+    },
+    {
+      "id": "c6f846f4408f",
+      "source": "x",
+      "title": "Good night ODSP mom still needing help with bills I don’t want my services cut goal $250 anything helps e-transfer panther226@hotmail.com pls repost @mutualaidinca @Ciel2114 @nejsnave and all who can ",
+      "communities": [
+        "disability",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-17",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/JTkksmom/status/2122515272557035923"
+    },
+    {
+      "id": "22edacc4b9bf",
+      "source": "x",
+      "title": "WHILE THEY STEAL 15 MILLION DOLLARS PER MONTH IN CANADA DISABILITY BENEFIT CLAWBACK'S FROM AISH AND ADAP RECEIPIENT'S.   YOU KNOW THE SEVERELY HANDICAPPED THEY SAID, COULD WORK, WHEN WE ARE SITTING AT",
       "communities": [
         "disability"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://x.com/NoSidesEver/status/2122023037684133894"
+      "url": "https://x.com/BSwirlsi/status/2122661223993127312"
     },
     {
-      "id": "7c7d00cb7e7b",
+      "id": "e6bd7994bfa8",
       "source": "x",
-      "title": "@FFS_WhatNow If welfare and disability benefits suddenly vanished, these people would miraculously get well enough to work. Its entitled laziness.",
-      "communities": [
-        "disability",
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-16",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/OntarioHilbilly/status/2122002283298697250"
-    },
-    {
-      "id": "6bc7068092c7",
-      "source": "x",
-      "title": "@CanadianNPC420 Do everything in your power to milk the system aimed against you.  People clown on James Mason for living on Welfare in Colorado but who gives a fuck?  I use welfare and odsp and osap ",
-      "communities": [
-        "disability",
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-16",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/canadafromguy88/status/2122292823705702558"
-    },
-    {
-      "id": "62a65a60c5ad",
-      "source": "x",
-      "title": "\"Ford spent nearly $46M on 2 ad campaigns, FOI docs reveal\"  #onpoli #onted #DougFord #Ontario #Foodbanks #HousingCrisis #ODSP #FordNation #FordsOntario https://t.co/qX9o9GsaQz",
-      "communities": [
-        "disability",
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-16",
-      "flywheels": [
-        "collective_action"
-      ],
-      "url": "https://x.com/EmergencyAgent/status/2122126946330951852"
-    },
-    {
-      "id": "6010d82740cc",
-      "source": "x",
-      "title": "Don't miss these 3 tax breaks for Canadian families: Canada Child Benefit, childcare deductions, and the powerful Disability Tax Credit with RDSP access. #CashCanuck #TaxPlanning #CanadianFinance #Fin",
-      "communities": [
-        "disability",
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-FED",
-      "date": "2026-11-16",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/Colton_Cyr/status/2122060950240972832"
-    },
-    {
-      "id": "ac021377ea74",
-      "source": "x",
-      "title": "We need @LDoerkson to do what the Liberals and @Dave_Eby refused to do: reverse the clawbacks on CPP-D from Provincial Disability Assistance!   @bc_disability @DisabAllianceBC @SpencerVanCity @Weather",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "CA-FED",
-      "date": "2026-11-16",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/dugchugger/status/2122212790257713374"
-    },
-    {
-      "id": "d1ee356b2a44",
-      "source": "x",
-      "title": "Will @LDoerkson be the one to end the cruel clawback of CPP-D from Disability Assistance that both the Liberals and @Dave_Eby refused to do? It was the @bcndp who implemented it in the 1st place back ",
+      "title": "@MelissaLantsman for all this outrage about the Different versions of MAiD coming from your party to be true.. then you MUST fight for the Canada Disability Benefit to be raised to what it was PROMISE",
       "communities": [
         "disability"
       ],
       "jurisdiction": "CA-FED",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://x.com/dugchugger/status/2122201956924215607"
+      "url": "https://x.com/The280Times/status/2122529360515408054"
     },
     {
-      "id": "c3fb9db8f253",
+      "id": "27904d326107",
       "source": "x",
-      "title": "🚨🚨 Last month, my husband and I separated. He cancelled all of our shared cards, and my account was left in the negative. My next CPP disability is Nov 26, and I’m in need of aid for groceries-$80, bi",
+      "title": "@AndrewScheer RAISING THE CANADA DISABILITY BENEFIT TO WHAT THEY PROMISED IS LIFE AND DEATH TOO !  WHERE THE FUCK ARE YOU ON THAT ? Your party promised to hold them accountable.   Do you get how many ",
       "communities": [
         "disability"
       ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-16",
+      "jurisdiction": "CA-FED",
+      "date": "2026-11-17",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://x.com/ShelleyFos4906/status/2121994535920410740"
+      "url": "https://x.com/The280Times/status/2122516275238760469"
     }
   ],
-  "generated": "2026-11-16"
+  "generated": "2026-11-17"
 }
