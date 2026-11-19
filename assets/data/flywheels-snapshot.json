@@ -1,36 +1,36 @@
 {
-  "total": 3029,
+  "total": 2958,
   "verified": 5,
   "by_community": {
-    "disability": 1241,
-    "accessibility": 894,
-    "injured_workers": 720,
-    "welfare_social": 644,
-    "elderly": 231,
-    "veterans": 70,
+    "disability": 1215,
+    "accessibility": 874,
+    "injured_workers": 709,
+    "welfare_social": 629,
+    "elderly": 227,
+    "veterans": 53,
     "public_allies": 12,
     "vulnerable_communities": 7
   },
   "by_jurisdiction": {
-    "CA-ON": 1332,
-    "INTL": 1120,
-    "CA-FED": 383,
+    "CA-ON": 1318,
+    "INTL": 1088,
+    "CA-FED": 360,
     "CA-AB": 131,
     "CA-BC": 24,
     "CA-NT": 8,
-    "CA-MB": 6,
     "CA-NB": 6,
     "CA-YT": 5,
     "CA-SK": 5,
+    "CA-MB": 5,
     "CA-TERR": 3,
     "CA-NL": 2,
-    "CA-ATL": 2,
     "CA": 1,
-    "CA-NU": 1
+    "CA-NU": 1,
+    "CA-ATL": 1
   },
   "by_source": {
-    "x": 2107,
-    "reddit": 526,
+    "x": 2078,
+    "reddit": 484,
     "news": 379,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
@@ -38,7 +38,7 @@
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 3012,
+    "unverified_social": 2941,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -47,230 +47,229 @@
   },
   "recent": [
     {
-      "id": "news-aee444d3d671",
+      "id": "news-91729676b089",
       "source": "news",
-      "title": "Veterans Affairs Canada to send out payments on Monday",
+      "title": "Why Did Sienna Senior Living Inc. (TSX:SIA) Raise Its Long-Term Care Outlook? - Kalkine Media",
       "communities": [
-        "veterans"
+        "elderly"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "flywheels": [
         "evidence",
         "knowledge"
       ],
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQjdoMlY3RkNjYV9Vd1FPR3lGUkpUQmRaX1U4c2hSR1hrRVcxdi1vTDF5aC1SRzZadXlGa181QXZqZUhfaFhyeXhYNUlPTWpDVmRKTTlpazl6ckVuU25IelpyVDJCaVFQVGlQNnlzMGdLT1g2eGo0MnRucU15TkpMUnVjeDJYY0lPUnVV?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd0dMLVY4Qk9kVG9IRVlISndJdUEwRWNNYVh5NVp2aTR5d19DaDlCUDl3c2hlMkZvY0UycWJFXzdjb3hyOXNmcTBzYkFHTEZhQWxQejMwY0NBMHpBMWllY2ozb1AyTERfVE9QMHVVdjU3ZjlXZExhaWQxQWxzNFA3MGN2VW5mdzBXcHBBVkk3eDRDZjB6dElvV051V3pwUE9oTGdLUXFHQnBlcjRMNnBCeDBvcWs1NDgwSkE?oc=5"
     },
     {
-      "id": "news-797ac3c2ce16",
+      "id": "news-04ce7ea54bba",
       "source": "news",
-      "title": "The Royal Canadian Legion on Federal Budget 2025: Big investments, Big cuts - Veterans want immediate clarity",
+      "title": "Executive compensation trends: rethinking incentive design - A&O Shearman",
       "communities": [
-        "veterans"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "flywheels": [
         "evidence",
         "knowledge"
       ],
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYVVWODhiaGNMYTlWS1NIRHlKMXZwMmtaUG54YTNoT19fSHdqNTlBS0d5N1RfM2UyelpKQi1Pc3pfVkgzYzYxR3UtNWR5LXlWcktJZ0V0cGQ0NE1ldmpiaWFtY3Fpb29Gc0R6S2ZBS0RScGtMWl9JSjM2UDFtMXBtTGJUWWpyWWtCN3ctUkhaZkpzS1p0Wmxya0ZaNlNCTGllSjZicE1sZHNaR051S0g3WDN0WGlVMmtubnFYVnJPZUNJNjFicUNiRHZEUTdRZjgzOWlnbHVOR2dDcmUxdnc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM0htMmNIa2VTOWtka25NaG1pMVJXbTU1aVRZZElmT2ZrWTZsU1hHcFN4Z0Q3MkJUUERpUG52V0hyc0kwYXA4RkctS1B5Mnk4WWQwRlczRi1xelA5ZW83REtDSUU4dlBiY0RyZjBYSE5aQ0JhTko3VzdoRk81WWpCeUV2ZkF3RWhxbnNCbWN6S1ZjTzFTbDdYdkk1bkVYYXZzNF9ycVJpdGtycjJhdG4zSDg4RWNpNllpTS16ZHh1QjRDaEZNWTUzWjBLMVN5MWd6bDdrcE9mX3I0azBPc0pDVmpYZUR1SzlyQ1E4?oc=5"
     },
     {
-      "id": "news-9c65cf9317d4",
+      "id": "news-594a5629900f",
       "source": "news",
-      "title": "Veterans Ombudsman Releases Report Regarding Veterans Affairs Canada",
-      "communities": [
-        "veterans",
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-18",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNGVRQWZxWm1xSHZJaWJsN3JkUmFRUmUxM1B5X1FRcy14WEViVEd2RW11RjNGczFJMkZBX05Pb0ljYkdLeEFKQ2pYc0xLVU5tZGF5YnF3a0pJTHQ1eHNzYkNoTmpqOEtycm1rZm9pdWo4SXdRakJ4OXR0bHpmTkc4alZtOHFIWWpJQ0dyekJxMWlDeWxteHJfNmdJcWMybVhi?oc=5"
-    },
-    {
-      "id": "news-ab278fe37888",
-      "source": "news",
-      "title": "COVID-19: Special payment to individuals receiving disability supports",
+      "title": "Higher comorbidity scores tied to disability among older adults: study - McKnight's Long-Term Care News",
       "communities": [
         "disability"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "flywheels": [
         "evidence",
         "knowledge"
       ],
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNOEM2UjJ4OE1pWEN3N2NZUGxPc3dBTGRkekE3bVRiX0ZYbGtybTZ2VGt3U0VjbmVTemhtdC1ObmF5aWFfVUVWbkUzQXZNVml3V1ZFMGFqZU5xN1U4QWVwdmctVzhqRURnUnpBbjlzV2w1cUpuVnJxV3VUZWk1NTY0ZGJ3dS1scHpHWE52MVZ0ZHA5Z2JXWk81RVJFaENJbGxOWmFxdEFLLVpyVmRuMWNRaUdfY3NyLXFRU1hIMVNpTjAxeVBWOV9sTWx4aGR1N0UzV0FySzctZW9Wanp0NVNaYll1VnBRY1QwOC1QN09XN2gtQzUtUTNIWUVyTnJWZkgxcE4xTU5PbU1fT0xoV055OUJuX3F5NXZId0cwTlFFZFVSdTM1SjJ4cFZ2UjQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMmpLb19qZFFlNUt1NXJtcGUxNGFEbEY1UUIyejFKVE5WamVOTFl3SE41dHpDLWdfRXIzTWE0YkpsQTJwZnRSNi1oV3NyR2xkcXhCNmFPd18zVmV6OG9FS3Bub0E0XzhqNjNvX0FyR2VDMXZHWWtnMWluRkVQSGF2VlR0Vmc2UU9JdnRUeEdaQU9Ia3FmbkJ2bXVxVGJ3M2ZkaUNz?oc=5"
     },
     {
-      "id": "news-41b09ff8f8bb",
+      "id": "news-ca24b6c950ad",
       "source": "news",
-      "title": "Veterans may have paid too much for long-term care for years due to federal error",
+      "title": "Physics-informed neural Volterra compensation enabling over 2600× efficiency improvement in 12,057-km ultra-long-haul coherent transmission - Nature",
       "communities": [
-        "veterans"
+        "injured_workers"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "flywheels": [
         "evidence",
         "knowledge"
       ],
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CRU9wM3dPSEdEejlHSzBaWUp0dmxBZjVibjVmTWlFYks2VnNWcFZEWDQxSDBUcF9hWGN0TThSa0gyRUYzTmk1dzktc2h1MHpNaEZmeG9MX0JHRFNaVFNMQ29yOG1vYWlud2hXQUQ0V1BNMENhaExR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qVkRoczc5REVqV3hqZTg4RzFQUTN4Nl9LN0ExT0licjJ0aTFlbXpTNkFXV2l4RVBwZnlOYnA4ZkJ0Z0VtX0lsekREejdTUC1uVGVlZTdHakdOaXQ0Smo4?oc=5"
     },
     {
-      "id": "news-d35222b6c427",
+      "id": "news-e5ca29729c16",
       "source": "news",
-      "title": "Serving You: Disability Assessments and Reassessments from VAC",
+      "title": "Applications open for grants for education and equipment for disabled people with long-term support needs - reykjavik.is",
       "communities": [
         "disability"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "flywheels": [
         "evidence",
         "knowledge"
       ],
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdzMydXUzQW5FWUxsa0plTmd5MnVTN2tNbmhGUEVjOTdsUHhYdDNuQlRKckRLWFFkX3ZQaERYSzMyTVdWdEt3aHdCYzJTM2haU0thbEpQajM3cUZZNGNZYmpqTHhzcHJaWHpKX1AxVmJrdkR6MnI1bnk3eTgzTjNrb0Z6RzNsWl9kWGczb1dWVEZ5VWM?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbzhaVkR4MXVpVG9DZGlTSVgtd3gxSkhyRGwxQ0lHSzRORDRsUHBVZElKRmg4NG9Qa2thZjZpdHFKWmlldjNQeWdvSUZiY3d1N3ZGSkItVjlNUUNfVnhNZ2I5MW1QRWxBblpXdjFNQzVRVEwzMVFVRGhNaHQzQmZyaUt0cjBuejhLLVRlNmR1X1RSZ0Y1OUtPNzd6NnJXVl8tM3dvcElCbk9POXdBX3BOU3RRS2dRbmxNc2xsdnB1WQ?oc=5"
     },
     {
-      "id": "news-c80b0cec2bb8",
+      "id": "news-28f0c2ca0edb",
       "source": "news",
-      "title": "ATTENTION CANADIAN MILITARY FAMILIES : Did you or a family member receive VAC disability benefits between 2003 and 2023?",
+      "title": "Everything you need to know about EU261 flight compensation - The Points Guy",
       "communities": [
-        "disability",
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-19",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8ySGlxbjB6c3NxWEd1QURMdjkxMVF2SG5PcDg2TlB3QXJyVlQ1WHg5enc5b1hsZlIybnhfekQzZjNuT1BSUTFmXzNaRUxKUkhvYkgyaHRuTUo5NElUMjdnQXh5b0VNazRyN1Bibmg5dWhmdw?oc=5"
+    },
+    {
+      "id": "news-01dc6932cd53",
+      "source": "news",
+      "title": "Rail industry extends the Disabled Persons Railcard eligibility to help more people access discounted rail travel - Rail Delivery Group News",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-19",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaXM3TExxeUE0eUJnNjAtazAwN1BQTU1TRGFla2NVYUtkd3pLRVlqTTFPZ2NoeWpCRTdfVlE0U3FMb015TEpIbFpTZ2tYczIxZWVMU3N0TWtBX3N5cjF4TmpCME9QUUlPdS1ENzk5VV8wd2J2eGhXQWhXRDNuYUFXOTg2NVNOUXdFQ05HQ1NpYmRIbEdfaVpmYUREMWw3QVBYT3piNmF1NFA2U0NISUVKUDBGcUN3clNDb1dzTUhFOWlCS0RRYXprc1V4YmtyeHBUX2ppZEpWQUp1ZHBGSjlZOGlEU1dsdmxZNlE?oc=5"
+    },
+    {
+      "id": "news-ddda6ae1accd",
+      "source": "news",
+      "title": "A Health Beliefs Model of Long‐Term Prescription Opioid Use for Chronic Pain - Wilson - 2026 - Pain Practice - Wiley Online Library",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-19",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50VjV0YUQ2MWdqRjlDU3pnYWdFSjlaMkF3bnUzZmJtSHhqNnU2dklJeXVmVU1KN0tadFZZVjRRWUx2Ulh4dm1qRDd3azJsbjlkejFqdTZHV3ZTS0xwWlBKeXMxVFpvUFdyNzNz?oc=5"
+    },
+    {
+      "id": "news-e25ca739e0de",
+      "source": "news",
+      "title": "Chronic pain can be treated — so why are millions still suffering? - Nature",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-19",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80UE9IX203MWJxX2VPa1AwX0x0RUp0RmRsQ242RklUeFRyNENiYWRNNnRHU25LVWxiaW1OaUd5YnFJczJPVmM3TG9sY29BWm1EcGJqNXU0OGJjMVZNTm1RcTlPREtoaVNXUWxlbTBRQQ?oc=5"
+    },
+    {
+      "id": "news-3dae76767d88",
+      "source": "news",
+      "title": "Erroneous Compensation for Long-Latency Feedback Delays as Origin of Essential Tremor - Journal of Neuroscience",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-19",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2VTZQdGMtNmg2eDFMTUdEUkpteFhlUGlMRmpyV19DSG83azFndldleHVoOUZIOU9NeGhnYVliM2ZWbWZPRG1vVHpCMlZMZ29INW10V25VWnRaWmxkalpYag?oc=5"
+    },
+    {
+      "id": "news-18c73f367a08",
+      "source": "news",
+      "title": "Say on Pay: CEO Compensation and the Long Tail of Shareholder Dissent - Sustainalytics",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-19",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPS054WW9PQkZqeTBEU3VzWWRTazZMR0xVNTloT1U0OWVHZndUX2pIcHJnWG5TWFNvUWd0Y21mZmVEMDFJWTJCd05jNm5ZaGpJV1plbjl3eTlMMVgtSnFEY1l3bm5QMWpWc1h4NkprTWVVN1JKVm0zUk9pcnZSMFhIaldhc19qSDRQVm15VzlzOWpjUEtZYmVaeDhMMjdLNGVJY090Q3VQTTNia1pma0VEOXI0dHhIRDlZTy1pb1VOazQ0SUNiTHQ4NmxjV3RWY0ZCS19KVGtFNjA?oc=5"
+    },
+    {
+      "id": "news-6277c42ab93b",
+      "source": "news",
+      "title": "Grad party at long-term care home gives new meaning to 'senior prom' - CBC",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-19",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTDBveDI4M1VsdlVlWXVjYVB1YXBWX3hnQzNaTXVFZDR6NmxTd3VpMk1GZjlHUm90b1NfZGhuLXpwcFN5bFFIdVprbklIaFdjVFEteHQxNlNiZ1RyMFdrSF9ibEdSeHItT2ZtS3RsVWh0Q0QydERqNkF0T3FsQW1BVW9VTExjZw?oc=5"
+    },
+    {
+      "id": "news-49e4a45f84ef",
+      "source": "news",
+      "title": "Cree family worries about 97-year-old elder, needing long-term care far from home and culture - CBC",
+      "communities": [
+        "elderly",
         "welfare_social"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "flywheels": [
         "evidence",
         "knowledge"
       ],
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYVlJQzJNWUM2QnpsWGRWbkV4MUh2WlJFaFlMMG5KWl8tMWw1U0tMZEQ4SE82bUJZem1Nang4NlVIVXpGTm1ZZ0g1dEVEU3ltdzlka0ttTUhvVVBXVGRLdHNJa2loWW5mcFlPSHFSUWRJdmg2SG9aRy01T1Z1UE56VXJISWY1d1N5RXNURjFwdEdCVzczRjNBdllkMXR3bGpRdlBpZjZ0aTlCZGFYWU51d2dicUtXdGg1WHhab2l4VVJVbTM3eHgtUE1BY2N3V1lzRjVIWXVRS1BNQmt1akE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTlhkaW9qWWctbGdHend5YzVQaFRqOElHWDAtMERiRnU0d21zMktQeGJBWjdnc2lnQ3IxdVVpRk9ZSXRDVlNxSFhjdGFfZVNMdTFQT0NtMTFJNGlMZVpnYTZOdUpBeUxOMGtCMS1xanVZLW5wbzJ3LVhyV1NCbEVGNXY5cE9ESTlPNTFpcVU4bEVJNXpSZWtfakVBNTBUZ1FK?oc=5"
     },
     {
-      "id": "news-4e2573470415",
-      "source": "news",
-      "title": "Veterans Affairs Canada has been overestimating the number of veterans for decades",
-      "communities": [
-        "veterans"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-18",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVUR3WGxXTktCSzNRdHRpSm5aaVpYZHQ4cGhlRFQ0aHJ6cGFjeFJCbGVncGhZMDE2NWlhM2EyWml3Y0lhZXo3SV9WcHF3aW8yLUNtcmlqODlaOVpDNXBuVUNXUW5lMnQtaWFoeXhUbTd4YWFIaFdEcEZoLWNrOEpTeHlaMnVDM2l6dEE?oc=5"
-    },
-    {
-      "id": "news-03c7ac00661f",
-      "source": "news",
-      "title": "Royal Canadian Legion pens letter to PM to clear disability benefits backlog for Veterans",
-      "communities": [
-        "disability",
-        "veterans"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-18",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTU9TTnhNUVl2NTZzRGRPWDRRWWhOeTNTVzVCUGdWTnloRl9aNk5nWHR1MGxUbUI3VUlsMU1qVTNfb1VMdVJLUnhEdzF3NTM2RFFrT0I3QzFMOWcyTThreWV4Y0J5NTlqX3g0QkJuYk94bG1BRnlZZURGcUZRaGFiX1h6S2t0OHBKemdDZXVDZ2dqS2NLdWRKQi1JWHVxOERXcDJ2TWlMNkR2NjZIUHQtZVBRSExEMzh3ei1tWExSMlJRMVJlUVpnUzFUZTM4a0tFcWlV?oc=5"
-    },
-    {
-      "id": "news-ac1196b5ad24",
-      "source": "news",
-      "title": "Lawsuit over massive Veterans Affairs accounting error to cost Ottawa almost $1 billion",
-      "communities": [
-        "veterans"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-18",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNempHdktjZno2RHhfVGw4ZnZvSXk2c2V4UHNSQ01paTV6M1A5MDVqVnBVWHY4MmY1Ty1zTHltMGJhckJmemw0azN6dXhhRzQtZmhrcG9DamVyXzFMQjlnenpTOEpZLWV3RlkyelptQzNUZHY2WXRUb0FsOG5ueGtIRUprYVA?oc=5"
-    },
-    {
-      "id": "6b23f3123dc5",
+      "id": "1d8db1446b9e",
       "source": "x",
-      "title": "Eight workers' compensation boards in Canada, including Nova Scotia's, hold $4.5 billion above their funding targets. Business groups want it sent back to employers. Injured workers waiting over a yea",
+      "title": "Newfoundland and Labrador has introduced legislation to increase injured workers’ income replacement from 85% to 90% of net pre-injury earnings. If passed, the change will take effect Dec. 1, 2026, al",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ATL",
-      "date": "2026-11-18",
+      "date": "2026-11-17",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://x.com/DannyCavanaghns/status/2123032630967074852"
+      "url": "https://x.com/RetailCouncil/status/2122344060769706159"
     },
     {
-      "id": "e9ca1da2fb34",
+      "id": "3ebc6a473618",
       "source": "x",
-      "title": "@PGraves38183 @ctvottawa Yep. The dollar store workers have no benefits and almost no rights.  Get injured? Good luck on welfare.",
-      "communities": [
-        "injured_workers",
-        "welfare_social"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-18",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/anarchoyeg/status/2122874702964412608"
-    },
-    {
-      "id": "381aeb6dee79",
-      "source": "x",
-      "title": "In New York, injured construction workers may have legal options beyond workers' compensation. At Siler &amp; Ingber, our experienced attorneys fight to protect injured workers' rights.  Injured? Call",
+      "title": "🤔 Think you know how NY workers’ compensation works? Misconceptions can leave injured workers confused about their rights and benefits. ⚖️ Know the facts and protect your rights! https://t.co/2n8vBAxX",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "INTL",
-      "date": "2026-11-18",
+      "date": "2026-11-17",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://x.com/SilerandIngber/status/2122770577136005340"
-    },
-    {
-      "id": "ec3e8e27b7e8",
-      "source": "x",
-      "title": "@MCirielloMPP An insult to first first responders  Any idea how much treatment costs. Not all covered by WSIB!  Billions to friends and donators!",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-18",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/BannerTap/status/2122716530945212508"
-    },
-    {
-      "id": "da57e6738cb2",
-      "source": "x",
-      "title": "PASS #Bill57, Respecting #InjuredWorkers Act, 2022 to Reduce #Poverty in #Ontario by stopping the Workplace Safety &amp; Insurance Board(#WSIB) from DEEMING #Workers into #Poverty after a workplace in",
-      "communities": [
-        "injured_workers",
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-18",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/occupywsib/status/2122691947240493542"
+      "url": "https://x.com/bjbroderick/status/2122494934674743729"
     }
   ],
-  "generated": "2026-11-18"
+  "generated": "2026-11-19"
 }
