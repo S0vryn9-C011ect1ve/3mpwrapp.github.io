@@ -191,7 +191,7 @@ When cache clears, you should see:
 - ✅ Footer visible
 - ✅ All links functional
 
-Should look EXACTLY like: https://3mpwrapp.github.io
+Should look EXACTLY like: https://3mpwrapp.ca
 
 ---
 

@@ -138,7 +138,7 @@
   - [ ] Certificate matches domain
   - [ ] Certificate not expired
   - [ ] Chain configured correctly
-  - [ ] HTTPS working (https://3mpwrapp.github.io)
+  - [ ] HTTPS working (https://3mpwrapp.ca)
 
 - [ ] **Firewall/WAF**
   - [ ] Security rules configured
@@ -243,7 +243,7 @@
 - [ ] **HTTPS enforced** – HTTP redirects to HTTPS
 - [ ] **Security headers present** – Check with curl:
   ```bash
-  curl -i https://3mpwrapp.github.io | grep -E "Strict-Transport-Security|Content-Security-Policy|X-Frame-Options"
+  curl -i https://3mpwrapp.ca | grep -E "Strict-Transport-Security|Content-Security-Policy|X-Frame-Options"
   ```
   Expected: ✅ Headers present
 
@@ -426,7 +426,7 @@ git revert [commit-hash]  # Or git checkout [previous-tag]
 npm run build && npm run deploy  # Or GitHub Pages rollback action
 
 # 4. Verify rollback
-curl https://3mpwrapp.github.io  # Verify old version loads
+curl https://3mpwrapp.ca  # Verify old version loads
 
 # 5. Notify stakeholders
 # Email, Slack, status page update with: 
@@ -514,7 +514,7 @@ Thank you for your patience.
 
 ```bash
 # Site loads
-curl -i https://3mpwrapp.github.io | head -20
+curl -i https://3mpwrapp.ca | head -20
 
 # HTTPS enforced
 curl -I http://3mpwrapp.github.io | grep Location
@@ -523,16 +523,16 @@ curl -I http://3mpwrapp.github.io | grep Location
 openssl s_client -connect 3mpwrapp.github.io:443 -quiet
 
 # Security headers present
-curl -i https://3mpwrapp.github.io | grep -E "Strict-Transport-Security|X-Frame-Options|X-Content-Type-Options"
+curl -i https://3mpwrapp.ca | grep -E "Strict-Transport-Security|X-Frame-Options|X-Content-Type-Options"
 
 # No crawl errors
-curl https://3mpwrapp.github.io/robots.txt | grep Disallow
+curl https://3mpwrapp.ca/robots.txt | grep Disallow
 
 # DNS resolving
 nslookup 3mpwrapp.github.io
 
 # Performance check
-curl -w "@curl-format.txt" -o /dev/null -s https://3mpwrapp.github.io
+curl -w "@curl-format.txt" -o /dev/null -s https://3mpwrapp.ca
 ```
 
 ### Emergency Contacts

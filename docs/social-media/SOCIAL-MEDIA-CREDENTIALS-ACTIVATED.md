@@ -121,7 +121,7 @@ gh run list
 🟢 News item 2 with accessibility focus
 🟢 News item 3 about worker rights
 
-📍 Full curation: https://3mpwrapp.github.io/curation-latest.json
+📍 Full curation: https://3mpwrapp.ca/curation-latest.json
 
 (47 total items curated today)
 

@@ -84,7 +84,7 @@ node scripts/geographic-analysis.js
 - Darker = higher values
 - White borders = easy month identification
 
-**View:** [https://3mpwrapp.github.io/tribunal-decision-heatmap.html](https://3mpwrapp.github.io/tribunal-decision-heatmap.html)
+**View:** [https://3mpwrapp.ca/tribunal-decision-heatmap.html](https://3mpwrapp.ca/tribunal-decision-heatmap.html)
 
 ---
 

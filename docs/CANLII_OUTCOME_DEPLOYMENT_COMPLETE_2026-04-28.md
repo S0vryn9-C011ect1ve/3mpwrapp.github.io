@@ -425,7 +425,7 @@ console.assert(painCases.length === 20);
 **Project Lead:** [Your Name]  
 **Email:** empowrapp08162025@gmail.com  
 **Website:** [https://3mpwrapp.ca](https://3mpwrapp.ca)  
-**Research Page:** [https://3mpwrapp.github.io/research.html](https://3mpwrapp.github.io/research.html)
+**Research Page:** [https://3mpwrapp.ca/research.html](https://3mpwrapp.ca/research.html)
 
 ---
 

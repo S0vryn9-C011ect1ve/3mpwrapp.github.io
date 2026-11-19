@@ -10,7 +10,7 @@ All HSTS preload requirements are met. You just need to submit your domain to th
 Go to: **https://hstspreload.org/**
 
 #### Step 2: Check Eligibility
-1. Enter your domain: `3mpwrapp.pages.dev`
+1. Enter your domain: `3mpwrapp.ca`
 2. Click **"Check HSTS preload status and eligibility"**
 
 You should see all green checkmarks (✓):
@@ -26,7 +26,7 @@ You should see all green checkmarks (✓):
 
 #### Step 3: Submit Domain
 1. Scroll down to **"Submit your domain"**
-2. Check the box: "I am the site owner of 3mpwrapp.pages.dev..."
+2. Check the box: "I am the site owner of 3mpwrapp.ca..."
 3. Click **"Submit"**
 
 #### Step 4: Confirmation
@@ -47,8 +47,8 @@ You should see all green checkmarks (✓):
 
 **Check Submission Status**:
 1. Visit https://hstspreload.org/
-2. Enter `3mpwrapp.pages.dev`
-3. Look for: "Status: 3mpwrapp.pages.dev is currently preloaded."
+2. Enter `3mpwrapp.ca`
+3. Look for: "Status: 3mpwrapp.ca is currently preloaded."
 
 **Check Chromium Source** (after ~2 months):
 1. Visit: https://source.chromium.org/chromium/chromium/src/+/main:net/http/transport_security_state_static.json
@@ -58,13 +58,13 @@ You should see all green checkmarks (✓):
 ### What HSTS Preload Does
 
 **Before Preload**:
-1. User types: `3mpwrapp.pages.dev`
+1. User types: `3mpwrapp.ca`
 2. Browser tries HTTP first
 3. Server redirects to HTTPS
 4. ⚠️ **Vulnerability window**: MITM can intercept first request
 
 **After Preload**:
-1. User types: `3mpwrapp.pages.dev`
+1. User types: `3mpwrapp.ca`
 2. Browser **forces HTTPS automatically** (before any request)
 3. No HTTP request ever sent
 4. ✅ **Zero vulnerability window**
@@ -176,7 +176,7 @@ You should see all green checkmarks (✓):
 
 ### Quick Reference
 
-**Domain to Submit**: `3mpwrapp.pages.dev`
+**Domain to Submit**: `3mpwrapp.ca`
 
 **Submission URL**: https://hstspreload.org/
 
@@ -192,7 +192,7 @@ Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
 ### Action Items
 
 - [ ] Visit https://hstspreload.org/
-- [ ] Enter domain: `3mpwrapp.pages.dev`
+- [ ] Enter domain: `3mpwrapp.ca`
 - [ ] Check eligibility (should be all ✓)
 - [ ] Submit domain
 - [ ] Save confirmation

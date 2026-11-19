@@ -6,9 +6,13 @@ permalink: /research/
 ---
 
 ---
+<!-- RESEARCH_COVERAGE_START -->
+**Daily research coverage (2026-11-18):** 22 evidence cards collected today · 11 verified against primary sources (50%) · user bases thin today: Indigenous Communities, Seniors / Elders, Advocates (Human Rights / UNCRPD), Public Allies. Coverage is measured daily by the research pipeline and recorded in the evidence ledger — see [Flywheels of Change](/flywheels-public.html).
+<!-- RESEARCH_COVERAGE_END -->
+
 ## Navigate by Community (9 user bases — fully inter-linked)
 
-Every feature, guide, resource, and research section links directly to each community's dedicated subsection. **Updated: October 09, 2026.** All links verified — nothing invented.
+Every feature, guide, resource, and research section links directly to each community's dedicated subsection. **Updated: November 18, 2026.** All links verified — nothing invented.
 
 - **🌿 Indigenous Communities** → [User Guide · Languages & Protocols](/user-guide/#indigenous-languages) · [Beta Guide · Testing Protocols](/beta-guide/#what-to-test) · [Features · Language Support](/features/#indigenous-language-support) · [Research · Health & Disability](/research/#indigenous-health-disability)
 - **🏗️ Injured Workers** → [User Guide · Evidence & Appeals](/user-guide/#evidence-locker) · [Beta Guide · Core Workflows](/beta-guide/#core-workflows) · [Features · Evidence & Advocacy](/features/#evidence) · [Research · WSIB/WSIAT & Tribunals](/research/#injured-workers--wsibwsiat)

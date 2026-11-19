@@ -172,7 +172,7 @@ Execute 30+ security checks
 ☐ Go to https://3mpwrapp.ca/
 ☐ Check for green lock icon in address bar
 ☐ Click lock icon → "Certificate is valid"
-☐ Test with: https://www.ssllabs.com/ssltest/analyze.html?d=3mpwrapp.pages.dev
+☐ Test with: https://www.ssllabs.com/ssltest/analyze.html?d=3mpwrapp.ca
 ☐ Verify: A+ grade or better
 ☐ Check: HTTPS enforced, no mixed content
 ```
@@ -180,7 +180,7 @@ Execute 30+ security checks
 **2. SECURITY HEADERS (30 min)**
 ```
 Use: https://securityheaders.com
-Enter: 3mpwrapp.pages.dev
+Enter: 3mpwrapp.ca
 
 Verify these headers present:
 ☐ Content-Security-Policy (CSP)
@@ -279,7 +279,7 @@ Status: ✅ PASS or ❌ REVIEW
 **9. VULNERABILITY SCANNING (15 min)**
 ```
 Use: https://observatory.mozilla.org/
-1. Enter: 3mpwrapp.pages.dev
+1. Enter: 3mpwrapp.ca
 2. Wait for scan
 3. Check:
    ☐ Grade A or better
@@ -422,7 +422,7 @@ ADDITIONAL METRICS:
 
 ```
 1. Go to: https://pagespeed.web.dev/
-2. Enter: 3mpwrapp.pages.dev
+2. Enter: 3mpwrapp.ca
 3. Click "Analyze"
 4. Wait for results
 5. Record scores for:

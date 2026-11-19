@@ -179,7 +179,7 @@ Policy: https://3mpwrapp.ca/privacy/
 
 **Next Steps** (Manual Action):
 1. Visit https://hstspreload.org/
-2. Enter domain: `3mpwrapp.pages.dev`
+2. Enter domain: `3mpwrapp.ca`
 3. Check eligibility (should show all ✓)
 4. Submit for preload
 5. Wait 2-3 months for deployment

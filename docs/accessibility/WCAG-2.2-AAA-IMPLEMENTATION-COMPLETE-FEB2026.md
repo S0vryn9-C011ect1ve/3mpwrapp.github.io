@@ -1,6 +1,6 @@
 # WCAG 2.2 AAA Compliance - Final Implementation Report
 **Date**: February 2, 2026  
-**Website**: 3mpwr App (https://3mpwrapp.github.io)  
+**Website**: 3mpwr App (https://3mpwrapp.ca)  
 **Standard**: WCAG 2.2 Level AAA  
 **Auditor**: GitHub Copilot (Claude Sonnet 4.5)
 
@@ -626,7 +626,7 @@ We are committed to maintaining AAA accessibility and will respond within 2 busi
 
 This website **conforms to WCAG 2.2 Level AAA** as of February 2, 2026.
 
-**Conformance Scope**: Entire website (https://3mpwrapp.github.io)  
+**Conformance Scope**: Entire website (https://3mpwrapp.ca)  
 **Conformance Level**: AAA (all AA and AAA success criteria met)  
 **Technologies**: HTML5, CSS3, JavaScript (ES6+)  
 **Date**: February 2, 2026  

@@ -35,7 +35,7 @@
    - Output: `_site`
    - Environment: `JEKYLL_ENV=production`
 5. Click "Deploy"
-6. Get free URL: `3mpwrapp.pages.dev`
+6. Get free URL: `3mpwrapp.ca`
 
 **See detailed guide:** `CLOUDFLARE-QUICK-START.md`
 
@@ -70,9 +70,9 @@ It should look like:
 1. Go to: https://uptimerobot.com
 2. Sign up (free, no card)
 3. Add monitors:
-   - `https://3mpwrapp.github.io`
+   - `https://3mpwrapp.ca`
    - `https://3mpwrapp.ca` (after Cloudflare setup)
-   - `https://3mpwrapp.github.io/user-guide/`
+   - `https://3mpwrapp.ca/user-guide/`
 4. Set alert email
 5. Create public status page (free subdomain)
 
@@ -84,7 +84,7 @@ It should look like:
 3. Add property: `3mpwrapp.github.io`
 4. Choose "HTML file" verification method
 5. Click "Verify" (file is already there!)
-6. Submit sitemap: `https://3mpwrapp.github.io/sitemap.xml`
+6. Submit sitemap: `https://3mpwrapp.ca/sitemap.xml`
 
 **Result:** Track how people find you, optimize for search.
 
@@ -178,7 +178,7 @@ Built with accessibility as priority #1, it includes:
 • WCAG 2.2 AAA certified (screen reader tested)
 • Zero cost, no ads, no data collection
 
-Website: https://3mpwrapp.github.io
+Website: https://3mpwrapp.ca
 
 Would you be open to sharing this resource with your community? We can:
 - Feature in your newsletter

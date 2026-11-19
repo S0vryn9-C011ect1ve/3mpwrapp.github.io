@@ -236,7 +236,7 @@ reports/screenshots/
 The workflow uses these environment variables:
 
 ```yaml
-SITE_URL: https://3mpwrapp.github.io  # Base URL for testing
+SITE_URL: https://3mpwrapp.ca  # Base URL for testing
 AXE_MODE: quick  # or 'full' for scheduled runs
 ```
 
@@ -374,7 +374,7 @@ Edit `.pa11yci-aaa.json`:
 {
   "urls": [
     {
-      "url": "https://3mpwrapp.github.io/new-page?no-modal=1",
+      "url": "https://3mpwrapp.ca/new-page?no-modal=1",
       "timeout": 30000,
       "screenCapture": "./reports/screenshots/new-page.png"
     }

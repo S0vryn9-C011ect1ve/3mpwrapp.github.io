@@ -58,7 +58,7 @@ Comprehensive audit of 1,320 markdown files revealed:
   - All TypeScript errors fixed (60 → 0)
   - All test failures fixed (123 → 0, 3 skipped)
 - **Commit:** af47eb23 (app)
-- **Deployment:** https://app-3mpwrapp.pages.dev/ and https://app.3mpwrapp.ca
+- **Deployment:** https://app.3mpwrapp.ca/ and https://app.3mpwrapp.ca
 
 ---
 

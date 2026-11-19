@@ -16,7 +16,7 @@
    - Click property selector (top left)
    - Click "+ Add property"
    - Choose: **"URL prefix"** (not Domain)
-   - Enter: `https://3mpwrapp.github.io`
+   - Enter: `https://3mpwrapp.ca`
    - Click Continue
 
 **3. Verify Ownership**
@@ -124,14 +124,14 @@
 **9. Done!**
    - Every git push now deploys to both sites
    - GitHub Pages: `3mpwrapp.github.io`
-   - Cloudflare Pages: `3mpwrapp.pages.dev`
+   - Cloudflare Pages: `3mpwrapp.ca`
 
 ---
 
 ## ✅ Completion Checklist
 
 ### Google Search Console:
-- [ ] Property added: `https://3mpwrapp.github.io`
+- [ ] Property added: `https://3mpwrapp.ca`
 - [ ] Ownership verified with HTML file
 - [ ] Sitemap submitted: `sitemap.xml`
 - [ ] Sitemap submitted: `feed.xml`
@@ -142,7 +142,7 @@
 - [ ] Build settings configured (Jekyll)
 - [ ] Environment variables added (JEKYLL_ENV, RUBY_VERSION)
 - [ ] First deployment successful
-- [ ] Site accessible: `3mpwrapp.pages.dev`
+- [ ] Site accessible: `3mpwrapp.ca`
 - [ ] Security headers verified (curl test)
 - [ ] Web Analytics enabled
 
@@ -165,7 +165,7 @@
    - Data starts: Immediately
 
 ### Your Live Sites:
-1. **GitHub Pages:** https://3mpwrapp.github.io
+1. **GitHub Pages:** https://3mpwrapp.ca
    - Keep for open source visibility
    - Automatic deployment
 
@@ -192,7 +192,7 @@
 **"Couldn't verify":**
 - Wait 5 minutes (GitHub Pages rebuild)
 - Try again
-- Check file accessible: https://3mpwrapp.github.io/google92c2c14246b0aaae.html
+- Check file accessible: https://3mpwrapp.ca/google92c2c14246b0aaae.html
 
 **Sitemap error:**
 - Normal on first submission
@@ -243,7 +243,7 @@
 - GitHub: https://github.com/3mpwrApp/3mpwrapp.github.io
 
 **Your Sites:**
-- Production 1: https://3mpwrapp.github.io
+- Production 1: https://3mpwrapp.ca
 - Production 2: https://3mpwrapp.ca
 - Repository: https://github.com/3mpwrApp/3mpwrapp.github.io
 

@@ -62,7 +62,7 @@ exclude = [
   "https://www.facebook.com/.*",
   "https://docs.google.com/.*",
   "https://github.com/3mpwrApp/3mpwrapp.github.io/settings/pages",
-  "https://3mpwrapp.github.io/sitemap.xml"
+  "https://3mpwrapp.ca/sitemap.xml"
 ]
 ```
 

@@ -140,7 +140,7 @@ Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
 
 **Action Required:** Submit to HSTS preload list
 - Visit: https://hstspreload.org/
-- Submit: 3mpwrapp.pages.dev
+- Submit: 3mpwrapp.ca
 
 ---
 

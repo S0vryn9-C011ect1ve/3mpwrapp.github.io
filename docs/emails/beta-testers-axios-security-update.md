@@ -259,7 +259,7 @@ Keep testing, keep reporting issues, and keep helping us build something amazing
 
 **RESOURCES AT A GLANCE:**
 
- **Full Analysis:** 3mpwrapp.pages.dev/2026/03/31/3mpwrapp-safe-from-axios-supply-chain-attack 
+ **Full Analysis:** 3mpwrapp.ca/2026/03/31/3mpwrapp-safe-from-axios-supply-chain-attack 
  **Security Contact:** empowrapp08162025@gmail.com 
  **Developer Documentation:** Contact empowrapp08162025@gmail.com for security runbooks and verification scripts 
 

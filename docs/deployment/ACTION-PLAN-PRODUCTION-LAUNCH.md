@@ -34,7 +34,7 @@
    - [ ] Test in multiple browsers
 
 2. **Verify & Fix Color Contrast** (Est. 1 hour)
-   - [ ] Run pa11y: `pa11y https://3mpwrapp.github.io/`
+   - [ ] Run pa11y: `pa11y https://3mpwrapp.ca/`
    - [ ] Check footer contrast (likely needs update)
    - [ ] Fix any contrast ratios below 4.5:1
 
@@ -65,7 +65,7 @@
 ### Wednesday Oct 19: Performance Testing
 - [ ] **Morning (9 AM):** Run Lighthouse CI
   ```bash
-  npx lighthouse https://3mpwrapp.github.io --view
+  npx lighthouse https://3mpwrapp.ca --view
   ```
 - [ ] **Afternoon:** Optimize images and assets
   - Minify CSS/JS

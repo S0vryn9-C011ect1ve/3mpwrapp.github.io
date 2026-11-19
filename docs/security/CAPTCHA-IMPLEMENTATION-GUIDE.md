@@ -44,7 +44,7 @@ You need to generate keys in Cloudflare Dashboard.
 3. **Add Widget** (Note: Button says "Add widget", not "Add site")
    - Click "Add widget"
    - **Widget name**: 3mpwrApp Contact Form
-   - **Domain**: `3mpwrapp.pages.dev` (and `3mpwrapp.github.io` if used)
+   - **Domain**: `3mpwrapp.ca` (and `3mpwrapp.github.io` if used)
    - **Widget Mode**: Select "Managed" (recommended for best UX)
      * Invisible: No interaction unless suspicious
      * Non-interactive: Always shows widget, but no puzzle
@@ -496,7 +496,7 @@ We use Cloudflare Turnstile to protect our contact forms from spam and automated
 
 - [ ] Log in to Cloudflare Dashboard
 - [ ] Navigate to Turnstile
-- [ ] Add site (3mpwrapp.pages.dev)
+- [ ] Add site (3mpwrapp.ca)
 - [ ] Copy Site Key and Secret Key
 - [ ] Update contact.md with Turnstile widget
 - [ ] Update CSP headers (_headers and default.html)

@@ -278,7 +278,7 @@ node scripts/classify-wsiat-outcomes.mjs --validate  # Analyze existing
 
 ### Cloudflare Pages:
 - 🔄 Deploying now: `npx wrangler pages deploy _site --project-name=3mpwrapp`
-- ✅ Previous deployment: https://a616ca57.3mpwrapp.pages.dev
+- ✅ Previous deployment: https://3mpwrapp.ca
 - ✅ New deployment: Will update with Phase 2 content
 
 ---

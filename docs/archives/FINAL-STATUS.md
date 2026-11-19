@@ -91,7 +91,7 @@ Go to: **`https://3mpwrapp.ca`**
 ## 🎯 About Preview Deployments
 
 ### The Confusion
-You saw: `https://7314eccf.3mpwrapp.pages.dev`
+You saw: `https://3mpwrapp.ca`
 
 This was a **preview deployment** - a temporary test version that Cloudflare creates automatically. These are NOT meant for public use and are often broken.
 
@@ -117,7 +117,7 @@ This is your **production site** - the real, live version.
 6. Under **Preview deployments**, select **"None"**
 7. Click **Save**
 
-**Result:** Only your production URL (`3mpwrapp.pages.dev`) will exist. No more confusion!
+**Result:** Only your production URL (`3mpwrapp.ca`) will exist. No more confusion!
 
 ---
 
@@ -132,7 +132,7 @@ This is your **production site** - the real, live version.
 ### Soon (This Week)
 1. 🔍 **Complete Google Search Console verification**
    - Go to: https://search.google.com/search-console
-   - Add property: `3mpwrapp.pages.dev`
+   - Add property: `3mpwrapp.ca`
    - Verification file already uploaded: `google92c2c14246b0aaae.html`
    - Click "Verify"
 

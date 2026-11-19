@@ -43,7 +43,7 @@
    ```
 7. Click "Save and Deploy"
 8. Wait 2-3 minutes
-9. You get: `3mpwrapp.pages.dev` (free subdomain)
+9. You get: `3mpwrapp.ca` (free subdomain)
 
 **Result:** Site is now faster, more secure, and scales to millions of users for free.
 
@@ -71,7 +71,7 @@
 
 ### B. Google Search Console (15 min)
 1. Go to https://search.google.com/search-console
-2. Add property: `3mpwrapp.pages.dev`
+2. Add property: `3mpwrapp.ca`
 3. Verify via DNS (Cloudflare makes this easy)
 4. Submit sitemap: `https://3mpwrapp.ca/sitemap.xml`
 

@@ -54,8 +54,8 @@ For content authors (replace inline styles):
 ## Testing
 ```bash
 # All should pass
-lighthouse https://3mpwrapp.github.io --view
-npx @axe-core/cli https://3mpwrapp.github.io --tags wcag2aaa
+lighthouse https://3mpwrapp.ca --view
+npx @axe-core/cli https://3mpwrapp.ca --tags wcag2aaa
 npx pa11y-ci
 ```
 
@@ -75,6 +75,6 @@ Files: 4 changed, 1715 insertions(+)
 ---
 
 **Status:** ✅ Deployed to GitHub Pages  
-**Live:** Will be available at https://3mpwrapp.github.io in 1-2 minutes  
+**Live:** Will be available at https://3mpwrapp.ca in 1-2 minutes  
 
 📚 **Full Documentation:** [UNIVERSAL-TEXT-LEGIBILITY-COMPLETE.md](UNIVERSAL-TEXT-LEGIBILITY-COMPLETE.md)

@@ -174,7 +174,7 @@ If you can provide the logo as a base64 string or upload it to a URL, I can fetc
 - ✅ No errors or warnings
 - ✅ Content ready to deploy
 
-**3mpwrapp.pages.dev:**
+**3mpwrapp.ca:**
 - ✅ About page with Canada-wide blurb
 - ✅ Roadmap with global expansion vision
 - ✅ Roadmap link in navigation (after cache clear)

@@ -56,7 +56,7 @@ Devs: Wait for all-clear (3-5 days)
 
 Your privacy and security remain our top priority.
 
-Details: 3mpwrapp.pages.dev/2026/03/31/3mpwrapp-safe-from-axios-supply-chain-attack
+Details: 3mpwrapp.ca/2026/03/31/3mpwrapp-safe-from-axios-supply-chain-attack
 
 ---
 

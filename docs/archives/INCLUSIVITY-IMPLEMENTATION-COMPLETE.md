@@ -336,6 +336,6 @@ Black text
 
 *Commit:* 4f67004  
 *Pushed to:* main branch  
-*Live at:* https://3mpwrapp.github.io
+*Live at:* https://3mpwrapp.ca
 
 **💚 Let's keep building something extraordinary - together.**

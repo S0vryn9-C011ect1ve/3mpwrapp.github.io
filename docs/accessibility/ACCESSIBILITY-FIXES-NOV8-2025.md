@@ -239,7 +239,7 @@ grep -r "<h3" . --include="*.md" --include="*.html" | grep -B5 -A5 "<h1"
 ## Verification
 
 After deployment, verify fixes at:
-- https://3mpwrapp.github.io/
+- https://3mpwrapp.ca/
 
 Test commands:
 ```bash
@@ -308,7 +308,7 @@ All fixes are compatible with:
 
 For accessibility issues or questions:
 - Email: empowrapp08162025@gmail.com
-- Accessibility Statement: https://3mpwrapp.github.io/accessibility
+- Accessibility Statement: https://3mpwrapp.ca/accessibility
 
 ---
 

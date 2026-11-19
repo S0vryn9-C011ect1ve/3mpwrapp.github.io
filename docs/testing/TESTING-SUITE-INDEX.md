@@ -313,13 +313,13 @@ bundle audit check             # Ruby gem vulnerabilities
 
 ```bash
 # Check site health
-curl -i https://3mpwrapp.github.io
+curl -i https://3mpwrapp.ca
 
 # Verify HTTPS
 curl -I http://3mpwrapp.github.io | grep Location
 
 # Check security headers
-curl -i https://3mpwrapp.github.io | grep -E "Strict-Transport-Security|X-Frame-Options"
+curl -i https://3mpwrapp.ca | grep -E "Strict-Transport-Security|X-Frame-Options"
 
 # Check DNS
 nslookup 3mpwrapp.github.io

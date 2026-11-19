@@ -38,7 +38,7 @@
 **Status**: ✅ All hardcoded preview URLs replaced
 
 **Changes Made**:
-- Updated 2 URLs from `https://app-3mpwrapp.pages.dev/` → `https://app.3mpwrapp.ca`
+- Updated 2 URLs from `https://app.3mpwrapp.ca/` → `https://app.3mpwrapp.ca`
 - All internal links now use custom domain
 
 ---
@@ -48,7 +48,7 @@
 
 **Deployment Complete**:
 - ✅ Deployed 730 files to Cloudflare Pages
-- ✅ Preview URL: https://2c9cc438.3mpwrapp-beta.pages.dev
+- ✅ Preview URL: https://app.3mpwrapp.ca
 - ✅ Custom domain: https://app.3mpwrapp.ca
 - ✅ All routing files (_redirects, _routes.json) included
 
@@ -93,7 +93,7 @@ Follow **PWA_DEPLOYMENT_CHECKLIST.md** for detailed troubleshooting.
    - Add if missing:
      ```
      https://app.3mpwrapp.ca/gdrive-callback
-     https://3mpwrapp-beta.pages.dev/gdrive-callback
+     https://app.3mpwrapp.ca/gdrive-callback
      ```
 
 5. **Test Browser Console**

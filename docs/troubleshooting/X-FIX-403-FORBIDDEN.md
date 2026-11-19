@@ -49,7 +49,7 @@ Check the box to enable it, then save.
 
 If prompted for "Redirect URIs" when enabling OAuth 2.0:
 - Add: `http://localhost:3000/callback` (for local testing)
-- Or: `https://3mpwrapp.github.io/callback` (for your site)
+- Or: `https://3mpwrapp.ca/callback` (for your site)
 
 Save the changes.
 

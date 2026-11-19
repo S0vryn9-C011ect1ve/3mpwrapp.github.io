@@ -11,7 +11,7 @@
 ### 1. ✅ Cloudflare Build Failure - FIXED
 **Problem:** Jekyll build failing with missing `accessibility-toolbar.html` include  
 **Solution:** Removed non-existent include from `index-simplified.md`  
-**Status:** Deployed successfully at https://3mpwrapp.github.io  
+**Status:** Deployed successfully at https://3mpwrapp.ca  
 **Commit:** `6ae14975`
 
 ---
@@ -208,7 +208,7 @@ cat reports/summary.md
 ```
 
 ### 2. Test Offline Accessibility
-1. Visit https://3mpwrapp.github.io
+1. Visit https://3mpwrapp.ca
 2. Open DevTools → Application → Service Workers
 3. Check "Offline" mode
 4. Navigate between pages
@@ -318,7 +318,7 @@ This implementation represents **enterprise-grade accessibility automation** at 
 **Connection Status:** ✅ Monitoring active  
 **AAA Testing:** ✅ Running on next push  
 
-**URL:** https://3mpwrapp.github.io  
+**URL:** https://3mpwrapp.ca  
 **Commits:** 3 (6ae14975, 91f41ccc, 5d56f5d6)  
 **Total Changes:** 42 files, +5,354 lines  
 

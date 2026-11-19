@@ -8,25 +8,25 @@ const fs = require('fs');
 const path = require('path');
 
 const PAGES = [
-  { url: 'https://3mpwrapp.github.io/', name: 'Home' },
-  { url: 'https://3mpwrapp.github.io/about', name: 'About' },
-  { url: 'https://3mpwrapp.github.io/accessibility', name: 'Accessibility' },
-  { url: 'https://3mpwrapp.github.io/accessibility-settings', name: 'Accessibility Settings' },
-  { url: 'https://3mpwrapp.github.io/contact', name: 'Contact' },
-  { url: 'https://3mpwrapp.github.io/crisis-resources', name: 'Crisis Resources' },
-  { url: 'https://3mpwrapp.github.io/faq', name: 'FAQ' },
-  { url: 'https://3mpwrapp.github.io/feedback', name: 'Feedback' },
-  { url: 'https://3mpwrapp.github.io/privacy', name: 'Privacy' },
-  { url: 'https://3mpwrapp.github.io/terms', name: 'Terms' },
-  { url: 'https://3mpwrapp.github.io/resources', name: 'Resources' },
-  { url: 'https://3mpwrapp.github.io/delete-data', name: 'Delete Data' },
-  { url: 'https://3mpwrapp.github.io/events', name: 'Events' },
-  { url: 'https://3mpwrapp.github.io/app-waitlist', name: 'App Waitlist' },
-  { url: 'https://3mpwrapp.github.io/newsletter', name: 'Newsletter' },
-  { url: 'https://3mpwrapp.github.io/search', name: 'Search' },
-  { url: 'https://3mpwrapp.github.io/roadmap', name: 'Roadmap' },
-  { url: 'https://3mpwrapp.github.io/security', name: 'Security' },
-  { url: 'https://3mpwrapp.github.io/status', name: 'Status' }
+  { url: 'https://3mpwrapp.ca/', name: 'Home' },
+  { url: 'https://3mpwrapp.ca/about', name: 'About' },
+  { url: 'https://3mpwrapp.ca/accessibility', name: 'Accessibility' },
+  { url: 'https://3mpwrapp.ca/accessibility-settings', name: 'Accessibility Settings' },
+  { url: 'https://3mpwrapp.ca/contact', name: 'Contact' },
+  { url: 'https://3mpwrapp.ca/crisis-resources', name: 'Crisis Resources' },
+  { url: 'https://3mpwrapp.ca/faq', name: 'FAQ' },
+  { url: 'https://3mpwrapp.ca/feedback', name: 'Feedback' },
+  { url: 'https://3mpwrapp.ca/privacy', name: 'Privacy' },
+  { url: 'https://3mpwrapp.ca/terms', name: 'Terms' },
+  { url: 'https://3mpwrapp.ca/resources', name: 'Resources' },
+  { url: 'https://3mpwrapp.ca/delete-data', name: 'Delete Data' },
+  { url: 'https://3mpwrapp.ca/events', name: 'Events' },
+  { url: 'https://3mpwrapp.ca/app-waitlist', name: 'App Waitlist' },
+  { url: 'https://3mpwrapp.ca/newsletter', name: 'Newsletter' },
+  { url: 'https://3mpwrapp.ca/search', name: 'Search' },
+  { url: 'https://3mpwrapp.ca/roadmap', name: 'Roadmap' },
+  { url: 'https://3mpwrapp.ca/security', name: 'Security' },
+  { url: 'https://3mpwrapp.ca/status', name: 'Status' }
 ];
 
 async function testPage(page) {

@@ -156,7 +156,7 @@ Every component must be accurate and authentic to maintain trust and effectivene
   prevalence: [percentage],
   difficulty: 'moderate',
   readingTime: [estimated minutes],
-  webUrl: 'https://3mpwrapp.pages.dev/knowledge-base/knee-injury-claims/',
+  webUrl: 'https://3mpwrapp.ca/knowledge-base/knee-injury-claims/',
   localPath: 'knowledge-base/knee-injury-claims.md',
   templateId: 'knee-injury-appeal',
   topics: [extract from markdown],

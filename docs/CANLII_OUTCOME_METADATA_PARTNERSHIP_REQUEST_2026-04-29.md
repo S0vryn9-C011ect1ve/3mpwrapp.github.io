@@ -200,7 +200,7 @@ If CanLII cannot provide bulk data or increased API limits directly, we would ap
 
 **Website:** [https://3mpwrapp.ca](https://3mpwrapp.ca)  
 **GitHub:** [https://github.com/3mpwrApp](https://github.com/3mpwrApp) (planned - code will be published here)  
-**Research Page:** [https://3mpwrapp.github.io/research.html](https://3mpwrapp.github.io/research.html)
+**Research Page:** [https://3mpwrapp.ca/research.html](https://3mpwrapp.ca/research.html)
 
 ## Contact Information
 

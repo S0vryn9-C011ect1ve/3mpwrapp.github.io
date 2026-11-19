@@ -166,7 +166,7 @@ Key highlights:
 ✓ 24-hour energy prediction using your patterns
 ✓ Personalized forecasting with ML algorithms
 
-Read the full article: https://3mpwrapp.github.io/blog/...
+Read the full article: https://3mpwrapp.ca/blog/...
 
 #Disability #Accessibility #DisabilityRights #A11y
 ```

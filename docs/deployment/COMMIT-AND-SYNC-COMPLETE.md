@@ -206,11 +206,11 @@ Created:
 
 ### Validation Steps
 ```
-[ ] Homepage: https://validator.w3.org/?uri=https%3A%2F%2F3mpwrapp.pages.dev%2F
-[ ] About: https://validator.w3.org/?uri=https%3A%2F%2F3mpwrapp.pages.dev%2Fabout%2F
-[ ] Features: https://validator.w3.org/?uri=https%3A%2F%2F3mpwrapp.pages.dev%2Ffeatures%2F
-[ ] User Guide: https://validator.w3.org/?uri=https%3A%2F%2F3mpwrapp.pages.dev%2Fuser-guide%2F
-[ ] Accessibility: https://validator.w3.org/?uri=https%3A%2F%2F3mpwrapp.pages.dev%2Faccessibility%2F
+[ ] Homepage: https://validator.w3.org/?uri=https%3A%2F%2F3mpwrapp.ca%2F
+[ ] About: https://validator.w3.org/?uri=https%3A%2F%2F3mpwrapp.ca%2Fabout%2F
+[ ] Features: https://validator.w3.org/?uri=https%3A%2F%2F3mpwrapp.ca%2Ffeatures%2F
+[ ] User Guide: https://validator.w3.org/?uri=https%3A%2F%2F3mpwrapp.ca%2Fuser-guide%2F
+[ ] Accessibility: https://validator.w3.org/?uri=https%3A%2F%2F3mpwrapp.ca%2Faccessibility%2F
 ```
 
 ---

@@ -30,7 +30,7 @@ export const options = {
 };
 
 // LIVE WEBSITE
-const BASE_URL = 'https://3mpwrapp.github.io';
+const BASE_URL = 'https://3mpwrapp.ca';
 
 // KEY PAGES ONLY (excluding community/resources/wellness - those are on the app)
 const endpoints = [

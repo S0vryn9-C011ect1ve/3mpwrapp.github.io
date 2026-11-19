@@ -358,7 +358,7 @@ When setup is working:
 - **GitHub Actions:** https://github.com/3mpowrApp/3mpwrapp.github.io/actions
 - **GitHub Secrets:** https://github.com/3mpowrApp/3mpwrapp.github.io/settings/secrets/actions
 - **Workflow File:** `.github/workflows/daily-curation.yml`
-- **Website:** https://3mpwrapp.github.io
+- **Website:** https://3mpwrapp.ca
 
 ---
 

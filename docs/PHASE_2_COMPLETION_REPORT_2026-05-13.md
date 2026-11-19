@@ -155,13 +155,13 @@ Phase 2 (Citation Infrastructure Expansion + Blog Voice Revisions) is now COMPLE
 > **Statistical Analysis:**
 > - **Dataset:** 98,992 ONWSIAT decisions, 2020-2026
 > - **Shoulder injury cases:** 1,486 cases (13.0% of all tribunal decisions)
-> - **Data source:** [CanLII WSIAT keyword analysis](https://3mpwrapp.pages.dev/docs/data-quality-disclosure/)
+> - **Data source:** [CanLII WSIAT keyword analysis](https://3mpwrapp.ca/docs/data-quality-disclosure/)
 > - **Methodology:** Keyword searches for \"shoulder,\" \"rotator cuff,\" \"supraspinatus,\" \"infraspinatus,\" \"teres,\" \"subscapularis\"
 > 
 > **Key Limitations:**
 > - Analysis based on keyword occurrence in published tribunal decisions
 > - Does not include initial WSIB decisions (only appeals that reached tribunal)
-> - See [Data Quality Disclosure](https://3mpwrapp.pages.dev/docs/data-quality-disclosure/) for full methodology
+> - See [Data Quality Disclosure](https://3mpwrapp.ca/docs/data-quality-disclosure/) for full methodology
 > 
 > **Key Case Law:**
 > - **[*Pasiechnyk v. Ontario (WSIB)*, 2015 ONCA 615](https://canlii.ca/t/gkvnl)** - Pre-existing conditions do not disqualify claims if work contributed
@@ -199,7 +199,7 @@ Phase 2 (Citation Infrastructure Expansion + Blog Voice Revisions) is now COMPLE
 > **Statistical Analysis:**
 > - **Dataset:** 98,992 ONWSIAT decisions, 2020-2026
 > - **Pre-existing condition cases:** 1,520 cases (13.3%, 95% CI: 12.7-13.9%)
-> - **Data source:** [CanLII WSIAT keyword analysis](https://3mpwrapp.pages.dev/docs/data-quality-disclosure/)
+> - **Data source:** [CanLII WSIAT keyword analysis](https://3mpwrapp.ca/docs/data-quality-disclosure/)
 > 
 > **Key Case Law:**
 > - **[*Pasiechnyk v. Ontario (WSIB)*, 2015 ONCA 615](https://canlii.ca/t/gkvnl)** - Landmark case: Pre-existing conditions do not disqualify claims if workplace activities contributed

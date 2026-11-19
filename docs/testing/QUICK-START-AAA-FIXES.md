@@ -241,12 +241,12 @@ node pa11y-test.js
 
 **Check specific page:**
 ```bash
-pa11y --standard WCAG2AAA https://3mpwrapp.github.io/about
+pa11y --standard WCAG2AAA https://3mpwrapp.ca/about
 ```
 
 **Validate HTML:**
 ```bash
-html-validator --url="https://3mpwrapp.github.io/" --format=json
+html-validator --url="https://3mpwrapp.ca/" --format=json
 ```
 
 ---

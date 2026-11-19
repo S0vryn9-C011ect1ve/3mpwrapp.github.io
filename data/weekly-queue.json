@@ -1,6 +1,42 @@
 {
-  "week": "",
-  "generated": "",
-  "processed": false,
-  "commits": []
+  "week": "2026-42",
+  "generated": "2026-10-16T01:42:35.168Z",
+  "processed": true,
+  "commits": [
+    {
+      "sha": "0b42420",
+      "date": "2026-10-15T16:00:00Z",
+      "message": "fix(audit): correct false stats -> 73.5%/94.3%; footnote 63 files; method-include 13 patches",
+      "files": [
+        "_posts/2026-04-15-wsib-exposed-statistical-evidence-proves-systematic-manipulation.md",
+        "_includes/methodology-evidence-standards.md",
+        "_knowledge_base/wsib-2026-accountability-watch.md",
+        "data-limitations.md",
+        "how-to-use-this-data.md",
+        "a11y_audit_report.json"
+      ],
+      "category": "fix",
+      "impactTags": [
+        "stability"
+      ]
+    },
+    {
+      "sha": "fb26100",
+      "date": "2026-10-15T12:00:00Z",
+      "message": "build5 KB frontmatter fix + flywheel index",
+      "files": [
+        "_knowledge_base/wsib-2026-accountability-watch.md",
+        "flywheels/index.md",
+        "user-bases/index.md",
+        "_whats_new/2026-10-14-user-bases-flywheels-live.md",
+        "_includes/community-curation-form.html",
+        "_layouts/default.html"
+      ],
+      "category": "system",
+      "impactTags": [
+        "ux",
+        "stability"
+      ]
+    }
+  ]
 }

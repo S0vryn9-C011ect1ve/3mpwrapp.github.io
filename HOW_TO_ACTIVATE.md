@@ -16,7 +16,7 @@
    - Check the Actions tab: https://github.com/3mpowrApp/3mpwrapp.github.io/actions
 
 4. **Visit your live site**
-   - https://3mpwrapp.github.io
+   - https://3mpwrapp.ca
 
 ---
 

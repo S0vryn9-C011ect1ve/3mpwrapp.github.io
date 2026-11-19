@@ -589,9 +589,9 @@ code {
 ### Automated Testing Recommendations:
 ```bash
 # Run Pa11y with all modes
-pa11y --standard WCAG2AAA https://3mpwrapp.github.io
-pa11y --standard WCAG2AAA --viewport 1920x1080 --media '(prefers-color-scheme: dark)' https://3mpwrapp.github.io
-pa11y --standard WCAG2AAA --media '(forced-colors: active)' https://3mpwrapp.github.io
+pa11y --standard WCAG2AAA https://3mpwrapp.ca
+pa11y --standard WCAG2AAA --viewport 1920x1080 --media '(prefers-color-scheme: dark)' https://3mpwrapp.ca
+pa11y --standard WCAG2AAA --media '(forced-colors: active)' https://3mpwrapp.ca
 
 # Run axe-core
 npm run a11y:scan

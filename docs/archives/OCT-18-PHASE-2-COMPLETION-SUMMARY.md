@@ -105,7 +105,7 @@ Usage: lhci autorun
 ```bash
 npm install -g pa11y
 Status: ✅ Ready (128 packages)
-Usage: pa11y https://3mpwrapp.github.io/
+Usage: pa11y https://3mpwrapp.ca/
 ```
 
 ### Existing Tools Available
@@ -285,9 +285,9 @@ Oct 24 (Day 8)
 lhci autorun --config=lighthouserc.json
 
 # Run pa11y on key pages
-pa11y https://3mpwrapp.github.io/ --json
-pa11y https://3mpwrapp.github.io/user-guide --json
-pa11y https://3mpwrapp.github.io/features --json
+pa11y https://3mpwrapp.ca/ --json
+pa11y https://3mpwrapp.ca/user-guide --json
+pa11y https://3mpwrapp.ca/features --json
 
 # Check security vulnerabilities
 npm audit

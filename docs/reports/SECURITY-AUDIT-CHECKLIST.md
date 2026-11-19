@@ -1,7 +1,7 @@
 # 🔒 SECURITY AUDIT CHECKLIST
 
 **Testing Date:** October 20, 2025  
-**Target:** 3mpwrapp.pages.dev  
+**Target:** 3mpwrapp.ca  
 **Duration:** 2 hours  
 **Scope:** All 7 pages + API endpoints
 
@@ -20,7 +20,7 @@
   - [ ] No warnings
 
 ### HTTPS Enforcement
-- [ ] Try http://3mpwrapp.pages.dev
+- [ ] Try https://3mpwrapp.ca
 - [ ] Should redirect to https
 - [ ] No mixed content warnings
 - [ ] All resources loaded via https
@@ -133,7 +133,7 @@ fetch('https://3mpwrapp.ca/api/curation-latest.json')
 1. Open DevTools
 2. Go to Application tab
 3. Click Cookies (left sidebar)
-4. Select domain: 3mpwrapp.pages.dev
+4. Select domain: 3mpwrapp.ca
 
 ### For Each Cookie, Verify:
 - [ ] Name: (what is it?)
@@ -314,7 +314,7 @@ Use these free online tools:
 
 **Option 2: Nikto**
 - Online: Various online Nikto services
-- Or command line: `nikto -h 3mpwrapp.pages.dev`
+- Or command line: `nikto -h 3mpwrapp.ca`
 
 **Option 3: Burp Suite Community**
 - Download: https://portswigger.net/burp/communitydownload

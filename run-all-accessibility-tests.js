@@ -79,11 +79,11 @@ console.log('═'.repeat(60));
 console.log('Running HTML validation on key pages...\n');
 
 const pagesToValidate = [
-  'https://3mpwrapp.github.io/',
-  'https://3mpwrapp.github.io/about',
-  'https://3mpwrapp.github.io/accessibility',
-  'https://3mpwrapp.github.io/contact',
-  'https://3mpwrapp.github.io/privacy'
+  'https://3mpwrapp.ca/',
+  'https://3mpwrapp.ca/about',
+  'https://3mpwrapp.ca/accessibility',
+  'https://3mpwrapp.ca/contact',
+  'https://3mpwrapp.ca/privacy'
 ];
 
 const validationResults = [];

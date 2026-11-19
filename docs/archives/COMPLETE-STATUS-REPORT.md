@@ -88,7 +88,7 @@ When you originally provided the Phase 2 user guide content, it may have had for
 
 ## 🎯 About Those Other Deployments
 
-### What You Saw: `https://7314eccf.3mpwrapp.pages.dev`
+### What You Saw: `https://3mpwrapp.ca`
 
 This is a **preview deployment** - Cloudflare creates these automatically for testing.
 
@@ -126,15 +126,15 @@ This is your **production site** - the real, live version.
 7. Click **Save**
 
 **Result:**
-- ✅ No more confusing URLs like `7314eccf.3mpwrapp.pages.dev`
-- ✅ Only `3mpwrapp.pages.dev` exists
+- ✅ No more confusing URLs like `7314eccf.3mpwrapp.ca`
+- ✅ Only `3mpwrapp.ca` exists
 - ✅ Simpler and cleaner
 - ✅ Less confusion
 
 ### Alternative: Leave Them (They Auto-Delete)
 - Preview deployments auto-delete after 30 days
 - Just ignore them
-- Always use `3mpwrapp.pages.dev`
+- Always use `3mpwrapp.ca`
 
 ### Manual Cleanup
 If you want to delete old previews now:
@@ -157,7 +157,7 @@ If you want to delete old previews now:
 
 ### In 2 Minutes
 - ⏳ Cloudflare finishes building
-- ⏳ New version deployed to `3mpwrapp.pages.dev`
+- ⏳ New version deployed to `3mpwrapp.ca`
 
 ### In 5-8 Minutes
 - ✅ CDN cache clears globally

@@ -275,9 +275,9 @@ npm audit                                   # Security scan
 
 ### Verification
 ```bash
-curl -i https://3mpwrapp.github.io        # Check site
+curl -i https://3mpwrapp.ca        # Check site
 curl -I http://3mpwrapp.github.io         # Check HTTPS redirect
-curl -i https://3mpwrapp.github.io | grep "Strict-Transport-Security"  # Check headers
+curl -i https://3mpwrapp.ca | grep "Strict-Transport-Security"  # Check headers
 ```
 
 ---

@@ -93,13 +93,13 @@ Phase 3 (Visualization Verification + Data Integrity Check) is now COMPLETE. All
 **Sample Link Verification:**
 ```markdown
 ✅ [*Pasiechnyk v. Ontario (WSIB)*, 2015 ONCA 615](https://canlii.ca/t/gkvnl)
-✅ [Data Quality Disclosure](https://3mpwrapp.pages.dev/docs/data-quality-disclosure/)
+✅ [Data Quality Disclosure](https://3mpwrapp.ca/docs/data-quality-disclosure/)
 ✅ [*Kriz v. WSIB*, 2012 ONWSIAT 500](https://canlii.ca/t/fqw0n)
 ```
 
 All links use correct format:
 - CanLII links: `https://canlii.ca/t/[case-id]`
-- Data source links: `https://3mpwrapp.pages.dev/docs/data-quality-disclosure/`
+- Data source links: `https://3mpwrapp.ca/docs/data-quality-disclosure/`
 
 ---
 
@@ -158,13 +158,13 @@ All links use correct format:
 
 **Statistical Analysis:**
 - **Dataset:** 98,992 ONWSIAT decisions, 2020-2026
-- **Data source:** [CanLII WSIAT keyword analysis](https://3mpwrapp.pages.dev/docs/data-quality-disclosure/)
+- **Data source:** [CanLII WSIAT keyword analysis](https://3mpwrapp.ca/docs/data-quality-disclosure/)
 - **Methodology:** Keyword searches across all WSIAT published decisions
 
 **Key Limitations:**
 - Analysis based on keyword occurrence in published tribunal decisions
 - Does not include initial WSIB decisions (only appeals that reached tribunal)
-- See [Data Quality Disclosure](https://3mpwrapp.pages.dev/docs/data-quality-disclosure/) for full methodology
+- See [Data Quality Disclosure](https://3mpwrapp.ca/docs/data-quality-disclosure/) for full methodology
 ```
 
 **Conclusion:** Consistent methodology disclosure across all guides, transparent about limitations.
@@ -207,7 +207,7 @@ across Ontario's administrative tribunals (1987-2026)</p>
 ### Knowledge Base → Tribunal Data Connections
 
 **Connection Type 1: Data Source Links**
-- ✅ All 19 guides link to [Data Quality Disclosure](https://3mpwrapp.pages.dev/docs/data-quality-disclosure/)
+- ✅ All 19 guides link to [Data Quality Disclosure](https://3mpwrapp.ca/docs/data-quality-disclosure/)
 - ✅ Users can click through to understand methodology
 - ✅ Transparency about keyword analysis limitations
 

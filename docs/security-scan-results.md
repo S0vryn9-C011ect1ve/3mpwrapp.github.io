@@ -106,7 +106,7 @@ docker : The term 'docker' is not recognized as the name of a cmdlet, function, 
 **Domains:**
 - 3mpwrapp.ca → Cloudflare Pages (HTTPS enforced)
 - app.3mpwrapp.ca → Cloudflare Pages (HTTPS enforced)
-- app-3mpwrapp.pages.dev → Cloudflare Pages (HTTPS enforced)
+- app-3mpwrapp.ca → Cloudflare Pages (HTTPS enforced)
 
 **DNS Provider:** Cloudflare (secure, DDoS protection, DNSSEC enabled)
 

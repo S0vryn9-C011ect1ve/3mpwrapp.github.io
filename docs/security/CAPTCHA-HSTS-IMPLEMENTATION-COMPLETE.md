@@ -97,7 +97,7 @@ Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
 
 **Submission Process**:
 1. Visit https://hstspreload.org/
-2. Enter domain: `3mpwrapp.pages.dev`
+2. Enter domain: `3mpwrapp.ca`
 3. Check eligibility (should be all ✓)
 4. Submit domain
 5. Wait 2-3 months for global deployment
@@ -121,7 +121,7 @@ Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
 3. Click **"Add widget"** (Note: The button says "Add widget", not "Add site")
 4. Fill in:
    - Widget name: "3mpwrApp Contact Form"
-   - Domain: `3mpwrapp.pages.dev`
+   - Domain: `3mpwrapp.ca`
    - Widget Mode: "Managed"
 5. Click **"Create"**
 6. Copy the **Site Key** (public key)
@@ -146,7 +146,7 @@ Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
 
 **Quick Steps**:
 1. Visit https://hstspreload.org/
-2. Enter domain: `3mpwrapp.pages.dev`
+2. Enter domain: `3mpwrapp.ca`
 3. Click **"Check HSTS preload status and eligibility"**
 4. Verify all checkmarks are green ✓
 5. Scroll to **"Submit your domain"**
@@ -246,11 +246,11 @@ Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
 
 2. **Check Preload Status**:
    - Visit https://hstspreload.org/
-   - Enter: `3mpwrapp.pages.dev`
+   - Enter: `3mpwrapp.ca`
    - Should show: "currently preloaded"
 
 3. **Verify Enforcement**:
-   - Type `http://3mpwrapp.pages.dev` (without s)
+   - Type `https://3mpwrapp.ca` (without s)
    - Browser should force HTTPS automatically
    - No HTTP request sent
 
@@ -388,7 +388,7 @@ Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
 
 **Check Monthly**:
 1. Visit https://hstspreload.org/
-2. Enter: `3mpwrapp.pages.dev`
+2. Enter: `3mpwrapp.ca`
 3. Check status
 4. Look for "currently preloaded"
 

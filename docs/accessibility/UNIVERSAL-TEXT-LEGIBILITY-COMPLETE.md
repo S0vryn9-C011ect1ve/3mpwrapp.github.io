@@ -150,13 +150,13 @@ document.documentElement.style.setProperty('prefers-contrast', 'more');
 **Lighthouse:**
 ```bash
 # Should score 100 on Accessibility
-lighthouse https://3mpwrapp.github.io --view
+lighthouse https://3mpwrapp.ca --view
 ```
 
 **axe DevTools:**
 ```bash
 # Should report 0 color contrast violations
-npx @axe-core/cli https://3mpwrapp.github.io --tags wcag2aaa
+npx @axe-core/cli https://3mpwrapp.ca --tags wcag2aaa
 ```
 
 **Pa11y:**

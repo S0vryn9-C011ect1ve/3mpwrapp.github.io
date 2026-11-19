@@ -75,7 +75,7 @@ This document defines a comprehensive, prioritized testing strategy to validate 
 
 ### Staging Environment
 
-**URL:** `https://3mpwrapp.github.io` (production site, but treated as staging for testing)  
+**URL:** `https://3mpwrapp.ca` (production site, but treated as staging for testing)  
 **Alternative:** Deploy to Cloudflare Pages staging branch for isolated testing  
 **Duration:** Full test suite: 1–2 weeks  
 
@@ -573,7 +573,7 @@ npx playwright test e2e-tests/homepage.spec.js
 docker pull owasp/zap2docker-stable
 
 # Run full scan
-docker run -t owasp/zap2docker-stable zap-full-scan.py -t https://3mpwrapp.github.io -r zap-report.html
+docker run -t owasp/zap2docker-stable zap-full-scan.py -t https://3mpwrapp.ca -r zap-report.html
 ```
 
 **npm Audit:**

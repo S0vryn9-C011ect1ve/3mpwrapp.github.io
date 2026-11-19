@@ -55,7 +55,7 @@ Successfully implemented comprehensive social media sharing functionality across
 ### Branding Consistency
 - **3mpwrApp branding** throughout all share buttons
 - **#3mpwrApp hashtag** automatically included in all shares
-- **Website URL** (https://3mpwrapp.github.io) included in share text
+- **Website URL** (https://3mpwrapp.ca) included in share text
 - Gradient purple/pink design matching site theme
 
 ### Platform Support
@@ -120,12 +120,12 @@ Successfully implemented comprehensive social media sharing functionality across
 
 Every share includes:
 ```
-[Page Title] - 3mpwrApp | https://3mpwrapp.github.io #3mpwrApp
+[Page Title] - 3mpwrApp | https://3mpwrapp.ca #3mpwrApp
 ```
 
 Example:
 ```
-Join 3mpwrApp Beta Testing - Shape the Future - 3mpwrApp | https://3mpwrapp.github.io #3mpwrApp
+Join 3mpwrApp Beta Testing - Shape the Future - 3mpwrApp | https://3mpwrapp.ca #3mpwrApp
 ```
 
 ## 🔍 Testing Checklist

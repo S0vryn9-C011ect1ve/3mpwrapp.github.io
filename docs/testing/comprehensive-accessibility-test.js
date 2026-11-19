@@ -9,7 +9,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Your website URLs - add your production/staging URL
-const BASE_URL = 'https://3mpwrapp.github.io';
+const BASE_URL = 'https://3mpwrapp.ca';
 const LOCAL_URL = 'http://127.0.0.1:4000';
 
 // All pages to test

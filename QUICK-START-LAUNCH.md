@@ -18,7 +18,7 @@ Change: cyan (#06b6d4) → dark blue (#0066CC)
 
 # 2. Test accessibility
 npm install -g pa11y
-pa11y https://3mpwrapp.github.io/
+pa11y https://3mpwrapp.ca/
 
 # 3. Fix any WCAG violations
 # (Typically footer contrast, target sizes)
@@ -27,7 +27,7 @@ pa11y https://3mpwrapp.github.io/
 ### Oct 19: Performance (2 hours)
 ```bash
 # 1. Run Lighthouse
-npx lighthouse https://3mpwrapp.github.io --view
+npx lighthouse https://3mpwrapp.ca --view
 
 # 2. Optimize assets
 csso assets/css/styles.css > assets/css/styles.min.css

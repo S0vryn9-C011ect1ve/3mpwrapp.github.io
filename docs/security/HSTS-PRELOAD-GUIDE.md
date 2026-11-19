@@ -38,7 +38,7 @@ Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
 ### Step 1: Pre-submission Check
 Visit: **https://hstspreload.org/**
 
-1. Enter your domain: `3mpwrapp.pages.dev`
+1. Enter your domain: `3mpwrapp.ca`
 2. Click "Check HSTS preload status and eligibility"
 3. Verify all requirements show ✅ (green checkmarks)
 
@@ -55,7 +55,7 @@ Expected results:
 
 ### Step 2: Submit Domain
 1. Scroll down to "Submit your domain"
-2. Check the box: "I am the site owner of 3mpwrapp.pages.dev..."
+2. Check the box: "I am the site owner of 3mpwrapp.ca..."
 3. Click "Submit"
 
 ### Step 3: Confirmation
@@ -86,7 +86,7 @@ Expected results:
 ### Check Submission Status
 Visit: **https://hstspreload.org/**
 - Enter your domain
-- Look for: "Status: 3mpwrapp.pages.dev is currently preloaded."
+- Look for: "Status: 3mpwrapp.ca is currently preloaded."
 
 ### Check Chrome Source
 Visit: **https://source.chromium.org/chromium/chromium/src/+/main:net/http/transport_security_state_static.json**
@@ -209,7 +209,7 @@ Visit: **https://source.chromium.org/chromium/chromium/src/+/main:net/http/trans
 
 ### 📋 **Action Items:**
 1. Visit https://hstspreload.org/
-2. Check eligibility for `3mpwrapp.pages.dev`
+2. Check eligibility for `3mpwrapp.ca`
 3. Submit domain
 4. Document submission in SECURITY-AUDIT.md
 5. Monitor status monthly

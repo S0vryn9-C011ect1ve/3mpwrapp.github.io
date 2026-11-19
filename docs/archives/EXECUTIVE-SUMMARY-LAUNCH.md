@@ -117,7 +117,7 @@ pa11y-ci --config .pa11yci.json
 
 ### Oct 19: Performance Optimization
 ```bash
-npx lighthouse https://3mpwrapp.github.io --view
+npx lighthouse https://3mpwrapp.ca --view
 ```
 - [ ] Minify CSS/JS
 - [ ] Optimize images
@@ -189,7 +189,7 @@ gtag('config', 'GA-ID', {
 
 ### Fix #4: Verify Color Contrast (1 hour)
 ```bash
-pa11y https://3mpwrapp.github.io/
+pa11y https://3mpwrapp.ca/
 # Fix any <4.5:1 contrast issues
 ```
 

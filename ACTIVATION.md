@@ -48,14 +48,14 @@ You'll see the GitHub Pages configuration page. Follow these settings:
    > - Build logs you can review
 
 #### **Custom domain** (Optional)
-- Leave blank to use the default: `https://3mpwrapp.github.io`
+- Leave blank to use the default: `https://3mpwrapp.ca`
 - Or enter a custom domain if you have one
 
 ### Step 4: Save and Wait
 
 1. The settings save automatically when you select **GitHub Actions**
 2. GitHub will now trigger the first deployment
-3. Your website will be live at: **https://3mpwrapp.github.io**
+3. Your website will be live at: **https://3mpwrapp.ca**
 4. First deployment takes 2-5 minutes
 
 ### Step 5: Verify Deployment
@@ -69,7 +69,7 @@ You'll see the GitHub Pages configuration page. Follow these settings:
 
 2. **Visit your website:**
    ```
-   https://3mpwrapp.github.io
+   https://3mpwrapp.ca
    ```
    - You should see the 3mpowr App homepage
    - If you see a 404 error, wait a few more minutes and refresh
@@ -91,7 +91,7 @@ You'll see the GitHub Pages configuration page. Follow these settings:
 │ └──────────────────────────────────────────┘ │
 │                                              │
 │ Your site is live at                         │
-│ https://3mpwrapp.github.io                   │
+│ https://3mpwrapp.ca                   │
 │                                              │
 └──────────────────────────────────────────────┘
 ```
@@ -103,7 +103,7 @@ You'll see the GitHub Pages configuration page. Follow these settings:
 After activation, you should see:
 
 1. ✅ **In Settings → Pages:**
-   - "Your site is live at https://3mpwrapp.github.io"
+   - "Your site is live at https://3mpwrapp.ca"
    - A link to visit your site
 
 2. ✅ **In Actions tab:**
