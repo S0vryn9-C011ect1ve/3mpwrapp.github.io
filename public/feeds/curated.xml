@@ -6,8 +6,8 @@
     <atom:link href="https://3mpwrapp.pages.dev/feeds/curated.xml" rel="self" type="application/rss+xml" />
     <description>Daily curated news on disability rights, accessibility, and benefits across Canada</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 18 Nov 2026 20:08:19 GMT</lastBuildDate>
-    <pubDate>Wed, 18 Nov 2026 20:08:19 GMT</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2026 20:08:30 GMT</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2026 20:08:30 GMT</pubDate>
     <generator>3mpwr App Curator v2.0</generator>
     <image>
       <url>https://3mpwrapp.pages.dev/assets/images/logo.png</url>
@@ -23,63 +23,37 @@
       <title>The Disability Bulletin</title>
       <link>https://linktr.ee/thedisabilitybulletin</link>
       <guid isPermaLink="true">https://linktr.ee/thedisabilitybulletin</guid>
-      <description><![CDATA[The Disability Bulletin covers disability rights news, advocacy updates, and community stories from across Canada. Visit for the latest issue.]]></description>
-      <pubDate>Wed, 18 Nov 2026 20:08:19 GMT</pubDate>
+      <description><![CDATA[Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.]]></description>
+      <pubDate>Thu, 19 Nov 2026 20:08:30 GMT</pubDate>
       <category>Critical</category>
       <dc:creator>3mpwr App Curator</dc:creator>
     </item>
 
     <item>
-      <title>Manitoba Government Ready to Reopen Victoria Hospital&apos;s Emergency Department Next Summer</title>
-      <link>https://news.gov.mb.ca/news/index.html?item=76138</link>
-      <guid isPermaLink="true">https://news.gov.mb.ca/news/index.html?item=76138</guid>
-      <pubDate>Wed, 18 Nov 2026 16:58:00 GMT</pubDate>
+      <title>BC Amazon Workers Get Groundbreaking First Collective Agreement</title>
+      <link>https://thetyee.ca/News/2026/11/18/Amazon-Delta-Warehouse-Workers-Get-First-Collective-Agreement/</link>
+      <guid isPermaLink="true">https://thetyee.ca/News/2026/11/18/Amazon-Delta-Warehouse-Workers-Get-First-Collective-Agreement/</guid>
+      <description><![CDATA[The three-year contract includes wages that will reach $29 per hour by the end of the contract.]]></description>
+      <pubDate>Wed, 18 Nov 2026 20:25:00 GMT</pubDate>
       <category>Critical</category>
       <dc:creator>3mpwr App Curator</dc:creator>
     </item>
 
     <item>
-      <title>Canada must curb predatory private equity buyouts</title>
-      <link>https://policyoptions.irpp.org/2026/11/private-equity-resilience/</link>
-      <guid isPermaLink="true">https://policyoptions.irpp.org/2026/11/private-equity-resilience/</guid>
-      <description><![CDATA[It’s only a slight exaggeration to suggest that before much of Canada was a country, it was a company – the Hudson’s Bay Company. HBC was the economy, holding exclusive rights to trade and commerce. Its governance charter, the law of the land. It developed close relationships with Indigenous people, trading with them for the […]]]></description>
-      <pubDate>Wed, 18 Nov 2026 11:30:00 GMT</pubDate>
+      <title>Voters Weren’t Jazzed by Eby’s Housing Effort. Now What?</title>
+      <link>https://thetyee.ca/Opinion/2026/11/19/Voters-Eby-Housing-Effort/</link>
+      <guid isPermaLink="true">https://thetyee.ca/Opinion/2026/11/19/Voters-Eby-Housing-Effort/</guid>
+      <description><![CDATA[Doerkson vows to overhaul NDP’s top-down laws. Here’s what was learned and what needs to happen.]]></description>
+      <pubDate>Thu, 19 Nov 2026 08:10:00 GMT</pubDate>
       <category>Critical</category>
       <dc:creator>3mpwr App Curator</dc:creator>
     </item>
 
     <item>
-      <title>Canada has become a nation of rentiers and rent-seekers</title>
-      <link>https://rabble.ca/economy/canada-has-become-a-nation-of-rentiers-and-rent-seekers/</link>
-      <guid isPermaLink="true">https://rabble.ca/economy/canada-has-become-a-nation-of-rentiers-and-rent-seekers/</guid>
-      <pubDate>Wed, 18 Nov 2026 19:32:46 GMT</pubDate>
-      <category>Critical</category>
-      <dc:creator>3mpwr App Curator</dc:creator>
-    </item>
-
-    <item>
-      <title>Manitoba Government Highlights Progress at Dauphin Regional Health Centre</title>
-      <link>https://news.gov.mb.ca/news/index.html?item=75998</link>
-      <guid isPermaLink="true">https://news.gov.mb.ca/news/index.html?item=75998</guid>
-      <pubDate>Tue, 10 Nov 2026 18:12:00 GMT</pubDate>
-      <category>Critical</category>
-      <dc:creator>3mpwr App Curator</dc:creator>
-    </item>
-
-    <item>
-      <title>Manitoba Government Announces Members of Lake Winnipeg Stewardship Advisory Group</title>
-      <link>https://news.gov.mb.ca/news/index.html?item=76137</link>
-      <guid isPermaLink="true">https://news.gov.mb.ca/news/index.html?item=76137</guid>
-      <pubDate>Wed, 18 Nov 2026 18:00:00 GMT</pubDate>
-      <category>Critical</category>
-      <dc:creator>3mpwr App Curator</dc:creator>
-    </item>
-
-    <item>
-      <title>Manitoba Government Breaks Ground on Dauphin Centre for Justice</title>
-      <link>https://news.gov.mb.ca/news/index.html?item=75997</link>
-      <guid isPermaLink="true">https://news.gov.mb.ca/news/index.html?item=75997</guid>
-      <pubDate>Tue, 10 Nov 2026 17:46:00 GMT</pubDate>
+      <title>New Retention and Recruitment Office Helps Bring 18 Physicians to Prairie Mountain Health</title>
+      <link>https://news.gov.mb.ca/news/index.html?item=75862</link>
+      <guid isPermaLink="true">https://news.gov.mb.ca/news/index.html?item=75862</guid>
+      <pubDate>Thu, 22 Oct 2026 18:47:00 GMT</pubDate>
       <category>Critical</category>
       <dc:creator>3mpwr App Curator</dc:creator>
     </item>

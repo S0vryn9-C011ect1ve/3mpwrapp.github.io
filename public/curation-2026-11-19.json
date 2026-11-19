@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-19",
+  "timestamp": "2026-11-19T20:08:30.463Z",
+  "count": 4,
+  "minScore": 3.5,
+  "items": [
+    {
+      "title": "The Disability Bulletin",
+      "link": "https://linktr.ee/thedisabilitybulletin",
+      "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
+      "score": 10,
+      "pubDate": "2026-11-19T20:08:30.461Z"
+    },
+    {
+      "title": "BC Amazon Workers Get Groundbreaking First Collective Agreement",
+      "link": "https://thetyee.ca/News/2026/11/18/Amazon-Delta-Warehouse-Workers-Get-First-Collective-Agreement/",
+      "description": "The three-year contract includes wages that will reach $29 per hour by the end of the contract.",
+      "score": 5,
+      "pubDate": "Wed, 18 Nov 2026 20:25:00 +0000"
+    },
+    {
+      "title": "Voters Weren’t Jazzed by Eby’s Housing Effort. Now What?",
+      "link": "https://thetyee.ca/Opinion/2026/11/19/Voters-Eby-Housing-Effort/",
+      "description": "Doerkson vows to overhaul NDP’s top-down laws. Here’s what was learned and what needs to happen.",
+      "score": 4.4,
+      "pubDate": "Thu, 19 Nov 2026 08:10:00 +0000"
+    },
+    {
+      "title": "New Retention and Recruitment Office Helps Bring 18 Physicians to Prairie Mountain Health",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75862",
+      "description": "",
+      "score": 4.5,
+      "pubDate": "Thu, 22 Oct 2026 13:47:00 CDT"
+    }
+  ]
+}

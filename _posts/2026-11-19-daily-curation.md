@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Daily News Curation - 2026-11-19"
+date: 2026-11-19
+tags: [highlights]
+categories: [curation, news]
+excerpt: "Today's curated disability rights, accessibility, and social policy news from across Canada."
+---
+
+# Daily News Curation - 2026-11-19
+
+Curated 4 items from disability, accessibility, and social policy sources.
+
+## 🌟 Featured: The Disability Bulletin
+
+### The Disability Bulletin
+Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.
+📍 [Read More](https://linktr.ee/thedisabilitybulletin)
+
+---
+
+## Additional Stories
+
+### 1. BC Amazon Workers Get Groundbreaking First Collective Agreement
+The three-year contract includes wages that will reach $29 per hour by the end of the contract.
+[Source](https://thetyee.ca/News/2026/11/18/Amazon-Delta-Warehouse-Workers-Get-First-Collective-Agreement/)
+**Score:** 5.00
+
+### 2. Voters Weren’t Jazzed by Eby’s Housing Effort. Now What?
+Doerkson vows to overhaul NDP’s top-down laws. Here’s what was learned and what needs to happen.
+[Source](https://thetyee.ca/Opinion/2026/11/19/Voters-Eby-Housing-Effort/)
+**Score:** 4.40
+
+### 3. New Retention and Recruitment Office Helps Bring 18 Physicians to Prairie Mountain Health
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75862)
+**Score:** 4.50
+
