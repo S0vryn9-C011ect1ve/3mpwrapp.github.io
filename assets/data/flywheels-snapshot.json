@@ -1,44 +1,44 @@
 {
-  "total": 2945,
+  "total": 3029,
   "verified": 5,
   "by_community": {
-    "disability": 1210,
-    "accessibility": 874,
-    "injured_workers": 704,
-    "welfare_social": 628,
-    "elderly": 224,
-    "veterans": 53,
+    "disability": 1241,
+    "accessibility": 894,
+    "injured_workers": 720,
+    "welfare_social": 644,
+    "elderly": 231,
+    "veterans": 70,
     "public_allies": 12,
     "vulnerable_communities": 7
   },
   "by_jurisdiction": {
-    "CA-ON": 1305,
-    "INTL": 1088,
-    "CA-FED": 360,
+    "CA-ON": 1332,
+    "INTL": 1120,
+    "CA-FED": 383,
     "CA-AB": 131,
     "CA-BC": 24,
     "CA-NT": 8,
+    "CA-MB": 6,
     "CA-NB": 6,
     "CA-YT": 5,
     "CA-SK": 5,
-    "CA-MB": 5,
     "CA-TERR": 3,
     "CA-NL": 2,
+    "CA-ATL": 2,
     "CA": 1,
-    "CA-NU": 1,
-    "CA-ATL": 1
+    "CA-NU": 1
   },
   "by_source": {
-    "x": 2078,
-    "reddit": 484,
-    "news": 366,
+    "x": 2107,
+    "reddit": 526,
+    "news": 379,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 2928,
+    "unverified_social": 3012,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -47,220 +47,230 @@
   },
   "recent": [
     {
-      "id": "1d8db1446b9e",
+      "id": "news-aee444d3d671",
+      "source": "news",
+      "title": "Veterans Affairs Canada to send out payments on Monday",
+      "communities": [
+        "veterans"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-18",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQjdoMlY3RkNjYV9Vd1FPR3lGUkpUQmRaX1U4c2hSR1hrRVcxdi1vTDF5aC1SRzZadXlGa181QXZqZUhfaFhyeXhYNUlPTWpDVmRKTTlpazl6ckVuU25IelpyVDJCaVFQVGlQNnlzMGdLT1g2eGo0MnRucU15TkpMUnVjeDJYY0lPUnVV?oc=5"
+    },
+    {
+      "id": "news-797ac3c2ce16",
+      "source": "news",
+      "title": "The Royal Canadian Legion on Federal Budget 2025: Big investments, Big cuts - Veterans want immediate clarity",
+      "communities": [
+        "veterans"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-18",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYVVWODhiaGNMYTlWS1NIRHlKMXZwMmtaUG54YTNoT19fSHdqNTlBS0d5N1RfM2UyelpKQi1Pc3pfVkgzYzYxR3UtNWR5LXlWcktJZ0V0cGQ0NE1ldmpiaWFtY3Fpb29Gc0R6S2ZBS0RScGtMWl9JSjM2UDFtMXBtTGJUWWpyWWtCN3ctUkhaZkpzS1p0Wmxya0ZaNlNCTGllSjZicE1sZHNaR051S0g3WDN0WGlVMmtubnFYVnJPZUNJNjFicUNiRHZEUTdRZjgzOWlnbHVOR2dDcmUxdnc?oc=5"
+    },
+    {
+      "id": "news-9c65cf9317d4",
+      "source": "news",
+      "title": "Veterans Ombudsman Releases Report Regarding Veterans Affairs Canada",
+      "communities": [
+        "veterans",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-18",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNGVRQWZxWm1xSHZJaWJsN3JkUmFRUmUxM1B5X1FRcy14WEViVEd2RW11RjNGczFJMkZBX05Pb0ljYkdLeEFKQ2pYc0xLVU5tZGF5YnF3a0pJTHQ1eHNzYkNoTmpqOEtycm1rZm9pdWo4SXdRakJ4OXR0bHpmTkc4alZtOHFIWWpJQ0dyekJxMWlDeWxteHJfNmdJcWMybVhi?oc=5"
+    },
+    {
+      "id": "news-ab278fe37888",
+      "source": "news",
+      "title": "COVID-19: Special payment to individuals receiving disability supports",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-18",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNOEM2UjJ4OE1pWEN3N2NZUGxPc3dBTGRkekE3bVRiX0ZYbGtybTZ2VGt3U0VjbmVTemhtdC1ObmF5aWFfVUVWbkUzQXZNVml3V1ZFMGFqZU5xN1U4QWVwdmctVzhqRURnUnpBbjlzV2w1cUpuVnJxV3VUZWk1NTY0ZGJ3dS1scHpHWE52MVZ0ZHA5Z2JXWk81RVJFaENJbGxOWmFxdEFLLVpyVmRuMWNRaUdfY3NyLXFRU1hIMVNpTjAxeVBWOV9sTWx4aGR1N0UzV0FySzctZW9Wanp0NVNaYll1VnBRY1QwOC1QN09XN2gtQzUtUTNIWUVyTnJWZkgxcE4xTU5PbU1fT0xoV055OUJuX3F5NXZId0cwTlFFZFVSdTM1SjJ4cFZ2UjQ?oc=5"
+    },
+    {
+      "id": "news-41b09ff8f8bb",
+      "source": "news",
+      "title": "Veterans may have paid too much for long-term care for years due to federal error",
+      "communities": [
+        "veterans"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-18",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CRU9wM3dPSEdEejlHSzBaWUp0dmxBZjVibjVmTWlFYks2VnNWcFZEWDQxSDBUcF9hWGN0TThSa0gyRUYzTmk1dzktc2h1MHpNaEZmeG9MX0JHRFNaVFNMQ29yOG1vYWlud2hXQUQ0V1BNMENhaExR?oc=5"
+    },
+    {
+      "id": "news-d35222b6c427",
+      "source": "news",
+      "title": "Serving You: Disability Assessments and Reassessments from VAC",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-18",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdzMydXUzQW5FWUxsa0plTmd5MnVTN2tNbmhGUEVjOTdsUHhYdDNuQlRKckRLWFFkX3ZQaERYSzMyTVdWdEt3aHdCYzJTM2haU0thbEpQajM3cUZZNGNZYmpqTHhzcHJaWHpKX1AxVmJrdkR6MnI1bnk3eTgzTjNrb0Z6RzNsWl9kWGczb1dWVEZ5VWM?oc=5"
+    },
+    {
+      "id": "news-c80b0cec2bb8",
+      "source": "news",
+      "title": "ATTENTION CANADIAN MILITARY FAMILIES : Did you or a family member receive VAC disability benefits between 2003 and 2023?",
+      "communities": [
+        "disability",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-18",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYVlJQzJNWUM2QnpsWGRWbkV4MUh2WlJFaFlMMG5KWl8tMWw1U0tMZEQ4SE82bUJZem1Nang4NlVIVXpGTm1ZZ0g1dEVEU3ltdzlka0ttTUhvVVBXVGRLdHNJa2loWW5mcFlPSHFSUWRJdmg2SG9aRy01T1Z1UE56VXJISWY1d1N5RXNURjFwdEdCVzczRjNBdllkMXR3bGpRdlBpZjZ0aTlCZGFYWU51d2dicUtXdGg1WHhab2l4VVJVbTM3eHgtUE1BY2N3V1lzRjVIWXVRS1BNQmt1akE?oc=5"
+    },
+    {
+      "id": "news-4e2573470415",
+      "source": "news",
+      "title": "Veterans Affairs Canada has been overestimating the number of veterans for decades",
+      "communities": [
+        "veterans"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-18",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVUR3WGxXTktCSzNRdHRpSm5aaVpYZHQ4cGhlRFQ0aHJ6cGFjeFJCbGVncGhZMDE2NWlhM2EyWml3Y0lhZXo3SV9WcHF3aW8yLUNtcmlqODlaOVpDNXBuVUNXUW5lMnQtaWFoeXhUbTd4YWFIaFdEcEZoLWNrOEpTeHlaMnVDM2l6dEE?oc=5"
+    },
+    {
+      "id": "news-03c7ac00661f",
+      "source": "news",
+      "title": "Royal Canadian Legion pens letter to PM to clear disability benefits backlog for Veterans",
+      "communities": [
+        "disability",
+        "veterans"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-18",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTU9TTnhNUVl2NTZzRGRPWDRRWWhOeTNTVzVCUGdWTnloRl9aNk5nWHR1MGxUbUI3VUlsMU1qVTNfb1VMdVJLUnhEdzF3NTM2RFFrT0I3QzFMOWcyTThreWV4Y0J5NTlqX3g0QkJuYk94bG1BRnlZZURGcUZRaGFiX1h6S2t0OHBKemdDZXVDZ2dqS2NLdWRKQi1JWHVxOERXcDJ2TWlMNkR2NjZIUHQtZVBRSExEMzh3ei1tWExSMlJRMVJlUVpnUzFUZTM4a0tFcWlV?oc=5"
+    },
+    {
+      "id": "news-ac1196b5ad24",
+      "source": "news",
+      "title": "Lawsuit over massive Veterans Affairs accounting error to cost Ottawa almost $1 billion",
+      "communities": [
+        "veterans"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-18",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNempHdktjZno2RHhfVGw4ZnZvSXk2c2V4UHNSQ01paTV6M1A5MDVqVnBVWHY4MmY1Ty1zTHltMGJhckJmemw0azN6dXhhRzQtZmhrcG9DamVyXzFMQjlnenpTOEpZLWV3RlkyelptQzNUZHY2WXRUb0FsOG5ueGtIRUprYVA?oc=5"
+    },
+    {
+      "id": "6b23f3123dc5",
       "source": "x",
-      "title": "Newfoundland and Labrador has introduced legislation to increase injured workers’ income replacement from 85% to 90% of net pre-injury earnings. If passed, the change will take effect Dec. 1, 2026, al",
+      "title": "Eight workers' compensation boards in Canada, including Nova Scotia's, hold $4.5 billion above their funding targets. Business groups want it sent back to employers. Injured workers waiting over a yea",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "CA-ATL",
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://x.com/RetailCouncil/status/2122344060769706159"
+      "url": "https://x.com/DannyCavanaghns/status/2123032630967074852"
     },
     {
-      "id": "3ebc6a473618",
+      "id": "e9ca1da2fb34",
       "source": "x",
-      "title": "🤔 Think you know how NY workers’ compensation works? Misconceptions can leave injured workers confused about their rights and benefits. ⚖️ Know the facts and protect your rights! https://t.co/2n8vBAxX",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-17",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/bjbroderick/status/2122494934674743729"
-    },
-    {
-      "id": "f96eb582d1df",
-      "source": "x",
-      "title": "Meet Zachary Dworken—tireless advocate for New York’s injured workers since 2015. He fights for your rights, challenges insurance carriers, and builds strong client relationships.   Need help after a ",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-17",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/MDASRlaw/status/2122383002973974538"
-    },
-    {
-      "id": "2fd0958cbe75",
-      "source": "x",
-      "title": "Tell the WSIB and the Government: Halt the Office Closures and Local Job Cuts",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-17",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/SmilingFlower/status/2122669595127423120"
-    },
-    {
-      "id": "d0362aee365b",
-      "source": "x",
-      "title": "On November 10, we celebrated WSIB’s $1 million commitment to the London Veterans Village. This investment brings hope, opportunity and a brighter future for Veterans experiencing homelessness. Thank ",
+      "title": "@PGraves38183 @ctvottawa Yep. The dollar store workers have no benefits and almost no rights.  Get injured? Good luck on welfare.",
       "communities": [
         "injured_workers",
-        "veterans"
+        "welfare_social"
       ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-17",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/homes4heroesfdn/status/2122419599014543396"
-    },
-    {
-      "id": "492caa286b03",
-      "source": "x",
-      "title": "⏰Deadline  alert! Working with ASD or WSIAT? This workshop will help you understand the goals and challenges of legal submission writing and how to address them.👉 https://t.co/I9nIVnyB0k  #WorkersComp",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-17",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://x.com/Preventionlink/status/2122395906209128937"
-    },
-    {
-      "id": "5b4bf2bfc001",
-      "source": "x",
-      "title": "Manitoba’s Workers Compensation Board returned $212 million in rebates to employers over two years, but the Canadian Federation of Independent Business urges legislation to make such rebates mandatory",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-MB",
-      "date": "2026-11-17",
+      "jurisdiction": "INTL",
+      "date": "2026-11-18",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://x.com/winnipegsun/status/2122419543121236086"
+      "url": "https://x.com/anarchoyeg/status/2122874702964412608"
     },
     {
-      "id": "fd04a1b09545",
+      "id": "381aeb6dee79",
       "source": "x",
-      "title": "My computer is malfunctioning. I'm in Safe mode right now. Also have been hustling washing dishes and busing tables to feed myself since august when I lost my workers comp for Bogus reasons and now ha",
+      "title": "In New York, injured construction workers may have legal options beyond workers' compensation. At Siler &amp; Ingber, our experienced attorneys fight to protect injured workers' rights.  Injured? Call",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "INTL",
-      "date": "2026-11-17",
+      "date": "2026-11-18",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/SilerandIngber/status/2122770577136005340"
+    },
+    {
+      "id": "ec3e8e27b7e8",
+      "source": "x",
+      "title": "@MCirielloMPP An insult to first first responders  Any idea how much treatment costs. Not all covered by WSIB!  Billions to friends and donators!",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-18",
       "flywheels": [
         "evidence"
       ],
-      "url": "https://x.com/SpankyGolliher/status/2122605878142792049"
+      "url": "https://x.com/BannerTap/status/2122716530945212508"
     },
     {
-      "id": "82e437cfdd6b",
+      "id": "da57e6738cb2",
       "source": "x",
-      "title": "@tylerwatt So do the people on ODSP and no one, even you fights for them now.",
+      "title": "PASS #Bill57, Respecting #InjuredWorkers Act, 2022 to Reduce #Poverty in #Ontario by stopping the Workplace Safety &amp; Insurance Board(#WSIB) from DEEMING #Workers into #Poverty after a workplace in",
       "communities": [
-        "disability",
+        "injured_workers",
         "welfare_social"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "flywheels": [
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://x.com/The280Times/status/2122672570294010275"
-    },
-    {
-      "id": "2acafb0a1905",
-      "source": "x",
-      "title": "Please RT URGENT nothing in yetI need to raise $315 for a return ticket up North 11 hours away I got bad news and need to go be with mom  anything amount helps   gemini_girl1973@hotmail.com  #ODSP #Mu",
-      "communities": [
-        "disability",
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-17",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/CanadianbabyEH/status/2122655588941271501"
-    },
-    {
-      "id": "919e9de03bb5",
-      "source": "x",
-      "title": "It being legal, me having autism but no family support nor income apart from ODSP, with the exception of finding empty beer cans, which takes a large amount of time and effort for a very small amount ",
-      "communities": [
-        "disability",
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-17",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/wellandcanal/status/2122632554364719221"
-    },
-    {
-      "id": "c6f846f4408f",
-      "source": "x",
-      "title": "Good night ODSP mom still needing help with bills I don’t want my services cut goal $250 anything helps e-transfer panther226@hotmail.com pls repost @mutualaidinca @Ciel2114 @nejsnave and all who can ",
-      "communities": [
-        "disability",
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-17",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/JTkksmom/status/2122515272557035923"
-    },
-    {
-      "id": "22edacc4b9bf",
-      "source": "x",
-      "title": "WHILE THEY STEAL 15 MILLION DOLLARS PER MONTH IN CANADA DISABILITY BENEFIT CLAWBACK'S FROM AISH AND ADAP RECEIPIENT'S.   YOU KNOW THE SEVERELY HANDICAPPED THEY SAID, COULD WORK, WHEN WE ARE SITTING AT",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-17",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/BSwirlsi/status/2122661223993127312"
-    },
-    {
-      "id": "e6bd7994bfa8",
-      "source": "x",
-      "title": "@MelissaLantsman for all this outrage about the Different versions of MAiD coming from your party to be true.. then you MUST fight for the Canada Disability Benefit to be raised to what it was PROMISE",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "CA-FED",
-      "date": "2026-11-17",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/The280Times/status/2122529360515408054"
-    },
-    {
-      "id": "27904d326107",
-      "source": "x",
-      "title": "@AndrewScheer RAISING THE CANADA DISABILITY BENEFIT TO WHAT THEY PROMISED IS LIFE AND DEATH TOO !  WHERE THE FUCK ARE YOU ON THAT ? Your party promised to hold them accountable.   Do you get how many ",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "CA-FED",
-      "date": "2026-11-17",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://x.com/The280Times/status/2122516275238760469"
+      "url": "https://x.com/occupywsib/status/2122691947240493542"
     }
   ],
-  "generated": "2026-11-17"
+  "generated": "2026-11-18"
 }
