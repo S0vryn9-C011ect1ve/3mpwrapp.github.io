@@ -1,20 +1,23 @@
 {
-  "total": 2958,
-  "verified": 5,
+  "total": 2979,
+  "verified": 26,
   "by_community": {
-    "disability": 1215,
-    "accessibility": 874,
+    "disability": 1222,
+    "accessibility": 876,
     "injured_workers": 709,
-    "welfare_social": 629,
-    "elderly": 227,
-    "veterans": 53,
-    "public_allies": 12,
-    "vulnerable_communities": 7
+    "welfare_social": 631,
+    "elderly": 230,
+    "veterans": 57,
+    "public_allies": 13,
+    "vulnerable_communities": 7,
+    "indigenous": 3,
+    "human_rights": 3,
+    "uncrpd": 1
   },
   "by_jurisdiction": {
-    "CA-ON": 1318,
+    "CA-ON": 1320,
     "INTL": 1088,
-    "CA-FED": 360,
+    "CA-FED": 379,
     "CA-AB": 131,
     "CA-BC": 24,
     "CA-NT": 8,
@@ -32,14 +35,14 @@
     "x": 2078,
     "reddit": 484,
     "news": 379,
+    "manual_curation": 22,
     "wsib-research-dossier": 15,
-    "themis_justice_watch": 1,
-    "manual_curation": 1
+    "themis_justice_watch": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
     "unverified_social": 2941,
-    "official_confirmed": 4,
+    "official_confirmed": 25,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
     "?": 9,
@@ -243,32 +246,32 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTlhkaW9qWWctbGdHend5YzVQaFRqOElHWDAtMERiRnU0d21zMktQeGJBWjdnc2lnQ3IxdVVpRk9ZSXRDVlNxSFhjdGFfZVNMdTFQT0NtMTFJNGlMZVpnYTZOdUpBeUxOMGtCMS1xanVZLW5wbzJ3LVhyV1NCbEVGNXY5cE9ESTlPNTFpcVU4bEVJNXpSZWtfakVBNTBUZ1FK?oc=5"
     },
     {
-      "id": "1d8db1446b9e",
-      "source": "x",
-      "title": "Newfoundland and Labrador has introduced legislation to increase injured workers’ income replacement from 85% to 90% of net pre-injury earnings. If passed, the change will take effect Dec. 1, 2026, al",
+      "id": "2ed20eddc28e",
+      "source": "manual_curation",
+      "title": "ODSP (Ontario)",
       "communities": [
-        "injured_workers"
+        "disability"
       ],
-      "jurisdiction": "CA-ATL",
-      "date": "2026-11-17",
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-19",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://x.com/RetailCouncil/status/2122344060769706159"
+      "url": "https://www.ontario.ca/page/ontario-disability-support-program"
     },
     {
-      "id": "3ebc6a473618",
-      "source": "x",
-      "title": "🤔 Think you know how NY workers’ compensation works? Misconceptions can leave injured workers confused about their rights and benefits. ⚖️ Know the facts and protect your rights! https://t.co/2n8vBAxX",
+      "id": "adea097d324a",
+      "source": "manual_curation",
+      "title": "VAC Disability Benefits",
       "communities": [
-        "injured_workers"
+        "veterans"
       ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-17",
+      "jurisdiction": "CA-FED",
+      "date": "2026-11-19",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://x.com/bjbroderick/status/2122494934674743729"
+      "url": "https://veterans.gc.ca/en/financial-programs-and-services/compensation-illness-or-injury/disability-benefits"
     }
   ],
   "generated": "2026-11-19"
