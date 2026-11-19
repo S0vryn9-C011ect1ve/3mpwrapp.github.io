@@ -41,6 +41,67 @@ personalized: true
   </div>
 </section>
 
+<!-- Upcoming events — next 7 days, live from /api/events.json (same feed as /events/) -->
+<section id="upcoming-events-7d" aria-labelledby="upcoming-events-heading" style="max-width:1200px;margin:0 auto 4rem;padding:1.75rem;background:var(--card-bg,#1a2332);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
+  <h2 id="upcoming-events-heading" style="margin:0 0 0.5rem">Upcoming events (next 7 days)</h2>
+  <p style="margin:0 0 1rem;opacity:0.9">Live from the <a href="/events/">events calendar</a>. Updates automatically.</p>
+  <div id="events-simple-container"><p>Loading upcoming events…</p></div>
+  <p style="margin:1rem 0 0"><a href="/events/">View all events →</a></p>
+</section>
+<script>
+(function () {
+  function esc(s) {
+    return String(s == null ? '' : s)
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+  async function loadSimpleEvents() {
+    var container = document.getElementById('events-simple-container');
+    if (!container) return;
+    try {
+      var response = await fetch('/api/events.json?ts=' + Date.now(), { cache: 'no-store' });
+      if (!response.ok) throw new Error('HTTP ' + response.status);
+      var events = await response.json();
+      if (!Array.isArray(events)) events = events.events || [];
+      var now = new Date();
+      var sevenDaysFromNow = new Date(now.getTime() + (7 * 24 * 60 * 60 * 1000));
+      var upcomingEvents = events
+        .filter(function (e) {
+          var eventDate = new Date(e.date || e.dateISO || e.start);
+          if (isNaN(eventDate.getTime())) return false;
+          if (String(e.id || '').indexOf('health-') === 0) return false;
+          return eventDate >= now && eventDate <= sevenDaysFromNow;
+        })
+        .sort(function (a, b) {
+          return new Date(a.date || a.dateISO || a.start) - new Date(b.date || b.dateISO || b.start);
+        })
+        .slice(0, 7);
+      if (upcomingEvents.length === 0) {
+        container.innerHTML = '<p>No events in the next 7 days. See the <a href="/events/">full calendar</a>.</p>';
+        return;
+      }
+      container.innerHTML = '<ul style="list-style:none;padding:0;margin:0">' + upcomingEvents.map(function (e) {
+        var date = new Date(e.date || e.dateISO || e.start);
+        var dateStr = date.toLocaleDateString('en-CA', { weekday: 'short', month: 'short', day: 'numeric', timeZone: 'America/Toronto' });
+        var timeStr = date.toLocaleTimeString('en-CA', { hour: 'numeric', minute: '2-digit', timeZone: 'America/Toronto' });
+        var loc = e.location ? '<div>' + esc(e.location) + '</div>' : '';
+        return '<li style="padding:0.75rem 0;border-bottom:1px solid rgba(255,255,255,0.12)">' +
+          '<div><strong>' + esc(e.title) + '</strong></div>' +
+          '<div>' + esc(dateStr) + ' · ' + esc(timeStr) + ' ET</div>' + loc +
+          '</li>';
+      }).join('') + '</ul>';
+    } catch (err) {
+      console.error('Events load error:', err);
+      container.innerHTML = '<p>Unable to load events. See the <a href="/events/">events calendar</a>.</p>';
+    }
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', loadSimpleEvents);
+  } else {
+    loadSimpleEvents();
+  }
+})();
+</script>
+
 <!-- What 3mpwrapp Offers -->
 <section class="features-highlight" style="margin-bottom:4rem" aria-label="What 3mpwrapp offers">
   <h1 style="text-align:center;margin-bottom:1.5rem">What 3mpwrapp Offers</h1>
