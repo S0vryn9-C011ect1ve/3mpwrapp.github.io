@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-14",
+  "timestamp": "2026-11-14T17:45:50.586Z",
+  "count": 8,
+  "minScore": 3.5,
+  "items": [
+    {
+      "title": "The Disability Bulletin",
+      "link": "https://linktr.ee/thedisabilitybulletin",
+      "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
+      "score": 10,
+      "pubDate": "2026-11-14T17:45:50.583Z"
+    },
+    {
+      "title": "More than 150 organizations call for a new approach to defining disability in Canada",
+      "link": "https://disabilityalliancebc.org/more-than-150-organizations-call-for-a-new-approach-to-defining-disability-in-canada/",
+      "description": "",
+      "score": 21.5,
+      "pubDate": "Tue, 27 Oct 2026 19:02:47 +0000"
+    },
+    {
+      "title": "Manitoba Government Advocacy Helps Expand Access to Spinal Muscular Atrophy Treatment",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75917",
+      "description": "",
+      "score": 10.5,
+      "pubDate": "Wed, 28 Oct 2026 15:27:00 CDT"
+    },
+    {
+      "title": "Manitoba Government Changes Regulations to Limit Rent Hikes and Expand Rent Control to Keep Rent Affordable: Premier",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75837",
+      "description": "",
+      "score": 10.6,
+      "pubDate": "Tue, 20 Oct 2026 12:57:00 CDT"
+    },
+    {
+      "title": "Letter to Minister Hajdu: Budget 2026 Recommendation to Double the Child Disability Benefit",
+      "link": "https://disabilityalliancebc.org/letter-to-minister-hajdu-budget-2026-recommendation-to-double-the-child-disability-benefit/",
+      "description": "",
+      "score": 9,
+      "pubDate": "Wed, 21 Oct 2026 21:56:05 +0000"
+    },
+    {
+      "title": "From Two Sad Stories, a Glint of Hope",
+      "link": "https://thetyee.ca/Culture/2026/11/13/From-Two-Sad-Stories-Glint-Hope/",
+      "description": "A grey whale washed up dead on sayayɩn, Texada Island. Now, it’s bound for a place of honour in a rebuilt interpretive centre.",
+      "score": 6,
+      "pubDate": "Sat, 14 Nov 2026 01:40:00 +0000"
+    },
+    {
+      "title": "Fourth Session of the 43rd Manitoba Legislature to Open Tuesday, Nov. 17 With Speech from the Throne",
+      "link": "https://news.gov.mb.ca/news/index.html?item=76057",
+      "description": "",
+      "score": 4.5,
+      "pubDate": "Fri, 13 Nov 2026 16:19:00 EST"
+    },
+    {
+      "title": "Province Advises Clocks will not Change this Weekend as Manitoba Moves to Permanent Daylight Saving Time",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75937",
+      "description": "",
+      "score": 4.5,
+      "pubDate": "Thu, 29 Oct 2026 11:43:00 CDT"
+    }
+  ]
+}

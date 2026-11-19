@@ -1,0 +1,73 @@
+---
+layout: post
+title: "Daily News Curation - 2026-11-17"
+date: 2026-11-17
+tags: [highlights]
+categories: [curation, news]
+excerpt: "Today's curated disability rights, accessibility, and social policy news from across Canada."
+---
+
+# Daily News Curation - 2026-11-17
+
+Curated 11 items from disability, accessibility, and social policy sources.
+
+## 🌟 Featured: The Disability Bulletin
+
+### The Disability Bulletin
+Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.
+📍 [Read More](https://linktr.ee/thedisabilitybulletin)
+
+---
+
+## Additional Stories
+
+### 1. After the rupture: Canada’s pivot away from the U.S. must not stop at China
+The recent elections in the United States resulted in a decisive victory for Democrats, who regained control of both the House and the Senate, and handed the Republicans one of the worst midterm defeats in decades. What would appear to be a vote of non-confidence in Donald Trump is likely to hinder many of his […]
+[Source](https://policyoptions.irpp.org/2026/11/china-trade-diversification/)
+**Score:** 16.50
+
+### 2. Planning for competition
+Canada needs more competition. On that, there is something close to an economic consensus. The OECD, IMF (Page 22) and Bank of Canada have all made the case that stronger competition and business dynamism are essential to lifting productivity. Higher productivity, in turn, is key to making life more affordable. Ottawa has already started to […]
+[Source](https://policyoptions.irpp.org/2026/11/canada-competition-plan/)
+**Score:** 14.15
+
+### 3. In Walmart’s Shadow, a Little Fish Hangs On
+‘We got pretty excited,’ say finders of an endangered sucker species. Now Surrey has Canada’s newest ‘key biodiversity area.’
+[Source](https://thetyee.ca/News/2026/11/17/Walmart-Shadow-Little-Fish-Hangs-On/)
+**Score:** 10.50
+
+### 4. Please Advise! Is Canada a Climate Baddie?
+We need to stand up to Trump! So screw those emissions goals?
+[Source](https://thetyee.ca/Opinion/2026/11/17/Please-Advise-Canada-Climate-Baddie/)
+**Score:** 10.50
+
+### 5. Manitoba Government Invests in Expanded Supports for Youth in Northern Manitoba
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75977)
+**Score:** 9.50
+
+### 6. Under Harper, Alberta’s Public Pension Fund Leans into Crypto
+Financial experts question AIMCo’s increased investment in bitcoin firms. Part 2 of a Tyee investigation.
+[Source](https://thetyee.ca/News/2026/11/17/Harper-Alberta-Public-Pension-Fund-Crypto/)
+**Score:** 8.10
+
+### 7. Manitoba Government Bans One-To-One Communication Between School Staff and Students on Unmonitored Platforms
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75878)
+**Score:** 8.50
+
+### 8. Manitoba Government Invests $100,000 in Brandon Makerspace
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75877)
+**Score:** 7.50
+
+### 9. UCP introduces ‘No More Fair Elections Act’ in Alberta Legislature
+Rabble.ca — progressive Canadian news
+[Source](https://rabble.ca/politics/canadian-politics/ucp-introduces-no-more-fair-elections-act-in-alberta-legislature/)
+**Score:** 4.50
+
+### 10. Province Advises Snowplows Ready as Blizzard Conditions Forecast for Northern Manitoba
+Government of Manitoba press release
+[Source](https://news.gov.mb.ca/news/index.html?item=75879)
+**Score:** 4.50
+

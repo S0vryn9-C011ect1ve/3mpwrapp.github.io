@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-13",
+  "timestamp": "2026-11-13T19:21:02.096Z",
+  "count": 9,
+  "minScore": 3.5,
+  "items": [
+    {
+      "title": "The Disability Bulletin",
+      "link": "https://linktr.ee/thedisabilitybulletin",
+      "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
+      "score": 10,
+      "pubDate": "2026-11-13T19:21:02.092Z"
+    },
+    {
+      "title": "Rural Canada is not an innovation desert. It’s a blind spot",
+      "link": "https://policyoptions.irpp.org/2026/11/rural-canada-ai-funding/",
+      "description": "In October, the federal government added $500 million over five years to its regional artificial intelligence initiative, bringing the program’s total to $700 million. A month earlier, it launched a $13-million national AI literacy initiative with Amii, the Alberta Machine Intelligence Institute. The national strategy names rural communities as a priority and both programs deliver […]",
+      "score": 24.8,
+      "pubDate": "Fri, 13 Nov 2026 11:30:00 +0000"
+    },
+    {
+      "title": "The Tyee Podcast: The Rise, Fall and Return of DULF",
+      "link": "https://thetyee.ca/Tyeenews/2026/11/13/Rise-Fall-Return-Drug-User-Liberation-Front/",
+      "description": "Health reporter Michelle Gamage on how one local group tried to fight the toxic drug crisis on its own terms.",
+      "score": 14.5,
+      "pubDate": "Fri, 13 Nov 2026 22:43:00 +0000"
+    },
+    {
+      "title": "Alberta Conservatives recycle promise to build more urgent care centres",
+      "link": "https://rabble.ca/politics/canadian-politics/alberta-conservatives-recycle-promise-to-build-more-urgent-care-centres/",
+      "description": "",
+      "score": 11.5,
+      "pubDate": "Thu, 12 Nov 2026 20:20:57 +0000"
+    },
+    {
+      "title": "Manitoba Government Announces Start of Construction on Neonatal Intensive Care Unit at Brandon Regional Health Centre",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75957",
+      "description": "",
+      "score": 14.6,
+      "pubDate": "Thu, 05 Nov 2026 14:25:00 EST"
+    },
+    {
+      "title": "Manitoba Government Partners with Treaty One Nations Inc. to Launch Grant Program",
+      "link": "https://news.gov.mb.ca/news/index.html?item=76038",
+      "description": "",
+      "score": 10.5,
+      "pubDate": "Fri, 13 Nov 2026 12:00:00 EST"
+    },
+    {
+      "title": "Manitoba Government Celebrates Reopening of Modernized Thompson Courthouse",
+      "link": "https://news.gov.mb.ca/news/index.html?item=76037",
+      "description": "",
+      "score": 7.5,
+      "pubDate": "Fri, 13 Nov 2026 10:18:00 EST"
+    },
+    {
+      "title": "New Vancouver School Board Attempts to Improve Transparency",
+      "link": "https://thetyee.ca/News/2026/11/13/New-Vancouver-School-Board-Attempts-Improve-Transparency/",
+      "description": "Trustee Steve Cardwell pushes back against rules restricting public participation and how agendas are set.",
+      "score": 3.9000000000000004,
+      "pubDate": "Fri, 13 Nov 2026 23:35:00 +0000"
+    },
+    {
+      "title": "How Danielle Smith Blew Her Chance to Build a UCP Dynasty",
+      "link": "https://thetyee.ca/Opinion/2026/11/12/Danielle-Smith-Ignored-Ralph-Klein-Lessons-Blew-Dynasty-Chance/",
+      "description": "Ralph Klein’s lessons in governing for all Albertans were ignored.",
+      "score": 3.9000000000000004,
+      "pubDate": "Thu, 12 Nov 2026 19:44:00 +0000"
+    }
+  ]
+}
