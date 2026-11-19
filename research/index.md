@@ -7,12 +7,12 @@ permalink: /research/
 
 ---
 <!-- RESEARCH_COVERAGE_START -->
-**Daily research coverage (2026-11-18):** 22 evidence cards collected today · 11 verified against primary sources (50%) · user bases thin today: Indigenous Communities, Seniors / Elders, Advocates (Human Rights / UNCRPD), Public Allies. Coverage is measured daily by the research pipeline and recorded in the evidence ledger — see [Flywheels of Change](/flywheels-public.html).
+**Daily research coverage (2026-11-19):** 66 evidence cards collected today · 21 verified against primary sources (32%) · user bases with fewest cards today: Public Allies (1), Indigenous Communities (3), Advocates / Human Rights (3), Veterans (4). Coverage is measured daily by the research pipeline and recorded in the evidence ledger — see [Flywheels of Change](/flywheels-public.html).
 <!-- RESEARCH_COVERAGE_END -->
 
 ## Navigate by Community (9 user bases — fully inter-linked)
 
-Every feature, guide, resource, and research section links directly to each community's dedicated subsection. **Updated: November 18, 2026.** All links verified — nothing invented.
+Every feature, guide, resource, and research section links directly to each community's dedicated subsection. **Updated: November 19, 2026.** All links verified — nothing invented.
 
 - **🌿 Indigenous Communities** → [User Guide · Languages & Protocols](/user-guide/#indigenous-languages) · [Beta Guide · Testing Protocols](/beta-guide/#what-to-test) · [Features · Language Support](/features/#indigenous-language-support) · [Research · Health & Disability](/research/#indigenous-health-disability)
 - **🏗️ Injured Workers** → [User Guide · Evidence & Appeals](/user-guide/#evidence-locker) · [Beta Guide · Core Workflows](/beta-guide/#core-workflows) · [Features · Evidence & Advocacy](/features/#evidence) · [Research · WSIB/WSIAT & Tribunals](/research/#injured-workers--wsibwsiat)
@@ -52,14 +52,14 @@ and templates that apply to you.
 ## 📚 Guides (by community)
 
 ### Indigenous Communities
-- [Indigenous Health & Disability — Coverage Analysis](/research/indigenous-health-disability/) — verified NIHB / Indigenous Services Canada tracking from `3mpwrapp_coverage_gap_analysis.json` (First Nations / Inuit); user-guide sections (`#indigenous-languages`, `#indigenous-rights`); crisis resources (`.service-card.indigenous`); events (`indigenous-peoples` 2026-06-21, `indigenous-disability` 2026-11-01). Full scope: health, disability rights (`indigenous_disability_rights` / `indigenous_accessibility`), cultural protocols (`indigenousProtocols`), traditional knowledge (`traditionalKnowledge`), ceremonial (`ceremonial`), land acknowledgment (`landAcknowledgment`), data sovereignty (`indigenousDataSovereignty`), plus language support (6+ languages). Nothing invented.
+- [Indigenous Health & Disability — Coverage Analysis](/research/#indigenous-health-disability) — verified NIHB / Indigenous Services Canada tracking from `3mpwrapp_coverage_gap_analysis.json` (First Nations / Inuit); user-guide sections (`#indigenous-languages`, `#indigenous-rights`); crisis resources (`.service-card.indigenous`); events (`indigenous-peoples` 2026-06-21, `indigenous-disability` 2026-11-01). Full scope: health, disability rights (`indigenous_disability_rights` / `indigenous_accessibility`), cultural protocols (`indigenousProtocols`), traditional knowledge (`traditionalKnowledge`), ceremonial (`ceremonial`), land acknowledgment (`landAcknowledgment`), data sovereignty (`indigenousDataSovereignty`), plus language support (6+ languages). Nothing invented.
 
 ### Injured Workers & WSIB/WSIAT
 - [WSIAT Complete Guide](/guides/wsiat-complete-guide/)
 - [WSIAT Back Injury Guide](/guides/wsiat-back-injury-guide/)
 - [WSIAT Chronic Pain Guide](/guides/wsiat-chronic-pain-guide/)
-- [WSIAT LOE (Loss of Earnings) Benefits](/guides/wsiat-loe-benefits-guide/)
-- [WSIAT NEL (Non-Economic Loss) Benefits](/guides/wsiat-nel-benefits-guide/)
+- [WSIAT LOE (Loss of Earnings) Benefits](/guides/wsiat-loe-benefits/)
+- [WSIAT NEL (Non-Economic Loss) Benefits](/guides/wsiat-nel-benefits/)
 - [WSIAT NEL + Chronic Pain Strategy](/guides/wsiat-nel-chronic-pain-strategy/)
 - [WSIAT Tactics & Survival Guide](/guides/wsiat-tactics-survival-guide/)
 - [WSIB → ODSP Pathway](/guides/wsib-to-odsp-pathway/)
@@ -148,7 +148,7 @@ and templates that apply to you.
 - [Data Sources & Methodology](/docs/DATA_SOURCES_METHODOLOGY/) — the canonical reconciliation of every contradictory stat on the site. **Read this first** if a number looks off.
 - [Research data sources](/research-data-sources/)
 - [Tribunal visualizations index](/tribunal-visualizations/)
-- [WSIAT vs BC WCAT — transparency divide](/research/tribunal-transparency/wsiat-vs-bc-wcat-transparency-divide/)
+- [BC WCAT — 100% unknown outcomes & systemic patterns](/blog/2026/04/29/bc-wcat-data-unknown-outcomes-systemic-patterns/)
 - [From Pattern to Policy](/research/campaigns/) — how member evidence becomes collective action
 - [Member Wins](/wins/) — real outcomes from the community
 

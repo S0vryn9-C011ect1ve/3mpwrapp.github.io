@@ -422,7 +422,7 @@ Expect 12-24 month wait for WSIAT hearing in busy years.
 
 **Ontario provides 13.4x more decisions with full transparency.**
 
-[Read full comparison →](//research/tribunal-transparency/wsiat-vs-bc-wcat-transparency-divide/)
+[Read the BC WCAT transparency report →](/blog/2026/04/29/bc-wcat-data-unknown-outcomes-systemic-patterns/)
 
 ---
 
