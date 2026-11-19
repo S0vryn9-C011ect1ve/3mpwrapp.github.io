@@ -1,43 +1,44 @@
 {
-  "total": 2426,
+  "total": 2958,
   "verified": 5,
   "by_community": {
-    "disability": 986,
-    "accessibility": 696,
-    "injured_workers": 593,
-    "welfare_social": 533,
-    "elderly": 182,
-    "veterans": 46,
-    "public_allies": 11,
-    "vulnerable_communities": 6
+    "disability": 1215,
+    "accessibility": 874,
+    "injured_workers": 709,
+    "welfare_social": 629,
+    "elderly": 227,
+    "veterans": 53,
+    "public_allies": 12,
+    "vulnerable_communities": 7
   },
   "by_jurisdiction": {
-    "CA-ON": 1088,
-    "INTL": 935,
-    "CA-FED": 248,
-    "CA-AB": 102,
+    "CA-ON": 1318,
+    "INTL": 1088,
+    "CA-FED": 360,
+    "CA-AB": 131,
     "CA-BC": 24,
-    "CA-NT": 7,
+    "CA-NT": 8,
     "CA-NB": 6,
     "CA-YT": 5,
-    "CA-SK": 3,
-    "CA-TERR": 2,
+    "CA-SK": 5,
+    "CA-MB": 5,
+    "CA-TERR": 3,
     "CA-NL": 2,
-    "CA-MB": 2,
     "CA": 1,
-    "CA-NU": 1
+    "CA-NU": 1,
+    "CA-ATL": 1
   },
   "by_source": {
-    "x": 1610,
+    "x": 2078,
     "reddit": 484,
-    "news": 315,
+    "news": 379,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1,
     "manual_curation": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 2409,
+    "unverified_social": 2941,
     "official_confirmed": 4,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -46,218 +47,229 @@
   },
   "recent": [
     {
-      "id": "1xhcsn9",
-      "source": "reddit",
-      "title": "TIL Adam DeVine was hit by a cement truck at age 11, breaking every bone in his legs. He spent two weeks in a coma, underwent 26 surgeries, and used a wheelchair during recovery. Today, he supports Ch...",
-      "communities": [
-        "elderly",
-        "disability"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-04",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.reddit.com/r/todayilearned/comments/1xhcsn9/til_adam_devine_was_hit_by_a_cement_truck_at_age/"
-    },
-    {
-      "id": "1xi69d8",
-      "source": "reddit",
-      "title": "BREAKING: Defense Secretary Pete Hegseth, Claims President Trump’s “Great Triumphal Arch” Will Help Defend Washington From Drones, But The DOJ Says He Won’t Be Available To Testify As Vietnam Veterans...",
-      "communities": [
-        "veterans"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-04",
-      "flywheels": [
-        "collective_action",
-        "evidence"
-      ],
-      "url": "https://www.reddit.com/r/InterstellarKinetics/comments/1xi69d8/breaking_defense_secretary_pete_hegseth_claims/"
-    },
-    {
-      "id": "1xls79d",
-      "source": "reddit",
-      "title": "Elderly couple facing homelessness in November",
+      "id": "news-91729676b089",
+      "source": "news",
+      "title": "Why Did Sienna Senior Living Inc. (TSX:SIA) Raise Its Long-Term Care Outlook? - Kalkine Media",
       "communities": [
         "elderly"
       ],
-      "jurisdiction": "CA-FED",
-      "date": "2026-11-04",
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-19",
       "flywheels": [
+        "evidence",
         "knowledge"
       ],
-      "url": "https://www.reddit.com/r/Calgary/comments/1xls79d/elderly_couple_facing_homelessness_in_november/"
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd0dMLVY4Qk9kVG9IRVlISndJdUEwRWNNYVh5NVp2aTR5d19DaDlCUDl3c2hlMkZvY0UycWJFXzdjb3hyOXNmcTBzYkFHTEZhQWxQejMwY0NBMHpBMWllY2ozb1AyTERfVE9QMHVVdjU3ZjlXZExhaWQxQWxzNFA3MGN2VW5mdzBXcHBBVkk3eDRDZjB6dElvV051V3pwUE9oTGdLUXFHQnBlcjRMNnBCeDBvcWs1NDgwSkE?oc=5"
     },
     {
-      "id": "1xn9j46",
-      "source": "reddit",
-      "title": "What would be your disabled drag name?",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-04",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.reddit.com/r/disability/comments/1xn9j46/what_would_be_your_disabled_drag_name/"
-    },
-    {
-      "id": "1xhzjb1",
-      "source": "reddit",
-      "title": "OHIP coverage",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-04",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.reddit.com/r/noburp/comments/1xhzjb1/ohip_coverage/"
-    },
-    {
-      "id": "1xneac1",
-      "source": "reddit",
-      "title": "We discuss our limitations a lot but,",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-04",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.reddit.com/r/disability/comments/1xneac1/we_discuss_our_limitations_a_lot_but/"
-    },
-    {
-      "id": "1xnhmsj",
-      "source": "reddit",
-      "title": "Extreme burnout/stress leave",
+      "id": "news-04ce7ea54bba",
+      "source": "news",
+      "title": "Executive compensation trends: rethinking incentive design - A&O Shearman",
       "communities": [
         "injured_workers"
       ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-04",
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-19",
       "flywheels": [
+        "evidence",
         "knowledge"
       ],
-      "url": "https://www.reddit.com/r/WorkcoverVic/comments/1xnhmsj/extreme_burnoutstress_leave/"
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM0htMmNIa2VTOWtka25NaG1pMVJXbTU1aVRZZElmT2ZrWTZsU1hHcFN4Z0Q3MkJUUERpUG52V0hyc0kwYXA4RkctS1B5Mnk4WWQwRlczRi1xelA5ZW83REtDSUU4dlBiY0RyZjBYSE5aQ0JhTko3VzdoRk81WWpCeUV2ZkF3RWhxbnNCbWN6S1ZjTzFTbDdYdkk1bkVYYXZzNF9ycVJpdGtycjJhdG4zSDg4RWNpNllpTS16ZHh1QjRDaEZNWTUzWjBLMVN5MWd6bDdrcE9mX3I0azBPc0pDVmpYZUR1SzlyQ1E4?oc=5"
     },
     {
-      "id": "1xn0ory",
-      "source": "reddit",
-      "title": "Xmas hamper",
+      "id": "news-594a5629900f",
+      "source": "news",
+      "title": "Higher comorbidity scores tied to disability among older adults: study - McKnight's Long-Term Care News",
       "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-19",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMmpLb19qZFFlNUt1NXJtcGUxNGFEbEY1UUIyejFKVE5WamVOTFl3SE41dHpDLWdfRXIzTWE0YkpsQTJwZnRSNi1oV3NyR2xkcXhCNmFPd18zVmV6OG9FS3Bub0E0XzhqNjNvX0FyR2VDMXZHWWtnMWluRkVQSGF2VlR0Vmc2UU9JdnRUeEdaQU9Ia3FmbkJ2bXVxVGJ3M2ZkaUNz?oc=5"
+    },
+    {
+      "id": "news-ca24b6c950ad",
+      "source": "news",
+      "title": "Physics-informed neural Volterra compensation enabling over 2600× efficiency improvement in 12,057-km ultra-long-haul coherent transmission - Nature",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-19",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qVkRoczc5REVqV3hqZTg4RzFQUTN4Nl9LN0ExT0licjJ0aTFlbXpTNkFXV2l4RVBwZnlOYnA4ZkJ0Z0VtX0lsekREejdTUC1uVGVlZTdHakdOaXQ0Smo4?oc=5"
+    },
+    {
+      "id": "news-e5ca29729c16",
+      "source": "news",
+      "title": "Applications open for grants for education and equipment for disabled people with long-term support needs - reykjavik.is",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-19",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbzhaVkR4MXVpVG9DZGlTSVgtd3gxSkhyRGwxQ0lHSzRORDRsUHBVZElKRmg4NG9Qa2thZjZpdHFKWmlldjNQeWdvSUZiY3d1N3ZGSkItVjlNUUNfVnhNZ2I5MW1QRWxBblpXdjFNQzVRVEwzMVFVRGhNaHQzQmZyaUt0cjBuejhLLVRlNmR1X1RSZ0Y1OUtPNzd6NnJXVl8tM3dvcElCbk9POXdBX3BOU3RRS2dRbmxNc2xsdnB1WQ?oc=5"
+    },
+    {
+      "id": "news-28f0c2ca0edb",
+      "source": "news",
+      "title": "Everything you need to know about EU261 flight compensation - The Points Guy",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-19",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8ySGlxbjB6c3NxWEd1QURMdjkxMVF2SG5PcDg2TlB3QXJyVlQ1WHg5enc5b1hsZlIybnhfekQzZjNuT1BSUTFmXzNaRUxKUkhvYkgyaHRuTUo5NElUMjdnQXh5b0VNazRyN1Bibmg5dWhmdw?oc=5"
+    },
+    {
+      "id": "news-01dc6932cd53",
+      "source": "news",
+      "title": "Rail industry extends the Disabled Persons Railcard eligibility to help more people access discounted rail travel - Rail Delivery Group News",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-19",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaXM3TExxeUE0eUJnNjAtazAwN1BQTU1TRGFla2NVYUtkd3pLRVlqTTFPZ2NoeWpCRTdfVlE0U3FMb015TEpIbFpTZ2tYczIxZWVMU3N0TWtBX3N5cjF4TmpCME9QUUlPdS1ENzk5VV8wd2J2eGhXQWhXRDNuYUFXOTg2NVNOUXdFQ05HQ1NpYmRIbEdfaVpmYUREMWw3QVBYT3piNmF1NFA2U0NISUVKUDBGcUN3clNDb1dzTUhFOWlCS0RRYXprc1V4YmtyeHBUX2ppZEpWQUp1ZHBGSjlZOGlEU1dsdmxZNlE?oc=5"
+    },
+    {
+      "id": "news-ddda6ae1accd",
+      "source": "news",
+      "title": "A Health Beliefs Model of Long‐Term Prescription Opioid Use for Chronic Pain - Wilson - 2026 - Pain Practice - Wiley Online Library",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-19",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50VjV0YUQ2MWdqRjlDU3pnYWdFSjlaMkF3bnUzZmJtSHhqNnU2dklJeXVmVU1KN0tadFZZVjRRWUx2Ulh4dm1qRDd3azJsbjlkejFqdTZHV3ZTS0xwWlBKeXMxVFpvUFdyNzNz?oc=5"
+    },
+    {
+      "id": "news-e25ca739e0de",
+      "source": "news",
+      "title": "Chronic pain can be treated — so why are millions still suffering? - Nature",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-19",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80UE9IX203MWJxX2VPa1AwX0x0RUp0RmRsQ242RklUeFRyNENiYWRNNnRHU25LVWxiaW1OaUd5YnFJczJPVmM3TG9sY29BWm1EcGJqNXU0OGJjMVZNTm1RcTlPREtoaVNXUWxlbTBRQQ?oc=5"
+    },
+    {
+      "id": "news-3dae76767d88",
+      "source": "news",
+      "title": "Erroneous Compensation for Long-Latency Feedback Delays as Origin of Essential Tremor - Journal of Neuroscience",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-19",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2VTZQdGMtNmg2eDFMTUdEUkpteFhlUGlMRmpyV19DSG83azFndldleHVoOUZIOU9NeGhnYVliM2ZWbWZPRG1vVHpCMlZMZ29INW10V25VWnRaWmxkalpYag?oc=5"
+    },
+    {
+      "id": "news-18c73f367a08",
+      "source": "news",
+      "title": "Say on Pay: CEO Compensation and the Long Tail of Shareholder Dissent - Sustainalytics",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-19",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPS054WW9PQkZqeTBEU3VzWWRTazZMR0xVNTloT1U0OWVHZndUX2pIcHJnWG5TWFNvUWd0Y21mZmVEMDFJWTJCd05jNm5ZaGpJV1plbjl3eTlMMVgtSnFEY1l3bm5QMWpWc1h4NkprTWVVN1JKVm0zUk9pcnZSMFhIaldhc19qSDRQVm15VzlzOWpjUEtZYmVaeDhMMjdLNGVJY090Q3VQTTNia1pma0VEOXI0dHhIRDlZTy1pb1VOazQ0SUNiTHQ4NmxjV3RWY0ZCS19KVGtFNjA?oc=5"
+    },
+    {
+      "id": "news-6277c42ab93b",
+      "source": "news",
+      "title": "Grad party at long-term care home gives new meaning to 'senior prom' - CBC",
+      "communities": [
+        "elderly"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-19",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTDBveDI4M1VsdlVlWXVjYVB1YXBWX3hnQzNaTXVFZDR6NmxTd3VpMk1GZjlHUm90b1NfZGhuLXpwcFN5bFFIdVprbklIaFdjVFEteHQxNlNiZ1RyMFdrSF9ibEdSeHItT2ZtS3RsVWh0Q0QydERqNkF0T3FsQW1BVW9VTExjZw?oc=5"
+    },
+    {
+      "id": "news-49e4a45f84ef",
+      "source": "news",
+      "title": "Cree family worries about 97-year-old elder, needing long-term care far from home and culture - CBC",
+      "communities": [
+        "elderly",
         "welfare_social"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-04",
+      "date": "2026-11-19",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTlhkaW9qWWctbGdHend5YzVQaFRqOElHWDAtMERiRnU0d21zMktQeGJBWjdnc2lnQ3IxdVVpRk9ZSXRDVlNxSFhjdGFfZVNMdTFQT0NtMTFJNGlMZVpnYTZOdUpBeUxOMGtCMS1xanVZLW5wbzJ3LVhyV1NCbEVGNXY5cE9ESTlPNTFpcVU4bEVJNXpSZWtfakVBNTBUZ1FK?oc=5"
+    },
+    {
+      "id": "1d8db1446b9e",
+      "source": "x",
+      "title": "Newfoundland and Labrador has introduced legislation to increase injured workers’ income replacement from 85% to 90% of net pre-injury earnings. If passed, the change will take effect Dec. 1, 2026, al",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ATL",
+      "date": "2026-11-17",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://www.reddit.com/r/OntarioWorks/comments/1xn0ory/xmas_hamper/"
+      "url": "https://x.com/RetailCouncil/status/2122344060769706159"
     },
     {
-      "id": "1xnhiut",
-      "source": "reddit",
-      "title": "What is the difference between provisional liability and full liability?",
+      "id": "3ebc6a473618",
+      "source": "x",
+      "title": "🤔 Think you know how NY workers’ compensation works? Misconceptions can leave injured workers confused about their rights and benefits. ⚖️ Know the facts and protect your rights! https://t.co/2n8vBAxX",
       "communities": [
         "injured_workers"
       ],
       "jurisdiction": "INTL",
-      "date": "2026-11-04",
+      "date": "2026-11-17",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://www.reddit.com/r/WorkcoverVic/comments/1xnhiut/what_is_the_difference_between_provisional/"
-    },
-    {
-      "id": "1xnezm6",
-      "source": "reddit",
-      "title": "FOI requests? Any internal pull?",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-04",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://www.reddit.com/r/OntarioWSIB/comments/1xnezm6/foi_requests_any_internal_pull/"
-    },
-    {
-      "id": "1xncq66",
-      "source": "reddit",
-      "title": "amputation of my middle finger after a workplace accident. Looking for advice.",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-04",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.reddit.com/r/WorkersComp/comments/1xncq66/amputation_of_my_middle_finger_after_a_workplace/"
-    },
-    {
-      "id": "1xnn8op",
-      "source": "reddit",
-      "title": "Been waiting 7 buissness days for claim approval",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-04",
-      "flywheels": [
-        "evidence"
-      ],
-      "url": "https://www.reddit.com/r/OntarioWSIB/comments/1xnn8op/been_waiting_7_buissness_days_for_claim_approval/"
-    },
-    {
-      "id": "1xn0ht1",
-      "source": "reddit",
-      "title": "I built a free app that shows whether station elevators in Berlin & Brandenburg are working",
-      "communities": [
-        "accessibility"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-04",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.reddit.com/r/accessibility/comments/1xn0ht1/i_built_a_free_app_that_shows_whether_station/"
-    },
-    {
-      "id": "1xngdgg",
-      "source": "reddit",
-      "title": "Unsure if I should apply",
-      "communities": [
-        "disability",
-        "welfare_social"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-04",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.reddit.com/r/Odsp/comments/1xngdgg/unsure_if_i_should_apply/"
-    },
-    {
-      "id": "1xnmwf9",
-      "source": "reddit",
-      "title": "Tips for dealing with flare-ups",
-      "communities": [
-        "disability"
-      ],
-      "jurisdiction": "INTL",
-      "date": "2026-11-04",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.reddit.com/r/ChronicPain/comments/1xnmwf9/tips_for_dealing_with_flareups/"
+      "url": "https://x.com/bjbroderick/status/2122494934674743729"
     }
   ],
-  "generated": "2026-11-04"
+  "generated": "2026-11-19"
 }
