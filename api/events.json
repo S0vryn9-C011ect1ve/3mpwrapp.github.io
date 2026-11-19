@@ -3901,5 +3901,31 @@
       "facebook": "https://www.facebook.com/share/19TujD5RAT/",
       "blog": "https://thunderbayinjuredworkers.com/2026/09/11/public-meeting-thunder-bay-district-injured-workers-support-group-monday-september-14-2026-600-pm/"
     }
+  },
+  {
+    "id": "evt-tbdiwsg-nov2026-media-conference",
+    "title": "MEDIA CONFERENCE - Injured Workers Demand Action: Fix WSIB (TBDIWSG)",
+    "description": "The Thunder Bay & District Injured Workers Support Group holds a media conference calling on Premier Ford to fix the WSIB.\n\nInjured workers continue to face deteriorating service levels, barriers to support, and a compensation system failing the people it is meant to protect. Workers compensation is a right, not a privilege.\n\nGUEST SPEAKERS:\n- Lise Vaugeois, MPP for Thunder Bay-Superior North and Opposition Critic for WSIB\n- Harry Goslin, President of CUPE Local 1750 (representing 3,400+ workers at the WSIB)\n\nWHEN: Friday, November 20, 2026, 3:00 PM EST\nWHERE: PSAC Office, 1113 Jade Court, Suite 301, Thunder Bay, Ontario\n\nInjured workers, labour organizations, community members, advocates and supporters are encouraged to spread the word. Raise your voice. Demand accountability. It is time to fix WSIB.\n\nFull announcement: https://thunderbayinjuredworkers.com/2026/11/18/injured-workers-demand-action-media-conference-calls-on-premier-ford-to-fix-wsib/\nTBDIWSG: https://thunderbayinjuredworkers.com/",
+    "date": "2026-11-20T15:00:00-05:00",
+    "endDate": "2026-11-20T17:00:00-05:00",
+    "location": "PSAC Office, 1113 Jade Court, Suite 301, Thunder Bay, Ontario",
+    "isVirtual": false,
+    "virtualLink": "https://thunderbayinjuredworkers.com/2026/11/18/injured-workers-demand-action-media-conference-calls-on-premier-ford-to-fix-wsib",
+    "category": "public-event",
+    "tags": [
+      "injured-workers",
+      "media-conference",
+      "wsib"
+    ],
+    "community": "injured-workers",
+    "organizer": "Thunder Bay & District Injured Workers Support Group",
+    "source": "user-submitted",
+    "links": {
+      "facebook": "",
+      "blog": "https://thunderbayinjuredworkers.com/2026/11/18/injured-workers-demand-action-media-conference-calls-on-premier-ford-to-fix-wsib"
+    },
+    "registrationRequired": false,
+    "status": "confirmed",
+    "organizerWebsite": "https://thunderbayinjuredworkers.com/"
   }
 ]
