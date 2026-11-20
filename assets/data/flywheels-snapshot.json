@@ -1,47 +1,46 @@
 {
-  "total": 2979,
+  "total": 2947,
   "verified": 26,
   "by_community": {
-    "disability": 1222,
-    "accessibility": 876,
-    "injured_workers": 709,
-    "welfare_social": 631,
-    "elderly": 230,
-    "veterans": 57,
-    "public_allies": 13,
+    "disability": 1237,
+    "accessibility": 890,
+    "injured_workers": 686,
+    "welfare_social": 643,
+    "elderly": 174,
+    "veterans": 85,
+    "public_allies": 11,
     "vulnerable_communities": 7,
     "indigenous": 3,
     "human_rights": 3,
     "uncrpd": 1
   },
   "by_jurisdiction": {
-    "CA-ON": 1320,
-    "INTL": 1088,
-    "CA-FED": 379,
-    "CA-AB": 131,
+    "CA-ON": 1278,
+    "INTL": 1097,
+    "CA-FED": 383,
+    "CA-AB": 132,
     "CA-BC": 24,
-    "CA-NT": 8,
-    "CA-NB": 6,
+    "CA-NT": 6,
+    "CA-MB": 6,
     "CA-YT": 5,
     "CA-SK": 5,
-    "CA-MB": 5,
+    "CA-NB": 4,
     "CA-TERR": 3,
-    "CA-NL": 2,
-    "CA": 1,
+    "CA-ATL": 2,
     "CA-NU": 1,
-    "CA-ATL": 1
+    "CA-NL": 1
   },
   "by_source": {
-    "x": 2078,
+    "x": 2110,
     "reddit": 484,
-    "news": 379,
+    "news": 315,
     "manual_curation": 22,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 2941,
+    "unverified_social": 2909,
     "official_confirmed": 25,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -49,36 +48,6 @@
     "manual_curated": 1
   },
   "recent": [
-    {
-      "id": "news-91729676b089",
-      "source": "news",
-      "title": "Why Did Sienna Senior Living Inc. (TSX:SIA) Raise Its Long-Term Care Outlook? - Kalkine Media",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-19",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd0dMLVY4Qk9kVG9IRVlISndJdUEwRWNNYVh5NVp2aTR5d19DaDlCUDl3c2hlMkZvY0UycWJFXzdjb3hyOXNmcTBzYkFHTEZhQWxQejMwY0NBMHpBMWllY2ozb1AyTERfVE9QMHVVdjU3ZjlXZExhaWQxQWxzNFA3MGN2VW5mdzBXcHBBVkk3eDRDZjB6dElvV051V3pwUE9oTGdLUXFHQnBlcjRMNnBCeDBvcWs1NDgwSkE?oc=5"
-    },
-    {
-      "id": "news-04ce7ea54bba",
-      "source": "news",
-      "title": "Executive compensation trends: rethinking incentive design - A&O Shearman",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-19",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM0htMmNIa2VTOWtka25NaG1pMVJXbTU1aVRZZElmT2ZrWTZsU1hHcFN4Z0Q3MkJUUERpUG52V0hyc0kwYXA4RkctS1B5Mnk4WWQwRlczRi1xelA5ZW83REtDSUU4dlBiY0RyZjBYSE5aQ0JhTko3VzdoRk81WWpCeUV2ZkF3RWhxbnNCbWN6S1ZjTzFTbDdYdkk1bkVYYXZzNF9ycVJpdGtycjJhdG4zSDg4RWNpNllpTS16ZHh1QjRDaEZNWTUzWjBLMVN5MWd6bDdrcE9mX3I0azBPc0pDVmpYZUR1SzlyQ1E4?oc=5"
-    },
     {
       "id": "news-594a5629900f",
       "source": "news",
@@ -95,21 +64,6 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMmpLb19qZFFlNUt1NXJtcGUxNGFEbEY1UUIyejFKVE5WamVOTFl3SE41dHpDLWdfRXIzTWE0YkpsQTJwZnRSNi1oV3NyR2xkcXhCNmFPd18zVmV6OG9FS3Bub0E0XzhqNjNvX0FyR2VDMXZHWWtnMWluRkVQSGF2VlR0Vmc2UU9JdnRUeEdaQU9Ia3FmbkJ2bXVxVGJ3M2ZkaUNz?oc=5"
     },
     {
-      "id": "news-ca24b6c950ad",
-      "source": "news",
-      "title": "Physics-informed neural Volterra compensation enabling over 2600× efficiency improvement in 12,057-km ultra-long-haul coherent transmission - Nature",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-19",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qVkRoczc5REVqV3hqZTg4RzFQUTN4Nl9LN0ExT0licjJ0aTFlbXpTNkFXV2l4RVBwZnlOYnA4ZkJ0Z0VtX0lsekREejdTUC1uVGVlZTdHakdOaXQ0Smo4?oc=5"
-    },
-    {
       "id": "news-e5ca29729c16",
       "source": "news",
       "title": "Applications open for grants for education and equipment for disabled people with long-term support needs - reykjavik.is",
@@ -123,21 +77,6 @@
         "knowledge"
       ],
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbzhaVkR4MXVpVG9DZGlTSVgtd3gxSkhyRGwxQ0lHSzRORDRsUHBVZElKRmg4NG9Qa2thZjZpdHFKWmlldjNQeWdvSUZiY3d1N3ZGSkItVjlNUUNfVnhNZ2I5MW1QRWxBblpXdjFNQzVRVEwzMVFVRGhNaHQzQmZyaUt0cjBuejhLLVRlNmR1X1RSZ0Y1OUtPNzd6NnJXVl8tM3dvcElCbk9POXdBX3BOU3RRS2dRbmxNc2xsdnB1WQ?oc=5"
-    },
-    {
-      "id": "news-28f0c2ca0edb",
-      "source": "news",
-      "title": "Everything you need to know about EU261 flight compensation - The Points Guy",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-19",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8ySGlxbjB6c3NxWEd1QURMdjkxMVF2SG5PcDg2TlB3QXJyVlQ1WHg5enc5b1hsZlIybnhfekQzZjNuT1BSUTFmXzNaRUxKUkhvYkgyaHRuTUo5NElUMjdnQXh5b0VNazRyN1Bibmg5dWhmdw?oc=5"
     },
     {
       "id": "news-01dc6932cd53",
@@ -183,36 +122,6 @@
         "knowledge"
       ],
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80UE9IX203MWJxX2VPa1AwX0x0RUp0RmRsQ242RklUeFRyNENiYWRNNnRHU25LVWxiaW1OaUd5YnFJczJPVmM3TG9sY29BWm1EcGJqNXU0OGJjMVZNTm1RcTlPREtoaVNXUWxlbTBRQQ?oc=5"
-    },
-    {
-      "id": "news-3dae76767d88",
-      "source": "news",
-      "title": "Erroneous Compensation for Long-Latency Feedback Delays as Origin of Essential Tremor - Journal of Neuroscience",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-19",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2VTZQdGMtNmg2eDFMTUdEUkpteFhlUGlMRmpyV19DSG83azFndldleHVoOUZIOU9NeGhnYVliM2ZWbWZPRG1vVHpCMlZMZ29INW10V25VWnRaWmxkalpYag?oc=5"
-    },
-    {
-      "id": "news-18c73f367a08",
-      "source": "news",
-      "title": "Say on Pay: CEO Compensation and the Long Tail of Shareholder Dissent - Sustainalytics",
-      "communities": [
-        "injured_workers"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-19",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPS054WW9PQkZqeTBEU3VzWWRTazZMR0xVNTloT1U0OWVHZndUX2pIcHJnWG5TWFNvUWd0Y21mZmVEMDFJWTJCd05jNm5ZaGpJV1plbjl3eTlMMVgtSnFEY1l3bm5QMWpWc1h4NkprTWVVN1JKVm0zUk9pcnZSMFhIaldhc19qSDRQVm15VzlzOWpjUEtZYmVaeDhMMjdLNGVJY090Q3VQTTNia1pma0VEOXI0dHhIRDlZTy1pb1VOazQ0SUNiTHQ4NmxjV3RWY0ZCS19KVGtFNjA?oc=5"
     },
     {
       "id": "news-6277c42ab93b",
@@ -269,10 +178,93 @@
       "jurisdiction": "CA-FED",
       "date": "2026-11-19",
       "flywheels": [
-        "evidence",
         "knowledge"
       ],
       "url": "https://veterans.gc.ca/en/financial-programs-and-services/compensation-illness-or-injury/disability-benefits"
+    },
+    {
+      "id": "23ff6e6ae8f7",
+      "source": "manual_curation",
+      "title": "VRAB review & appeal hearings",
+      "communities": [
+        "veterans"
+      ],
+      "jurisdiction": "CA-FED",
+      "date": "2026-11-19",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://vrab-tacra.gc.ca/en/what-expect/review-and-appeal-hearings/guide-review-and-appeal-hearings"
+    },
+    {
+      "id": "d67a697e850e",
+      "source": "manual_curation",
+      "title": "Veterans Ombudsman",
+      "communities": [
+        "veterans"
+      ],
+      "jurisdiction": "CA-FED",
+      "date": "2026-11-19",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://ombudsman-veterans.gc.ca/en"
+    },
+    {
+      "id": "45d7241986ab",
+      "source": "manual_curation",
+      "title": "Veterans Independence Program",
+      "communities": [
+        "veterans"
+      ],
+      "jurisdiction": "CA-FED",
+      "date": "2026-11-19",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://veterans.gc.ca/en/housing-and-home-life/help-home/veterans-independence-program"
+    },
+    {
+      "id": "d53501bc87f1",
+      "source": "manual_curation",
+      "title": "NIHB - Non-Insured Health Benefits",
+      "communities": [
+        "indigenous"
+      ],
+      "jurisdiction": "CA-FED",
+      "date": "2026-11-19",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://www.sac-isc.gc.ca/eng/1572537161086/1572537234517"
+    },
+    {
+      "id": "8f4795045671",
+      "source": "manual_curation",
+      "title": "Jordan's Principle",
+      "communities": [
+        "indigenous"
+      ],
+      "jurisdiction": "CA-FED",
+      "date": "2026-11-19",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://www.sac-isc.gc.ca/eng/1568396042341/1568396159824"
+    },
+    {
+      "id": "9f945ae07cfd",
+      "source": "manual_curation",
+      "title": "Inuit Child First Initiative",
+      "communities": [
+        "indigenous"
+      ],
+      "jurisdiction": "CA-FED",
+      "date": "2026-11-19",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://isc.gc.ca/eng/1536348095773/1536348148664"
     }
   ],
   "generated": "2026-11-19"
