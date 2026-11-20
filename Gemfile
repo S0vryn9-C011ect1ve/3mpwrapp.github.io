@@ -20,10 +20,11 @@ gem "minitest", "5.20.0"                 # activesupport >= 7.2.3.1 requires min
 gem "rubyzip", ">= 3.4.0"                # Dependabot 2026-11-19: path traversal < 3.4.0 (high)
 gem "uri", ">= 1.0.4"
 gem "faraday", ">= 2.14.1"
-gem "activesupport", "~> 7.2.3"   # 7.2.3.2 closes 3 medium Dependabot alerts (patched >= 7.2.3.1; needs minitest < 6;
-                                  # 7.2.4 also needs connection_pool < 3). 8.x (fixes the 1 high, safe_constantize DoS)
-                                  # hard-requires json >= 3.0.2: no Windows binary, cannot build here.
-                                  # High accepted as build-time-only risk 2026-11-19.
+gem "activesupport", "~> 8.0.5"   # 8.0.5.2 closes the high safe_constantize DoS (CVE-2026-126080, GHSA-8474-xrp6-wh69).
+                                  # Verified 2026-11-20 via rubygems API: 8.0.5.2 has NO json dependency; its other
+                                  # deps match 7.2.3.2's (all already locked). 8.1.x adds json >= 0 (pinned 2.7.2
+                                  # satisfies it) but stay on 8.0.x for minimal change. Prior "8.x needs json >= 3.0.2"
+                                  # note was a resolver misdiagnosis (uncapped update pulled 8.1 + latest json 3.x).
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 platforms :mingw, :x64_mingw, :mswin, :jruby do
