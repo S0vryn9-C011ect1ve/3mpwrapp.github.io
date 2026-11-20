@@ -1,8 +1,17 @@
 {
   "year": 2026,
   "version": "1.0",
-  "lastUpdated": "2026-11-05T12:00:00-05:00",
+  "lastUpdated": "2026-11-19T23:45:00-05:00",
   "entries": [
+    {
+      "id": "wn-2026-11-19-tbdiwsg-media-conference",
+      "title": "📢 TBDIWSG media conference — Fri Nov 20, 3 PM: Injured workers demand action to fix WSIB",
+      "summary": "The Thunder Bay & District Injured Workers Support Group holds a media conference Friday, November 20, 2026, 3:00–5:00 PM EST at the PSAC Office (1113 Jade Court, Suite 301, Thunder Bay), calling on Premier Ford to fix the WSIB. Guest speakers: Lise Vaugeois, MPP for Thunder Bay-Superior North and Opposition Critic for WSIB, and Harry Goslin, President of CUPE Local 1750 (representing 3,400+ workers at the WSIB). Workers' compensation is a right, not a privilege. Full announcement: https://thunderbayinjuredworkers.com/2026/11/18/injured-workers-demand-action-media-conference-calls-on-premier-ford-to-fix-wsib/",
+      "date": "2026-11-19T23:45:00-05:00",
+      "category": "content",
+      "repo": "website",
+      "commitSha": "pending"
+    },
     {
       "id": "wn-2026-11-05-pwa-install-spa",
       "title": "Web app loads more reliably — install, refresh, and deep links",
