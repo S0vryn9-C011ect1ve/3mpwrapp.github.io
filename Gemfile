@@ -15,13 +15,15 @@ gem "addressable", ">= 2.9.2"
 # If bundler ever tries to build them: cleanup partial specs, then re-lock (see skill).
 gem "json", "2.7.2"
 gem "openssl", "3.2.4"
-gem "minitest", "6.0.6"                  # pin installed version: 6.1.0 binstub write needs admin on C:/Ruby33-x64/bin
+gem "minitest", "5.20.0"                 # activesupport >= 7.2.3.1 requires minitest < 6. 5.20.0 ships with Ruby 3.3
+                                         # (no executables -> avoids the admin binstub issue 6.x has on C:/Ruby33-x64/bin)
 gem "rubyzip", ">= 3.4.0"                # Dependabot 2026-11-19: path traversal < 3.4.0 (high)
 gem "uri", ">= 1.0.4"
 gem "faraday", ">= 2.14.1"
-gem "activesupport", "~> 7.2.3"   # 7.2.3.1 closes 3 medium Dependabot alerts. 8.x (fixes the 1 high,
-                                  # safe_constantize DoS) hard-requires json >= 3.0.2: no Windows binary,
-                                  # cannot build here. High accepted as build-time-only risk 2026-11-19.
+gem "activesupport", "~> 7.2.3"   # 7.2.3.2 closes 3 medium Dependabot alerts (patched >= 7.2.3.1; needs minitest < 6;
+                                  # 7.2.4 also needs connection_pool < 3). 8.x (fixes the 1 high, safe_constantize DoS)
+                                  # hard-requires json >= 3.0.2: no Windows binary, cannot build here.
+                                  # High accepted as build-time-only risk 2026-11-19.
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 platforms :mingw, :x64_mingw, :mswin, :jruby do
