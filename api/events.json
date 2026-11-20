@@ -3927,5 +3927,58 @@
     "registrationRequired": false,
     "status": "confirmed",
     "organizerWebsite": "https://thunderbayinjuredworkers.com/"
+  },
+  {
+    "id": "evt-fight-back-rally-toronto-dec-7-2026",
+    "title": "Fight Back! No More Gifts to Employers — Rally at the Ministry of Labour",
+    "description": "FIGHT BACK! — NO MORE GIFTS TO EMPLOYERS.\n\nRally at the Ministry of Labour, 400 University Avenue, Toronto.\n\nWHEN: Monday, December 7, 2026 at 11:00 AM\nWHERE: Ministry of Labour, 400 University Avenue, Toronto, Ontario M7A 1T7\n\nAFTERWARDS AT:\nWorkers' Health & Safety Legal Clinic, 180 Dundas St W, Unit #2000, Toronto, ON M5G 1Z8\n\nDetails transcribed from the event poster — open the event to view the full poster.",
+    "date": "2026-12-07T11:00:00-05:00",
+    "location": "Ministry of Labour, 400 University Avenue, Toronto, Ontario M7A 1T7",
+    "isVirtual": false,
+    "virtualLink": "",
+    "category": "public-event",
+    "tags": [
+      "rally",
+      "injured-workers",
+      "toronto",
+      "wsib",
+      "workers-compensation",
+      "ministry-of-labour",
+      "advocacy"
+    ],
+    "community": "injured-workers",
+    "source": "user-submitted",
+    "links": {},
+    "registrationRequired": false,
+    "status": "confirmed",
+    "imageUrl": "https://3mpwrapp.ca/assets/images/events/fight-back-rally-toronto-2026-12-07.jpg",
+    "imageAlt": "Event poster: FIGHT BACK! No more gifts to employers. Rally Monday December 7, 2026, 11:00 AM at the Ministry of Labour, 400 University Avenue, Toronto M7A 1T7. Afterwards at Workers' Health & Safety Legal Clinic, 180 Dundas St W, Unit 2000, Toronto M5G 1Z8."
+  },
+  {
+    "id": "evt-tb-follow-the-money-rally-dec-7-2026",
+    "title": "Looking for the WSIB? Follow the Money — Rally for the Injured Worker's Support Group",
+    "description": "\"Looking for the WSIB? We should follow the money.\"\n\nRally for the Injured Worker's Support Group.\n\nWHEN: Monday, December 7, 2026 at 11:00 AM\nWHERE: 1113 Jade Court (old WSIB Office), Thunder Bay, Ontario\n\nFOLLOWED BY HOLIDAY SOCIAL:\n12:00 PM at the PSAC Thunder Bay Regional Office, Ste. 301 - 1113 Jade Court, Thunder Bay, Ontario\n\nDetails transcribed from the event poster — open the event to view the full poster.",
+    "date": "2026-12-07T11:00:00-05:00",
+    "location": "1113 Jade Court (old WSIB Office), Thunder Bay, Ontario",
+    "isVirtual": false,
+    "virtualLink": "",
+    "category": "public-event",
+    "tags": [
+      "rally",
+      "injured-workers",
+      "thunder-bay",
+      "wsib",
+      "psac",
+      "holiday-social",
+      "advocacy"
+    ],
+    "community": "injured-workers",
+    "organizer": "Injured Worker's Support Group",
+    "source": "user-submitted",
+    "links": {},
+    "registrationRequired": false,
+    "status": "confirmed",
+    "imageUrl": "https://3mpwrapp.ca/assets/images/events/follow-the-money-rally-thunder-bay-2026-12-07.jpg",
+    "imageAlt": "Event poster: Looking for the WSIB? We should follow the money. Rally for the Injured Worker's Support Group, Monday December 7, 2026, 11:00 AM at 1113 Jade Court (old WSIB Office), Thunder Bay. Followed by Holiday Social at 12:00 PM, PSAC Thunder Bay Regional Office, Ste. 301 - 1113 Jade Court."
   }
 ]

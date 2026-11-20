@@ -1,8 +1,48 @@
 {
   "year": 2026,
   "version": "1.0",
-  "lastUpdated": "2026-11-03T12:00:00-05:00",
+  "lastUpdated": "2026-11-20T06:54:04.792789+00:00",
   "entries": [
+    {
+      "id": "whatsnew-2026-11-20-dec7-fight-back-rally",
+      "title": "Dec 7 Fight Back Rally — Queen's Park, Toronto (poster added)",
+      "summary": "Province-wide Day of Action: Fight Back Rally at Queen's Park (111 Wellesley St W), Toronto, Monday December 7, 2026, 11:00 AM–1:00 PM. Organized by Ontario Network of Injured Workers Groups (ONIWG).",
+      "details": [
+        "Part of the December 7 province-wide Day of Action for injured workers.",
+        "11:00 AM–1:00 PM at Queen's Park, 111 Wellesley St W, Toronto.",
+        "Organized by Ontario Network of Injured Workers Groups (ONIWG).",
+        "Event poster attached to the event card."
+      ],
+      "category": "events",
+      "date": "2026-11-20",
+      "imageUrl": "/assets/images/events/fight-back-rally-toronto-2026-12-07.jpg",
+      "imageAlt": "Fight Back Rally poster — Queen's Park, Toronto, December 7, 2026, 11 AM to 1 PM",
+      "lastUpdated": "2026-11-20T06:54:04.792789+00:00"
+    },
+    {
+      "id": "whatsnew-2026-11-20-dec7-tb-follow-the-money-rally",
+      "title": "Dec 7 Follow the Money Rally — Thunder Bay (poster added)",
+      "summary": "Thunder Bay & District Injured Workers Support Group hosts the Follow the Money Rally on Monday December 7, 2026, 11:00 AM–12:30 PM at the Ministry of Labour office, 1205 Cumberland St S, Thunder Bay.",
+      "details": [
+        "Part of the December 7 province-wide Day of Action for injured workers.",
+        "11:00 AM–12:30 PM at the Ministry of Labour office, 1205 Cumberland St S, Thunder Bay.",
+        "Hosted by Thunder Bay & District Injured Workers Support Group.",
+        "Event poster attached to the event card."
+      ],
+      "category": "events",
+      "date": "2026-11-20",
+      "imageUrl": "/assets/images/events/follow-the-money-rally-thunder-bay-2026-12-07.jpg",
+      "imageAlt": "Follow the Money Rally poster — Thunder Bay, December 7, 2026, 11:00 AM to 12:30 PM, Ministry of Labour office",
+      "lastUpdated": "2026-11-20T06:54:04.792789+00:00"
+    },
+    {
+      "id": "wn-2026-11-20-dec7-injured-worker-rallies",
+      "title": "📢 Two Dec 7 rallies added with posters — Toronto 'Fight Back!' + Thunder Bay 'Follow the Money'",
+      "summary": "Two injured-worker rallies on Monday, December 7, 2026 now appear on the events calendar with their full posters attached. Toronto: 'Fight Back! No More Gifts to Employers' — 11:00 AM at the Ministry of Labour, 400 University Avenue (afterwards at Workers' Health & Safety Legal Clinic, 180 Dundas St W, Unit #2000). Thunder Bay: 'Looking for the WSIB? We should follow the money' — Rally for the Injured Worker's Support Group, 11:00 AM at 1113 Jade Court (old WSIB Office), followed by a Holiday Social at 12:00 PM, PSAC Thunder Bay Regional Office, Ste. 301 - 1113 Jade Court. Details transcribed from the event posters; open any event to view its poster full-size.",
+      "date": "2026-11-20T01:28:18-05:00",
+      "category": "content",
+      "repo": "website"
+    },
     {
       "id": "wn-2026-11-03-bill-105-status-refresh",
       "title": "📜 Bill 105 (WSIB) status refresh — still not law; third reading ordered",

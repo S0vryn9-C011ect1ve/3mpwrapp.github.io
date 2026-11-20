@@ -329,6 +329,14 @@ image_alt: "3mpwrApp Events - Accessible community gatherings and workshops"
           <span style="font-size: 1.5rem;">📅</span> ${formattedDate}
         </p>
         
+                ${event.imageUrl ? \`
+        <figure style="margin: 1.5rem 0;">
+          <a href="${event.imageUrl}" target="_blank" rel="noopener noreferrer">
+            <img src="${event.imageUrl}" alt="${(event.imageAlt || ('Event poster: ' + event.title)).replace(/"/g, '&quot;')}" loading="lazy" style="max-width: 100%; height: auto; border-radius: 12px; border: 2px solid rgba(0,0,0,0.15); box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+          </a>
+          <figcaption style="margin-top: 0.5rem; font-size: 1.25rem; color: #333;">Event poster — select to view full size</figcaption>
+        </figure>
+        \` : ''}
         <p class="event-description" style="color: #334155; margin: 1.5rem 0; font-size: 1.1rem; line-height: 1.7;">
           ${renderDescription(displayDescription)}
         </p>
@@ -379,7 +387,8 @@ image_alt: "3mpwrApp Events - Accessible community gatherings and workshops"
         throw new Error(`HTTP ${response.status}: ${response.statusText}`);
       }
       
-      const events = await response.json();
+      const rawEvents = await response.json();
+      const events = Array.isArray(rawEvents) ? rawEvents : (rawEvents.events || []);
       const t1 = (window.performance && performance.now) ? performance.now() : Date.now();
       const durationMs = Math.round(t1 - t0);
       console.log(`⏱️ Events fetch completed in ${durationMs} ms`);
