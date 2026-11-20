@@ -54,6 +54,7 @@ function makeEl(id) {
     setAttribute() {}, getAttribute() { return null; }, remove() {},
     addEventListener() {}, appendChild() {},
     querySelector() { return null; }, querySelectorAll() { return []; },
+    getElementsByTagName() { return []; }, getElementsByClassName() { return []; },
   };
   Object.defineProperty(el, 'innerHTML', {
     get() { return this._html; },
@@ -124,6 +125,7 @@ function makeSandbox(apiPayload, fetchLog) {
     performance: windowObj.performance, location: windowObj.location,
     Date, Math, JSON, parseInt, parseFloat, isNaN, isFinite,
     encodeURIComponent, decodeURIComponent, String, Number, Array, Object, RegExp, Error, Promise,
+    URLSearchParams, URL, TextEncoder, TextDecoder,
   };
   sandbox.globalThis = sandbox;
   return { sandbox, byId, consoleCaptured };
