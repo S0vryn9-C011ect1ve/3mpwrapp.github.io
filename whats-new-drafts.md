@@ -14,4 +14,4 @@
 - The app and website are now easier to read, with cleaner legal pages and a knowledge base that explains your rights in plain language.
 
 - DATE: 2026-11-20
-Two rallies are now on the events calendar for Monday, December 7: the Fight Back Rally at Queen's Park in Toronto, 11 AM to 1 PM, and the Follow the Money Rally in Thunder Bay, 11 AM to 12:30 PM at the Ministry of Labour office on Cumberland Street South. Both event cards now show the rally posters. December 7 is a province-wide day of action for injured workers.
+Two rallies are now on the events calendar for Monday, December 7: the Fight Back rally at the Ministry of Labour, 400 University Avenue, Toronto, 11 AM (afterwards at the Workers' Health and Safety Legal Clinic, 180 Dundas Street West, Unit 2000), and the Follow the Money rally in Thunder Bay, 11 AM at 1113 Jade Court (the old WSIB office), followed by a holiday social at noon at the PSAC regional office. Both event cards show the rally posters and link to the official Facebook event pages. December 7 is a province-wide day of action for injured workers. Note: the calendar opens on the current month — tap the next-month arrow to see December.

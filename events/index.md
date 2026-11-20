@@ -342,6 +342,7 @@ image_alt: "3mpwrApp Events - Accessible community gatherings and workshops"
         </p>
         
         ${event.location ? `<p class="event-location" style="color: #475569; margin: 1rem 0; font-size: 1.05rem; display: flex; align-items: center; gap: 0.5rem;"><span style="font-size: 1.3rem;">📍</span> <strong>Location:</strong> ${event.location}</p>` : ''}
+        ${(event.url || (event.links && event.links.facebook)) ? `<p style="margin: 1rem 0; font-size: 1.05rem;"><a href="${event.url || event.links.facebook}" target="_blank" rel="noopener noreferrer" style="color: #1d4ed8; font-weight: 700; text-decoration: underline;">🔗 Official event page (Facebook)</a></p>` : ''}
         
         <div class="event-badges" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 0.75rem;">
           ${event.isVirtual ? `<span class="badge" style="display: inline-block; padding: 10px 18px; background: linear-gradient(135deg, #dbeafe 0%, #bfdbfe 100%); border: 2px solid #3b82f6; border-radius: 8px; font-size: 1rem; font-weight: 700; box-shadow: 0 2px 8px rgba(59, 130, 246, 0.3);">🌐 Virtual</span>` : ''}
