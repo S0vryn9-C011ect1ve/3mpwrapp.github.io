@@ -53,6 +53,14 @@ for name in "${!PAGES[@]}"; do
 done
 if [ "$FAIL" -ne 0 ]; then echo "DEPLOY ABORTED — content verification failed"; exit 1; fi
 
+echo "==> [3b/5] EVENTS 24/7 GATE (data + render of built output)"
+node scripts/validate-events-data.mjs --file _site/api/events.json || {
+  echo "DEPLOY ABORTED — events data gate failed (feed would crash or drop events)"; exit 1;
+}
+node scripts/verify-events-render.mjs --source _site/events/index.html --api _site/api/events.json || {
+  echo "DEPLOY ABORTED — events render gate failed (page would not display events)"; exit 1;
+}
+
 echo "==> [4/5] Deploy to PRODUCTION (--branch=main)"
 node "$WRANGLER" pages deploy _site --project-name="$PROJECT" --branch=main 2>&1 | tail -6
 

@@ -6,3 +6,11 @@ node .husky/check-organization.js
 
 # Pre-commit hook for accessibility checks
 node .husky/pre-commit-checks.js
+
+# EVENTS 24/7 GATE: when events surfaces change, data + render must pass.
+# /events/ went blank for 12h+ on 2026-11-20; this blocks that bug class at commit.
+if git diff --cached --name-only | grep -qE '^(api/events\.json|events/index\.md|index\.md|scripts/verify-events-render\.mjs|scripts/validate-events-data\.mjs|scripts/utils/add-event\.mjs)$'; then
+  echo "▶ Events 24/7 gate (data + render)..."
+  node scripts/validate-events-data.mjs || exit 1
+  node scripts/verify-events-render.mjs --source events/index.md --api api/events.json || exit 1
+fi
