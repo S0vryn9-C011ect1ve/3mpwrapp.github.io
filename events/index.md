@@ -276,7 +276,22 @@ image_alt: "3mpwrApp Events - Accessible community gatherings and workshops"
       .replace(/\n*Powered by 3mpwr App\.?\s*$/gi, '')
       .replace(/\n*Powered by 3mpwrApp\.?\s*$/gi, '')
       .trim();
-    
+
+    // Render description safely: escape HTML, preserve line breaks, auto-link URLs.
+    // events.json stays plain-text because the ICS/calendar worker consumes it verbatim.
+    const renderDescription = (text) => {
+      const escaped = text
+        .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+      const linked = escaped.replace(/(https?:\/\/[^\s<]+)/g, (url) => {
+        const m = url.match(/[.,;:!?)]+$/);
+        const trail = m ? m[0] : '';
+        const clean = trail ? url.slice(0, -trail.length) : url;
+        return '<a href="' + clean + '" target="_blank" rel="noopener noreferrer" style="color: #0369a1; font-weight: 600; text-decoration: underline;">' + clean + '</a>' + trail;
+      });
+      return linked.replace(/\n/g, '<br>');
+    };
+
     // Safely encode event data for HTML data attributes (use HTML entities)
     const safeTitle = event.title.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/'/g, '&#39;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/\n/g, ' ').replace(/\r/g, '');
     const safeDescription = event.description.substring(0, 200).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/'/g, '&#39;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/\n/g, ' ').replace(/\r/g, '');
@@ -315,7 +330,7 @@ image_alt: "3mpwrApp Events - Accessible community gatherings and workshops"
         </p>
         
         <p class="event-description" style="color: #334155; margin: 1.5rem 0; font-size: 1.1rem; line-height: 1.7;">
-          ${displayDescription}
+          ${renderDescription(displayDescription)}
         </p>
         
         ${event.location ? `<p class="event-location" style="color: #475569; margin: 1rem 0; font-size: 1.05rem; display: flex; align-items: center; gap: 0.5rem;"><span style="font-size: 1.3rem;">📍</span> <strong>Location:</strong> ${event.location}</p>` : ''}
