@@ -103,3 +103,8 @@ accessibility-audit-*.json
 # Local safety backups — never commit
 *.bak-before-*
 *.json.bak*
+
+# Stale npm manifests inside the committed build-output copy — never tracked again
+# (Dependabot scanned these 2026-11-20: 83 alerts from versions nothing installs; CF runs bundle/jekyll only)
+_deploy/package.json
+_deploy/package-lock.json
