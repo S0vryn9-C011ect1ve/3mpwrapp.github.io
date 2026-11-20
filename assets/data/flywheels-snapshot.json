@@ -1,28 +1,28 @@
 {
-  "total": 2947,
+  "total": 2905,
   "verified": 26,
   "by_community": {
-    "disability": 1237,
-    "accessibility": 890,
-    "injured_workers": 686,
-    "welfare_social": 643,
-    "elderly": 174,
+    "disability": 1208,
+    "accessibility": 891,
+    "injured_workers": 684,
+    "welfare_social": 645,
+    "elderly": 164,
     "veterans": 85,
     "public_allies": 11,
-    "vulnerable_communities": 7,
-    "indigenous": 3,
+    "vulnerable_communities": 6,
+    "indigenous": 6,
     "human_rights": 3,
     "uncrpd": 1
   },
   "by_jurisdiction": {
-    "CA-ON": 1278,
+    "CA-ON": 1238,
     "INTL": 1097,
     "CA-FED": 383,
-    "CA-AB": 132,
+    "CA-AB": 131,
     "CA-BC": 24,
-    "CA-NT": 6,
     "CA-MB": 6,
     "CA-YT": 5,
+    "CA-NT": 5,
     "CA-SK": 5,
     "CA-NB": 4,
     "CA-TERR": 3,
@@ -33,14 +33,14 @@
   "by_source": {
     "x": 2110,
     "reddit": 484,
-    "news": 315,
+    "news": 273,
     "manual_curation": 22,
     "wsib-research-dossier": 15,
     "themis_justice_watch": 1
   },
   "canlii_status": {
     "pending_legislative_review": 1,
-    "unverified_social": 2909,
+    "unverified_social": 2867,
     "official_confirmed": 25,
     "verified_as_estimate_method_stated": 1,
     "research_unverified": 1,
@@ -53,7 +53,8 @@
       "source": "news",
       "title": "Higher comorbidity scores tied to disability among older adults: study - McKnight's Long-Term Care News",
       "communities": [
-        "disability"
+        "disability",
+        "elderly"
       ],
       "jurisdiction": "CA-ON",
       "date": "2026-11-19",
@@ -144,7 +145,8 @@
       "title": "Cree family worries about 97-year-old elder, needing long-term care far from home and culture - CBC",
       "communities": [
         "elderly",
-        "welfare_social"
+        "welfare_social",
+        "indigenous"
       ],
       "jurisdiction": "CA-ON",
       "date": "2026-11-19",
