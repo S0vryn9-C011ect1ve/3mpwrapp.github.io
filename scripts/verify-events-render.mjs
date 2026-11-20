@@ -23,6 +23,8 @@
  * Usage:
  *   node scripts/verify-events-render.mjs                 # live watchdog mode
  *   node scripts/verify-events-render.mjs --verbose       # + receipt
+ *   node scripts/verify-events-render.mjs https://<preview>.3mpwrapp.pages.dev/events/
+ *                                                         # verify a specific deployment
  *   node scripts/verify-events-render.mjs --source events/index.md --api api/events.json
  *                                                         # pre-deploy gate (no network)
  *   node scripts/verify-events-render.mjs --selftest-only
@@ -376,8 +378,11 @@ async function main() {
       apiPayload = apiIdx !== -1 ? JSON.parse(fs.readFileSync(args[apiIdx + 1], 'utf8')) : await fetchWithRetry(API_URL, true);
       origin = `source ${srcFile}`;
     } else {
-      [pageHtml, apiPayload] = await Promise.all([fetchWithRetry(PAGE_URL, false), fetchWithRetry(API_URL, true)]);
-      origin = `live ${PAGE_URL}`;
+      const positionalUrl = args.find((a) => /^https?:\/\//.test(a));
+      const pageUrl = positionalUrl || PAGE_URL;
+      const apiUrl = positionalUrl ? new URL('/api/events.json', positionalUrl).href : API_URL;
+      [pageHtml, apiPayload] = await Promise.all([fetchWithRetry(pageUrl, false), fetchWithRetry(apiUrl, true)]);
+      origin = `live ${pageUrl}`;
     }
   } catch (err) {
     console.error(`EVENTS GUARD: DEGRADED — could not fetch page/API: ${err.message}. Cannot verify the events surface; treat as unverified, not healthy.`);
