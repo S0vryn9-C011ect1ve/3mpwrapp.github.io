@@ -389,7 +389,10 @@ image_alt: "3mpwrApp Events - Accessible community gatherings and workshops"
       }
       
       const rawEvents = await response.json();
-      const events = Array.isArray(rawEvents) ? rawEvents : (rawEvents.events || []);
+      let events = Array.isArray(rawEvents) ? rawEvents : (rawEvents.events || []);
+      // Schema resilience (2026-11-20): some sources provide start/end instead
+      // of date. Normalize so no event is silently dropped from the display.
+      events = events.map((e) => ({ ...e, date: e.date || e.dateISO || e.start || e.end }));
       const t1 = (window.performance && performance.now) ? performance.now() : Date.now();
       const durationMs = Math.round(t1 - t0);
       console.log(`⏱️ Events fetch completed in ${durationMs} ms`);
