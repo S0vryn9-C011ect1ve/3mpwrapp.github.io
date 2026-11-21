@@ -4963,5 +4963,47 @@
     "endDate": "2026-12-02",
     "updatedAt": "2026-11-21T00:06:07.746Z",
     "createdAt": "2026-11-21T00:06:07.746Z"
+  },
+  {
+    "id": "evw-20261121-67",
+    "title": "YMCA Youth Leaders Program - Niagara Falls (Fall 2026)",
+    "description": "YMCA Youth Leaders Program - Niagara Falls (Fall 2026) — via Eventbrite (verify details at source link).",
+    "date": "2026-11-23",
+    "location": "MacBain Community Centre, Niagara Falls, ON",
+    "category": "community",
+    "tags": [
+      "families",
+      "public"
+    ],
+    "userBases": [
+      "families",
+      "public"
+    ],
+    "url": "https://www.eventbrite.ca/e/ymca-youth-leaders-program-niagara-falls-fall-2026-tickets-2000267674460",
+    "source": "eventbrite.ca",
+    "isVirtual": false,
+    "endDate": "2026-11-23",
+    "updatedAt": "2026-11-21T23:22:10.840Z",
+    "createdAt": "2026-11-21T23:22:10.840Z"
+  },
+  {
+    "id": "evw-20261121-74",
+    "title": "Connecting Child Care Operators to City Resources, Supporting Families",
+    "description": "Connecting Child Care Operators to City Resources, Supporting Families — via Eventbrite (verify details at source link).",
+    "date": "2026-11-25",
+    "location": "Toronto Botanical Garden, Toronto, ON",
+    "category": "info-session",
+    "tags": [
+      "families"
+    ],
+    "userBases": [
+      "families"
+    ],
+    "url": "https://www.eventbrite.ca/e/connecting-child-care-operators-to-city-resources-supporting-families-tickets-2002803311619",
+    "source": "eventbrite.ca",
+    "isVirtual": false,
+    "endDate": "2026-11-25",
+    "updatedAt": "2026-11-21T23:22:10.840Z",
+    "createdAt": "2026-11-21T23:22:10.840Z"
   }
 ]
