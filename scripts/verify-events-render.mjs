@@ -152,9 +152,12 @@ function expectedCounts(apiEvents, now) {
     return true;
   });
   const d = (e) => new Date(nd(e));
+  // 30-day archive grace mirrors events/index.md evtArchiveCutoff (2026-11-20):
+  // an event stays Upcoming until 30 days after its date, then archives.
+  const cutoff = new Date(now.getTime() - 30 * 24 * 60 * 60 * 1000);
   return {
-    upcoming: filtered.filter((e) => d(e) >= now),
-    past: filtered.filter((e) => d(e) < now),
+    upcoming: filtered.filter((e) => d(e) >= cutoff),
+    past: filtered.filter((e) => d(e) < cutoff),
   };
 }
 
@@ -289,7 +292,7 @@ export async function runRenderHarness(pageHtml, apiPayload) {
 // ------------------------------------------------------------- selftest
 const FUTURE1 = new Date(Date.now() + 86400000 * 3).toISOString();
 const FUTURE2 = new Date(Date.now() + 86400000 * 10).toISOString();
-const PAST1 = new Date(Date.now() - 86400000 * 30).toISOString();
+const PAST1 = new Date(Date.now() - 86400000 * 40).toISOString(); // 40d ago — clearly past the 30-day archive grace
 const FIX_API = { events: [
   { id: 't1', title: 'Test Rally One', description: 'd', date: FUTURE1, category: 'rally', location: 'Toronto' },
   { id: 't2', title: 'Test Support Two', description: 'd', date: FUTURE2, category: 'support' },
@@ -305,8 +308,9 @@ async function loadEvents() {
     const box = document.getElementById('upcoming-events-list');
     const ev = data.events || [];
     const now = new Date();
-    const up = ev.filter(e => new Date(e.dateISO || e.date) >= now);
-    const past = ev.filter(e => new Date(e.dateISO || e.date) < now);
+    const cutoff = new Date(now.getTime() - 30 * 24 * 60 * 60 * 1000);
+    const up = ev.filter(e => new Date(e.dateISO || e.date) >= cutoff);
+    const past = ev.filter(e => new Date(e.dateISO || e.date) < cutoff);
     document.getElementById('loading-indicator').style.display = 'none';
     document.getElementById('upcoming-count').textContent = up.length;
     box.innerHTML = up.length ? up.map(e => '<article class="event-card"><h3>' + e.title + '</h3></article>').join('') : '<div class="info-box">No Upcoming Events</div>';

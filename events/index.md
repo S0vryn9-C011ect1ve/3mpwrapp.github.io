@@ -383,10 +383,16 @@ image_alt: "3mpwrApp Events - Accessible community gatherings and workshops"
     Object.keys(cats).sort((a,b)=>evtfCatLabel(a).localeCompare(evtfCatLabel(b))).forEach(c => { const o = document.createElement('option'); o.value = c; o.textContent = evtfCatLabel(c) + ' (' + cats[c] + ')'; catSel.appendChild(o); });
     ['injured-workers','disabled','indigenous','families','veterans','seniors','public','allies','advocates'].filter(b=>bases[b]).forEach(b => { const o = document.createElement('option'); o.value = b; o.textContent = evtfBaseLabel(b) + ' (' + bases[b] + ')'; baseSel.appendChild(o); });
   }
+  // 30-day archive grace (added 2026-11-20): an event stays in "Upcoming" for
+  // 30 days after its date passes before moving to the 📚 Event Archive. Keeps
+  // recent events visible for folks who need extra time to plan, attend, or catch up.
+  const EVT_ARCHIVE_GRACE_MS = 30 * 24 * 60 * 60 * 1000; // 30 days
+  function evtArchiveCutoff(now) { return new Date(now.getTime() - EVT_ARCHIVE_GRACE_MS); }
   function evtfApply(events, now) {
     const f = evtfReadFilters();
-    const upcoming = evtfSort(events.filter(e => new Date(e.date) >= now && evtfMatches(e, f)), f.sort);
-    const past = evtfSort(events.filter(e => new Date(e.date) < now && evtfMatches(e, f)), 'date-desc');
+    const cutoff = evtArchiveCutoff(now);
+    const upcoming = evtfSort(events.filter(e => new Date(e.date) >= cutoff && evtfMatches(e, f)), f.sort);
+    const past = evtfSort(events.filter(e => new Date(e.date) < cutoff && evtfMatches(e, f)), 'date-desc');
     const upEl = document.getElementById('upcoming-events-list');
     const pastEl = document.getElementById('past-events-list');
     const pastSec = document.getElementById('past-events');
@@ -643,9 +649,10 @@ image_alt: "3mpwrApp Events - Accessible community gatherings and workshops"
       // Sort events by date
       communityEvents.sort((a, b) => new Date(a.date) - new Date(b.date));
       
-      // Separate upcoming/current and past events
-      const upcomingEvents = communityEvents.filter(event => new Date(event.date) >= now);
-      const pastEvents = communityEvents.filter(event => new Date(event.date) < now);
+      // Separate upcoming/current and past events (30-day archive grace — see evtArchiveCutoff)
+      const archiveCutoff = evtArchiveCutoff(now);
+      const upcomingEvents = communityEvents.filter(event => new Date(event.date) >= archiveCutoff);
+      const pastEvents = communityEvents.filter(event => new Date(event.date) < archiveCutoff);
       
       console.log(`📅 ${upcomingEvents.length} upcoming/current, ${pastEvents.length} past events (holidays/awareness days filtered out)`);
       
