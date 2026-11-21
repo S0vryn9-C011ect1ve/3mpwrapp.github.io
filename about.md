@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-description: 3mpwrApp empowers Canada's disability and injured-worker community with 100% free advocacy tools, plain-language resources, and peer connection. Learn our mission, the three flywheels of change, and how user-owned data powers collective advocacy.
+description: 3mpwrApp empowers Canada's disability and injured-worker community with 100% free advocacy tools, plain-language resources, and peer connection. Learn our mission, the three flywheels of change, and how user-owned data powers collective advocacy. <span class="sr-only">Updated with accessibility improvements November 2026</span>
 ---
 
 <!-- Complexity Mode Toggle -->
