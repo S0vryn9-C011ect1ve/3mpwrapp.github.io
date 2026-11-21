@@ -1,8 +1,21 @@
 {
   "year": 2026,
   "version": "1.0",
-  "lastUpdated": "2026-11-20T02:12:07-05:00",
+  "lastUpdated": "2026-11-20T21:28:33-05:00",
   "entries": [
+    {
+      "id": "wn-2026-11-20-events-calendar-refresh",
+      "title": "Events calendar refresh — 49 new events, longer visibility",
+      "summary": "We've added 49 newly reviewed community events to the calendar in the app and on the website — workshops, peer support groups, webinars, and the Dec 7 injured-worker rallies — tagged across the nine communities we serve so you can filter to what matters to you. Events also stay in Upcoming for 30 days after they happen before moving to the Archive, so you won't miss one that just passed.",
+      "details": [
+        "49 new reviewed events added — workshops, peer support, webinars, and rallies.",
+        "Events are tagged by community, so you can filter the calendar to your group.",
+        "30-day grace: events stay in Upcoming for 30 days after their date, then move to the 📚 Archive (kept, not deleted)."
+      ],
+      "date": "2026-11-20T21:28:33-05:00",
+      "category": "events",
+      "repo": "website"
+    },
     {
       "id": "whatsnew-2026-11-20-dec7-fight-back-rally",
       "title": "Dec 7 Fight Back Rally — Queen's Park, Toronto (poster added)",
