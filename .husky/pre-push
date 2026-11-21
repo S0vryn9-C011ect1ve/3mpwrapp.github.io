@@ -1,0 +1,14 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+# A11Y DEPLOY GATE (pre-push) — wired 2026-11-20.
+# `git push origin main` triggers Cloudflare Pages Git Integration auto-deploy,
+# which bypasses deploy-site.sh and flywheel_publish.py. This hook closes that
+# gap: block any push that would regress site accessibility (ratchet policy —
+# total debt and each harmful category must stay <= the approved baseline).
+# Human override for a deliberate, reviewed exception: git push --no-verify.
+echo "▶ A11y deploy gate (pre-push)..."
+python "C:/Users/HP/AppData/Local/hermes/scripts/a11y_deploy_gate.py" || {
+  echo "PUSH BLOCKED — accessibility regression. Fix the new violations before deploying."
+  exit 1
+}

@@ -61,6 +61,13 @@ node scripts/verify-events-render.mjs --source _site/events/index.html --api _si
   echo "DEPLOY ABORTED — events render gate failed (page would not display events)"; exit 1;
 }
 
+echo "==> [3c/5] A11Y DEPLOY GATE (ratchet — never backslide)"
+# Every site deploy must pass the accessibility ratchet. Blocks on regression vs
+# the approved baseline; on allow, ratchets the baseline down to lock improvements.
+python "C:/Users/HP/AppData/Local/hermes/scripts/a11y_deploy_gate.py" || {
+  echo "DEPLOY ABORTED — accessibility regression. Fix new violations before deploying."; exit 1;
+}
+
 echo "==> [4/5] Deploy to PRODUCTION (--branch=main)"
 node "$WRANGLER" pages deploy _site --project-name="$PROJECT" --branch=main 2>&1 | tail -6
 
