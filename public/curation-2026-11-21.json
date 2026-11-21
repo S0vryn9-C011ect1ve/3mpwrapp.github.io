@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-21",
+  "timestamp": "2026-11-21T18:49:47.822Z",
+  "count": 8,
+  "minScore": 3.5,
+  "items": [
+    {
+      "title": "The Disability Bulletin",
+      "link": "https://linktr.ee/thedisabilitybulletin",
+      "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
+      "score": 10,
+      "pubDate": "2026-11-21T18:49:47.817Z"
+    },
+    {
+      "title": "Rural Canada is not an innovation desert. It’s a blind spot",
+      "link": "https://policyoptions.irpp.org/2026/11/rural-canada-ai-funding/",
+      "description": "In October, the federal government added $500 million over five years to its regional artificial intelligence initiative, bringing the program’s total to $700 million. A month earlier, it launched a $13-million national AI literacy initiative with Amii, the Alberta Machine Intelligence Institute. The national strategy names rural communities as a priority and both programs deliver […]",
+      "score": 25.6,
+      "pubDate": "Fri, 13 Nov 2026 11:30:00 +0000"
+    },
+    {
+      "title": "Manitoba Government Announces Start of Construction on Neonatal Intensive Care Unit at Brandon Regional Health Centre",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75957",
+      "description": "",
+      "score": 14.6,
+      "pubDate": "Thu, 05 Nov 2026 14:25:00 EST"
+    },
+    {
+      "title": "Manitoba Government Partners with Treaty One Nations Inc. to Launch Grant Program",
+      "link": "https://news.gov.mb.ca/news/index.html?item=76038",
+      "description": "",
+      "score": 10.5,
+      "pubDate": "Fri, 13 Nov 2026 12:00:00 EST"
+    },
+    {
+      "title": "Manitoba Government Establishing First-Ever Commercial Fishers Advisory Table",
+      "link": "https://news.gov.mb.ca/news/index.html?item=76197",
+      "description": "",
+      "score": 7.5,
+      "pubDate": "Fri, 20 Nov 2026 16:34:00 EST"
+    },
+    {
+      "title": "Manitoba Government Celebrates Reopening of Modernized Thompson Courthouse",
+      "link": "https://news.gov.mb.ca/news/index.html?item=76037",
+      "description": "",
+      "score": 7.5,
+      "pubDate": "Fri, 13 Nov 2026 10:18:00 EST"
+    },
+    {
+      "title": "Inside Lorne Doerkson’s Trimmed-Down BC Cabinet",
+      "link": "https://thetyee.ca/News/2026/11/21/Lorne-Doerkson-Trimmed-Down-BC-Cabinet/",
+      "description": "Experienced hands, rookie ministers and the disappearance of dedicated climate and housing ministries.",
+      "score": 4.4,
+      "pubDate": "Sat, 21 Nov 2026 16:30:00 +0000"
+    },
+    {
+      "title": "From the rabble archives: Examining Asian Canadian labour history and challenging white supremacy",
+      "link": "https://rabble.ca/podcast/from-the-rabble-archives-examining-asian-canadian-labour-history-and-challenging-white-supremacy/",
+      "description": "",
+      "score": 4.5,
+      "pubDate": "Fri, 20 Nov 2026 16:57:00 +0000"
+    }
+  ]
+}
