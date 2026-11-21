@@ -47,7 +47,7 @@ description: "Old Age Security, GIS, the Allowance, CPP, age discrimination unde
 | Spouse of an OAS recipient | **$685.56** |
 | Spouse receiving no OAS/Allowance | **$1,138.90** |
 
-**GIS Allowance (ages 60–64):** up to **$1,428.06/month** — a spouse or common-law
+**GIS Allowance (ages 60–64):** up to **$1,448.06/month** — a spouse or common-law
 partner of an OAS recipient. **Apply 6–11 months before turning 60.**
 **Allowance for the Survivor (60–64):** widowed, not remarried, income under $31,152 —
 up to **$1,726.18/month**.

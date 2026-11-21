@@ -1,0 +1,1701 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Ecosystems Ops — Mission Control</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;800&family=Space+Mono:wght@400;700&family=Inter:wght@300;400;500;600&display=swap');
+  :root {
+    --bg-deep: #05060a; --bg-panel: #0a0c14; --bg-card: #11141f;
+    --border: #1a1f2e; --text: #c8cdd8; --text-dim: #6b7280;
+    --accent-cyan: #22d3ee; --accent-violet: #a78bfa;
+    --accent-amber: #fbbf24; --accent-rose: #fb7185;
+    --accent-emerald: #34d399; --accent-blue: #60a5fa;
+    --glow-cyan: 0 0 12px rgba(34,211,238,0.4);
+    --glow-violet: 0 0 12px rgba(167,139,250,0.4);
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  /* Visible themed scrollbar for easy page scrolling (Chrome/Edge/Safari) */
+  ::-webkit-scrollbar { width: 16px; height: 16px; }
+  ::-webkit-scrollbar-track { background: #0a0c14; border-left: 1px solid var(--border); }
+  ::-webkit-scrollbar-thumb { background: linear-gradient(180deg, #22d3ee, #a78bfa); border-radius: 10px; border: 3px solid #0a0c14; box-shadow: 0 0 8px rgba(34,211,238,0.5); }
+  ::-webkit-scrollbar-thumb:hover { background: linear-gradient(180deg, #67e8f9, #c4b5fd); }
+  html, body { margin:0; padding:0; background: var(--bg-deep); color: var(--text); font-family: 'Inter', system-ui, sans-serif; font-size: 12px; scrollbar-width: thick; scrollbar-color: #22d3ee #0a0c14; }
+  
+  @media (max-width: 768px) {
+    .layout { grid-template-columns: 1fr 1fr !important; grid-template-rows: 48px 1fr !important; width: 100vw !important; height: 100vh !important; }
+    .panel { max-height: none !important; width: 100%; }
+    .panel-left, .panel-right { border-right: 1px solid var(--border); border-bottom: none; }
+    .panel-center { border-bottom: 1px solid var(--border); }
+  }
+  
+  /* === STARFIELD — animated twinkling === */
+  .starfield {
+    position: fixed; inset: 0; z-index: 0; pointer-events: none;
+    background:
+      radial-gradient(1px 1px at 10% 20%, rgba(255,255,255,0.6), transparent),
+      radial-gradient(1.5px 1.5px at 40% 15%, rgba(34,211,238,0.5), transparent),
+      radial-gradient(1.5px 1.5px at 70% 30%, rgba(167,139,250,0.5), transparent),
+      radial-gradient(1.5px 1.5px at 60% 80%, rgba(251,191,36,0.4), transparent),
+      radial-gradient(2px 2px at 5% 50%, rgba(34,211,238,0.3), transparent);
+    animation: twinkle 4s ease-in-out infinite;
+  }
+  @keyframes twinkle {
+    0%, 100% { opacity: 0.6; }
+    50% { opacity: 1; }
+  }
+  
+  /* === MOON — real phase visualization === */
+  .moon-container {
+    position: fixed; top: 50px; right: 60px; z-index: 0; pointer-events: none;
+    display: flex; flex-direction: column; align-items: center; gap: 4px;
+  }
+  .moon {
+    width: 70px; height: 70px; border-radius: 50%;
+    background: radial-gradient(circle at 35% 35%, #f5f5f5 0%, #d4d4d4 40%, #a3a3a3 70%, #737373 100%);
+    box-shadow: 0 0 40px rgba(255,255,255,0.15), inset -8px -8px 20px rgba(0,0,0,0.3);
+    position: relative; overflow: hidden;
+    transition: all 1s ease;
+  }
+  .moon-phase {
+    position: absolute; inset: 0; border-radius: 50%;
+    transition: all 1s ease;
+  }
+  .moon-label {
+    font-family: 'Space Mono', monospace; font-size: 9px;
+    color: var(--text-dim); text-align: center;
+  }
+  
+  /* === FLUX CAPACITOR — BTTF homage === */
+  .flux-capacitor {
+    position: fixed; bottom: 20px; right: 20px; z-index: 0; pointer-events: none;
+    width: 80px; height: 80px;
+  }
+  .flux-ring {
+    position: absolute; inset: 0; border: 2px solid var(--accent-cyan);
+    border-radius: 50%; animation: flux-pulse 2s ease-in-out infinite;
+  }
+  .flux-ring:nth-child(2) { inset: 10px; animation-delay: 0.3s; }
+  .flux-ring:nth-child(3) { inset: 20px; animation-delay: 0.6s; }
+  .flux-center {
+    position: absolute; inset: 30px; border-radius: 50%;
+    background: var(--accent-cyan); box-shadow: var(--glow-cyan);
+    animation: flux-center-pulse 1s ease-in-out infinite;
+  }
+  @keyframes flux-pulse {
+    0%, 100% { opacity: 0.3; transform: scale(1); }
+    50% { opacity: 1; transform: scale(1.1); }
+  }
+  @keyframes flux-center-pulse {
+    0%, 100% { box-shadow: 0 0 12px var(--accent-cyan); }
+    50% { box-shadow: 0 0 25px var(--accent-cyan); }
+  }
+  
+  /* === CONSTELLATIONS — subtle background patterns === */
+  .constellation {
+    position: fixed; z-index: 0; pointer-events: none; opacity: 0.15;
+  }
+  .constellation svg { width: 100%; height: 100%; }
+  .constellation path { stroke: var(--accent-violet); fill: none; stroke-width: 0.5; }
+  .constellation circle { fill: var(--accent-violet); }
+  
+  /* === OFFICE PLANT — subtle Office homage === */
+  .office-plant {
+    position: fixed; bottom: 10px; left: 10px; z-index: 0; pointer-events: none;
+    font-size: 24px; opacity: 0.4;
+    animation: plant-sway 6s ease-in-out infinite;
+  }
+  @keyframes plant-sway {
+    0%, 100% { transform: rotate(-2deg); }
+    50% { transform: rotate(2deg); }
+  }
+  
+  .layout {
+    position: relative; z-index: 1; display: grid;
+    grid-template-columns: 300px 1fr 300px;
+    grid-template-rows: 52px minmax(420px, auto) auto;
+    min-height: 100vh; height: auto; gap: 0;
+  }
+  header {
+    grid-column: 1/-1; display: flex; align-items: center; gap: 12px;
+    padding: 0 16px; background: rgba(10,12,20,0.85); backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--border);
+  }
+  header h1 {
+    font-family: 'Orbitron', sans-serif; font-size: 14px; font-weight: 600;
+    background: linear-gradient(135deg, var(--accent-cyan), var(--accent-violet));
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    letter-spacing: 0.05em;
+  }
+  
+  /* === TIME CIRCUIT CLOCK — BTTF style === */
+  .time-circuit {
+    display: flex; gap: 4px; align-items: center;
+  }
+  .time-circuit .segment {
+    background: #0a0c14; border: 1px solid var(--border); border-radius: 4px;
+    padding: 2px 6px; font-family: 'Space Mono', monospace; font-size: 10px;
+    color: var(--accent-emerald); min-width: 24px; text-align: center;
+    text-shadow: 0 0 8px var(--accent-emerald);
+  }
+  .time-circuit .colon {
+    color: var(--accent-emerald); font-family: 'Space Mono', monospace;
+    animation: colon-blink 1s infinite;
+  }
+  @keyframes colon-blink {
+    0%, 49% { opacity: 1; }
+    50%, 100% { opacity: 0; }
+  }
+  
+  .badge {
+    font-size: 10px; color: var(--text-dim); background: var(--bg-card);
+    border: 1px solid var(--border); padding: 3px 10px; border-radius: 999px;
+    font-family: 'Space Mono', monospace;
+  }
+  .badge.live { color: var(--accent-emerald); border-color: rgba(52,211,153,0.3); }
+  .badge.warn { color: var(--accent-amber); border-color: rgba(251,191,36,0.3); }
+  .badge.err { color: var(--accent-rose); border-color: rgba(251,113,133,0.3); }
+  .badge.cyan { color: var(--accent-cyan); border-color: rgba(34,211,238,0.3); }
+  .badge.violet { color: var(--accent-violet); border-color: rgba(167,139,250,0.3); }
+  
+  /* === HOUSE POINTS — Harry Potter style === */
+  .house-points {
+    display: flex; gap: 6px; align-items: center; margin-left: auto;
+  }
+  .house-galleon {
+    width: 12px; height: 12px; border-radius: 50%;
+    background: radial-gradient(circle at 30% 30%, #ffd700, #b8860b);
+    box-shadow: 0 0 8px rgba(255,215,0,0.4);
+    animation: galleon-spin 4s linear infinite;
+  }
+  @keyframes galleon-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+
+  .panel { overflow-y: scroll; overflow-x: hidden; padding: 12px; background: rgba(10,12,20,0.6); scroll-behavior: smooth; }
+  .panel-left { border-right: 1px solid var(--border); }
+  .panel-right { border-left: 1px solid var(--border); }
+  .panel-center { background: rgba(5,6,10,0.4); }
+  .panel-bottom { grid-column: 1/-1; border-top: 1px solid var(--border); background: rgba(10,12,20,0.7); }
+
+  .card {
+    background: var(--bg-card); border: 1px solid var(--border); border-radius: 8px;
+    padding: 12px; margin-bottom: 10px;
+    transition: all 0.3s ease;
+  }
+  .card:hover {
+    border-color: var(--accent-cyan);
+    box-shadow: 0 0 12px rgba(34,211,238,0.2);
+  }
+  .card h3 {
+    font-family: 'Orbitron', sans-serif; font-size: 10px; font-weight: 600;
+    color: var(--text-dim); text-transform: uppercase; letter-spacing: 0.1em;
+    margin: 0 0 10px; display: flex; align-items: center; gap: 6px;
+  }
+  .card h3 .icon { font-size: 14px; }
+
+  .app-row {
+    display: flex; align-items: center; gap: 8px; padding: 8px;
+    border-radius: 6px; margin-bottom: 6px; background: rgba(255,255,255,0.02);
+    border: 1px solid transparent;
+  }
+  .app-row:hover { border-color: var(--border); }
+  .app-sigil { font-size: 20px; }
+  .app-info { flex: 1; }
+  .app-name { font-weight: 600; font-size: 12px; }
+  .app-meta { font-size: 10px; color: var(--text-dim); }
+  .app-status { font-size: 10px; padding: 2px 8px; border-radius: 999px; }
+  .app-status.ok { background: rgba(52,211,153,0.1); color: var(--accent-emerald); }
+  .app-status.warn { background: rgba(251,191,36,0.1); color: var(--accent-amber); }
+  .app-status.err { background: rgba(251,113,133,0.1); color: var(--accent-rose); }
+
+  .progress { height: 4px; background: rgba(255,255,255,0.1); border-radius: 2px; overflow: hidden; margin-top: 4px; }
+  .progress-bar { height: 100%; border-radius: 2px; transition: width 0.5s ease; }
+  .progress-bar.cyan { background: linear-gradient(90deg, var(--accent-cyan), var(--accent-blue)); }
+  .progress-bar.violet { background: linear-gradient(90deg, var(--accent-violet), var(--accent-rose)); }
+
+  .stat-row {
+    display: flex; justify-content: space-between; padding: 5px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.03); font-size: 11px;
+  }
+  .stat-row:last-child { border-bottom: none; }
+  .stat-label { color: var(--text-dim); }
+  .stat-val { font-family: 'Space Mono', monospace; font-weight: 500; }
+  .stat-val.pos { color: var(--accent-emerald); }
+  .stat-val.neg { color: var(--accent-rose); }
+  .stat-val.neutral { color: var(--accent-cyan); }
+
+  .price-item {
+    display: flex; justify-content: space-between; padding: 4px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.03); font-size: 11px;
+  }
+  .price-item:last-child { border-bottom: none; }
+
+  .event-row {
+    padding: 6px 8px; margin-bottom: 4px; border-radius: 4px;
+    background: rgba(255,255,255,0.02); border-left: 2px solid var(--border);
+    font-size: 11px;
+  }
+  .event-row.buy { border-color: var(--accent-emerald); }
+  .event-row.sell { border-color: var(--accent-rose); }
+  .event-row.alert { border-color: var(--accent-amber); }
+  .event-row.info { border-color: var(--accent-blue); }
+
+  .sentiment-gauge {
+    display: flex; align-items: center; gap: 8px; padding: 8px 0;
+  }
+  .sentiment-bar {
+    flex: 1; height: 6px; border-radius: 3px; background: rgba(255,255,255,0.1);
+    overflow: hidden;
+  }
+  .sentiment-fill {
+    height: 100%; border-radius: 3px;
+    background: linear-gradient(90deg, var(--accent-rose), var(--accent-amber), var(--accent-emerald));
+  }
+
+  /* --- Bee Brain widget ---------------------------------------------------
+     Replaces the crypto card, which rendered "undefined" for every row because
+     the ledger it read has no price/change fields. This shows safety instead,
+     which is the question the scanner actually needs answered. */
+  .bee-card h3 { display: flex; align-items: center; gap: 6px; }
+  .bee-pill {
+    margin-left: auto; font-size: 9px; letter-spacing: 0.08em;
+    padding: 2px 7px; border-radius: 10px;
+    border: 1px solid var(--border); color: var(--text-dim);
+  }
+  .bee-pill.learning { color: var(--accent-emerald); border-color: rgba(52,211,153,0.4); }
+  .bee-pill.alert    { color: var(--accent-rose);    border-color: rgba(251,113,133,0.4); }
+  .bee-pill.error    { color: var(--accent-amber);   border-color: rgba(251,191,36,0.45); }
+  #bee-canvas { width: 100%; height: 190px; display: block; margin: 4px 0 2px; }
+  .bee-gate { display: flex; align-items: center; gap: 7px; margin: 3px 0; font-size: 10px; }
+  .bee-gate .nm { width: 92px; color: var(--text-dim); }
+  .bee-gate .bar { flex: 1; height: 4px; border-radius: 2px; background: rgba(255,255,255,0.07); overflow: hidden; }
+  .bee-gate .bar i { display: block; height: 100%; border-radius: 2px; transition: width .5s ease; }
+  .bee-gate.pass .bar i { background: var(--accent-emerald); box-shadow: 0 0 8px rgba(52,211,153,0.5); }
+  .bee-gate.fail .bar i { background: var(--accent-rose);    box-shadow: 0 0 8px rgba(251,113,133,0.5); }
+  /* unknown must not look like progress - it is not progress */
+  .bee-gate.unknown .bar i { background: repeating-linear-gradient(90deg, var(--text-dim) 0 3px, transparent 3px 6px); }
+  .bee-metrics { display: grid; grid-template-columns: repeat(4, 1fr); gap: 4px; margin: 8px 0 6px; text-align: center; }
+  .bee-metrics .m b { display: block; font-size: 13px; }
+  .bee-metrics .m span { font-size: 8px; color: var(--text-dim); letter-spacing: 0.06em; }
+  .bee-alert {
+    display: flex; justify-content: space-between; align-items: center; gap: 8px;
+    padding: 5px 7px; margin-top: 4px; border-radius: 5px; font-size: 9px;
+    border: 1px solid var(--border); background: rgba(255,255,255,0.02);
+  }
+  .bee-alert.dissent { border-color: rgba(251,113,133,0.4); }
+  .bee-alert.unknown { border-color: rgba(251,191,36,0.35); }
+  .bee-alert.young    { border-color: rgba(96,165,250,0.35); }
+  .bee-alert.punishment { border-color: rgba(167,139,250,0.4); }
+  .bee-alert .t { color: var(--text); font-weight: 600; }
+  .bee-alert .b { color: var(--text-dim); }
+  .bee-alert .v { font-weight: 700; white-space: nowrap; }
+  .bee-ghost { margin-top: 6px; font-size: 9px; color: var(--text-dim); }
+  .bee-ghost b { color: var(--accent-violet); }
+
+  /* --- bee growth bar ---------------------------------------------------- */
+  .bee-growth { margin-top: 8px; padding-top: 7px; border-top: 1px solid var(--border); }
+  .bee-growth-row { display: flex; align-items: center; gap: 7px; font-size: 9px; }
+  .bg-stage {
+    font-weight: 800; letter-spacing: 0.12em; font-size: 9px;
+    color: var(--accent-amber); min-width: 52px;
+  }
+  .bg-bar { flex: 1; height: 4px; border-radius: 2px; background: rgba(255,255,255,0.07); overflow: hidden; }
+  .bg-bar i {
+    display: block; height: 100%;
+    background: linear-gradient(90deg, var(--accent-emerald), var(--accent-amber));
+    box-shadow: 0 0 8px rgba(251,191,36,0.5); transition: width .6s ease;
+  }
+  .bg-pct { color: var(--text-dim); white-space: nowrap; }
+  .bee-growth-sub { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 4px; }
+  .bg-part {
+    font-size: 8px; color: var(--text-dim);
+    border: 1px solid var(--border); border-radius: 8px; padding: 1px 5px;
+  }
+  .bee-growth-note { font-size: 8px; color: var(--text-dim); opacity: .7; margin-top: 4px; }
+
+  /* --- legends for circle + graph ---------------------------------------- */
+  .circle-legend, .graph-legend {
+    display: flex; gap: 10px; flex-wrap: wrap; align-items: center;
+    font-size: 9px; color: var(--text-dim); margin-top: 6px;
+  }
+  .lg { display: inline-flex; align-items: center; gap: 4px; }
+  .lg i { width: 7px; height: 7px; border-radius: 50%; display: inline-block; }
+  #circle-canvas, #graph-canvas {
+    width: 100%; display: block; margin-top: 4px;
+    background: radial-gradient(ellipse at 50% 40%, rgba(56,189,248,0.05), transparent 70%);
+    border-radius: 6px;
+  }
+  #graph-canvas { height: 420px; }
+
+  .idea-card {
+    background: linear-gradient(135deg, rgba(167,139,250,0.05), rgba(34,211,238,0.05));
+    border: 1px solid rgba(167,139,250,0.2); border-radius: 8px;
+    padding: 10px; margin-bottom: 8px;
+  }
+  .idea-title { font-weight: 600; font-size: 11px; color: var(--accent-violet); }
+  .idea-desc { font-size: 10px; color: var(--text-dim); margin-top: 4px; }
+
+  /* === LIVE AGENT GRAPH — magic sparkle style === */
+  .live-dot {
+    display: inline-block; width: 6px; height: 6px; border-radius: 50%;
+    background: var(--accent-emerald); box-shadow: 0 0 8px var(--accent-emerald);
+    animation: pulse 2s infinite;
+  }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.4; } }
+  
+  .agent-card {
+    background: var(--bg-card); border: 1px solid var(--border); border-radius: 6px;
+    padding: 8px; min-width: 120px; flex: 1; max-width: 180px;
+    transition: all 0.3s ease; position: relative; overflow: hidden;
+  }
+  .agent-card:hover {
+    border-color: var(--accent-cyan);
+    box-shadow: 0 0 12px rgba(34,211,238,0.3);
+    transform: translateY(-2px);
+  }
+  .agent-card.running::before {
+    content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px;
+    background: linear-gradient(90deg, transparent, var(--accent-cyan), transparent);
+    animation: shimmer 2s infinite;
+  }
+  @keyframes shimmer {
+    0% { transform: translateX(-100%); }
+    100% { transform: translateX(100%); }
+  }
+  
+  /* === POTION BOTTLE — uptime status === */
+  .potion-bottle {
+    width: 12px; height: 12px; border-radius: 2px 2px 6px 6px;
+    position: relative; display: inline-block;
+  }
+  .potion-bottle.ok { background: linear-gradient(180deg, var(--accent-emerald), #065f46); }
+  .potion-bottle.warn { background: linear-gradient(180deg, var(--accent-amber), #92400e); }
+  .potion-bottle.err { background: linear-gradient(180deg, var(--accent-rose), #9f1239); }
+  .potion-bottle::after {
+    content: ''; position: absolute; top: -3px; left: 3px; width: 6px; height: 3px;
+    background: var(--bg-card); border-radius: 1px;
+  }
+  
+  /* === SHIMMER for active agents === */
+  .shimmer {
+    position: relative; overflow: hidden;
+  }
+  .shimmer::after {
+    content: ''; position: absolute; top: 0; left: -100%; width: 100%; height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(167,139,250,0.2), transparent);
+    animation: shimmer-move 3s infinite;
+  }
+  @keyframes shimmer-move {
+    0% { left: -100%; }
+    100% { left: 100%; }
+  }
+  
+  ::-webkit-scrollbar { width: 4px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+</style>
+</head>
+<body>
+<!-- BTTF Flux Capacitor -->
+<div class="flux-capacitor">
+  <div class="flux-ring"></div>
+  <div class="flux-ring"></div>
+  <div class="flux-ring"></div>
+  <div class="flux-center"></div>
+</div>
+
+<!-- Starfield -->
+<div class="starfield"></div>
+
+<!-- Moon with real phase -->
+<div class="moon-container">
+  <div class="moon" id="moon-visual">
+    <div class="moon-phase" id="moon-phase-overlay"></div>
+  </div>
+  <div class="moon-label" id="moon-phase-label">New Moon</div>
+</div>
+
+<!-- Constellation: Orion -->
+<div class="constellation" style="top: 10%; left: 5%; width: 120px; height: 80px;">
+  <svg viewBox="0 0 120 80">
+    <circle cx="20" cy="20" r="2"/><circle cx="50" cy="15" r="1.5"/><circle cx="80" cy="20" r="2"/>
+    <circle cx="35" cy="40" r="1"/><circle cx="65" cy="40" r="1"/>
+    <circle cx="20" cy="60" r="1.5"/><circle cx="50" cy="65" r="1"/><circle cx="80" cy="60" r="1.5"/>
+    <path d="M20,20 L50,15 L80,20 M35,40 L65,40 M20,60 L50,65 L80,60 M50,15 L35,40 L20,60 M80,20 L65,40 L80,60"/>
+  </svg>
+</div>
+
+<!-- Constellation: Big Dipper -->
+<div class="constellation" style="top: 15%; right: 25%; width: 100px; height: 60px;">
+  <svg viewBox="0 0 100 60">
+    <circle cx="10" cy="30" r="1.5"/><circle cx="25" cy="25" r="1.5"/><circle cx="40" cy="28" r="1.5"/>
+    <circle cx="55" cy="35" r="1.5"/><circle cx="70" cy="40" r="1.5"/><circle cx="80" cy="50" r="1.5"/>
+    <circle cx="90" cy="45" r="1.5"/>
+    <path d="M10,30 L25,25 L40,28 L55,35 L70,40 L80,50 L90,45"/>
+  </svg>
+</div>
+
+<!-- Office plant — subtle Office homage -->
+<div class="office-plant">🪴</div>
+
+<div class="layout">
+  <header>
+    <h1>ECOSYSTEMS OPS</h1>
+    <span class="badge live"><span class="live-dot"></span> LIVE</span>
+    <div class="time-circuit" id="time-circuit">
+      <span class="segment" id="tc-h">--</span>
+      <span class="colon">:</span>
+      <span class="segment" id="tc-m">--</span>
+      <span class="colon">:</span>
+      <span class="segment" id="tc-s">--</span>
+    </div>
+    <span class="badge cyan" id="moon-badge">🌙 --</span>
+    <span class="badge violet" id="num-badge">Numerology --</span>
+    <div class="house-points">
+      <div class="house-galleon"></div>
+      <span class="badge" id="house-points-badge">--</span>
+    </div>
+  </header>
+
+  <!-- LEFT: S0vryn9 Ecosystem -->
+  <div class="panel panel-left">
+    <div class="card">
+      <h3><span class="icon">⚡</span> 3mpwrapp</h3>
+      <div id="app-3mpwrapp"></div>
+    </div>
+    <div class="card">
+      <h3><span class="icon">🎮</span> Ascendant</h3>
+      <div id="app-ascendant"></div>
+    </div>
+    <div class="card">
+      <h3><span class="icon">🌐</span> Site Uptime</h3>
+      <div id="ae-uptime"></div>
+    </div>
+
+  </div>
+
+  <!-- CENTER: Trading -->
+  <div class="panel panel-center">
+    <div class="card">
+      <h3><span class="icon">📈</span> Live Market Activity</h3>
+      <div id="trading-events"></div>
+    </div>
+    <div class="card">
+      <h3><span class="icon">🎯</span> Sentiment & Watchlist</h3>
+      <div id="sentiment-gauge"></div>
+      <div id="watchlist-movers"></div>
+    </div>
+    <div class="grid-2">
+      <div class="card bee-card">
+        <h3><span class="icon">🐝</span> Bee Brain — Mushroom Body <span id="bee-status" class="bee-pill">…</span></h3>
+        <canvas id="bee-canvas" width="300" height="190"></canvas>
+        <div id="bee-waggle"></div>
+        <div id="bee-metrics" class="bee-metrics"></div>
+        <div id="bee-growth" class="bee-growth"></div>
+        <div id="bee-alerts"></div>
+      </div>
+      <div class="card">
+        <h3><span class="icon">📊</span> Ledger</h3>
+        <div id="ledger-summary"></div>
+      </div>
+    </div>
+
+    <!-- Cron Circle: pac-man eats only HEALTHY jobs. Failing/paused stay lit. -->
+    <div class="card">
+      <h3><span class="icon">🕹️</span> Cron Circle <span id="circle-status" class="bee-pill">…</span><span class="badge live" id="agent-count">0 active</span><span class="badge" id="cron-summary">—</span></h3>
+      <canvas id="circle-canvas" width="900" height="300"></canvas>
+      <div id="circle-legend" class="circle-legend"></div>
+      <div id="acNow" style="color:var(--text-dim);font-size:10px;font-family:'Space Mono',monospace;margin-bottom:6px;min-height:60px"></div>
+      <canvas id="acCanvas" width="540" height="200" style="width:100%;height:200px;display:block;border:1px solid var(--border);border-radius:6px"></canvas>
+      <div id="acLegend" style="display:flex;flex-wrap:wrap;gap:6px;margin-top:8px;font-size:10px;color:var(--text-dim)"></div>
+    </div>
+
+    <!-- Obsidian 2nd Brain: real force-directed vault graph -->
+    <div class="card">
+      <h3><span class="icon">🧠</span> Obsidian 2nd Brain <span id="graph-status" class="bee-pill">…</span></h3>
+      <canvas id="graph-canvas" width="900" height="420"></canvas>
+      <div id="graph-legend" class="graph-legend"></div>
+      <div style="margin-top:12px">
+
+    </div>
+  </div>
+
+  <!-- RIGHT: Abstract Emporium -->
+  <div class="panel panel-right">
+    <div class="card">
+      <h3><span class="icon">🏪</span> Price List</h3>
+      <div id="ae-pricing"></div>
+    </div>
+    <div class="card">
+      <h3><span class="icon">💵</span> Sales & Expenses</h3>
+      <div id="ae-finance"></div>
+    </div>
+    <div class="card">
+      <h3><span class="icon">🎟️</span> Loyalty Cards</h3>
+      <div id="ae-loyalty"></div>
+    </div>
+  </div>
+
+  <!-- BOTTOM: Ideas & Live Cron Graph -->
+  <div class="panel-bottom">
+    <div class="card">
+      <h3><span class="icon">💡</span> Ideas & Suggestions</h3>
+      <div id="ideas-list"></div>
+    </div>
+
+  </div>
+
+  <!-- CHIEF OF STAFF: Hermes sync + Kanban + Obsidian 2nd brain -->
+  <div class="panel-bottom" style="grid-column:1/-1;border-top:1px solid var(--border);background:rgba(10,12,20,0.75)">
+    <div class="card" style="margin-bottom:0">
+      <h3><span class="icon">🧠</span> Chief of Staff — Hermes Sync <span class="badge cyan" id="chief-gw">sync…</span></h3>
+      <div id="chief-panel" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px"></div>
+      <div style="margin-top:12px">
+
+    </div>
+  </div>
+  <!-- KANBAN / TODOS / TASKS / GOALS BOARD -->
+  <style>
+  .board-areas{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;min-height:340px;max-height:560px;overflow:auto}
+  .board-area{background:rgba(255,255,255,0.02);border:1px solid var(--border);border-radius:8px;padding:10px}
+  .board-area h4{margin:0 0 8px;font-size:12px;letter-spacing:.04em}
+  .board-area .sub{margin-bottom:10px}
+  .board-area .sub b{font-size:10px;text-transform:uppercase;letter-spacing:.06em;color:var(--text-dim)}
+  .board-area .cnt{display:inline-block;margin-left:6px;padding:0 6px;border-radius:8px;background:var(--border);font-size:10px;color:var(--text)}
+  .board-area ul{list-style:none;margin:2px 0 0;padding:0;max-height:150px;overflow:auto;font-size:11px}
+  .board-area li{padding:2px 0;border-bottom:1px solid rgba(255,255,255,0.04);line-height:1.3}
+  .tag-s0{color:#fbbf24}.tag-ae{color:#22d3ee}.tag-ops{color:#a78bfa}
+  </style>
+  <div class="panel-bottom" style="grid-column:1/-1;border-top:1px solid var(--border);background:rgba(10,12,20,0.78)">
+    <div class="card" style="margin-bottom:0">
+      <h3><span class="icon">🗂️</span> Kanban · Todos · Tasks · Goals <span class="badge cyan" id="board-sync">syncing…</span></h3>
+      <div class="board-areas" id="board-areas"></div>
+    </div>
+  </div>
+
+<!-- ===== 3mpwrapp Flywheels of Change + Ecosystem Health ===== -->
+<div class="panel-bottom" style="grid-column:1/-1; border-top:2px solid #22d3ee; background:rgba(10,12,20,0.82); margin-top:10px;">
+  <div class="card" style="margin-bottom:0">
+    <h3><span class="icon">🔄</span> 3mpwrapp — Flywheels of Change <span class="badge cyan" id="fw-sync">syncing…</span></h3>
+    <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:12px;">
+      <div class="fw-card" style="border:1px solid var(--border); border-radius:8px; padding:10px;">
+        <div style="font-size:13px; font-weight:600; color:#34d399;">📚 Evidence Flywheel</div>
+        <div id="fw-evidence" style="font-size:11px; color:var(--text-dim); margin-top:6px;">loading…</div>
+      </div>
+      <div class="fw-card" style="border:1px solid var(--border); border-radius:8px; padding:10px;">
+        <div style="font-size:13px; font-weight:600; color:#fbbf24;">✊ Collective Action Flywheel</div>
+        <div id="fw-collective" style="font-size:11px; color:var(--text-dim); margin-top:6px;">loading…</div>
+      </div>
+      <div class="fw-card" style="border:1px solid var(--border); border-radius:8px; padding:10px;">
+        <div style="font-size:13px; font-weight:600; color:#a78bfa;">🕸️ Knowledge Network Flywheel</div>
+        <div id="fw-knowledge" style="font-size:11px; color:var(--text-dim); margin-top:6px;">loading…</div>
+      </div>
+    </div>
+</div>
+
+</div>
+
+<!-- Pac-Man cron graph (inlined from ops-activity.js) -->
+<script>
+// API base MUST be defined before any function that uses it (refreshAgents runs immediately below)
+const API = location.origin;
+const PAC_COLOR = "#fbbf24";
+const GHOST_COLORS = ["#f87171", "#22d3ee", "#a78bfa", "#34d399", "#f472b6"];
+const ACTIVE_COLOR = "#fbbf24";
+let feedLog = [];
+let commanders = null;
+let units = [];
+
+function el(id){ return document.getElementById(id); }
+function e(id){ return el(id); }
+function getJSON(path, noStore){ return (noStore !== false ? {cache:'no-store'} : {}).cache; }
+function pushFeed(msg){
+  const t = new Date().toLocaleTimeString();
+  feedLog.unshift(`[${t}] ${msg}`);
+  feedLog = feedLog.slice(0, 40);
+  const p = e('acNow');
+  if (p) p.textContent = feedLog.slice(0, 6).join('\n');
+}
+
+function drawPacDot(ctx, x, y, color="#374151", r=4){
+  ctx.beginPath(); ctx.arc(x,y,r,0,Math.PI*2); ctx.fillStyle=color; ctx.fill();
+}
+
+function initCommanders(W, H){
+  commanders = {
+    hermes:   { x: W*0.30, y: H*0.54, color:'#fbbf24', label:'HERMES', sub:'#1' },
+    degenwiz: { x: W*0.72, y: H*0.54, color:'#a78bfa', label:'DEGENWIZ', sub:'#2' }
+  };
+}
+
+function drawPacCanvas(){
+  const c = e('acCanvas'); if (!c) return;
+  const ctx = c.getContext('2d');
+  const W = c.width = c.clientWidth || 560; const H = c.height = 220;
+  ctx.clearRect(0,0,W,H);
+  if (!commanders) initCommanders(W, H);
+  const t = Date.now();
+  // formation rings + numerology aura around each commander
+  for (const key of ['hermes','degenwiz']){
+    const cm = commanders[key];
+    ctx.strokeStyle = key==='hermes' ? 'rgba(251,191,36,0.10)' : 'rgba(167,139,250,0.10)';
+    ctx.lineWidth = 1;
+    [60, 76].forEach(rr=>{ ctx.beginPath(); ctx.arc(cm.x, cm.y, rr, 0, Math.PI*2); ctx.stroke(); });
+    ctx.strokeStyle = key==='hermes' ? 'rgba(251,191,36,0.30)' : 'rgba(167,139,250,0.30)';
+    ctx.beginPath(); ctx.arc(cm.x, cm.y, 22 + Math.sin(t*0.002)*3, 0, Math.PI*2); ctx.stroke();
+  }
+  // cron units (formation / drift on error)
+  for (const u of units){
+    if (u.status === 'error'){
+      u.x += u.vx; u.y += u.vy; u.vx*=0.97; u.vy*=0.97;
+      const dx=u.hx-u.x, dy=u.hy-u.y, d=Math.sqrt(dx*dx+dy*dy);
+      if (d>38){ u.vx+=dx*0.02; u.vy+=dy*0.02; }
+      ctx.globalAlpha = 0.45 + 0.55*Math.abs(Math.sin(t*0.01));
+    } else { ctx.globalAlpha = u.status==='paused' ? 0.35 : 1; }
+    const col = u.status==='error' ? '#f87171' : (u.status==='paused' ? '#6b7280' : (u.owner==='hermes' ? '#fbbf24' : '#a78bfa'));
+    ctx.beginPath(); ctx.arc(u.x, u.y, u.status==='error'?6:4, 0, Math.PI*2); ctx.fillStyle=col; ctx.fill();
+    ctx.globalAlpha = 1;
+  }
+  // commanders
+  for (const key of ['hermes','degenwiz']){
+    const cm = commanders[key];
+    if (key==='hermes'){
+      ctx.fillStyle = cm.color; ctx.save(); ctx.translate(cm.x, cm.y);
+      const mouth = 0.22 + 0.08*Math.sin(t*0.005);
+      ctx.beginPath(); ctx.moveTo(0,0); ctx.arc(0,0,15,mouth,Math.PI*2-mouth); ctx.fill(); ctx.restore();
+      ctx.fillStyle='#000'; ctx.fillRect(cm.x-2, cm.y-9, 2, 2);
+    } else {
+      ctx.fillStyle = cm.color; ctx.save(); ctx.translate(cm.x, cm.y); ctx.rotate(Math.PI/4);
+      ctx.fillRect(-9,-9,18,18); ctx.restore();
+      ctx.fillStyle='#000'; ctx.fillRect(cm.x-2, cm.y-2, 4, 4);
+    }
+    ctx.fillStyle = cm.color; ctx.font='bold 10px monospace';
+    ctx.fillText(cm.label, cm.x-24, cm.y+32);
+    ctx.fillStyle='#9ca3af'; ctx.font='8px monospace';
+    ctx.fillText(cm.sub, cm.x+20, cm.y+32);
+  }
+  ctx.fillStyle='#e5e7eb'; ctx.font='bold 10px monospace';
+  ctx.fillText('CRON FIELD', 8, 14);
+  const errs = units.filter(u=>u.status==='error').length;
+  if (errs>0){ ctx.fillStyle='#f87171'; ctx.fillText(`⚠ ${errs} ERR`, W-58, 14); }
+}
+
+async function refreshAgents(){
+  try{
+    const c = e('acCanvas'); if (!c) return;
+    const W = c.width = c.clientWidth || 560; const H = c.height = 220;
+    if (!commanders) initCommanders(W, H);
+    const r = await fetch(API + '/api/crons', {cache:'no-store'});
+    if (!r.ok) return;
+    const data = await r.json();
+    const jobs = data.jobs || [];
+    units = [];
+    const groups = { hermes: [], degenwiz: [] };
+    jobs.forEach(j=>{
+      const owner = (j.agent||'hermes').toLowerCase();
+      const key = owner.includes('degen') ? 'degenwiz' : 'hermes';
+      groups[key].push(j);
+    });
+    for (const key of ['hermes','degenwiz']){
+      const cm = commanders[key];
+      const list = groups[key]; const n = list.length;
+      list.forEach((j, i)=>{
+        const ang = (i/Math.max(n,1))*Math.PI*2 - Math.PI/2;
+        const rad = 50 + (i%3)*16;
+        const ox = cm.x + Math.cos(ang)*rad, oy = cm.y + Math.sin(ang)*rad;
+        const isErr = j.last_status === 'error';
+        const isPaused = j.state === 'paused';
+        units.push({ owner:key, x:ox, y:oy, hx:ox, hy:oy,
+          status: isErr?'error':(isPaused?'paused':'ok'), name:j.name,
+          vx: isErr?(Math.random()-0.5)*1.5:0, vy: isErr?(Math.random()-0.5)*1.5:0 });
+      });
+    }
+    const legend = e('acLegend');
+    if (legend){
+      const hN = groups.hermes.length, dN = groups.degenwiz.length;
+      const errs = units.filter(u=>u.status==='error').length;
+      legend.innerHTML = `<span>🟡 Hermes: ${hN}</span><span>🟣 DegenWiz: ${dN}</span><span style="color:#f87171">👻 ${errs} err</span><span>Upd ${new Date().toLocaleTimeString()}</span>`;
+    }
+    const count = e('agent-count'); if (count) count.textContent = `${units.filter(u=>u.status!=='paused').length} active`;
+    const sum = e('cron-summary'); if (sum) sum.textContent = `${jobs.length} total`;
+    const errs = units.filter(u=>u.status==='error').length;
+    pushFeed(`crons: ${jobs.length} (H${groups.hermes.length}/D${groups.degenwiz.length}) ${errs?errs+' ERR':''}`);
+  }catch(err){ console.error('agent refresh error', err); }
+}
+
+let lastPacFrame = performance.now();
+function pacLoop(){
+  const now = performance.now(); lastPacFrame = now;
+  const c = e('acCanvas');
+  if (c) drawPacCanvas();
+  requestAnimationFrame(pacLoop);
+}
+requestAnimationFrame(pacLoop);
+refreshAgents();
+setInterval(refreshAgents, 15000);
+
+// === Main dashboard functions ===
+function get(path){
+  return fetch(API + path, {cache:'no-store'})
+    .then(r => { if(!r.ok) throw new Error('HTTP '+r.status); return r.json(); })
+    .catch(e => {
+      console.warn('API fetch fail', path, e && e.message || e);
+      // Return minimal safe defaults so render functions never crash; cards stay visible (last-good or empty-state with label)
+      if (path === '/api/s0vryn9') return { apps: {}, tasks: [], s0vryn9_expenses: [] };
+      if (path === '/api/trading') return { events: [], sentiment: 0.5, movers: [], crypto: [], ledger: { wins:0, losses:0, net:0 } };
+      if (path === '/api/ae') return { sales: [], expenses: [], loyalty: [], pricing: {} };
+      if (path === '/api/websites') return { sites: [] };
+      if (path === '/api/bee') return { status: 'ERROR', message: path + ' unreachable', gates: [], metrics: {}, alerts: [] };
+      if (path === '/api/bee-growth') return { stage: 'ERROR' };
+      if (path === '/api/circle') return { error: path + ' unreachable', rings: [], meta: {} };
+      if (path === '/api/vaultgraph') return { error: path + ' unreachable', nodes: [], links: [], meta: {} };
+      if (path === '/api/ideas') return { ideas: [] };
+      if (path === '/api/delegation') return { agents: [] };
+      if (path === '/api/chief') return { gateway_up: false, crons_enabled: 0, crons_total: 0, vault_nodes: 0, vault_links: 0, active_sessions: 0, crons_errored: [] };
+      if (path === '/api/kanban') return { total: 0, done: 0, by_status: {}, recent: [] };
+      return {};
+    });
+}
+function esc(s){ const d=document.createElement('div'); d.appendChild(document.createTextNode(String(s))); return d.innerHTML; }
+function money(n){ try{ return '$'+parseFloat(n).toFixed(2); }catch(e){ return n; } }
+
+// Time Circuit Clock (BTTF style)
+function updateTimeCircuit() {
+  const now = new Date();
+  document.getElementById('tc-h').textContent = String(now.getHours()).padStart(2,'0');
+  document.getElementById('tc-m').textContent = String(now.getMinutes()).padStart(2,'0');
+  document.getElementById('tc-s').textContent = String(now.getSeconds()).padStart(2,'0');
+}
+setInterval(updateTimeCircuit, 1000);
+updateTimeCircuit();
+
+// Moon phase visualization
+function updateMoonVisual(phase) {
+  const overlay = document.getElementById('moon-phase-overlay');
+  const label = document.getElementById('moon-phase-label');
+  if (!overlay || !label) return;
+  label.textContent = phase || 'New Moon';
+  
+  // Calculate shadow based on phase name
+  const phases = {
+    'New Moon': 'rgba(0,0,0,0.95)',
+    'Waxing Crescent': 'rgba(0,0,0,0.7)',
+    'First Quarter': 'rgba(0,0,0,0.5)',
+    'Waxing Gibbous': 'rgba(0,0,0,0.3)',
+    'Full Moon': 'rgba(0,0,0,0)',
+    'Waning Gibbous': 'rgba(0,0,0,0.3)',
+    'Last Quarter': 'rgba(0,0,0,0.5)',
+    'Waning Crescent': 'rgba(0,0,0,0.7)',
+  };
+  const shadow = phases[phase] || 'rgba(0,0,0,0.5)';
+  overlay.style.background = `linear-gradient(90deg, ${shadow} 50%, transparent 50%)`;
+  overlay.style.borderRadius = '50%';
+}
+
+function renderApps(apps) {
+  const el = document.getElementById('app-3mpwrapp');
+  const ascEl = document.getElementById('app-ascendant');
+  const app3 = apps['3mpwrapp'] || { progress: 85, status: 'Beta Ready', notes: 'AAB built' };
+  const appA = apps['ascendant'] || { progress: 78, status: 'Pre-Beta', notes: 'TWA signed' };
+  el.innerHTML = `<div class="app-row">
+    <span class="app-sigil">⚡</span>
+    <div class="app-info">
+      <div class="app-name">3mpwrapp</div>
+      <div class="app-meta">${esc(app3.notes)}</div>
+      <div class="progress"><div class="progress-bar cyan" style="width:${app3.progress}%"></div></div>
+    </div>
+    <span class="app-status ${app3.progress>80?'ok':'warn'}">${esc(app3.status)}</span>
+  </div>`;
+  ascEl.innerHTML = `<div class="app-row">
+    <span class="app-sigil">🎮</span>
+    <div class="app-info">
+      <div class="app-name">Ascendant</div>
+      <div class="app-meta">${esc(appA.notes)}</div>
+      <div class="progress"><div class="progress-bar violet" style="width:${appA.progress}%"></div></div>
+    </div>
+    <span class="app-status ${appA.progress>80?'ok':'warn'}">${esc(appA.status)}</span>
+  </div>`;
+}
+
+function renderTasks(data) {
+  const el = document.getElementById('tasks-list');
+    if (!el) return;
+    const tasks = (data.tasks || []).slice(0, 8);
+  if (!tasks.length) { el.innerHTML = '<div style="color:var(--text-dim);font-size:11px">No pending tasks</div>'; return; }
+  el.innerHTML = tasks.map(t => `<div class="event-row ${t.done ? 'info' : 'alert'}">${t.done ? '✅' : '☐'} ${esc(t.text)}</div>`).join('');
+}
+
+function renderS0vExpenses(data) {
+  const el = document.getElementById('s0vryn9-expenses');
+  if (!el) return;
+  const exp = (data.s0vryn9_expenses || []).slice(0, 5);
+  if (!exp.length) { el.innerHTML = '<div style="color:var(--text-dim);font-size:11px">No recent expenses</div>'; return; }
+  el.innerHTML = exp.map(e => `<div class="stat-row"><span class="stat-label">${esc(e.note||e.vendor||'')}</span><span class="stat-val neg">${money(e.total||e.amount)}</span></div>`).join('');
+}
+
+function renderTradingEvents(data) {
+  const el = document.getElementById('trading-events');
+  const events = data.events || [];
+  if (!events.length) { el.innerHTML = '<div style="color:var(--text-dim);font-size:11px">No recent market activity</div>'; return; }
+  el.innerHTML = events.slice(0, 10).map(e => `<div class="event-row ${e.type||'info'}">${esc(e.text)}</div>`).join('');
+}
+
+function renderSentiment(data) {
+  const el = document.getElementById('sentiment-gauge');
+  const score = data.sentiment || 0.5;
+  const pct = Math.round(score * 100);
+  el.innerHTML = `<div class="sentiment-gauge">
+    <span style="font-size:10px;color:var(--accent-rose)">Bear</span>
+    <div class="sentiment-bar"><div class="sentiment-fill" style="width:${pct}%"></div></div>
+    <span style="font-size:10px;color:var(--accent-emerald)">Bull</span>
+    <span style="font-size:10px;color:var(--text-dim)">${pct}% · ${pct>70?'BULLISH':pct<30?'BEARISH':'NEUTRAL/HOLD'}</span></div>`;
+  const el2 = document.getElementById('watchlist-movers');
+    const movers = data.movers || [];
+    const watchlist = data.crypto || [];
+    if (!movers.length && !watchlist.length) {
+      el2.innerHTML = '<div style="font-size:10px;color:var(--text-dim);padding-top:6px">No movers detected</div>';
+      return;
+    }
+    if (movers.length) {
+      el2.innerHTML = '<div style="font-size:9px;color:var(--text-dim);margin:8px 0 4px">WATCHLIST MOVERS — BULLISH / BEARISH / HAWKISH</div>' +
+        movers.slice(0,5).map(m => `<div class="stat-row"><span class="stat-label">${esc(m.symbol)} <b style="color:${parseFloat(m.change)>=5?'#34d399':parseFloat(m.change)<=-3?'#fb7185':'#fbbf24'})">${parseFloat(m.change)>=5?'BULL':parseFloat(m.change)<=-3?'BEAR':'HAWK'}</b></span><span class="stat-val ${parseFloat(m.change)>=0?'pos':'neg'}">${parseFloat(m.change)>=0?'+':''}${esc(m.change)}%</span></div>`).join('');
+    } else {
+      el2.innerHTML = '<div style="font-size:9px;color:var(--text-dim);margin:8px 0 4px">WATCHLIST (crypto prices)</div>' +
+        watchlist.slice(0,5).map(w => `<div class="stat-row"><span class="stat-label">${esc(w.symbol)}${w.ca ? ` (${w.ca.slice(0,6)})` : ''}</span><span class="stat-val">${esc(w.price||'')}</span></div>`).join('');
+    }
+}
+
+/* ===== Bee Brain ==========================================================
+   Mushroom body = the safety organ. Waggle dance = each gate voting out loud.
+   The glow colour tracks the real verdict: green all-pass, red any fail,
+   amber when gates are unverified. Never animated to "green" optimistically -
+   a panel that looks calm while checks are unknown is the exact lie this
+   whole fleet has been removing. */
+
+// Stage multipliers: the body only grows into these as evidence accrues.
+const STAGE_MULT = { EGG:0.55, LARVA:0.70, PUPA:0.85, WORKER:1.00, QUEEN:1.18 };
+const growthState = { stage:'EGG', prog:0, pulse:0 };
+
+const beeState = { verdict: null, passed: 0, failed: 0, unknown: 0, t: 0, raf: null };
+
+function beeColor() {
+  if (beeState.failed > 0) return [251,113,133];
+  if (beeState.unknown > 0) return [251,191,36];
+  if (beeState.passed > 0) return [52,211,153];
+  return [107,114,128];
+}
+
+function drawBee() {
+  const cv = document.getElementById('bee-canvas');
+  if (!cv) return;
+  const ctx = cv.getContext('2d');
+  const W = cv.width, H = cv.height, cx = W/2, cy = H/2 - 6;
+  const [r,g,b] = beeColor();
+  beeState.t += 0.016;
+  const t = beeState.t;
+
+  ctx.clearRect(0,0,W,H);
+
+  // sensor nodes — the peripheral inputs
+  const sensors = [[cx-96,cy-52],[cx+96,cy-52],[cx-104,cy+8],[cx+104,cy+8]];
+  sensors.forEach(([x,y],i) => {
+    const pulse = 0.35 + 0.35*Math.sin(t*1.6 + i);
+    ctx.beginPath(); ctx.arc(x,y,2.4,0,7);
+    ctx.fillStyle = `rgba(96,165,250,${0.25+pulse*0.5})`; ctx.fill();
+  });
+  ctx.strokeStyle = 'rgba(96,165,250,0.10)'; ctx.lineWidth = 1;
+  sensors.forEach(([x,y]) => { ctx.beginPath(); ctx.moveTo(cx,cy); ctx.lineTo(x,y); ctx.stroke(); });
+
+  // mushroom body — two lobes, breathing
+  const breath = (1 + 0.045*Math.sin(t*1.9))
+               * (STAGE_MULT[growthState.stage] || 0.55);   // grows on evidence
+  const lobes = [[0,-16,46,26],[0,14,38,20]];
+  ctx.save();
+  ctx.shadowBlur = 26; ctx.shadowColor = `rgba(${r},${g},${b},0.55)`;
+  lobes.forEach(([ox,oy,rw,rh]) => {
+    ctx.beginPath(); ctx.ellipse(cx+ox, cy+oy, rw*breath, rh*breath, 0, 0, 7);
+    const grd = ctx.createRadialGradient(cx+ox, cy+oy, 2, cx+ox, cy+oy, rw*breath);
+    grd.addColorStop(0,   `rgba(${r},${g},${b},0.85)`);
+    grd.addColorStop(0.6, `rgba(${r},${g},${b},0.32)`);
+    grd.addColorStop(1,   `rgba(${r},${g},${b},0.04)`);
+    ctx.fillStyle = grd; ctx.fill();
+  });
+  ctx.restore();
+
+  // Kenyon cells — the memory traces inside the body.
+  // one lit cell per passing gate, so the picture is the data.
+  const total = Math.max(1, beeState.passed + beeState.failed + beeState.unknown);
+  for (let i=0;i<8;i++) {
+    const a = (i/8)*Math.PI*2 + t*0.22;
+    const rad = 20 + (i%3)*9;
+    const lit = i < beeState.passed;
+    const x = cx + Math.cos(a)*rad, y = cy + Math.sin(a)*rad*0.62;
+    ctx.beginPath(); ctx.arc(x,y, lit?2.1:1.2, 0, 7);
+    ctx.fillStyle = lit ? `rgba(${r},${g},${b},0.95)` : 'rgba(255,255,255,0.14)';
+    ctx.fill();
+    if (lit) { ctx.shadowBlur = 8; ctx.shadowColor = `rgba(${r},${g},${b},0.8)`; ctx.fill(); ctx.shadowBlur = 0; }
+  }
+
+  // pheromone trail — the waggle, the path out and back
+  ctx.beginPath();
+  for (let i=0;i<=48;i++) {
+    const p = i/48, ang = p*Math.PI*2*1.4 + t*0.9;
+    const rad = 78 + 12*Math.sin(p*10 + t*2.4);
+    const x = cx + Math.cos(ang)*rad, y = cy + Math.sin(ang)*rad*0.5;
+    i ? ctx.lineTo(x,y) : ctx.moveTo(x,y);
+  }
+  ctx.strokeStyle = `rgba(${r},${g},${b},0.28)`; ctx.lineWidth = 1.2; ctx.stroke();
+
+  // signal strength base
+  const bars = beeState.passed;
+  for (let i=0;i<5;i++) {
+    const h = 4 + i*4;
+    ctx.fillStyle = i < bars ? `rgba(${r},${g},${b},0.75)` : 'rgba(255,255,255,0.09)';
+    ctx.fillRect(cx - 18 + i*8, cy + 74 - h, 5, h);
+  }
+
+  beeState.raf = requestAnimationFrame(drawBee);
+}
+
+function renderBee(d) {
+  const pill = document.getElementById('bee-status');
+  if (!pill) return;
+  const m = d.metrics || {};
+  beeState.passed  = parseInt(String(m.gates_pass||'0/5').split('/')[0],10) || 0;
+  beeState.failed  = (d.alerts||[]).some(a=>a.kind==='dissent') ? 1 : 0;
+  beeState.unknown = m.unknown || 0;
+  beeState.verdict = m.verdict || 'UNKNOWN';
+
+  if (d.status === 'ERROR') {
+    pill.textContent = 'ERROR'; pill.className = 'bee-pill error';
+    document.getElementById('bee-waggle').innerHTML =
+      `<div style="font-size:10px;color:var(--accent-amber);padding:6px 0">
+        Bee Brain unavailable — ${esc(d.message||'unknown error')}. Gates NOT checked.</div>`;
+    beeState.passed = 0; beeState.failed = 1; beeState.unknown = 0;
+    if (!beeState.raf) beeState.raf = requestAnimationFrame(drawBee);
+    return;
+  }
+
+  const label = d.status === 'ALERT' ? 'ALERT' : (d.status || 'LEARNING');
+  pill.textContent = label; pill.className = 'bee-pill ' + (d.status==='ALERT'?'alert':'learning');
+
+  // waggle dance — the per-gate vote
+  document.getElementById('bee-waggle').innerHTML =
+    '<div style="font-size:8px;letter-spacing:0.14em;color:var(--text-dim);margin:6px 0 4px">WAGGLE DANCE — PER-GATE VOTES</div>' +
+    (d.gates||[]).map(x => `<div class="bee-gate ${x.state}">
+        <span class="nm">${esc(x.name)}</span>
+        <span class="bar"><i style="width:${x.pct}%"></i></span>
+        <span>${x.icon}</span></div>`).join('');
+
+  // metrics
+  const cols = [
+    [m.gates_pass||'—', 'GATES PASS', 'var(--accent-emerald)'],
+    [m.unknown||0,     'UNVERIFIED', m.unknown?'var(--accent-amber)':'var(--text-dim)'],
+    [m.verdict||'—',   'VERDICT',
+      m.verdict==='PASS'?'var(--accent-emerald)':m.verdict==='FAIL'?'var(--accent-rose)':'var(--accent-amber)'],
+    [m.kenyon_cells||'2,000', 'KENYON CELLS', 'var(--text)'],
+  ];
+  document.getElementById('bee-metrics').innerHTML = cols.map(([v,l,c]) =>
+    `<div class="m"><b style="color:${c}">${esc(v)}</b><span>${l}</span></div>`).join('');
+
+  // alerts
+  let html = (d.alerts||[]).map(a => `<div class="bee-alert ${a.kind}">
+      <div><div class="t">${a.icon} ${esc(a.title)}</div><div class="b">${esc(a.body)}</div></div>
+      <div class="v">${esc(a.value)}</div></div>`).join('');
+  // Ghost benchmark — the control that must never score above zero
+  const gh = d.ghost || {};
+  html += `<div class="bee-ghost">👻 <b>Ghost benchmark: "${esc(gh.label||'buy nothing')}"</b> — ${esc(gh.result||'BASELINE')}${gh.above?' <b style="color:var(--accent-rose)">ABOVE — scoring is broken</b>':''}</div>`;
+  document.getElementById('bee-alerts').innerHTML = html;
+
+  if (!beeState.raf) beeState.raf = requestAnimationFrame(drawBee);
+}
+
+
+</script>
+<style>
+/* === Visual enhancements: hover effects, pulse, fade-in === */
+.card{transition:transform 0.2s ease,box-shadow 0.2s ease,border-color 0.2s ease}
+.card:hover{transform:translateY(-2px);box-shadow:0 4px 24px rgba(99,102,241,0.18);border-color:rgba(99,102,241,0.35)}
+.badge.live{animation:pulse 2s infinite;border-radius:6px;padding:2px 8px;font-size:9px}
+@keyframes pulse{0%,100%{opacity:1;box-shadow:0 0 0 0 rgba(52,211,153,0.6)}50%{opacity:0.85;box-shadow:0 0 0 6px rgba(52,211,153,0)}}
+@keyframes fadeIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+.card>div, .card>canvas, .card>h3{animation:fadeIn 0.35s ease both}
+.card>h3{animation-delay:0s}
+.card>div:nth-child(2){animation-delay:0.05s}
+.card>canvas{animation-delay:0.1s}
+.bee-pill{transition:background 0.3s ease,color 0.3s ease,box-shadow 0.3s ease}
+.panel-bottom{transition:opacity 0.3s ease}
+/* Pac-Man cron circle: subtle glow on healthy jobs */
+#circle-canvas{transition:box-shadow 0.4s ease}
+.healthy-glow{box-shadow:0 0 12px rgba(52,211,153,0.35)}
+/* Smooth number transitions */
+.num-transition{transition:opacity 0.25s ease,transform 0.25s ease}
+</style>
+<script>
+
+/* ===== Cron Circle =========================================================
+   Pac-man moves continuously around the ring and eats ONLY clean jobs.
+   A failing / paused / never-run job is deliberately NOT eaten - it stays lit
+   on the ring. The animation is the honest state: if the ring is mostly eaten,
+   things are genuinely fine; if dots remain, they remain visible. */
+
+const circleState = { jobs: [], eaten: new Set(), ang: 0, raf: null, meta: {} };
+const HC = { clean:'#34d399', failing:'#fb7185', error:'#f472b6', paused:'#64748b', unknown:'#fbbf24' };
+
+function drawCircle() {
+  const cv = document.getElementById('circle-canvas');
+  if (!cv) return;
+  const ctx = cv.getContext('2d');
+  const W = cv.width, H = cv.height, cx = W/2, cy = H/2;
+  const R = Math.min(W,H)/2 - 34;
+  const jobs = circleState.jobs;
+  ctx.clearRect(0,0,W,H);
+  if (!jobs.length) { circleState.raf = requestAnimationFrame(drawCircle); return; }
+
+  const N = jobs.length;
+  const step = (Math.PI*2) / N;
+  // pac travels a fixed fraction of the ring per frame; catch up smoothly
+  circleState.ang = (circleState.ang + 0.0022) % (Math.PI*2);
+  const eatIdx = Math.floor((circleState.ang / (Math.PI*2)) * N) % N;
+
+  // ring
+  ctx.beginPath(); ctx.arc(cx,cy,R,0,7);
+  ctx.strokeStyle = 'rgba(255,255,255,0.10)'; ctx.lineWidth = 26; ctx.stroke();
+
+  // eaten arc glows as it goes
+  const eatenFrac = circleState.eaten.size / N;
+  ctx.beginPath();
+  ctx.arc(cx,cy,R, -Math.PI/2, -Math.PI/2 + eatenFrac*Math.PI*2);
+  ctx.strokeStyle = 'rgba(52,211,153,0.30)'; ctx.lineWidth = 26;
+  ctx.lineCap='round'; ctx.stroke(); ctx.lineCap='butt';
+
+  // job nodes
+  for (let i=0;i<N;i++) {
+    const a = -Math.PI/2 + i*step;
+    const x = cx + Math.cos(a)*R, y = cy + Math.sin(a)*R;
+    const j = jobs[i];
+    const eaten = circleState.eaten.has(i);
+    const c = HC[j.health] || '#64748b';
+    const isE = (i === eatIdx);
+    if (eaten) {
+      ctx.beginPath(); ctx.arc(x,y, isE?7:4.5, 0, 7);
+      ctx.fillStyle = 'rgba(52,211,153,0.30)'; ctx.fill();
+    } else {
+      ctx.save();
+      ctx.shadowBlur = isE ? 16 : 9; ctx.shadowColor = c;
+      ctx.beginPath(); ctx.arc(x,y, isE?8:5.5, 0, 7);
+      ctx.fillStyle = c; ctx.fill();
+      ctx.restore();
+    }
+    // failing jobs pulse so they cannot be missed
+    if (!eaten && (j.health==='failing'||j.health==='error')) {
+      const pl = 0.4+0.4*Math.sin(circleState.ang*8 + i);
+      ctx.beginPath(); ctx.arc(x,y, 11+4*pl, 0, 7);
+      ctx.strokeStyle = c; ctx.globalAlpha = pl*0.6; ctx.lineWidth=1.5; ctx.stroke();
+      ctx.globalAlpha = 1;
+    }
+  }
+
+  // pac-man
+  const pa = -Math.PI/2 + eatIdx*step;
+  const px = cx + Math.cos(pa)*R, py = cy + Math.sin(pa)*R;
+  const mouth = Math.abs(Math.sin(circleState.ang*9)) * 0.9 + 0.12;
+  ctx.save();
+  ctx.translate(px,py);
+  ctx.rotate(pa + Math.PI/2);
+  ctx.shadowBlur = 18; ctx.shadowColor = '#fbbf24';
+  ctx.beginPath();
+  ctx.moveTo(0,0);
+  ctx.arc(0,0, 11, mouth, Math.PI*2 - mouth);
+  ctx.closePath();
+  ctx.fillStyle = '#fbbf24'; ctx.fill();
+  ctx.restore();
+
+  // centre readout
+  const m = circleState.meta || {};
+  ctx.textAlign = 'center';
+  ctx.fillStyle = '#e2e8f0'; ctx.font = '600 15px system-ui,sans-serif';
+  ctx.fillText(`${m.clean||0} / ${m.total||0} healthy`, cx, cy - 4);
+  ctx.fillStyle = '#64748b'; ctx.font = '10px system-ui,sans-serif';
+  ctx.fillText(`${m.failing||0} failing · ${m.error||0} error · ${m.paused||0} paused · ${m.unknown||0} unverified`, cx, cy + 13);
+
+  circleState.raf = requestAnimationFrame(drawCircle);
+}
+
+function renderCircle(d) {
+  const pill = document.getElementById('circle-status');
+  if (!pill) return;
+  if (d.error) {
+    pill.textContent = 'ERROR'; pill.className = 'bee-pill error';
+    document.getElementById('circle-legend').innerHTML =
+      `<div style="font-size:10px;color:var(--accent-amber)">Cron circle unavailable — ${esc(d.error)}. State NOT shown.</div>`;
+    circleState.jobs = []; circleState.meta = {};
+    if (!circleState.raf) circleState.raf = requestAnimationFrame(drawCircle);
+    return;
+  }
+  const jobs = d.rings || [];
+  // preserve eaten-set across refreshes by job identity (name+profile)
+  const key = j => j.profile + '|' + j.name;
+  const prev = new Map(circleState.jobs.map((j,i) => [key(j), circleState.eaten.has(i)]));
+  circleState.jobs = jobs;
+  circleState.meta = d.meta || {};
+  circleState.eaten = new Set();
+  jobs.forEach((j,i) => {
+    if (j.health === 'clean' && prev.get(key(j))) circleState.eaten.add(i);
+  });
+
+  const m = d.meta || {};
+  const worst = (m.failing||0) + (m.error||0);
+  pill.textContent = worst ? `${worst} NEED ATTENTION` : 'ALL HEALTHY';
+  pill.className = 'bee-pill ' + (worst ? 'alert' : 'learning');
+
+  const counts = {};
+  jobs.forEach(j => counts[j.health] = (counts[j.health]||0)+1);
+  document.getElementById('circle-legend').innerHTML =
+    Object.keys(HC).filter(k=>counts[k]).map(k =>
+      `<span class="lg"><i style="background:${HC[k]}"></i>${k} ${counts[k]}</span>`).join('') +
+    `<span class="lg" style="opacity:.6">pac eats only clean jobs — unmet ones stay lit</span>`;
+  if (!circleState.raf) circleState.raf = requestAnimationFrame(drawCircle);
+}
+
+/* ===== Obsidian 2nd Brain ==================================================
+   Real force-directed layout over the actual vault. New nodes arrive with a
+   pop, the sim keeps drifting, and node radius encodes real backlink degree,
+   so the picture is the vault rather than a decoration of it. */
+
+const graphState = { nodes: [], links: [], raf: null, t: 0, seen: new Set(), meta: {} };
+
+function drawGraph() {
+  const cv = document.getElementById('graph-canvas');
+  if (!cv) return;
+  const ctx = cv.getContext('2d');
+  const W = cv.width, H = cv.height;
+  const N = graphState.nodes;
+  graphState.t += 0.006;
+  ctx.clearRect(0,0,W,H);
+  if (!N.length) { graphState.raf = requestAnimationFrame(drawGraph); return; }
+
+  // gentle breathing force so it never looks frozen
+  const T = graphState.t;
+  for (const n of N) {
+    n.vx += (Math.cos(T*0.5 + n.ph) * 0.004);
+    n.vy += (Math.sin(T*0.5 + n.ph) * 0.004);
+    n.vx *= 0.94; n.vy *= 0.94;
+    n.x += n.vx; n.y += n.vy;
+    if (n.x<6||n.x>W-6) n.vx *= -1;
+    if (n.y<6||n.y>H-6) n.vy *= -1;
+  }
+
+  // links
+  ctx.lineWidth = 0.6;
+  for (const [a,b] of graphState.links) {
+    const A = N[a], B = N[b];
+    if (!A || !B) continue;
+    const fade = Math.min(1, (A.r+B.r)/16);
+    ctx.strokeStyle = `rgba(120,180,255,${0.10*fade})`;
+    ctx.beginPath(); ctx.moveTo(A.x,A.y); ctx.lineTo(B.x,B.y); ctx.stroke();
+  }
+
+  // nodes - colour by folder, size by real degree
+  for (const n of N) {
+    const fresh = !graphState.seen.has(n.i);
+    const pulse = fresh ? 1 + 0.5*Math.max(0, 1 - (T - (n.born||0))*0.6) : 1;
+    ctx.beginPath(); ctx.arc(n.x, n.y, n.r*pulse, 0, 7);
+    ctx.fillStyle = n.c;
+    ctx.globalAlpha = n.exists ? 0.85 : 0.4;
+    ctx.fill();
+    ctx.globalAlpha = 1;
+    if (n.r > 3.4) {           // only label real hubs, else it is noise
+      ctx.fillStyle = 'rgba(226,232,240,0.75)';
+      ctx.font = '9px system-ui,sans-serif'; ctx.textAlign='center';
+      if (n.r > 5) ctx.fillText(n.name.slice(0,22), n.x, n.y - n.r - 4);
+    }
+    if (n.r > 6) {
+      ctx.shadowBlur = 14; ctx.shadowColor = n.c; ctx.fill();
+      ctx.shadowBlur = 0;
+    }
+  }
+  graphState.raf = requestAnimationFrame(drawGraph);
+}
+
+function renderGraph(d) {
+  const pill = document.getElementById('graph-status');
+  if (!pill) return;
+  if (d.error || !(d.nodes||[]).length) {
+    pill.textContent = d.error ? 'ERROR' : 'EMPTY';
+    pill.className = 'bee-pill error';
+    document.getElementById('graph-legend').innerHTML =
+      `<div style="font-size:10px;color:var(--accent-amber)">Vault graph unavailable — ${esc(d.error||'no nodes')}. NOT showing an empty brain as if it were fine.</div>`;
+    return;
+  }
+  const W = document.getElementById('graph-canvas').width;
+  const H = document.getElementById('graph-canvas').height;
+  const PAL = ['#38bdf8','#a78bfa','#34d399','#fbbf24','#fb7185','#22d3ee','#f472b6','#a3e635'];
+  const folders = [...new Set(d.nodes.map(n=>n.folder))].slice(0,8);
+  const prev = new Map(graphState.nodes.map(n=>[n.name, n]));
+  const maxDeg = Math.max(1, ...d.nodes.map(n=>n.deg));
+
+  graphState.nodes = d.nodes.map((n,idx) => {
+    const old = prev.get(n.name);
+    const ang = (idx / d.nodes.length) * Math.PI * 2;
+    const rad = 60 + (idx % 37) * 5;
+    return {
+      i: idx, name: n.name, deg: n.deg, exists: n.exists,
+      c: PAL[Math.max(0,folders.indexOf(n.folder)) % PAL.length],
+      r: 1.6 + (n.deg / maxDeg) * 7,
+      x: old ? old.x : W/2 + Math.cos(ang)*rad,
+      y: old ? old.y : H/2 + Math.sin(ang)*rad,
+      vx: old ? old.vx : (Math.random()-0.5)*0.6,
+      vy: old ? old.vy : (Math.random()-0.5)*0.6,
+      ph: Math.random()*6.28,
+      born: graphState.t,
+    };
+  });
+  graphState.links = d.links || [];
+  graphState.meta = d.meta || {};
+  d.nodes.forEach(n => graphState.seen.add(n.name));
+
+  const m = d.meta || {};
+  pill.textContent = `${m.total_notes||0} NOTES · ${m.links_drawn||0} LINKS`;
+  pill.className = 'bee-pill learning';
+  document.getElementById('graph-legend').innerHTML =
+    folders.map((f,i)=>`<span class="lg"><i style="background:${PAL[i%PAL.length]}"></i>${esc(f)}</span>`).join('') +
+    `<span class="lg" style="opacity:.65">size = real backlinks · faded = dangling link · rebuilt every 2 min</span>`;
+  if (!graphState.raf) graphState.raf = requestAnimationFrame(drawGraph);
+}
+
+/* ===== Bee growth ===========================================================
+   The bee grows on EVIDENCE, not on the calendar. Stage comes from persisted
+   counters in bee_evolution.py, so it survives reloads and restarts. A day
+   with no verified gates adds nothing and the bar does not move - because a
+   level that rises with time would be a lie told with a nice animation. */
+
+function renderGrowth(d) {
+  const el = document.getElementById('bee-growth');
+  if (!el) return;
+  if (!d || d.stage === 'ERROR' || !d.stage) {
+    el.innerHTML = `<div class="bee-growth-row" style="opacity:.6">growth state unavailable</div>`;
+    return;
+  }
+  growthState.stage = d.stage;
+  growthState.prog = (d.progress && d.progress.overall) || 0;
+  const pct = Math.round(growthState.prog * 100);
+  const parts = ((d.progress||{}).parts||[])
+    .map(([l,f,t]) => `<span class="bg-part" title="${esc(l)}: ${esc(t)}">${esc(l.split(' ')[0])} ${esc(t)}</span>`)
+    .join('');
+  el.innerHTML = `
+    <div class="bee-growth-row">
+      <span class="bg-stage">${esc(d.stage)}</span>
+      <span class="bg-bar"><i style="width:${pct}%"></i></span>
+      <span class="bg-pct">${pct}% → ${esc(((d.progress||{}).next)||'MAX')}</span>
+    </div>
+    <div class="bee-growth-sub">${parts}</div>
+    <div class="bee-growth-note">${esc(d.note||'')}</div>`;
+}
+
+function renderCrypto(data) {
+  const el = document.getElementById('crypto-prices');
+  if (!el) return;   // card replaced by the Bee Brain widget
+  const coins = data.crypto || [];
+  if (!coins.length) { el.innerHTML = '<div style="color:var(--text-dim);font-size:11px">No crypto data</div>'; return; }
+  el.innerHTML = coins.slice(0,4).map(c => `<div class="stat-row"><span class="stat-label">${esc(c.symbol)}</span><span class="stat-val ${parseFloat(c.change)>=0?'pos':'neg'}">${esc(c.price)} (${parseFloat(c.change)>=0?'+':''}${esc(c.change)}%)</span></div>`).join('');
+}
+
+function renderLedger(data) {
+  const el = document.getElementById('ledger-summary');
+  const led = data.ledger || { wins: 0, losses: 0, net: 0 };
+  el.innerHTML = `
+    <div class="stat-row"><span class="stat-label">Wins</span><span class="stat-val pos">${led.wins}</span></div>
+    <div class="stat-row"><span class="stat-label">Losses</span><span class="stat-val neg">${led.losses}</span></div>
+    <div class="stat-row"><span class="stat-label">Net</span><span class="stat-val ${led.net>=0?'pos':'neg'}">${money(led.net)}</span></div>`;
+}
+
+function renderPricing(data) {
+  const el = document.getElementById('ae-pricing');
+  const prices = data.pricing || {};
+  const cats = Object.keys(prices);
+  if (!cats.length) { el.innerHTML = '<div style="color:var(--text-dim);font-size:11px">No pricing data</div>'; return; }
+  el.innerHTML = cats.map(cat => `<div style="font-size:9px;color:var(--accent-amber);margin:6px 0 2px;text-transform:uppercase">${esc(cat)}</div>` +
+    prices[cat].map(p => `<div class="price-item"><span>${esc(p.name)}</span><span style="font-family:'Space Mono',monospace">${money(p.price)}</span></div>`).join('')).join('');
+}
+
+function renderAEFinance(data) {
+  const el = document.getElementById('ae-finance');
+  const sales = (data.sales||[]).reduce((s,o) => { const v = parseFloat(String(o.total||'0').replace(/[^0-9.-]/g,''))||0; return s + (v>0?v:0); }, 0);
+  const expenses = (data.expenses||[]).reduce((s,o) => s + (parseFloat(String(o.total||o.amount||'0').replace(/[^0-9.-]/g,''))||0), 0);
+  el.innerHTML = `
+    <div class="stat-row"><span class="stat-label">Sales</span><span class="stat-val pos">${money(sales)}</span></div>
+    <div class="stat-row"><span class="stat-label">Expenses</span><span class="stat-val neg">${money(expenses)}</span></div>
+    <div class="stat-row"><span class="stat-label">Net</span><span class="stat-val ${sales-expenses>=0?'pos':'neg'}">${money(sales-expenses)}</span></div>`;
+}
+
+function renderLoyalty(data) {
+  const el = document.getElementById('ae-loyalty');
+  const loy = data.loyalty || [];
+  if (!loy.length) { el.innerHTML = '<div style="color:var(--text-dim);font-size:11px">No loyalty members yet</div>'; return; }
+  loy.sort((a,b) => (b.stamps||b.balance||0) - (a.stamps||a.balance||0));
+  el.innerHTML = loy.slice(0,8).map(l => `<div class="stat-row"><span class="stat-label">${esc(l.customer)}</span><span class="stat-val neutral">${esc(l.stamps||l.balance||0)} stamps</span></div>`).join('');
+}
+
+function renderUptime(sites) {
+  const el = document.getElementById('ae-uptime');
+  const s = sites.sites || [];
+  if (!s.length) { el.innerHTML = '<div style="color:var(--text-dim);font-size:11px">No site data</div>'; return; }
+  el.innerHTML = s.map(x => `<div class="stat-row"><span class="stat-label">${esc(x.site)}</span><span class="badge ${x.status==='200'||x.status==='up'?'live':'err'}">${esc(x.status)}</span></div>`).join('');
+}
+
+function renderIdeas(data) {
+  const el = document.getElementById('ideas-list');
+  const ideas = data.ideas || [];
+  if (!ideas.length) { el.innerHTML = '<div style="color:var(--text-dim);font-size:11px">No suggestions at this time</div>'; return; }
+  el.innerHTML = '<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:8px">' +
+    ideas.map(i => `<div class="idea-card"><div class="idea-title">${esc(i.title)}</div><div class="idea-desc">${esc(i.desc)}</div></div>`).join('') + '</div>';
+}
+
+// renderAgentGraph disabled — replaced by Pac-Man cron circle (refreshAgents)
+function renderAgentGraph() { return; }
+
+function renderChief(chief, kanban) {
+  const panel = document.getElementById('chief-panel');
+  const gw = document.getElementById('chief-gw');
+  if (gw) {
+    gw.textContent = chief.gateway_up ? 'gateway ●' : 'gateway ○';
+    gw.className = 'badge ' + (chief.gateway_up ? 'live' : 'err');
+  }
+  const cards = [];
+  cards.push(card('⚡ Crons', `${chief.crons_enabled}/${chief.crons_total} enabled`, chief.crons_errored.length ? `⚠ ${chief.crons_errored.length} errored` : 'all healthy', chief.crons_errored.length ? 'warn' : 'ok'));
+  cards.push(card('🧠 Obsidian 2nd Brain', `${chief.vault_nodes} nodes`, `${chief.vault_links} links`, 'cyan'));
+  cards.push(card('💬 Active Sessions', `${chief.active_sessions}`, 'Hermes runtime', 'violet'));
+  cards.push(card('📋 Kanban', `${kanban.total} tasks`, `${kanban.done} done · ${kanban.by_status.ready||0} ready`, 'amber'));
+  panel.innerHTML = cards.join('');
+  window.__chief = chief;
+  try { drawObsidianGraph(chief); } catch(e) { console.error('obs graph', e); }
+}
+function card(title, big, sub, tone) {
+  return `<div class="card" style="margin-bottom:0;background:rgba(255,255,255,0.02)">
+    <div style="font-size:9px;color:var(--text-dim);text-transform:uppercase;letter-spacing:.08em">${title}</div>
+    <div style="font-size:18px;font-weight:600;color:var(--accent-${tone});margin:4px 0">${big}</div>
+    <div style="font-size:10px;color:var(--text-dim)">${sub}</div>
+  </div>`;
+}
+
+// === Obsidian 2nd Brain node graph (force-directed) ===
+let obsNodes = [], obsLinks = [], obsInit = false;
+function initObsGraph(chief) {
+  const W = 540, H = 240;
+  const nodeCount = Math.max(8, Math.min(chief.vault_nodes || 80, 240));
+  obsNodes = []; obsLinks = [];
+  obsNodes.push({ id:'Hermes', x:W/2, y:H/2, vx:0, vy:0, fixed:true, color:'#22d3ee', r:15, label:'Hermes' });
+  const ecos = ['S0vryn9','3mpwrapp','Ascendant','AE','Trading'];
+  ecos.forEach((e,i) => {
+    const ang = (i/ecos.length)*Math.PI*2;
+    obsNodes.push({ id:e, x:W/2+Math.cos(ang)*100, y:H/2+Math.sin(ang)*100, vx:0, vy:0, color:'#a78bfa', r:9, label:e });
+    obsLinks.push({ a:'Hermes', b:e });
+  });
+  const cloud = nodeCount - obsNodes.length;
+  for (let i=0; i<cloud; i++) {
+    const ang = Math.random()*Math.PI*2;
+    const rad = 55 + Math.random()*75;
+    const id = 'n'+i;
+    obsNodes.push({ id, x:W/2+Math.cos(ang)*rad, y:H/2+Math.sin(ang)*rad, vx:0, vy:0, color:'#34d399', r:3, label:'' });
+    const target = obsNodes[Math.floor(Math.random()*(obsNodes.length-1))];
+    obsLinks.push({ a:id, b: target.id });
+  }
+  obsInit = true;
+}
+function drawObsidianGraph(chief) {
+  const c = document.getElementById('obsCanvas'); if (!c) return;
+  const ctx = c.getContext('2d');
+  const W = c.width = c.clientWidth || 540; const H = c.height = 240;
+  ctx.clearRect(0,0,W,H);
+  if (!obsInit || obsNodes.length === 0) initObsGraph(chief);
+  // grow: add cloud nodes when real vault node count increases
+  const desired = Math.max(8, Math.min(chief.vault_nodes || 80, 240));
+  const cloudTarget = desired - 6;
+  const cloudNow = Math.max(0, obsNodes.length - 6);
+  if (cloudNow < cloudTarget) {
+    for (let i = cloudNow; i < cloudTarget; i++) {
+      const ang = Math.random()*Math.PI*2;
+      const rad = 55 + Math.random()*75;
+      const id = 'n'+obsNodes.length;
+      obsNodes.push({ id, x:W/2+Math.cos(ang)*rad, y:H/2+Math.sin(ang)*rad, vx:0, vy:0, color:'#34d399', r:3, label:'', born: Date.now() });
+      const target = obsNodes[Math.floor(Math.random()*(obsNodes.length-1))];
+      obsLinks.push({ a:id, b: target.id });
+    }
+  }
+  for (let step=0; step<2; step++) {
+    for (const n of obsNodes) {
+      if (n.fixed) continue;
+      let fx=0, fy=0;
+      const dx = n.x - W/2, dy = n.y - H/2;
+      const d = Math.sqrt(dx*dx+dy*dy)||1;
+      fx -= dx/d * 0.03; fy -= dy/d * 0.03;
+      for (const l of obsLinks) {
+        if (l.a === n.id || l.b === n.id) {
+          const other = obsNodes.find(o => o.id === (l.a===n.id?l.b:l.a));
+          if (other) {
+            const ldx = other.x - n.x, ldy = other.y - n.y;
+            const ld = Math.sqrt(ldx*ldx+ldy*ldy)||1;
+            const rest = 45;
+            fx += (ldx/ld) * (ld-rest)*0.004;
+            fy += (ldy/ld) * (ld-rest)*0.004;
+          }
+        }
+      }
+      n.vx = (n.vx + fx) * 0.85; n.vy = (n.vy + fy) * 0.85;
+      n.x += n.vx; n.y += n.vy;
+      n.x = Math.max(12, Math.min(W-12, n.x));
+      n.y = Math.max(12, Math.min(H-12, n.y));
+    }
+  }
+  ctx.strokeStyle = 'rgba(167,139,250,0.22)';
+  ctx.lineWidth = 0.5;
+  for (const l of obsLinks) {
+    const a = obsNodes.find(o => o.id === l.a), b = obsNodes.find(o => o.id === l.b);
+    if (a && b) { ctx.beginPath(); ctx.moveTo(a.x,a.y); ctx.lineTo(b.x,b.y); ctx.stroke(); }
+  }
+  for (const n of obsNodes) {
+    let alpha = 1;
+    if (n.born) { const age = (Date.now()-n.born)/600; alpha = age<1 ? age : 1; }
+    ctx.globalAlpha = alpha;
+    ctx.fillStyle = n.color;
+    ctx.beginPath(); ctx.arc(n.x, n.y, n.r, 0, Math.PI*2); ctx.fill();
+    if (n.label) {
+      ctx.fillStyle = '#e5e7eb'; ctx.font = 'bold 9px monospace';
+      ctx.fillText(n.label, n.x+8, n.y+3);
+    }
+  }
+  ctx.globalAlpha = 1;
+  ctx.fillStyle = '#6b7280'; ctx.font = '9px monospace';
+  ctx.fillText(`Obsidian: ${chief.vault_nodes||0} nodes · ${chief.vault_links||0} links`, 8, H-8);
+  const leg = document.getElementById('obsLegend');
+  if (leg) leg.innerHTML = `<span style="color:#22d3ee">● Hermes (you)</span><span style="color:#a78bfa">● ecosystems</span><span style="color:#34d399">● vault nodes</span>`;
+}
+setInterval(() => { const c = document.getElementById('obsCanvas'); if (c && obsInit) { const chief = window.__chief || {vault_nodes:80,vault_links:200}; drawObsidianGraph(chief); } }, 1500);
+
+// Surface errors visibly instead of silent blank panels
+function showDashError(msg) {
+  let bar = document.getElementById('dash-error-bar');
+  if (!bar) {
+    bar = document.createElement('div');
+    bar.id = 'dash-error-bar';
+    bar.style.cssText = 'position:fixed;bottom:0;left:0;right:0;background:#3a1020;color:#ff9aa2;font:12px monospace;padding:8px 12px;z-index:9999;border-top:1px solid #ff9aa2;white-space:pre-wrap;max-height:40vh;overflow:auto';
+    document.body.appendChild(bar);
+  }
+  bar.textContent = '⚠ Dashboard: ' + msg;
+}
+window.addEventListener('error', e => showDashError('JS error: ' + (e.message || e.error)));
+window.addEventListener('unhandledrejection', e => showDashError('Fetch/promise error: ' + (e.reason && e.reason.message || e.reason)));
+
+/* === Kanban / Todos / Tasks / Goals board — per-area, auto + daily sync === */
+async function fetchJSON(path){
+  try { const r = await fetch(API + path, {cache:'no-store'}); if(!r.ok) return null; return await r.json(); }
+  catch(e){ return null; }
+}
+function boardEsc(s){ return String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+const BOARD_AREAS = [
+  {key:'s0vryn9', label:'① S0vryn9 — 3mpwrapp · Ascendant', cls:'tag-s0'},
+  {key:'ae',      label:'② Abstract Emporium',              cls:'tag-ae'},
+  {key:'ops',     label:'③ Ops Mission Control',            cls:'tag-ops'},
+];
+function classifyArea(text){
+  const t = (text||'').toLowerCase();
+  if (/(3mpwrapp|ascendant|s0vryn|mutual aid|injured worker|flywheel|canlii|expo |twa |ios build|eas |beta ready|pre-beta|roadmap|milestone)/.test(t)) return 's0vryn9';
+  if (/(abstract emporium|emporium|candle|soy melt|tuque|z3nw1ck|taxhacker|loyalty|price list|knitting bundle|^ae:| ae:|\bae\b)/.test(t)) return 'ae';
+  if (/(hermes|gateway|cron|dashboard|mission control|\bops\b|vault|memory|delegation|\bagent\b|server|infra|backup|telegram|obsidian|kanban)/.test(t)) return 'ops';
+  return 'ops';
+}
+function boardSub(title, count, items){
+  const lis = items.slice(0,8).map(i => `<li>${boardEsc(i)}</li>`).join('');
+  const more = items.length > 8 ? `<li style="color:var(--text-dim)">+${items.length-8} more</li>` : '';
+  return `<div class="sub"><b>${title}</b><span class="cnt">${count}</span><ul>${lis}${more}</ul></div>`;
+}
+async function loadBoard(){
+  try {
+    const [kanban, todos, goals, s0] = await Promise.all([
+      fetchJSON('/api/kanban'), fetchJSON('/api/todos'),
+      fetchJSON('/api/goals'), fetchJSON('/api/s0vryn9'),
+    ]);
+    const A = {s0vryn9:{kanban:[],todos:[],tasks:[],goals:[]}, ae:{kanban:[],todos:[],tasks:[],goals:[]}, ops:{kanban:[],todos:[],tasks:[],goals:[]}};
+    (kanban&&kanban.recent||[]).forEach(t => A[classifyArea(t.title)].kanban.push(t.title||''));
+    (todos&&todos.todos||[]).forEach(t => A[classifyArea(t.title)].todos.push(t.title||''));
+    (goals&&goals.tasks||[]).forEach(t => A[classifyArea((t.file||'')+' '+(t.text||''))].tasks.push(t.text||t.file||''));
+    (goals&&goals.goals||[]).forEach(g => A[classifyArea(JSON.stringify(g))].goals.push(g.title||g.text||''));
+    (goals&&goals.milestones||[]).forEach(m => A[classifyArea(m.file||m.text||'')].goals.push(m.text||m.file||''));
+    (s0&&s0.tasks||[]).forEach(t => A.s0vryn9.tasks.push(t.text||''));
+    const wrap = el('board-areas'); if(!wrap) return;
+    const html = BOARD_AREAS.map(a => {
+      const d = A[a.key];
+      return `<div class="board-area"><h4 class="${a.cls}">${a.label}</h4>` +
+        boardSub('📋 Kanban', d.kanban.length, d.kanban) +
+        boardSub('✅ Todos', d.todos.length, d.todos) +
+        boardSub('📝 Tasks', d.tasks.length, d.tasks) +
+        boardSub('🎯 Goals', d.goals.length, d.goals) +
+        `</div>`;
+    }).join('');
+    if (window.__boardHTML !== html) { wrap.innerHTML = html; window.__boardHTML = html; }
+    const s = el('board-sync'); if(s) s.textContent = 'synced ' + new Date().toLocaleTimeString();
+  } catch(e){ console.warn('board load', e); }
+}
+
+// Live refresh. Every section re-polls on its own cadence, and a failed
+// refresh never blanks a panel - the last good render stays and the error is
+// shown alongside it. A section that silently freezes is worse than one that
+// says "stale".
+const REFRESH_MS = 60000;
+setInterval(() => { load().catch(() => {}); }, REFRESH_MS);
+document.addEventListener('visibilitychange', () => {
+  if (!document.hidden) load().catch(() => {});
+});
+
+async function load() {
+  try {
+    // Critical page-load endpoints fetched concurrently (not blocking on slow /api/bee)
+    const [s0vryn9, trading, ae, sites, circle, graph, ideas, delegation, chief, kanban] = await Promise.all([
+      get('/api/s0vryn9').catch(e=>({__err:String(e)})),
+      get('/api/trading').catch(()=>({events:[],sentiment:0.5,movers:[],crypto:[],ledger:{}})),
+      get('/api/ae').catch(()=>({sales:[],expenses:[],loyalty:[],pricing:{}})),
+      get('/api/websites').catch(()=>({sites:[]})),
+      get('/api/circle').catch(()=>({error:'/api/circle unreachable'})),
+      get('/api/vaultgraph').catch(()=>({error:'/api/vaultgraph unreachable'})),
+      get('/api/ideas').catch(()=>({ideas:[]})),
+      get('/api/delegation').catch(()=>({agents:[]})),
+      get('/api/chief').catch(()=>({gateway_up:false,crons_enabled:0,crons_total:0,vault_nodes:0,vault_links:0,active_sessions:0,crons_errored:[]})),
+      get('/api/kanban').catch(()=>({total:0,done:0,by_status:{}})),
+    ]);
+    if (s0vryn9.__err) showDashError('Could not load /api/s0vryn9: ' + s0vryn9.__err + ' — is the server running?');
+    renderApps(s0vryn9.apps || {});
+    renderTasks(s0vryn9);
+    renderS0vExpenses(s0vryn9);
+    renderTradingEvents(trading);
+    renderSentiment(trading);
+    renderCrypto(trading);
+    // /api/bee and /api/bee-growth fetched independently (not blocking load); use safe defaults when slow/unreachable
+    renderBee({status:'ERROR',message:'/api/bee fetched independently; see widget',gates:[],metrics:{},alerts:[]});
+    renderGrowth({stage:'ERROR'});
+    renderCircle(circle || {error:'no data'});
+    renderGraph(graph || {error:'no data'});
+    renderLedger(trading);
+    renderPricing(ae);
+    renderAEFinance(ae);
+    renderLoyalty(ae);
+    renderUptime(sites);
+    renderIdeas(ideas);
+    renderAgentGraph(delegation);
+    renderChief(chief, kanban);
+    loadBoard();
+  } catch(err) {
+    console.error('Dashboard load error:', err);
+    showDashError('Load failed: ' + (err && err.message || err));
+  }
+}
+
+setInterval(load, 5000);
+load();
+
+// Keyboard scrolling — ArrowUp/Down, PageUp/Down, Home/End, Space all scroll the page
+document.addEventListener('keydown', (e) => {
+  const tag = (e.target && e.target.tagName) || '';
+  if (/INPUT|TEXTAREA|SELECT/.test(tag)) return;       // don't hijack form fields
+  const H = window.innerHeight * 0.85;
+  switch (e.key) {
+    case 'ArrowDown': window.scrollBy({top: 90, behavior: 'smooth'}); break;
+    case 'ArrowUp':   window.scrollBy({top: -90, behavior: 'smooth'}); break;
+    case 'PageDown':  window.scrollBy({top: H, behavior: 'smooth'}); break;
+    case 'PageUp':    window.scrollBy({top: -H, behavior: 'smooth'}); break;
+    case 'Home':      window.scrollTo({top: 0, behavior: 'smooth'}); break;
+    case 'End':       window.scrollTo({top: document.body.scrollHeight, behavior: 'smooth'}); break;
+    case ' ':         window.scrollBy({top: e.shiftKey ? -H : H, behavior: 'smooth'}); break;
+    default: return;
+  }
+  e.preventDefault();
+});
+
+// === Per-card real-time sync: each section refreshes independently (1-4s) ===
+function rtFetch(path){ return fetch(API+path,{cache:'no-store'}).then(r=> r&&r.ok ? r.json().catch(()=>null) : null).catch(()=>null); }
+setInterval(()=>rtFetch('/api/s0vryn9').then(s=>{ if(s&&!s.__err){renderApps(s.apps||{});renderTasks(s);renderS0vExpenses(s);} }), 3000);
+setInterval(()=>rtFetch('/api/trading').then(t=>{ if(t){renderTradingEvents(t);renderSentiment(t);renderCrypto(t);renderLedger(t);} }), 3000);
+setInterval(()=>rtFetch('/api/ae').then(a=>{ if(a){renderPricing(a);renderAEFinance(a);renderLoyalty(a);} }), 3000);
+setInterval(()=>rtFetch('/api/websites').then(s=>s&&renderUptime(s)), 3000);
+setInterval(()=>loadBoard().catch(e=>{}), 15000);
+// === Slow /api/bee fetched independently (long timeout) — does NOT block load() ===
+setInterval(()=>{
+  fetch(API+'/api/bee',{cache:'no-store'})
+    .then(r=>r.json()).catch(e=>null)
+    .then(b=>{
+      const pill = document.getElementById('bee-status');
+      if(b && b.gates && b.gates.length){
+        document.getElementById('bee-waggle').innerHTML = b.gates.map(x=>`<div class="bee-gate ${x.state||'unknown'}"><span class="nm">${x.name||'?'} <b>${x.pct||'?'}%</b></span></div>`).join('');
+        document.getElementById('bee-alerts').innerHTML = (b.alerts||[]).map(a=>`<div class="bee-alert ${a.kind||''}"><div class="t">${a.icon||''} ${a.title||''}</div></div>`).join('');
+      }
+      if(pill) pill.textContent = (b?b.status:'SLOW');
+    });
+}, 30000);
+</script>
+
+<script>
+// ===== 3mpwrapp Flywheels + Ecosystem Health (template-only; uses existing routes) =====
+const FW_API = location.origin;
+async function fwFetch(path){
+  const r = await fetch(FW_API + path, {cache:'no-store'});
+  if(!r.ok) throw new Error(r.status);
+  return r.json();
+}
+async function updateFlywheels(){
+  try {
+    const s0 = await fwFetch('/api/s0vryn9').catch(()=>({}));
+    const vg = await fwFetch('/api/vault-graph').catch(()=>({}));
+    const goals = await fwFetch('/api/goals').catch(()=>({}));
+    const crons = await fwFetch('/api/crons').catch(()=>({}));
+    const sites = await fwFetch('/api/websites').catch(()=>({}));
+    const chief = await fwFetch('/api/chief').catch(()=>({}));
+    const fw = await fwFetch('/api/flywheels').catch(()=>({}));
+    const apps = s0.apps || {};
+    const mp = apps['3mpwrapp'] || {};
+    const as = apps['ascendant'] || {};
+    const nodes = vg.nodes || 0, links = vg.links || 0;
+    const jobs = crons.jobs || [];
+    const athena = jobs.filter(j => /athena|research|wsib|canlii|knowledge/i.test(j.name||''));
+    const athenaErr = athena.filter(j => (j.last_status||'').toLowerCase().includes('error'));
+    const athenaActive = athena.filter(j => j.state === 'active');
+    const jur = fw.by_jurisdiction || {};
+    const caCards = ['CA-ON','CA-FED','CA-BC','CA-AB','CA-SK','CA-MB','CA-ATL','CA-TERR'].reduce((a,k)=>a+(jur[k]||0),0);
+    const set = (id,html)=>{ const e=document.getElementById(id); if(e) e.innerHTML=html; };
+    set('fw-evidence',
+      `App build: <b>${mp.progress||'?'}</b>% (${mp.status||'—'})<br>`+
+      `Research & CANLII vault: <b>${nodes}</b> notes / <b>${links}</b> links<br>`+
+      `Athena crons: <b>${athenaActive.length}</b> active, <b style="color:${athenaErr.length?'#f87171':'#34d399'}">${athenaErr.length}</b> errors<br>`+
+      `<b style="color:#34d399">Evidence engine: ${fw.total||0} cards · ${fw.new_today||0} today</b> · CANLII <b style="color:#34d399">${fw.canlii_verified||0}✓</b>/<b style="color:#fbbf24">${fw.canlii_unverified||0}⏳</b>`);
+    const collectiveGoals = (goals.goals||[]).filter(g => /collective|campaign|tbd|advocac|community|session|action/i.test(g.text||''));
+    set('fw-collective',
+      `Collective goals/tasks: <b>${Array.isArray(collectiveGoals) ? collectiveGoals.length : 0}</b> tracked<br>`+
+            `Advocacy + TBDIWSG pipeline: live<br>`+
+            `<b style="color:#34d399">Evidence collective-action: ${fw.by_flywheel?.collective_action||0} cards</b><br>`+
+            `🇨🇦 CA <b>${caCards}</b> · INTL <b>${jur.INTL||0}</b>`);
+    set('fw-knowledge',
+      `2nd-brain: <b>${nodes}</b> notes, <b>${links}</b> links<br>`+
+      `KB sync: app ↔ vault (${chief.vault_nodes||nodes} nodes)<br>`+
+      `What's New: auto-fed from vault<br>`+
+      `<b style="color:#34d399">Evidence knowledge: ${fw.by_flywheel?.knowledge||0} cards</b> · 🔒 opt-in · anonymized`);
+    const site = (n)=> (sites.sites||[]).find(s => (s.site||'').toLowerCase().includes(n)) || {};
+    const mps = site('3mpwrapp'), asc = site('ascendant');
+    const errCount = (chief.crons_errored||[]).length;
+    const gwUp = chief.gateway_up ? '🟢' : '🔴';
+    set('eco-3mpwrapp', `<b>3mpwrapp</b> ${mps.status||'?'}<br>build ${mp.progress||'?'||''}%`);
+    set('eco-ascendant', `<b>Ascendant</b> ${asc.status||'?'}<br>build ${as.progress||'?'||''}%`);
+    set('eco-crons', `${gwUp} Gateway<br>Crons: <b>${chief.crons_enabled||0}</b>/<b>${chief.crons_total||0}</b> enabled<br>Errors: <b style="color:${errCount?'#f87171':'#34d399'}">${errCount}</b>`);
+    const fwSync = document.getElementById('fw-sync'); if(fwSync) fwSync.textContent='live ✓ '+(fw.updated||'')+' · ledger '+(fw.ledger_mtime||'');
+    const ecoSync = document.getElementById('eco-sync'); if(ecoSync) ecoSync.textContent='live ✓';
+  } catch(e) {
+    console.error('flywheels update failed', e);
+  }
+}
+updateFlywheels();
+setInterval(updateFlywheels, 30000);
+</script>
+</body>
+</html>

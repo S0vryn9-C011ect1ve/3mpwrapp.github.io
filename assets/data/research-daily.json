@@ -1,0 +1,896 @@
+{
+  "date": "2026-11-18",
+  "generated": "2026-11-18T08:23:46.456789",
+  "total_cards": 22,
+  "ledger_cards_today": 39,
+  "by_user_base": {
+    "Indigenous Communities": 0,
+    "Injured Workers": 10,
+    "Persons with Disabilities": 4,
+    "Veterans": 7,
+    "Seniors / Elders": 1,
+    "Families (Caregivers)": 3,
+    "Advocates (Human Rights / UNCRPD)": 1,
+    "Public Allies": 0,
+    "Vulnerable Communities": 4
+  },
+  "coverage": {
+    "Indigenous Communities": {
+      "cards": 0,
+      "verified": 0,
+      "unverified": 0,
+      "thin": true
+    },
+    "Injured Workers": {
+      "cards": 10,
+      "verified": 9,
+      "unverified": 0,
+      "thin": false
+    },
+    "Persons with Disabilities": {
+      "cards": 4,
+      "verified": 0,
+      "unverified": 4,
+      "thin": false
+    },
+    "Veterans": {
+      "cards": 7,
+      "verified": 0,
+      "unverified": 7,
+      "thin": false
+    },
+    "Seniors / Elders": {
+      "cards": 1,
+      "verified": 1,
+      "unverified": 0,
+      "thin": true
+    },
+    "Families (Caregivers)": {
+      "cards": 3,
+      "verified": 1,
+      "unverified": 2,
+      "thin": false
+    },
+    "Advocates (Human Rights / UNCRPD)": {
+      "cards": 1,
+      "verified": 1,
+      "unverified": 0,
+      "thin": true
+    },
+    "Public Allies": {
+      "cards": 0,
+      "verified": 0,
+      "unverified": 0,
+      "thin": true
+    },
+    "Vulnerable Communities": {
+      "cards": 4,
+      "verified": 4,
+      "unverified": 0,
+      "thin": false
+    }
+  },
+  "flywheels": {
+    "evidence": {
+      "count": 13,
+      "cards": [
+        {
+          "id": "injured_workers-ce7bc73217df",
+          "title": "WSIB 2026 Premium Rate: $1.23 per $100 of insurable payroll",
+          "url": "https://www.wsib.ca/en/2026premiumrates",
+          "source": "official",
+          "source_name": "WSIB",
+          "classification": "verified_primary_source",
+          "confidence": "high",
+          "jurisdiction": "CA-ON",
+          "communities": [
+            "injured_workers"
+          ],
+          "date_range": "as of 2026-11-18",
+          "limitations": "Premium rate applicable to employers; actual worker benefits differ and are set by separate WSIB benefit rate schedules"
+        },
+        {
+          "id": "injured_workers-845b4b7ee9fb",
+          "title": "WCB Alberta 2026 Premium Rate: $0.05 rate subsidy; decreased from previous rate",
+          "url": "https://www.wcb.ab.ca/assets/pdfs/employers/2026_pricing_guide.pdf",
+          "source": "official",
+          "source_name": "Workers' Compensation Board of Alberta",
+          "classification": "verified_primary_source",
+          "confidence": "medium",
+          "jurisdiction": "CA-AB",
+          "communities": [
+            "injured_workers"
+          ],
+          "date_range": "2026",
+          "limitations": "Pricing guide PDF; actual employer rates vary by industry classification; subsidy amount may be adjusted annually"
+        },
+        {
+          "id": "injured_workers-b31faa07df6e",
+          "title": "Saskatchewan WCB 2026 Preliminary Average Premium Rate: $1.22 (down from $1.28)",
+          "url": "https://awcbc.org/about-us/our-members/news/wcb-announces-decrease-in-2026-preliminary-average-premium-rate",
+          "source": "official",
+          "source_name": "Association of Workers' Compensation Boards of Canada",
+          "classification": "verified_primary_source",
+          "confidence": "medium",
+          "jurisdiction": "CA-SK",
+          "communities": [
+            "injured_workers"
+          ],
+          "date_range": "2026",
+          "limitations": "Preliminary rate; final rates may differ; 96% figure covers all employer classifications"
+        },
+        {
+          "id": "news-aee444d3d671",
+          "title": "Veterans Affairs Canada to send out payments on Monday",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQjdoMlY3RkNjYV9Vd1FPR3lGUkpUQmRaX1U4c2hSR1hrRVcxdi1vTDF5aC1SRzZadXlGa181QXZqZUhfaFhyeXhYNUlPTWpDVmRKTTlpazl6ckVuU25IelpyVDJCaVFQVGlQNnlzMGdLT1g2eGo0MnRucU15TkpMUnVjeDJYY0lPUnVV?oc=5",
+          "source": "news",
+          "source_name": "MoneySense",
+          "classification": "unverified_signal",
+          "confidence": "low",
+          "jurisdiction": "CA-ON",
+          "communities": [
+            "veterans"
+          ],
+          "date_range": "published ~Fri, 25 Sep 2026 07:00:00 GMT",
+          "limitations": "Headline-level signal from a news aggregator. The article body was not read and the claim was not checked against a primary source. Do not present as fact or as Canadian legal precedent."
+        },
+        {
+          "id": "news-797ac3c2ce16",
+          "title": "The Royal Canadian Legion on Federal Budget 2025: Big investments, Big cuts - Veterans want immediate clarity",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYVVWODhiaGNMYTlWS1NIRHlKMXZwMmtaUG54YTNoT19fSHdqNTlBS0d5N1RfM2UyelpKQi1Pc3pfVkgzYzYxR3UtNWR5LXlWcktJZ0V0cGQ0NE1ldmpiaWFtY3Fpb29Gc0R6S2ZBS0RScGtMWl9JSjM2UDFtMXBtTGJUWWpyWWtCN3ctUkhaZkpzS1p0Wmxya0ZaNlNCTGllSjZicE1sZHNaR051S0g3WDN0WGlVMmtubnFYVnJPZUNJNjFicUNiRHZEUTdRZjgzOWlnbHVOR2dDcmUxdnc?oc=5",
+          "source": "news",
+          "source_name": "The Royal Canadian Legion",
+          "classification": "unverified_signal",
+          "confidence": "low",
+          "jurisdiction": "CA-ON",
+          "communities": [
+            "veterans"
+          ],
+          "date_range": "published ~Mon, 24 Nov 2025 08:00:00 GMT",
+          "limitations": "Headline-level signal from a news aggregator. The article body was not read and the claim was not checked against a primary source. Do not present as fact or as Canadian legal precedent."
+        },
+        {
+          "id": "news-9c65cf9317d4",
+          "title": "Veterans Ombudsman Releases Report Regarding Veterans Affairs Canada",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNGVRQWZxWm1xSHZJaWJsN3JkUmFRUmUxM1B5X1FRcy14WEViVEd2RW11RjNGczFJMkZBX05Pb0ljYkdLeEFKQ2pYc0xLVU5tZGF5YnF3a0pJTHQ1eHNzYkNoTmpqOEtycm1rZm9pdWo4SXdRakJ4OXR0bHpmTkc4alZtOHFIWWpJQ0dyekJxMWlDeWxteHJfNmdJcWMybVhi?oc=5",
+          "source": "news",
+          "source_name": "Canadian Military Family Magazine",
+          "classification": "unverified_signal",
+          "confidence": "low",
+          "jurisdiction": "CA-ON",
+          "communities": [
+            "veterans",
+            "welfare_social"
+          ],
+          "date_range": "published ~Fri, 27 Sep 2024 07:00:00 GMT",
+          "limitations": "Headline-level signal from a news aggregator. The article body was not read and the claim was not checked against a primary source. Do not present as fact or as Canadian legal precedent."
+        },
+        {
+          "id": "news-ab278fe37888",
+          "title": "COVID-19: Special payment to individuals receiving disability supports",
+          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNOEM2UjJ4OE1pWEN3N2NZUGxPc3dBTGRkekE3bVRiX0ZYbGtybTZ2VGt3U0VjbmVTemhtdC1ObmF5aWFfVUVWbkUzQXZNVml3V1ZFMGFqZU5xN1U4QWVwdmctVzhqRURnUnpBbjlzV2w1cUpuVnJxV3VUZWk1NTY0ZGJ3dS1scHpHWE52MVZ0ZHA5Z2JXWk81RVJFaENJbGxOWmFxdEFLLVpyVmRuMWNRaUdfY3NyLXFRU1hIMVNpTjAxeVBWOV9sTWx4aGR1N0UzV0FySzctZW9Wanp0NVNaYll1VnBRY1QwOC1QN09XN2gtQzUtUTNIWUVyTnJWZkgxcE4xTU5PbU1fT0xoV055OUJuX3F5NXZId0cwTlFFZFVSdTM1SjJ4cFZ2UjQ?oc=5",
+          "source": "news",
+          "source_name": "Parliamentary Budget Officer",
+          "classification": "unverified_signal",
+          "confidence": "low",
+          "jurisdiction": "CA-ON",
+          "communities": [
+            "disability"
+          ],
+          "date_range": "published ~Wed, 26 Aug 2020 07:00:00 GMT",
+          "limitations": "Headline-level signal from a news aggregator. The article body was not read and the claim was not checked against a primary source. Do not present as fact or as Canadian legal precedent."
+        },
+        {
+          "id": "news-41b09ff8f8bb",
+          "title": "Veterans may have paid too much for long-term care for years due to federal error",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CRU9wM3dPSEdEejlHSzBaWUp0dmxBZjVibjVmTWlFYks2VnNWcFZEWDQxSDBUcF9hWGN0TThSa0gyRUYzTmk1dzktc2h1MHpNaEZmeG9MX0JHRFNaVFNMQ29yOG1vYWlud2hXQUQ0V1BNMENhaExR?oc=5",
+          "source": "news",
+          "source_name": "CBC",
+          "classification": "unverified_signal",
+          "confidence": "low",
+          "jurisdiction": "CA-ON",
+          "communities": [
+            "veterans"
+          ],
+          "date_range": "published ~Tue, 29 Oct 2024 07:00:00 GMT",
+          "limitations": "Headline-level signal from a news aggregator. The article body was not read and the claim was not checked against a primary source. Do not present as fact or as Canadian legal precedent."
+        },
+        {
+          "id": "news-d35222b6c427",
+          "title": "Serving You: Disability Assessments and Reassessments from VAC",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdzMydXUzQW5FWUxsa0plTmd5MnVTN2tNbmhGUEVjOTdsUHhYdDNuQlRKckRLWFFkX3ZQaERYSzMyTVdWdEt3aHdCYzJTM2haU0thbEpQajM3cUZZNGNZYmpqTHhzcHJaWHpKX1AxVmJrdkR6MnI1bnk3eTgzTjNrb0Z6RzNsWl9kWGczb1dWVEZ5VWM?oc=5",
+          "source": "news",
+          "source_name": "Legion Magazine",
+          "classification": "unverified_signal",
+          "confidence": "low",
+          "jurisdiction": "CA-ON",
+          "communities": [
+            "disability"
+          ],
+          "date_range": "published ~Fri, 09 Jun 2023 07:00:00 GMT",
+          "limitations": "Headline-level signal from a news aggregator. The article body was not read and the claim was not checked against a primary source. Do not present as fact or as Canadian legal precedent."
+        },
+        {
+          "id": "news-c80b0cec2bb8",
+          "title": "ATTENTION CANADIAN MILITARY FAMILIES : Did you or a family member receive VAC disability benefits between 2003 and 2023?",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYVlJQzJNWUM2QnpsWGRWbkV4MUh2WlJFaFlMMG5KWl8tMWw1U0tMZEQ4SE82bUJZem1Nang4NlVIVXpGTm1ZZ0g1dEVEU3ltdzlka0ttTUhvVVBXVGRLdHNJa2loWW5mcFlPSHFSUWRJdmg2SG9aRy01T1Z1UE56VXJISWY1d1N5RXNURjFwdEdCVzczRjNBdllkMXR3bGpRdlBpZjZ0aTlCZGFYWU51d2dicUtXdGg1WHhab2l4VVJVbTM3eHgtUE1BY2N3V1lzRjVIWXVRS1BNQmt1akE?oc=5",
+          "source": "news",
+          "source_name": "Legion Magazine",
+          "classification": "unverified_signal",
+          "confidence": "low",
+          "jurisdiction": "CA-ON",
+          "communities": [
+            "disability",
+            "welfare_social"
+          ],
+          "date_range": "published ~Tue, 03 Sep 2024 07:00:00 GMT",
+          "limitations": "Headline-level signal from a news aggregator. The article body was not read and the claim was not checked against a primary source. Do not present as fact or as Canadian legal precedent."
+        },
+        {
+          "id": "news-4e2573470415",
+          "title": "Veterans Affairs Canada has been overestimating the number of veterans for decades",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVUR3WGxXTktCSzNRdHRpSm5aaVpYZHQ4cGhlRFQ0aHJ6cGFjeFJCbGVncGhZMDE2NWlhM2EyWml3Y0lhZXo3SV9WcHF3aW8yLUNtcmlqODlaOVpDNXBuVUNXUW5lMnQtaWFoeXhUbTd4YWFIaFdEcEZoLWNrOEpTeHlaMnVDM2l6dEE?oc=5",
+          "source": "news",
+          "source_name": "CBC",
+          "classification": "unverified_signal",
+          "confidence": "low",
+          "jurisdiction": "CA-ON",
+          "communities": [
+            "veterans"
+          ],
+          "date_range": "published ~Fri, 11 Nov 2022 08:00:00 GMT",
+          "limitations": "Headline-level signal from a news aggregator. The article body was not read and the claim was not checked against a primary source. Do not present as fact or as Canadian legal precedent."
+        },
+        {
+          "id": "news-03c7ac00661f",
+          "title": "Royal Canadian Legion pens letter to PM to clear disability benefits backlog for Veterans",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTU9TTnhNUVl2NTZzRGRPWDRRWWhOeTNTVzVCUGdWTnloRl9aNk5nWHR1MGxUbUI3VUlsMU1qVTNfb1VMdVJLUnhEdzF3NTM2RFFrT0I3QzFMOWcyTThreWV4Y0J5NTlqX3g0QkJuYk94bG1BRnlZZURGcUZRaGFiX1h6S2t0OHBKemdDZXVDZ2dqS2NLdWRKQi1JWHVxOERXcDJ2TWlMNkR2NjZIUHQtZVBRSExEMzh3ei1tWExSMlJRMVJlUVpnUzFUZTM4a0tFcWlV?oc=5",
+          "source": "news",
+          "source_name": "CBC",
+          "classification": "unverified_signal",
+          "confidence": "low",
+          "jurisdiction": "CA-ON",
+          "communities": [
+            "disability",
+            "veterans"
+          ],
+          "date_range": "published ~Thu, 24 Feb 2022 08:00:00 GMT",
+          "limitations": "Headline-level signal from a news aggregator. The article body was not read and the claim was not checked against a primary source. Do not present as fact or as Canadian legal precedent."
+        }
+      ]
+    },
+    "collective_action": {
+      "count": 0,
+      "cards": []
+    },
+    "knowledge": {
+      "count": 20,
+      "cards": [
+        {
+          "id": "injured_workers-ac5fd0655b3b",
+          "title": "Bill 105 Schedule 9: Proposed elimination of 72-month lock-in on WSIB loss of earnings benefits",
+          "url": "https://goldblattpartners.com/workers-compensation/ontario-introducing-major-changes-to-wsib-benefits/",
+          "source": "official",
+          "source_name": "Goldblatt Partners",
+          "classification": "exploratory_pattern",
+          "confidence": "medium",
+          "jurisdiction": "CA-ON",
+          "communities": [
+            "injured_workers"
+          ],
+          "date_range": "as of 2026-11-18",
+          "limitations": "Bill 105 Schedule 9 has not received Royal Assent; the 72-month lock-in prohibition on WSIB loss of earnings benefits remains in force. The proposed changes would apply to workers injured within 72 months of a specified date not yet determined."
+        },
+        {
+          "id": "injured_workers-ce7bc73217df",
+          "title": "WSIB 2026 Premium Rate: $1.23 per $100 of insurable payroll",
+          "url": "https://www.wsib.ca/en/2026premiumrates",
+          "source": "official",
+          "source_name": "WSIB",
+          "classification": "verified_primary_source",
+          "confidence": "high",
+          "jurisdiction": "CA-ON",
+          "communities": [
+            "injured_workers"
+          ],
+          "date_range": "as of 2026-11-18",
+          "limitations": "Premium rate applicable to employers; actual worker benefits differ and are set by separate WSIB benefit rate schedules"
+        },
+        {
+          "id": "injured_workers-de60890346f9",
+          "title": "WSIB 2027 Premium Rate: $1.18 per $100 of insurable earnings",
+          "url": "https://www.wsib.ca/en/2027premiumrates",
+          "source": "official",
+          "source_name": "WSIB",
+          "classification": "verified_primary_source",
+          "confidence": "high",
+          "jurisdiction": "CA-ON",
+          "communities": [
+            "injured_workers"
+          ],
+          "date_range": "as of 2026-11-18",
+          "limitations": "2027 rate announced in advance; actual implementation depends on WSIB board approval and may be adjusted"
+        },
+        {
+          "id": "injured_workers-7ada3e8bea2d",
+          "title": "WSIAT 2026-2028 Business Plan Published",
+          "url": "https://www.wsiat.on.ca/en/home/news/2026_Business_Plan.html",
+          "source": "official",
+          "source_name": "WSIAT",
+          "classification": "verified_primary_source",
+          "confidence": "medium",
+          "jurisdiction": "CA-ON",
+          "communities": [
+            "injured_workers",
+            "vulnerable_communities"
+          ],
+          "date_range": "2026-2028",
+          "limitations": "Business plan outlines strategic priorities; specific operational changes require separate policy instruments and adjudicator directives"
+        },
+        {
+          "id": "injured_workers-49ace85759ba",
+          "title": "WSIAT November 2026 Announcements",
+          "url": "https://www.wsiat.on.ca/en/home/announcements.html",
+          "source": "official",
+          "source_name": "WSIAT",
+          "classification": "verified_primary_source",
+          "confidence": "medium",
+          "jurisdiction": "CA-ON",
+          "communities": [
+            "injured_workers"
+          ],
+          "date_range": "November 2026",
+          "limitations": "Announcements reflect WSIAT administrative updates; do not constitute binding policy changes for individual claims"
+        },
+        {
+          "id": "injured_workers-c5485b6dcba8",
+          "title": "Nova Scotia WCB New Rules Effective January 1, 2026",
+          "url": "https://flexmanager.com/provinces-new-rules-for-workers-comp-take-effect/",
+          "source": "official",
+          "source_name": "Flex Manager (policy summary)",
+          "classification": "verified_primary_source",
+          "confidence": "medium",
+          "jurisdiction": "CA-NS",
+          "communities": [
+            "injured_workers"
+          ],
+          "date_range": "2026-01-01 to present",
+          "limitations": "Source is a policy summary; original legislative text should be verified against nslaws or wcb.ns.ca for authoritative wording"
+        },
+        {
+          "id": "injured_workers-c233df4441fc",
+          "title": "WorkplaceNL 2027 Average Assessment Rate Decrease; Harassment Psychological Injury Coverage June 2026",
+          "url": "https://workplacenl.ca/article/workplacenl-lowers-average-assessment-rate-for-2027",
+          "source": "official",
+          "source_name": "WorkplaceNL",
+          "classification": "verified_primary_source",
+          "confidence": "medium",
+          "jurisdiction": "CA-NL",
+          "communities": [
+            "injured_workers",
+            "vulnerable_communities"
+          ],
+          "date_range": "2026-06-01 to 2027",
+          "limitations": "Rate decrease effective January 2027; harassment coverage effective June 1, 2026; specific eligibility criteria apply"
+        },
+        {
+          "id": "human_rights-396ed817454b",
+          "title": "HRTO Mandatory Mediation Process Launched June 1, 2025",
+          "url": "https://tribunalsontario.ca/hrto/",
+          "source": "official",
+          "source_name": "Human Rights Tribunal of Ontario",
+          "classification": "verified_primary_source",
+          "confidence": "medium",
+          "jurisdiction": "CA-ON",
+          "communities": [
+            "human_rights",
+            "vulnerable_communities"
+          ],
+          "date_range": "2025-06-01 to present",
+          "limitations": "Mediation process applies to applications filed June 1, 2025 onward; earlier applications follow prior process; does not resolve all claims"
+        },
+        {
+          "id": "injured_workers-45e7b0aa365b",
+          "title": "BC WCAT: Search Past Decisions and Judicial Review Listings",
+          "url": "https://www.wcat.bc.ca/home/search-past-decisions/",
+          "source": "official",
+          "source_name": "Workers' Compensation Appeal Tribunal BC",
+          "classification": "verified_primary_source",
+          "confidence": "medium",
+          "jurisdiction": "CA-BC",
+          "communities": [
+            "injured_workers"
+          ],
+          "date_range": "1985-present",
+          "limitations": "Search interface; full text of decisions may require CanLII lookup; not all decisions are posted online"
+        },
+        {
+          "id": "welfare_social-b8c7d659a3c6",
+          "title": "Ontario Social Benefits Tribunal Key Performance Indicators FY 2025-2026",
+          "url": "https://tribunalsontario.ca/en/about/key-performance-indicators/sbt-key-performance-indicators/",
+          "source": "official",
+          "source_name": "Ontario Social Benefits Tribunal",
+          "classification": "verified_primary_source",
+          "confidence": "medium",
+          "jurisdiction": "CA-ON",
+          "communities": [
+            "welfare_social",
+            "elderly",
+            "vulnerable_communities"
+          ],
+          "date_range": "2025-04-01 to 2026-03-31",
+          "limitations": "KPIs reflect mandated reporting period April 2025-March 2026; latest data may not include more recent quarters"
+        },
+        {
+          "id": "news-aee444d3d671",
+          "title": "Veterans Affairs Canada to send out payments on Monday",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQjdoMlY3RkNjYV9Vd1FPR3lGUkpUQmRaX1U4c2hSR1hrRVcxdi1vTDF5aC1SRzZadXlGa181QXZqZUhfaFhyeXhYNUlPTWpDVmRKTTlpazl6ckVuU25IelpyVDJCaVFQVGlQNnlzMGdLT1g2eGo0MnRucU15TkpMUnVjeDJYY0lPUnVV?oc=5",
+          "source": "news",
+          "source_name": "MoneySense",
+          "classification": "unverified_signal",
+          "confidence": "low",
+          "jurisdiction": "CA-ON",
+          "communities": [
+            "veterans"
+          ],
+          "date_range": "published ~Fri, 25 Sep 2026 07:00:00 GMT",
+          "limitations": "Headline-level signal from a news aggregator. The article body was not read and the claim was not checked against a primary source. Do not present as fact or as Canadian legal precedent."
+        },
+        {
+          "id": "news-797ac3c2ce16",
+          "title": "The Royal Canadian Legion on Federal Budget 2025: Big investments, Big cuts - Veterans want immediate clarity",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYVVWODhiaGNMYTlWS1NIRHlKMXZwMmtaUG54YTNoT19fSHdqNTlBS0d5N1RfM2UyelpKQi1Pc3pfVkgzYzYxR3UtNWR5LXlWcktJZ0V0cGQ0NE1ldmpiaWFtY3Fpb29Gc0R6S2ZBS0RScGtMWl9JSjM2UDFtMXBtTGJUWWpyWWtCN3ctUkhaZkpzS1p0Wmxya0ZaNlNCTGllSjZicE1sZHNaR051S0g3WDN0WGlVMmtubnFYVnJPZUNJNjFicUNiRHZEUTdRZjgzOWlnbHVOR2dDcmUxdnc?oc=5",
+          "source": "news",
+          "source_name": "The Royal Canadian Legion",
+          "classification": "unverified_signal",
+          "confidence": "low",
+          "jurisdiction": "CA-ON",
+          "communities": [
+            "veterans"
+          ],
+          "date_range": "published ~Mon, 24 Nov 2025 08:00:00 GMT",
+          "limitations": "Headline-level signal from a news aggregator. The article body was not read and the claim was not checked against a primary source. Do not present as fact or as Canadian legal precedent."
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "id": "injured_workers-ce7bc73217df",
+      "title": "WSIB 2026 Premium Rate: $1.23 per $100 of insurable payroll",
+      "url": "https://www.wsib.ca/en/2026premiumrates",
+      "source": "official",
+      "source_name": "WSIB",
+      "classification": "verified_primary_source",
+      "confidence": "high",
+      "jurisdiction": "CA-ON",
+      "communities": [
+        "injured_workers"
+      ],
+      "claim_or_finding": "The 2026 average premium rate for Ontario businesses is $1.23 per $100 of insurable payroll, lowest in more than 50 years",
+      "date_range": "as of 2026-11-18",
+      "limitations": "Premium rate applicable to employers; actual worker benefits differ and are set by separate WSIB benefit rate schedules",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "injured_workers-de60890346f9",
+      "title": "WSIB 2027 Premium Rate: $1.18 per $100 of insurable earnings",
+      "url": "https://www.wsib.ca/en/2027premiumrates",
+      "source": "official",
+      "source_name": "WSIB",
+      "classification": "verified_primary_source",
+      "confidence": "high",
+      "jurisdiction": "CA-ON",
+      "communities": [
+        "injured_workers"
+      ],
+      "claim_or_finding": "The 2027 average premium rate for Ontario businesses is $1.18 per $100 of insurable earnings, down from $1.23 in 2026",
+      "date_range": "as of 2026-11-18",
+      "limitations": "2027 rate announced in advance; actual implementation depends on WSIB board approval and may be adjusted",
+      "flywheels": [
+        "knowledge"
+      ]
+    },
+    {
+      "id": "injured_workers-7ada3e8bea2d",
+      "title": "WSIAT 2026-2028 Business Plan Published",
+      "url": "https://www.wsiat.on.ca/en/home/news/2026_Business_Plan.html",
+      "source": "official",
+      "source_name": "WSIAT",
+      "classification": "verified_primary_source",
+      "confidence": "medium",
+      "jurisdiction": "CA-ON",
+      "communities": [
+        "injured_workers",
+        "vulnerable_communities"
+      ],
+      "claim_or_finding": "WSIAT released its 2026-2028 Business Plan focusing on accessibility, Indigenous cultural responsiveness, AI governance, and enhanced case management",
+      "date_range": "2026-2028",
+      "limitations": "Business plan outlines strategic priorities; specific operational changes require separate policy instruments and adjudicator directives",
+      "flywheels": [
+        "knowledge"
+      ]
+    },
+    {
+      "id": "injured_workers-49ace85759ba",
+      "title": "WSIAT November 2026 Announcements",
+      "url": "https://www.wsiat.on.ca/en/home/announcements.html",
+      "source": "official",
+      "source_name": "WSIAT",
+      "classification": "verified_primary_source",
+      "confidence": "medium",
+      "jurisdiction": "CA-ON",
+      "communities": [
+        "injured_workers"
+      ],
+      "claim_or_finding": "WSIAT November 2026 announcements include Remembrance Day office closure, new Medical Discussion Paper on Dizziness, AI responsible use guide, Truth and Reconciliation Initiative, and updated Practice Directions on Enhanced Case Management and Leading Cases",
+      "date_range": "November 2026",
+      "limitations": "Announcements reflect WSIAT administrative updates; do not constitute binding policy changes for individual claims",
+      "flywheels": [
+        "knowledge"
+      ]
+    },
+    {
+      "id": "injured_workers-845b4b7ee9fb",
+      "title": "WCB Alberta 2026 Premium Rate: $0.05 rate subsidy; decreased from previous rate",
+      "url": "https://www.wcb.ab.ca/assets/pdfs/employers/2026_pricing_guide.pdf",
+      "source": "official",
+      "source_name": "Workers' Compensation Board of Alberta",
+      "classification": "verified_primary_source",
+      "confidence": "medium",
+      "jurisdiction": "CA-AB",
+      "communities": [
+        "injured_workers"
+      ],
+      "claim_or_finding": "WCB Alberta announced a $0.05 rate subsidy for 2026, decreasing the average employer premium rate",
+      "date_range": "2026",
+      "limitations": "Pricing guide PDF; actual employer rates vary by industry classification; subsidy amount may be adjusted annually",
+      "flywheels": [
+        "evidence"
+      ]
+    },
+    {
+      "id": "injured_workers-b31faa07df6e",
+      "title": "Saskatchewan WCB 2026 Preliminary Average Premium Rate: $1.22 (down from $1.28)",
+      "url": "https://awcbc.org/about-us/our-members/news/wcb-announces-decrease-in-2026-preliminary-average-premium-rate",
+      "source": "official",
+      "source_name": "Association of Workers' Compensation Boards of Canada",
+      "classification": "verified_primary_source",
+      "confidence": "medium",
+      "jurisdiction": "CA-SK",
+      "communities": [
+        "injured_workers"
+      ],
+      "claim_or_finding": "WCB Saskatchewan announced a 6-cent decrease in the 2026 preliminary average employer premium rate, from $1.28 to $1.22 per $100; 96% of employers will see a decrease or no change",
+      "date_range": "2026",
+      "limitations": "Preliminary rate; final rates may differ; 96% figure covers all employer classifications",
+      "flywheels": [
+        "evidence"
+      ]
+    },
+    {
+      "id": "injured_workers-c5485b6dcba8",
+      "title": "Nova Scotia WCB New Rules Effective January 1, 2026",
+      "url": "https://flexmanager.com/provinces-new-rules-for-workers-comp-take-effect/",
+      "source": "official",
+      "source_name": "Flex Manager (policy summary)",
+      "classification": "verified_primary_source",
+      "confidence": "medium",
+      "jurisdiction": "CA-NS",
+      "communities": [
+        "injured_workers"
+      ],
+      "claim_or_finding": "Nova Scotia's new Workers' Compensation Act rules took effect January 1, 2026, improving benefits and indexing; changes include updated reporting requirements and benefit provisions",
+      "date_range": "2026-01-01 to present",
+      "limitations": "Source is a policy summary; original legislative text should be verified against nslaws or wcb.ns.ca for authoritative wording",
+      "flywheels": [
+        "knowledge"
+      ]
+    },
+    {
+      "id": "injured_workers-c233df4441fc",
+      "title": "WorkplaceNL 2027 Average Assessment Rate Decrease; Harassment Psychological Injury Coverage June 2026",
+      "url": "https://workplacenl.ca/article/workplacenl-lowers-average-assessment-rate-for-2027",
+      "source": "official",
+      "source_name": "WorkplaceNL",
+      "classification": "verified_primary_source",
+      "confidence": "medium",
+      "jurisdiction": "CA-NL",
+      "communities": [
+        "injured_workers",
+        "vulnerable_communities"
+      ],
+      "claim_or_finding": "WorkplaceNL's 2027 average assessment rate will decrease by 4.0% to $1.66 per $100 of assessable payroll; effective June 1, 2026, coverage extended to psychological injuries caused by workplace harassment",
+      "date_range": "2026-06-01 to 2027",
+      "limitations": "Rate decrease effective January 2027; harassment coverage effective June 1, 2026; specific eligibility criteria apply",
+      "flywheels": [
+        "knowledge"
+      ]
+    },
+    {
+      "id": "human_rights-396ed817454b",
+      "title": "HRTO Mandatory Mediation Process Launched June 1, 2025",
+      "url": "https://tribunalsontario.ca/hrto/",
+      "source": "official",
+      "source_name": "Human Rights Tribunal of Ontario",
+      "classification": "verified_primary_source",
+      "confidence": "medium",
+      "jurisdiction": "CA-ON",
+      "communities": [
+        "human_rights",
+        "vulnerable_communities"
+      ],
+      "claim_or_finding": "The Human Rights Tribunal of Ontario launched a mandatory mediation process for all applications filed on or after June 1, 2025; applications filed prior to that date remain subject to the previous process",
+      "date_range": "2025-06-01 to present",
+      "limitations": "Mediation process applies to applications filed June 1, 2025 onward; earlier applications follow prior process; does not resolve all claims",
+      "flywheels": [
+        "knowledge"
+      ]
+    },
+    {
+      "id": "injured_workers-45e7b0aa365b",
+      "title": "BC WCAT: Search Past Decisions and Judicial Review Listings",
+      "url": "https://www.wcat.bc.ca/home/search-past-decisions/",
+      "source": "official",
+      "source_name": "Workers' Compensation Appeal Tribunal BC",
+      "classification": "verified_primary_source",
+      "confidence": "medium",
+      "jurisdiction": "CA-BC",
+      "communities": [
+        "injured_workers"
+      ],
+      "claim_or_finding": "WCAT BC provides searchable past decisions database and judicial review decisions from BC Supreme Court, Court of Appeal, and Supreme Court of Canada affecting WorkSafeBC claims",
+      "date_range": "1985-present",
+      "limitations": "Search interface; full text of decisions may require CanLII lookup; not all decisions are posted online",
+      "flywheels": [
+        "knowledge"
+      ]
+    },
+    {
+      "id": "welfare_social-b8c7d659a3c6",
+      "title": "Ontario Social Benefits Tribunal Key Performance Indicators FY 2025-2026",
+      "url": "https://tribunalsontario.ca/en/about/key-performance-indicators/sbt-key-performance-indicators/",
+      "source": "official",
+      "source_name": "Ontario Social Benefits Tribunal",
+      "classification": "verified_primary_source",
+      "confidence": "medium",
+      "jurisdiction": "CA-ON",
+      "communities": [
+        "welfare_social",
+        "elderly",
+        "vulnerable_communities"
+      ],
+      "claim_or_finding": "SBT FY 2025-2026 Key Performance Indicators report covers April 1, 2025 to March 31, 2026; metrics include applicant service timelines, decision quality, and appeal outcomes for social assistance applicants",
+      "date_range": "2025-04-01 to 2026-03-31",
+      "limitations": "KPIs reflect mandated reporting period April 2025-March 2026; latest data may not include more recent quarters",
+      "flywheels": [
+        "knowledge"
+      ]
+    },
+    {
+      "id": "injured_workers-ac5fd0655b3b",
+      "title": "Bill 105 Schedule 9: Proposed elimination of 72-month lock-in on WSIB loss of earnings benefits",
+      "url": "https://goldblattpartners.com/workers-compensation/ontario-introducing-major-changes-to-wsib-benefits/",
+      "source": "official",
+      "source_name": "Goldblatt Partners",
+      "classification": "exploratory_pattern",
+      "confidence": "medium",
+      "jurisdiction": "CA-ON",
+      "communities": [
+        "injured_workers"
+      ],
+      "claim_or_finding": "Bill 105 Schedule 9 proposes to eliminate the 72-month statutory lock-in currently protecting WSIB loss of earnings benefits under review",
+      "date_range": "as of 2026-11-18",
+      "limitations": "Bill 105 Schedule 9 has not received Royal Assent; the 72-month lock-in prohibition on WSIB loss of earnings benefits remains in force. The proposed changes would apply to workers injured within 72 months of a specified date not yet determined.",
+      "flywheels": [
+        "knowledge"
+      ]
+    },
+    {
+      "id": "news-aee444d3d671",
+      "title": "Veterans Affairs Canada to send out payments on Monday",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQjdoMlY3RkNjYV9Vd1FPR3lGUkpUQmRaX1U4c2hSR1hrRVcxdi1vTDF5aC1SRzZadXlGa181QXZqZUhfaFhyeXhYNUlPTWpDVmRKTTlpazl6ckVuU25IelpyVDJCaVFQVGlQNnlzMGdLT1g2eGo0MnRucU15TkpMUnVjeDJYY0lPUnVV?oc=5",
+      "source": "news",
+      "source_name": "MoneySense",
+      "classification": "unverified_signal",
+      "confidence": "low",
+      "jurisdiction": "CA-ON",
+      "communities": [
+        "veterans"
+      ],
+      "claim_or_finding": "News item (publisher: MoneySense) matching user-base terms veterans.",
+      "date_range": "published ~Fri, 25 Sep 2026 07:00:00 GMT",
+      "limitations": "Headline-level signal from a news aggregator. The article body was not read and the claim was not checked against a primary source. Do not present as fact or as Canadian legal precedent.",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "news-797ac3c2ce16",
+      "title": "The Royal Canadian Legion on Federal Budget 2025: Big investments, Big cuts - Veterans want immediate clarity",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYVVWODhiaGNMYTlWS1NIRHlKMXZwMmtaUG54YTNoT19fSHdqNTlBS0d5N1RfM2UyelpKQi1Pc3pfVkgzYzYxR3UtNWR5LXlWcktJZ0V0cGQ0NE1ldmpiaWFtY3Fpb29Gc0R6S2ZBS0RScGtMWl9JSjM2UDFtMXBtTGJUWWpyWWtCN3ctUkhaZkpzS1p0Wmxya0ZaNlNCTGllSjZicE1sZHNaR051S0g3WDN0WGlVMmtubnFYVnJPZUNJNjFicUNiRHZEUTdRZjgzOWlnbHVOR2dDcmUxdnc?oc=5",
+      "source": "news",
+      "source_name": "The Royal Canadian Legion",
+      "classification": "unverified_signal",
+      "confidence": "low",
+      "jurisdiction": "CA-ON",
+      "communities": [
+        "veterans"
+      ],
+      "claim_or_finding": "News item (publisher: The Royal Canadian Legion) matching user-base terms veterans.",
+      "date_range": "published ~Mon, 24 Nov 2025 08:00:00 GMT",
+      "limitations": "Headline-level signal from a news aggregator. The article body was not read and the claim was not checked against a primary source. Do not present as fact or as Canadian legal precedent.",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "news-9c65cf9317d4",
+      "title": "Veterans Ombudsman Releases Report Regarding Veterans Affairs Canada",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNGVRQWZxWm1xSHZJaWJsN3JkUmFRUmUxM1B5X1FRcy14WEViVEd2RW11RjNGczFJMkZBX05Pb0ljYkdLeEFKQ2pYc0xLVU5tZGF5YnF3a0pJTHQ1eHNzYkNoTmpqOEtycm1rZm9pdWo4SXdRakJ4OXR0bHpmTkc4alZtOHFIWWpJQ0dyekJxMWlDeWxteHJfNmdJcWMybVhi?oc=5",
+      "source": "news",
+      "source_name": "Canadian Military Family Magazine",
+      "classification": "unverified_signal",
+      "confidence": "low",
+      "jurisdiction": "CA-ON",
+      "communities": [
+        "veterans",
+        "welfare_social"
+      ],
+      "claim_or_finding": "News item (publisher: Canadian Military Family Magazine) matching user-base terms veterans, welfare_social.",
+      "date_range": "published ~Fri, 27 Sep 2024 07:00:00 GMT",
+      "limitations": "Headline-level signal from a news aggregator. The article body was not read and the claim was not checked against a primary source. Do not present as fact or as Canadian legal precedent.",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "news-ab278fe37888",
+      "title": "COVID-19: Special payment to individuals receiving disability supports",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNOEM2UjJ4OE1pWEN3N2NZUGxPc3dBTGRkekE3bVRiX0ZYbGtybTZ2VGt3U0VjbmVTemhtdC1ObmF5aWFfVUVWbkUzQXZNVml3V1ZFMGFqZU5xN1U4QWVwdmctVzhqRURnUnpBbjlzV2w1cUpuVnJxV3VUZWk1NTY0ZGJ3dS1scHpHWE52MVZ0ZHA5Z2JXWk81RVJFaENJbGxOWmFxdEFLLVpyVmRuMWNRaUdfY3NyLXFRU1hIMVNpTjAxeVBWOV9sTWx4aGR1N0UzV0FySzctZW9Wanp0NVNaYll1VnBRY1QwOC1QN09XN2gtQzUtUTNIWUVyTnJWZkgxcE4xTU5PbU1fT0xoV055OUJuX3F5NXZId0cwTlFFZFVSdTM1SjJ4cFZ2UjQ?oc=5",
+      "source": "news",
+      "source_name": "Parliamentary Budget Officer",
+      "classification": "unverified_signal",
+      "confidence": "low",
+      "jurisdiction": "CA-ON",
+      "communities": [
+        "disability"
+      ],
+      "claim_or_finding": "News item (publisher: Parliamentary Budget Officer) matching user-base terms disability.",
+      "date_range": "published ~Wed, 26 Aug 2020 07:00:00 GMT",
+      "limitations": "Headline-level signal from a news aggregator. The article body was not read and the claim was not checked against a primary source. Do not present as fact or as Canadian legal precedent.",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "news-41b09ff8f8bb",
+      "title": "Veterans may have paid too much for long-term care for years due to federal error",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CRU9wM3dPSEdEejlHSzBaWUp0dmxBZjVibjVmTWlFYks2VnNWcFZEWDQxSDBUcF9hWGN0TThSa0gyRUYzTmk1dzktc2h1MHpNaEZmeG9MX0JHRFNaVFNMQ29yOG1vYWlud2hXQUQ0V1BNMENhaExR?oc=5",
+      "source": "news",
+      "source_name": "CBC",
+      "classification": "unverified_signal",
+      "confidence": "low",
+      "jurisdiction": "CA-ON",
+      "communities": [
+        "veterans"
+      ],
+      "claim_or_finding": "News item (publisher: CBC) matching user-base terms veterans.",
+      "date_range": "published ~Tue, 29 Oct 2024 07:00:00 GMT",
+      "limitations": "Headline-level signal from a news aggregator. The article body was not read and the claim was not checked against a primary source. Do not present as fact or as Canadian legal precedent.",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "news-d35222b6c427",
+      "title": "Serving You: Disability Assessments and Reassessments from VAC",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdzMydXUzQW5FWUxsa0plTmd5MnVTN2tNbmhGUEVjOTdsUHhYdDNuQlRKckRLWFFkX3ZQaERYSzMyTVdWdEt3aHdCYzJTM2haU0thbEpQajM3cUZZNGNZYmpqTHhzcHJaWHpKX1AxVmJrdkR6MnI1bnk3eTgzTjNrb0Z6RzNsWl9kWGczb1dWVEZ5VWM?oc=5",
+      "source": "news",
+      "source_name": "Legion Magazine",
+      "classification": "unverified_signal",
+      "confidence": "low",
+      "jurisdiction": "CA-ON",
+      "communities": [
+        "disability"
+      ],
+      "claim_or_finding": "News item (publisher: Legion Magazine) matching user-base terms disability.",
+      "date_range": "published ~Fri, 09 Jun 2023 07:00:00 GMT",
+      "limitations": "Headline-level signal from a news aggregator. The article body was not read and the claim was not checked against a primary source. Do not present as fact or as Canadian legal precedent.",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "news-c80b0cec2bb8",
+      "title": "ATTENTION CANADIAN MILITARY FAMILIES : Did you or a family member receive VAC disability benefits between 2003 and 2023?",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYVlJQzJNWUM2QnpsWGRWbkV4MUh2WlJFaFlMMG5KWl8tMWw1U0tMZEQ4SE82bUJZem1Nang4NlVIVXpGTm1ZZ0g1dEVEU3ltdzlka0ttTUhvVVBXVGRLdHNJa2loWW5mcFlPSHFSUWRJdmg2SG9aRy01T1Z1UE56VXJISWY1d1N5RXNURjFwdEdCVzczRjNBdllkMXR3bGpRdlBpZjZ0aTlCZGFYWU51d2dicUtXdGg1WHhab2l4VVJVbTM3eHgtUE1BY2N3V1lzRjVIWXVRS1BNQmt1akE?oc=5",
+      "source": "news",
+      "source_name": "Legion Magazine",
+      "classification": "unverified_signal",
+      "confidence": "low",
+      "jurisdiction": "CA-ON",
+      "communities": [
+        "disability",
+        "welfare_social"
+      ],
+      "claim_or_finding": "News item (publisher: Legion Magazine) matching user-base terms disability, welfare_social.",
+      "date_range": "published ~Tue, 03 Sep 2024 07:00:00 GMT",
+      "limitations": "Headline-level signal from a news aggregator. The article body was not read and the claim was not checked against a primary source. Do not present as fact or as Canadian legal precedent.",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "news-4e2573470415",
+      "title": "Veterans Affairs Canada has been overestimating the number of veterans for decades",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVUR3WGxXTktCSzNRdHRpSm5aaVpYZHQ4cGhlRFQ0aHJ6cGFjeFJCbGVncGhZMDE2NWlhM2EyWml3Y0lhZXo3SV9WcHF3aW8yLUNtcmlqODlaOVpDNXBuVUNXUW5lMnQtaWFoeXhUbTd4YWFIaFdEcEZoLWNrOEpTeHlaMnVDM2l6dEE?oc=5",
+      "source": "news",
+      "source_name": "CBC",
+      "classification": "unverified_signal",
+      "confidence": "low",
+      "jurisdiction": "CA-ON",
+      "communities": [
+        "veterans"
+      ],
+      "claim_or_finding": "News item (publisher: CBC) matching user-base terms veterans.",
+      "date_range": "published ~Fri, 11 Nov 2022 08:00:00 GMT",
+      "limitations": "Headline-level signal from a news aggregator. The article body was not read and the claim was not checked against a primary source. Do not present as fact or as Canadian legal precedent.",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "news-03c7ac00661f",
+      "title": "Royal Canadian Legion pens letter to PM to clear disability benefits backlog for Veterans",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTU9TTnhNUVl2NTZzRGRPWDRRWWhOeTNTVzVCUGdWTnloRl9aNk5nWHR1MGxUbUI3VUlsMU1qVTNfb1VMdVJLUnhEdzF3NTM2RFFrT0I3QzFMOWcyTThreWV4Y0J5NTlqX3g0QkJuYk94bG1BRnlZZURGcUZRaGFiX1h6S2t0OHBKemdDZXVDZ2dqS2NLdWRKQi1JWHVxOERXcDJ2TWlMNkR2NjZIUHQtZVBRSExEMzh3ei1tWExSMlJRMVJlUVpnUzFUZTM4a0tFcWlV?oc=5",
+      "source": "news",
+      "source_name": "CBC",
+      "classification": "unverified_signal",
+      "confidence": "low",
+      "jurisdiction": "CA-ON",
+      "communities": [
+        "disability",
+        "veterans"
+      ],
+      "claim_or_finding": "News item (publisher: CBC) matching user-base terms disability, veterans.",
+      "date_range": "published ~Thu, 24 Feb 2022 08:00:00 GMT",
+      "limitations": "Headline-level signal from a news aggregator. The article body was not read and the claim was not checked against a primary source. Do not present as fact or as Canadian legal precedent.",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "news-ac1196b5ad24",
+      "title": "Lawsuit over massive Veterans Affairs accounting error to cost Ottawa almost $1 billion",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNempHdktjZno2RHhfVGw4ZnZvSXk2c2V4UHNSQ01paTV6M1A5MDVqVnBVWHY4MmY1Ty1zTHltMGJhckJmemw0azN6dXhhRzQtZmhrcG9DamVyXzFMQjlnenpTOEpZLWV3RlkyelptQzNUZHY2WXRUb0FsOG5ueGtIRUprYVA?oc=5",
+      "source": "news",
+      "source_name": "CBC",
+      "classification": "unverified_signal",
+      "confidence": "low",
+      "jurisdiction": "CA-ON",
+      "communities": [
+        "veterans"
+      ],
+      "claim_or_finding": "News item (publisher: CBC) matching user-base terms veterans.",
+      "date_range": "published ~Fri, 01 Mar 2024 08:00:00 GMT",
+      "limitations": "Headline-level signal from a news aggregator. The article body was not read and the claim was not checked against a primary source. Do not present as fact or as Canadian legal precedent.",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ]
+    }
+  ]
+}

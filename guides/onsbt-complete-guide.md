@@ -484,8 +484,8 @@ Toronto, ON M5G 2P9
 - Willing to accept suitable employment
 
 **Asset Limits (OW):**
-- **Single person:** $2,500
-- **Couple:** $5,000
+- **Single person:** $10,000
+- **Couple:** $15,000
 - **Each dependent child:** +$500
 - **Vehicle:** Up to $10,000 value (exempt)
 

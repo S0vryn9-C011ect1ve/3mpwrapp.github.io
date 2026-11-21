@@ -8,7 +8,7 @@ permalink: /knowledge-base/bill-86-meredith-act/
 
 ## 📋 What This Guide Covers
 
-**Bill 86 (2023)** — officially titled the *Occupational Health and Safety Amendment Act ( workplace violence and harassment)* — was **Meredith Broughton's private member's bill** that proposed sweeping, **pro-worker reforms** to Ontario's workers' compensation system before being **shut down**.
+**Bill 86 (2025)** — **Meredith Act (Fair Compensation for Injured Workers)**, introduced 2025-12-08 by MPP **Lise Vaugeois** (NDP, Thunder Bay–Superior North), Parliament 44 S1; repeals WSIA 1997; named for Sir William Meredith. **Never enacted; at Second Reading.**
 
 Bill 105 (September 2026) — the focus of our [companion Bill 105 KB article](/knowledge-base/bill-105-wsib-lockin/) — is widely understood among advocates as the **provincial government's counterweight**: where Bill 86 would have expanded protections, **Bill 105 rolls back core safeguards like the WSIB lock-in period**.
 

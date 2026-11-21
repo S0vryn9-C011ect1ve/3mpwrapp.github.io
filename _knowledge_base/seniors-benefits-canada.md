@@ -32,7 +32,7 @@ description: "Verified quick-reference figures for seniors benefits in Canada �
 ## The Allowance — Canada-wide
 
 - **Ages 60–64**, low income, spouse receives GIS.
-- **Maximum, Oct–Dec 2026:** up to **$1,428.06/mo** (spouse receives GIS and full OAS).
+- **Maximum, Oct–Dec 2026:** up to **$1,448.06/mo** (spouse receives GIS and full OAS).
 - Apply 6–11 months before turning 60.
 - [Allowance — Canada.ca](https://www.canada.ca/en/services/benefits/publicpensions/old-age-security/guaranteed-income-supplement/allowance.html)
 

@@ -130,7 +130,7 @@ From **98,992 WSIAT decisions (2020-2026)**, 3mpwrApp's research revealed patter
 
 ### **Pain & Suffering Compensation (Section 13)**
 
-**Current WSIB:** Non-Economic Loss (NEL) awards capped at 15% for most injuries
+**Current WSIB:** NEL benefit = age-adjusted base amount × permanent impairment rating (0–100%); there is **NO 15% cap** (WSIB OPM 18-05-04).
 
 **Bill 86 (Section 13):**
 > "A permanently injured worker is entitled to compensation in the form of payments for intangible loss, pain and suffering."

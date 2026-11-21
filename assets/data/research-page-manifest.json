@@ -1,0 +1,764 @@
+{
+  "generated": "2026-11-18",
+  "page": "research/index.md",
+  "live_url": "https://3mpwrapp.ca/research/",
+  "section_count": 27,
+  "sections": [
+    {
+      "anchor": null,
+      "heading": "Navigate by Community (9 user bases — fully inter-linked)",
+      "line": 9,
+      "level": 2,
+      "links": [],
+      "slug": "navigate-by-community-9-user-bases-fully-inter-linked"
+    },
+    {
+      "anchor": null,
+      "heading": "🔬 Research",
+      "line": 24,
+      "level": 1,
+      "links": [],
+      "slug": "research"
+    },
+    {
+      "anchor": null,
+      "heading": "🏘 Communities we serve",
+      "line": 35,
+      "level": 2,
+      "links": [],
+      "slug": "communities-we-serve"
+    },
+    {
+      "anchor": null,
+      "heading": "📚 Guides (by community)",
+      "line": 48,
+      "level": 2,
+      "links": [],
+      "slug": "guides-by-community"
+    },
+    {
+      "anchor": null,
+      "heading": "Indigenous Communities",
+      "line": 50,
+      "level": 3,
+      "links": [],
+      "slug": "indigenous-communities"
+    },
+    {
+      "anchor": null,
+      "heading": "Injured Workers & WSIB/WSIAT",
+      "line": 53,
+      "level": 3,
+      "links": [],
+      "slug": "injured-workers-wsib-wsiat"
+    },
+    {
+      "anchor": null,
+      "heading": "Veterans (VAC / VRAB)",
+      "line": 70,
+      "level": 3,
+      "links": [],
+      "slug": "veterans-vac-vrab"
+    },
+    {
+      "anchor": null,
+      "heading": "Seniors",
+      "line": 73,
+      "level": 3,
+      "links": [],
+      "slug": "seniors"
+    },
+    {
+      "anchor": null,
+      "heading": "Caregivers",
+      "line": 76,
+      "level": 3,
+      "links": [],
+      "slug": "caregivers"
+    },
+    {
+      "anchor": null,
+      "heading": "Persons with Disabilities",
+      "line": 79,
+      "level": 3,
+      "links": [],
+      "slug": "persons-with-disabilities"
+    },
+    {
+      "anchor": null,
+      "heading": "Human Rights",
+      "line": 82,
+      "level": 3,
+      "links": [],
+      "slug": "human-rights"
+    },
+    {
+      "anchor": null,
+      "heading": "UNCRPD",
+      "line": 86,
+      "level": 3,
+      "links": [],
+      "slug": "uncrpd"
+    },
+    {
+      "anchor": null,
+      "heading": "📖 Knowledge Bases",
+      "line": 91,
+      "level": 2,
+      "links": [],
+      "slug": "knowledge-bases"
+    },
+    {
+      "anchor": null,
+      "heading": "By community & topic",
+      "line": 93,
+      "level": 3,
+      "links": [],
+      "slug": "by-community-topic"
+    },
+    {
+      "anchor": null,
+      "heading": "By injury type",
+      "line": 102,
+      "level": 3,
+      "links": [],
+      "slug": "by-injury-type"
+    },
+    {
+      "anchor": null,
+      "heading": "🛠 Templates & tools (appeals, applications, complaints)",
+      "line": 105,
+      "level": 2,
+      "links": [],
+      "slug": "templates-tools-appeals-applications-complaints"
+    },
+    {
+      "anchor": null,
+      "heading": "📊 Interactive visualizations (tribunal decision data)",
+      "line": 125,
+      "level": 2,
+      "links": [],
+      "slug": "interactive-visualizations-tribunal-decision-data"
+    },
+    {
+      "anchor": null,
+      "heading": "📑 Reports & methodology",
+      "line": 142,
+      "level": 2,
+      "links": [],
+      "slug": "reports-methodology"
+    },
+    {
+      "anchor": "indigenous-health-disability",
+      "heading": null,
+      "line": 151,
+      "level": 2,
+      "links": []
+    },
+    {
+      "anchor": "indigenous-health-disability",
+      "heading": "🌿 Indigenous Communities — Health, Disability & Rights",
+      "line": 152,
+      "level": 2,
+      "links": [],
+      "slug": "indigenous-communities-health-disability-rights"
+    },
+    {
+      "anchor": null,
+      "heading": "🔄 CanLII decision-data scraping — resuming soon",
+      "line": 168,
+      "level": 2,
+      "links": [],
+      "slug": "canlii-decision-data-scraping-resuming-soon"
+    },
+    {
+      "anchor": "workers-comp-canada",
+      "heading": null,
+      "line": 185,
+      "level": 2,
+      "links": []
+    },
+    {
+      "anchor": "workers-comp-canada",
+      "heading": "🇨🇦 Workers' Compensation Across Canada",
+      "line": 186,
+      "level": 2,
+      "links": [],
+      "slug": "workers-compensation-across-canada"
+    },
+    {
+      "anchor": null,
+      "heading": "🌿 Indigenous Communities — distinct pathways (data-sovereignty respecting)",
+      "line": 217,
+      "level": 2,
+      "links": [],
+      "slug": "indigenous-communities-distinct-pathways-data-sovereignty-respecting"
+    },
+    {
+      "anchor": null,
+      "heading": "🇨🇦 Federal Benefits by Community (program map)",
+      "line": 230,
+      "level": 2,
+      "links": [],
+      "slug": "federal-benefits-by-community-program-map"
+    },
+    {
+      "anchor": null,
+      "heading": "Provincial & territorial programs (audit pending)",
+      "line": 243,
+      "level": 3,
+      "links": [],
+      "slug": "provincial-territorial-programs-audit-pending"
+    },
+    {
+      "anchor": null,
+      "heading": "A note on the numbers",
+      "line": 250,
+      "level": 2,
+      "links": [],
+      "slug": "a-note-on-the-numbers"
+    }
+  ],
+  "internal_links": {
+    "total": 101,
+    "unresolved": [
+      "/research/indigenous-health-disability/",
+      "/research/tribunal-transparency/wsiat-vs-bc-wcat-transparency-divide/",
+      "/templates/chronic-pain-appeal/"
+    ],
+    "ok": 98
+  },
+  "external_sources": {
+    "total": 26,
+    "unreachable": [
+      "https://www.canada.ca/en/employment-social-development/services/labour-standards.html",
+      "https://www.canada.ca/en/indigenous-services-canada.html",
+      "https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities.html",
+      "https://www.canada.ca/en/services/benefits.html",
+      "https://www.canada.ca/en/services/benefits/ei.html",
+      "https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-disability-benefit.html",
+      "https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security.html",
+      "https://www.canada.ca/en/services/taxes.html",
+      "https://www.wcb.ns.ca",
+      "https://yukon.ca/workers-compensation"
+    ],
+    "status": {
+      "https://workplacenl.ca": {
+        "ok": true,
+        "detail": "HTTP 200"
+      },
+      "https://www.canada.ca/en/employment-social-development/services/labour-standards.html": {
+        "ok": false,
+        "detail": "The read operation timed out"
+      },
+      "https://www.canada.ca/en/indigenous-services-canada.html": {
+        "ok": false,
+        "detail": "The read operation timed out"
+      },
+      "https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities.html": {
+        "ok": false,
+        "detail": "The read operation timed out"
+      },
+      "https://www.canada.ca/en/services/benefits.html": {
+        "ok": false,
+        "detail": "The read operation timed out"
+      },
+      "https://www.canada.ca/en/services/benefits/ei.html": {
+        "ok": false,
+        "detail": "The read operation timed out"
+      },
+      "https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-disability-benefit.html": {
+        "ok": false,
+        "detail": "The read operation timed out"
+      },
+      "https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security.html": {
+        "ok": false,
+        "detail": "The read operation timed out"
+      },
+      "https://www.canada.ca/en/services/taxes.html": {
+        "ok": false,
+        "detail": "The read operation timed out"
+      },
+      "https://www.cnesst.gouv.qc.ca": {
+        "ok": true,
+        "detail": "HTTP 200"
+      },
+      "https://www.fnha.ca": {
+        "ok": true,
+        "detail": "HTTP 200"
+      },
+      "https://www.itk.ca": {
+        "ok": true,
+        "detail": "HTTP 200"
+      },
+      "https://www.metisnation.ca": {
+        "ok": true,
+        "detail": "HTTP 200"
+      },
+      "https://www.veterans.gc.ca": {
+        "ok": true,
+        "detail": "HTTP 200"
+      },
+      "https://www.wcb.ab.ca": {
+        "ok": true,
+        "detail": "HTTP 200"
+      },
+      "https://www.wcb.mb.ca": {
+        "ok": true,
+        "detail": "HTTP 200"
+      },
+      "https://www.wcb.ns.ca": {
+        "ok": false,
+        "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate "
+      },
+      "https://www.wcb.pe.ca": {
+        "ok": true,
+        "detail": "HTTP 200"
+      },
+      "https://www.wcbc.ca": {
+        "ok": true,
+        "detail": "HTTP 200"
+      },
+      "https://www.worksafebc.com": {
+        "ok": true,
+        "detail": "HTTP 200"
+      },
+      "https://www.worksafenb.ca": {
+        "ok": true,
+        "detail": "HTTP 200"
+      },
+      "https://www.worksafesask.ca": {
+        "ok": true,
+        "detail": "HTTP 200"
+      },
+      "https://www.wscc.nt.ca": {
+        "ok": true,
+        "detail": "HTTP 200"
+      },
+      "https://www.wscc.nu.ca": {
+        "ok": true,
+        "detail": "HTTP 200"
+      },
+      "https://www.wsib.ca": {
+        "ok": true,
+        "detail": "HTTP 200"
+      },
+      "https://yukon.ca/workers-compensation": {
+        "ok": false,
+        "detail": "HTTP 403"
+      }
+    }
+  },
+  "collections": {
+    "guides": {
+      "count": 22,
+      "stale": 22,
+      "items": [
+        {
+          "file": "guides/caregivers-benefits-canada.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "guides/construction-wsiat-industry-guide.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "guides/disability-federal-benefits.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "guides/healthcare-wsiat-industry-guide.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "guides/hrto-complete-guide.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "guides/human-rights-tribunals-canada.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "guides/manufacturing-wsiat-industry-guide.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "guides/odsp-complete-guide.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "guides/onca-appellate-guide.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "guides/onsbt-complete-guide.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "guides/onwsib-skip-strategy-guide.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "guides/seniors-oas-gis-benefits.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "guides/uncrpd-canada-rights.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "guides/veterans-vac-benefits.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "guides/wsiat-back-injury-guide.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "guides/wsiat-chronic-pain-guide.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "guides/wsiat-complete-guide.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "guides/wsiat-loe-benefits-guide.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "guides/wsiat-nel-benefits-guide.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "guides/wsiat-nel-chronic-pain-strategy.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "guides/wsiat-tactics-survival-guide.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "guides/wsib-to-odsp-pathway.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        }
+      ]
+    },
+    "knowledge_base": {
+      "count": 39,
+      "stale": 38,
+      "items": [
+        {
+          "file": "_knowledge_base/all-disabilities-non-work-injury-programs.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/ankle-injury-claims.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/bill-105-wsib-lockin.md",
+          "last_updated": "2026-11-03",
+          "age_days": 15,
+          "stale": false
+        },
+        {
+          "file": "_knowledge_base/bill-86-meredith-act.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/canlii-wsib-precedents.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/caregivers-support-canada.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/chronic-pain-claims.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/claim-suppression-retaliation.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/concussion-tbi-claims.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/disability-federal-programs.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/elbow-epicondylitis-claims.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/family-caregiver-supports.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/fibromyalgia-claims.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/hand-finger-claims.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/hearing-loss-claims.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/hip-injury-claims.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/human-rights-law-canada.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/information-asymmetry-narrative-control.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/knee-injury-claims.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/low-back-pain-claims.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/neck-whiplash-claims.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/onca-appellate-process.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/outcome-prediction-accuracy.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/permanent-impairment-rating.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/pre-existing-conditions.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/PROGRAMS.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/psychotraumatic-disability.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/seniors-benefits-canada.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/seniors-elders-supports.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/shoulder-rotator-cuff-claims.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/understanding-tribunal-outcomes.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/veterans-benefits-vac-canada.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/which-system-applies-to-me.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/wrist-carpal-tunnel-claims.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/wsib-2026-accountability-watch.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/wsib-premium-rebates.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/wsib-rebate-appeals-rights.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/wsib-safety-check.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        },
+        {
+          "file": "_knowledge_base/wsib-strike-appeals-pause.md",
+          "last_updated": null,
+          "age_days": null,
+          "stale": true
+        }
+      ]
+    },
+    "templates": {
+      "count": 0,
+      "stale": 0,
+      "items": []
+    }
+  },
+  "daily_coverage": {
+    "cards": 22,
+    "primary_source": 11,
+    "thin_bases": [
+      "Indigenous Communities",
+      "Seniors / Elders",
+      "Advocates (Human Rights / UNCRPD)",
+      "Public Allies"
+    ],
+    "available": true,
+    "by_base": {
+      "Indigenous Communities": 0,
+      "Injured Workers": 10,
+      "Persons with Disabilities": 4,
+      "Veterans": 7,
+      "Seniors / Elders": 1,
+      "Families (Caregivers)": 3,
+      "Advocates (Human Rights / UNCRPD)": 1,
+      "Public Allies": 0,
+      "Vulnerable Communities": 4
+    }
+  },
+  "health": {
+    "sections_ok": true,
+    "internal_links_ok": false,
+    "external_ok": false
+  }
+}

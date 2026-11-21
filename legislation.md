@@ -56,6 +56,8 @@ Set annually by the President under s.209 of the *Workers Compensation Act*.
 | 2025 | $121,500.00 | 1 Jan 2025 |
 | 2024 | $116,700.00 | 1 Jan 2024 |
 
+*Table: **British Columbia (WorkSafeBC)** maximum insurable wage rates. Ontario WSIB maximum insurable earnings: **$121,700 (2026) / $126,700 (2027)**. Never present BC figures as the Ontario ceiling.*
+
 [WorkSafeBC — Maximum Wage Rates](https://www.worksafebc.com/en/law-policy/claims-rehabilitation/compensation-related-maximum-wage-rates)
 
 > ⚠️ **Commonly-cited but outdated:** the "$87,100 → $100,000" increase is the **2023**

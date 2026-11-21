@@ -30,7 +30,7 @@ Three benefits; all pay **55% of earnings, max $729/week (2026)**.
 
 ## Canada Caregiver Credit — federal tax credit
 
-- Non-refundable credit up to **$8,601** (2025 tax year) on **line 30425** for an infirm spouse/partner or eligible dependant 18+.
+- Non-refundable credit up to **$2,687** (2025 tax year) on **line 30425** (Canada caregiver amount — infirm spouse/common-law or eligible dependant 18+); **$8,601 is line 30450** (other infirm dependants 18+).
 - Reduced as the dependant's income rises; indexed annually.
 - [Canada caregiver credit — Canada.ca](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/canada-caregiver-amount.html)
 
