@@ -210,6 +210,76 @@ image_alt: "3mpwrApp Events - Accessible community gatherings and workshops"
   </button>
 </div>
 
+<!-- Accessible filter & sort toolbar (WCAG 2.1 AA: labelled native controls, keyboard support, live result count) -->
+<style>
+  #evtf-toolbar { background: #f8fafc; border: 2px solid #e2e8f0; border-radius: 14px; padding: 1.25rem; margin: 1.5rem 0; }
+  #evtf-toolbar .evtf-search { width: 100%; box-sizing: border-box; padding: 0.75rem 1rem; font-size: 1.05rem; border: 2px solid #94a3b8; border-radius: 10px; background: #fff; color: #1f2937; }
+  #evtf-toolbar .evtf-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 1rem; margin: 1rem 0; }
+  #evtf-toolbar .evtf-field label { display: block; font-weight: 700; font-size: 0.95rem; color: #1f2937; margin-bottom: 0.35rem; }
+  #evtf-toolbar select { width: 100%; box-sizing: border-box; padding: 0.6rem 0.65rem; font-size: 1rem; border: 2px solid #94a3b8; border-radius: 10px; background: #fff; color: #1f2937; }
+  #evtf-toolbar fieldset { border: 2px solid #cbd5e1; border-radius: 10px; padding: 0.75rem 1rem; margin: 0.5rem 0; }
+  #evtf-toolbar legend { font-weight: 700; font-size: 0.95rem; color: #1f2937; padding: 0 0.4rem; }
+  #evtf-toolbar .evtf-checks { display: flex; flex-wrap: wrap; gap: 0.5rem 1.5rem; }
+  #evtf-toolbar .evtf-checks label { display: inline-flex; align-items: center; gap: 0.45rem; font-size: 0.98rem; color: #1f2937; cursor: pointer; }
+  #evtf-toolbar .evtf-checks input { width: 1.2rem; height: 1.2rem; accent-color: #4a3aa0; }
+  #evtf-toolbar .evtf-footer { display: flex; flex-wrap: wrap; align-items: center; gap: 0.75rem; justify-content: space-between; margin-top: 0.85rem; }
+  #evtf-count { margin: 0; font-size: 1rem; color: #334155; font-weight: 700; }
+  #evtf-clear { padding: 0.55rem 1.1rem; font-size: 0.95rem; font-weight: 700; border: 2px solid #4a3aa0; background: #fff; color: #4a3aa0; border-radius: 10px; cursor: pointer; }
+  #evtf-toolbar input:focus-visible, #evtf-toolbar select:focus-visible, #evtf-toolbar button:focus-visible { outline: 3px solid #4a3aa0; outline-offset: 2px; }
+  .evtf-cat-badge { display: inline-block; background: #ede9fe; color: #4a3aa0; font-size: 0.8rem; font-weight: 800; padding: 4px 12px; border-radius: 999px; text-transform: uppercase; letter-spacing: 0.03em; }
+  .evtf-base-badge { display: inline-block; background: #ecfdf5; color: #065f46; font-size: 0.8rem; font-weight: 700; padding: 4px 12px; border-radius: 999px; border: 1px solid #a7f3d0; }
+  .evtf-empty { font-size: 1.05rem; color: #334155; padding: 1rem 0; }
+  @media (prefers-reduced-motion: reduce) { .event-card, #evtf-toolbar * { transition: none !important; animation: none !important; } }
+</style>
+<section id="evtf-toolbar" aria-label="Filter and sort events">
+  <div role="search">
+    <label for="evtf-search" class="sr-only">Search events by title, description, location, or organizer</label>
+    <input type="search" id="evtf-search" class="evtf-search" placeholder="🔍 Search events, places, organizers…" autocomplete="off" />
+  </div>
+  <div class="evtf-grid">
+    <div class="evtf-field">
+      <label for="evtf-sort">Sort by</label>
+      <select id="evtf-sort">
+        <option value="date-asc">Date — soonest first</option>
+        <option value="date-desc">Date — latest first</option>
+        <option value="title-asc">Title — A to Z</option>
+        <option value="category">Category — A to Z</option>
+        <option value="added-desc">Recently added</option>
+      </select>
+    </div>
+    <div class="evtf-field">
+      <label for="evtf-category">Category</label>
+      <select id="evtf-category"><option value="all">All categories</option></select>
+    </div>
+    <div class="evtf-field">
+      <label for="evtf-base">User base</label>
+      <select id="evtf-base"><option value="all">All user bases</option></select>
+    </div>
+    <div class="evtf-field">
+      <label for="evtf-format">Format</label>
+      <select id="evtf-format">
+        <option value="all">All formats</option>
+        <option value="virtual">Online / virtual</option>
+        <option value="inperson">In person</option>
+      </select>
+    </div>
+  </div>
+  <fieldset>
+    <legend>Accessibility needs</legend>
+    <div class="evtf-checks">
+      <label><input type="checkbox" id="evtf-stepfree" /> Step-free / wheelchair</label>
+      <label><input type="checkbox" id="evtf-asl" /> ASL interpretation</label>
+      <label><input type="checkbox" id="evtf-captions" /> Captions</label>
+      <label><input type="checkbox" id="evtf-sensory" /> Sensory-friendly</label>
+      <label><input type="checkbox" id="evtf-lowenergy" /> Low energy</label>
+    </div>
+  </fieldset>
+  <div class="evtf-footer">
+    <p id="evtf-count" role="status" aria-live="polite">Loading events…</p>
+    <button type="button" id="evtf-clear">Clear filters</button>
+  </div>
+</section>
+
 <section id="upcoming-events">
   <div id="upcoming-events-list" style="margin: 2rem 0;">
     <div id="events-skeleton" aria-hidden="true" style="display: grid; gap: 1rem;">
@@ -256,6 +326,94 @@ image_alt: "3mpwrApp Events - Accessible community gatherings and workshops"
    */
   
   // Render a single event card with appropriate styling
+  // ---- Accessible filter/sort helpers (WCAG 2.1 AA) ----
+  function escHtml(s) {
+    return String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[c]));
+  }
+  function evtfBaseLabel(b) {
+    const m = { 'injured-workers':'Injured Workers','disabled':'Persons with Disabilities','indigenous':'Indigenous Peoples','families':'Families & Caregivers','veterans':'Veterans','seniors':'Seniors','public':'General Public','allies':'Allies','advocates':'Advocates' };
+    return m[b] || (b ? b.charAt(0).toUpperCase() + b.slice(1).replace(/-/g,' ') : '');
+  }
+  function evtfCatLabel(c) {
+    const m = { 'support':'Support','workshop':'Workshop','community':'Community','wellness':'Wellness','arts':'Arts & Culture','advocacy':'Advocacy','benefits':'Benefits','legal':'Legal','education':'Education','educational':'Education','health':'Health','social':'Social','rally':'Rally','holiday':'Holiday','other':'Other' };
+    return m[c] || (c ? c.charAt(0).toUpperCase() + c.slice(1).replace(/-/g,' ') : '');
+  }
+  function evtfIsYes(v) { return v === true || v === 'yes' || v === 'true' || v === 1; }
+  function evtfMatches(ev, f) {
+    if (f.q) {
+      const hay = [ev.title, ev.description, ev.location, ev.organizer, (ev.tags||[]).join(' ')].join(' ').toLowerCase();
+      if (!hay.includes(f.q)) return false;
+    }
+    if (f.category !== 'all' && (ev.category || 'other') !== f.category) return false;
+    if (f.base !== 'all' && !(ev.userBases || []).includes(f.base)) return false;
+    if (f.format === 'virtual' && !ev.isVirtual) return false;
+    if (f.format === 'inperson' && ev.isVirtual) return false;
+    const a = ev.accessibility || {};
+    const fa = f.a11y || {};
+    if (fa.stepfree && !(evtfIsYes(ev.stepFree) || evtfIsYes(a.wheelchair) || evtfIsYes(ev.wheelchairAccessible))) return false;
+    if (fa.asl && !(evtfIsYes(ev.asl) || evtfIsYes(a.asl))) return false;
+    if (fa.captions && !(evtfIsYes(ev.captions) || evtfIsYes(a.captions))) return false;
+    if (fa.sensory && !(evtfIsYes(ev.sensoryFriendly) || evtfIsYes(ev.sensorySpace) || evtfIsYes(a.sensoryFriendly))) return false;
+    if (fa.lowenergy && String(ev.energyCost || '').toLowerCase() !== 'low') return false;
+    return true;
+  }
+  function evtfSort(list, mode) {
+    const arr = list.slice();
+    const t = e => new Date(e.date).getTime();
+    if (mode === 'date-desc') arr.sort((a,b) => t(b) - t(a));
+    else if (mode === 'title-asc') arr.sort((a,b) => String(a.title).localeCompare(String(b.title)));
+    else if (mode === 'category') arr.sort((a,b) => String(evtfCatLabel(a.category)).localeCompare(String(evtfCatLabel(b.category))) || t(a) - t(b));
+    else if (mode === 'added-desc') arr.sort((a,b) => new Date(b.addedDate || b.date).getTime() - new Date(a.addedDate || a.date).getTime());
+    else arr.sort((a,b) => t(a) - t(b));
+    return arr;
+  }
+  function evtfReadFilters() {
+    const val = (id, dflt) => { const el = document.getElementById(id); const v = el ? el.value : ''; return v || dflt; };
+    const chk = id => { const el = document.getElementById(id); return !!(el && el.checked); };
+    const qEl = document.getElementById('evtf-search');
+    return { q: qEl && qEl.value ? qEl.value.trim().toLowerCase() : '', sort: val('evtf-sort','date-asc'), category: val('evtf-category','all'), base: val('evtf-base','all'), format: val('evtf-format','all'),
+      a11y: { stepfree: chk('evtf-stepfree'), asl: chk('evtf-asl'), captions: chk('evtf-captions'), sensory: chk('evtf-sensory'), lowenergy: chk('evtf-lowenergy') } };
+  }
+  function evtfPopulate(events) {
+    const catSel = document.getElementById('evtf-category');
+    const baseSel = document.getElementById('evtf-base');
+    if (!catSel || !baseSel || (catSel.options && catSel.options.length > 1)) return;
+    const cats = {}, bases = {};
+    events.forEach(e => { const c = e.category || 'other'; cats[c] = (cats[c]||0)+1; (e.userBases||[]).forEach(b => { bases[b] = (bases[b]||0)+1; }); });
+    Object.keys(cats).sort((a,b)=>evtfCatLabel(a).localeCompare(evtfCatLabel(b))).forEach(c => { const o = document.createElement('option'); o.value = c; o.textContent = evtfCatLabel(c) + ' (' + cats[c] + ')'; catSel.appendChild(o); });
+    ['injured-workers','disabled','indigenous','families','veterans','seniors','public','allies','advocates'].filter(b=>bases[b]).forEach(b => { const o = document.createElement('option'); o.value = b; o.textContent = evtfBaseLabel(b) + ' (' + bases[b] + ')'; baseSel.appendChild(o); });
+  }
+  function evtfApply(events, now) {
+    const f = evtfReadFilters();
+    const upcoming = evtfSort(events.filter(e => new Date(e.date) >= now && evtfMatches(e, f)), f.sort);
+    const past = evtfSort(events.filter(e => new Date(e.date) < now && evtfMatches(e, f)), 'date-desc');
+    const upEl = document.getElementById('upcoming-events-list');
+    const pastEl = document.getElementById('past-events-list');
+    const pastSec = document.getElementById('past-events');
+    if (upEl) upEl.innerHTML = upcoming.length ? upcoming.map(e => renderEventCard(e, now)).join('') : '<p class="evtf-empty">No upcoming events match your filters. <button type="button" class="evtf-clear-inline" style="background:none;border:none;color:#4a3aa0;text-decoration:underline;cursor:pointer;font:inherit;">Clear filters</button></p>';
+    if (pastEl) pastEl.innerHTML = past.length ? past.map(e => renderEventCard(e, now)).join('') : '<p class="evtf-empty">No archived events match your filters.</p>';
+    if (pastSec) pastSec.style.display = past.length ? 'block' : 'none';
+    const cnt = document.getElementById('evtf-count');
+    if (cnt) cnt.textContent = 'Showing ' + upcoming.length + ' upcoming \u00b7 ' + past.length + ' archived (of ' + events.length + ' total)';
+    if (document.querySelectorAll) document.querySelectorAll('.evtf-clear-inline').forEach(btn => btn.addEventListener('click', evtfClear));
+  }
+  function evtfClear() {
+    ['evtf-category','evtf-base','evtf-format'].forEach(id => { const el = document.getElementById(id); if (el) el.value = 'all'; });
+    const s = document.getElementById('evtf-sort'); if (s) s.value = 'date-asc';
+    const q = document.getElementById('evtf-search'); if (q) q.value = '';
+    ['evtf-stepfree','evtf-asl','evtf-captions','evtf-sensory','evtf-lowenergy'].forEach(id => { const el = document.getElementById(id); if (el) el.checked = false; });
+    if (window.__evtfEvents) evtfApply(window.__evtfEvents, new Date());
+  }
+  function evtfBind(events) {
+    window.__evtfEvents = events;
+    evtfPopulate(events);
+    ['evtf-sort','evtf-category','evtf-base','evtf-format','evtf-stepfree','evtf-asl','evtf-captions','evtf-sensory','evtf-lowenergy'].forEach(id => { const el = document.getElementById(id); if (el) el.addEventListener('change', () => evtfApply(events, new Date())); });
+    const q = document.getElementById('evtf-search');
+    if (q) { let tmr; q.addEventListener('input', () => { clearTimeout(tmr); tmr = setTimeout(() => evtfApply(events, new Date()), 200); }); }
+    const clr = document.getElementById('evtf-clear'); if (clr) clr.addEventListener('click', evtfClear);
+    evtfApply(events, new Date());
+  }
+
   function renderEventCard(event, now) {
     // Use dateISO if available (from Cloudflare Worker API), otherwise fall back to date
     const dateString = event.dateISO || event.date;
@@ -324,6 +482,10 @@ image_alt: "3mpwrApp Events - Accessible community gatherings and workshops"
         <h3 style="margin-top: 0; color: #1e293b; font-size: 2rem; font-weight: 800; line-height: 1.2; text-shadow: 0 2px 4px rgba(0,0,0,0.05);">
           ${event.title}
         </h3>
+        <div class="event-meta-badges" style="display:flex;flex-wrap:wrap;gap:6px;margin:0 0 0.6rem;">
+          ${event.category ? `<span class="evtf-cat-badge">${escHtml(evtfCatLabel(event.category))}</span>` : ''}
+          ${(event.userBases||[]).map(b => `<span class="evtf-base-badge">${escHtml(evtfBaseLabel(b))}</span>`).join('')}
+        </div>
         
         <p class="event-date" style="color: #0f172a; font-weight: 700; font-size: 1.3rem; margin: 1rem 0; display: flex; align-items: center; gap: 0.5rem;">
           <span style="font-size: 1.5rem;">📅</span> ${formattedDate}
@@ -520,6 +682,9 @@ image_alt: "3mpwrApp Events - Accessible community gatherings and workshops"
         pastSection.style.display = 'none';
       }
       
+      // Bind accessible filter/sort toolbar (re-renders on control change)
+      evtfBind(communityEvents);
+
     } catch (error) {
       console.error('❌ Failed to load events:', error);
       
