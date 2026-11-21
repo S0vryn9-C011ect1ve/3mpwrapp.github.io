@@ -4,7 +4,7 @@ title: "Essential Guides: Everything You Need to Know"
 description: "A plain-English reference library for disability benefits, workplace rights, accessibility, and legal navigation — routed to guides that actually exist, so you never hit a dead page."
 permalink: /essential-guides/
 published: true
-lastUpdated: 2026-10-03
+lastUpdated: 2026-11-21
 ---
 
 # Essential Guides
@@ -102,6 +102,7 @@ Also: [permanent impairment rating](/knowledge-base/permanent-impairment-rating/
 [Bill 86 — the Meredith Act](/knowledge-base/bill-86-meredith-act/) ·
 [Bill 105 — WSIB Lock-in](/knowledge-base/bill-105-wsib-lockin/) ·
 [WSIB surplus rebates](/knowledge-base/wsib-premium-rebates/)
+<!-- Freshness 2026-11-21 (Hermes): WSIB surplus-rebate + SIEF claims re-verified against WSIB primary pages — SIEF CLOSED eff. 16 Jun 2026 (value-for-money audit published Jul 2026; new-request window closed 16 Jul 2026); surplus $5.5B across 3 distributions (no 2026 round); 2027 avg rate $1.18 (announced 22 Oct 2026). Source-of-truth: Obsidian vault "10 S0vryn9 C011ect1ve/WSIB Premium Rebates & Employer Payouts - Research Workstream.md" (freshness pass 2026-11-21). Local edit only — pending Lissa review before deploy. -->
 
 ## Using the app
 
