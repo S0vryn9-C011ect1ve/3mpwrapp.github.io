@@ -290,7 +290,7 @@ Based on 40 years of WSIAT pattern analysis, we've created comprehensive guides 
 ---
 
 ### 3. Chronic Pain Claims
-**6,876 cases analyzed (6.94% of all appeals) - #6 most common issue**
+**7,502 cases analyzed (7.6% of all appeals) - #6 most common issue**
 
 <div style="padding: 1rem; background: #f0f9ff; border-left: 4px solid #0066cc; border-radius: 4px; margin: 1rem 0;">
 <strong>What's covered:</strong>
@@ -316,7 +316,7 @@ Based on 40 years of WSIAT pattern analysis, we've created comprehensive guides 
 | 3 | LOE (Loss of Earnings) | 10,838 | 10.94% |
 | 4 | Loss of Earnings (keyword) | 9,217 | 9.31% |
 | 5 | FEL (Future Economic Loss) | 7,120 | 7.19% |
-| 6 | Chronic Pain | 6,876 | 6.94% |
+| 6 | Chronic Pain | 7,502 | 7.6% |
 | 7 | Reconsideration | 6,153 | 6.21% |
 | 8 | SIEF (Second Injury Fund) | 4,654 | 4.70% |
 | 9 | Right to Sue (Section 31) | 1,763 | 1.78% |
@@ -391,9 +391,9 @@ Use the sample language templates in each guide. Customize with your specific fa
 
 If you're disputing permanent impairment rating, you're not alone. This is the single most common WSIAT appeal.
 
-### 3. Chronic Pain is Hard but Not Impossible (6.94%)
+### 3. Chronic Pain is Hard but Not Impossible (7.6%)
 
-6,876 cases mention chronic pain. High volume = contentious area. Get pain medicine specialist involved early.
+7,502 cases mention chronic pain. High volume = contentious area. Get pain medicine specialist involved early.
 
 ### 4. Peak Appeal Years: 2000, 2017, 2018
 

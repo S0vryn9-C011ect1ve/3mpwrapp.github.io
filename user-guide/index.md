@@ -143,7 +143,7 @@ Your individual actions create exponential impact through these flywheels:
 3. Choose:
    - **🔋 Simple Mode** (5 essential tools — for crisis, brain fog, bad days)
    - **📊 Standard Mode** (17 important tools — for most users, most of the time)
-   - **🚀 Power User** (All 31 features — for advanced users)
+   - **🚀 Power User** (All 74 features — for advanced users)
 4. Tap your choice
 5. App redesigns instantly
 
@@ -242,10 +242,10 @@ Disability + fatigue + pain + stress = overwhelming. Complexity Mode fixes this 
 - You want to use multiple tools
 - You're building your case over time
 
-### Power User Mode: All 31 Features
+### Power User Mode: All 74 Features
 
 **For:** Advanced users who want everything  
-**Tools:** Every feature, all 31 tools unlocked
+**Tools:** Every feature, all 74 tools unlocked
 
 **Use Power User Mode when:**
 - You're comfortable with the app

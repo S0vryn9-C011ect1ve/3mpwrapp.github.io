@@ -484,7 +484,7 @@ If still crashing:
 1. Force close the app
 2. Uninstall (delete the app)
 3. Restart your phone
-4. Reinstall from App Store/Play Store
+4. Sideload the app (available from 3mpwrapp.ca/beta-guide)
 
 If STILL crashing:
 [Contact support →](#contact)
@@ -670,7 +670,7 @@ Response time: Usually 24-48 hours
 
 Not yet, but Support Groups are similar. Join one to connect with other users and get peer support.
 
-Plans for a public forum coming in 2026.
+Community forum features are under development and will be available in a future release.
 
 ---
 

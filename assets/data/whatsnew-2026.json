@@ -152,7 +152,7 @@
     {
       "id": "wn-2026-10-08-research-number-legitimacy",
       "title": "🔢 Research page: number legitimacy reconciled",
-      "summary": "Aligned /research/ counts to the canonical source-of-truth (DATA_SOURCES_METHODOLOGY.md): WSIAT standalone figures now use 98,992 (re-verified Open Data parse; 99,036 is the retired extraction-manifest figure used in the 127,600 sum). Explicitly separated HRTO 9,269 (classified decisions) from 62,093 (applications, INFERRED) so the two are never mis-added. Added scope footnotes for every tribunal count. All arithmetic verified: 230,392 = 127,600 + 102,792; 127,600 = 99,036+9,269+13,798+463+5,034.",
+      "summary": "Aligned /research/ counts to the canonical source-of-truth (DATA_SOURCES_METHODOLOGY.md): WSIAT standalone figures now use 98,992 (re-verified Open Data parse; 99,036 is the retired extraction-manifest figure used in the 127,556 sum). Explicitly separated HRTO 9,269 (classified decisions) from 62,093 (applications, INFERRED) so the two are never mis-added. Added scope footnotes for every tribunal count. All arithmetic verified: 230,392 = 127,556 + 102,792; 127,556 = 98,992+9,269+13,798+463+5,034.",
       "date": "2026-10-08T07:00:00-04:00",
       "category": "improvement",
       "repo": "website",
@@ -170,7 +170,7 @@
     {
       "id": "wn-2026-10-08-research-number-harmonize",
       "title": "🔢 Research page: number clarity + careful language",
-      "summary": "Added a 'How these numbers relate' explainer to /research/ (230,392 = 127,600 tribunal + 102,792 employer; WSIAT 99,036 raw / 98,992 curated; 50,161 cases classified at 85.1%). Reconciled the 99,036 vs 98,992 WSIAT figures and softened 'playbook'/'tactics' wording to 'recurring denial patterns and language' so the page doesn't imply proven intentional coordination.",
+      "summary": "Added a 'How these numbers relate' explainer to /research/ (230,392 = 127,556 tribunal + 102,792 employer; WSIAT 99,036 raw / 98,992 curated; 50,161 cases classified at 85.1% (39.3% of 127,556 Ontario tribunal decisions)). Reconciled the 99,036 vs 98,992 WSIAT figures and softened 'playbook'/'tactics' wording to 'recurring denial patterns and language' so the page doesn't imply proven intentional coordination.",
       "date": "2026-10-08T06:00:00-04:00",
       "category": "improvement",
       "repo": "website",
@@ -12061,7 +12061,7 @@
     {
       "id": "wn-2026-10-08-homepage-review-fixes",
       "title": "🏠 Homepage: fixed duplicate hero + broken flywheels link",
-      "summary": "Final proofread of the homepage: removed a duplicated hero include (building-public-hero.html was rendered twice), and fixed a 404 — the 'Flywheels' button pointed to /flywheels/ (does not exist) instead of the live public visual at /flywheels-public.html. 22 other internal links verified live (HTTP 200). Note: the CanLII Keyword Network stat '134,920 cases (98,992 WSIAT + 35,928 other tribunals)' is internally consistent and intentionally broader than /research/'s 127,600 Ontario-only figure (it includes BC WCAT); scope is clarified in the section text.",
+      "summary": "Final proofread of the homepage: removed a duplicated hero include (building-public-hero.html was rendered twice), and fixed a 404 — the 'Flywheels' button pointed to /flywheels/ (does not exist) instead of the live public visual at /flywheels-public.html. 22 other internal links verified live (HTTP 200). Note: the CanLII Keyword Network stat '134,920 cases (98,992 WSIAT + 35,928 other tribunals)' is internally consistent and intentionally broader than /research/'s 127,556 Ontario-only figure (it includes BC WCAT); scope is clarified in the section text.",
       "date": "2026-10-08T10:30:00-04:00",
       "category": "improvement",
       "repo": "website",

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3MPWRAPP Features - Complete Feature Guide
-description: Explore all 31 features in 3MPWRAPP for the disability community. Learn what each feature does, why it matters, how to use it, and who it helps - for injured workers, persons with disabilities, advocates, and vulnerable Canadians.
+description: Explore all 74 features in 3MPWRAPP for the disability community. Learn what each feature does, why it matters, how to use it, and who it helps - for injured workers, persons with disabilities, advocates, and vulnerable Canadians.
 version: 2.1 (Full Update — Oct 09, 2026)
 lastUpdated: 2026-10-09
 accessibility: WCAG 2.2 AAA - fully readable in light, dark, and high contrast modes
@@ -11,7 +11,7 @@ accessibility: WCAG 2.2 AAA - fully readable in light, dark, and high contrast m
 
 # 3MPWRAPP Features
 
-**Canadian Platform for the Disability Community, Advocates, and Vulnerable Canadians | 31 Features | Coast-to-Coast-to-Coast**
+**Canadian Platform for the Disability Community, Advocates, and Vulnerable Canadians | 74 Features | Coast-to-Coast-to-Coast**
 
 This page explains every tool in 3MPWRAPP. Each feature shows:
 - What it does
@@ -60,7 +60,7 @@ Every feature, guide, resource, and research section links directly to each comm
 
 | **Simple Mode** | **Standard Mode** | **Power User Mode** |
 |---|---|---|
-| **5 essential tools** | **17 important tools** | **All 31 features** |
+| **5 essential tools** | **17 important tools** | **All 74 features** |
 | For crisis, brain fog, bad days | For ongoing advocacy | For full power |
 | [See what's in Simple Mode](#simple-features) | [See what's in Standard Mode](#standard-features) | [All features shown below → Flywheels Public](https://www.3mpwrapp.ca/flywheels-public#all-features) |
 
@@ -719,7 +719,7 @@ You don't understand "burden of proof". You search Knowledge Base and read: "The
 **What it does:** Choose your experience level:
 - **Simple Mode (5 tools)** — for crisis, brain fog, bad days
 - **Standard Mode (17 tools)** — most users, most of the time
-- **Power User Mode (31 tools)** — every feature unlocked
+- **Power User Mode (74 tools)** — every feature unlocked
 
 **Why it matters:** Too many choices is overwhelming. Complexity Mode shows only what you need right now.
 
