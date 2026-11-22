@@ -57,7 +57,7 @@ and templates that apply to you.
 ### Injured Workers & WSIB/WSIAT
 - [WSIAT Complete Guide](/guides/wsiat-complete-guide/)
 - [WSIAT Back Injury Guide](/guides/wsiat-back-injury-guide/)
-- [WSIAT Chronic Pain Guide](/guides/wsiat-chronic-pain-guide/)
+- [WSIAT Chronic Pain Guide](/guides/wsiat-chronic-pain-claims/)
 - [WSIAT LOE (Loss of Earnings) Benefits](/guides/wsiat-loe-benefits/)
 - [WSIAT NEL (Non-Economic Loss) Benefits](/guides/wsiat-nel-benefits/)
 - [WSIAT NEL + Chronic Pain Strategy](/guides/wsiat-nel-chronic-pain-strategy/)
