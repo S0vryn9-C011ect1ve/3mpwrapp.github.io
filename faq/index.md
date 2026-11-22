@@ -64,7 +64,7 @@ Our most critical assets. These flywheels turn individual struggles into collect
 - Community learns from your success
 
 **2. Pattern Detection Flywheel** — Data reveals systemic issues
-- Collect tribunal decisions from CanLII (all provinces)
+- Collect tribunal decisions from CanLII (Ontario and BC so far, expanding across Canada)
 - Assess and analyze outcomes and patterns
 - Identify discrimination, barriers, win rates
 - Create visualizations and reports for policy change

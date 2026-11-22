@@ -11,7 +11,7 @@ permalink: /community/
 
 # 🤝 Community
 
-📖 **4 minute read** | 🔋🔋 **Energy: Light** | Updated Jan 2, 2026
+📖 **4 minute read** | 🔋🔋 **Energy: Light** | Updated November 22, 2026
 
 <details class="tldr-box" open>
   <summary>⚡ Quick Summary (30 seconds)</summary>
@@ -141,7 +141,7 @@ The Disability Bulletin team is so proud to announce the launch of Issue #1 feat
 
 **[📖 Read or Request Your Copy at linktr.ee/thedisabilitybulletin](https://linktr.ee/thedisabilitybulletin)** | **[🐦 Follow @ODSPoor on X](https://x.com/ODSPoor)** | **[🐦 Follow @emilypot_ on X](https://x.com/emilypot_)**
 
-**Upcoming:** Submit your work or art for the **March 2026 issue** — see last page of Issue #1 for submission details!
+**Upcoming:** Submit your work or art for an **upcoming issue** — watch the community for submission details!
 
 ---
 

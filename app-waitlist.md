@@ -63,7 +63,7 @@ permalink: /app-waitlist/
   </div>
   
   <div class="phase-timeline">
-    <strong>📅 Timeline:</strong> October - December 2025
+    <strong>📅 Timeline:</strong> Active (closed beta running)
   </div>
   
   <div class="phase-content">
@@ -84,8 +84,8 @@ permalink: /app-waitlist/
         <span class="stat-label">Accepting Testers</span>
       </div>
       <div class="stat-item">
-        <span class="stat-number">0</span>
-        <span class="stat-label">Testers (Starting)</span>
+        <span class="stat-number">&#9989;</span>
+        <span class="stat-label">Stress-testing now</span>
       </div>
       <div class="stat-item">
         <span class="stat-number">100%</span>
@@ -105,17 +105,17 @@ permalink: /app-waitlist/
 <div class="phase-card phase-upcoming">
   <div class="phase-header">
     <h3>Phase 2: Open Beta</h3>
-    <span class="phase-badge coming-soon">🟡 COMING Q1 2026</span>
+    <span class="phase-badge coming-soon">🟡 UPCOMING</span>
   </div>
   
   <div class="phase-timeline">
-    <strong>📅 Timeline:</strong> January - March 2026
+    <strong>📅 Timeline:</strong> After Phase 1 stress testing
   </div>
   
   <div class="phase-content">
     <h4>🚀 What's New:</h4>
     <ul>
-      <li><strong>Expanded Features</strong> - 168 total features (35 new additions)</li>
+      <li><strong>Expanded Features</strong> - 74 total features (all available)</li>
       <li><strong>Web Version Launch</strong> - Access from any browser</li>
       <li><strong>Enhanced AI Assistance</strong> - Smart suggestions and automation</li>
       <li><strong>Advanced Advocacy Tools</strong> - More letter templates and workflows</li>
@@ -133,18 +133,18 @@ permalink: /app-waitlist/
 <div class="phase-card phase-planned">
   <div class="phase-header">
     <h3>Phase 3: Public Launch</h3>
-    <span class="phase-badge planned">🟢 PLANNED Q2 2026</span>
+    <span class="phase-badge planned">🟢 PLANNED</span>
   </div>
   
   <div class="phase-timeline">
-    <strong>📅 Timeline:</strong> April - June 2026
+    <strong>📅 Timeline:</strong> Date to be announced
   </div>
   
   <div class="phase-content">
     <h4>🎉 Launch Features:</h4>
     <ul>
       <li><strong>Full Public Release</strong> - Available to everyone across Canada</li>
-      <li><strong>App Store & Google Play</strong> - Official store listings</li>
+      <li><strong>Sideload the app</strong> - Available from 3mpwrApp.ca/beta-guide</li>
       <li><strong>All Features Finalized</strong> - Complete feature set based on beta feedback</li>
       <li><strong>Community Showcase</strong> - Highlight amazing users and success stories</li>
       <li><strong>Success Stories</strong> - Real testimonials from real users</li>
@@ -391,13 +391,13 @@ permalink: /app-waitlist/
    - Setup walkthrough
    - Access to beta tester community
 
-3. **Beta Testing** (October - December 2025)
+3. **Beta Testing** (active now)
    - Use the app in real situations
    - Report bugs and provide feedback
    - Shape features with your input
    - Get early access to new features
 
-4. **Graduation to Full Release** (Q2 2026)
+4. **Graduation to Full Release** (after stress testing completes)
    - Keep your account and data
    - Priority access to new features
    - Recognition as founding community member
@@ -483,7 +483,7 @@ permalink: /app-waitlist/
 
 **Device:**
 - iOS 14.0+ (iPhone, iPad)
-- OR Android 8.0+ (phones, tablets)
+- OR Android 10+ (phones, tablets)
 - Internet connection (for initial download and cloud features)
 
 **Time Commitment:**
@@ -591,9 +591,9 @@ We understand spoons are limited. Use the app when you can.
 
 **During Closed Beta:** Please ask them to sign up via the waitlist (fair to everyone)
 
-**During Open Beta (Q1 2026):** Yes! Share freely.
+**During Open Beta:** Yes! Share freely.
 
-**After Launch (Q2 2026):** Absolutely! Spread the word.
+**After Public Launch:** Absolutely! Spread the word.
 
 </details>
 
@@ -606,13 +606,13 @@ We understand spoons are limited. Use the app when you can.
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; text-align: center;">
 
 <div>
-  <div style="font-size: 2rem; font-weight: bold; color: #5b21b6;">Phase 1</div>
+  <div style="font-size: 2rem; font-weight: bold; color: #5b21b6;">Closed Beta</div>
   <div style="color: #6b7280; font-size: 0.9rem;">Now Accepting Signups</div>
 </div>
 
 <div>
-  <div style="font-size: 2rem; font-weight: bold; color: #0891b2;">Oct 2025</div>
-  <div style="color: #6b7280; font-size: 0.9rem;">Beta Launch Month</div>
+  <div style="font-size: 2rem; font-weight: bold; color: #0891b2;">Active</div>
+  <div style="color: #6b7280; font-size: 0.9rem;">Stress-Testing Phase</div>
 </div>
 
 <div>

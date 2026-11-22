@@ -113,7 +113,7 @@ personalized: true
       <div style="padding:1.5rem;background:var(--card-bg,#1a2332);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>📄 Parse Claim</h3><p>AI-powered claim parsing — understand what you have and what's missing.</p><a href="/features/#parse-claim">Learn more →</a></div>
       <div style="padding:1.5rem;background:var(--card-bg,#1a2332);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>📅 Deadline Tracker</h3><p>Track deadlines, get reminders — never miss a filing date.</p><a href="/features/#deadline-tracker">Learn more →</a></div>
       <div style="padding:1.5rem;background:var(--card-bg,#1a2332);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>✉️ Letter Wizard</h3><p>Generate demand letters and appeals — plain language, professional output.</p><a href="/features/#letter-wizard">Learn more →</a></div>
-      <div style="padding:1.5rem;background:var(--card-bg,#1a2332);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>🔍 CanLII Research</h3><p>134,920+ tribunal decisions — live keyword network, denial patterns.</p><a href="/research/">Explore →</a></div>
+      <div style="padding:1.5rem;background:var(--card-bg,#1a2332);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>🔍 CanLII Research</h3><p>134,942+ tribunal decisions — live keyword network, denial patterns.</p><a href="/research/">Explore →</a></div>
       <div style="padding:1.5rem;background:var(--card-bg,#1a2332);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)"><h3>📊 Visualizations</h3><p>Interactive data visualizations — tribunal outcomes, trends, comparisons.</p><a href="/tribunal-visualizations/">Explore →</a></div>
     </div>
     <h2 style="text-align:center;margin:2rem 0 2rem">📚 Learn &amp; Grow</h2>
@@ -138,11 +138,11 @@ personalized: true
   <div style="text-align: center;">
     <h2 style="font-size: 1.8rem; margin-bottom: 1rem; color: #fff;">✨🔍 NEW: Connecting the Dots → CanLII Keyword Network</h2>
     <p style="font-size: 1.1rem; margin-bottom: 1.5rem; opacity: 0.95; max-width: 800px; margin-left: auto; margin-right: auto;">
-      Explore 134,920+ tribunal decisions — live interactive network graph revealing keyword relationships, denial patterns, and the hidden language used in Canadian tribunal decisions. Connects flywheel insights, research data, guides, and visual graphs in one place.
+      Explore 134,942+ tribunal decisions — live interactive network graph revealing keyword relationships, denial patterns, and the hidden language used in Canadian tribunal decisions. Connects flywheel insights, research data, guides, and visual graphs in one place.
     </p>
     <div style="margin: 1.5rem 0; padding: 1rem; background: rgba(0,0,0,0.3); border-radius: 8px; display: inline-block;">
       <p style="margin: 0; font-weight: 600; font-size: 1.1rem;">
-        <span aria-hidden="true">🚀</span> 134,920 cases analyzed (98,992 WSIAT + 35,928 other tribunals) &nbsp;|&nbsp; <span aria-hidden="true">📊</span> 500+ keyword patterns &nbsp;|&nbsp; <span aria-hidden="true">🔗</span> Live interactive D3.js network &nbsp;|&nbsp; <span aria-hidden="true">🕸️</span> Flywheel-connected &nbsp;|&nbsp; <span aria-hidden="true">📚</span> Guides &amp; KBs linked
+        <span aria-hidden="true">🚀</span> 134,942 cases analyzed (127,556 Ontario + 7,386 BC WCAT) &nbsp;|&nbsp; <span aria-hidden="true">📊</span> 500+ keyword patterns &nbsp;|&nbsp; <span aria-hidden="true">🔗</span> Live interactive D3.js network &nbsp;|&nbsp; <span aria-hidden="true">🕸️</span> Flywheel-connected &nbsp;|&nbsp; <span aria-hidden="true">📚</span> Guides &amp; KBs linked
       </p>
     </div>
     <div style="margin-top: 1.5rem; display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">

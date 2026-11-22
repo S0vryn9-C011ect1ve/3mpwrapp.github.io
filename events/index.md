@@ -1266,7 +1266,7 @@ image_alt: "3mpwrApp Events - Accessible community gatherings and workshops"
       </li>
       <li><strong>Verify the URL was pasted correctly:</strong>
         <ul>
-          <li>URL should be: <code>https://your-worker.workers.dev/events.ics?env=production</code></li>
+          <li>URL should be: <code>https://3mpwrapp-calendar.empowrapp08162025.workers.dev/events.ics?env=production</code></li>
           <li>No extra spaces or characters</li>
         </ul>
       </li>

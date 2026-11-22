@@ -46,6 +46,7 @@ Welcome to our blog! Stay informed with daily news highlights, feature spotlight
 ## <span id="curated-daily">📰 Daily News Highlights</span>
 
 <details class="blog-section-collapsible" open>
+{% assign daily = site.posts | where_exp: 'p', "p.tags contains 'highlights'" %}
 <summary class="blog-section-summary">📰 View Daily News ({{ daily.size }} posts) — Click to expand/collapse</summary>
 
 <p class="section-description">Fresh news carefully curated from 50+ trusted sources across Canada. Updated every morning at 9 AM UTC with the most relevant stories on disability rights, accessibility, workers' compensation, and social policy changes that affect you.</p>
@@ -79,6 +80,7 @@ Welcome to our blog! Stay informed with daily news highlights, feature spotlight
 ## <span id="feature-articles">✨ Feature Spotlights</span>
 
 <details class="blog-section-collapsible" open>
+{% assign feature_articles = site.posts | where_exp: 'p', "p.tags contains 'spotlight'" %}
 <summary class="blog-section-summary">✨ View Feature Spotlights ({{ feature_articles.size }} posts) — Click to expand/collapse</summary>
 
 <p class="section-description">Explore 3mpwrApp features, the app itself, and our website tools. From Evidence Locker and Letter Generator to community features and accessibility innovations—discover how our platform helps you advocate for your rights, navigate systems, and connect with your community.</p>
