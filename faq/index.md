@@ -357,13 +357,13 @@ Only you.
 AES-256-GCM encryption (same encryption banks use):
 - Encrypts as it's uploaded
 - Only you can decrypt it (with your password)
-- Even 3MPWRAPP staff can't read it
+- Even 3MPWRAPP staff can't read it in Strict/BYOC mode
 
 ---
 
 ### Can the government see my documents?
 
-Not unless you share them. Law enforcement could legally compel us to do something only if you're not encrypting things and sharing them. Our current setup means we have nothing to give them — it's encrypted on your device.
+In Strict/BYOC mode, not unless you share them — your data is encrypted on your device and never touches our servers, so we have nothing to give. In synced mode, cloud backup is enabled and support may recover data from backup. Law enforcement could legally compel production of data we actually hold.
 
 [Read our Privacy Policy for full details →](/privacy/)
 
@@ -407,7 +407,7 @@ Yes, anytime:
 4. Confirm you want to delete
 5. All your data is deleted permanently
 
-We keep no backups of deleted data.
+In Strict/BYOC mode we keep no backups of deleted data. In synced mode, deleted data may persist in cloud backup until the backup is purged.
 
 ---
 
@@ -613,7 +613,7 @@ Not recommended. Use different emails for different accounts.
 ### Can I back up my data?
 
 Yes, multiple ways:
-1. **Cloud sync:** Settings → Data & Privacy → Cloud Sync (backs up to Google Drive or 3MPWRAPP servers)
+1. **Cloud sync (synced mode):** Settings → Data & Privacy → Cloud Sync backs up to Google Drive or 3MPWRAPP servers; support may recover from backup. Strict/BYOC mode does not use cloud sync.
 2. **Export:** Many tools let you export to PDF or CSV
 3. **Manual:** Take screenshots, save documents
 

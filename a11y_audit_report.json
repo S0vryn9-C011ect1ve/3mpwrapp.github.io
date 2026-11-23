@@ -5,7 +5,7 @@
     "imgs_no_alt": 0,
     "links_no_name": 757,
     "controls_no_label": 4168,
-    "broken_internal": 1769,
+    "broken_internal": 1767,
     "duplicate_ids": 627
   },
   "broken": [
@@ -147,8 +147,6 @@
     "privacy-controls\\index.html -> //www.googletagmanager.com",
     "research\\index.html -> //www.clarity.ms",
     "research\\index.html -> //www.googletagmanager.com",
-    "research\\index.html -> /guides/wsiat-back-injury-guide/",
-    "research\\index.html -> /guides/wsiat-chronic-pain-guide/",
     "research-data-sources\\index.html -> //www.clarity.ms",
     "research-data-sources\\index.html -> //www.googletagmanager.com",
     "resources\\index.html -> //www.clarity.ms",

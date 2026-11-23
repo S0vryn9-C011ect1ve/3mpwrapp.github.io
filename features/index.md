@@ -87,7 +87,7 @@ Every feature, guide, resource, and research section links directly to each comm
 ### 🔄 Flywheel 2: Pattern Detection Flywheel  
 **Data reveals systemic issues and creates change**
 
-1. We collect CanLII tribunal data from all provinces
+1. We collect CanLII tribunal data from Ontario and BC so far, expanding across Canada
 2. Assess decisions and outcomes across cases
 3. Analyze patterns (discrimination, systemic barriers, win rates)
 4. Create visualizations and reports

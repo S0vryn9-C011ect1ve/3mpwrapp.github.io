@@ -72,7 +72,7 @@ permalink: /app-waitlist/
       <li><strong>Evidence Locker</strong> - Secure document storage with military-grade encryption</li>
       <li><strong>Letter Wizard</strong> - 22 professional templates for appeals & advocacy</li>
       <li><strong>Wellness Tracking</strong> - Monitor mood, symptoms, medications, energy levels</li>
-      <li><strong>Community Forums</strong> - Province-specific safe spaces to connect</li>
+      <p class="muted-text">Community Forums — under development; will be available in a future release.</p>
       <li><strong>Legal Workflow Automation</strong> - Step-by-step guidance for appeals</li>
       <li><strong>Indigenous Language Support</strong> - 6 languages with cultural protocols</li>
       <li><strong>Accessibility Toolbar</strong> - Revolutionary features for all disabilities</li>
@@ -688,7 +688,7 @@ Before joining beta, explore what 3mpwrApp offers:
   
   <h2>Ready to Be Part of the Movement?</h2>
   
-  <p>Join hundreds of Canadians with disabilities who are shaping the future of advocacy technology.</p>
+  <p>We are stress-testing the app with a closed group of testers. Sign up at 3mpwrApp.ca/beta-guide to join the waiting list.</p>
   
   <a href="https://forms.gle/46yVp37vfitfitLT9" target="_blank" rel="noopener noreferrer" class="btn-primary">
     🚀 Join Beta Testing Now

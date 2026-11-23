@@ -166,9 +166,11 @@ function render(d) {
     .sort((a, b) => b[1] - a[1])
     .map(([k, v]) => bar(k, v, jmax)).join("");
 
-  // canlii
-  const camax = Math.max(...Object.values(d.canlii_status));
-  document.getElementById("canlii").innerHTML = Object.entries(d.canlii_status)
+  // verification status: legacy snapshots use canlii_status, canonical generator
+  // (news_to_research.regenerate_snapshot) emits by_classification. Accept both.
+  const status = d.canlii_status || d.by_classification || {};
+  const camax = Math.max(...Object.values(status));
+  document.getElementById("canlii").innerHTML = Object.entries(status)
     .sort((a, b) => b[1] - a[1])
     .map(([k, v]) => bar(pretty(k), v, camax)).join("");
 
