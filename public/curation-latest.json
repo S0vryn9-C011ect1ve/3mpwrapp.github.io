@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-23",
-  "timestamp": "2026-11-23T23:32:53.612Z",
-  "count": 15,
+  "date": "2026-11-24",
+  "timestamp": "2026-11-24T22:01:52.976Z",
+  "count": 11,
   "minScore": 3.5,
   "items": [
     {
@@ -9,105 +9,77 @@
       "link": "https://linktr.ee/thedisabilitybulletin",
       "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
       "score": 10,
-      "pubDate": "2026-11-23T23:32:53.609Z"
+      "pubDate": "2026-11-24T22:01:52.972Z"
     },
     {
-      "title": "More than 150 organizations call for a new approach to defining disability in Canada",
-      "link": "https://disabilityalliancebc.org/more-than-150-organizations-call-for-a-new-approach-to-defining-disability-in-canada/",
+      "title": "Canada can't retrofit millions of homes one project at a time",
+      "link": "https://policyoptions.irpp.org/2026/11/building-retrofits-canada/",
+      "description": "Buried beneath the headlines about heat pump rebates in Prime Minister Mark Carney's latest retrofit announcement is a $107-million investment that could help transform how Canada retrofits its buildings. The federal government is renewing the Deep Retrofit Accelerator Initiative (DRAI), which supports approaches that make building retrofits more accessible, efficient and scalable. It's a significant […]",
+      "score": 21.7,
+      "pubDate": "Mon, 16 Nov 2026 11:30:00 +0000"
+    },
+    {
+      "title": "Weighing Ottawa’s $600-million alternative to the Netflix tax",
+      "link": "https://policyoptions.irpp.org/2026/11/canadian-content-funding/",
+      "description": "CTV’s Vassy Kapelos grilled culture and identity minister Marc Miller in November on the federal government’s pivot from a $200-million annual Netflix tax on foreign-owned streamers to a $600-million boost to media funds supporting Canadian content. The details of that taxpayer-funded $600 million were made public Nov. 8. The Online Streaming Act updated the Broadcasting […]",
+      "score": 21.5,
+      "pubDate": "Tue, 24 Nov 2026 11:30:00 +0000"
+    },
+    {
+      "title": "Manitoba Government Investing in Paramedic Training to Strengthen Emergency Care",
+      "link": "https://news.gov.mb.ca/news/index.html?item=76219",
       "description": "",
-      "score": 22.1,
-      "pubDate": "Tue, 27 Oct 2026 19:02:47 +0000"
+      "score": 17.1,
+      "pubDate": "Tue, 24 Nov 2026 11:15:00 EST"
     },
     {
-      "title": "The Case for BC Creating a Public Developer",
-      "link": "https://thetyee.ca/Analysis/2026/11/23/Case-BC-Public-Developer/",
-      "description": "To tackle Metro Vancouver’s housing crisis, learn from world-class cities like Copenhagen and Singapore.",
-      "score": 16.9,
-      "pubDate": "Mon, 23 Nov 2026 08:40:00 +0000"
-    },
-    {
-      "title": "Don’t let the race for investment leave communities behind",
-      "link": "https://policyoptions.irpp.org/2026/11/industrial-strategy-communities/",
-      "description": "(Version française disponible ici) The Canada-EU summit in Montreal in late October marked an important step for both partners. The new alliance for the future sets ambitious priorities in energy and critical minerals, defence, artificial intelligence, digital trade and supply chain security. They also align with Canada's renewed economic ambitions. The November federal budget commits […]",
-      "score": 14.1,
-      "pubDate": "Mon, 23 Nov 2026 11:30:00 +0000"
-    },
-    {
-      "title": "What SNL’s “Sister” gets right about Canada’s care economy",
-      "link": "https://rabble.ca/columnists/what-snls-sister-gets-right-about-canadas-care-economy/",
-      "description": "",
-      "score": 13.1,
-      "pubDate": "Mon, 23 Nov 2026 21:18:39 +0000"
-    },
-    {
-      "title": "Manitoba Government Delivers on Affordability, Health Care and Stronger Protections for Manitobans",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75939",
-      "description": "",
-      "score": 18.25,
-      "pubDate": "Thu, 29 Oct 2026 16:05:00 CDT"
-    },
-    {
-      "title": "Patients’ Rights Lawsuit Targets US Billing System Eyed by Alberta",
-      "link": "https://thetyee.ca/News/2026/11/23/Patients-Rights-Lawsuit-Targets-US-Billing-System-Alberta/",
-      "description": "Expert sees potential for more fraud if the province licenses coding from an American monopoly.",
-      "score": 10.5,
-      "pubDate": "Mon, 23 Nov 2026 08:20:00 +0000"
-    },
-    {
-      "title": "Manitoba Government Releases Final Report on 2025 Wildfire Response",
-      "link": "https://news.gov.mb.ca/news/index.html?item=76218",
+      "title": "Canada's hockey hypocrisy",
+      "link": "https://rabble.ca/politics/canadian-politics/canadas-hockey-hypocrisy/",
       "description": "",
       "score": 10.5,
-      "pubDate": "Mon, 23 Nov 2026 13:57:00 EST"
+      "pubDate": "Tue, 24 Nov 2026 21:53:58 +0000"
     },
     {
-      "title": "Manitoba Government Advocacy Helps Expand Access to Spinal Muscular Atrophy Treatment",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75917",
+      "title": "BC’s Housing Fix? Build a Wealth Fund out of Concrete and Timber",
+      "link": "https://thetyee.ca/Analysis/2026/11/24/BC-Housing-Fix-Build-Wealth-Fund/",
+      "description": "How a public developer can make homes affordable by cutting delays and capital costs while creating an asset the province keeps.",
+      "score": 11.55,
+      "pubDate": "Tue, 24 Nov 2026 08:10:00 +0000"
+    },
+    {
+      "title": "Manitoba Government Reduces Spending on Nursing and Health-Care Aide Agencies by Nearly $50 Million",
+      "link": "https://news.gov.mb.ca/news/index.html?item=76079",
       "description": "",
-      "score": 10.5,
-      "pubDate": "Wed, 28 Oct 2026 15:27:00 CDT"
+      "score": 14.6,
+      "pubDate": "Mon, 16 Nov 2026 15:59:00 EST"
     },
     {
-      "title": "Manitoba Justice Reports In-Custody Death",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75938",
+      "title": "Canadian police are using Grand Theft Auto to sanitize militarization to the public",
+      "link": "https://rabble.ca/politics/canadian-politics/canadian-police-are-using-grand-theft-auto-to-sanitize-militarization-to-the-public/",
       "description": "",
-      "score": 7.5,
-      "pubDate": "Thu, 29 Oct 2026 15:15:00 CDT"
+      "score": 8.4,
+      "pubDate": "Tue, 24 Nov 2026 19:57:35 +0000"
     },
     {
-      "title": "Manitoba Government Adds 12 Police Officers to Combat Retail Crime and Serve Rural Communities",
-      "link": "https://news.gov.mb.ca/news/index.html?item=76217",
-      "description": "",
-      "score": 7.5,
-      "pubDate": "Mon, 23 Nov 2026 13:50:00 EST"
+      "title": "It’s Time to Update the BC Home Owner Grant Program",
+      "link": "https://thetyee.ca/Opinion/2026/11/24/Update-BC-Home-Owner-Grant-Redistribute-Dollars-Most-Needed/",
+      "description": "BC is alone in redistributing nearly a billion dollars to most homeowners, regardless of income.",
+      "score": 8.4,
+      "pubDate": "Tue, 24 Nov 2026 19:41:00 +0000"
     },
     {
-      "title": "Paul Parks is now the Alberta NDP’s candidate in Cypress-Medicine Hat",
-      "link": "https://rabble.ca/politics/canadian-politics/paul-parks-is-now-the-alberta-ndps-candidate-in-cypress-medicine-hat/",
-      "description": "",
-      "score": 4.5,
-      "pubDate": "Mon, 23 Nov 2026 16:14:33 +0000"
-    },
-    {
-      "title": "Do Your Old Wetsuit a Favour. Recycle It",
-      "link": "https://thetyee.ca/WhatWorks/2026/11/19/Do-Old-Wetsuit-Favour-Recycle-It/",
-      "description": "Surfrider Foundation’s ReSurf program has diverted 4.5 tonnes of neoprene from the landfill since May 2025.",
-      "score": 3.9000000000000004,
-      "pubDate": "Thu, 19 Nov 2026 08:40:00 +0000"
-    },
-    {
-      "title": "Fourth Session of the 43rd Manitoba Legislature to Open Tuesday, Nov. 17 With Speech from the Throne",
-      "link": "https://news.gov.mb.ca/news/index.html?item=76057",
+      "title": "Manitoba Joins the Organisation Internationale de la Francophonie",
+      "link": "https://news.gov.mb.ca/news/index.html?item=76078",
       "description": "",
       "score": 4.5,
-      "pubDate": "Fri, 13 Nov 2026 16:19:00 EST"
+      "pubDate": "Mon, 16 Nov 2026 15:08:00 EST"
     },
     {
-      "title": "Province Advises Clocks will not Change this Weekend as Manitoba Moves to Permanent Daylight Saving Time",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75937",
+      "title": "Province Reminds Manitobans Clocks will not Change this Weekend",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75940",
       "description": "",
       "score": 4.5,
-      "pubDate": "Thu, 29 Oct 2026 11:43:00 CDT"
+      "pubDate": "Sat, 31 Oct 2026 10:00:00 CDT"
     }
   ]
 }
