@@ -1,24 +1,25 @@
 {
-  "total": 2902,
-  "verified": 26,
+  "total": 2938,
+  "verified": 29,
   "by_community": {
-    "disability": 1208,
-    "accessibility": 891,
-    "injured_workers": 684,
-    "welfare_social": 646,
-    "elderly": 162,
-    "veterans": 85,
+    "disability": 1221,
+    "accessibility": 904,
+    "injured_workers": 692,
+    "welfare_social": 651,
+    "elderly": 165,
+    "veterans": 87,
     "public_allies": 11,
+    "indigenous": 8,
     "vulnerable_communities": 7,
-    "indigenous": 6,
     "human_rights": 3,
-    "uncrpd": 1
+    "uncrpd": 1,
+    "advocates": 1
   },
   "by_jurisdiction": {
-    "CA-ON": 1235,
-    "INTL": 1097,
-    "CA-FED": 383,
-    "CA-AB": 131,
+    "CA-ON": 1248,
+    "INTL": 1110,
+    "CA-FED": 391,
+    "CA-AB": 133,
     "CA-BC": 24,
     "CA-MB": 6,
     "CA-YT": 5,
@@ -31,243 +32,426 @@
     "CA-NL": 1
   },
   "by_source": {
-    "x": 2110,
-    "reddit": 484,
-    "news": 270,
+    "x": 2139,
+    "reddit": 487,
+    "news": 271,
     "manual_curation": 22,
     "wsib-research-dossier": 15,
+    "athena_sprint": 3,
     "themis_justice_watch": 1
   },
-  "canlii_status": {
-    "pending_legislative_review": 1,
-    "unverified_social": 2864,
-    "official_confirmed": 25,
-    "verified_as_estimate_method_stated": 1,
-    "research_unverified": 1,
-    "?": 9,
-    "manual_curated": 1
+  "by_classification": {
+    "unclassified": 2902,
+    "unverified_signal": 36
   },
   "recent": [
     {
-      "id": "news-594a5629900f",
+      "id": "nihibene01",
+      "source": "athena_sprint",
+      "title": "Non-Insured Health Benefits (NIHB): eligibility, administering body & coverage",
+      "communities": [
+        "indigenous"
+      ],
+      "jurisdiction": "CA-FED",
+      "date": "2026-11-23",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://www.sac-isc.gc.ca/eng/1786036172379/1786036289672",
+      "classification": "unclassified",
+      "confidence": "unknown"
+    },
+    {
+      "id": "pirutsi01",
+      "source": "athena_sprint",
+      "title": "Pirutsiagutiit National Framework: new Inuit-led program for Inuit children",
+      "communities": [
+        "indigenous"
+      ],
+      "jurisdiction": "CA-FED",
+      "date": "2026-11-23",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/11/inuit-tapiriit-kanatami-and-government-of-canada-announce-pirutsiagutiit-a-new-inuit-led-program-for-inuit-children.html",
+      "classification": "unclassified",
+      "confidence": "unknown"
+    },
+    {
+      "id": "iwclc01",
+      "source": "athena_sprint",
+      "title": "Injured Workers Community Legal Clinic: free legal help for WSIB/WSIAT matters",
+      "communities": [
+        "advocates"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-23",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://iwclc.org/",
+      "classification": "unclassified",
+      "confidence": "unknown"
+    },
+    {
+      "id": "news-1d8ffefa9533",
       "source": "news",
-      "title": "Higher comorbidity scores tied to disability among older adults: study - McKnight's Long-Term Care News",
+      "title": "Government settles class action suit and will pay disabled vets $100M",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-11-22",
+      "flywheels": [
+        "evidence",
+        "knowledge"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd3o4Tm51TUw4THdFeXd3QjZKcUtDMWpJWFhZVndSekc1NnNjTDdWT2NqWmNaYkNHQlZNdlpDQ1BzMkJsNkp3ZWE2R0FFM0dXTGFmRkhwZDBnd2tKUV9CYnRrX0ctSUJfM1R2d2IxZEYyZnNHcy1ITFphUDh1Z3VhdjRmMGw1RGNnV0pEZTMzVkR5bnhiQzBBN3hfRlhIS2lRMVZITVdLMGQ?oc=5",
+      "classification": "unverified_signal",
+      "confidence": "low"
+    },
+    {
+      "id": "5fdbf76c0920",
+      "source": "x",
+      "title": "Ontario WSIB rules cut off benefits for older injured workers as more people work past 65 https://t.co/0MgaG4ms4v",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-20",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/TorontoStar/status/2123770590062399744",
+      "classification": "unclassified",
+      "confidence": "unknown"
+    },
+    {
+      "id": "3a8982634e7e",
+      "source": "x",
+      "title": "🚧 Injured on the job?  Medical bills, lost wages, and denied workers' comp claims can be overwhelming.  At TozLaw, our experienced Scranton attorneys help injured workers throughout #NortheasternPA un",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-11-20",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/Toz_Law/status/2123835457737748922",
+      "classification": "unclassified",
+      "confidence": "unknown"
+    },
+    {
+      "id": "0aeb63023e23",
+      "source": "x",
+      "title": "@SylviaJonesMPP @fordnation Injured workers cut off from WSIB and others working in dangerous environments don’t feel protected.",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-20",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/CmnSnc/status/2123830227310702639",
+      "classification": "unclassified",
+      "confidence": "unknown"
+    },
+    {
+      "id": "6c270153fb20",
+      "source": "x",
+      "title": "Fanshawe College opens the @WSIB Centre of Excellence in Immersive Technologies Simulation for Workplace Safety. https://t.co/TXAh1hU8i5",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-20",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/wellingtonworks/status/2123790722385977851",
+      "classification": "unclassified",
+      "confidence": "unknown"
+    },
+    {
+      "id": "b267f8dc4f31",
+      "source": "x",
+      "title": "Have you shared the news yet?  Thunder Bay is speaking up for injured workers!  A media conference calling on @fordnation to fix WSIB, featuring @LiseVaugeois , MPP, and Harry Goslin, President of CUP",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-20",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/tbiwsg/status/2123609787963253239",
+      "classification": "unclassified",
+      "confidence": "unknown"
+    },
+    {
+      "id": "c7e47a398be6",
+      "source": "x",
+      "title": "Behind every WSIB claim is a person.  A worker. A parent. A family. Someone whose life changed because they were injured at work.  Injured workers deserve timely services, fair treatment &amp; meaning",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-20",
+      "flywheels": [
+        "evidence"
+      ],
+      "url": "https://x.com/tbiwsg/status/2123561664775590318",
+      "classification": "unclassified",
+      "confidence": "unknown"
+    },
+    {
+      "id": "0895a1390a65",
+      "source": "x",
+      "title": "The Workers’ Compensation Board has adopted changes to deposition fees and procedures, effective 𝗝𝗮𝗻𝘂𝗮𝗿𝘆 𝟭, 𝟮𝟬𝟮𝟳.​  Check out the official announcement to understand the changes and how they may affec",
+      "communities": [
+        "injured_workers"
+      ],
+      "jurisdiction": "INTL",
+      "date": "2026-11-20",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/medtrx_rcm/status/2123763296784318687",
+      "classification": "unclassified",
+      "confidence": "unknown"
+    },
+    {
+      "id": "c5bd12d35b0a",
+      "source": "x",
+      "title": "It all hits at once &amp; ODSP doesn't help w/ any of it. Disabled single mom w/ disabled family.  $60 med appt + $250 overdue utilities + $200 euthanasia - URGENT. 51 ppl $10 each covers it all, anyt",
       "communities": [
         "disability",
-        "elderly"
+        "welfare_social"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "flywheels": [
-        "evidence",
         "knowledge"
       ],
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMmpLb19qZFFlNUt1NXJtcGUxNGFEbEY1UUIyejFKVE5WamVOTFl3SE41dHpDLWdfRXIzTWE0YkpsQTJwZnRSNi1oV3NyR2xkcXhCNmFPd18zVmV6OG9FS3Bub0E0XzhqNjNvX0FyR2VDMXZHWWtnMWluRkVQSGF2VlR0Vmc2UU9JdnRUeEdaQU9Ia3FmbkJ2bXVxVGJ3M2ZkaUNz?oc=5"
+      "url": "https://x.com/bfitzinAR/status/2123805379519803612",
+      "classification": "unclassified",
+      "confidence": "unknown"
     },
     {
-      "id": "news-e5ca29729c16",
-      "source": "news",
-      "title": "Applications open for grants for education and equipment for disabled people with long-term support needs - reykjavik.is",
+      "id": "9c92f215f12a",
+      "source": "x",
+      "title": "ODSP mom desperate for help for an appointment goal $60 please if you can help e-transfer panther226@hotmail.com pls repost @nejsnave @mutualaidinca @Ciel2114 @bfitzinAR and all who can I also need he",
+      "communities": [
+        "disability",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-20",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/JTkksmom/status/2123771132415512634",
+      "classification": "unclassified",
+      "confidence": "unknown"
+    },
+    {
+      "id": "11439a8a73c6",
+      "source": "x",
+      "title": "@fey_photeine @PierrePoilievre According to the 2026 Budget, 515,000 people get the Canada Disability Benefit.  Over 1.5 million disabled Canadians live in poverty. What other benefit disqualifies 2/3",
+      "communities": [
+        "disability",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-FED",
+      "date": "2026-11-20",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/TylerStack/status/2123818582727340116",
+      "classification": "unclassified",
+      "confidence": "unknown"
+    },
+    {
+      "id": "1e08998e3bef",
+      "source": "x",
+      "title": "Not once have I seen you fight for the Canada disability benefit to stop punishing disabled parents with claw backs. Not once have I seen you advocate for disabled Canadians including single parents r",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-FED",
+      "date": "2026-11-20",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/MY_KINDA_SEX_ED/status/2123766556773548113",
+      "classification": "unclassified",
+      "confidence": "unknown"
+    },
+    {
+      "id": "ccbaa884e2a4",
+      "source": "x",
+      "title": "@PierrePoilievre Not once have I seen you fight for the Canada disability benefit to stop punishing disabled parents with claw backs. Not once have I seen you advocate for disabled Canadians including",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-FED",
+      "date": "2026-11-20",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/MY_KINDA_SEX_ED/status/2123766541585949131",
+      "classification": "unclassified",
+      "confidence": "unknown"
+    },
+    {
+      "id": "5a54111322b1",
+      "source": "x",
+      "title": "After 50 years of paying taxes into our social safety net, I never expected to be told I don’t qualify for a $75 emergency food voucher when I have nothing left in the bank. I have been on CPP Disabil",
+      "communities": [
+        "disability"
+      ],
+      "jurisdiction": "CA-FED",
+      "date": "2026-11-20",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/ShelleyFos4906/status/2123495689535807566",
+      "classification": "unclassified",
+      "confidence": "unknown"
+    },
+    {
+      "id": "d95d474c4805",
+      "source": "x",
+      "title": "@Joe_Meyer1 An Indian can also receive a CPP Disability pension because the social security agreement allows periods of work/contributions in India to help satisfy Canada’s eligibility rules, while st",
+      "communities": [
+        "disability",
+        "welfare_social"
+      ],
+      "jurisdiction": "CA-ON",
+      "date": "2026-11-20",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/Coog49278065/status/2123454811576398229",
+      "classification": "unclassified",
+      "confidence": "unknown"
+    },
+    {
+      "id": "f6d4522073af",
+      "source": "x",
+      "title": "@mcarl77 It’s a good correction, thanks. It’s 20% paid as benefits other than retirement pension (disability, survivor, etc).   If you bring PRB into it (which is a contribution-based retirement benef",
       "communities": [
         "disability"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "flywheels": [
-        "evidence",
         "knowledge"
       ],
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbzhaVkR4MXVpVG9DZGlTSVgtd3gxSkhyRGwxQ0lHSzRORDRsUHBVZElKRmg4NG9Qa2thZjZpdHFKWmlldjNQeWdvSUZiY3d1N3ZGSkItVjlNUUNfVnhNZ2I5MW1QRWxBblpXdjFNQzVRVEwzMVFVRGhNaHQzQmZyaUt0cjBuejhLLVRlNmR1X1RSZ0Y1OUtPNzd6NnJXVl8tM3dvcElCbk9POXdBX3BOU3RRS2dRbmxNc2xsdnB1WQ?oc=5"
+      "url": "https://x.com/JasonWattBCC/status/2123422712047767621",
+      "classification": "unclassified",
+      "confidence": "unknown"
     },
     {
-      "id": "news-01dc6932cd53",
-      "source": "news",
-      "title": "Rail industry extends the Disabled Persons Railcard eligibility to help more people access discounted rail travel - Rail Delivery Group News",
+      "id": "4e435e63aa2e",
+      "source": "x",
+      "title": "AISH and ADAP update: Alberta confirmed this week that Armed Forces racial discrimination and harassment settlement payments, plus foster caregiver referral and support payments, are exempt.  They sho",
       "communities": [
         "disability"
       ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-19",
+      "jurisdiction": "CA-AB",
+      "date": "2026-11-20",
       "flywheels": [
-        "evidence",
-        "knowledge"
+        "evidence"
       ],
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaXM3TExxeUE0eUJnNjAtazAwN1BQTU1TRGFla2NVYUtkd3pLRVlqTTFPZ2NoeWpCRTdfVlE0U3FMb015TEpIbFpTZ2tYczIxZWVMU3N0TWtBX3N5cjF4TmpCME9QUUlPdS1ENzk5VV8wd2J2eGhXQWhXRDNuYUFXOTg2NVNOUXdFQ05HQ1NpYmRIbEdfaVpmYUREMWw3QVBYT3piNmF1NFA2U0NISUVKUDBGcUN3clNDb1dzTUhFOWlCS0RRYXprc1V4YmtyeHBUX2ppZEpWQUp1ZHBGSjlZOGlEU1dsdmxZNlE?oc=5"
+      "url": "https://x.com/zacharyweeks/status/2123833161692188727",
+      "classification": "unclassified",
+      "confidence": "unknown"
     },
     {
-      "id": "news-ddda6ae1accd",
-      "source": "news",
-      "title": "A Health Beliefs Model of Long‐Term Prescription Opioid Use for Chronic Pain - Wilson - 2026 - Pain Practice - Wiley Online Library",
+      "id": "f178983b8873",
+      "source": "x",
+      "title": "Katherine says being transitioned from AISH to ADAP has left her feeling scared and uncertain about her financial situation.  Will she slide deeper into poverty? Tell your story at: https://t.co/VTdGg",
       "communities": [
-        "disability"
+        "disability",
+        "welfare_social"
       ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-19",
+      "jurisdiction": "CA-AB",
+      "date": "2026-11-20",
       "flywheels": [
-        "evidence",
         "knowledge"
       ],
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50VjV0YUQ2MWdqRjlDU3pnYWdFSjlaMkF3bnUzZmJtSHhqNnU2dklJeXVmVU1KN0tadFZZVjRRWUx2Ulh4dm1qRDd3azJsbjlkejFqdTZHV3ZTS0xwWlBKeXMxVFpvUFdyNzNz?oc=5"
+      "url": "https://x.com/InclusionAB/status/2123512103017541854",
+      "classification": "unclassified",
+      "confidence": "unknown"
     },
     {
-      "id": "news-e25ca739e0de",
-      "source": "news",
-      "title": "Chronic pain can be treated — so why are millions still suffering? - Nature",
+      "id": "3481aaae4e11",
+      "source": "x",
+      "title": "15% discount on all on-demand #accessibility webinars when you purchase 3+ tickets.  https://t.co/2s6PLWQEva  #AODA #localgov #cdnpoli #onpoli #onmuni #municipalworld #mbpoli #Associations @FCM_online",
       "communities": [
-        "disability"
+        "accessibility"
       ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-19",
+      "jurisdiction": "CA-FED",
+      "date": "2026-11-20",
       "flywheels": [
-        "evidence",
         "knowledge"
       ],
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80UE9IX203MWJxX2VPa1AwX0x0RUp0RmRsQ242RklUeFRyNENiYWRNNnRHU25LVWxiaW1OaUd5YnFJczJPVmM3TG9sY29BWm1EcGJqNXU0OGJjMVZNTm1RcTlPREtoaVNXUWxlbTBRQQ?oc=5"
+      "url": "https://x.com/AODAontario/status/2123779144798367768",
+      "classification": "unclassified",
+      "confidence": "unknown"
     },
     {
-      "id": "news-6277c42ab93b",
-      "source": "news",
-      "title": "Grad party at long-term care home gives new meaning to 'senior prom' - CBC",
-      "communities": [
-        "elderly"
-      ],
-      "jurisdiction": "CA-ON",
-      "date": "2026-11-19",
-      "flywheels": [
-        "evidence",
-        "knowledge"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTDBveDI4M1VsdlVlWXVjYVB1YXBWX3hnQzNaTXVFZDR6NmxTd3VpMk1GZjlHUm90b1NfZGhuLXpwcFN5bFFIdVprbklIaFdjVFEteHQxNlNiZ1RyMFdrSF9ibEdSeHItT2ZtS3RsVWh0Q0QydERqNkF0T3FsQW1BVW9VTExjZw?oc=5"
-    },
-    {
-      "id": "news-49e4a45f84ef",
-      "source": "news",
-      "title": "Cree family worries about 97-year-old elder, needing long-term care far from home and culture - CBC",
+      "id": "34e9a50a72ca",
+      "source": "x",
+      "title": "#FeelGoodFriday    Ontario MPP (Minister for Seniors &amp; Accessibility) becomes the oldest ever serving MPP at age 90y!",
       "communities": [
         "elderly",
-        "welfare_social",
-        "indigenous"
+        "accessibility"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "flywheels": [
-        "evidence",
         "knowledge"
       ],
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTlhkaW9qWWctbGdHend5YzVQaFRqOElHWDAtMERiRnU0d21zMktQeGJBWjdnc2lnQ3IxdVVpRk9ZSXRDVlNxSFhjdGFfZVNMdTFQT0NtMTFJNGlMZVpnYTZOdUpBeUxOMGtCMS1xanVZLW5wbzJ3LVhyV1NCbEVGNXY5cE9ESTlPNTFpcVU4bEVJNXpSZWtfakVBNTBUZ1FK?oc=5"
+      "url": "https://x.com/ActiveAgingCda/status/2123768701979893930",
+      "classification": "unclassified",
+      "confidence": "unknown"
     },
     {
-      "id": "2ed20eddc28e",
-      "source": "manual_curation",
-      "title": "ODSP (Ontario)",
+      "id": "2ff3f139f85b",
+      "source": "x",
+      "title": "...funded by the Government of Canada and implemented by the UNDP.  Designed with accessibility and inclusivity at its core, the app provides Jamaicans with easier access to justice services and infor",
       "communities": [
-        "disability"
+        "accessibility"
+      ],
+      "jurisdiction": "CA-FED",
+      "date": "2026-11-20",
+      "flywheels": [
+        "knowledge"
+      ],
+      "url": "https://x.com/mojofficialjm/status/2123558175039246465",
+      "classification": "unclassified",
+      "confidence": "unknown"
+    },
+    {
+      "id": "26c8206dfa59",
+      "source": "x",
+      "title": "Businesses in Canada can enhance their accessibility by obtaining a toll-free number, allowing customers to reach them without incurring charges. More information can be found here: https://t.co/gYONT",
+      "communities": [
+        "accessibility"
       ],
       "jurisdiction": "CA-ON",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "flywheels": [
         "knowledge"
       ],
-      "url": "https://www.ontario.ca/page/ontario-disability-support-program"
-    },
-    {
-      "id": "adea097d324a",
-      "source": "manual_curation",
-      "title": "VAC Disability Benefits",
-      "communities": [
-        "veterans"
-      ],
-      "jurisdiction": "CA-FED",
-      "date": "2026-11-19",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://veterans.gc.ca/en/financial-programs-and-services/compensation-illness-or-injury/disability-benefits"
-    },
-    {
-      "id": "23ff6e6ae8f7",
-      "source": "manual_curation",
-      "title": "VRAB review & appeal hearings",
-      "communities": [
-        "veterans"
-      ],
-      "jurisdiction": "CA-FED",
-      "date": "2026-11-19",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://vrab-tacra.gc.ca/en/what-expect/review-and-appeal-hearings/guide-review-and-appeal-hearings"
-    },
-    {
-      "id": "d67a697e850e",
-      "source": "manual_curation",
-      "title": "Veterans Ombudsman",
-      "communities": [
-        "veterans"
-      ],
-      "jurisdiction": "CA-FED",
-      "date": "2026-11-19",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://ombudsman-veterans.gc.ca/en"
-    },
-    {
-      "id": "45d7241986ab",
-      "source": "manual_curation",
-      "title": "Veterans Independence Program",
-      "communities": [
-        "veterans"
-      ],
-      "jurisdiction": "CA-FED",
-      "date": "2026-11-19",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://veterans.gc.ca/en/housing-and-home-life/help-home/veterans-independence-program"
-    },
-    {
-      "id": "d53501bc87f1",
-      "source": "manual_curation",
-      "title": "NIHB - Non-Insured Health Benefits",
-      "communities": [
-        "indigenous"
-      ],
-      "jurisdiction": "CA-FED",
-      "date": "2026-11-19",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.sac-isc.gc.ca/eng/1572537161086/1572537234517"
-    },
-    {
-      "id": "8f4795045671",
-      "source": "manual_curation",
-      "title": "Jordan's Principle",
-      "communities": [
-        "indigenous"
-      ],
-      "jurisdiction": "CA-FED",
-      "date": "2026-11-19",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://www.sac-isc.gc.ca/eng/1568396042341/1568396159824"
-    },
-    {
-      "id": "9f945ae07cfd",
-      "source": "manual_curation",
-      "title": "Inuit Child First Initiative",
-      "communities": [
-        "indigenous"
-      ],
-      "jurisdiction": "CA-FED",
-      "date": "2026-11-19",
-      "flywheels": [
-        "knowledge"
-      ],
-      "url": "https://isc.gc.ca/eng/1536348095773/1536348148664"
+      "url": "https://x.com/StoneAmpSeo/status/2123464004848738579",
+      "classification": "unclassified",
+      "confidence": "unknown"
     }
   ],
-  "generated": "2026-11-19"
+  "generated": "2026-11-23"
 }
