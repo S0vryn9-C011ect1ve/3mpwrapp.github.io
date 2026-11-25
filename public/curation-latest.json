@@ -1,85 +1,71 @@
 {
-  "date": "2026-11-24",
-  "timestamp": "2026-11-24T22:01:52.976Z",
-  "count": 11,
+  "date": "2026-11-25",
+  "timestamp": "2026-11-25T21:16:30.954Z",
+  "count": 9,
   "minScore": 3.5,
   "items": [
     {
       "title": "The Disability Bulletin",
       "link": "https://linktr.ee/thedisabilitybulletin",
-      "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
+      "description": "The Disability Bulletin covers disability rights news, advocacy updates, and community stories from across Canada. Visit for the latest issue.",
       "score": 10,
-      "pubDate": "2026-11-24T22:01:52.972Z"
+      "pubDate": "2026-11-25T21:16:30.947Z"
     },
     {
-      "title": "Canada can't retrofit millions of homes one project at a time",
-      "link": "https://policyoptions.irpp.org/2026/11/building-retrofits-canada/",
-      "description": "Buried beneath the headlines about heat pump rebates in Prime Minister Mark Carney's latest retrofit announcement is a $107-million investment that could help transform how Canada retrofits its buildings. The federal government is renewing the Deep Retrofit Accelerator Initiative (DRAI), which supports approaches that make building retrofits more accessible, efficient and scalable. It's a significant […]",
-      "score": 21.7,
-      "pubDate": "Mon, 16 Nov 2026 11:30:00 +0000"
+      "title": "Ottawa doesn’t have a monopoly on First Nations democracy",
+      "link": "https://policyoptions.irpp.org/2026/11/first-nations-democracy-elections/",
+      "description": "When Manitoba Premier Wab Kinew called recently for the Indian Act to be repealed, he restarted a debate about the federal government’s policies with respect to First Nations. Kinew received pushback from some chiefs and academics who see the proposal as a distraction from more urgent matters, especially concerns about Bill C-39, the Building Canada […]",
+      "score": 25.6,
+      "pubDate": "Wed, 25 Nov 2026 11:30:00 +0000"
     },
     {
-      "title": "Weighing Ottawa’s $600-million alternative to the Netflix tax",
-      "link": "https://policyoptions.irpp.org/2026/11/canadian-content-funding/",
-      "description": "CTV’s Vassy Kapelos grilled culture and identity minister Marc Miller in November on the federal government’s pivot from a $200-million annual Netflix tax on foreign-owned streamers to a $600-million boost to media funds supporting Canadian content. The details of that taxpayer-funded $600 million were made public Nov. 8. The Online Streaming Act updated the Broadcasting […]",
-      "score": 21.5,
-      "pubDate": "Tue, 24 Nov 2026 11:30:00 +0000"
+      "title": "Carney Wants to End Homelessness. Some Humble Advice",
+      "link": "https://thetyee.ca/Analysis/2026/11/25/Carney-Wants-End-Homelessness-Advice/",
+      "description": "Canada’s studied and tested model is called Housing First. Start there.",
+      "score": 16.9,
+      "pubDate": "Wed, 25 Nov 2026 08:40:00 +0000"
     },
     {
-      "title": "Manitoba Government Investing in Paramedic Training to Strengthen Emergency Care",
-      "link": "https://news.gov.mb.ca/news/index.html?item=76219",
+      "title": "After the rupture: Canada’s pivot away from the U.S. must not stop at China",
+      "link": "https://policyoptions.irpp.org/2026/11/china-trade-diversification/",
+      "description": "The recent elections in the United States resulted in a decisive victory for Democrats, who regained control of both the House and the Senate, and handed the Republicans one of the worst midterm defeats in decades. What would appear to be a vote of non-confidence in Donald Trump is likely to hinder many of his […]",
+      "score": 17.6,
+      "pubDate": "Tue, 17 Nov 2026 14:58:48 +0000"
+    },
+    {
+      "title": "Planning for competition",
+      "link": "https://policyoptions.irpp.org/2026/11/canada-competition-plan/",
+      "description": "Canada needs more competition. On that, there is something close to an economic consensus. The OECD, IMF (Page 22) and Bank of Canada have all made the case that stronger competition and business dynamism are essential to lifting productivity. Higher productivity, in turn, is key to making life more affordable. Ottawa has already started to […]",
+      "score": 14.15,
+      "pubDate": "Tue, 17 Nov 2026 11:24:00 +0000"
+    },
+    {
+      "title": "Manitoba Government Provides Up to $100,000 to Support Repairs to North Winnipeg Nomads Football Field",
+      "link": "https://news.gov.mb.ca/news/index.html?item=76220",
       "description": "",
-      "score": 17.1,
-      "pubDate": "Tue, 24 Nov 2026 11:15:00 EST"
+      "score": 9.9,
+      "pubDate": "Tue, 24 Nov 2026 18:00:00 EST"
     },
     {
-      "title": "Canada's hockey hypocrisy",
-      "link": "https://rabble.ca/politics/canadian-politics/canadas-hockey-hypocrisy/",
+      "title": "Manitoba Government Invests in Expanded Supports for Youth in Northern Manitoba",
+      "link": "https://news.gov.mb.ca/news/index.html?item=75977",
       "description": "",
-      "score": 10.5,
-      "pubDate": "Tue, 24 Nov 2026 21:53:58 +0000"
+      "score": 9.9,
+      "pubDate": "Mon, 09 Nov 2026 14:37:00 EST"
     },
     {
-      "title": "BC’s Housing Fix? Build a Wealth Fund out of Concrete and Timber",
-      "link": "https://thetyee.ca/Analysis/2026/11/24/BC-Housing-Fix-Build-Wealth-Fund/",
-      "description": "How a public developer can make homes affordable by cutting delays and capital costs while creating an asset the province keeps.",
-      "score": 11.55,
-      "pubDate": "Tue, 24 Nov 2026 08:10:00 +0000"
+      "title": "The Oil Spill That Killed Over 50,000 Seabirds",
+      "link": "https://thetyee.ca/Culture/2026/11/25/The-Seabird-Trials-Excerpt/",
+      "description": "Before BC scientist Harry Carter helped win a landmark settlement, another tragedy struck the coast. An excerpt from ‘The Seabird Trials.’",
+      "score": 5,
+      "pubDate": "Wed, 25 Nov 2026 08:20:00 +0000"
     },
     {
-      "title": "Manitoba Government Reduces Spending on Nursing and Health-Care Aide Agencies by Nearly $50 Million",
-      "link": "https://news.gov.mb.ca/news/index.html?item=76079",
+      "title": "Manitoba Government Working to Secure Five Speech-Language Pathology Training Seats for Manitoba Students",
+      "link": "https://news.gov.mb.ca/news/index.html?item=76237",
       "description": "",
-      "score": 14.6,
-      "pubDate": "Mon, 16 Nov 2026 15:59:00 EST"
-    },
-    {
-      "title": "Canadian police are using Grand Theft Auto to sanitize militarization to the public",
-      "link": "https://rabble.ca/politics/canadian-politics/canadian-police-are-using-grand-theft-auto-to-sanitize-militarization-to-the-public/",
-      "description": "",
-      "score": 8.4,
-      "pubDate": "Tue, 24 Nov 2026 19:57:35 +0000"
-    },
-    {
-      "title": "It’s Time to Update the BC Home Owner Grant Program",
-      "link": "https://thetyee.ca/Opinion/2026/11/24/Update-BC-Home-Owner-Grant-Redistribute-Dollars-Most-Needed/",
-      "description": "BC is alone in redistributing nearly a billion dollars to most homeowners, regardless of income.",
-      "score": 8.4,
-      "pubDate": "Tue, 24 Nov 2026 19:41:00 +0000"
-    },
-    {
-      "title": "Manitoba Joins the Organisation Internationale de la Francophonie",
-      "link": "https://news.gov.mb.ca/news/index.html?item=76078",
-      "description": "",
-      "score": 4.5,
-      "pubDate": "Mon, 16 Nov 2026 15:08:00 EST"
-    },
-    {
-      "title": "Province Reminds Manitobans Clocks will not Change this Weekend",
-      "link": "https://news.gov.mb.ca/news/index.html?item=75940",
-      "description": "",
-      "score": 4.5,
-      "pubDate": "Sat, 31 Oct 2026 10:00:00 CDT"
+      "score": 7.5,
+      "pubDate": "Wed, 25 Nov 2026 13:27:00 EST"
     }
   ]
 }
