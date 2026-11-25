@@ -1,12 +1,12 @@
 {
   "summary": {
-    "files": 854,
+    "files": 856,
     "html_lang_missing": 6,
     "imgs_no_alt": 0,
-    "links_no_name": 757,
-    "controls_no_label": 4168,
-    "broken_internal": 1767,
-    "duplicate_ids": 627
+    "links_no_name": 759,
+    "controls_no_label": 4178,
+    "broken_internal": 1771,
+    "duplicate_ids": 630
   },
   "broken": [
     "404.html -> //www.clarity.ms",
@@ -829,6 +829,10 @@
     "curation\\news\\2026\\11\\20\\daily-curation\\index.html -> //www.googletagmanager.com",
     "curation\\news\\2026\\11\\21\\daily-curation\\index.html -> //www.clarity.ms",
     "curation\\news\\2026\\11\\21\\daily-curation\\index.html -> //www.googletagmanager.com",
+    "curation\\news\\2026\\11\\23\\daily-curation\\index.html -> //www.clarity.ms",
+    "curation\\news\\2026\\11\\23\\daily-curation\\index.html -> //www.googletagmanager.com",
+    "curation\\news\\2026\\11\\24\\daily-curation\\index.html -> //www.clarity.ms",
+    "curation\\news\\2026\\11\\24\\daily-curation\\index.html -> //www.googletagmanager.com",
     "data-limitations\\index.html -> //www.clarity.ms",
     "data-limitations\\index.html -> //www.googletagmanager.com",
     "data-ownership\\index.html -> //www.clarity.ms",
