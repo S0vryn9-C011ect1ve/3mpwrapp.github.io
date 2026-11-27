@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-27",
+  "timestamp": "2026-11-27T20:49:43.180Z",
+  "count": 8,
+  "minScore": 3.5,
+  "items": [
+    {
+      "title": "The Disability Bulletin",
+      "link": "https://linktr.ee/thedisabilitybulletin",
+      "description": "Visit for the latest disability rights news, advocacy updates, and community stories from across Canada.",
+      "score": 10,
+      "pubDate": "2026-11-27T20:49:43.177Z"
+    },
+    {
+      "title": "New Report Dissects Alberta’s Health-Care Mess",
+      "link": "https://thetyee.ca/News/2026/11/27/New-Report-Alberta-Health-Care-Mess/",
+      "description": "Restructuring ignored advice from health-care professionals, raising costs and sowing chaos, concludes Parkland study.",
+      "score": 17,
+      "pubDate": "Fri, 27 Nov 2026 08:40:00 +0000"
+    },
+    {
+      "title": "The Tyee Podcast: Staring Down Canada’s New Pipeline",
+      "link": "https://thetyee.ca/Tyeenews/2026/11/27/Tyee-Podcast-Canada-New-Pipeline/",
+      "description": "Biodiversity reporter Sarah Cox examines the dangers of Mark Carney and Danielle Smith’s new project‚ and introduces an unlikely opponent.",
+      "score": 13.5,
+      "pubDate": "Fri, 27 Nov 2026 08:20:00 +0000"
+    },
+    {
+      "title": "Sussanne Skidmore Re-Elected to Lead BC Federation of Labour",
+      "link": "https://thetyee.ca/News/2026/11/26/Sussanne-Skidmore-Elected-BC-Federation-Labour-President-Again/",
+      "description": "BCGEU president Paul Finch said a narrow election highlights dissatisfaction within the federation.",
+      "score": 9.8,
+      "pubDate": "Thu, 26 Nov 2026 23:10:00 +0000"
+    },
+    {
+      "title": "Manitoba Government Appoints New Clean Environment Commission Chair",
+      "link": "https://news.gov.mb.ca/news/index.html?item=76249",
+      "description": "",
+      "score": 10.1,
+      "pubDate": "Fri, 27 Nov 2026 14:11:00 EST"
+    },
+    {
+      "title": "Manitoba Government Introduces Comprehensive Presumptive Coverage Legislation for Firefighters",
+      "link": "https://news.gov.mb.ca/news/index.html?item=76247",
+      "description": "",
+      "score": 9.5,
+      "pubDate": "Thu, 26 Nov 2026 16:26:00 EST"
+    },
+    {
+      "title": "Manitoba Government's Meth Sweep Results in 274 Per Cent Increase in Meth Seizures",
+      "link": "https://news.gov.mb.ca/news/index.html?item=76248",
+      "description": "",
+      "score": 7.5,
+      "pubDate": "Fri, 27 Nov 2026 11:48:00 EST"
+    },
+    {
+      "title": "Nurses' unions call for tax credit as health care pressures rise",
+      "link": "https://rabble.ca/labour/nurses-unions-call-for-tax-credit-as-health-care-pressures-rise/",
+      "description": "",
+      "score": 7.1,
+      "pubDate": "Fri, 27 Nov 2026 18:49:14 +0000"
+    }
+  ]
+}
